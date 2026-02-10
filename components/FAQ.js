@@ -5,7 +5,7 @@ import { useState } from 'react';
 const faqs = [
   {
     q: "Do you have any discounts?",
-    a: "Yes! Use code FIRST30 at checkout for 30% off — that brings your playbook to just $27.30. This is a limited launch special.",
+    a: "Yes! Use code FIRST30 at checkout for 30% off — that brings your playbook to just $27.30. This is a limited time offer.",
   },
   {
     q: "Can't I just use ChatGPT for this?",
