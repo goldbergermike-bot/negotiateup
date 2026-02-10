@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import Nav from '../components/Nav';
+import PromoBanner from '../components/PromoBanner';
 import Hero from '../components/Hero';
 import StatBar from '../components/StatBar';
 import TwoPaths from '../components/TwoPaths';
@@ -14,12 +15,14 @@ import WhyNotChatGPT from '../components/WhyNotChatGPT';
 import Guarantee from '../components/Guarantee';
 import Pricing from '../components/Pricing';
 import FAQ from '../components/FAQ';
+import EmailCapture from '../components/EmailCapture';
 import FinalCTA from '../components/FinalCTA';
 import Footer from '../components/Footer';
 
 export default function Home() {
   return (
     <main>
+      <PromoBanner />
       <Nav />
       <Hero />
       <StatBar />
@@ -33,6 +36,7 @@ export default function Home() {
       <Pricing />
       <Guarantee />
       <FAQ />
+      <EmailCapture />
       <FinalCTA />
       <Footer />
     </main>

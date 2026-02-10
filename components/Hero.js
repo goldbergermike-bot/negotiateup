@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section className="pt-36 pb-20 px-6 max-w-[1100px] mx-auto text-center">
       <div className="inline-block bg-accent-light text-accent font-semibold text-xs px-4 py-1.5 rounded-full mb-6 tracking-wider uppercase animate-fade-up">
-        🎯 Personalized Playbook · Ready in 10 Minutes
+        🎯 Personalized Playbook · Ready in 10 Minutes · 30% Off Launch Special
       </div>
 
       <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl leading-tight mb-6 max-w-[820px] mx-auto">
