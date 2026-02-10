@@ -19,12 +19,17 @@ export default function Nav() {
         <a href="/" className="font-serif text-2xl text-ink flex items-center gap-2">
           <span className="text-accent text-xl">↑</span> SalaryPrep
         </a>
-        <a
-          href="#pricing"
-          className="bg-accent text-white px-6 py-2.5 rounded-lg font-semibold text-sm hover:bg-accent-glow transition-all hover:-translate-y-0.5"
-        >
-          Get Your Playbook →
-        </a>
+        <div className="flex items-center gap-6">
+          <a href="/blog" className="text-muted text-sm font-medium hover:text-ink transition-colors">
+            Blog
+          </a>
+          <a
+            href="/#pricing"
+            className="bg-accent text-white px-6 py-2.5 rounded-lg font-semibold text-sm hover:bg-accent-glow transition-all hover:-translate-y-0.5"
+          >
+            Get Your Playbook →
+          </a>
+        </div>
       </div>
     </nav>
   );
