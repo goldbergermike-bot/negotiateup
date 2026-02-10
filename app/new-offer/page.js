@@ -97,7 +97,32 @@ function NewOfferContent() {
           <p className="text-muted mb-8">
             It will be delivered to <strong className="text-ink">{email}</strong> in under 10 minutes.
           </p>
-          <p className="text-sm text-muted">Check your spam folder if you don't see it.</p>
+          <p className="text-sm text-muted mb-10">Check your spam folder if you don't see it.</p>
+          
+          {/* Share Discount Section */}
+          <div className="bg-white rounded-2xl p-8 border-2 border-accent/20 text-left">
+            <div className="text-center mb-4">
+              <span className="text-3xl">🎁</span>
+              <h2 className="font-serif text-xl mt-2">Share 30% Off With a Friend</h2>
+              <p className="text-muted text-sm mt-1">Know someone who's negotiating? Send them a discount.</p>
+            </div>
+            <div className="bg-accent-light rounded-xl p-4 text-center mt-4">
+              <p className="text-xs text-muted uppercase tracking-wider mb-1">Discount Code</p>
+              <p className="font-mono text-2xl font-bold text-accent tracking-wider">FIRST30</p>
+              <p className="text-xs text-muted mt-2">30% off → only $27.30 for their playbook</p>
+            </div>
+            <div className="mt-4 flex gap-2">
+              <button
+                onClick={() => {
+                  navigator.clipboard.writeText('Hey! I just used SalaryPrep to get a personalized salary negotiation playbook. Use code FIRST30 for 30% off → https://www.salaryprep.com');
+                  alert('Copied to clipboard!');
+                }}
+                className="flex-1 bg-accent text-white py-3 rounded-xl font-semibold text-sm hover:bg-accent-glow transition-all"
+              >
+                Copy Share Message
+              </button>
+            </div>
+          </div>
         </div>
       </div>
     );
