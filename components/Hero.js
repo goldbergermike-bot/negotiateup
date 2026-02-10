@@ -32,13 +32,13 @@ export default function Hero() {
 
       <div className="mt-12 flex justify-center gap-10 flex-wrap text-muted text-sm">
         <span className="flex items-center gap-1.5">
-          ⭐ <strong className="text-ink">4.9/5</strong> average rating
+          🤖 Powered by <strong className="text-ink">advanced AI</strong>
         </span>
         <span className="flex items-center gap-1.5">
-          📄 <strong className="text-ink">2,400+</strong> playbooks delivered
+          ⏱️ Delivered in <strong className="text-ink">under 10 minutes</strong>
         </span>
         <span className="flex items-center gap-1.5">
-          💰 <strong className="text-ink">$8,200</strong> avg. salary increase
+          🔒 <strong className="text-ink">100% money-back</strong> guarantee
         </span>
       </div>
     </section>
