@@ -10,6 +10,7 @@ import HowItWorks from '../components/HowItWorks';
 import WhatYouGet from '../components/WhatYouGet';
 import Testimonials from '../components/Testimonials';
 import Comparison from '../components/Comparison';
+import WhyNotChatGPT from '../components/WhyNotChatGPT';
 import Guarantee from '../components/Guarantee';
 import Pricing from '../components/Pricing';
 import FAQ from '../components/FAQ';
@@ -26,8 +27,9 @@ export default function Home() {
       <TwoPaths />
       <HowItWorks />
       <WhatYouGet />
-      <Comparison />
       <Testimonials />
+      <Comparison />
+      <WhyNotChatGPT />
       <Pricing />
       <Guarantee />
       <FAQ />
