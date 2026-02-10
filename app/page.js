@@ -22,14 +22,14 @@ export default function Home() {
       <Nav />
       <Hero />
       <StatBar />
-      <TwoPaths />
       <PainPoints />
+      <TwoPaths />
       <HowItWorks />
       <WhatYouGet />
-      <Testimonials />
       <Comparison />
-      <Guarantee />
+      <Testimonials />
       <Pricing />
+      <Guarantee />
       <FAQ />
       <FinalCTA />
       <Footer />
