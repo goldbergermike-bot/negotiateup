@@ -17,14 +17,14 @@ export default function Comparison() {
   return (
     <section className="py-24 px-6">
       <div className="max-w-[800px] mx-auto">
-        <h2 className="font-serif text-3xl md:text-4xl text-center mb-12">Why NegotiateUp?</h2>
+        <h2 className="font-serif text-3xl md:text-4xl text-center mb-12">Why SalaryPrep?</h2>
         <div className="overflow-x-auto">
           <table className="w-full">
             <thead>
               <tr className="border-b-2 border-border">
                 <th className="text-left p-4 text-xs uppercase tracking-wider text-muted font-semibold"></th>
                 <th className="text-left p-4 text-xs uppercase tracking-wider text-muted font-semibold">ChatGPT / Google</th>
-                <th className="text-left p-4 text-xs uppercase tracking-wider text-accent font-semibold">NegotiateUp ✦</th>
+                <th className="text-left p-4 text-xs uppercase tracking-wider text-accent font-semibold">SalaryPrep ✦</th>
                 <th className="text-left p-4 text-xs uppercase tracking-wider text-muted font-semibold">Career Coach</th>
               </tr>
             </thead>

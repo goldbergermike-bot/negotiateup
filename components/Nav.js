@@ -17,7 +17,7 @@ export default function Nav() {
     }`} style={{ borderBottom: '1px solid var(--border)' }}>
       <div className="max-w-[1100px] mx-auto px-6 flex justify-between items-center h-16">
         <a href="/" className="font-serif text-2xl text-ink flex items-center gap-2">
-          <span className="text-accent text-xl">↑</span> NegotiateUp
+          <span className="text-accent text-xl">↑</span> SalaryPrep
         </a>
         <a
           href="#pricing"

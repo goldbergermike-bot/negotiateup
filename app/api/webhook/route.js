@@ -1,5 +1,5 @@
 // ============================================
-// NegotiateUp — Stripe Webhook Handler
+// SalaryPrep — Stripe Webhook Handler
 // ============================================
 // Handles payment confirmations from Stripe
 

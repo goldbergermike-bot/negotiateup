@@ -5,7 +5,7 @@ import { useState } from 'react';
 const faqs = [
   {
     q: "Can't I just use ChatGPT for this?",
-    a: "ChatGPT gives generic negotiation tips. NegotiateUp analyzes YOUR resume, YOUR offer (or current salary), and real market data to generate exact numbers, word-for-word scripts, and a strategy tailored to your company. It's 15 hours of research done in 10 minutes.",
+    a: "ChatGPT gives generic negotiation tips. SalaryPrep analyzes YOUR resume, YOUR offer (or current salary), and real market data to generate exact numbers, word-for-word scripts, and a strategy tailored to your company. It's 15 hours of research done in 10 minutes.",
   },
   {
     q: 'How is the "raise" playbook different from the "offer" playbook?',

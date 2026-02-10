@@ -1,5 +1,5 @@
 // ============================================
-// NegotiateUp — Main Playbook Generation API
+// SalaryPrep — Main Playbook Generation API
 // ============================================
 // Flow: Parse form + files → Call Claude AI → Generate PDF → Send email
 
