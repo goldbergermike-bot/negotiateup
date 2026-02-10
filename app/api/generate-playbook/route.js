@@ -21,10 +21,16 @@ export async function POST(req) {
     const type = formData.get('type'); // 'offer' or 'raise'
     const data = JSON.parse(formData.get('formData'));
 
-    // TODO: Verify Stripe session is valid and paid
-    // const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
-    // const session = await stripe.checkout.sessions.retrieve(sessionId);
-    // if (session.payment_status !== 'paid') throw new Error('Payment not completed');
+    // Verify Stripe session is valid and paid
+    const Stripe = (await import('stripe')).default;
+    const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
+    const session = await stripe.checkout.sessions.retrieve(sessionId);
+    if (session.payment_status !== 'paid') {
+      return NextResponse.json(
+        { error: 'Payment not completed. Please complete checkout first.' },
+        { status: 403 }
+      );
+    }
 
     // ---- EXTRACT TEXT FROM UPLOADED FILES ----
     const resumeFile = formData.get('resume');

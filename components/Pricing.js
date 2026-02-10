@@ -1,4 +1,5 @@
 'use client';
+
 export default function Pricing() {
   const handleCheckout = async (type) => {
     try {
@@ -10,6 +11,8 @@ export default function Pricing() {
       const data = await res.json();
       if (data.url) {
         window.location.href = data.url;
+      } else {
+        alert(data.error || 'Something went wrong. Please try again.');
       }
     } catch (err) {
       alert('Something went wrong. Please try again.');
