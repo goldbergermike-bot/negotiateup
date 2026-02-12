@@ -20,6 +20,12 @@ export default function Nav() {
           <span className="text-accent text-xl">↑</span> SalaryPrep
         </a>
         <div className="flex items-center gap-6">
+          <a href="/quiz" className="text-muted text-sm font-medium hover:text-ink transition-colors hidden sm:block">
+            Am I Underpaid?
+          </a>
+          <a href="/calculator" className="text-muted text-sm font-medium hover:text-ink transition-colors hidden sm:block">
+            Calculator
+          </a>
           <a href="/blog" className="text-muted text-sm font-medium hover:text-ink transition-colors">
             Blog
           </a>

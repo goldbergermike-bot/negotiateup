@@ -9,6 +9,38 @@ export const metadata = {
 
 const posts = [
   {
+    slug: 'negotiate-salary-big-tech',
+    title: 'How to Negotiate Salary at Amazon, Google & Big Tech (2026 Guide)',
+    excerpt: 'FAANG negotiation is a different game. Learn how to negotiate RSUs, signing bonuses, and total compensation at Amazon, Google, Meta, Apple, and Microsoft.',
+    date: 'February 12, 2026',
+    readTime: '14 min read',
+    tag: 'Big Tech',
+  },
+  {
+    slug: 'how-to-respond-lowball-offer',
+    title: 'How to Respond to a Lowball Job Offer (Without Burning the Bridge)',
+    excerpt: 'Got an offer that\'s way below expectations? Here\'s exactly what to say, how to counter professionally, and when it\'s time to walk away.',
+    date: 'February 12, 2026',
+    readTime: '10 min read',
+    tag: 'Negotiation',
+  },
+  {
+    slug: 'salary-negotiation-women',
+    title: 'Salary Negotiation for Women: Close the Pay Gap With These Strategies',
+    excerpt: 'Research-backed negotiation strategies that work. Overcome bias, negotiate confidently, and close the gender pay gap with proven techniques.',
+    date: 'February 12, 2026',
+    readTime: '11 min read',
+    tag: 'Strategy',
+  },
+  {
+    slug: 'get-raise-no-budget',
+    title: 'How to Get a Raise When Your Company Says "No Budget"',
+    excerpt: '8 proven strategies to get more money, better title, or improved comp — even when your manager says there\'s nothing in the budget.',
+    date: 'February 12, 2026',
+    readTime: '9 min read',
+    tag: 'Raises',
+  },
+  {
     slug: 'how-to-negotiate-salary-new-job',
     title: 'How to Negotiate Salary on a New Job Offer (2026 Guide)',
     excerpt: 'A step-by-step guide to negotiating your job offer with confidence — including what to say, when to say it, and the exact numbers to ask for.',
@@ -70,7 +102,22 @@ export default function BlogIndex() {
           ))}
         </div>
 
-        <div className="mt-16 bg-ink rounded-2xl p-10 text-center">
+        <div className="mt-16 grid md:grid-cols-2 gap-4">
+          <Link href="/quiz" className="bg-white rounded-xl p-6 border border-border hover:border-accent/40 hover:shadow-md transition-all block">
+            <span className="text-2xl">🤔</span>
+            <h3 className="font-serif text-lg mt-2 mb-1">Am I Underpaid? Quiz</h3>
+            <p className="text-muted text-sm">Compare your salary to market data in 60 seconds.</p>
+            <span className="text-accent text-sm font-semibold mt-2 inline-block">Take the quiz →</span>
+          </Link>
+          <Link href="/calculator" className="bg-white rounded-xl p-6 border border-border hover:border-accent/40 hover:shadow-md transition-all block">
+            <span className="text-2xl">🎯</span>
+            <h3 className="font-serif text-lg mt-2 mb-1">Counter-Offer Calculator</h3>
+            <p className="text-muted text-sm">Get the exact number to counter at — free.</p>
+            <span className="text-accent text-sm font-semibold mt-2 inline-block">Calculate now →</span>
+          </Link>
+        </div>
+
+        <div className="mt-12 bg-ink rounded-2xl p-10 text-center">
           <h2 className="font-serif text-2xl text-white mb-3">Skip the research. Get your playbook.</h2>
           <p className="text-white/60 mb-6">
             A personalized negotiation strategy with exact scripts, numbers, and a day-by-day plan.
