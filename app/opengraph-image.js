@@ -1,7 +1,7 @@
 import { ImageResponse } from 'next/og';
 
 export const runtime = 'edge';
-export const alt = 'SalaryPrep — Your Personalized Salary Negotiation Playbook';
+export const alt = 'NegotiateUp — Your Personalized Salary Negotiation Playbook';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
 
@@ -44,7 +44,7 @@ export default async function Image() {
         >
           <span style={{ fontSize: '42px', color: '#e8a838', fontWeight: 'bold' }}>↑</span>
           <span style={{ fontSize: '36px', color: '#ffffff', fontWeight: 'bold', letterSpacing: '-0.5px' }}>
-            SalaryPrep
+            NegotiateUp
           </span>
         </div>
 

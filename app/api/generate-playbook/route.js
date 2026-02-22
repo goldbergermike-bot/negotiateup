@@ -1,15 +1,13 @@
 // ============================================
-// SalaryPrep — Main Playbook Generation API
+// NegotiateUp — Main Playbook Generation API
 // ============================================
 // Flow: Parse form + files → Call Claude AI → Generate PDF → Send email
 
 import { NextResponse } from 'next/server';
-import Anthropic from '@anthropic-ai/sdk';
 import { getOfferPrompt, getRaisePrompt } from '../../../lib/prompts';
 import { generatePlaybookPDF } from '../../../lib/pdf-generator';
 import { sendPlaybookEmail } from '../../../lib/email';
-
-const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+import { logDelivery } from '../../../lib/analytics';
 
 export const maxDuration = 120; // Allow up to 2 min for generation (Vercel Pro)
 
@@ -52,6 +50,9 @@ export async function POST(req) {
 
     console.log(`Generating ${type} playbook for ${data.fullName}...`);
 
+    const Anthropic = (await import('@anthropic-ai/sdk')).default;
+    const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+
     const message = await anthropic.messages.create({
       model: 'claude-sonnet-4-20250514',
       max_tokens: 8000,
@@ -73,6 +74,18 @@ export async function POST(req) {
     // ---- SEND EMAIL ----
     await sendPlaybookEmail(data.email, data.fullName, pdfBuffer, type);
     console.log(`Email sent to ${data.email}`);
+
+    // ---- LOG DELIVERY ----
+    await logDelivery({
+      type,
+      email: data.email,
+      name: data.fullName,
+      company: data.companyName,
+      title: data.jobTitle,
+      sessionId,
+      pdfSize: pdfBuffer.length,
+      contentLength: playbookContent.length,
+    });
 
     return NextResponse.json({ success: true });
 
@@ -108,8 +121,14 @@ async function extractTextFromFile(file) {
       return '[Image uploaded — unable to extract text from image in this version. Please paste offer details in the text fields above for best results.]';
     }
 
-    // For .doc/.docx — basic fallback
-    // In production, you'd use mammoth.js or similar
+    // For .docx files, use mammoth
+    if (filename.endsWith('.docx')) {
+      const mammoth = (await import('mammoth')).default;
+      const result = await mammoth.extractRawText({ buffer });
+      return result.value;
+    }
+
+    // For .doc or other files — basic fallback
     return buffer.toString('utf-8').replace(/[^\x20-\x7E\n\r\t]/g, ' ').trim();
 
   } catch (err) {

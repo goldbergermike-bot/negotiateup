@@ -3,10 +3,10 @@ import Footer from '../../../components/Footer';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'How to Respond to a Lowball Job Offer (Without Burning the Bridge) — SalaryPrep',
+  title: 'How to Respond to a Lowball Job Offer (Without Burning the Bridge) — NegotiateUp',
   description: 'Got a lowball salary offer? Learn exactly what to say, how to counter professionally, and when to walk away. Includes scripts and email templates.',
   keywords: ['lowball offer', 'low salary offer', 'how to respond lowball', 'job offer too low', 'counter lowball offer', 'salary offer too low what to do'],
-  alternates: { canonical: 'https://www.salaryprep.com/blog/how-to-respond-lowball-offer' },
+  alternates: { canonical: 'https://www.negotiateup.com/blog/how-to-respond-lowball-offer' },
 };
 
 function CTA() {

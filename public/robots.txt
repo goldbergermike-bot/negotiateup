@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.salaryprep.com/sitemap.xml
+Sitemap: https://www.negotiateup.com/sitemap.xml

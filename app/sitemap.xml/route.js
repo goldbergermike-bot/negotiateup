@@ -1,5 +1,5 @@
 export async function GET() {
-  const baseUrl = 'https://www.salaryprep.com';
+  const baseUrl = 'https://www.negotiateup.com';
   const now = new Date().toISOString();
 
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>

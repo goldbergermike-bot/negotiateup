@@ -110,7 +110,7 @@ function RaiseContent() {
             <div className="mt-4 flex gap-2">
               <button
                 onClick={() => {
-                  navigator.clipboard.writeText('Hey! I just used SalaryPrep to get a personalized salary negotiation playbook. Use code FIRST30 for 30% off → https://www.salaryprep.com');
+                  navigator.clipboard.writeText('Hey! I just used NegotiateUp to get a personalized salary negotiation playbook. Use code FIRST30 for 30% off → https://www.negotiateup.com');
                   alert('Copied to clipboard!');
                 }}
                 className="flex-1 bg-blue text-white py-3 rounded-xl font-semibold text-sm hover:bg-[#245fa0] transition-all"

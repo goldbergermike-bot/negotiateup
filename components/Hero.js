@@ -5,7 +5,7 @@ export default function Hero() {
         🎯 Personalized Playbook · Ready in 10 Minutes · 30% Off Today
       </div>
 
-      <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl leading-tight mb-6 max-w-[820px] mx-auto">
+      <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl lg:text-6xl leading-tight mb-6 max-w-[820px] mx-auto">
         Get paid what you're{' '}
         <span className="text-accent relative">
           actually worth.
@@ -21,7 +21,7 @@ export default function Hero() {
       <div className="flex gap-4 justify-center items-center flex-wrap">
         <a
           href="#pricing"
-          className="bg-accent text-white px-10 py-4 rounded-xl font-semibold text-lg hover:bg-accent-glow transition-all hover:-translate-y-0.5 shadow-lg shadow-accent/25"
+          className="bg-accent text-white px-8 sm:px-10 py-4 rounded-xl font-semibold text-base sm:text-lg hover:bg-accent-glow transition-all hover:-translate-y-0.5 shadow-lg shadow-accent/25"
         >
           Get My Playbook →
         </a>
@@ -30,7 +30,7 @@ export default function Hero() {
         </a>
       </div>
 
-      <div className="mt-12 flex justify-center gap-10 flex-wrap text-muted text-sm">
+      <div className="mt-12 flex justify-center gap-4 md:gap-10 flex-wrap text-muted text-xs sm:text-sm">
         <span className="flex items-center gap-1.5">
           🤖 Powered by <strong className="text-ink">advanced AI</strong>
         </span>

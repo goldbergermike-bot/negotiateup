@@ -3,10 +3,10 @@ import Footer from '../../../components/Footer';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'How to Negotiate Salary at Amazon, Google & Big Tech (2026 Guide) — SalaryPrep',
+  title: 'How to Negotiate Salary at Amazon, Google & Big Tech (2026 Guide) — NegotiateUp',
   description: 'Learn how to negotiate a FAANG job offer. Covers Amazon, Google, Meta, Apple, and Microsoft compensation structure, signing bonuses, RSUs, and exact negotiation scripts.',
   keywords: ['negotiate salary Amazon', 'FAANG salary negotiation', 'negotiate Google offer', 'big tech compensation', 'Amazon total compensation', 'negotiate RSU', 'negotiate signing bonus'],
-  alternates: { canonical: 'https://www.salaryprep.com/blog/negotiate-salary-big-tech' },
+  alternates: { canonical: 'https://www.negotiateup.com/blog/negotiate-salary-big-tech' },
 };
 
 function CTA() {

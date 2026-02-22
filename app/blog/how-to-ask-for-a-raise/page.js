@@ -3,10 +3,10 @@ import Footer from '../../../components/Footer';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'How to Ask for a Raise: The Complete Playbook — SalaryPrep',
+  title: 'How to Ask for a Raise: The Complete Playbook — NegotiateUp',
   description: 'Step-by-step guide to asking for a raise. Includes how to build your business case, what to say to your manager, and how to handle every objection.',
   keywords: ['how to ask for a raise', 'asking for a raise', 'salary raise', 'negotiate raise', 'raise negotiation', 'ask for more money'],
-  alternates: { canonical: 'https://www.salaryprep.com/blog/how-to-ask-for-a-raise' },
+  alternates: { canonical: 'https://www.negotiateup.com/blog/how-to-ask-for-a-raise' },
 };
 
 function CTA() {

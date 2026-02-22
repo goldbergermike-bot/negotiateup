@@ -21,7 +21,7 @@ export default function Comparison() {
   return (
     <section className="py-24 px-6">
       <div className="max-w-[850px] mx-auto">
-        <h2 className="font-serif text-3xl md:text-4xl text-center mb-3">Why SalaryPrep?</h2>
+        <h2 className="font-serif text-3xl md:text-4xl text-center mb-3">Why NegotiateUp?</h2>
         <p className="text-muted text-center mb-12 text-lg">The quality of a career coach at a fraction of the price.</p>
         <div className="overflow-x-auto">
           <table className="w-full">
@@ -29,7 +29,7 @@ export default function Comparison() {
               <tr className="border-b-2 border-border">
                 <th className="text-left p-4 text-xs uppercase tracking-wider text-muted font-semibold"></th>
                 <th className="text-left p-4 text-xs uppercase tracking-wider text-muted font-semibold">ChatGPT / Free AI</th>
-                <th className="text-left p-4 text-xs uppercase tracking-wider text-accent font-semibold bg-accent-light/30 rounded-t-xl">SalaryPrep ✦</th>
+                <th className="text-left p-4 text-xs uppercase tracking-wider text-accent font-semibold bg-accent-light/30 rounded-t-xl">NegotiateUp ✦</th>
                 <th className="text-left p-4 text-xs uppercase tracking-wider text-muted font-semibold">Career Coach</th>
               </tr>
             </thead>

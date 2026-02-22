@@ -3,7 +3,7 @@ import Footer from '../../components/Footer';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Salary Negotiation Blog — SalaryPrep',
+  title: 'Salary Negotiation Blog — NegotiateUp',
   description: 'Expert salary negotiation tips, scripts, and strategies. Learn how to negotiate your job offer, ask for a raise, and get paid what you deserve.',
 };
 

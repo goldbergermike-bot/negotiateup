@@ -77,12 +77,12 @@ export default function CalculatorPage() {
               {/* Main Number */}
               <div className="bg-accent-light rounded-2xl p-8 mb-8">
                 <p className="text-xs text-accent uppercase tracking-wider font-semibold mb-1">Counter at</p>
-                <p className="font-serif text-6xl text-accent mb-1">{formatSalary(result.counter)}</p>
+                <p className="font-serif text-4xl sm:text-6xl text-accent mb-1">{formatSalary(result.counter)}</p>
                 <p className="text-accent font-semibold">+{result.pctIncrease}% above offer</p>
               </div>
 
               {/* Range */}
-              <div className="grid grid-cols-3 gap-4 mb-8">
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
                 <div className="bg-paper rounded-xl p-4">
                   <p className="text-xs text-muted mb-1">Conservative</p>
                   <p className="font-serif text-lg text-ink">{formatSalary(result.conservative)}</p>
@@ -202,12 +202,12 @@ export default function CalculatorPage() {
             {/* Experience */}
             <div className="mb-6">
               <label className="block text-sm font-semibold mb-2">Years of experience *</label>
-              <div className="grid grid-cols-3 gap-2">
+              <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
                 {['0-2 years', '3-5 years', '6-10 years', '11-15 years', '15+ years'].map((opt) => (
                   <button
                     key={opt}
                     onClick={() => update('experience', opt)}
-                    className={`py-2.5 px-3 rounded-lg border text-sm transition-all ${
+                    className={`py-3 px-3 rounded-lg border text-sm transition-all ${
                       data.experience === opt ? 'border-accent bg-accent-light text-accent font-semibold' : 'border-border hover:border-accent/50'
                     }`}
                   >

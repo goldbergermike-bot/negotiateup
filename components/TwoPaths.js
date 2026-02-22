@@ -15,7 +15,7 @@ export default function TwoPaths() {
 
       <div className="grid md:grid-cols-2 gap-6">
         {/* New Offer */}
-        <div className="bg-white border-2 border-accent rounded-2xl p-10 hover:-translate-y-1 transition-all hover:shadow-xl hover:shadow-accent/10">
+        <div className="bg-white border-2 border-accent rounded-2xl p-6 md:p-10 hover:-translate-y-1 transition-all hover:shadow-xl hover:shadow-accent/10">
           <span className="text-4xl mb-4 block">🤝</span>
           <h3 className="font-serif text-2xl text-accent mb-2">New Job Offer</h3>
           <p className="text-muted mb-6 leading-relaxed">
@@ -49,7 +49,7 @@ export default function TwoPaths() {
         </div>
 
         {/* Raise */}
-        <div className="bg-white border-2 border-blue rounded-2xl p-10 hover:-translate-y-1 transition-all hover:shadow-xl hover:shadow-blue/10">
+        <div className="bg-white border-2 border-blue rounded-2xl p-6 md:p-10 hover:-translate-y-1 transition-all hover:shadow-xl hover:shadow-blue/10">
           <span className="text-4xl mb-4 block">📈</span>
           <h3 className="font-serif text-2xl text-blue mb-2">Raise at Current Job</h3>
           <p className="text-muted mb-6 leading-relaxed">

@@ -238,7 +238,7 @@ export default function QuizPage() {
                   const text = isUnderpaid
                     ? `I just found out I might be underpaid by ${formatSalary(Math.abs(gap))}/year 😬 Take this free quiz to check yours →`
                     : `I just checked my salary against market data 💰 Take this free quiz →`;
-                  navigator.clipboard.writeText(text + ' https://www.salaryprep.com/quiz');
+                  navigator.clipboard.writeText(text + ' https://www.negotiateup.com/quiz');
                   alert('Copied to clipboard!');
                 }}
                 className="text-sm text-muted hover:text-ink transition-colors mt-4"
@@ -252,16 +252,16 @@ export default function QuizPage() {
               <div className="bg-white rounded-2xl border border-border p-8 text-center">
                 <h3 className="font-serif text-xl mb-2">Get free negotiation tips</h3>
                 <p className="text-muted text-sm mb-4">We'll send you strategies to close the gap — plus an exclusive discount.</p>
-                <form onSubmit={(e) => { e.preventDefault(); setEmailSubmitted(true); }} className="flex gap-3 max-w-[400px] mx-auto">
+                <form onSubmit={(e) => { e.preventDefault(); setEmailSubmitted(true); }} className="flex flex-col sm:flex-row gap-3 max-w-[400px] mx-auto">
                   <input
                     type="email"
                     required
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
                     placeholder="your@email.com"
-                    className="flex-1 px-4 py-3 rounded-xl border border-border text-sm focus:outline-none focus:ring-2 focus:ring-accent/30"
+                    className="flex-1 px-4 py-3.5 rounded-xl border border-border text-sm focus:outline-none focus:ring-2 focus:ring-accent/30"
                   />
-                  <button type="submit" className="bg-ink text-white px-5 py-3 rounded-xl font-semibold text-sm whitespace-nowrap">
+                  <button type="submit" className="bg-ink text-white px-5 py-3.5 rounded-xl font-semibold text-sm">
                     Send →
                   </button>
                 </form>
@@ -296,7 +296,7 @@ export default function QuizPage() {
           </div>
 
           {/* Question */}
-          <div className="bg-white rounded-3xl border border-border p-8 md:p-12">
+          <div className="bg-white rounded-3xl border border-border p-6 md:p-8 lg:p-12">
             <p className="text-xs text-muted uppercase tracking-wider mb-2">Question {currentStep + 1} of {steps.length}</p>
             <h2 className="font-serif text-2xl md:text-3xl mb-8">{step.question}</h2>
 

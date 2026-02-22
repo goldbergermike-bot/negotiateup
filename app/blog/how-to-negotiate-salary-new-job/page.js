@@ -3,10 +3,10 @@ import Footer from '../../../components/Footer';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'How to Negotiate Salary on a New Job Offer (2026 Guide) — SalaryPrep',
+  title: 'How to Negotiate Salary on a New Job Offer (2026 Guide) — NegotiateUp',
   description: 'Learn how to negotiate your job offer step by step. Includes when to negotiate, what to say, how to counter, and scripts you can use today.',
   keywords: ['negotiate salary', 'how to negotiate job offer', 'salary negotiation tips', 'counter offer', 'negotiate compensation'],
-  alternates: { canonical: 'https://www.salaryprep.com/blog/how-to-negotiate-salary-new-job' },
+  alternates: { canonical: 'https://www.negotiateup.com/blog/how-to-negotiate-salary-new-job' },
 };
 
 function CTA() {

@@ -9,7 +9,7 @@ const faqs = [
   },
   {
     q: "Can't I just use ChatGPT for this?",
-    a: "ChatGPT gives generic negotiation tips. SalaryPrep analyzes YOUR resume, YOUR offer (or current salary), and real market data to generate exact numbers, word-for-word scripts, and a strategy tailored to your company. It's 15 hours of research done in 10 minutes, delivered as a polished PDF you can reference during your actual negotiation.",
+    a: "ChatGPT gives generic negotiation tips. NegotiateUp analyzes YOUR resume, YOUR offer (or current salary), and real market data to generate exact numbers, word-for-word scripts, and a strategy tailored to your company. It's 15 hours of research done in 10 minutes, delivered as a polished PDF you can reference during your actual negotiation.",
   },
   {
     q: 'How is the "raise" playbook different from the "offer" playbook?',
@@ -29,7 +29,7 @@ const faqs = [
   },
   {
     q: 'How is this different from hiring a negotiation coach?',
-    a: "Negotiation coaches typically charge $1,250 to $6,000 and take days to schedule. SalaryPrep gives you a comparable personalized strategy — with market data, scripts, and objection handling — for $39 in under 10 minutes. For most people, it's 95% of the value at 3% of the cost.",
+    a: "Negotiation coaches typically charge $1,250 to $6,000 and take days to schedule. NegotiateUp gives you a comparable personalized strategy — with market data, scripts, and objection handling — for $39 in under 10 minutes. For most people, it's 95% of the value at 3% of the cost.",
   },
   {
     q: 'Is my data secure?',

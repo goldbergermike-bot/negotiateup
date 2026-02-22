@@ -31,7 +31,7 @@ export default function Pricing() {
 
       <div className="grid md:grid-cols-2 gap-6 max-w-[820px] mx-auto">
         {/* Offer Card */}
-        <div className="bg-paper border-2 border-accent rounded-2xl p-10 relative hover:-translate-y-1 transition-all hover:shadow-xl hover:shadow-accent/10">
+        <div className="bg-paper border-2 border-accent rounded-2xl p-6 md:p-10 relative hover:-translate-y-1 transition-all hover:shadow-xl hover:shadow-accent/10">
           <div className="absolute -top-3.5 left-1/2 -translate-x-1/2 bg-accent text-white text-[0.7rem] font-bold px-5 py-1.5 rounded-full tracking-wider uppercase whitespace-nowrap">
             New Job Offer
           </div>
@@ -39,7 +39,7 @@ export default function Pricing() {
           <h3 className="font-serif text-xl text-accent mb-1">Offer Negotiation Playbook</h3>
           <p className="text-muted text-sm mb-4">Counter with confidence. Maximize your starting comp.</p>
           <div className="text-muted text-sm line-through">Negotiation coaches charge $1,250+</div>
-          <div className="font-serif text-5xl text-accent my-2">$39</div>
+          <div className="font-serif text-4xl md:text-5xl text-accent my-2">$39</div>
           <p className="text-accent text-sm font-semibold mb-6">or $27.30 with code FIRST30</p>
           <ul className="text-left space-y-2.5 mb-8">
             {[
@@ -65,7 +65,7 @@ export default function Pricing() {
         </div>
 
         {/* Raise Card */}
-        <div className="bg-paper border-2 border-blue rounded-2xl p-10 relative hover:-translate-y-1 transition-all hover:shadow-xl hover:shadow-blue/10">
+        <div className="bg-paper border-2 border-blue rounded-2xl p-6 md:p-10 relative hover:-translate-y-1 transition-all hover:shadow-xl hover:shadow-blue/10">
           <div className="absolute -top-3.5 left-1/2 -translate-x-1/2 bg-blue text-white text-[0.7rem] font-bold px-5 py-1.5 rounded-full tracking-wider uppercase whitespace-nowrap">
             Current Job Raise
           </div>
@@ -73,7 +73,7 @@ export default function Pricing() {
           <h3 className="font-serif text-xl text-blue mb-1">Raise Negotiation Playbook</h3>
           <p className="text-muted text-sm mb-4">Build an airtight case. Get the raise you've earned.</p>
           <div className="text-muted text-sm line-through">Negotiation coaches charge $1,250+</div>
-          <div className="font-serif text-5xl text-blue my-2">$39</div>
+          <div className="font-serif text-4xl md:text-5xl text-blue my-2">$39</div>
           <p className="text-blue text-sm font-semibold mb-6">or $27.30 with code FIRST30</p>
           <ul className="text-left space-y-2.5 mb-8">
             {[

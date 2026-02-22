@@ -3,10 +3,10 @@ import Footer from '../../../components/Footer';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Salary Negotiation for Women: Close the Pay Gap With These Strategies — SalaryPrep',
+  title: 'Salary Negotiation for Women: Close the Pay Gap With These Strategies — NegotiateUp',
   description: 'Research-backed salary negotiation strategies specifically for women. Learn how to overcome bias, negotiate confidently, and close the gender pay gap.',
   keywords: ['salary negotiation women', 'gender pay gap', 'women negotiate salary', 'salary negotiation tips women', 'pay gap negotiation', 'women asking for raise'],
-  alternates: { canonical: 'https://www.salaryprep.com/blog/salary-negotiation-women' },
+  alternates: { canonical: 'https://www.negotiateup.com/blog/salary-negotiation-women' },
 };
 
 function CTA() {

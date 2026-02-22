@@ -3,10 +3,10 @@ import Footer from '../../../components/Footer';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'How to Get a Raise When Your Company Says "No Budget" (2026) — SalaryPrep',
+  title: 'How to Get a Raise When Your Company Says "No Budget" (2026) — NegotiateUp',
   description: 'Your manager says there\'s no budget for raises. Here are 8 proven strategies to still get more money, better title, or improved comp — even in a tight market.',
   keywords: ['no budget for raise', 'company won\'t give raise', 'how to get raise no budget', 'denied raise what to do', 'salary freeze negotiation', 'raise during budget cuts'],
-  alternates: { canonical: 'https://www.salaryprep.com/blog/get-raise-no-budget' },
+  alternates: { canonical: 'https://www.negotiateup.com/blog/get-raise-no-budget' },
 };
 
 function CTA() {

@@ -1,14 +1,14 @@
 // ============================================
-// SalaryPrep — Stripe Webhook Handler
+// NegotiateUp — Stripe Webhook Handler
 // ============================================
 // Handles payment confirmations from Stripe
 
 import { NextResponse } from 'next/server';
-import Stripe from 'stripe';
-
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 
 export async function POST(req) {
+  const Stripe = (await import('stripe')).default;
+  const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
+
   const body = await req.text();
   const sig = req.headers.get('stripe-signature');
 

@@ -8,8 +8,9 @@ export default function PromoBanner() {
   if (!visible) return null;
 
   return (
-    <div className="bg-accent text-white text-center py-2.5 px-6 text-sm font-medium relative">
-      🎉 Limited Time: Use code <strong className="font-bold tracking-wide">FIRST30</strong> at checkout for <strong>30% off</strong> your playbook → <a href="#pricing" className="underline underline-offset-2 hover:text-accent-light">Get it for $27.30</a>
+    <div className="bg-accent text-white text-center py-2 px-10 sm:px-6 text-xs sm:text-sm font-medium relative">
+      <span className="hidden sm:inline">🎉 Limited Time: Use code <strong className="font-bold tracking-wide">FIRST30</strong> at checkout for <strong>30% off</strong> your playbook → <a href="#pricing" className="underline underline-offset-2 hover:text-accent-light">Get it for $27.30</a></span>
+      <span className="sm:hidden">🎉 Code <strong>FIRST30</strong> = <strong>30% off</strong> → <a href="#pricing" className="underline underline-offset-2">$27.30</a></span>
       <button
         onClick={() => setVisible(false)}
         className="absolute right-4 top-1/2 -translate-y-1/2 text-white/60 hover:text-white text-lg"

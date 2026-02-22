@@ -27,18 +27,18 @@ export default function EmailCapture() {
             <p className="text-muted text-sm mb-6">
               Join our email list and we'll send you our best salary negotiation advice — plus an exclusive discount when you're ready.
             </p>
-            <form onSubmit={handleSubmit} className="flex gap-3 max-w-[440px] mx-auto">
+            <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-[440px] mx-auto">
               <input
                 type="email"
                 required
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="your@email.com"
-                className="flex-1 px-4 py-3 rounded-xl border border-border text-sm focus:outline-none focus:ring-2 focus:ring-accent/30 focus:border-accent"
+                className="flex-1 px-4 py-3.5 rounded-xl border border-border text-sm focus:outline-none focus:ring-2 focus:ring-accent/30 focus:border-accent"
               />
               <button
                 type="submit"
-                className="bg-ink text-white px-6 py-3 rounded-xl font-semibold text-sm hover:bg-ink/90 transition-all whitespace-nowrap"
+                className="bg-ink text-white px-6 py-3.5 rounded-xl font-semibold text-sm hover:bg-ink/90 transition-all"
               >
                 Send Tips →
               </button>

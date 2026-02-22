@@ -3,10 +3,10 @@ import Footer from '../../../components/Footer';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Counter Offer Email Template: Exactly What to Write — SalaryPrep',
+  title: 'Counter Offer Email Template: Exactly What to Write — NegotiateUp',
   description: 'Copy-paste counter offer email templates for salary negotiation. Includes templates for different situations, plus tips on tone and timing.',
   keywords: ['counter offer email', 'counter offer email template', 'salary negotiation email', 'how to counter a job offer', 'negotiate offer email'],
-  alternates: { canonical: 'https://www.salaryprep.com/blog/counter-offer-email-template' },
+  alternates: { canonical: 'https://www.negotiateup.com/blog/counter-offer-email-template' },
 };
 
 function CTA() {
