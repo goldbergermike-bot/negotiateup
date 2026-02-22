@@ -8,6 +8,7 @@ import { getOfferPrompt, getRaisePrompt } from '../../../lib/prompts';
 import { generatePlaybookPDF } from '../../../lib/pdf-generator';
 import { sendPlaybookEmail } from '../../../lib/email';
 import { logDelivery } from '../../../lib/analytics';
+import { getCompanyIntelForPrompt } from '../../../lib/companies';
 
 export const maxDuration = 120; // Allow up to 2 min for generation (Vercel Pro)
 
@@ -43,6 +44,14 @@ export async function POST(req) {
     }
     if (jobListingFile && jobListingFile.size > 0) {
       data.jobListingText = await extractTextFromFile(jobListingFile);
+    }
+
+    // ---- ENRICH WITH COMPANY INTELLIGENCE ----
+    if (data.companyName) {
+      const companyIntel = getCompanyIntelForPrompt(data.companyName);
+      if (companyIntel) {
+        data.companyIntel = companyIntel;
+      }
     }
 
     // ---- GENERATE PLAYBOOK CONTENT WITH AI ----

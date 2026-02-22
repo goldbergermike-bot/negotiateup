@@ -27,6 +27,9 @@ export default function Nav() {
           <a href="/calculator" className="text-muted text-sm font-medium hover:text-ink transition-colors hidden sm:block">
             Calculator
           </a>
+          <a href="/companies" className="text-muted text-sm font-medium hover:text-ink transition-colors hidden sm:block">
+            Companies
+          </a>
           <a href="/blog" className="text-muted text-sm font-medium hover:text-ink transition-colors hidden sm:block">
             Blog
           </a>
@@ -54,6 +57,9 @@ export default function Nav() {
           </a>
           <a href="/calculator" className="block py-3 px-3 text-sm font-medium text-muted hover:text-ink hover:bg-accent-light/30 rounded-lg transition-colors">
             Calculator
+          </a>
+          <a href="/companies" className="block py-3 px-3 text-sm font-medium text-muted hover:text-ink hover:bg-accent-light/30 rounded-lg transition-colors">
+            Companies
           </a>
           <a href="/blog" className="block py-3 px-3 text-sm font-medium text-muted hover:text-ink hover:bg-accent-light/30 rounded-lg transition-colors">
             Blog
