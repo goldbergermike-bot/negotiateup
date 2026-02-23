@@ -51,3 +51,149 @@ html {
 ::-webkit-scrollbar-thumb:hover {
   background: var(--muted);
 }
+
+/* Research page content styling */
+.research-content h3 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.875rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  color: var(--ink);
+}
+
+@media (min-width: 768px) {
+  .research-content h3 {
+    font-size: 2.25rem;
+  }
+}
+
+.research-content h2 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: var(--ink);
+}
+
+.research-content p {
+  color: #374151;
+  line-height: 1.75;
+  margin-bottom: 1rem;
+}
+
+.research-content strong {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+/* Compensation tables */
+.research-content table {
+  width: 100%;
+  font-size: 0.875rem;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+
+.research-content thead {
+  background: var(--ink);
+  color: white;
+  text-align: left;
+}
+
+.research-content th {
+  padding: 0.75rem 1rem;
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+}
+
+.research-content tbody tr {
+  border-bottom: 1px solid var(--border);
+}
+
+.research-content tbody tr:nth-child(even) {
+  background: white;
+}
+
+.research-content tbody tr:nth-child(odd) {
+  background: var(--paper);
+}
+
+.research-content td {
+  padding: 0.75rem 1rem;
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+/* Blockquotes: Negotiate Up Strategy */
+.research-content blockquote {
+  border-left: 4px solid var(--accent);
+  background: rgba(216, 243, 220, 0.5);
+  padding: 1.25rem;
+  border-radius: 0 0.75rem 0.75rem 0;
+  margin: 2rem 0;
+  font-size: 0.875rem;
+  color: #374151;
+}
+
+.research-content blockquote p {
+  margin-bottom: 0.5rem;
+}
+
+.research-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Lists */
+.research-content ol {
+  list-style: decimal;
+  padding-left: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.research-content ol li {
+  font-size: 0.875rem;
+  color: #374151;
+  line-height: 1.75;
+  margin-bottom: 0.75rem;
+}
+
+.research-content ul {
+  list-style: disc;
+  padding-left: 1.25rem;
+  margin: 1rem 0;
+}
+
+.research-content ul li {
+  font-size: 0.875rem;
+  color: var(--muted);
+  line-height: 1.75;
+  margin-bottom: 0.5rem;
+}
+
+/* Links */
+.research-content a {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.research-content a:hover {
+  opacity: 0.8;
+}
+
+/* Horizontal rules */
+.research-content hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+/* Make tables horizontally scrollable on mobile */
+.prose-research {
+  overflow-x: auto;
+}

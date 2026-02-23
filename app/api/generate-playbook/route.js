@@ -9,7 +9,9 @@ import { getOfferPrompt, getRaisePrompt } from '../../../lib/prompts';
 import { generatePlaybookPDF } from '../../../lib/pdf-generator';
 import { sendPlaybookEmail } from '../../../lib/email';
 
-const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const anthropic = process.env.ANTHROPIC_API_KEY
+  ? new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY })
+  : null;
 
 export const maxDuration = 120; // Allow up to 2 min for generation (Vercel Pro)
 

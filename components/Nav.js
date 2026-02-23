@@ -26,6 +26,9 @@ export default function Nav() {
           <a href="/calculator" className="text-muted text-sm font-medium hover:text-ink transition-colors hidden sm:block">
             Calculator
           </a>
+          <a href="/companies" className="text-muted text-sm font-medium hover:text-ink transition-colors hidden sm:block">
+            Companies
+          </a>
           <a href="/blog" className="text-muted text-sm font-medium hover:text-ink transition-colors">
             Blog
           </a>
