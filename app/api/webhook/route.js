@@ -30,9 +30,7 @@ export async function POST(req) {
   switch (event.type) {
     case 'checkout.session.completed': {
       const session = event.data.object;
-      console.log(`Payment completed for session: ${session.id}`);
-      console.log(`Playbook type: ${session.metadata?.playbook_type}`);
-      console.log(`Customer email: ${session.customer_details?.email}`);
+      console.log(`Payment completed: ${session.id.slice(0, 16)}... (${session.metadata?.playbook_type})`);
       // Payment is verified — the user will now be redirected to the upload form
       // The form submission will trigger playbook generation
       break;

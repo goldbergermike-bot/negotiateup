@@ -10,6 +10,7 @@ import { getOfferPrompt, getRaisePrompt } from '../../../lib/prompts';
 import { generatePlaybookPDF } from '../../../lib/pdf-generator';
 import { sendPlaybookEmail } from '../../../lib/email';
 import { findCompanySlug, findBestRoleMatch, getResearchContent } from '../../../lib/research';
+import { sanitizeForPrompt } from '../../../lib/sanitize';
 
 const anthropic = process.env.ANTHROPIC_API_KEY
   ? new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY })
@@ -17,13 +18,55 @@ const anthropic = process.env.ANTHROPIC_API_KEY
 
 export const maxDuration = 120; // Allow up to 2 min for generation (Vercel Pro)
 
+const VALID_TYPES = ['offer', 'raise'];
+const MAX_FILE_SIZE = 10 * 1024 * 1024; // 10 MB per file
+const ALLOWED_FILE_TYPES = [
+  'application/pdf',
+  'text/plain',
+  'text/markdown',
+  'application/msword',
+  'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
+  'image/png', 'image/jpeg', 'image/webp',
+];
+const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
 export async function POST(req) {
   try {
     const formData = await req.formData();
 
     const sessionId = formData.get('sessionId');
     const type = formData.get('type'); // 'offer' or 'raise'
-    const data = JSON.parse(formData.get('formData'));
+
+    // ---- INPUT VALIDATION ----
+    if (!sessionId || typeof sessionId !== 'string' || sessionId.length > 200) {
+      return NextResponse.json({ error: 'Invalid session.' }, { status: 400 });
+    }
+
+    if (!type || !VALID_TYPES.includes(type)) {
+      return NextResponse.json({ error: 'Invalid playbook type.' }, { status: 400 });
+    }
+
+    let data;
+    try {
+      data = JSON.parse(formData.get('formData'));
+    } catch {
+      return NextResponse.json({ error: 'Invalid form data.' }, { status: 400 });
+    }
+
+    if (!data.email || !EMAIL_REGEX.test(data.email)) {
+      return NextResponse.json({ error: 'Valid email is required.' }, { status: 400 });
+    }
+
+    if (!data.fullName || typeof data.fullName !== 'string' || data.fullName.length > 200) {
+      return NextResponse.json({ error: 'Valid name is required.' }, { status: 400 });
+    }
+
+    // Sanitize all string fields to prevent prompt injection
+    for (const key of Object.keys(data)) {
+      if (typeof data[key] === 'string') {
+        data[key] = sanitizeForPrompt(data[key]);
+      }
+    }
 
     // Verify Stripe session is valid and paid
     const Stripe = (await import('stripe')).default;
@@ -55,10 +98,21 @@ export async function POST(req) {
       },
     });
 
-    // ---- EXTRACT TEXT FROM UPLOADED FILES ----
+    // ---- EXTRACT TEXT FROM UPLOADED FILES (with size + type validation) ----
     const resumeFile = formData.get('resume');
     const offerLetterFile = formData.get('offerLetter');
     const jobListingFile = formData.get('jobListing');
+
+    for (const [label, file] of [['Resume', resumeFile], ['Offer letter', offerLetterFile], ['Job listing', jobListingFile]]) {
+      if (file && file.size > 0) {
+        if (file.size > MAX_FILE_SIZE) {
+          return NextResponse.json({ error: `${label} exceeds 10 MB limit.` }, { status: 400 });
+        }
+        if (file.type && !ALLOWED_FILE_TYPES.includes(file.type)) {
+          return NextResponse.json({ error: `${label} file type not supported.` }, { status: 400 });
+        }
+      }
+    }
 
     if (resumeFile && resumeFile.size > 0) {
       data.resumeText = await extractTextFromFile(resumeFile);
@@ -86,7 +140,7 @@ export async function POST(req) {
       ? getOfferPrompt(data, researchContext)
       : getRaisePrompt(data, researchContext);
 
-    console.log(`Generating ${type} playbook for ${data.fullName}...`);
+    console.log(`Generating ${type} playbook for session ${sessionId.slice(0, 12)}...`);
 
     const message = await anthropic.messages.create({
       model: 'claude-sonnet-4-20250514',
@@ -112,11 +166,11 @@ export async function POST(req) {
     let emailError = null;
     try {
       await sendPlaybookEmail(data.email, data.fullName, pdfBuffer, type);
-      console.log(`Email sent to ${data.email}`);
+      console.log(`Email sent for session ${sessionId.slice(0, 12)}`);
     } catch (err) {
       emailSent = false;
       emailError = err.message;
-      console.error(`Email failed for ${data.email}:`, err);
+      console.error(`Email failed for session ${sessionId.slice(0, 12)}:`, err.message);
     }
 
     // ---- MARK SESSION AS COMPLETE ----

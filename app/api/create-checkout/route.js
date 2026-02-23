@@ -5,13 +5,38 @@ const stripe = process.env.STRIPE_SECRET_KEY
   ? new Stripe(process.env.STRIPE_SECRET_KEY)
   : null;
 
+const VALID_TYPES = ['offer', 'raise'];
+
 export async function POST(req) {
   try {
-    const { type } = await req.json(); // 'offer' or 'raise'
+    const body = await req.json();
+    const { type } = body;
+
+    // ---- INPUT VALIDATION ----
+    if (!type || !VALID_TYPES.includes(type)) {
+      return NextResponse.json(
+        { error: 'Invalid playbook type. Must be "offer" or "raise".' },
+        { status: 400 }
+      );
+    }
+
+    if (!stripe) {
+      return NextResponse.json(
+        { error: 'Payment service is not configured.' },
+        { status: 503 }
+      );
+    }
 
     const priceId = type === 'offer'
       ? process.env.STRIPE_PRICE_OFFER
       : process.env.STRIPE_PRICE_RAISE;
+
+    if (!priceId) {
+      return NextResponse.json(
+        { error: 'Pricing is not configured. Please contact support.' },
+        { status: 503 }
+      );
+    }
 
     const session = await stripe.checkout.sessions.create({
       mode: 'payment',
@@ -28,7 +53,10 @@ export async function POST(req) {
 
     return NextResponse.json({ url: session.url });
   } catch (err) {
-    console.error('Stripe checkout error:', err);
-    return NextResponse.json({ error: err.message }, { status: 500 });
+    console.error('Stripe checkout error:', err.type || err.message);
+    return NextResponse.json(
+      { error: 'Unable to create checkout session. Please try again.' },
+      { status: 500 }
+    );
   }
 }

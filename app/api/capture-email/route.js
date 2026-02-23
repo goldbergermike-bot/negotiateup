@@ -18,7 +18,7 @@ export async function POST(req) {
     }
 
     const cleanEmail = email.trim().toLowerCase();
-    console.log(`Email captured: ${cleanEmail} (source: ${source || 'unknown'})`);
+    console.log(`Email captured (source: ${source || 'unknown'})`);
 
     // Send to Resend audience if configured
     if (process.env.RESEND_API_KEY && process.env.RESEND_AUDIENCE_ID) {
@@ -34,13 +34,13 @@ export async function POST(req) {
       if (error) {
         // Duplicate contact is not a real error — Resend returns 409
         if (error.statusCode === 409 || error.message?.includes('already exists')) {
-          console.log(`Email ${cleanEmail} already in audience — not an error`);
+          console.log('Email already in audience — not an error');
           return NextResponse.json({ success: true, existing: true });
         }
         console.error('Resend audience error:', error);
         // Still return success to user — we logged the email
       } else {
-        console.log(`Email ${cleanEmail} added to Resend audience: ${data?.id}`);
+        console.log(`Email added to Resend audience: ${data?.id}`);
       }
     } else {
       console.warn('RESEND_AUDIENCE_ID not configured — email captured to logs only');
