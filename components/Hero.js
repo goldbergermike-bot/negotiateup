@@ -32,7 +32,7 @@ export default function Hero() {
 
       <div className="mt-12 flex justify-center gap-10 flex-wrap text-muted text-sm">
         <span className="flex items-center gap-1.5">
-          🤖 Powered by <strong className="text-ink">advanced AI</strong>
+          🏢 <strong className="text-ink">300+ company</strong> comp databases
         </span>
         <span className="flex items-center gap-1.5">
           ⏱️ Delivered in <strong className="text-ink">under 10 minutes</strong>

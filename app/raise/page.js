@@ -3,6 +3,7 @@
 import { useState, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Nav from '../../components/Nav';
+import CompanyAutocomplete from '../../components/CompanyAutocomplete';
 
 function RaiseContent() {
   const searchParams = useSearchParams();
@@ -162,8 +163,15 @@ function RaiseContent() {
             <div className="grid md:grid-cols-2 gap-4">
               <div>
                 <label className="block text-sm font-medium mb-1.5">Company Name *</label>
-                <input type="text" name="companyName" required value={form.companyName} onChange={handleChange}
-                  className="w-full px-4 py-3 rounded-xl border border-border bg-paper text-sm focus:outline-none focus:border-blue" placeholder="Acme Corp" />
+                <CompanyAutocomplete
+                  name="companyName"
+                  required
+                  value={form.companyName}
+                  onChange={handleChange}
+                  accentColor="blue"
+                  className="w-full px-4 py-3 rounded-xl border border-border bg-paper text-sm focus:outline-none focus:border-blue"
+                  placeholder="Start typing — we have data on 300+ companies"
+                />
               </div>
               <div>
                 <label className="block text-sm font-medium mb-1.5">Job Title *</label>

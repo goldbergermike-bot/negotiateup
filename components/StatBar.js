@@ -1,6 +1,6 @@
 export default function StatBar() {
   const stats = [
-    { num: '73%', label: 'of employers expect you to negotiate' },
+    { num: '300+', label: 'companies with verified comp data' },
     { num: '$5K–$15K', label: 'left on the table without negotiating' },
     { num: '10 min', label: 'to get your custom playbook' },
   ];

@@ -12,9 +12,9 @@ export default function WhyNotChatGPT() {
             <div className="flex gap-4 items-start">
               <span className="text-2xl">🎯</span>
               <div>
-                <h3 className="font-semibold text-ink mb-2">ChatGPT gives generic advice. We give you YOUR playbook.</h3>
+                <h3 className="font-semibold text-ink mb-2">ChatGPT guesses. We use verified company data.</h3>
                 <p className="text-muted text-sm leading-relaxed">
-                  ChatGPT doesn't know your company's compensation philosophy, your market value based on location and experience, or what specific pushback you'll face. SalaryPrep analyzes your offer details, resume, and situation to create a strategy that's built for you — not "a software engineer in the Bay Area."
+                  ChatGPT doesn't have access to real compensation databases. SalaryPrep has verified comp data for 300+ companies — actual salary ranges by role and level, vesting schedules, signing bonus norms, and negotiation levers specific to your company. Your playbook is built on real data, not hallucinated numbers.
                 </p>
               </div>
             </div>
@@ -36,9 +36,9 @@ export default function WhyNotChatGPT() {
             <div className="flex gap-4 items-start">
               <span className="text-2xl">📊</span>
               <div>
-                <h3 className="font-semibold text-ink mb-2">ChatGPT's salary data is often wrong.</h3>
+                <h3 className="font-semibold text-ink mb-2">ChatGPT's salary data is often wrong. Ours is researched.</h3>
                 <p className="text-muted text-sm leading-relaxed">
-                  Harvard's Program on Negotiation found that ChatGPT's salary benchmarks are frequently inaccurate. SalaryPrep uses advanced AI specifically prompted with compensation frameworks to provide more reliable market ranges for your exact role, level, and location.
+                  Harvard's Program on Negotiation found that ChatGPT's salary benchmarks are frequently inaccurate. SalaryPrep maintains a researched compensation database covering 300+ companies with role-specific ranges, level mappings, and vesting details — so your counter-offer is anchored to real numbers.
                 </p>
               </div>
             </div>

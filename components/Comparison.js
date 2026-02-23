@@ -2,9 +2,9 @@ export default function Comparison() {
   const rows = [
     { feature: 'Personalized to YOUR offer/raise', chatgpt: '⚠️ Generic', us: true, coach: true },
     { feature: '10+ page PDF you can reference', chatgpt: false, us: true, coach: false },
-    { feature: 'Market salary data for your role', chatgpt: '⚠️ Unreliable', us: true, coach: true },
+    { feature: 'Verified comp data (300+ companies)', chatgpt: '⚠️ Hallucinated', us: true, coach: true },
     { feature: 'Word-for-word call & email scripts', chatgpt: false, us: true, coach: 'Sometimes' },
-    { feature: 'Company-specific negotiation intel', chatgpt: false, us: true, coach: true },
+    { feature: 'Company-specific vesting, levels & levers', chatgpt: false, us: true, coach: true },
     { feature: 'Objection handling for every pushback', chatgpt: false, us: true, coach: true },
     { feature: 'Day-by-day negotiation timeline', chatgpt: false, us: true, coach: true },
     { feature: 'Ready in under 10 minutes', chatgpt: true, us: true, coach: false },

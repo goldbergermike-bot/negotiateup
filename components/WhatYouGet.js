@@ -6,16 +6,16 @@ export default function WhatYouGet() {
   const [tab, setTab] = useState('offer');
 
   const offerItems = [
-    { icon: '📊', title: 'Market Salary Benchmarks', desc: 'Compensation data for your role, level, company tier, and location — so you counter with real numbers, not guesses.' },
+    { icon: '📊', title: 'Verified Salary Benchmarks', desc: 'Compensation ranges from our database of 300+ companies — real figures for your role, level, and location, not AI guesses.' },
     { icon: '🎯', title: 'Your Leverage Analysis', desc: 'We read your resume and identify your strongest negotiating cards — rare skills, competing offers, and key experience.' },
     { icon: '💬', title: 'Counter-Offer Scripts', desc: 'Word-for-word scripts for the phone call, email templates for the written counter, and responses to every recruiter pushback.' },
     { icon: '🔢', title: 'Counter-Offer Numbers', desc: 'Specific targets for base salary, equity, bonus, and signing bonus — with a "stretch" ask and a "walk away" floor.' },
-    { icon: '🏢', title: 'Company Intelligence', desc: 'How this company typically negotiates, their comp philosophy, and which levers (equity, bonus, PTO) they\'re most flexible on.' },
+    { icon: '🏢', title: 'Company Intelligence', desc: 'Verified data on how this company negotiates — their comp structure, vesting schedules, level mappings, and which levers actually move.' },
     { icon: '🗺️', title: 'Negotiation Timeline', desc: 'A day-by-day plan from first response to final signature — when to reply, what to say at each stage, and how to close.' },
   ];
 
   const raiseItems = [
-    { icon: '📊', title: 'Market Comp Report', desc: 'Hard data showing what people in your role, industry, and market are earning — the proof your manager needs to act.' },
+    { icon: '📊', title: 'Verified Comp Report', desc: 'Compensation ranges from our 300+ company database showing exactly what people in your role are earning — the proof your manager needs.' },
     { icon: '📝', title: 'Your Business Case Document', desc: 'A polished one-pager summarizing your contributions, market data, and specific ask — ready to share with your manager or HR.' },
     { icon: '💬', title: 'Conversation Scripts', desc: 'Exactly how to open the conversation, present your case, and handle responses like "the budget is tight" or "let\'s revisit next quarter."' },
     { icon: '🛡️', title: 'Objection Handling Guide', desc: 'Prepared responses for every common pushback — budget constraints, timing issues, "you just got promoted," and more.' },
