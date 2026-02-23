@@ -1,6 +1,7 @@
 import Nav from '../../../components/Nav';
 import Footer from '../../../components/Footer';
 import Link from 'next/link';
+import RelatedCompanyGuides from '../../../components/RelatedCompanyGuides';
 
 export const metadata = {
   title: 'Salary Negotiation for Women: Close the Pay Gap With These Strategies — SalaryPrep',
@@ -149,6 +150,8 @@ export default function Article() {
           </p>
 
           <CTA />
+
+          <RelatedCompanyGuides variant="general" />
         </div>
       </article>
       <Footer />

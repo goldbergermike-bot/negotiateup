@@ -5,11 +5,23 @@ import { useState } from 'react';
 export default function EmailCapture() {
   const [email, setEmail] = useState('');
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    // For now, just show success. Later you can connect to Resend audience or Mailchimp.
+    setLoading(true);
+    try {
+      await fetch('/api/capture-email', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, source: 'homepage' }),
+      });
+    } catch (err) {
+      // Silently handle — don't block UX for newsletter signup
+      console.error('Email capture failed:', err);
+    }
     setSubmitted(true);
+    setLoading(false);
   };
 
   return (
@@ -38,9 +50,10 @@ export default function EmailCapture() {
               />
               <button
                 type="submit"
-                className="bg-ink text-white px-6 py-3 rounded-xl font-semibold text-sm hover:bg-ink/90 transition-all whitespace-nowrap"
+                disabled={loading}
+                className="bg-ink text-white px-6 py-3 rounded-xl font-semibold text-sm hover:bg-ink/90 transition-all whitespace-nowrap disabled:opacity-60"
               >
-                Send Tips →
+                {loading ? 'Sending...' : 'Send Tips →'}
               </button>
             </form>
             <p className="text-xs text-muted mt-3">No spam. Unsubscribe anytime.</p>

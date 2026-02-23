@@ -2,12 +2,14 @@
 // SalaryPrep — Main Playbook Generation API
 // ============================================
 // Flow: Parse form + files → Call Claude AI → Generate PDF → Send email
+// Guards: Idempotency (one generation per Stripe session), email failure recovery
 
 import { NextResponse } from 'next/server';
 import Anthropic from '@anthropic-ai/sdk';
 import { getOfferPrompt, getRaisePrompt } from '../../../lib/prompts';
 import { generatePlaybookPDF } from '../../../lib/pdf-generator';
 import { sendPlaybookEmail } from '../../../lib/email';
+import { findCompanySlug, findBestRoleMatch, getResearchContent } from '../../../lib/research';
 
 const anthropic = process.env.ANTHROPIC_API_KEY
   ? new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY })
@@ -34,6 +36,25 @@ export async function POST(req) {
       );
     }
 
+    // ---- IDEMPOTENCY GUARD ----
+    // Prevent duplicate AI generation if user refreshes or retries
+    if (session.metadata?.playbook_generated === 'true') {
+      console.log(`Playbook already generated for session ${sessionId} — skipping duplicate`);
+      return NextResponse.json({
+        success: true,
+        alreadyGenerated: true,
+        message: 'Your playbook has already been generated and emailed. Check your inbox (and spam folder).',
+      });
+    }
+
+    // Mark session as in-progress immediately to prevent concurrent duplicates
+    await stripe.checkout.sessions.update(sessionId, {
+      metadata: {
+        ...session.metadata,
+        playbook_generated: 'in_progress',
+      },
+    });
+
     // ---- EXTRACT TEXT FROM UPLOADED FILES ----
     const resumeFile = formData.get('resume');
     const offerLetterFile = formData.get('offerLetter');
@@ -49,8 +70,21 @@ export async function POST(req) {
       data.jobListingText = await extractTextFromFile(jobListingFile);
     }
 
+    // ---- LOOK UP COMPANY RESEARCH DATA ----
+    const companySlug = findCompanySlug(data.companyName);
+    const roleSlug = companySlug ? findBestRoleMatch(companySlug, data.jobTitle) : null;
+    const researchContext = (companySlug && roleSlug) ? getResearchContent(companySlug, roleSlug) : null;
+
+    if (researchContext) {
+      console.log(`Research data found: ${companySlug}/${roleSlug} (${researchContext.length} chars)`);
+    } else {
+      console.log(`No research data found for "${data.companyName}" / "${data.jobTitle}"`);
+    }
+
     // ---- GENERATE PLAYBOOK CONTENT WITH AI ----
-    const prompt = type === 'offer' ? getOfferPrompt(data) : getRaisePrompt(data);
+    const prompt = type === 'offer'
+      ? getOfferPrompt(data, researchContext)
+      : getRaisePrompt(data, researchContext);
 
     console.log(`Generating ${type} playbook for ${data.fullName}...`);
 
@@ -72,11 +106,39 @@ export async function POST(req) {
     const pdfBuffer = await generatePlaybookPDF(playbookContent, type, data.fullName);
     console.log(`PDF generated. Size: ${pdfBuffer.length} bytes`);
 
-    // ---- SEND EMAIL ----
-    await sendPlaybookEmail(data.email, data.fullName, pdfBuffer, type);
-    console.log(`Email sent to ${data.email}`);
+    // ---- SEND EMAIL (with failure recovery) ----
+    // If email fails, the playbook is still generated — return PDF as base64 download fallback
+    let emailSent = true;
+    let emailError = null;
+    try {
+      await sendPlaybookEmail(data.email, data.fullName, pdfBuffer, type);
+      console.log(`Email sent to ${data.email}`);
+    } catch (err) {
+      emailSent = false;
+      emailError = err.message;
+      console.error(`Email failed for ${data.email}:`, err);
+    }
 
-    return NextResponse.json({ success: true });
+    // ---- MARK SESSION AS COMPLETE ----
+    await stripe.checkout.sessions.update(sessionId, {
+      metadata: {
+        ...session.metadata,
+        playbook_generated: 'true',
+        generated_at: new Date().toISOString(),
+      },
+    });
+
+    // Return success — include PDF download fallback if email failed
+    const response = { success: true };
+    if (!emailSent) {
+      response.emailFailed = true;
+      response.emailError = emailError;
+      response.pdfBase64 = pdfBuffer.toString('base64');
+      response.pdfFilename = `SalaryPrep-${type === 'offer' ? 'Offer' : 'Raise'}-Playbook-${data.fullName.replace(/\s+/g, '-')}.pdf`;
+      response.message = 'Your playbook was generated but we had trouble sending the email. You can download it directly below.';
+    }
+
+    return NextResponse.json(response);
 
   } catch (error) {
     console.error('Playbook generation error:', error);

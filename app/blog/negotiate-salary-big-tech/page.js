@@ -1,6 +1,7 @@
 import Nav from '../../../components/Nav';
 import Footer from '../../../components/Footer';
 import Link from 'next/link';
+import RelatedCompanyGuides from '../../../components/RelatedCompanyGuides';
 
 export const metadata = {
   title: 'How to Negotiate Salary at Amazon, Google & Big Tech (2026 Guide) — SalaryPrep',
@@ -168,6 +169,8 @@ export default function Article() {
           </div>
 
           <CTA />
+
+          <RelatedCompanyGuides variant="big-tech" />
         </div>
       </article>
       <Footer />

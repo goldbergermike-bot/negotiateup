@@ -4,6 +4,7 @@ import Nav from '../../../../components/Nav';
 import Footer from '../../../../components/Footer';
 import MarkdownRenderer from '../../../../components/MarkdownRenderer';
 import ResearchCTA from '../../../../components/ResearchCTA';
+import RelatedBlogPosts from '../../../../components/RelatedBlogPosts';
 import {
   getAllCompanyRolePairs,
   getResearchContent,
@@ -170,6 +171,9 @@ export default function RoleResearchPage({ params }) {
             Get My Playbook — $39 →
           </a>
         </div>
+
+        {/* Related blog articles */}
+        <RelatedBlogPosts companySlug={company} />
 
         {/* Internal links to other roles at this company */}
         {otherRoles.length > 0 && (

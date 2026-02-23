@@ -10,6 +10,9 @@ function NewOfferContent() {
   const [loading, setLoading] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [email, setEmail] = useState('');
+  const [emailFailed, setEmailFailed] = useState(false);
+  const [pdfDownload, setPdfDownload] = useState(null);
+  const [alreadyGenerated, setAlreadyGenerated] = useState(false);
 
   // Form state
   const [form, setForm] = useState({
@@ -57,12 +60,19 @@ function NewOfferContent() {
         body: formData,
       });
 
+      const result = await res.json();
       if (res.ok) {
         setEmail(form.email);
+        if (result.alreadyGenerated) {
+          setAlreadyGenerated(true);
+        }
+        if (result.emailFailed) {
+          setEmailFailed(true);
+          setPdfDownload({ base64: result.pdfBase64, filename: result.pdfFilename });
+        }
         setSubmitted(true);
       } else {
-        const data = await res.json();
-        alert(data.error || 'Something went wrong. Please try again.');
+        alert(result.error || 'Something went wrong. Please try again.');
       }
     } catch (err) {
       alert('Something went wrong. Please try again.');
@@ -89,15 +99,44 @@ function NewOfferContent() {
     return (
       <div className="min-h-screen bg-paper flex items-center justify-center px-6">
         <div className="text-center max-w-md">
-          <div className="text-5xl mb-6">🎉</div>
-          <h1 className="font-serif text-3xl mb-4">Your Playbook is Being Created!</h1>
-          <p className="text-muted text-lg mb-2">
-            We're generating your personalized negotiation playbook now.
-          </p>
-          <p className="text-muted mb-8">
-            It will be delivered to <strong className="text-ink">{email}</strong> in under 10 minutes.
-          </p>
-          <p className="text-sm text-muted mb-10">Check your spam folder if you don't see it.</p>
+          <div className="text-5xl mb-6">{emailFailed ? '📄' : '🎉'}</div>
+          <h1 className="font-serif text-3xl mb-4">
+            {alreadyGenerated
+              ? 'Your Playbook Was Already Sent!'
+              : emailFailed
+                ? 'Your Playbook is Ready!'
+                : 'Your Playbook is Being Created!'}
+          </h1>
+          {emailFailed ? (
+            <>
+              <p className="text-muted text-lg mb-2">
+                We had trouble sending the email, but your playbook is ready to download.
+              </p>
+              {pdfDownload && (
+                <a
+                  href={`data:application/pdf;base64,${pdfDownload.base64}`}
+                  download={pdfDownload.filename}
+                  className="inline-block bg-accent text-white px-8 py-3 rounded-xl font-semibold hover:-translate-y-0.5 transition-all mb-8"
+                >
+                  Download Your Playbook (PDF) →
+                </a>
+              )}
+            </>
+          ) : (
+            <>
+              <p className="text-muted text-lg mb-2">
+                {alreadyGenerated
+                  ? 'Your playbook has already been generated and emailed.'
+                  : "We're generating your personalized negotiation playbook now."}
+              </p>
+              <p className="text-muted mb-8">
+                {alreadyGenerated
+                  ? <>Check your inbox (and spam folder) at <strong className="text-ink">{email}</strong>.</>
+                  : <>It will be delivered to <strong className="text-ink">{email}</strong> in under 10 minutes.</>}
+              </p>
+              <p className="text-sm text-muted mb-10">Check your spam folder if you don't see it.</p>
+            </>
+          )}
           
           {/* Share Discount Section */}
           <div className="bg-white rounded-2xl p-8 border-2 border-accent/20 text-left">

@@ -252,7 +252,19 @@ export default function QuizPage() {
               <div className="bg-white rounded-2xl border border-border p-8 text-center">
                 <h3 className="font-serif text-xl mb-2">Get free negotiation tips</h3>
                 <p className="text-muted text-sm mb-4">We'll send you strategies to close the gap — plus an exclusive discount.</p>
-                <form onSubmit={(e) => { e.preventDefault(); setEmailSubmitted(true); }} className="flex gap-3 max-w-[400px] mx-auto">
+                <form onSubmit={async (e) => {
+                  e.preventDefault();
+                  try {
+                    await fetch('/api/capture-email', {
+                      method: 'POST',
+                      headers: { 'Content-Type': 'application/json' },
+                      body: JSON.stringify({ email, source: 'quiz' }),
+                    });
+                  } catch (err) {
+                    console.error('Email capture failed:', err);
+                  }
+                  setEmailSubmitted(true);
+                }} className="flex gap-3 max-w-[400px] mx-auto">
                   <input
                     type="email"
                     required

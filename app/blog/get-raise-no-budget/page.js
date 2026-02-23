@@ -1,6 +1,7 @@
 import Nav from '../../../components/Nav';
 import Footer from '../../../components/Footer';
 import Link from 'next/link';
+import RelatedCompanyGuides from '../../../components/RelatedCompanyGuides';
 
 export const metadata = {
   title: 'How to Get a Raise When Your Company Says "No Budget" (2026) — SalaryPrep',
@@ -145,6 +146,8 @@ export default function Article() {
           </p>
 
           <CTA />
+
+          <RelatedCompanyGuides variant="general" />
         </div>
       </article>
       <Footer />

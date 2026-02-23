@@ -1,6 +1,7 @@
 import Nav from '../../../components/Nav';
 import Footer from '../../../components/Footer';
 import Link from 'next/link';
+import RelatedCompanyGuides from '../../../components/RelatedCompanyGuides';
 
 export const metadata = {
   title: 'How to Ask for a Raise: The Complete Playbook — SalaryPrep',
@@ -171,6 +172,8 @@ export default function Article() {
           </p>
 
           <CTA />
+
+          <RelatedCompanyGuides variant="general" />
         </div>
       </article>
       <Footer />

@@ -16,6 +16,7 @@ export async function POST(req) {
     const session = await stripe.checkout.sessions.create({
       mode: 'payment',
       payment_method_types: ['card'],
+      allow_promotion_codes: true, // Enables promo codes like FIRST30
       line_items: [{ price: priceId, quantity: 1 }],
       // After payment, redirect to the upload form
       success_url: `${process.env.NEXT_PUBLIC_URL}/${type === 'offer' ? 'new-offer' : 'raise'}?session_id={CHECKOUT_SESSION_ID}`,

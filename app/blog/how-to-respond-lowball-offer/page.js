@@ -1,6 +1,7 @@
 import Nav from '../../../components/Nav';
 import Footer from '../../../components/Footer';
 import Link from 'next/link';
+import RelatedCompanyGuides from '../../../components/RelatedCompanyGuides';
 
 export const metadata = {
   title: 'How to Respond to a Lowball Job Offer (Without Burning the Bridge) — SalaryPrep',
@@ -146,6 +147,8 @@ export default function Article() {
           </div>
 
           <CTA />
+
+          <RelatedCompanyGuides variant="general" />
         </div>
       </article>
       <Footer />
