@@ -17,6 +17,7 @@ import Guarantee from '../components/Guarantee';
 import Pricing from '../components/Pricing';
 import FAQ from '../components/FAQ';
 import EmailCapture from '../components/EmailCapture';
+import UserResults from '../components/UserResults';
 import FinalCTA from '../components/FinalCTA';
 import Footer from '../components/Footer';
 
@@ -32,6 +33,7 @@ export default function Home() {
       <HowItWorks />
       <WhatYouGet />
       <Testimonials />
+      <UserResults />
       <Comparison />
       <WhyNotChatGPT />
       <FreeTools />

@@ -5,6 +5,8 @@ import Link from 'next/link';
 export const metadata = {
   title: 'Salary Negotiation Blog — SalaryPrep',
   description: 'Expert salary negotiation tips, scripts, and strategies. Learn how to negotiate your job offer, ask for a raise, and get paid what you deserve.',
+  keywords: ['salary negotiation blog', 'negotiation tips', 'salary negotiation strategies', 'how to negotiate salary', 'counter offer advice', 'raise negotiation guide'],
+  alternates: { canonical: 'https://www.salaryprep.com/blog' },
 };
 
 const posts = [

@@ -2,6 +2,7 @@ import Nav from '../../../components/Nav';
 import Footer from '../../../components/Footer';
 import Link from 'next/link';
 import RelatedCompanyGuides from '../../../components/RelatedCompanyGuides';
+import BlogJsonLd from '../../../components/BlogJsonLd';
 
 export const metadata = {
   title: 'How to Respond to a Lowball Job Offer (Without Burning the Bridge) — SalaryPrep',
@@ -26,9 +27,15 @@ export default function Article() {
   return (
     <main>
       <Nav />
+      <BlogJsonLd
+        title="How to Respond to a Lowball Job Offer (Without Burning the Bridge)"
+        description="Got a lowball salary offer? Learn exactly what to say, how to counter professionally, and when to walk away. Includes scripts and email templates."
+        slug="how-to-respond-lowball-offer"
+        datePublished="2026-02-12"
+      />
       <article className="pt-32 pb-20 px-6 max-w-[720px] mx-auto">
         <Link href="/blog" className="text-accent text-sm font-medium mb-6 inline-block">← Back to Blog</Link>
-        
+
         <div className="mb-8">
           <span className="text-xs font-bold uppercase tracking-wider text-accent bg-accent-light px-3 py-1 rounded-full">Negotiation</span>
           <h1 className="font-serif text-3xl md:text-4xl mt-4 mb-3 leading-tight">How to Respond to a Lowball Job Offer (Without Burning the Bridge)</h1>

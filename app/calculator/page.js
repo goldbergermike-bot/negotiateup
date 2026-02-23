@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import Nav from '../../components/Nav';
 
 function estimateCounter(data) {
@@ -56,6 +56,9 @@ export default function CalculatorPage() {
     currently_employed: '',
   });
   const [showResults, setShowResults] = useState(false);
+  const [email, setEmail] = useState('');
+  const [emailSubmitted, setEmailSubmitted] = useState(false);
+  const [emailLoading, setEmailLoading] = useState(false);
 
   const update = (key, val) => setData({ ...data, [key]: val });
 
@@ -143,6 +146,52 @@ export default function CalculatorPage() {
                 </a>
                 <p className="text-xs text-muted text-center mt-2">🔒 Money-back guarantee · Delivered in 10 minutes</p>
               </div>
+
+              {/* Email capture */}
+              {!emailSubmitted ? (
+                <div className="bg-paper rounded-2xl p-6 mb-6 border border-border text-center">
+                  <p className="font-semibold text-sm mb-1">Not ready to buy? Get free negotiation tips.</p>
+                  <p className="text-xs text-muted mb-3">Join our email list for salary negotiation strategies and exclusive discounts.</p>
+                  <form
+                    onSubmit={async (e) => {
+                      e.preventDefault();
+                      if (!email || emailLoading) return;
+                      setEmailLoading(true);
+                      try {
+                        await fetch('/api/capture-email', {
+                          method: 'POST',
+                          headers: { 'Content-Type': 'application/json' },
+                          body: JSON.stringify({ email, source: 'calculator' }),
+                        });
+                        setEmailSubmitted(true);
+                      } catch { /* silent */ }
+                      setEmailLoading(false);
+                    }}
+                    className="flex gap-2 max-w-sm mx-auto"
+                  >
+                    <input
+                      type="email"
+                      value={email}
+                      onChange={(e) => setEmail(e.target.value)}
+                      placeholder="you@email.com"
+                      required
+                      className="flex-1 px-4 py-2.5 rounded-lg border border-border text-sm focus:outline-none focus:ring-2 focus:ring-accent/30 focus:border-accent"
+                    />
+                    <button
+                      type="submit"
+                      disabled={emailLoading}
+                      className="bg-accent text-white px-5 py-2.5 rounded-lg font-semibold text-sm hover:bg-accent-glow transition-all whitespace-nowrap"
+                    >
+                      {emailLoading ? '...' : 'Send Tips →'}
+                    </button>
+                  </form>
+                  <p className="text-xs text-muted mt-2">No spam. Unsubscribe anytime.</p>
+                </div>
+              ) : (
+                <div className="bg-accent-light rounded-2xl p-6 mb-6 text-center">
+                  <p className="text-accent font-semibold text-sm">You're in! Check your inbox for negotiation tips.</p>
+                </div>
+              )}
 
               {/* Restart */}
               <button

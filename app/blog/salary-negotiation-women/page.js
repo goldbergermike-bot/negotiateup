@@ -2,6 +2,7 @@ import Nav from '../../../components/Nav';
 import Footer from '../../../components/Footer';
 import Link from 'next/link';
 import RelatedCompanyGuides from '../../../components/RelatedCompanyGuides';
+import BlogJsonLd from '../../../components/BlogJsonLd';
 
 export const metadata = {
   title: 'Salary Negotiation for Women: Close the Pay Gap With These Strategies — SalaryPrep',
@@ -26,9 +27,15 @@ export default function Article() {
   return (
     <main>
       <Nav />
+      <BlogJsonLd
+        title="Salary Negotiation for Women: Close the Pay Gap With These Strategies"
+        description="Research-backed salary negotiation strategies specifically for women. Learn how to overcome bias, negotiate confidently, and close the gender pay gap."
+        slug="salary-negotiation-women"
+        datePublished="2026-02-12"
+      />
       <article className="pt-32 pb-20 px-6 max-w-[720px] mx-auto">
         <Link href="/blog" className="text-accent text-sm font-medium mb-6 inline-block">← Back to Blog</Link>
-        
+
         <div className="mb-8">
           <span className="text-xs font-bold uppercase tracking-wider text-accent bg-accent-light px-3 py-1 rounded-full">Strategy</span>
           <h1 className="font-serif text-3xl md:text-4xl mt-4 mb-3 leading-tight">Salary Negotiation for Women: Close the Pay Gap With These Strategies</h1>

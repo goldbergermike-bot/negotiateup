@@ -2,6 +2,7 @@ import Nav from '../../../components/Nav';
 import Footer from '../../../components/Footer';
 import Link from 'next/link';
 import RelatedCompanyGuides from '../../../components/RelatedCompanyGuides';
+import BlogJsonLd from '../../../components/BlogJsonLd';
 
 export const metadata = {
   title: 'Counter Offer Email Template: Exactly What to Write — SalaryPrep',
@@ -39,9 +40,15 @@ export default function Article() {
   return (
     <main>
       <Nav />
+      <BlogJsonLd
+        title="Counter Offer Email Template: Exactly What to Write"
+        description="Copy-paste counter offer email templates for salary negotiation. Includes templates for different situations, plus tips on tone and timing."
+        slug="counter-offer-email-template"
+        datePublished="2026-02-09"
+      />
       <article className="pt-32 pb-20 px-6 max-w-[720px] mx-auto">
         <Link href="/blog" className="text-accent text-sm font-medium mb-6 inline-block">← Back to Blog</Link>
-        
+
         <div className="mb-8">
           <span className="text-xs font-bold uppercase tracking-wider text-accent bg-accent-light px-3 py-1 rounded-full">Scripts & Templates</span>
           <h1 className="font-serif text-3xl md:text-4xl mt-4 mb-3 leading-tight">Counter Offer Email Template: Exactly What to Write</h1>
@@ -93,6 +100,15 @@ Best,
           </p>
 
           <CTA />
+
+          <div className="my-8 bg-paper rounded-xl p-6 border border-border flex flex-col sm:flex-row items-center gap-4">
+            <div className="text-3xl">🎯</div>
+            <div className="flex-1 text-center sm:text-left">
+              <p className="font-semibold text-sm">Free: Counter-Offer Calculator</p>
+              <p className="text-muted text-xs">Not sure what number to put in your email? Calculate it first.</p>
+            </div>
+            <a href="/calculator" className="text-accent font-semibold text-sm whitespace-nowrap">Try it free →</a>
+          </div>
 
           <h2 className="font-serif text-2xl mt-10 mb-4 text-ink">Template 2: Counter with a Competing Offer</h2>
           

@@ -2,6 +2,7 @@ import Nav from '../../../components/Nav';
 import Footer from '../../../components/Footer';
 import Link from 'next/link';
 import RelatedCompanyGuides from '../../../components/RelatedCompanyGuides';
+import BlogJsonLd from '../../../components/BlogJsonLd';
 
 export const metadata = {
   title: 'How to Ask for a Raise: The Complete Playbook — SalaryPrep',
@@ -26,9 +27,15 @@ export default function Article() {
   return (
     <main>
       <Nav />
+      <BlogJsonLd
+        title="How to Ask for a Raise: The Complete Playbook"
+        description="Step-by-step guide to asking for a raise. Includes how to build your business case, what to say to your manager, and how to handle every objection."
+        slug="how-to-ask-for-a-raise"
+        datePublished="2026-02-09"
+      />
       <article className="pt-32 pb-20 px-6 max-w-[720px] mx-auto">
         <Link href="/blog" className="text-accent text-sm font-medium mb-6 inline-block">← Back to Blog</Link>
-        
+
         <div className="mb-8">
           <span className="text-xs font-bold uppercase tracking-wider text-blue bg-blue/10 px-3 py-1 rounded-full">Raises</span>
           <h1 className="font-serif text-3xl md:text-4xl mt-4 mb-3 leading-tight">How to Ask for a Raise: The Complete Playbook</h1>
@@ -72,6 +79,15 @@ export default function Article() {
           </p>
 
           <CTA />
+
+          <div className="my-8 bg-paper rounded-xl p-6 border border-border flex flex-col sm:flex-row items-center gap-4">
+            <div className="text-3xl">🤔</div>
+            <div className="flex-1 text-center sm:text-left">
+              <p className="font-semibold text-sm">Free: Am I Underpaid? Quiz</p>
+              <p className="text-muted text-xs">Find out how your salary compares to market in 60 seconds.</p>
+            </div>
+            <a href="/quiz" className="text-accent font-semibold text-sm whitespace-nowrap">Take the quiz →</a>
+          </div>
 
           <h2 className="font-serif text-2xl mt-10 mb-4 text-ink">Step 3: Pick the Right Timing</h2>
           

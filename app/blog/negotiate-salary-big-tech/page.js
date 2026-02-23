@@ -2,6 +2,7 @@ import Nav from '../../../components/Nav';
 import Footer from '../../../components/Footer';
 import Link from 'next/link';
 import RelatedCompanyGuides from '../../../components/RelatedCompanyGuides';
+import BlogJsonLd from '../../../components/BlogJsonLd';
 
 export const metadata = {
   title: 'How to Negotiate Salary at Amazon, Google & Big Tech (2026 Guide) — SalaryPrep',
@@ -39,9 +40,15 @@ export default function Article() {
   return (
     <main>
       <Nav />
+      <BlogJsonLd
+        title="How to Negotiate Salary at Amazon, Google & Big Tech (2026 Guide)"
+        description="Learn how to negotiate a FAANG job offer. Covers Amazon, Google, Meta, Apple, and Microsoft compensation structure, signing bonuses, RSUs, and exact negotiation scripts."
+        slug="negotiate-salary-big-tech"
+        datePublished="2026-02-12"
+      />
       <article className="pt-32 pb-20 px-6 max-w-[720px] mx-auto">
         <Link href="/blog" className="text-accent text-sm font-medium mb-6 inline-block">← Back to Blog</Link>
-        
+
         <div className="mb-8">
           <span className="text-xs font-bold uppercase tracking-wider text-accent bg-accent-light px-3 py-1 rounded-full">Big Tech</span>
           <h1 className="font-serif text-3xl md:text-4xl mt-4 mb-3 leading-tight">How to Negotiate Salary at Amazon, Google & Big Tech (2026 Guide)</h1>

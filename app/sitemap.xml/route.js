@@ -18,8 +18,7 @@ export async function GET() {
     { loc: '/blog/how-to-respond-lowball-offer', priority: '0.8', changefreq: 'monthly' },
     { loc: '/blog/salary-negotiation-women', priority: '0.8', changefreq: 'monthly' },
     { loc: '/blog/get-raise-no-budget', priority: '0.8', changefreq: 'monthly' },
-    { loc: '/new-offer', priority: '0.7', changefreq: 'monthly' },
-    { loc: '/raise', priority: '0.7', changefreq: 'monthly' },
+    // /new-offer and /raise removed — post-checkout gated pages, not indexable
     { loc: '/privacy', priority: '0.3', changefreq: 'yearly' },
     { loc: '/terms', priority: '0.3', changefreq: 'yearly' },
   ];
