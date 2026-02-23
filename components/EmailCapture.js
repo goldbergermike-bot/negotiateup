@@ -8,7 +8,8 @@ export default function EmailCapture() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    // For now, just show success. Later you can connect to Resend audience or Mailchimp.
+    // TODO: Connect to Resend audience, Mailchimp, or other email service
+    // For now, show a message indicating the feature is coming soon
     setSubmitted(true);
   };
 
@@ -18,8 +19,8 @@ export default function EmailCapture() {
         {submitted ? (
           <div>
             <span className="text-3xl mb-3 block">✅</span>
-            <h3 className="font-serif text-2xl mb-2">You're on the list!</h3>
-            <p className="text-muted text-sm">We'll send you free negotiation tips and let you know about any deals.</p>
+            <h3 className="font-serif text-2xl mb-2">Thanks for your interest!</h3>
+            <p className="text-muted text-sm">Email list coming soon. In the meantime, check out our <a href="/blog" className="text-accent hover:underline">blog</a> for free negotiation tips.</p>
           </div>
         ) : (
           <>

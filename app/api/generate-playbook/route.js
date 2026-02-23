@@ -9,8 +9,6 @@ import { getOfferPrompt, getRaisePrompt } from '../../../lib/prompts';
 import { generatePlaybookPDF } from '../../../lib/pdf-generator';
 import { sendPlaybookEmail } from '../../../lib/email';
 
-const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-
 export const maxDuration = 120; // Allow up to 2 min for generation (Vercel Pro)
 
 export async function POST(req) {
@@ -52,6 +50,7 @@ export async function POST(req) {
 
     console.log(`Generating ${type} playbook for ${data.fullName}...`);
 
+    const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
     const message = await anthropic.messages.create({
       model: 'claude-sonnet-4-20250514',
       max_tokens: 8000,

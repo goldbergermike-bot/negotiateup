@@ -11,10 +11,10 @@ export const metadata = {
 
 function CTA() {
   return (
-    <div className="my-10 bg-blue/10 rounded-2xl p-8 text-center border border-blue/20">
-      <p className="font-serif text-xl mb-2 text-blue">Want a raise playbook built for YOUR situation?</p>
+    <div className="my-10 bg-accent-light rounded-2xl p-8 text-center border border-accent/20">
+      <p className="font-serif text-xl mb-2 text-accent">Want a raise playbook built for YOUR situation?</p>
       <p className="text-sm text-muted mb-4">Get a personalized business case, manager conversation scripts, and objection handling tailored to your company and role.</p>
-      <a href="/#pricing" className="inline-block bg-blue text-white px-6 py-3 rounded-xl font-semibold text-sm hover:-translate-y-0.5 transition-all">
+      <a href="/#pricing" className="inline-block bg-accent text-white px-6 py-3 rounded-xl font-semibold text-sm hover:-translate-y-0.5 transition-all">
         Get My Playbook — $39 →
       </a>
     </div>
@@ -29,7 +29,7 @@ export default function Article() {
         <Link href="/blog" className="text-accent text-sm font-medium mb-6 inline-block">← Back to Blog</Link>
         
         <div className="mb-8">
-          <span className="text-xs font-bold uppercase tracking-wider text-blue bg-blue/10 px-3 py-1 rounded-full">Raises</span>
+          <span className="text-xs font-bold uppercase tracking-wider text-accent bg-accent-light px-3 py-1 rounded-full">Raises</span>
           <h1 className="font-serif text-3xl md:text-4xl mt-4 mb-3 leading-tight">How to Ask for a Raise: The Complete Playbook</h1>
           <p className="text-muted text-sm">February 9, 2026 · 14 min read</p>
         </div>
@@ -95,7 +95,7 @@ export default function Article() {
           <p className="text-gray-700 leading-relaxed mb-4">
             Here's what to say when setting up the meeting:
           </p>
-          <blockquote className="border-l-4 border-blue bg-blue/10 p-4 rounded-r-xl my-6 text-sm text-gray-700 italic">
+          <blockquote className="border-l-4 border-accent bg-accent-light/50 p-4 rounded-r-xl my-6 text-sm text-gray-700 italic">
             "Hi [Manager], I'd love to schedule 20-30 minutes to discuss my role and compensation. I've been reflecting on my contributions and growth over the past year, and I'd value the chance to have that conversation with you. Would [day/time] work?"
           </blockquote>
           <p className="text-gray-700 leading-relaxed mb-6">

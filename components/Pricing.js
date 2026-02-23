@@ -1,8 +1,15 @@
 'use client';
 
+import { useState } from 'react';
+
 export default function Pricing() {
+  const [loading, setLoading] = useState(null); // 'offer' | 'raise' | null
+  const [error, setError] = useState('');
+
   const handleCheckout = async (type) => {
     try {
+      setLoading(type);
+      setError('');
       const res = await fetch('/api/create-checkout', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -12,10 +19,12 @@ export default function Pricing() {
       if (data.url) {
         window.location.href = data.url;
       } else {
-        alert(data.error || 'Something went wrong. Please try again.');
+        setError(data.error || 'Something went wrong. Please try again.');
+        setLoading(null);
       }
     } catch (err) {
-      alert('Something went wrong. Please try again.');
+      setError('Something went wrong. Please try again.');
+      setLoading(null);
     }
   };
 
@@ -28,6 +37,10 @@ export default function Pricing() {
           🎉 Use code FIRST30 at checkout for 30% off → $27.30
         </span>
       </p>
+
+      {error && (
+        <p className="text-red-600 text-sm mb-6">{error}</p>
+      )}
 
       <div className="grid md:grid-cols-2 gap-6 max-w-[820px] mx-auto">
         {/* Offer Card */}
@@ -57,9 +70,10 @@ export default function Pricing() {
           </ul>
           <button
             onClick={() => handleCheckout('offer')}
-            className="w-full bg-accent text-white py-4 rounded-xl font-semibold text-lg hover:bg-accent-glow transition-all hover:-translate-y-0.5 shadow-lg shadow-accent/25"
+            disabled={loading !== null}
+            className="w-full bg-accent text-white py-4 rounded-xl font-semibold text-lg hover:bg-accent-glow transition-all hover:-translate-y-0.5 shadow-lg shadow-accent/25 disabled:opacity-60 disabled:cursor-not-allowed disabled:hover:translate-y-0"
           >
-            Get Offer Playbook →
+            {loading === 'offer' ? 'Redirecting...' : 'Get Offer Playbook →'}
           </button>
           <p className="text-muted text-xs mt-3">🔒 Secure checkout · Money-back guarantee</p>
         </div>
@@ -91,9 +105,10 @@ export default function Pricing() {
           </ul>
           <button
             onClick={() => handleCheckout('raise')}
-            className="w-full bg-blue text-white py-4 rounded-xl font-semibold text-lg hover:bg-[#245fa0] transition-all hover:-translate-y-0.5 shadow-lg shadow-blue/25"
+            disabled={loading !== null}
+            className="w-full bg-blue text-white py-4 rounded-xl font-semibold text-lg hover:bg-[#245fa0] transition-all hover:-translate-y-0.5 shadow-lg shadow-blue/25 disabled:opacity-60 disabled:cursor-not-allowed disabled:hover:translate-y-0"
           >
-            Get Raise Playbook →
+            {loading === 'raise' ? 'Redirecting...' : 'Get Raise Playbook →'}
           </button>
           <p className="text-muted text-xs mt-3">🔒 Secure checkout · Money-back guarantee</p>
         </div>

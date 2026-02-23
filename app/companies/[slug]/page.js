@@ -7,7 +7,8 @@ export async function generateStaticParams() {
   return getAllSlugs().map(slug => ({ slug }));
 }
 
-export async function generateMetadata({ params }) {
+export async function generateMetadata({ params: paramsPromise }) {
+  const params = await paramsPromise;
   const company = getCompanyBySlug(params.slug);
   if (!company) return { title: 'Company Not Found — SalaryPrep' };
 
@@ -25,7 +26,8 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function CompanyPage({ params }) {
+export default async function CompanyPage({ params: paramsPromise }) {
+  const params = await paramsPromise;
   const company = getCompanyBySlug(params.slug);
 
   if (!company) {
