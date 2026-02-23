@@ -1,13 +1,14 @@
 // ============================================
 // SalaryPrep — Main Playbook Generation API
 // ============================================
-// Flow: Parse form + files → Call Claude AI → Generate PDF → Send email
+// Flow: Parse form + files → Lookup research → Call Claude AI → Generate PDF → Send email
 
 import { NextResponse } from 'next/server';
 import Anthropic from '@anthropic-ai/sdk';
 import { getOfferPrompt, getRaisePrompt } from '../../../lib/prompts';
 import { generatePlaybookPDF } from '../../../lib/pdf-generator';
 import { sendPlaybookEmail } from '../../../lib/email';
+import { lookupResearch } from '../../../lib/research-matcher';
 
 const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
@@ -47,8 +48,17 @@ export async function POST(req) {
       data.jobListingText = await extractTextFromFile(jobListingFile);
     }
 
+    // ---- LOOKUP COMPANY RESEARCH DATA ----
+    const research = lookupResearch(data.companyName, data.jobTitle);
+
+    if (research) {
+      console.log(`Research match found: ${research.company}/${research.role} (${research.companyConfidence}/${research.matchType})`);
+    } else {
+      console.log(`No research match for "${data.companyName}" / "${data.jobTitle}" — using general market data`);
+    }
+
     // ---- GENERATE PLAYBOOK CONTENT WITH AI ----
-    const prompt = type === 'offer' ? getOfferPrompt(data) : getRaisePrompt(data);
+    const prompt = type === 'offer' ? getOfferPrompt(data, research) : getRaisePrompt(data, research);
 
     console.log(`Generating ${type} playbook for ${data.fullName}...`);
 
