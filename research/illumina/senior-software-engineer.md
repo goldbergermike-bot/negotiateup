@@ -1,0 +1,29 @@
+### Senior Software Engineer | Illumina Global Negotiation Guide
+
+**Negotiation DNA:** Genomics/Sequencing Dominant / Specialized Biotech Comp / RSU + Bonus / Senior IC
+
+| Region | Base Salary | Stock (RSU/4yr) | Bonus | Total Comp |
+|--------|-------------|-----------------|-------|------------|
+| San Diego CA | $155K–$210K | $65K–$175K/4yr | 12–18% | $200K–$310K |
+| Bay Area CA | $160K–$215K | $70K–$180K/4yr | 12–18% | $210K–$320K |
+| Remote US | $145K–$200K | $60K–$165K/4yr | 12–18% | $185K–$295K |
+
+**Negotiation DNA**
+
+Senior Software Engineers at Illumina lead technical design for the sequencing platform's software ecosystem. Senior engineers own architectural decisions for instrument control systems, DRAGEN bioinformatics platform, BaseSpace cloud analytics, and enterprise integrations. The role requires deep understanding of both software engineering and genomics data processing — senior engineers are expected to make informed technical decisions about algorithms, data formats, and processing pipelines that affect the accuracy and speed of genomic analysis. Illumina's senior engineering culture values technical depth, cross-functional collaboration with bioinformatics scientists, and the ability to balance innovation with the reliability requirements of clinical genomics applications. [Source: Illumina Engineering Career Framework 2025]
+
+**Level Mapping:** Illumina Senior SWE = Google L4 = Genentech Senior = Moderna Senior
+
+**Global Levers**
+
+1. **Sequencing Platform Architecture:** "My architectural decisions affect the software stack that processes 80% of the world's genomic data. This scale of impact justifies senior-level premium comp."
+2. **San Diego Senior Market:** "Senior SWEs in San Diego biotech command $200K-$310K TC."
+3. **Genomics + Software Hybrid:** "Senior engineers who combine strong software architecture with genomics data expertise are rare. This dual expertise is essential for technical leadership at Illumina."
+4. **ILMN Stock + Bonus Push:** "Target 18% bonus and top RSU grants for stock recovery upside."
+
+> **Negotiate Up Strategy:** "I'd like the base at $205K with RSUs at $155K/4yr and an 18% bonus. My genomics software engineering experience makes me immediately productive at Illumina's senior level." Illumina will counter at $170K-$195K base with $85K-$135K RSUs. Accept if total comp exceeds $260K. Push on RSU and bonus.
+
+**Evidence & Sources**
+- [Illumina Engineering Career Framework 2025]
+- [Levels.fyi Illumina Senior SWE Comp 2025-2026]
+- [San Diego Biotech Senior Market — Radford 2025]

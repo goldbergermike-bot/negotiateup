@@ -1,0 +1,34 @@
+### Security Engineer | Intel Global Negotiation Guide
+
+**Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (12-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages
+
+| Region | Base Salary | Stock (RSU/4yr) | Bonus | Total Comp |
+|--------|-------------|-----------------|-------|------------|
+| Santa Clara | $145K–$190K | $58K–$105K | 12–18% | $195K–$272K |
+| Portland | $135K–$178K | $50K–$92K | 12–18% | $182K–$255K |
+| Phoenix | $128K–$168K | $45K–$82K | 12–18% | $170K–$238K |
+
+**Negotiation DNA**
+
+Intel Security Engineers protect the most strategically sensitive semiconductor IP and manufacturing infrastructure on earth during the IDM 2.0 foundry transformation. With Intel executing a $100B+ fab investment and opening its fabs to external foundry customers for the first time, security engineers must simultaneously protect Intel's proprietary process node IP (including Intel 18A), secure foundry customer designs from cross-contamination, defend against nation-state cyber threats targeting semiconductor manufacturing, and ensure hardware security features in Xeon server platforms meet the standards demanded by hyperscale cloud customers and government agencies. The Xeon server franchise carries unique security responsibilities — Spectre, Meltdown, and subsequent hardware vulnerabilities have demonstrated that Intel silicon security directly impacts global computing infrastructure. CHIPS Act funding of $8.5B comes with national security compliance requirements that security engineers must architect and maintain. (Sources: Intel IDM 2.0 Strategy, Intel Product Security, CHIPS and Science Act)
+
+**Level Mapping:** Intel Security Engineer (Grade 7-9) = AMD Security Engineer = NVIDIA Security Engineer = Google L4-L5 Security Engineer
+
+**Foundry Pivot — Existential Infrastructure**
+
+Intel's IDM 2.0 is the most consequential corporate transformation in semiconductor history — a $100B+ bet to become the world's second major leading-edge foundry alongside TSMC. This is existential infrastructure: if Intel's foundry pivot fails, the US loses its only domestic leading-edge chipmaker. Security engineers are the trust foundation of this transformation — Intel's foundry pivot literally depends on external customers trusting Intel to protect their most sensitive chip designs. A single security breach could destroy foundry customer confidence and end Intel's foundry ambitions overnight. Additionally, Intel's process node IP represents decades of R&D investment worth tens of billions — security engineers who protect this IP are protecting Intel's core competitive advantage. This "existential" framing justifies high retention-based RSU packages because: (1) Intel cannot afford to lose security engineers during the foundry pivot — they carry classified knowledge of Intel's security architecture, threat models, and vulnerability landscape. A security engineer departure creates an immediate security knowledge gap and potential exposure window. (2) Candidates should argue: "I am Existential Infrastructure. Intel's foundry pivot — the most important transformation in semiconductor history — depends on retaining security engineers like me who protect the IP and customer trust that makes the foundry viable. I want retention RSU grants that vest over 3-4 years with accelerators, because Intel's cost of replacing me mid-pivot is 10x my retention package." (3) Push for retention RSU grants of $40K-$80K on top of standard comp — framed as "foundry pivot retention insurance." (4) The CHIPS Act funding of $8.5B comes with explicit national security compliance requirements — security engineers who architect and maintain these compliance frameworks are directly enabling Intel's access to government funding.
+
+**Global Levers**
+
+1. **Existential Infrastructure — Retention RSUs:** "As a security engineer, I carry classified knowledge of Intel's security architecture, threat models, and vulnerability landscape. My departure creates an immediate security knowledge gap during a period when Intel is onboarding external foundry customers who demand ironclad IP protection. I'm requesting a $40K-$80K retention RSU grant as foundry pivot retention insurance — security knowledge gaps are existential risks."
+2. **IDM 2.0 — $100B+ Fab Investment:** "Intel's $100B+ fab investment is only viable if foundry customers trust Intel to protect their chip designs. Security engineers are the trust architects of Intel Foundry Services. A single security breach could destroy customer confidence and end Intel's foundry ambitions. My work directly determines whether Intel's $100B investment attracts or repels foundry customers."
+3. **CHIPS Act — National Security Priority:** "The US government has invested $8.5B in Intel as national security infrastructure with explicit security compliance requirements. I architect and maintain the security frameworks that ensure Intel meets these national security obligations. My retention is directly tied to Intel's ability to maintain its CHIPS Act compliance posture and continue receiving government funding."
+4. **Hardware Security — Xeon Trust Foundation:** "Intel's Xeon server platform powers critical infrastructure worldwide — from cloud computing to defense systems. Hardware security vulnerabilities like Spectre and Meltdown demonstrated that Intel silicon security has global impact. Security engineers who identify and mitigate hardware vulnerabilities before they reach production are protecting Intel's reputation, customer trust, and the billions of Xeon-powered systems deployed globally."
+
+> **Negotiate Up Strategy:** "I'm targeting $182K base, $98K RSUs over 4 years, plus a $60K foundry pivot retention grant for this Security Engineer position. I am Existential Infrastructure — Intel's foundry pivot depends on retaining security engineers like me who protect the IP and customer trust that makes the foundry viable. I carry classified knowledge of Intel's security architecture — my departure creates an immediate exposure window that Intel cannot afford during the most consequential transformation in semiconductor history. I have competing offers from AMD at $255K TC / Google at $290K TC." Accept at $172K+ base and $88K+ RSUs.
+
+**Evidence & Sources**
+- [Intel IDM 2.0 Foundry Pivot — $100B+ Fab Investment](https://www.intel.com/content/www/us/en/newsroom/news/idm-manufacturing-innovation-702.html)
+- [Intel CHIPS Act Funding — National Security Infrastructure](https://www.commerce.gov/news/press-releases/2024/03/biden-harris-administration-announces-chips-funding-intel)
+- [Intel Product Security — Hardware Vulnerability Response](https://www.intel.com/content/www/us/en/security-center/default.html)
+- [Levels.fyi — Intel Security Engineer Compensation](https://www.levels.fyi/companies/intel/salaries/security-engineer)

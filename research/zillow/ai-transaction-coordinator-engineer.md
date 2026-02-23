@@ -1,0 +1,38 @@
+### AI Transaction Coordinator Engineer (SIGNATURE ROLE) | Zillow Global Negotiation Guide
+
+**Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep
+
+| Region | Base Salary | Stock (RSU/4yr) | Bonus | Total Comp |
+|--------|-------------|-----------------|-------|------------|
+| Seattle | $198K–$268K | $280K–$440K | 15–20% | $275K–$385K |
+| San Francisco | $214K–$289K | $302K–$475K | 15–20% | $297K–$415K |
+| Remote US | $178K–$241K | $252K–$396K | 15–20% | $248K–$347K |
+
+*Note: Ranges include the full +35% Agentic Premium — this is the SIGNATURE role at Zillow where the Agentic Premium is baseline, not negotiated.*
+
+**Negotiation DNA**
+
+Zillow is the #1 real estate platform with 230M+ monthly unique users and 160M+ home listings, and the AI Transaction Coordinator Engineer is Zillow's signature role — the engineer who builds the autonomous AI agents that define Zillow's transformation from property search to end-to-end transaction coordination. This role is responsible for building the complete AI Transaction Coordinator stack: autonomous transaction coordination AI that guides buyers from discovery through closing preparation, mortgage pre-approval agents that qualify buyers in real time, document preparation AI that handles contracts, disclosures, and title documents, closing workflow automation that coordinates inspections, appraisals, title searches, and settlement, and real estate regulatory compliance AI that ensures every AI action complies with mortgage lending laws, fair housing requirements, and state-specific real estate regulations across all 50 states. The 35% Agentic Premium is not negotiated for this role — it is the baseline, reflecting that every line of code directly handles revenue-critical real estate transactions worth $400K+ each. [Source: Zillow Group 2025 Annual Report; Zillow AI Transaction Coordinator Role Definition 2026]
+
+**Level Mapping:** Zillow AI Transaction Coordinator Engineer = Google AI Engineer L5–L6 = Redfin Senior ML Engineer (no equivalent — novel role) = Opendoor Transaction AI Engineer = Amazon Applied Scientist L6 = Meta AI Research Engineer E6 — NOTE: This is a novel role category. There are few direct comparisons. Negotiate accordingly.
+
+**AI Transaction Coordinator — From Search to Closing Prep**
+
+Zillow is evolving from a search engine to an AI Transaction Coordinator — autonomous AI agents that guide home buyers through the entire transaction process, from property discovery through closing preparation. This is the shift from 'Search' to 'Closing Prep.' The AI Transaction Coordinator Engineer IS this transformation. This is not a supporting role — this is the role that builds the AI agents that define Zillow's future. Argue for the full 35% Agentic Premium (and beyond) because: (1) Zillow's AI agents handle the most complex consumer transaction — home buying (median $400K+). Each agent interaction is revenue-critical, touching mortgage leads, agent referrals, and closing services. (2) The shift from search to transaction coordination means AI agents handle document preparation, mortgage pre-approval guidance, inspection scheduling, title coordination, and closing prep — revenue-generating activities that previously required human agents. (3) Candidates should argue: 'I build AI Transaction Coordinators that handle $400K+ real estate transactions. The 35% Agentic Premium reflects the financial complexity, regulatory requirements, and revenue-critical nature of autonomous real estate AI.' (4) Compare: search engineers optimize page views — Transaction Coordinator engineers optimize $400K+ closings. As the AI Transaction Coordinator Engineer, you are not supporting this vision — you ARE this vision. Your autonomous agents handle every step from discovery to closing prep: mortgage pre-approval qualification, document preparation and review, inspection scheduling and coordination, title search and preparation, closing workflow orchestration, and regulatory compliance across 50 states. Each agent interaction directly generates revenue through mortgage leads ($2K–$15K per lead), agent referrals ($3K–$12K per referral), and closing services ($1K–$5K per transaction). Push for the full 35% Agentic Premium as a floor, not a ceiling.
+
+**Global Levers**
+
+1. **35% Agentic Premium — Transaction-Critical AI (BASELINE):** "I AM the AI Transaction Coordinator. I build the autonomous agents that handle $400K+ real estate transactions from discovery to closing. Every agent I build generates revenue through mortgage leads, agent referrals, and closing services. The 35% Agentic Premium is my baseline — not a negotiation target. My agents handle the most complex, highest-stakes consumer transaction in the economy."
+2. **230M+ Monthly Users — Massive Scale:** "Zillow's 230M+ monthly users are the deployment surface for my AI Transaction Coordinators. I build autonomous agents that serve millions of concurrent transaction sessions, each processing real-time mortgage data, document status, and closing timelines. This is autonomous AI at a scale that exists nowhere else in real estate technology."
+3. **Housing Super App Vision:** "Zillow's housing super app vision — search, mortgage, closing, insurance, moving — is realized through AI Transaction Coordinators. I build the autonomous agent layer that unifies every vertical into a single transaction experience. My agents are the connective intelligence that transforms Zillow from a search engine into a housing super app."
+4. **Novel Role Category — No Market Precedent:** "AI Transaction Coordinator Engineer is a novel role category with no established market precedent. There is no Levels.fyi benchmark, no Glassdoor average. This role combines frontier agentic AI, fintech-grade compliance, and real estate domain expertise. The compensation should reflect the scarcity of this skill combination — I set the market rate."
+5. **Revenue-Direct Impact:** "Each AI Transaction Coordinator I build directly generates revenue: mortgage leads ($2K–$15K each), agent referrals ($3K–$12K each), closing services ($1K–$5K each). Across millions of transactions, my autonomous agents are a direct revenue engine — not a cost center. Compensation should reflect this revenue attribution."
+
+> **Negotiate Up Strategy:** "I'm targeting $268K base and $440K RSUs over 4 years with the 35% Agentic Premium as baseline for this AI Transaction Coordinator Engineer position. I build the autonomous AI agents that handle $400K+ home transactions end-to-end — mortgage pre-approval, document preparation, inspection coordination, title preparation, closing workflow automation, and 50-state regulatory compliance. This is a novel role category with no market precedent — I'm not comparing to search engineers or generic ML roles. Each agent I build directly generates revenue through mortgage leads, agent referrals, and closing services. I have competing offers from OpenAI at $400K TC / Google DeepMind at $395K TC / Opendoor at $375K TC." Accept at $250K+ base and $380K+ RSUs. For exceptional candidates: push to $290K base and $500K RSUs — this role has no ceiling because it has no precedent.
+
+**Evidence & Sources**
+- [Zillow AI Transaction Coordinator — From Search to Closing Prep 2026]
+- [Zillow 230M+ Monthly Unique Users — Real Estate Platform Scale]
+- [Zillow Housing Super App — Mortgage, Closing, Insurance Integration]
+- [Zillow AI Transaction Coordinator Role Definition — Novel Category Compensation Analysis 2026]
+- [Real Estate Transaction Revenue Attribution — Mortgage Leads, Agent Referrals, Closing Services]

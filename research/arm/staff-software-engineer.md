@@ -1,0 +1,34 @@
+### Staff Software Engineer | ARM Global Negotiation Guide
+
+**Negotiation DNA:** Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages
+
+| Region | Base Salary | Stock (ARM RSU/4yr) | Bonus | Total Comp |
+|--------|-------------|---------------------|-------|------------|
+| San Jose | $195K–$260K | $320K–$500K | 15–20% | $305K–$425K |
+| Austin | $175K–$235K | $285K–$450K | 15–20% | $275K–$385K |
+| Cambridge UK | £72K–£100K | $180K–$310K | 15–20% | £105K–£155K |
+
+**Negotiation DNA**
+
+ARM is the world's most pervasive compute architecture, powering 99% of smartphones and now defining the future of server, automotive, and AI compute through the Neoverse platform and CSS compute sub-systems. As a Staff Software Engineer at ARM, you set technical direction across multiple teams and subsystems, making foundational architectural decisions that propagate across ARM's entire licensee ecosystem — impacting billions of chips per year. ARM's royalty-based business model creates a unique value proposition: every architectural decision a staff engineer makes compounds across billions of manufactured chips, generating recurring royalty revenue for years. Post-IPO ARM (NASDAQ: ARM) has seen significant stock appreciation driven by Neoverse server adoption and AI accelerator demand, making staff-level RSU packages exceptionally valuable. Staff engineers at ARM command top-tier semiconductor compensation reflecting their outsized architectural impact. (Sources: ARM Holdings FY2025 Annual Report; ARM Neoverse CSS Architecture Documentation; Glassdoor/Levels.fyi ARM Staff Engineer compensation data 2024-2025)
+
+**Level Mapping:** ARM Staff Software Engineer = NVIDIA Staff/Senior Staff Engineer = Intel Principal Engineer (Grade 9) = Google L6
+
+**Royalty Multiplier — Neoverse/CSS Equity Density**
+
+ARM's business model is unique in semiconductors: you design once, and ARM collects royalties on every chip manufactured — billions of chips per year across smartphones, servers, automotive, IoT, and AI accelerators. The Neoverse server platform and CSS (Compute Sub-Systems) amplify this: CSS delivers complete compute sub-systems that command higher royalty rates than individual IP cores. "As a Staff Software Engineer, you define the technical vision and architecture for ARM's platform software stack — decisions that shape how billions of ARM-based chips perform across every compute domain. Your architectural choices in compiler infrastructure, firmware frameworks, and system software become the foundation that every ARM licensee builds upon. Key points: (1) ARM's royalty model means each engineer's work generates revenue across billions of chips — a multiplier effect no other semiconductor company has. As a staff engineer, your architectural decisions aren't just implemented once; they become the technical foundation monetized billions of times across every ARM licensee's silicon for years. (2) Neoverse/CSS commands 3-5x higher royalty rates than mobile cores — meaning your work defining server and AI compute platform architecture has an outsized revenue-per-design impact. Staff engineers who set Neoverse platform direction directly shape ARM's highest-value revenue trajectory. (3) Candidates should argue: 'ARM's royalty model means my design work generates revenue across billions of chips over 5-10 years. Each Neoverse/CSS design I contribute to generates 3-5x the royalty rate of mobile cores. My equity should reflect this royalty multiplier — I want higher ARM RSU density because my work compounds into billions of royalty events.' (4) Push for equity-dense packages because ARM's royalty revenue is the most compounding business model in semis — every architectural decision you make at the staff level shapes revenue streams for years across every licensee."
+
+**Global Levers**
+
+1. **Royalty Multiplier — Equity Density:** "At the staff level, my architectural decisions define ARM's platform software direction for years and propagate across billions of chips annually. My technical vision directly shapes royalty revenue across every ARM licensee. I require staff-level equity density that reflects this extraordinary royalty multiplier — my ARM RSU allocation must match the compounding, multi-year revenue impact of my architectural contributions."
+2. **Neoverse/CSS — Server Revenue Expansion:** "I set technical direction for platform software that determines Neoverse's competitive position against x86 in data centers. CSS compute sub-systems command 3-5x premium royalties, and my architectural decisions directly impact adoption velocity. As a staff engineer driving ARM's highest-growth revenue stream, my compensation must reflect the strategic value of Neoverse platform leadership."
+3. **99% Smartphone + Server + AI:** "ARM's expansion from 99% smartphone dominance into servers and AI accelerators is the largest TAM expansion in semiconductor history. As a staff engineer, I architect software platforms that span this entire compute footprint — mobile, cloud, edge, automotive, and AI. This cross-domain architectural leverage is unique to ARM and demands staff-level equity density."
+4. **Technical Direction — Multi-Year Architecture Impact:** "Staff-level architectural decisions at ARM compound for 5-10 years across multiple chip generations and dozens of licensees. Unlike staff engineers at single-product companies, my technical direction shapes the performance and capabilities of the world's most deployed compute architecture. This multi-year, multi-licensee impact warrants top-tier equity packages."
+
+> **Negotiate Up Strategy:** "I'm targeting $255K base and $480K ARM RSUs over 4 years for this Staff Software Engineer position with royalty-multiplier equity density. My architectural decisions define ARM's platform direction and generate royalties across billions of chips — I want RSU density reflecting this compounding revenue model. I bring [X years] of staff-level architecture experience in [compiler infrastructure / system software / firmware frameworks] and a track record of setting technical direction that ships across entire ecosystems. Neoverse/CSS is ARM's highest-growth revenue driver, and my platform architecture expertise directly accelerates server market share capture. I have competing offers from NVIDIA at $400K TC / Google at $420K TC." Accept at $240K+ base and $420K+ RSUs.
+
+**Evidence & Sources**
+- [ARM Neoverse/CSS Royalty Multiplier — Server Compute Revenue](https://www.arm.com/products/neoverse)
+- [ARM Royalty Business Model — Billions of Chips per Design](https://investor.arm.com)
+- [ARM CSS Compute Sub-Systems — Premium Royalty Architecture](https://www.arm.com/products/neoverse/compute-subsystems)
+- [Levels.fyi ARM Staff Engineer Compensation Data](https://www.levels.fyi/companies/arm/salaries/software-engineer)
