@@ -20,6 +20,8 @@ export async function GET() {
     { loc: '/blog/get-raise-no-budget', priority: '0.8', changefreq: 'monthly' },
     { loc: '/new-offer', priority: '0.7', changefreq: 'monthly' },
     { loc: '/raise', priority: '0.7', changefreq: 'monthly' },
+    { loc: '/privacy', priority: '0.3', changefreq: 'yearly' },
+    { loc: '/terms', priority: '0.3', changefreq: 'yearly' },
   ];
 
   // Dynamically generate company and role URLs from the research directory
