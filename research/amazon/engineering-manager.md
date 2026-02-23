@@ -1,3 +1,66 @@
+---
+company: amazon
+company_display: Amazon
+role: engineering-manager
+role_display: Engineering Manager (SDM)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 165000
+    base_high: 190000
+    stock_low: 300000
+    stock_high: 700000
+    bonus_pct: null
+    signing_bonus_low: 80000
+    signing_bonus_high: 130000
+    total_comp_low: 380000
+    total_comp_high: 580000
+    currency: USD
+  - region: Bay Area
+    base_low: 170000
+    base_high: 190000
+    stock_low: 320000
+    stock_high: 720000
+    bonus_pct: null
+    signing_bonus_low: 85000
+    signing_bonus_high: 135000
+    total_comp_low: 395000
+    total_comp_high: 595000
+    currency: USD
+  - region: NYC
+    base_low: 170000
+    base_high: 190000
+    stock_low: 310000
+    stock_high: 710000
+    bonus_pct: null
+    signing_bonus_low: 80000
+    signing_bonus_high: 130000
+    total_comp_low: 385000
+    total_comp_high: 585000
+    currency: USD
+  - region: Arlington VA
+    base_low: 160000
+    base_high: 185000
+    stock_low: 280000
+    stock_high: 650000
+    bonus_pct: null
+    signing_bonus_low: 75000
+    signing_bonus_high: 120000
+    total_comp_low: 360000
+    total_comp_high: 550000
+    currency: USD
+level_mapping:
+  internal: SDM
+  raw: Amazon SDM L6 = Google L5 Manager = Meta M1 = Stripe EM = Apple ICT5 Manager
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Back-Loaded RSU Vesting / Signing Bonus Bridge | Leadership Principles-Driven Culture"
+---
 ### Engineering Manager (SDM) | Amazon Global Negotiation Guide
 
 **Negotiation DNA:** Back-Loaded RSU Vesting / Signing Bonus Bridge | Leadership Principles-Driven Culture

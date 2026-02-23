@@ -1,3 +1,51 @@
+---
+company: fortinet
+company_display: Fortinet
+role: sovereign-sase-platform-engineer
+role_display: Sovereign-SASE Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 390000
+    currency: USD
+  - region: Ottawa
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 128000
+    total_comp_high: 300000
+    currency: CAD
+  - region: Sophia Antipolis
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 62000
+    total_comp_high: 158000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - "Fortinet Q4 FY2025 earnings report — February 5, 2026, CEO commentary on data sovereignty as strateg"
+  - "Fortinet Unified SASE 40% growth — Q4 FY2025 earnings call, February 5, 2026"
+  - European NIS2 Directive compliance deadlines — mandatory enforcement timeline 2025
+  - "Fortinet 10-K Annual Report — FY2025 filed February 2026, Rule of 45 exceeded for 6th year, Sovereig"
+  - "Gartner Predicts 2026: Data Sovereignty Will Impact 75% of Enterprise Cloud Security Decisions — pub"
+negotiation_dna_summary: "Sovereign-SASE Platform Engineers are the architects of Fortinet's most strategically important initiative — building data-sovereign security edges that sustain the Rule of 45 and unlock $2B+ in regulated-market revenue. This is the role Fortinet cannot afford to lose."
+---
 ### Sovereign-SASE Platform Engineer — Fortinet Salary Negotiation Guide
 
 **Negotiation DNA**: Sovereign-SASE Platform Engineers are the architects of Fortinet's most strategically important initiative — building data-sovereign security edges that sustain the Rule of 45 and unlock $2B+ in regulated-market revenue. This is the role Fortinet cannot afford to lose.

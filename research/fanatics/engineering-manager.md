@@ -1,3 +1,39 @@
+---
+company: fanatics
+company_display: Fanatics
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC
+    base_low: 170000
+    base_high: 228000
+    stock_low: 100000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 230000
+    total_comp_high: 370000
+    currency: USD
+  - region: Jacksonville FL (HQ)
+    base_low: 160000
+    base_high: 218000
+    stock_low: 92000
+    stock_high: 255000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 352000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Fanatics EM = Google EM L5 = Meta M1 = Amazon SDM II = Shopify EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Private $31B Valuation | Growth Equity | Sports Commerce Monopoly | Pre-IPO Upside"
+---
 ### Engineering Manager | Fanatics Global Negotiation Guide
 
 **Negotiation DNA:** Private $31B Valuation | Growth Equity | Sports Commerce Monopoly | Pre-IPO Upside

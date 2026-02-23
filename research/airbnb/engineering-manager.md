@@ -1,3 +1,48 @@
+---
+company: airbnb
+company_display: Airbnb
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Remote
+    base_low: 242000
+    base_high: 305000
+    stock_low: 315000
+    stock_high: 548000
+    bonus_pct: null
+    total_comp_low: 321000
+    total_comp_high: 442000
+    currency: USD
+  - region: New York
+    base_low: 242000
+    base_high: 305000
+    stock_low: 315000
+    stock_high: 548000
+    bonus_pct: null
+    total_comp_low: 321000
+    total_comp_high: 442000
+    currency: USD
+  - region: London
+    base_low: 166000
+    base_high: 210000
+    stock_low: 216000
+    stock_high: 376000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 304000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airbnb EM = Google L5 EM = Meta M1 = Stripe EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion"
+---
 ### Engineering Manager | Airbnb Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion

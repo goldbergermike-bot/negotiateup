@@ -1,3 +1,39 @@
+---
+company: walmart-global-tech
+company_display: Walmart Global Tech
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bentonville AR (HQ)
+    base_low: 140000
+    base_high: 198000
+    stock_low: 60000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 300000
+    currency: USD
+  - region: Bay Area (Sunnyvale)
+    base_low: 152000
+    base_high: 213000
+    stock_low: 72000
+    stock_high: 205000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Walmart Global Tech ML Engineer = Google ML Engineer L3-L4 = Amazon Applied Scientist = Meta ML Engineer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | **+5-10% ML PREMIUM** | $600B+ Retail Giant | Bentonville Advantage"
+---
 ### ML/AI Engineer | Walmart Global Tech Global Negotiation Guide
 
 **Negotiation DNA:** Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | **+5-10% ML PREMIUM** | $600B+ Retail Giant | Bentonville Advantage

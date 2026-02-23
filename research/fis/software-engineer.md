@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 110000
+    base_high: 140000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 160000
+    total_comp_high: 238000
+    currency: USD
+  - region: New York
+    base_low: 130000
+    base_high: 165000
+    stock_low: 60000
+    stock_high: 100000
+    bonus_low: 14000
+    bonus_high: 22000
+    total_comp_low: 204000
+    total_comp_high: 287000
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 95000
+    stock_low: 30000
+    stock_high: 55000
+    bonus_low: 8000
+    bonus_high: 14000
+    total_comp_low: 113000
+    total_comp_high: 164000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking Technology` `IC Track` `L3-L4 Equivalent`"
+---
 ### Software Engineer | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking Technology` `IC Track` `L3-L4 Equivalent`

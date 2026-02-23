@@ -1,3 +1,50 @@
+---
+company: sea-group
+company_display: Sea Group
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 180000
+    base_high: 270000
+    stock_low: 100000
+    stock_high: 260000
+    bonus_pct: 12
+    total_comp_low: 270000
+    total_comp_high: 465000
+    currency: USD
+  - region: Bay Area / Seattle (US)
+    base_low: 195000
+    base_high: 265000
+    stock_low: 120000
+    stock_high: 290000
+    bonus_pct: 12
+    total_comp_low: 305000
+    total_comp_high: 470000
+    currency: USD
+  - region: "Shenzhen (R&D)"
+    base_low: 550000
+    base_high: 950000
+    stock_low: 280000
+    stock_high: 650000
+    bonus_pct: 12
+    total_comp_low: 830000
+    total_comp_high: 1500000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "Staff SWE at Sea Group (L8+) = L6 at Google, IC6 at Meta, Principal at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$35B market cap with Staff engineers defining architecture across Shopee, Garena, and SeaMoney + Singapore's competitive tech market + NYSE RSUs with growth potential | Staff engineers at Sea Group shape the technical infrastructure of SE Asia's largest tech company | **ARCHITECTURAL PREMIUM**"
+---
 ### Staff Software Engineer | Sea Group Global Negotiation Guide
 
 **Negotiation DNA:** $35B market cap with Staff engineers defining architecture across Shopee, Garena, and SeaMoney + Singapore's competitive tech market + NYSE RSUs with growth potential | Staff engineers at Sea Group shape the technical infrastructure of SE Asia's largest tech company | **ARCHITECTURAL PREMIUM**

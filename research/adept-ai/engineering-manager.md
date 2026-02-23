@@ -1,3 +1,50 @@
+---
+company: adept-ai
+company_display: Adept AI
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 270000
+    stock_low: 140000
+    stock_high: 360000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 360000
+    currency: USD
+  - region: Seattle
+    base_low: 199000
+    base_high: 262000
+    stock_low: 140000
+    stock_high: 360000
+    bonus_pct: null
+    total_comp_low: 234000
+    total_comp_high: 352000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 243000
+    stock_low: 126000
+    stock_high: 324000
+    bonus_pct: null
+    total_comp_low: 216000
+    total_comp_high: 324000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Adept EM = Amazon SDM III = Google M1-M2 = Meta M1
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | AI Agent Leadership"
+---
 ### Engineering Manager | Adept AI Global Negotiation Guide
 
 **Negotiation DNA:** Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | AI Agent Leadership

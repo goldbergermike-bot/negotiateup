@@ -1,3 +1,53 @@
+---
+company: goldman-sachs
+company_display: Goldman Sachs
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 140000
+    base_high: 192000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_low: 32000
+    bonus_high: 48000
+    total_comp_low: 212000
+    total_comp_high: 305000
+    currency: USD
+  - region: London
+    base_low: 106000
+    base_high: 146000
+    stock_low: 30000
+    stock_high: 49000
+    bonus_low: 24000
+    bonus_high: 36000
+    total_comp_low: 160000
+    total_comp_high: 231000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 3400000
+    base_high: 5000000
+    stock_low: 1200000
+    stock_high: 1800000
+    bonus_low: 800000
+    bonus_high: 1400000
+    total_comp_low: 5400000
+    total_comp_high: 8200000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: "`Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Cross-Org Program Execution` `Platform Delivery` `Regulatory Program Management`"
+---
 ### Technical Program Manager | Goldman Sachs Global Negotiation Guide
 
 **Negotiation DNA:** `Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Cross-Org Program Execution` `Platform Delivery` `Regulatory Program Management`

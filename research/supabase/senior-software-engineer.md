@@ -1,3 +1,50 @@
+---
+company: supabase
+company_display: Supabase
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 250000
+    stock_low: 200000
+    stock_high: 380000
+    bonus_pct: 5
+    total_comp_low: 290000
+    total_comp_high: 430000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 240000
+    stock_low: 200000
+    stock_high: 380000
+    bonus_pct: 5
+    total_comp_low: 278000
+    total_comp_high: 415000
+    currency: USD
+  - region: London
+    base_low: 148000
+    base_high: 190000
+    stock_low: 152000
+    stock_high: 289000
+    bonus_pct: 5
+    total_comp_low: 221000
+    total_comp_high: 327000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Supabase Senior SWE = Google L5 = Meta E5 = PlanetScale Senior Engineer = Neon Senior Software Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strong Base + Meaningful Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Native Backend Infrastructure"
+---
 ### Senior Software Engineer | Supabase Global Negotiation Guide
 
 **Negotiation DNA:** Strong Base + Meaningful Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Native Backend Infrastructure

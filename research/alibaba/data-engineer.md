@@ -1,3 +1,68 @@
+---
+company: alibaba
+company_display: Alibaba
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 155000
+    base_high: 220000
+    stock_low: 75000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 340000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 330000
+    currency: USD
+  - region: Hangzhou (HQ)
+    base_low: 400000
+    base_high: 740000
+    stock_low: 160000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 600000
+    total_comp_high: 1200000
+    currency: CNY
+  - region: Beijing
+    base_low: 380000
+    base_high: 710000
+    stock_low: 150000
+    stock_high: 460000
+    bonus_pct: 15
+    total_comp_low: 570000
+    total_comp_high: 1150000
+    currency: CNY
+  - region: Singapore
+    base_low: 110000
+    base_high: 170000
+    stock_low: 50000
+    stock_high: 130000
+    bonus_pct: 15
+    total_comp_low: 150000
+    total_comp_high: 260000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Engineer at Alibaba (P5-P7) = L3-L5 at Google, IC3-IC5 at Meta, DE II-Senior at Amazon, equivalent Snowflake/Databricks"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B market cap generating massive e-commerce and logistics data + MaxCompute/Flink powering world's largest commerce data pipelines + Competitive US comp for data infrastructure talent | Alibaba data engineers process data from $1T+ in annual GMV | **E-COMMERCE DATA PREMIUM**"
+---
 ### Data Engineer | Alibaba Global Negotiation Guide
 
 **Negotiation DNA:** $200B market cap generating massive e-commerce and logistics data + MaxCompute/Flink powering world's largest commerce data pipelines + Competitive US comp for data infrastructure talent | Alibaba data engineers process data from $1T+ in annual GMV | **E-COMMERCE DATA PREMIUM**

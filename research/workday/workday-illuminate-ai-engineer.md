@@ -1,3 +1,48 @@
+---
+company: workday
+company_display: Workday
+role: workday-illuminate-ai-engineer
+role_display: Workday Illuminate AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pleasanton
+    base_low: 188000
+    base_high: 232000
+    stock_low: 225000
+    stock_high: 375000
+    bonus_pct: 15
+    total_comp_low: 255000
+    total_comp_high: 338000
+    currency: USD
+  - region: Dublin
+    base_low: 115000
+    base_high: 147000
+    stock_low: 124000
+    stock_high: 225000
+    bonus_pct: 15
+    total_comp_low: 157000
+    total_comp_high: 214000
+    currency: EUR
+  - region: London
+    base_low: 124000
+    base_high: 161000
+    stock_low: 135000
+    stock_high: 244000
+    bonus_pct: 15
+    total_comp_low: 169000
+    total_comp_high: 233000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Workday Illuminate AI Eng (P3-P4) = Google AI Platform L4-L5 = Anthropic Senior Platform = Salesforce Agentforce Eng = Meta AI Infra E4-E5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity | **SIGNATURE ROLE** | **+15-25% AGENTIC AI PREMIUM**"
+---
 ### Workday Illuminate AI Engineer | Workday Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity | **SIGNATURE ROLE** | **+15-25% AGENTIC AI PREMIUM**

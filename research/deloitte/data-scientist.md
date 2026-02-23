@@ -1,3 +1,48 @@
+---
+company: deloitte
+company_display: Deloitte
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 130000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 143000
+    total_comp_high: 262000
+    currency: USD
+  - region: Chicago
+    base_low: 120000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 239000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 130000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 94000
+    total_comp_high: 181000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Deloitte Senior Consultant / Manager (Data Science) = Google L4 Data Scientist = Meta IC4 Data Scientist = Accenture Consultant (AI)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (10-20%) + Limited Equity at Senior Levels | AI & Analytics Practice"
+---
 ### Data Scientist | Deloitte Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (10-20%) + Limited Equity at Senior Levels | AI & Analytics Practice

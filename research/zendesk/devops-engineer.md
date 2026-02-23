@@ -1,3 +1,48 @@
+---
+company: zendesk
+company_display: Zendesk
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 325000
+    currency: USD
+  - region: Remote US / Other US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 292000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 48000
+    total_comp_high: 142000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "DevOps Engineers at Zendesk build and maintain the infrastructure that serves the CX platform to 100,000+ businesses — where reliability is mission-critical and operational efficiency is a PE mandate."
+---
 ### DevOps Engineer — Zendesk Salary Negotiation Guide
 
 **Negotiation DNA**: DevOps Engineers at Zendesk build and maintain the infrastructure that serves the CX platform to 100,000+ businesses — where reliability is mission-critical and operational efficiency is a PE mandate.

@@ -1,3 +1,55 @@
+---
+company: tenable
+company_display: Tenable
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Columbia MD
+    base_low: 175000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 15
+    signing_bonus_low: 20000
+    signing_bonus_high: 40000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Austin
+    base_low: 170000
+    base_high: 210000
+    stock_low: 110000
+    stock_high: 210000
+    bonus_pct: 15
+    signing_bonus_low: 20000
+    signing_bonus_high: 40000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 140000
+    stock_low: 75000
+    stock_high: 140000
+    bonus_pct: 15
+    signing_bonus_low: 12000
+    signing_bonus_high: 25000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at Tenable maps to M1/M2 equivalent at peer cybersecurity companies (CrowdStrike EM, Palo Alto Networks EM, Rapid7 Engineering Lead) and L6/M1 at FAANG-tier companies (Google L6 EM, Meta M1)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London"
+---
 ### Engineering Manager | Tenable Global Negotiation Guide
 
 **Negotiation DNA:** Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London

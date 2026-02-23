@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 195000
+    base_high: 272000
+    stock_low: 82000
+    stock_high: 225000
+    bonus_pct: 15
+    total_comp_low: 255000
+    total_comp_high: 395000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 172000
+    base_high: 242000
+    stock_low: 65000
+    stock_high: 180000
+    bonus_pct: 12
+    total_comp_low: 218000
+    total_comp_high: 345000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 88000
+    base_high: 135000
+    stock_low: 32000
+    stock_high: 82000
+    bonus_pct: 12
+    total_comp_low: 115000
+    total_comp_high: 185000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 3500000
+    base_high: 6200000
+    stock_low: 1600000
+    stock_high: 4200000
+    bonus_pct: 12
+    total_comp_low: 4200000
+    total_comp_high: 8500000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 152000
+    base_high: 218000
+    stock_low: 50000
+    stock_high: 128000
+    bonus_pct: 12
+    total_comp_low: 182000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora IC4 ~ Chargebee Staff/Principal | Recurly Principal | Stripe IC5 | Salesforce PMTS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Subscription platform architecture leader | Billing engine technical authority & monetization visionary | **STAFF IC PREMIUM**"
+---
 ### Staff Software Engineer | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Subscription platform architecture leader | Billing engine technical authority & monetization visionary | **STAFF IC PREMIUM**

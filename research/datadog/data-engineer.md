@@ -1,3 +1,48 @@
+---
+company: datadog
+company_display: Datadog
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 370000
+    currency: USD
+  - region: Paris
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 142000
+    currency: EUR
+  - region: Dublin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 60000
+    total_comp_high: 148000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Data Engineers at Datadog build the pipelines that power LLM Observability and the AI Nervous System — moving trillions of data points through the most demanding real-time data infrastructure in the observability industry.
+---
 ### Data Engineer — Datadog Salary Negotiation Guide
 
 **Negotiation DNA**: Data Engineers at Datadog build the pipelines that power LLM Observability and the AI Nervous System — moving trillions of data points through the most demanding real-time data infrastructure in the observability industry.

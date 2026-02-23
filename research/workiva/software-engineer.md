@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 110000
+    base_high: 155000
+    stock_low: 30000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 200000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 125000
+    base_high: 172000
+    stock_low: 38000
+    stock_high: 108000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 232000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 48000
+    base_high: 75000
+    stock_low: 12000
+    stock_high: 38000
+    bonus_pct: 10
+    total_comp_low: 56000
+    total_comp_high: 95000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 88000
+    base_high: 128000
+    stock_low: 20000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 100000
+    total_comp_high: 162000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 1200000
+    base_high: 2500000
+    stock_low: 500000
+    stock_high: 1600000
+    bonus_pct: 10
+    total_comp_low: 1600000
+    total_comp_high: 3200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva IC1/IC2 ~ Intuit SWE/Senior | ServiceNow SWE | Oracle IC2/IC3 | Domo SWE/Senior"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Compliance platform builder | Connected reporting & GRC development | **GRC TECH PREMIUM**"
+---
 ### Software Engineer | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** Compliance platform builder | Connected reporting & GRC development | **GRC TECH PREMIUM**

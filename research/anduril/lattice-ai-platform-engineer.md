@@ -1,3 +1,53 @@
+---
+company: anduril
+company_display: Anduril
+role: lattice-ai-platform-engineer
+role_display: Lattice AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Costa Mesa, CA"
+    base_low: 165000
+    base_high: 225000
+    stock_low: 120000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 420000
+    currency: USD
+  - region: "Seattle, WA"
+    base_low: 165000
+    base_high: 225000
+    stock_low: 120000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 420000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 160000
+    base_high: 220000
+    stock_low: 120000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 415000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Anduril Lattice Platform Eng = Google L4-L5 = Palantir FDE + Google Infrastructure Eng, combined"
+data_sources:
+  - Anduril Lattice Platform -- AI-Powered Command and Control 2026
+  - Anduril $14B+ Valuation -- Defense Tech Growth Trajectory
+  - Lattice Multi-Domain Sensor Fusion -- Air/Land/Sea/Space/Cyber
+  - DOD Software-Defined Defense -- $100B+ Market Opportunity
+  - Kill Chain Software -- Sensor-to-Shooter Platform Engineering
+  - "Anduril Defense Contract Wins -- USSOCOM, Army, Navy Programs"
+negotiation_dna_summary: "Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense AI/Autonomy | **SIGNATURE ROLE** | **+20-30% Platform-Critical Premium** | High-Intensity Culture"
+---
 ### Lattice AI Platform Engineer | Anduril Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense AI/Autonomy | **SIGNATURE ROLE** | **+20-30% Platform-Critical Premium** | High-Intensity Culture

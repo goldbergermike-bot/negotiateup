@@ -1,3 +1,50 @@
+---
+company: adobe
+company_display: Adobe
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 145000
+    base_high: 178000
+    stock_low: 100000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 218000
+    currency: USD
+  - region: London
+    base_low: 94000
+    base_high: 116000
+    stock_low: 60000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 112000
+    total_comp_high: 142000
+    currency: GBP
+  - region: Bangalore
+    base_low: 3600000
+    base_high: 5300000
+    stock_low: 2500000
+    stock_high: 5200000
+    bonus_pct: 10
+    total_comp_low: 4300000
+    total_comp_high: 6500000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)"
+---
 ### Software Engineer | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)

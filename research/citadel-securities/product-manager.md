@@ -1,3 +1,51 @@
+---
+company: citadel-securities
+company_display: Citadel Securities
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 185000
+    base_high: 250000
+    stock_low: null
+    stock_high: null
+    bonus_low: 190000
+    bonus_high: 285000
+    total_comp_low: 375000
+    total_comp_high: 535000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_low: 200000
+    bonus_high: 300000
+    total_comp_low: 395000
+    total_comp_high: 565000
+    currency: USD
+  - region: London
+    base_low: 150000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_low: 150000
+    bonus_high: 225000
+    total_comp_low: 300000
+    total_comp_high: 425000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Trading Product Strategy` `25% US Equity Volume` `Private Firm Premium`"
+---
 ### Product Manager | Citadel Securities Global Negotiation Guide
 
 **Negotiation DNA:** `$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Trading Product Strategy` `25% US Equity Volume` `Private Firm Premium`

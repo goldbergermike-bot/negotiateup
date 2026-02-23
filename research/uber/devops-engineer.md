@@ -1,3 +1,48 @@
+---
+company: uber
+company_display: Uber
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 232000
+    stock_low: 168000
+    stock_high: 292000
+    bonus_pct: 10
+    total_comp_low: 231000
+    total_comp_high: 312000
+    currency: USD
+  - region: New York
+    base_low: 192000
+    base_high: 240000
+    stock_low: 168000
+    stock_high: 292000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 322000
+    currency: USD
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 4800000
+    stock_low: 1600000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 3500000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Uber DevOps Eng = Google L4 SRE = Lyft DevOps = DoorDash DevOps
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)"
+---
 ### DevOps Engineer | Uber Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)

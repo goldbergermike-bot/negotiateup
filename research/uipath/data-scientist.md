@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 152000
+    base_high: 212000
+    stock_low: 65000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 305000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 132000
+    base_high: 188000
+    stock_low: 48000
+    stock_high: 132000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 262000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 45000
+    base_high: 78000
+    stock_low: 18000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 58000
+    total_comp_high: 102000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 72000
+    base_high: 108000
+    stock_low: 28000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 92000
+    total_comp_high: 148000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2200000
+    base_high: 4200000
+    stock_low: 1000000
+    stock_high: 3000000
+    bonus_pct: 10
+    total_comp_low: 2800000
+    total_comp_high: 5800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath IC2/IC3 (DS) ~ Microsoft 61/62 DS | Celonis Senior/Staff DS | Automation Anywhere Senior DS | Salesforce Senior DS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Process intelligence & automation analytics specialist | Process mining & optimization modeling | **ANALYTICS PREMIUM**"
+---
 ### Data Scientist | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** Process intelligence & automation analytics specialist | Process mining & optimization modeling | **ANALYTICS PREMIUM**

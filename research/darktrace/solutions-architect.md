@@ -1,3 +1,58 @@
+---
+company: darktrace
+company_display: Darktrace
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge UK
+    base_low: 75000
+    base_high: 110000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_low: 15000
+    bonus_high: 33000
+    signing_bonus_low: 5000
+    signing_bonus_high: 12000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: London
+    base_low: 85000
+    base_high: 125000
+    stock_low: 30000
+    stock_high: 70000
+    bonus_low: 17000
+    bonus_high: 37500
+    signing_bonus_low: 7000
+    signing_bonus_high: 15000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: San Francisco
+    base_low: 170000
+    base_high: 230000
+    stock_low: 60000
+    stock_high: 140000
+    bonus_low: 34000
+    bonus_high: 69000
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Darktrace maps to Customer Engineer L5 at Google Cloud, Solutions Architect at AWS, and Technical Solutions Engineer at Palo Alto Networks."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Solutions Architect | Darktrace (LSE: DARK) | Technical Pre-Sales Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco"
+---
 ### Solutions Architect | Darktrace Global Negotiation Guide
 
 **Negotiation DNA:** Solutions Architect | Darktrace (LSE: DARK) | Technical Pre-Sales Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco

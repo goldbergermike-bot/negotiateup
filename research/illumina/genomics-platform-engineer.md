@@ -1,3 +1,48 @@
+---
+company: illumina
+company_display: Illumina
+role: genomics-platform-engineer
+role_display: Genomics Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego CA
+    base_low: 155000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 205000
+    total_comp_high: 320000
+    currency: USD
+  - region: Bay Area CA
+    base_low: 160000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 215000
+    total_comp_high: 330000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Illumina Senior Platform Engineer = Google L4-L5 = Genentech Comp Bio = Pacific Biosciences Senior
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Genomics/Sequencing Dominant / Specialized Biotech Comp / RSU + Bonus / San Diego HQ | **SIGNATURE ROLE** | **+10-20% GENOMICS PREMIUM**"
+---
 ### Genomics Platform Engineer | Illumina Global Negotiation Guide
 
 **Negotiation DNA:** Genomics/Sequencing Dominant / Specialized Biotech Comp / RSU + Bonus / San Diego HQ | **SIGNATURE ROLE** | **+10-20% GENOMICS PREMIUM**

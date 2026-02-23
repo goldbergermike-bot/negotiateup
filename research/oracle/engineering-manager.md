@@ -1,3 +1,48 @@
+---
+company: oracle
+company_display: Oracle
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 195000
+    base_high: 240000
+    stock_low: 180000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 338000
+    currency: USD
+  - region: Seattle
+    base_low: 205000
+    base_high: 252000
+    stock_low: 195000
+    stock_high: 330000
+    bonus_pct: null
+    total_comp_low: 270000
+    total_comp_high: 358000
+    currency: USD
+  - region: Bangalore
+    base_low: 4200000
+    base_high: 6500000
+    stock_low: 2500000
+    stock_high: 4200000
+    bonus_pct: null
+    total_comp_low: 5200000
+    total_comp_high: 8200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Oracle M4 EM = Google L5 Manager = Meta M1 = AWS SDM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Sign-On Bonus Culture | OCI \"Stargate\" AI Infrastructure Pivot | $500B JV Premium"
+---
 ### Engineering Manager | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Sign-On Bonus Culture | OCI "Stargate" AI Infrastructure Pivot | $500B JV Premium

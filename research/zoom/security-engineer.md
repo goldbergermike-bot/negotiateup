@@ -1,3 +1,67 @@
+---
+company: zoom
+company_display: Zoom
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 165000
+    base_high: 230000
+    stock_low: 95000
+    stock_high: 225000
+    bonus_pct: 12
+    total_comp_low: 225000
+    total_comp_high: 350000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 145000
+    base_high: 205000
+    stock_low: 72000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 300000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 80000
+    base_high: 122000
+    stock_low: 38000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 110000
+    total_comp_high: 178000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2600000
+    base_high: 5000000
+    stock_low: 1400000
+    stock_high: 3600000
+    bonus_pct: 10
+    total_comp_low: 3600000
+    total_comp_high: 6800000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 122000
+    base_high: 182000
+    stock_low: 52000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom IC3/IC4 (Security) ~ Google L5/L6 Security | Microsoft 63/64 Security | CrowdStrike Senior/Staff | Palo Alto Senior/Staff"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Communication security & privacy specialist | End-to-end encryption & platform trust | **SECURITY PREMIUM**"
+---
 ### Security Engineer | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** Communication security & privacy specialist | End-to-end encryption & platform trust | **SECURITY PREMIUM**

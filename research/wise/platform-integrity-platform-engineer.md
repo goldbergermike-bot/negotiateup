@@ -1,3 +1,49 @@
+---
+company: wise
+company_display: Wise
+role: platform-integrity-platform-engineer
+role_display: Platform Integrity Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 85000
+    base_high: 130000
+    stock_low: 45000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 230000
+    currency: GBP
+  - region: Tallinn (EUR)
+    base_low: 65000
+    base_high: 100000
+    stock_low: 34000
+    stock_high: 75000
+    bonus_pct: null
+    total_comp_low: 99000
+    total_comp_high: 175000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 112000
+    base_high: 170000
+    stock_low: 55000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 167000
+    total_comp_high: 290000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a Platform Integrity engineering compensation framework spanning London, Tallinn, and Singapore markets. As a Platform Integrity Platform Engineer at Wise, you are the definitive architect of the systems layer that makes Wise's transparency promise real — you build, maintain, and evolve the core platform infrastructure that ensures money move"
+---
 ### Platform Integrity Platform Engineer — Wise Salary Negotiation Guide
 
 ## SIGNATURE ROLE

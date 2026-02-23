@@ -1,3 +1,51 @@
+---
+company: adobe
+company_display: Adobe
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 165000
+    base_high: 205000
+    stock_low: 155000
+    stock_high: 262000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 272000
+    currency: USD
+  - region: London
+    base_low: 107000
+    base_high: 133000
+    stock_low: 93000
+    stock_high: 157000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 177000
+    currency: GBP
+  - region: Bangalore
+    base_low: 5000000
+    base_high: 6100000
+    stock_low: 3900000
+    stock_high: 7800000
+    bonus_pct: 10
+    total_comp_low: 6200000
+    total_comp_high: 8100000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)"
+---
 ### Data Scientist | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)

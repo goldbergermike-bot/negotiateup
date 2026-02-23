@@ -1,3 +1,50 @@
+---
+company: hashicorp-terraform
+company_display: HashiCorp Terraform
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 190000
+    base_high: 240000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: 5
+    total_comp_low: 260000
+    total_comp_high: 370000
+    currency: USD
+  - region: Austin / Denver
+    base_low: 178000
+    base_high: 228000
+    stock_low: 165000
+    stock_high: 295000
+    bonus_pct: 5
+    total_comp_low: 245000
+    total_comp_high: 350000
+    currency: USD
+  - region: London
+    base_low: 145000
+    base_high: 183000
+    stock_low: 135000
+    stock_high: 243000
+    bonus_pct: 5
+    total_comp_low: 198000
+    total_comp_high: 282000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: HashiCorp Senior SWE = Google L5 = Meta E5 = IBM Band 9 = AWS SDE III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)"
+---
 ### Senior Software Engineer | HashiCorp (Terraform) Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)

@@ -1,3 +1,48 @@
+---
+company: notion
+company_display: Notion
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 210000
+    stock_low: 160000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 335000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 205000
+    stock_low: 155000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 234000
+    total_comp_high: 325000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 140000
+    stock_low: 105000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Notion SWE (L3-L4) = Google SWE L4-L5 = Meta SWE E4-E5 = Figma SWE = Linear SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$10B Valuation) + Bonus | Connected Workspace & AI Features | 100M+ Users | **NOTION AI PREMIUM**"
+---
 ### Software Engineer | Notion Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$10B Valuation) + Bonus | Connected Workspace & AI Features | 100M+ Users | **NOTION AI PREMIUM**

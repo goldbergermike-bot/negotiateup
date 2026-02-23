@@ -1,3 +1,48 @@
+---
+company: gusto
+company_display: Gusto
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 205000
+    stock_low: 110000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 305000
+    currency: USD
+  - region: Denver
+    base_low: 150000
+    base_high: 185000
+    stock_low: 95000
+    stock_high: 155000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 270000
+    currency: USD
+  - region: Toronto
+    base_low: 155000
+    base_high: 190000
+    stock_low: 85000
+    stock_high: 145000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 260000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto SA = Google L4-L5 SA = Stripe SA = AWS SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Forward / Equity Upside | Embedded Partner Integration & Enterprise SMB"
+---
 ### Solutions Architect | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Base-Forward / Equity Upside | Embedded Partner Integration & Enterprise SMB

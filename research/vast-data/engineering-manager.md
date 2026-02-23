@@ -1,3 +1,50 @@
+---
+company: vast-data
+company_display: Vast Data
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 195000
+    base_high: 245000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 375000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: 40000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 250000
+    total_comp_high: 350000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 235000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 360000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Vast Data Engineering Manager = Google L5–L6 Manager / Meta M1 / Amazon SDM / Microsoft 64–66 Manager / Apple ICT5 Manager / Databricks EM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Management Premium"
+---
 ### Engineering Manager | Vast Data Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Management Premium

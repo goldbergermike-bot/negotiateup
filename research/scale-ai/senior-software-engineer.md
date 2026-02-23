@@ -1,3 +1,50 @@
+---
+company: scale-ai
+company_display: Scale AI
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 242000
+    stock_low: 240000
+    stock_high: 415000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 346000
+    currency: USD
+  - region: New York
+    base_low: 201000
+    base_high: 254000
+    stock_low: 240000
+    stock_high: 415000
+    bonus_pct: null
+    total_comp_low: 261000
+    total_comp_high: 358000
+    currency: USD
+  - region: Washington DC
+    base_low: 205000
+    base_high: 261000
+    stock_low: 240000
+    stock_high: 415000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 366000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Scale Senior SWE = Google L4 = Meta E4 = Amazon SDE II (senior) = Apple ICT3 = Microsoft Senior SDE 62-63
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity"
+---
 ### Senior Software Engineer | Scale AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity

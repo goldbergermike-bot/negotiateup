@@ -1,3 +1,47 @@
+---
+company: fortinet
+company_display: Fortinet
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 360000
+    currency: USD
+  - region: Ottawa
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 275000
+    currency: CAD
+  - region: Sophia Antipolis
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 58000
+    total_comp_high: 145000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Security Engineers at Fortinet are the mission — with the Rule of 45 sustained by the world's most deployed security platform and Sovereign-SASE expanding the addressable market, your threat detection and response work is the company's core value proposition."
+---
 ### Security Engineer — Fortinet Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at Fortinet are the mission — with the Rule of 45 sustained by the world's most deployed security platform and Sovereign-SASE expanding the addressable market, your threat detection and response work is the company's core value proposition.

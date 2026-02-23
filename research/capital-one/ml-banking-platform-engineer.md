@@ -1,3 +1,50 @@
+---
+company: capital-one
+company_display: Capital One
+role: ml-banking-platform-engineer
+role_display: ML Banking Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: McLean VA (HQ)
+    base_low: 165000
+    base_high: 220000
+    stock_low: 100000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 360000
+    currency: USD
+  - region: New York City
+    base_low: 175000
+    base_high: 230000
+    stock_low: 110000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 380000
+    currency: USD
+  - region: San Francisco
+    base_low: 170000
+    base_high: 225000
+    stock_low: 105000
+    stock_high: 255000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 370000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ML Banking Platform Engineer at Capital One (Senior/Principal) = L5-L6 at Google, E5-E6 at Meta, SDE III-Principal at Amazon, VP/SVP at BofA/JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$68B market cap TECH-FIRST bank + ML embedded in every product decision + McLean VA HQ + Comp competitive with Big Tech | Capital One is a technology company that happens to be a bank | **TECH-FIRST BANKING ML PREMIUM**"
+---
 ### ML Banking Platform Engineer | Capital One Global Negotiation Guide
 
 **Negotiation DNA:** $68B market cap TECH-FIRST bank + ML embedded in every product decision + McLean VA HQ + Comp competitive with Big Tech | Capital One is a technology company that happens to be a bank | **TECH-FIRST BANKING ML PREMIUM**

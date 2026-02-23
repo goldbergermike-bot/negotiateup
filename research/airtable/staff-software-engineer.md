@@ -1,3 +1,50 @@
+---
+company: airtable
+company_display: Airtable
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 235000
+    base_high: 290000
+    stock_low: 260000
+    stock_high: 460000
+    bonus_pct: 10
+    total_comp_low: 345000
+    total_comp_high: 480000
+    currency: USD
+  - region: NYC / Austin
+    base_low: 222000
+    base_high: 275000
+    stock_low: 240000
+    stock_high: 425000
+    bonus_pct: 10
+    total_comp_low: 325000
+    total_comp_high: 450000
+    currency: USD
+  - region: London
+    base_low: 179000
+    base_high: 221000
+    stock_low: 198000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 365000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airtable Staff SWE = Google L6 = Meta E6 = Notion Staff Engineer = Figma Staff Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push"
+---
 ### Staff Software Engineer | Airtable Global Negotiation Guide
 
 **Negotiation DNA:** No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push

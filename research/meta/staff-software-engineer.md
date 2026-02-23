@@ -1,3 +1,87 @@
+---
+company: meta
+company_display: Meta
+role: staff-software-engineer
+role_display: Staff Software Engineer (E6)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Menlo Park / NYC)
+    base_low: 240000
+    base_high: 330000
+    stock_low: 400000
+    stock_high: 900000
+    bonus_pct: 15
+    total_comp_low: 470000
+    total_comp_high: 750000
+    currency: USD
+  - region: US (Seattle / Austin)
+    base_low: 230000
+    base_high: 315000
+    stock_low: 375000
+    stock_high: 850000
+    bonus_pct: 15
+    total_comp_low: 445000
+    total_comp_high: 710000
+    currency: USD
+  - region: London (UK)
+    base_low: 195000
+    base_high: 275000
+    stock_low: 320000
+    stock_high: 720000
+    bonus_pct: 15
+    total_comp_low: 385000
+    total_comp_high: 620000
+    currency: USD
+  - region: Canada (Toronto / Montreal)
+    base_low: 185000
+    base_high: 260000
+    stock_low: 300000
+    stock_high: 680000
+    bonus_pct: 15
+    total_comp_low: 365000
+    total_comp_high: 590000
+    currency: USD
+  - region: Germany (Berlin / Hamburg)
+    base_low: 175000
+    base_high: 250000
+    stock_low: 280000
+    stock_high: 650000
+    bonus_pct: 15
+    total_comp_low: 340000
+    total_comp_high: 565000
+    currency: USD
+  - region: Singapore
+    base_low: 170000
+    base_high: 240000
+    stock_low: 270000
+    stock_high: 620000
+    bonus_pct: 15
+    total_comp_low: 325000
+    total_comp_high: 540000
+    currency: USD
+  - region: India (Hyderabad / Bangalore)
+    base_low: 75000
+    base_high: 130000
+    stock_low: 120000
+    stock_high: 310000
+    bonus_pct: 15
+    total_comp_low: 150000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: E6
+  raw: "E6 (Staff SWE) maps to Google L6 Staff / Amazon L7 Principal SDE / Apple ICT5 / Microsoft Level 66-67. This is a highly selective level -- at Google, only ~10% of engineers reach L6, and similar selectivity applies at Meta."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Organization-Wide Technical Leadership | Architectural Vision at Meta Scale | **META E6 STAFF ELITE PREMIUM**"
+---
 ### Staff Software Engineer (E6) | Meta Global Negotiation Guide
 
 **Negotiation DNA:** Organization-Wide Technical Leadership | Architectural Vision at Meta Scale | **META E6 STAFF ELITE PREMIUM**

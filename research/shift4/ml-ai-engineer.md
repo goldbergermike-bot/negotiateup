@@ -1,3 +1,52 @@
+---
+company: shift4
+company_display: Shift4
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Center Valley PA
+    base_low: 160000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 180000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 258000
+    total_comp_high: 425000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 245000
+    stock_low: 100000
+    stock_high: 240000
+    bonus_low: 22000
+    bonus_high: 45000
+    total_comp_low: 312000
+    total_comp_high: 530000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 160000
+    stock_low: 60000
+    stock_high: 140000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 194000
+    total_comp_high: 328000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Shift4 | Google | Meta | Stripe | Toast | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FOUR` `Stablecoin Settlement` `Machine Learning` `AI Engineering` `Payments Intelligence` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Fraud ML` `Finaro` `Real-Time Inference` `LLM Applications`"
+---
 ### ML/AI Engineer | Shift4 Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FOUR` `Stablecoin Settlement` `Machine Learning` `AI Engineering` `Payments Intelligence` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Fraud ML` `Finaro` `Real-Time Inference` `LLM Applications`

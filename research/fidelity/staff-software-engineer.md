@@ -1,3 +1,52 @@
+---
+company: fidelity
+company_display: Fidelity
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 215000
+    base_high: 285000
+    stock_low: 55000
+    stock_high: 95000
+    bonus_low: 52000
+    bonus_high: 85000
+    total_comp_low: 322000
+    total_comp_high: 465000
+    currency: USD
+  - region: "Durham, NC"
+    base_low: 194000
+    base_high: 257000
+    stock_low: 50000
+    stock_high: 86000
+    bonus_low: 47000
+    bonus_high: 77000
+    total_comp_low: 291000
+    total_comp_high: 420000
+    currency: USD
+  - region: "Dallas, TX"
+    base_low: 198000
+    base_high: 262000
+    stock_low: 51000
+    stock_high: 87000
+    bonus_low: 48000
+    bonus_high: 78000
+    total_comp_low: 297000
+    total_comp_high: 427000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Technical Strategy` `Cross-Org Architecture` `Platform Vision`"
+---
 ### Staff Software Engineer | Fidelity Investments Global Negotiation Guide
 
 **Negotiation DNA:** `Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Technical Strategy` `Cross-Org Architecture` `Platform Vision`

@@ -1,3 +1,48 @@
+---
+company: ebay
+company_display: Ebay
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 215000
+    base_high: 265000
+    stock_low: 182000
+    stock_high: 322000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 392000
+    currency: USD
+  - region: New York
+    base_low: 222000
+    base_high: 272000
+    stock_low: 182000
+    stock_high: 322000
+    bonus_pct: 15
+    total_comp_low: 288000
+    total_comp_high: 402000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 255000
+    stock_low: 182000
+    stock_high: 322000
+    bonus_pct: 15
+    total_comp_low: 272000
+    total_comp_high: 382000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: eBay EM (M1) = Google L5 EM = Meta M1 = Amazon SDM = Etsy EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Global Marketplace & Payments | $2.5B Share Buyback | Trading Below Future Cash Flow Value"
+---
 ### Engineering Manager | eBay Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Global Marketplace & Payments | $2.5B Share Buyback | Trading Below Future Cash Flow Value

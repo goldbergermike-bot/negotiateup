@@ -1,3 +1,51 @@
+---
+company: chewy
+company_display: Chewy
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Plantation FL
+    base_low: 125000
+    base_high: 165000
+    stock_low: 28000
+    stock_high: 45000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: USD
+  - region: Boston
+    base_low: 135000
+    base_high: 180000
+    stock_low: 30000
+    stock_high: 49000
+    bonus_pct: 10
+    total_comp_low: 181000
+    total_comp_high: 254000
+    currency: USD
+  - region: Remote US
+    base_low: 119000
+    base_high: 157000
+    stock_low: 27000
+    stock_high: 43000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 220000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chewy Solutions Architect = Google Cloud Architect L5 = Amazon Solutions Architect L5–L6 = Microsoft Azure Architect 63–64 = Salesforce Technical Architect
+data_sources:
+  - "Chewy 84% Autoship Penetration — Q4 2024 Earnings Report, Recurring Revenue Model"
+  - "Chewy Pet Health Expansion — Chewy Health, Telehealth, Insurance, Pharmacy Announcements"
+  - "Chewy 10-K Annual Filing — $12B+ Revenue, 20M+ Active Customers"
+  - Pet Humanization Trend — APPA $150B+ US Pet Industry Spending Report
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium"
+---
 ### Solutions Architect | Chewy Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium

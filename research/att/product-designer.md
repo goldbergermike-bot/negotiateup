@@ -1,3 +1,50 @@
+---
+company: att
+company_display: "AT&T"
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas / Austin
+    base_low: 105000
+    base_high: 155000
+    stock_low: 20000
+    stock_high: 82000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 200000
+    currency: USD
+  - region: NYC / New Jersey
+    base_low: 112000
+    base_high: 162000
+    stock_low: 24000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 215000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 100000
+    base_high: 150000
+    stock_low: 18000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 118000
+    total_comp_high: 192000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "AT&T Product Designer (D2-D4) = Google L3-L5 UX = Meta E3-E5 Designer = Verizon D2-D4 = T-Mobile D3-D5"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$155B Legacy Telecom Modernizing | Consumer Experience Transformation | myAT&T + Fiber + 5G Design"
+---
 ### Product Designer | AT&T Global Negotiation Guide
 
 **Negotiation DNA:** $155B Legacy Telecom Modernizing | Consumer Experience Transformation | myAT&T + Fiber + 5G Design

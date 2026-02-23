@@ -1,3 +1,50 @@
+---
+company: hashicorp-terraform
+company_display: HashiCorp Terraform
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 218000
+    stock_low: 140000
+    stock_high: 245000
+    bonus_pct: 10
+    total_comp_low: 230000
+    total_comp_high: 318000
+    currency: USD
+  - region: Austin / Denver
+    base_low: 160000
+    base_high: 208000
+    stock_low: 128000
+    stock_high: 225000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 298000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 166000
+    stock_low: 106000
+    stock_high: 186000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: HashiCorp TPM = Google L5 TPM = Meta IC5 TPM = IBM Band 9 Program Manager = AWS Sr. TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)"
+---
 ### Technical Program Manager | HashiCorp (Terraform) Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)

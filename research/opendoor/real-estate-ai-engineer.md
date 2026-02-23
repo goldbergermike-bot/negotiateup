@@ -1,3 +1,39 @@
+---
+company: opendoor
+company_display: Opendoor
+role: real-estate-ai-engineer
+role_display: Real Estate AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 225000
+    stock_low: 95000
+    stock_high: 225000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 365000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 205000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 338000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Opendoor Real Estate AI Engineer = No Direct Equivalent (Specialized) > Zillow AI/ML = Redfin ML = Compass ML = Google L4-L5 ML"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | iBuying + Real Estate Technology | ~$3B Market Cap (Public: OPEN) | San Francisco | **REAL ESTATE AI PREMIUM**"
+---
 ### Real Estate AI Engineer | Opendoor Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | iBuying + Real Estate Technology | ~$3B Market Cap (Public: OPEN) | San Francisco | **REAL ESTATE AI PREMIUM**

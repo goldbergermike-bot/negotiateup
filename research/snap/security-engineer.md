@@ -1,3 +1,49 @@
+---
+company: snap
+company_display: Snap
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 160000
+    base_high: 205000
+    stock_low: 165000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 288000
+    currency: USD
+  - region: San Francisco
+    base_low: 170000
+    base_high: 218000
+    stock_low: 175000
+    stock_high: 285000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York
+    base_low: 166000
+    base_high: 212000
+    stock_low: 170000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 298000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snap Security Engineer (L3–L6) = Google Security Engineer L3-L6 = Meta Security Engineer IC3-IC6 = Apple Information Security Engineer = Amazon Security Engineer = Microsoft Security Engineer (59-64)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | Privacy & AR Security Premium"
+---
 ### Security Engineer | Snap Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | Privacy & AR Security Premium

@@ -1,3 +1,49 @@
+---
+company: epic-games
+company_display: Epic Games
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 155000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 195000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 325000
+    currency: USD
+  - region: Seattle
+    base_low: 165000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 345000
+    currency: USD
+  - region: London
+    base_low: 60000
+    base_high: 95000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 90000
+    total_comp_high: 152000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic Security Engineer = Google L4 Security = CrowdStrike Senior Security
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue"
+---
 ### Security Engineer | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue

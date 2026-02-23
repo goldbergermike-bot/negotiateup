@@ -1,3 +1,53 @@
+---
+company: moneygram
+company_display: Moneygram
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas TX
+    base_low: 145000
+    base_high: 190000
+    stock_low: 35000
+    stock_high: 65000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 198000
+    total_comp_high: 290000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 42000
+    stock_high: 80000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 229000
+    total_comp_high: 337000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 142000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_low: 13000
+    bonus_high: 26000
+    total_comp_low: 146000
+    total_comp_high: 218000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| MoneyGram | Google | Meta | Stripe | Western Union | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Program Delivery`"
+---
 ### Technical Program Manager | MoneyGram Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Program Delivery`

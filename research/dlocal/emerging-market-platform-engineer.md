@@ -1,3 +1,48 @@
+---
+company: dlocal
+company_display: Dlocal
+role: emerging-market-platform-engineer
+role_display: SIGNATURE ROLE
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montevideo (UYU)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: São Paulo (BRL)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York (USD)
+    base_low: 220000
+    base_high: 300000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 370000
+    total_comp_high: 580000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes dLocal's Asia Priority strategy, translating the Jan 2026 Asia Strategic Pivot and Feb 11 JPM Bull Case into a comprehensive emerging market platform engineering compensation framework spanning Montevideo, São Paulo, and New York markets. The Emerging Market Platform Engineer is dLocal's keystone role — the engineer who designs, builds, and operates the cross-continental payment platform that connects LatAm's proven infrastructure to Asia's massive, fragmented opportunity. Thi"
+---
 # SIGNATURE ROLE
 
 ### Emerging Market Platform Engineer — dLocal Salary Negotiation Guide

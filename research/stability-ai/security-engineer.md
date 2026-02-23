@@ -1,3 +1,50 @@
+---
+company: stability-ai
+company_display: Stability AI
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 85000
+    base_high: 135000
+    stock_low: 55000
+    stock_high: 185000
+    bonus_pct: null
+    total_comp_low: 99000
+    total_comp_high: 181000
+    currency: GBP
+  - region: San Francisco
+    base_low: 158000
+    base_high: 215000
+    stock_low: 60000
+    stock_high: 195000
+    bonus_pct: null
+    total_comp_low: 173000
+    total_comp_high: 264000
+    currency: USD
+  - region: Remote US
+    base_low: 142000
+    base_high: 194000
+    stock_low: 54000
+    stock_high: 176000
+    bonus_pct: null
+    total_comp_low: 156000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stability AI Security Engineer = Google L4 Security Engineer = UK Senior Security Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | Open-Source AI Security"
+---
 ### Security Engineer | Stability AI Global Negotiation Guide
 
 **Negotiation DNA:** Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | Open-Source AI Security

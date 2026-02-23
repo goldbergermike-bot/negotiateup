@@ -1,3 +1,50 @@
+---
+company: kraken
+company_display: Kraken
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 245000
+    base_high: 305000
+    stock_low: 420000
+    stock_high: 680000
+    bonus_low: 35000
+    bonus_high: 55000
+    total_comp_low: 398000
+    total_comp_high: 562000
+    currency: USD
+  - region: New York
+    base_low: 238000
+    base_high: 298000
+    stock_low: 400000
+    stock_high: 660000
+    bonus_low: 35000
+    bonus_high: 52000
+    total_comp_low: 388000
+    total_comp_high: 548000
+    currency: USD
+  - region: Remote US
+    base_low: 220000
+    base_high: 278000
+    stock_low: 370000
+    stock_high: 610000
+    bonus_low: 30000
+    bonus_high: 48000
+    total_comp_low: 362000
+    total_comp_high: 512000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Staff IC Track | +15-25% Staff Premium"
+---
 ### Staff Software Engineer | Kraken Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Staff IC Track | +15-25% Staff Premium

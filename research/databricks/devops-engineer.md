@@ -1,3 +1,48 @@
+---
+company: databricks
+company_display: Databricks
+role: devops-engineer
+role_display: DevOps / Platform Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 212000
+    stock_low: 152000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 315000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 218000
+    stock_low: 152000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 322000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 205000
+    stock_low: 152000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Databricks DevOps (IC2-IC3) = Snowflake DevOps = Google SRE L3-L4 = Meta Production Eng (E4) = Amazon SysDE L4-L5 = Microsoft DevOps 60-61
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**"
+---
 ### DevOps / Platform Engineer | Databricks Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**

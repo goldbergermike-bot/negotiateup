@@ -1,3 +1,58 @@
+---
+company: darktrace
+company_display: Darktrace
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge UK
+    base_low: 65000
+    base_high: 95000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_low: 6500
+    bonus_high: 14250
+    signing_bonus_low: 4000
+    signing_bonus_high: 10000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: London
+    base_low: 75000
+    base_high: 110000
+    stock_low: 30000
+    stock_high: 70000
+    bonus_low: 7500
+    bonus_high: 16500
+    signing_bonus_low: 6000
+    signing_bonus_high: 12000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: San Francisco
+    base_low: 155000
+    base_high: 210000
+    stock_low: 60000
+    stock_high: 140000
+    bonus_low: 15500
+    bonus_high: 31500
+    signing_bonus_low: 12000
+    signing_bonus_high: 30000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Scientist at Darktrace maps to L4–L5 DS at Google, IC4–IC5 DS at Meta, Data Scientist II–III at Amazon, and 61–63 DS at Microsoft."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Data Scientist | Darktrace (LSE: DARK) | IC Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco"
+---
 ### Data Scientist | Darktrace Global Negotiation Guide
 
 **Negotiation DNA:** Data Scientist | Darktrace (LSE: DARK) | IC Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco

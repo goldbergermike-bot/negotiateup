@@ -1,3 +1,68 @@
+---
+company: docusign
+company_display: Docusign
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 180000
+    base_high: 250000
+    stock_low: 85000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 230000
+    total_comp_high: 360000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 65000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 310000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 82000
+    base_high: 125000
+    stock_low: 38000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 112000
+    total_comp_high: 182000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2800000
+    base_high: 5200000
+    stock_low: 1500000
+    stock_high: 3800000
+    bonus_pct: 10
+    total_comp_low: 3800000
+    total_comp_high: 7000000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 272000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign IC3 ~ Salesforce LMTS | Adobe Senior/MTS | ServiceNow Senior | Google L5 | Microsoft 63"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "SaaS platform senior builder | Agreement workflow & CLM architecture | **SENIOR IC PREMIUM**"
+---
 ### Senior Software Engineer | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** SaaS platform senior builder | Agreement workflow & CLM architecture | **SENIOR IC PREMIUM**

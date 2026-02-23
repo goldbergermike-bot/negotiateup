@@ -1,3 +1,50 @@
+---
+company: verizon
+company_display: Verizon
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / New Jersey
+    base_low: 132000
+    base_high: 192000
+    stock_low: 38000
+    stock_high: 130000
+    bonus_pct: 12
+    total_comp_low: 165000
+    total_comp_high: 268000
+    currency: USD
+  - region: Bay Area / Seattle
+    base_low: 138000
+    base_high: 200000
+    stock_low: 42000
+    stock_high: 138000
+    bonus_pct: 12
+    total_comp_low: 175000
+    total_comp_high: 285000
+    currency: USD
+  - region: Dallas / Atlanta
+    base_low: 125000
+    base_high: 182000
+    stock_low: 32000
+    stock_high: 118000
+    bonus_pct: 12
+    total_comp_low: 152000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Verizon TPM (L4-L6) = Google L4-L6 TPM = Meta E4-E6 TPM = Amazon TPM L5-L7 = T-Mobile TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$175B Telecom Leader | Cross-Organization Program Delivery | Network + Platform + Enterprise Programs"
+---
 ### Technical Program Manager | Verizon Global Negotiation Guide
 
 **Negotiation DNA:** $175B Telecom Leader | Cross-Organization Program Delivery | Network + Platform + Enterprise Programs

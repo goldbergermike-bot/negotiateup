@@ -1,3 +1,53 @@
+---
+company: marqeta
+company_display: Marqeta
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland CA
+    base_low: 165000
+    base_high: 220000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_low: 17000
+    bonus_high: 32000
+    total_comp_low: 302000
+    total_comp_high: 462000
+    currency: USD
+  - region: New York NY
+    base_low: 170000
+    base_high: 225000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_low: 17000
+    bonus_high: 32000
+    total_comp_low: 307000
+    total_comp_high: 467000
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 200000
+    stock_low: 100000
+    stock_high: 175000
+    bonus_low: 14000
+    bonus_high: 27000
+    total_comp_low: 264000
+    total_comp_high: 402000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Marqeta | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: MQ` `Embedded 2.0` `Modern Card Issuing` `Just-in-Time Funding` `Infrastructure Orchestrator` `Water Economy` `Fintech Platform` `Data Pipelines` `Transaction Data` `Real-Time Streaming`"
+---
 ### Data Engineer | Marqeta Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: MQ` `Embedded 2.0` `Modern Card Issuing` `Just-in-Time Funding` `Infrastructure Orchestrator` `Water Economy` `Fintech Platform` `Data Pipelines` `Transaction Data` `Real-Time Streaming`

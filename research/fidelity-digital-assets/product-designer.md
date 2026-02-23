@@ -1,3 +1,52 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 148000
+    base_high: 192000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_low: 32000
+    bonus_high: 52000
+    total_comp_low: 192000
+    total_comp_high: 272000
+    currency: USD
+  - region: New York
+    base_low: 158000
+    base_high: 205000
+    stock_low: 132000
+    stock_high: 240000
+    bonus_low: 36000
+    bonus_high: 58000
+    total_comp_low: 210000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 175000
+    stock_low: 108000
+    stock_high: 198000
+    bonus_low: 28000
+    bonus_high: 45000
+    total_comp_low: 172000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#DesignStrategy` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin`"
+---
 ### Product Designer | Fidelity Digital Assets Global Negotiation Guide
 
 **Negotiation DNA:** `#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#DesignStrategy` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin`

@@ -1,3 +1,49 @@
+---
+company: l3harris
+company_display: L3Harris
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Melbourne, FL"
+    base_low: 130000
+    base_high: 175000
+    stock_low: 30000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 235000
+    currency: USD
+  - region: "Salt Lake City, UT"
+    base_low: 125000
+    base_high: 170000
+    stock_low: 30000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 230000
+    currency: USD
+  - region: "Rochester, NY"
+    base_low: 125000
+    base_high: 170000
+    stock_low: 28000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 225000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "L3Harris Senior SWE = Raytheon Senior SWE = Northrop Senior SWE -- L3Harris pays 5-10% above defense median for cleared embedded engineers"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Electronics/Communications | Standard 40-45 Hour Culture"
+---
 ### Senior Software Engineer | L3Harris Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Electronics/Communications | Standard 40-45 Hour Culture

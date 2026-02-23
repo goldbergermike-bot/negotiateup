@@ -1,3 +1,49 @@
+---
+company: qualcomm
+company_display: Qualcomm
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego
+    base_low: 120000
+    base_high: 155000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 235000
+    currency: USD
+  - region: Santa Clara
+    base_low: 130000
+    base_high: 168000
+    stock_low: 45000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 255000
+    currency: USD
+  - region: Remote US
+    base_low: 108000
+    base_high: 140000
+    stock_low: 36000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 212000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Qualcomm E3–E4 = Google L3–L4 = Meta E3–E4 = Apple ICT2–ICT3 = Microsoft SDE 59–61"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +10% AI-Adjacent Premium"
+---
 ### Software Engineer | Qualcomm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +10% AI-Adjacent Premium

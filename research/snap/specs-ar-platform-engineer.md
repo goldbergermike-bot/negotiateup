@@ -1,3 +1,48 @@
+---
+company: snap
+company_display: Snap
+role: specs-ar-platform-engineer
+role_display: Specs AR Platform Engineer (SIGNATURE ROLE)
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 200000
+    base_high: 260000
+    stock_low: 280000
+    stock_high: 460000
+    bonus_pct: 15
+    total_comp_low: 272000
+    total_comp_high: 378000
+    currency: USD
+  - region: San Francisco
+    base_low: 212000
+    base_high: 275000
+    stock_low: 296000
+    stock_high: 486000
+    bonus_pct: 15
+    total_comp_low: 288000
+    total_comp_high: 400000
+    currency: USD
+  - region: New York
+    base_low: 208000
+    base_high: 270000
+    stock_low: 290000
+    stock_high: 476000
+    bonus_pct: 15
+    total_comp_low: 284000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: SIGNATURE ROLE
+  raw: Snap Specs AR Platform Engineer (L4–L7) = Meta Reality Labs Platform Engineer (E4-E7) = Apple Vision Pro Platform Engineer = Google ARCore/Immersive Platform Engineer = Magic Leap Platform Engineer = Qualcomm XR Platform Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | **+20–30% AR/AI Premium** | Dual Equity (Snap RSUs + Specs Inc. Pre-IPO) | Founding Team Dynamics"
+---
 ### Specs AR Platform Engineer (SIGNATURE ROLE) | Snap Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | **+20–30% AR/AI Premium** | Dual Equity (Snap RSUs + Specs Inc. Pre-IPO) | Founding Team Dynamics

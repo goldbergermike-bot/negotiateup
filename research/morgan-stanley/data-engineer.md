@@ -1,3 +1,53 @@
+---
+company: morgan-stanley
+company_display: Morgan Stanley
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 135000
+    base_high: 183000
+    stock_low: 33000
+    stock_high: 55000
+    bonus_low: 24000
+    bonus_high: 37000
+    total_comp_low: 192000
+    total_comp_high: 275000
+    currency: USD
+  - region: London
+    base_low: 111000
+    base_high: 150000
+    stock_low: 27000
+    stock_high: 45000
+    bonus_low: 20000
+    bonus_high: 30000
+    total_comp_low: 157000
+    total_comp_high: 226000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 1050000
+    base_high: 1430000
+    stock_low: 257000
+    stock_high: 429000
+    bonus_low: 187000
+    bonus_high: 289000
+    total_comp_low: 1500000
+    total_comp_high: 2150000
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Advisory Data Infrastructure` `Real-Time Wealth Pipelines` `AI Feature Engineering`"
+---
 ### Data Engineer | Morgan Stanley Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Advisory Data Infrastructure` `Real-Time Wealth Pipelines` `AI Feature Engineering`

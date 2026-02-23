@@ -1,3 +1,50 @@
+---
+company: capital-one
+company_display: Capital One
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: McLean VA (HQ)
+    base_low: 145000
+    base_high: 195000
+    stock_low: 70000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 295000
+    currency: USD
+  - region: New York City
+    base_low: 155000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 315000
+    currency: USD
+  - region: San Francisco
+    base_low: 150000
+    base_high: 200000
+    stock_low: 75000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at Capital One (Senior/Principal) = L4-L5 at Google, E4-E5 at Meta, SDE II-Senior at Amazon, VP at BofA/JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$68B market cap TECH-FIRST bank + First major bank 100% on AWS + McLean VA HQ + Comp competitive with cloud providers | Capital One DevOps is cloud-native and industry-leading | **CLOUD-NATIVE BANKING DEVOPS PREMIUM**"
+---
 ### DevOps Engineer | Capital One Global Negotiation Guide
 
 **Negotiation DNA:** $68B market cap TECH-FIRST bank + First major bank 100% on AWS + McLean VA HQ + Comp competitive with cloud providers | Capital One DevOps is cloud-native and industry-leading | **CLOUD-NATIVE BANKING DEVOPS PREMIUM**

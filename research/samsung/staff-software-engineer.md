@@ -1,3 +1,68 @@
+---
+company: samsung
+company_display: Samsung
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / San Jose (US R&D)"
+    base_low: 180000
+    base_high: 250000
+    stock_low: 120000
+    stock_high: 280000
+    bonus_pct: 20
+    total_comp_low: 290000
+    total_comp_high: 440000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 170000
+    base_high: 235000
+    stock_low: 100000
+    stock_high: 240000
+    bonus_pct: 20
+    total_comp_low: 265000
+    total_comp_high: 400000
+    currency: USD
+  - region: Seoul (HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (R&D Campus)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 180000
+    stock_low: 60000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 170000
+    total_comp_high: 280000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Staff Software Engineer at Samsung (CL4+) = L6 at Google, IC5-IC6 at Meta, Principal at Amazon, ICT5 at Apple, Staff at most startups"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B chaebol's highest individual-contributor tier for US R&D + Architecture-level influence across Galaxy ecosystem + Korean executive-track compensation at CL4+ | Staff engineers at Samsung define the technical direction for products used by 1B+ people | **ARCHITECTURAL AUTHORITY PREMIUM**"
+---
 ### Staff Software Engineer | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B chaebol's highest individual-contributor tier for US R&D + Architecture-level influence across Galaxy ecosystem + Korean executive-track compensation at CL4+ | Staff engineers at Samsung define the technical direction for products used by 1B+ people | **ARCHITECTURAL AUTHORITY PREMIUM**

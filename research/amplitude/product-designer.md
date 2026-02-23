@@ -1,3 +1,48 @@
+---
+company: amplitude
+company_display: Amplitude
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 182000
+    stock_low: 90000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 228000
+    currency: USD
+  - region: New York
+    base_low: 140000
+    base_high: 178000
+    stock_low: 85000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 220000
+    currency: USD
+  - region: London
+    base_low: 82000
+    base_high: 112000
+    stock_low: 45000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 98000
+    total_comp_high: 135000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Amplitude Designer (Mid) = Google L4 UX = Meta IC4 Design = Mixpanel Product Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Based / Public Company | AI-Powered Product Analytics"
+---
 ### Product Designer | Amplitude Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Based / Public Company | AI-Powered Product Analytics

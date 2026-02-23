@@ -1,3 +1,48 @@
+---
+company: ping-identity
+company_display: Ping Identity
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver
+    base_low: 145000
+    base_high: 185000
+    stock_low: 42000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 242000
+    currency: USD
+  - region: Austin
+    base_low: 140000
+    base_high: 178000
+    stock_low: 42000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 235000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 172000
+    stock_low: 42000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 228000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ping Identity DevOps (IC2-IC3) = Okta DevOps/SRE = CyberArk DevOps = SailPoint DevOps = ForgeRock DevOps = Microsoft Identity SRE (L59-L61)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY INFRASTRUCTURE BONUS**"
+---
 ### DevOps Engineer | Ping Identity Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY INFRASTRUCTURE BONUS**

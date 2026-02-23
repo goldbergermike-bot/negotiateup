@@ -1,3 +1,50 @@
+---
+company: grab
+company_display: Grab
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 170000
+    base_high: 260000
+    stock_low: 90000
+    stock_high: 230000
+    bonus_pct: 12
+    total_comp_low: 250000
+    total_comp_high: 430000
+    currency: USD
+  - region: Seattle / Bay Area (US)
+    base_low: 190000
+    base_high: 260000
+    stock_low: 110000
+    stock_high: 280000
+    bonus_pct: 12
+    total_comp_low: 290000
+    total_comp_high: 450000
+    currency: USD
+  - region: Jakarta
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Staff SWE at Grab (L8+) = L6 at Google, IC6 at Meta, Principal at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$14B super-app with Staff engineers defining architecture across rides, food, payments, and fintech + Singapore's competitive tech market + NASDAQ RSUs with growth potential | Staff engineers at Grab shape the technical direction of SE Asia's digital economy | **ARCHITECTURAL PREMIUM**"
+---
 ### Staff Software Engineer | Grab Global Negotiation Guide
 
 **Negotiation DNA:** $14B super-app with Staff engineers defining architecture across rides, food, payments, and fintech + Singapore's competitive tech market + NASDAQ RSUs with growth potential | Staff engineers at Grab shape the technical direction of SE Asia's digital economy | **ARCHITECTURAL PREMIUM**

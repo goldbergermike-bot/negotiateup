@@ -1,3 +1,50 @@
+---
+company: scale-ai
+company_display: Scale AI
+role: ai-data-quality-engineer
+role_display: AI Data Quality Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 268000
+    stock_low: 320000
+    stock_high: 558000
+    bonus_pct: null
+    total_comp_low: 295000
+    total_comp_high: 408000
+    currency: USD
+  - region: New York
+    base_low: 221000
+    base_high: 281000
+    stock_low: 320000
+    stock_high: 558000
+    bonus_pct: null
+    total_comp_low: 301000
+    total_comp_high: 421000
+    currency: USD
+  - region: Washington DC
+    base_low: 226000
+    base_high: 289000
+    stock_low: 320000
+    stock_high: 558000
+    bonus_pct: null
+    total_comp_low: 306000
+    total_comp_high: 431000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Scale AI Data Quality Engineer = Google L5 ML Engineer = Meta ML Engineer (IC5) = OpenAI Research Engineer = Anthropic AI Safety Engineer = DeepMind Research Engineer (no direct equivalent — this role is unique to Scale's AI data infrastructure model)"
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity | **SIGNATURE ROLE** | **+20-35% AGENTIC AI PREMIUM**"
+---
 ### AI Data Quality Engineer | Scale AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity | **SIGNATURE ROLE** | **+20-35% AGENTIC AI PREMIUM**

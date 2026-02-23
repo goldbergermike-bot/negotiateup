@@ -1,3 +1,49 @@
+---
+company: electronic-arts
+company_display: Electronic Arts
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 155000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 325000
+    currency: USD
+  - region: Orlando
+    base_low: 135000
+    base_high: 185000
+    stock_low: 65000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 285000
+    currency: USD
+  - region: Bucharest
+    base_low: 50000
+    base_high: 80000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: 10
+    total_comp_low: 80000
+    total_comp_high: 135000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: EA ICT3 (Senior SWE) = Google L4 = Meta E4 = Microsoft 63
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "RSU + Bonus | Sports-Gaming Revenue Machine"
+---
 ### Senior Software Engineer | Electronic Arts Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Sports-Gaming Revenue Machine

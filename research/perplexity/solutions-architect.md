@@ -1,3 +1,50 @@
+---
+company: perplexity
+company_display: Perplexity
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 182000
+    base_high: 228000
+    stock_low: 170000
+    stock_high: 298000
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 302000
+    currency: USD
+  - region: New York
+    base_low: 187000
+    base_high: 239000
+    stock_low: 170000
+    stock_high: 298000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 314000
+    currency: USD
+  - region: Remote US
+    base_low: 164000
+    base_high: 205000
+    stock_low: 170000
+    stock_high: 298000
+    bonus_pct: null
+    total_comp_low: 207000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Perplexity Solutions Architect = Google Cloud SA L5 = AWS Solutions Architect (Senior) = Anthropic Solutions Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift"
+---
 ### Solutions Architect | Perplexity Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift

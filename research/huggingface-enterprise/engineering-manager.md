@@ -1,3 +1,50 @@
+---
+company: huggingface-enterprise
+company_display: Hugging Face Enterprise
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 220000
+    base_high: 275000
+    stock_low: 220000
+    stock_high: 390000
+    bonus_pct: 10
+    total_comp_low: 303000
+    total_comp_high: 453000
+    currency: USD
+  - region: New York
+    base_low: 215000
+    base_high: 270000
+    stock_low: 220000
+    stock_high: 390000
+    bonus_pct: 10
+    total_comp_low: 298000
+    total_comp_high: 443000
+    currency: USD
+  - region: Paris
+    base_low: 187000
+    base_high: 234000
+    stock_low: 187000
+    stock_high: 332000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 386000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: HF Enterprise EM = Google L5-L6 EM = Meta M1 = Databricks EM = OpenAI EM = Anthropic EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Significant Growth-Stage Equity | Open-Source AI Platform Leader | 2026 Focus: Scaling Enterprise Engineering Organization"
+---
 ### Engineering Manager | Hugging Face Enterprise Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Significant Growth-Stage Equity | Open-Source AI Platform Leader | 2026 Focus: Scaling Enterprise Engineering Organization

@@ -1,3 +1,48 @@
+---
+company: nutanix
+company_display: Nutanix
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 295000
+    total_comp_high: 460000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 275000
+    total_comp_high: 433000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 6500000
+    total_comp_high: 14000000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Staff Software Engineers at Nutanix define the technical architecture of the hybrid multi-cloud platform, setting cross-team direction for distributed storage, virtualization, and cloud management spanning on-premises and public cloud environments."
+---
 ### Staff Software Engineer — Nutanix Salary Negotiation Guide
 
 **Negotiation DNA**: Staff Software Engineers at Nutanix define the technical architecture of the hybrid multi-cloud platform, setting cross-team direction for distributed storage, virtualization, and cloud management spanning on-premises and public cloud environments.

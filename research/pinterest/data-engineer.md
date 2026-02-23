@@ -1,3 +1,48 @@
+---
+company: pinterest
+company_display: Pinterest
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 158000
+    base_high: 195000
+    stock_low: 130000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 265000
+    currency: USD
+  - region: New York
+    base_low: 152000
+    base_high: 188000
+    stock_low: 122000
+    stock_high: 222000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 255000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 175000
+    stock_low: 108000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 235000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Pinterest Data Engineer (L4–L5) = Google Data Engineer L4–L5 = Meta Data Engineer (IC4–IC5) = Amazon Data Engineer II–III = Databricks Data Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Data Platform & Pipeline Premium | Standard 4-year vest with 1-year cliff"
+---
 ### Data Engineer | Pinterest Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Data Platform & Pipeline Premium | Standard 4-year vest with 1-year cliff

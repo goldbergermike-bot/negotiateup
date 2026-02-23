@@ -1,3 +1,53 @@
+---
+company: ally-financial
+company_display: Ally Financial
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Detroit, MI (HQ)"
+    base_low: 128000
+    base_high: 168000
+    stock_low: 28000
+    stock_high: 52000
+    bonus_low: 26000
+    bonus_high: 42000
+    total_comp_low: 182000
+    total_comp_high: 262000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 134000
+    base_high: 176000
+    stock_low: 29000
+    stock_high: 55000
+    bonus_low: 27000
+    bonus_high: 44000
+    total_comp_low: 191000
+    total_comp_high: 275000
+    currency: USD
+  - region: New York
+    base_low: 151000
+    base_high: 198000
+    stock_low: 33000
+    stock_high: 61000
+    bonus_low: 31000
+    bonus_high: 50000
+    total_comp_low: 215000
+    total_comp_high: 309000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Dice
+  - LinkedIn
+negotiation_dna_summary: "`Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Customer Experience` `Auto Lending` `Digital Product Strategy`"
+---
 ### Product Manager | Ally Financial Global Negotiation Guide
 
 **Negotiation DNA:** `Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Customer Experience` `Auto Lending` `Digital Product Strategy`

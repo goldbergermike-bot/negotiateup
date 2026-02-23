@@ -1,3 +1,53 @@
+---
+company: ubs
+company_display: UBS
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 175000
+    base_high: 225000
+    stock_low: 40000
+    stock_high: 72000
+    bonus_low: 27000
+    bonus_high: 48000
+    total_comp_low: 242000
+    total_comp_high: 345000
+    currency: USD
+  - region: Zurich (HQ)
+    base_low: 154000
+    base_high: 198000
+    stock_low: 35000
+    stock_high: 63000
+    bonus_low: 24000
+    bonus_high: 42000
+    total_comp_low: 213000
+    total_comp_high: 304000
+    currency: CHF
+  - region: London
+    base_low: 140000
+    base_high: 180000
+    stock_low: 32000
+    stock_high: 58000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 194000
+    total_comp_high: 276000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Technical Leadership` `System Architecture` `Migration Ownership`"
+---
 ### Senior Software Engineer | UBS Global Negotiation Guide
 
 **Negotiation DNA:** `CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Technical Leadership` `System Architecture` `Migration Ownership`

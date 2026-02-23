@@ -1,3 +1,48 @@
+---
+company: servicetitan
+company_display: Servicetitan
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles / Glendale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 310000
+    currency: USD
+  - region: Atlanta / Secondary
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 280000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Senior Software Engineers at ServiceTitan own critical subsystems of the home services platform that powers tens of thousands of contractors — and the recent IPO means your equity is now liquid with significant growth potential.
+---
 ### Senior Software Engineer — ServiceTitan Salary Negotiation Guide
 
 **Negotiation DNA**: Senior Software Engineers at ServiceTitan own critical subsystems of the home services platform that powers tens of thousands of contractors — and the recent IPO means your equity is now liquid with significant growth potential.

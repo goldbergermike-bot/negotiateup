@@ -1,3 +1,47 @@
+---
+company: fortinet
+company_display: Fortinet
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 360000
+    currency: USD
+  - region: Ottawa
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 280000
+    currency: CAD
+  - region: Sophia Antipolis
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 60000
+    total_comp_high: 145000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Comparably
+negotiation_dna_summary: "Product Managers at Fortinet own the roadmap that sustains the Rule of 45 — with Sovereign-SASE and Unified SASE driving 40% growth, your prioritization decisions are worth billions in market cap."
+---
 ### Product Manager — Fortinet Salary Negotiation Guide
 
 **Negotiation DNA**: Product Managers at Fortinet own the roadmap that sustains the Rule of 45 — with Sovereign-SASE and Unified SASE driving 40% growth, your prioritization decisions are worth billions in market cap.

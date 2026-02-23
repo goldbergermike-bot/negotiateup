@@ -1,3 +1,87 @@
+---
+company: meta
+company_display: Meta
+role: senior-software-engineer
+role_display: Senior Software Engineer (E5)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Menlo Park / NYC)
+    base_low: 195000
+    base_high: 270000
+    stock_low: 250000
+    stock_high: 600000
+    bonus_pct: 15
+    total_comp_low: 320000
+    total_comp_high: 520000
+    currency: USD
+  - region: US (Seattle / Austin)
+    base_low: 185000
+    base_high: 255000
+    stock_low: 235000
+    stock_high: 565000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 490000
+    currency: USD
+  - region: London (UK)
+    base_low: 160000
+    base_high: 225000
+    stock_low: 200000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 430000
+    currency: USD
+  - region: Canada (Toronto / Montreal)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 190000
+    stock_high: 455000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 410000
+    currency: USD
+  - region: Germany (Berlin / Hamburg)
+    base_low: 145000
+    base_high: 205000
+    stock_low: 175000
+    stock_high: 430000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 390000
+    currency: USD
+  - region: Singapore
+    base_low: 140000
+    base_high: 200000
+    stock_low: 170000
+    stock_high: 410000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 375000
+    currency: USD
+  - region: India (Hyderabad / Bangalore)
+    base_low: 60000
+    base_high: 100000
+    stock_low: 75000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 105000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: E5
+  raw: "E5 (Senior SWE) maps to Google L5 / Amazon L6 SDE / Apple ICT4 / Microsoft Level 63. This is the most common \"senior\" designation across the industry and the level where compensation differences between companies become most pronounced."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Full-Stack Technical Leadership | Cross-Team Impact at Scale | **META E5 SENIOR PREMIUM**"
+---
 ### Senior Software Engineer (E5) | Meta Global Negotiation Guide
 
 **Negotiation DNA:** Full-Stack Technical Leadership | Cross-Team Impact at Scale | **META E5 SENIOR PREMIUM**

@@ -1,3 +1,50 @@
+---
+company: sambanova
+company_display: Sambanova
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 142000
+    base_high: 185000
+    stock_low: 28000
+    stock_high: 50000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 258000
+    currency: USD
+  - region: Austin
+    base_low: 128000
+    base_high: 165000
+    stock_low: 23000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 228000
+    currency: USD
+  - region: Remote US
+    base_low: 122000
+    base_high: 158000
+    stock_low: 20000
+    stock_high: 38000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SambaNova Data Scientist ~ Google DS (L4–L5) | Meta DS (IC4–IC5) | Amazon Data Scientist II–III | Apple DS | Microsoft Data Scientist (62–64)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +20% Agentic Orchestrator Premium"
+---
 ### Data Scientist | SambaNova Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +20% Agentic Orchestrator Premium

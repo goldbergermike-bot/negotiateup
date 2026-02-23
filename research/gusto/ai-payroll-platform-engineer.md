@@ -1,3 +1,49 @@
+---
+company: gusto
+company_display: Gusto
+role: ai-payroll-platform-engineer
+role_display: AI Payroll Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 230000
+    stock_low: 170000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 375000
+    currency: USD
+  - region: Denver
+    base_low: 165000
+    base_high: 205000
+    stock_low: 145000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 335000
+    currency: USD
+  - region: Toronto
+    base_low: 175000
+    base_high: 215000
+    stock_low: 135000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 325000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto AI Platform Engineer = Google L4-L5 ML Infra = Meta E4-E5 ML Platform = Stripe ML Platform Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity-Heavy / AI Premium | Core Payroll Intelligence Infrastructure"
+---
 ### AI Payroll Platform Engineer | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / AI Premium | Core Payroll Intelligence Infrastructure

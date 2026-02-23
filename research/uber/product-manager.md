@@ -1,3 +1,48 @@
+---
+company: uber
+company_display: Uber
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 198000
+    base_high: 248000
+    stock_low: 218000
+    stock_high: 378000
+    bonus_pct: 10
+    total_comp_low: 254000
+    total_comp_high: 348000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 258000
+    stock_low: 218000
+    stock_high: 378000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 358000
+    currency: USD
+  - region: London
+    base_low: 128000
+    base_high: 165000
+    stock_low: 112000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 222000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Uber PM = Google L4 PM = Lyft PM = DoorDash PM = Meta IC4 PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)"
+---
 ### Product Manager | Uber Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)

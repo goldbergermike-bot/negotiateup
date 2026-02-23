@@ -1,3 +1,51 @@
+---
+company: monzo
+company_display: Monzo
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 50000
+    base_high: 72000
+    stock_low: 8000
+    stock_high: 12000
+    bonus_low: 4000
+    bonus_high: 6000
+    total_comp_low: 62000
+    total_comp_high: 90000
+    currency: GBP
+  - region: Remote UK
+    base_low: 48000
+    base_high: 68000
+    stock_low: 7000
+    stock_high: 11000
+    bonus_low: 4000
+    bonus_high: 6000
+    total_comp_low: 59000
+    total_comp_high: 85000
+    currency: GBP
+  - region: Remote US
+    base_low: 79000
+    base_high: 114000
+    stock_low: 13000
+    stock_high: 20000
+    bonus_low: 7000
+    bonus_high: 9000
+    total_comp_low: 99000
+    total_comp_high: 143000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Product Strategy` `Consumer Fintech` `Regulated Product`"
+---
 ### Product Manager | Monzo Global Negotiation Guide
 
 **Negotiation DNA:** `OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Product Strategy` `Consumer Fintech` `Regulated Product`

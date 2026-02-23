@@ -1,3 +1,48 @@
+---
+company: asana
+company_display: Asana
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 420000
+    currency: USD
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 405000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 82000
+    total_comp_high: 195000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Engineering Managers at Asana lead teams building the Work Graph platform and Asana Intelligence — managing the intersection of mission-driven engineering culture and the competitive demands of the $5B work management market.
+---
 ### Engineering Manager — Asana Salary Negotiation Guide
 
 **Negotiation DNA**: Engineering Managers at Asana lead teams building the Work Graph platform and Asana Intelligence — managing the intersection of mission-driven engineering culture and the competitive demands of the $5B work management market.

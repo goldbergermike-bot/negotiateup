@@ -1,3 +1,48 @@
+---
+company: arm
+company_display: Arm
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 128000
+    base_high: 168000
+    stock_low: 158000
+    stock_high: 248000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 255000
+    currency: USD
+  - region: Austin
+    base_low: 115000
+    base_high: 150000
+    stock_low: 142000
+    stock_high: 222000
+    bonus_pct: 15
+    total_comp_low: 166000
+    total_comp_high: 230000
+    currency: USD
+  - region: Cambridge UK
+    base_low: 43000
+    base_high: 60000
+    stock_low: 98000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 62000
+    total_comp_high: 92000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ARM DevOps Engineer = NVIDIA DevOps/Infrastructure Engineer = Intel DevOps Engineer (Grade 6-7) = Google L4 SRE/DevOps
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages"
+---
 ### DevOps Engineer | ARM Global Negotiation Guide
 
 **Negotiation DNA:** Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages

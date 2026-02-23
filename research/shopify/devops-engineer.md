@@ -1,3 +1,48 @@
+---
+company: shopify
+company_display: Shopify
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 160000
+    base_high: 205000
+    stock_low: 140000
+    stock_high: 252000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 308000
+    currency: CAD
+  - region: San Francisco
+    base_low: 178000
+    base_high: 222000
+    stock_low: 155000
+    stock_high: 282000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 338000
+    currency: USD
+  - region: Remote US/Canada
+    base_low: 168000
+    base_high: 210000
+    stock_low: 145000
+    stock_high: 265000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 318000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shopify DevOps (L5-L7) = Google SRE L4-L5 = Meta Production Engineer E4-E5 = Stripe Infra = AWS DevOps
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Infrastructure Reliability | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**"
+---
 ### DevOps Engineer | Shopify Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Infrastructure Reliability | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**

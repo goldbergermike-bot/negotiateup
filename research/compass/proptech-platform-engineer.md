@@ -1,3 +1,48 @@
+---
+company: compass
+company_display: Compass
+role: proptech-platform-engineer
+role_display: PropTech Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 162000
+    base_high: 218000
+    stock_low: 82000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 335000
+    currency: USD
+  - region: San Francisco
+    base_low: 162000
+    base_high: 218000
+    stock_low: 82000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 205000
+    stock_low: 68000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Compass PropTech Platform Engineer = No Direct Equivalent (Specialized) > Zillow SWE = Redfin SWE = Opendoor SWE > Keller Williams Tech SWE = Google L4-L5"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **REAL ESTATE PLATFORM PREMIUM**"
+---
 ### PropTech Platform Engineer | Compass Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **REAL ESTATE PLATFORM PREMIUM**

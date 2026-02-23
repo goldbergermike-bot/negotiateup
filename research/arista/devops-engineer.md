@@ -1,3 +1,48 @@
+---
+company: arista
+company_display: Arista Networks
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 178000
+    base_high: 225000
+    stock_low: 162000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 318000
+    currency: USD
+  - region: Vancouver (BC)
+    base_low: 168000
+    base_high: 212000
+    stock_low: 152000
+    stock_high: 272000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 302000
+    currency: CAD
+  - region: Remote US
+    base_low: 172000
+    base_high: 218000
+    stock_low: 162000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 312000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Arista DevOps (IC2-IC3) = Cisco DevOps = Juniper DevOps = Google L4 SRE = Palo Alto DevOps
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density"
+---
 ### DevOps Engineer | Arista Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density

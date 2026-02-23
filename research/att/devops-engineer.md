@@ -1,3 +1,50 @@
+---
+company: att
+company_display: "AT&T"
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas / Austin
+    base_low: 115000
+    base_high: 165000
+    stock_low: 24000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 222000
+    currency: USD
+  - region: NYC / New Jersey
+    base_low: 122000
+    base_high: 172000
+    stock_low: 28000
+    stock_high: 102000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 235000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 110000
+    base_high: 160000
+    stock_low: 22000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "AT&T DevOps Engineer (L3-L5) = Google L3-L5 SRE = Amazon SDE II-III (Infrastructure) = Verizon L3-L5 = T-Mobile L4-L6"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$155B Legacy Telecom Modernizing | Critical Network + Platform Infrastructure | Cloud Transformation"
+---
 ### DevOps Engineer | AT&T Global Negotiation Guide
 
 **Negotiation DNA:** $155B Legacy Telecom Modernizing | Critical Network + Platform Infrastructure | Cloud Transformation

@@ -1,3 +1,51 @@
+---
+company: adobe
+company_display: Adobe
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 142000
+    base_high: 175000
+    stock_low: 95000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 218000
+    currency: USD
+  - region: London
+    base_low: 92000
+    base_high: 114000
+    stock_low: 57000
+    stock_high: 99000
+    bonus_pct: 10
+    total_comp_low: 109000
+    total_comp_high: 142000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4300000
+    base_high: 5200000
+    stock_low: 2400000
+    stock_high: 4900000
+    bonus_pct: 10
+    total_comp_low: 5000000
+    total_comp_high: 6500000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)"
+---
 ### Product Designer | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)

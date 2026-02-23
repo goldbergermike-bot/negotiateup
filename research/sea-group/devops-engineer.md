@@ -1,3 +1,59 @@
+---
+company: sea-group
+company_display: Sea Group
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 108000
+    base_high: 170000
+    stock_low: 38000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 245000
+    currency: USD
+  - region: Bay Area / Seattle (US)
+    base_low: 145000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+  - region: "Shenzhen (R&D)"
+    base_low: 370000
+    base_high: 650000
+    stock_low: 130000
+    stock_high: 370000
+    bonus_pct: 10
+    total_comp_low: 490000
+    total_comp_high: 925000
+    currency: CNY
+  - region: Jakarta
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at Sea Group (L4-L6) = L3-L5 SRE at Google, IC3-IC5 PE at Meta, SysDE at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$35B market cap operating infrastructure for 2B+ Shopee orders, Garena gaming, and SeaMoney fintech + 11.11/12.12 sales events requiring extreme scaling + Multi-country infrastructure across 10+ markets | Sea Group DevOps engineers manage some of SE Asia's most demanding infrastructure | **E-COMMERCE SCALE INFRASTRUCTURE PREMIUM**"
+---
 ### DevOps Engineer | Sea Group Global Negotiation Guide
 
 **Negotiation DNA:** $35B market cap operating infrastructure for 2B+ Shopee orders, Garena gaming, and SeaMoney fintech + 11.11/12.12 sales events requiring extreme scaling + Multi-country infrastructure across 10+ markets | Sea Group DevOps engineers manage some of SE Asia's most demanding infrastructure | **E-COMMERCE SCALE INFRASTRUCTURE PREMIUM**

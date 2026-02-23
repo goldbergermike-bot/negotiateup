@@ -1,3 +1,48 @@
+---
+company: palantir
+company_display: Palantir
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 135000
+    base_high: 165000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 245000
+    currency: USD
+  - region: New York City
+    base_low: 140000
+    base_high: 170000
+    stock_low: 185000
+    stock_high: 330000
+    bonus_pct: null
+    total_comp_low: 186000
+    total_comp_high: 252000
+    currency: USD
+  - region: London
+    base_low: 70000
+    base_high: 88000
+    stock_low: 90000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 93000
+    total_comp_high: 128000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Palantir SWE = Google L3 = Meta E3 — but with 1.5-2x the weekly hours
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture"
+---
 ### Software Engineer | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture

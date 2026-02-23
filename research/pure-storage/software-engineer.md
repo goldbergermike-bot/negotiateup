@@ -1,3 +1,49 @@
+---
+company: pure-storage
+company_display: Pure Storage
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 130000
+    base_high: 165000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 228000
+    currency: USD
+  - region: Denver
+    base_low: 118000
+    base_high: 150000
+    stock_low: 70000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 208000
+    currency: USD
+  - region: Remote US
+    base_low: 112000
+    base_high: 142000
+    stock_low: 65000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 195000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Pure Storage | Google | Meta | Amazon | Microsoft |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | Market-Rate"
+---
 ### Software Engineer | Pure Storage Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | Market-Rate

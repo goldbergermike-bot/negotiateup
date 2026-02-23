@@ -1,3 +1,53 @@
+---
+company: inflection-ai
+company_display: Inflection AI
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 200000
+    base_high: 290000
+    stock_low: 160000
+    stock_high: 420000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 240000
+    total_comp_high: 395000
+    currency: USD
+  - region: Seattle
+    base_low: 194000
+    base_high: 281000
+    stock_low: 160000
+    stock_high: 420000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 234000
+    total_comp_high: 384000
+    currency: USD
+  - region: Remote US
+    base_low: 180000
+    base_high: 261000
+    stock_low: 144000
+    stock_high: 378000
+    bonus_low: 18000
+    bonus_high: 36000
+    total_comp_low: 216000
+    total_comp_high: 356000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Inflection ML/AI Engineer = Microsoft L63-L65 ML Engineer = Google L4-L6 ML Engineer = Meta ML IC4-IC6
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | **+15-30% ML PREMIUM** | Pi AI Models"
+---
 ### ML/AI Engineer | Inflection AI Global Negotiation Guide
 
 **Negotiation DNA:** Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | **+15-30% ML PREMIUM** | Pi AI Models

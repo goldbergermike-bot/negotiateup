@@ -1,3 +1,48 @@
+---
+company: netflix
+company_display: Netflix
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 270000
+    base_high: 342000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 270000
+    total_comp_high: 342000
+    currency: USD
+  - region: San Francisco
+    base_low: 278000
+    base_high: 352000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 278000
+    total_comp_high: 352000
+    currency: USD
+  - region: London
+    base_low: 206000
+    base_high: 261000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 206000
+    total_comp_high: 261000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Netflix ML/AI Engineer = Google ML Engineer L5-L6 = Meta ML Engineer (IC5-IC6) = Apple ML Engineer = Amazon Applied Scientist II-III = Microsoft ML 63-65
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture | **+15-25% AI PREMIUM**"
+---
 ### ML/AI Engineer | Netflix Global Negotiation Guide
 
 **Negotiation DNA:** All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture | **+15-25% AI PREMIUM**

@@ -1,3 +1,49 @@
+---
+company: american-express
+company_display: American Express
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 148000
+    base_high: 202000
+    stock_low: 72000
+    stock_high: 185000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 315000
+    currency: USD
+  - region: Phoenix
+    base_low: 135000
+    base_high: 185000
+    stock_low: 62000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 178000
+    total_comp_high: 282000
+    currency: USD
+  - region: San Francisco
+    base_low: 145000
+    base_high: 198000
+    stock_low: 68000
+    stock_high: 178000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "TPM at AmEx (Director/VP) = L5-L6 TPM at Google, E5-E6 TPM at Meta, Sr TPM-Principal TPM at Amazon, SVP/Director at BofA, Director TPM at Capital One"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$190B market cap premium brand + TPMs coordinate payment network and membership programs + NYC HQ + Strong comp | AmEx TPMs manage programs at premium-brand quality | **PREMIUM PROGRAM PREMIUM**"
+---
 ### Technical Program Manager | American Express Global Negotiation Guide
 
 **Negotiation DNA:** $190B market cap premium brand + TPMs coordinate payment network and membership programs + NYC HQ + Strong comp | AmEx TPMs manage programs at premium-brand quality | **PREMIUM PROGRAM PREMIUM**

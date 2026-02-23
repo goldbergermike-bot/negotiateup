@@ -1,3 +1,49 @@
+---
+company: hubspot
+company_display: Hubspot
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Cambridge, MA (HQ)"
+    base_low: 158000
+    base_high: 198000
+    stock_low: 135000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 255000
+    currency: USD
+  - region: "Dublin, Ireland"
+    base_low: 95000
+    base_high: 129000
+    stock_low: 74000
+    stock_high: 137000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 166000
+    currency: EUR
+  - region: "London, UK"
+    base_low: 103000
+    base_high: 139000
+    stock_low: 81000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 179000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Balanced Comp (Base + RSU + 10-15% Bonus) | \"Grow Better\" Remote-First Culture | Breeze AI Copilot Integration | M&A Optionality"
+---
 ### Solutions Architect | HubSpot Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp (Base + RSU + 10-15% Bonus) | "Grow Better" Remote-First Culture | Breeze AI Copilot Integration | M&A Optionality

@@ -1,3 +1,49 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: ai-observability-platform-engineer
+role_display: AI Observability Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 215000
+    base_high: 278000
+    stock_low: 240000
+    stock_high: 430000
+    bonus_pct: 10
+    total_comp_low: 320000
+    total_comp_high: 460000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 202000
+    base_high: 263000
+    stock_low: 220000
+    stock_high: 396000
+    bonus_pct: 10
+    total_comp_low: 300000
+    total_comp_high: 430000
+    currency: USD
+  - region: London / Berlin
+    base_low: 164000
+    base_high: 212000
+    stock_low: 182000
+    stock_high: 327000
+    bonus_pct: 10
+    total_comp_low: 244000
+    total_comp_high: 350000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs AI Observability Platform Engineer = Google L5-L6 ML Platform = Meta E5-E6 AI Infra = Datadog Staff ML Engineer = New Relic Senior AI Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside | **SIGNATURE ROLE** | **+20-30% AI OBSERVABILITY PREMIUM**"
+---
 ### AI Observability Platform Engineer | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside | **SIGNATURE ROLE** | **+20-30% AI OBSERVABILITY PREMIUM**

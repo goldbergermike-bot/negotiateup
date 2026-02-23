@@ -1,3 +1,55 @@
+---
+company: pagerduty
+company_display: Pagerduty
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 140000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Atlanta
+    base_low: 120000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 25000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 70000
+    base_high: 95000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 8000
+    signing_bonus_high: 18000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Software Engineer at PagerDuty maps to IC2 (L4 equivalent at Google/Meta, E4 at Meta, 60 at Microsoft). Early-career roles with 2-5 years of experience typically land here."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge"
+---
 ### Software Engineer | PagerDuty Global Negotiation Guide
 
 **Negotiation DNA:** PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge

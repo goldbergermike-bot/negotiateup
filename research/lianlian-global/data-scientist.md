@@ -1,3 +1,47 @@
+---
+company: lianlian-global
+company_display: Lianlian Global
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":cn: Hangzhou (CNY)"
+    base_low: 300000
+    base_high: 550000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 420000
+    total_comp_high: 850000
+    currency: JPY
+  - region: ":hong_kong: Hong Kong (HKD)"
+    base_low: 500000
+    base_high: 900000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 700000
+    total_comp_high: 1350000
+    currency: HKD
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 90000
+    base_high: 150000
+    stock_low: 30000
+    stock_high: 80000
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 230000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a data science compensation framework spanning Hangzhou, Hong Kong, and Singapore markets."
+---
 ### Data Scientist — LianLian Global Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a data science compensation framework spanning Hangzhou, Hong Kong, and Singapore markets.

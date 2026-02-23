@@ -1,3 +1,52 @@
+---
+company: ncr-voyix
+company_display: NCR Voyix
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 130000
+    base_high: 170000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 172000
+    total_comp_high: 252000
+    currency: USD
+  - region: New York NY
+    base_low: 150000
+    base_high: 195000
+    stock_low: 35000
+    stock_high: 75000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 200000
+    total_comp_high: 298000
+    currency: USD
+  - region: London UK
+    base_low: 85000
+    base_high: 115000
+    stock_low: 20000
+    stock_high: 42000
+    bonus_low: 8000
+    bonus_high: 16000
+    total_comp_low: 113000
+    total_comp_high: 173000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| NCR Voyix | Google | Meta | Stripe | Fiserv | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Data Engineering IC` `RSU/4yr` `Commerce Data Platform`"
+---
 ### Data Engineer | NCR Voyix Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Data Engineering IC` `RSU/4yr` `Commerce Data Platform`

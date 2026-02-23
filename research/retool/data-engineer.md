@@ -1,3 +1,48 @@
+---
+company: retool
+company_display: Retool
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 215000
+    stock_low: 140000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 230000
+    total_comp_high: 315000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 210000
+    stock_low: 135000
+    stock_high: 242000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 305000
+    currency: USD
+  - region: London
+    base_low: 112000
+    base_high: 142000
+    stock_low: 92000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Retool DE (L3-L5) = Google DE L4-L5 = Meta DE E4-E5 = Supabase DE = Hasura DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | Internal Tools & AI Workflow Platform | 30K+ Companies | **RETOOL AI PREMIUM**"
+---
 ### Data Engineer | Retool Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | Internal Tools & AI Workflow Platform | 30K+ Companies | **RETOOL AI PREMIUM**

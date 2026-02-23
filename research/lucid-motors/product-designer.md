@@ -1,3 +1,30 @@
+---
+company: lucid-motors
+company_display: Lucid Motors
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newark CA (HQ)
+    base_low: 125000
+    base_high: 175000
+    stock_low: 45000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 147000
+    total_comp_high: 232000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lucid Product Designer = Google UX Designer L3-L4 = Tesla Product Designer = Apple Design = Rivian Product Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive but Volatile Equity (LCID) | Luxury EV Leader | Saudi Backing | Bay Area Location"
+---
 ### Product Designer | Lucid Motors Global Negotiation Guide
 
 **Negotiation DNA:** Competitive but Volatile Equity (LCID) | Luxury EV Leader | Saudi Backing | Bay Area Location

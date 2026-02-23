@@ -1,3 +1,53 @@
+---
+company: ubs
+company_display: UBS
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 138000
+    base_high: 182000
+    stock_low: 26000
+    stock_high: 48000
+    bonus_low: 21000
+    bonus_high: 35000
+    total_comp_low: 185000
+    total_comp_high: 265000
+    currency: USD
+  - region: Zurich (HQ)
+    base_low: 121000
+    base_high: 160000
+    stock_low: 23000
+    stock_high: 42000
+    bonus_low: 18000
+    bonus_high: 31000
+    total_comp_low: 163000
+    total_comp_high: 233000
+    currency: CHF
+  - region: London
+    base_low: 110000
+    base_high: 146000
+    stock_low: 21000
+    stock_high: 38000
+    bonus_low: 17000
+    bonus_high: 28000
+    total_comp_low: 148000
+    total_comp_high: 212000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Infrastructure Consolidation` `CI/CD Pipeline Unification` `Data Center Decommissioning`"
+---
 ### DevOps Engineer | UBS Global Negotiation Guide
 
 **Negotiation DNA:** `CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Infrastructure Consolidation` `CI/CD Pipeline Unification` `Data Center Decommissioning`

@@ -1,3 +1,50 @@
+---
+company: bank-of-america
+company_display: Bank of America
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte (HQ)
+    base_low: 160000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 225000
+    total_comp_high: 365000
+    currency: USD
+  - region: New York City
+    base_low: 175000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 245000
+    total_comp_high: 400000
+    currency: USD
+  - region: San Francisco
+    base_low: 170000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 238000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at BofA (SVP/Director) = L6-L7 at Google, M1-M2 at Meta, SDM-Principal SDM at Amazon, Director at Capital One, SVP/MD at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$340B market cap bank + Large engineering org (95K+ tech workers) + Charlotte HQ cost advantage + Management premium in traditional bonus culture | BofA EMs drive critical technology programs | **LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Bank of America Global Negotiation Guide
 
 **Negotiation DNA:** $340B market cap bank + Large engineering org (95K+ tech workers) + Charlotte HQ cost advantage + Management premium in traditional bonus culture | BofA EMs drive critical technology programs | **LEADERSHIP PREMIUM**

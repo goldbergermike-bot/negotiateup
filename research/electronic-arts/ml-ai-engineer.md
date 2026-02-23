@@ -1,3 +1,48 @@
+---
+company: electronic-arts
+company_display: Electronic Arts
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 160000
+    base_high: 225000
+    stock_low: 90000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 340000
+    currency: USD
+  - region: Orlando
+    base_low: 140000
+    base_high: 200000
+    stock_low: 75000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+  - region: Bucharest
+    base_low: 55000
+    base_high: 85000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 85000
+    total_comp_high: 148000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: EA ML/AI Engineer ICT3 = Google L4 ML = Meta E4 ML = DeepMind Research Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Sports-Gaming Revenue Machine | **+10–20% AI PREMIUM**"
+---
 ### ML/AI Engineer | Electronic Arts Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Sports-Gaming Revenue Machine | **+10–20% AI PREMIUM**

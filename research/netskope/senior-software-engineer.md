@@ -1,3 +1,56 @@
+---
+company: netskope
+company_display: Netskope
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 175000
+    base_high: 215000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 12
+    signing_bonus_low: 20000
+    signing_bonus_high: 45000
+    total_comp_low: 240000
+    total_comp_high: 330000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 120000
+    stock_low: 90000
+    stock_high: 170000
+    bonus_pct: 12
+    signing_bonus_low: 12000
+    signing_bonus_high: 25000
+    total_comp_low: 125000
+    total_comp_high: 185000
+    currency: GBP
+  - region: Bangalore
+    base_low: 3200000
+    base_high: 4800000
+    stock_low: 2500000
+    stock_high: 5000000
+    bonus_pct: 12
+    signing_bonus_low: 400000
+    signing_bonus_high: 1000000
+    total_comp_low: 4500000
+    total_comp_high: 7200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Senior Software Engineer (IC3) | Netskope Engineering Band 3 | Equivalent: Google L4, Meta E4/E5, Palo Alto Networks IC3"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Post-IPO Cloud Security | UZTNA Platform Ownership | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation"
+---
 ### Senior Software Engineer | Netskope Global Negotiation Guide
 
 **Negotiation DNA:** Post-IPO Cloud Security | UZTNA Platform Ownership | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation

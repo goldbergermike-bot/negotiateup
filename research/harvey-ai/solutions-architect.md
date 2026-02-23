@@ -1,3 +1,50 @@
+---
+company: harvey-ai
+company_display: Harvey AI
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 240000
+    stock_low: 105000
+    stock_high: 295000
+    bonus_pct: null
+    total_comp_low: 201000
+    total_comp_high: 314000
+    currency: USD
+  - region: New York City
+    base_low: 175000
+    base_high: 240000
+    stock_low: 105000
+    stock_high: 295000
+    bonus_pct: null
+    total_comp_low: 201000
+    total_comp_high: 314000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 216000
+    stock_low: 95000
+    stock_high: 266000
+    bonus_pct: null
+    total_comp_low: 182000
+    total_comp_high: 283000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Harvey SA = Google Customer Engineer L4-L5 = AWS SA III = Databricks SA
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Comp + Pre-IPO Equity | $2B+ Valuation | San Francisco | Legal AI Enterprise Deployment"
+---
 ### Solutions Architect | Harvey AI Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Comp + Pre-IPO Equity | $2B+ Valuation | San Francisco | Legal AI Enterprise Deployment

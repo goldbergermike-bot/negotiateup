@@ -1,3 +1,53 @@
+---
+company: ally-financial
+company_display: Ally Financial
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Detroit, MI (HQ)"
+    base_low: 125000
+    base_high: 165000
+    stock_low: 28000
+    stock_high: 50000
+    bonus_low: 25000
+    bonus_high: 43000
+    total_comp_low: 178000
+    total_comp_high: 258000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 131000
+    base_high: 173000
+    stock_low: 29000
+    stock_high: 53000
+    bonus_low: 26000
+    bonus_high: 45000
+    total_comp_low: 187000
+    total_comp_high: 271000
+    currency: USD
+  - region: New York
+    base_low: 148000
+    base_high: 195000
+    stock_low: 33000
+    stock_high: 59000
+    bonus_low: 30000
+    bonus_high: 51000
+    total_comp_low: 210000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Dice
+  - LinkedIn
+negotiation_dna_summary: "`Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Fair Lending Models` `Auto Finance Analytics` `Algorithmic Fairness`"
+---
 ### Data Scientist | Ally Financial Global Negotiation Guide
 
 **Negotiation DNA:** `Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Fair Lending Models` `Auto Finance Analytics` `Algorithmic Fairness`

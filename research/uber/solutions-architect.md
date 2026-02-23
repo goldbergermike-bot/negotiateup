@@ -1,3 +1,48 @@
+---
+company: uber
+company_display: Uber
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 192000
+    base_high: 240000
+    stock_low: 172000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 237000
+    total_comp_high: 322000
+    currency: USD
+  - region: New York
+    base_low: 198000
+    base_high: 248000
+    stock_low: 172000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 244000
+    total_comp_high: 332000
+    currency: USD
+  - region: Singapore
+    base_low: 168000
+    base_high: 212000
+    stock_low: 95000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 272000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: Uber SA = Google L4 Solutions Eng = Lyft SA = DoorDash SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)"
+---
 ### Solutions Architect | Uber Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)

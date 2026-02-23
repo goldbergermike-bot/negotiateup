@@ -1,3 +1,52 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: stablecoin-platform-engineer
+role_display: Stablecoin Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 278000
+    base_high: 358000
+    stock_low: 340000
+    stock_high: 620000
+    bonus_low: 78000
+    bonus_high: 118000
+    total_comp_low: 398000
+    total_comp_high: 562000
+    currency: USD
+  - region: New York
+    base_low: 298000
+    base_high: 385000
+    stock_low: 372000
+    stock_high: 675000
+    bonus_low: 85000
+    bonus_high: 128000
+    total_comp_low: 432000
+    total_comp_high: 612000
+    currency: USD
+  - region: Remote US
+    base_low: 255000
+    base_high: 325000
+    stock_low: 308000
+    stock_high: 562000
+    bonus_low: 68000
+    bonus_high: 105000
+    total_comp_low: 348000
+    total_comp_high: 492000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#StablecoinPlatform` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#SignatureRole` `#PlatformPremium` `+25-35% Premium`"
+---
 ### Stablecoin Platform Engineer | Fidelity Digital Assets Global Negotiation Guide
 
 **SIGNATURE ROLE** | `+25-35% Stablecoin Platform Premium`

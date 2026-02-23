@@ -1,3 +1,52 @@
+---
+company: block
+company_display: Block (Square)
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 225000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_low: 18000
+    bonus_high: 38000
+    total_comp_low: 250000
+    total_comp_high: 400000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 220000
+    stock_low: 150000
+    stock_high: 285000
+    bonus_low: 17000
+    bonus_high: 36000
+    total_comp_low: 240000
+    total_comp_high: 385000
+    currency: USD
+  - region: London
+    base_low: 102000
+    base_high: 140000
+    stock_low: 95000
+    stock_high: 185000
+    bonus_low: 11000
+    bonus_high: 24000
+    total_comp_low: 152000
+    total_comp_high: 245000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Block | Google | Meta | Stripe | PayPal | Coinbase |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L4-L5 Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Data Pipelines` `Agent Data Infrastructure`"
+---
 ### Data Engineer | Block Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L4-L5 Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Data Pipelines` `Agent Data Infrastructure`

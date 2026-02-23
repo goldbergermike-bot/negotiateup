@@ -1,3 +1,50 @@
+---
+company: asml
+company_display: Asml
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 72000
+    base_high: 85000
+    stock_low: 18000
+    stock_high: 35000
+    bonus_pct: 10
+    total_comp_low: 72000
+    total_comp_high: 98000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 128000
+    base_high: 175000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_pct: 12
+    total_comp_low: 185000
+    total_comp_high: 258000
+    currency: USD
+  - region: San Jose
+    base_low: 138000
+    base_high: 185000
+    stock_low: 42000
+    stock_high: 68000
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML Data Scientist maps to Google L4 Data Scientist, Meta Data Scientist IC4, Apple Data Scientist, Microsoft Data Scientist 61–63, and TSMC Data Analytics Engineer."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Data Science Band"
+---
 ### Data Scientist | ASML Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Data Science Band

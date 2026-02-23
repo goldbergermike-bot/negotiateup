@@ -1,3 +1,52 @@
+---
+company: monzo
+company_display: Monzo
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 65000
+    base_high: 95000
+    stock_low: 12000
+    stock_high: 17000
+    bonus_low: 5000
+    bonus_high: 8000
+    total_comp_low: 82000
+    total_comp_high: 120000
+    currency: GBP
+  - region: Remote UK
+    base_low: 62000
+    base_high: 90000
+    stock_low: 11000
+    stock_high: 16000
+    bonus_low: 5000
+    bonus_high: 7000
+    total_comp_low: 78000
+    total_comp_high: 113000
+    currency: GBP
+  - region: Remote US
+    base_low: 103000
+    base_high: 151000
+    stock_low: 20000
+    stock_high: 28000
+    bonus_low: 8000
+    bonus_high: 12000
+    total_comp_low: 130000
+    total_comp_high: 190000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Hired
+negotiation_dna_summary: "`OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Financial ML` `Fraud Detection` `Credit Risk Modeling`"
+---
 ### ML/AI Engineer | Monzo Global Negotiation Guide
 
 **Negotiation DNA:** `OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Financial ML` `Fraud Detection` `Credit Risk Modeling`

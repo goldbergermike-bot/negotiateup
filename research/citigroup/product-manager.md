@@ -1,3 +1,50 @@
+---
+company: citigroup
+company_display: Citigroup
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 150000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 205000
+    total_comp_high: 340000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 148000
+    total_comp_high: 250000
+    currency: GBP
+  - region: Singapore
+    base_low: 135000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: "Product Manager at Citi (SVP/Director) = L5-L6 at Google, IC5-IC6 at Meta, Sr PM-Principal PM at Amazon, Director PM at Capital One, SVP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$130B market cap global bank + PM drives products across 160+ countries + NYC HQ competitive hiring + Banking bonus culture rewards product leadership | Citi PMs shape global financial products | **GLOBAL PRODUCT LEADERSHIP PREMIUM**"
+---
 ### Product Manager | Citigroup Global Negotiation Guide
 
 **Negotiation DNA:** $130B market cap global bank + PM drives products across 160+ countries + NYC HQ competitive hiring + Banking bonus culture rewards product leadership | Citi PMs shape global financial products | **GLOBAL PRODUCT LEADERSHIP PREMIUM**

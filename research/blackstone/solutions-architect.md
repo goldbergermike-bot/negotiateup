@@ -1,3 +1,51 @@
+---
+company: blackstone
+company_display: Blackstone
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 195000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_low: 55000
+    bonus_high: 85000
+    total_comp_low: 325000
+    total_comp_high: 465000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_low: 48000
+    bonus_high: 75000
+    total_comp_low: 295000
+    total_comp_high: 425000
+    currency: GBP
+  - region: Miami
+    base_low: 185000
+    base_high: 230000
+    stock_low: null
+    stock_high: null
+    bonus_low: 52000
+    bonus_high: 80000
+    total_comp_low: 310000
+    total_comp_high: 445000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `Enterprise Architecture` `Cross-Asset Integration` `Investment Technology Strategy`"
+---
 ### Solutions Architect | Blackstone Global Negotiation Guide
 
 **Negotiation DNA:** `$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `Enterprise Architecture` `Cross-Asset Integration` `Investment Technology Strategy`

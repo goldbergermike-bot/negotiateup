@@ -1,3 +1,50 @@
+---
+company: asml
+company_display: Asml
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 88000
+    base_high: 105000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: 10
+    total_comp_low: 88000
+    total_comp_high: 122000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 50000
+    stock_high: 80000
+    bonus_pct: 12
+    total_comp_low: 222000
+    total_comp_high: 308000
+    currency: USD
+  - region: San Jose
+    base_low: 165000
+    base_high: 220000
+    stock_low: 55000
+    stock_high: 85000
+    bonus_pct: 12
+    total_comp_low: 232000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML Senior Software Engineer maps to Google L5, Meta E5, Apple ICT4, Microsoft Senior SDE 63–64, and TSMC Senior Engineer."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Senior Band"
+---
 ### Senior Software Engineer | ASML Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Senior Band

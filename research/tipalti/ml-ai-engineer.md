@@ -1,3 +1,52 @@
+---
+company: tipalti
+company_display: Tipalti
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 175000
+    base_high: 235000
+    stock_low: 70000
+    stock_high: 170000
+    bonus_low: 18000
+    bonus_high: 40000
+    total_comp_low: 263000
+    total_comp_high: 445000
+    currency: USD
+  - region: New York NY
+    base_low: 170000
+    base_high: 230000
+    stock_low: 65000
+    stock_high: 165000
+    bonus_low: 17000
+    bonus_high: 38000
+    total_comp_low: 252000
+    total_comp_high: 433000
+    currency: USD
+  - region: Tel Aviv IL
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Tipalti | Google | Meta | Stripe | Bill.com | AvidXchange |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `AI Trust` `Fintech` `Pre-IPO` `Payables Automation` `Machine Learning` `Applied AI` `Model Governance`"
+---
 ### ML/AI Engineer | Tipalti Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `AI Trust` `Fintech` `Pre-IPO` `Payables Automation` `Machine Learning` `Applied AI` `Model Governance`

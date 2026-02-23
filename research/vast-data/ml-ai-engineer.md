@@ -1,3 +1,50 @@
+---
+company: vast-data
+company_display: Vast Data
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 175000
+    base_high: 225000
+    stock_low: 40000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 328000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: 35000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 305000
+    currency: USD
+  - region: Remote US
+    base_low: 165000
+    base_high: 215000
+    stock_low: 40000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 315000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Vast Data ML/AI Engineer = Google L4–L5 ML Engineer / Meta ML Engineer (IC4–IC5) / Amazon Applied Scientist II–III / Microsoft ML Engineer 63–65 / OpenAI Research Engineer / Databricks ML Engineer"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | +15-25% AI Premium"
+---
 ### ML/AI Engineer | Vast Data Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | +15-25% AI Premium

@@ -1,3 +1,68 @@
+---
+company: samsung
+company_display: Samsung
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / San Jose (US R&D)"
+    base_low: 145000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 315000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 135000
+    base_high: 190000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 290000
+    currency: USD
+  - region: Seoul (HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (R&D Campus)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 135000
+    stock_low: 30000
+    stock_high: 85000
+    bonus_pct: 15
+    total_comp_low: 110000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Security Engineer at Samsung (CL2-CL3) = L4-L5 at Google (Security), IC4-IC5 at Meta, Security Engineer at Apple, SDE-Security at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B conglomerate with Knox security platform protecting 1B+ devices + Samsung Pay/Wallet securing billions in transactions + Semiconductor supply chain security for global chip customers | Samsung security engineers protect one of the world's broadest attack surfaces | **CRITICAL SECURITY PREMIUM**"
+---
 ### Security Engineer | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B conglomerate with Knox security platform protecting 1B+ devices + Samsung Pay/Wallet securing billions in transactions + Semiconductor supply chain security for global chip customers | Samsung security engineers protect one of the world's broadest attack surfaces | **CRITICAL SECURITY PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: etsy
+company_display: Etsy
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brooklyn
+    base_low: 162000
+    base_high: 205000
+    stock_low: 82000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 252000
+    currency: USD
+  - region: San Francisco
+    base_low: 168000
+    base_high: 212000
+    stock_low: 82000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 258000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 195000
+    stock_low: 82000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Etsy TPM (T3) = Google L4 TPM = Meta IC4 TPM = Amazon TPM II = Shopify TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction"
+---
 ### Technical Program Manager | Etsy Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction

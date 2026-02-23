@@ -1,3 +1,48 @@
+---
+company: airwallex
+company_display: Airwallex
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Melbourne (AUD)
+    base_low: 145000
+    base_high: 195000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: AUD
+  - region: San Francisco (USD)
+    base_low: 175000
+    base_high: 235000
+    stock_low: 90000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 415000
+    currency: USD
+  - region: London (GBP)
+    base_low: 85000
+    base_high: 120000
+    stock_low: 40000
+    stock_high: 90000
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a product management compensation framework spanning Melbourne, San Francisco, and London markets. As a Product Manager at Airwallex, you define the roadmap for cross-border payment products that must satisfy both customer needs and multi-jurisdictional regulatory requirements — your product decisions shape compliance outcomes and revenue trajectories simultaneous"
+---
 ### Product Manager — Airwallex Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a product management compensation framework spanning Melbourne, San Francisco, and London markets. As a Product Manager at Airwallex, you define the roadmap for cross-border payment products that must satisfy both customer needs and multi-jurisdictional regulatory requirements — your product decisions shape compliance outcomes and revenue trajectories simultaneously.

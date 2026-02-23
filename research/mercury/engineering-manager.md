@@ -1,3 +1,48 @@
+---
+company: mercury
+company_display: Mercury
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 260000
+    stock_low: 260000
+    stock_high: 420000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 390000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 255000
+    stock_low: 250000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 378000
+    currency: USD
+  - region: Remote (US)
+    base_low: 195000
+    base_high: 240000
+    stock_low: 230000
+    stock_high: 370000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 350000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Mercury EM (M1) = Google L5 EM = Meta M1 = Stripe EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure"
+---
 ### Engineering Manager | Mercury Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure

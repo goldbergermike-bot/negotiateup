@@ -1,3 +1,50 @@
+---
+company: coreweave
+company_display: Coreweave
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Roseland NJ
+    base_low: 225000
+    base_high: 280000
+    stock_low: 305000
+    stock_high: 535000
+    bonus_pct: null
+    total_comp_low: 301000
+    total_comp_high: 414000
+    currency: USD
+  - region: Remote US
+    base_low: 216000
+    base_high: 271000
+    stock_low: 305000
+    stock_high: 535000
+    bonus_pct: null
+    total_comp_low: 292000
+    total_comp_high: 405000
+    currency: USD
+  - region: London
+    base_low: 169000
+    base_high: 211000
+    stock_low: 230000
+    stock_high: 403000
+    bonus_pct: null
+    total_comp_low: 227000
+    total_comp_high: 312000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: CoreWeave EM = Google L5 EM = AWS EM = Meta E5 Manager = Apple ICT4 Manager = Microsoft 64 Manager
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium"
+---
 ### Engineering Manager | CoreWeave Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium

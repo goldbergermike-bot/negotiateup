@@ -1,3 +1,53 @@
+---
+company: morgan-stanley
+company_display: Morgan Stanley
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 38000
+    stock_high: 60000
+    bonus_low: 25000
+    bonus_high: 42000
+    total_comp_low: 218000
+    total_comp_high: 312000
+    currency: USD
+  - region: London
+    base_low: 127000
+    base_high: 172000
+    stock_low: 31000
+    stock_high: 49000
+    bonus_low: 21000
+    bonus_high: 34000
+    total_comp_low: 179000
+    total_comp_high: 256000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 1210000
+    base_high: 1640000
+    stock_low: 296000
+    stock_high: 468000
+    bonus_low: 195000
+    bonus_high: 328000
+    total_comp_low: 1700000
+    total_comp_high: 2430000
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Enterprise AI Architecture` `Cross-Division System Integration` `Advisory Technology Strategy`"
+---
 ### Solutions Architect | Morgan Stanley Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Enterprise AI Architecture` `Cross-Division System Integration` `Advisory Technology Strategy`

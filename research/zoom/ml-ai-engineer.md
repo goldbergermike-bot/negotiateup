@@ -1,3 +1,67 @@
+---
+company: zoom
+company_display: Zoom
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 175000
+    base_high: 245000
+    stock_low: 110000
+    stock_high: 270000
+    bonus_pct: 12
+    total_comp_low: 245000
+    total_comp_high: 385000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 155000
+    base_high: 218000
+    stock_low: 85000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 335000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 82000
+    base_high: 128000
+    stock_low: 42000
+    stock_high: 102000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 195000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2800000
+    base_high: 5500000
+    stock_low: 1500000
+    stock_high: 4200000
+    bonus_pct: 10
+    total_comp_low: 3800000
+    total_comp_high: 7800000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 128000
+    base_high: 195000
+    stock_low: 58000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom IC3/IC4 (ML) ~ Google L5/L6 MLE | Microsoft 63/64 AI | Apple ML ICT4/ICT5 | Meta E5/E6 MLE"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Real-time communication AI specialist | Speech/NLP/video intelligence systems | **AI/ML PREMIUM**"
+---
 ### ML/AI Engineer | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** Real-time communication AI specialist | Speech/NLP/video intelligence systems | **AI/ML PREMIUM**

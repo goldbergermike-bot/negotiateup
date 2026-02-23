@@ -1,3 +1,51 @@
+---
+company: citadel-securities
+company_display: Citadel Securities
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 200000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_low: 185000
+    bonus_high: 290000
+    total_comp_low: 385000
+    total_comp_high: 555000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 280000
+    stock_low: null
+    stock_high: null
+    bonus_low: 195000
+    bonus_high: 305000
+    total_comp_low: 405000
+    total_comp_high: 585000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_low: 150000
+    bonus_high: 230000
+    total_comp_low: 310000
+    total_comp_high: 440000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Systems Architecture` `25% US Equity Volume` `Private Firm Premium` `Cross-Platform Design`"
+---
 ### Solutions Architect | Citadel Securities Global Negotiation Guide
 
 **Negotiation DNA:** `$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Systems Architecture` `25% US Equity Volume` `Private Firm Premium` `Cross-Platform Design`

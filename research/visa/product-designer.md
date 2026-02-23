@@ -1,3 +1,52 @@
+---
+company: visa
+company_display: Visa
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Foster City
+    base_low: 145000
+    base_high: 195000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 263000
+    total_comp_high: 410000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 210000
+    stock_low: 110000
+    stock_high: 200000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 285000
+    total_comp_high: 448000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 120000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 152000
+    total_comp_high: 242000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Visa | Google | Meta | Stripe | JPMorgan | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments UX` `Design Systems` `4B+ Cards` `200+ Countries` `Trust Design` `Developer Experience`"
+---
 ### Product Designer | Visa Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments UX` `Design Systems` `4B+ Cards` `200+ Countries` `Trust Design` `Developer Experience`

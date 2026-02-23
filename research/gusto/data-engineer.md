@@ -1,3 +1,48 @@
+---
+company: gusto
+company_display: Gusto
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 195000
+    stock_low: 110000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 280000
+    currency: USD
+  - region: Denver
+    base_low: 140000
+    base_high: 175000
+    stock_low: 95000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 250000
+    currency: USD
+  - region: Toronto
+    base_low: 145000
+    base_high: 180000
+    stock_low: 85000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 245000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto DE = Google L3-L4 DE = Meta E3-E4 DE = Stripe DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity | Real-Time Payroll Data Infrastructure"
+---
 ### Data Engineer | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity | Real-Time Payroll Data Infrastructure

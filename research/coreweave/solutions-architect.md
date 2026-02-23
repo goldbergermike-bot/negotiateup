@@ -1,3 +1,50 @@
+---
+company: coreweave
+company_display: Coreweave
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Roseland NJ
+    base_low: 185000
+    base_high: 232000
+    stock_low: 180000
+    stock_high: 318000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 312000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 224000
+    stock_low: 180000
+    stock_high: 318000
+    bonus_pct: null
+    total_comp_low: 223000
+    total_comp_high: 304000
+    currency: USD
+  - region: London
+    base_low: 139000
+    base_high: 175000
+    stock_low: 136000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 173000
+    total_comp_high: 235000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: CoreWeave Solutions Architect = Google Cloud Customer Engineer L4 = AWS Solutions Architect III = Microsoft Azure Solutions Architect = NVIDIA Solutions Architect
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium"
+---
 ### Solutions Architect | CoreWeave Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium

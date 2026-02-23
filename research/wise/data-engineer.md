@@ -1,3 +1,48 @@
+---
+company: wise
+company_display: Wise
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 60000
+    base_high: 90000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 140000
+    currency: GBP
+  - region: Tallinn (EUR)
+    base_low: 46000
+    base_high: 68000
+    stock_low: 18000
+    stock_high: 38000
+    bonus_pct: null
+    total_comp_low: 64000
+    total_comp_high: 106000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 78000
+    base_high: 118000
+    stock_low: 32000
+    stock_high: 60000
+    bonus_pct: null
+    total_comp_low: 110000
+    total_comp_high: 178000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a data engineering compensation framework spanning London, Tallinn, and Singapore markets. As a Data Engineer at Wise, you build and maintain the data infrastructure layer of Platform Integrity — the pipelines, processing systems, and data platforms that power real-time pricing, fraud detection, regulatory reporting, and the Wise Platform API"
+---
 ### Data Engineer — Wise Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a data engineering compensation framework spanning London, Tallinn, and Singapore markets. As a Data Engineer at Wise, you build and maintain the data infrastructure layer of Platform Integrity — the pipelines, processing systems, and data platforms that power real-time pricing, fraud detection, regulatory reporting, and the Wise Platform API's analytics across 80+ countries and 50+ currencies.

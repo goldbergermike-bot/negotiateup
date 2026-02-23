@@ -1,3 +1,40 @@
+---
+company: c3-ai
+company_display: C3.ai
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City HQ
+    base_low: 195000
+    base_high: 250000
+    stock_low: 120000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 270000
+    total_comp_high: 405000
+    currency: USD
+  - region: Remote US
+    base_low: 180000
+    base_high: 235000
+    stock_low: 100000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 250000
+    total_comp_high: 375000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: C3.ai EM = Palantir EM = Google L5 Manager = Databricks EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Public ($4B Market Cap) | Enterprise AI Platform | Tom Siebel-Led | Volatile Stock"
+---
 ### Engineering Manager | C3.ai Global Negotiation Guide
 
 **Negotiation DNA:** Public ($4B Market Cap) | Enterprise AI Platform | Tom Siebel-Led | Volatile Stock

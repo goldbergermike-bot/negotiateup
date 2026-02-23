@@ -1,3 +1,51 @@
+---
+company: hsbc
+company_display: HSBC
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 92000
+    base_high: 125000
+    stock_low: 36000
+    stock_high: 55000
+    bonus_low: 19000
+    bonus_high: 30000
+    total_comp_low: 147000
+    total_comp_high: 209000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 730000
+    base_high: 995000
+    stock_low: 360000
+    stock_high: 545000
+    bonus_low: 370000
+    bonus_high: 550000
+    total_comp_low: 1470000
+    total_comp_high: 2090000
+    currency: HKD
+  - region: Singapore
+    base_low: 159000
+    base_high: 216000
+    stock_low: 62000
+    stock_high: 95000
+    bonus_low: 32000
+    bonus_high: 51000
+    total_comp_low: 254000
+    total_comp_high: 362000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Cross-Functional Delivery` `Multi-Region Coordination` `Strategic Execution`"
+---
 ### Technical Program Manager | HSBC Global Negotiation Guide
 
 **Negotiation DNA:** `Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Cross-Functional Delivery` `Multi-Region Coordination` `Strategic Execution`

@@ -1,3 +1,40 @@
+---
+company: alteryx
+company_display: Alteryx
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine HQ
+    base_low: 190000
+    base_high: 245000
+    stock_low: 110000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 260000
+    total_comp_high: 390000
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 230000
+    stock_low: 95000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 360000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Alteryx EM = Dataiku EM = Google L5 Manager = Tableau EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium"
+---
 ### Engineering Manager | Alteryx Global Negotiation Guide
 
 **Negotiation DNA:** Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium

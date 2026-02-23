@@ -1,3 +1,48 @@
+---
+company: genentech
+company_display: Genentech
+role: computational-biology-engineer
+role_display: Computational Biology Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: South San Francisco
+    base_low: 165000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 370000
+    currency: USD
+  - region: Bay Area Remote
+    base_low: 155000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 355000
+    currency: USD
+  - region: Other US
+    base_low: 145000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Genentech Comp Bio Engineer = Google L4-L5 ML = Illumina Senior Comp Bio = Recursion Senior Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Roche Subsidiary / Bay Area Biotech Premium / RSU + Bonus / R&D-Driven Culture | **SIGNATURE ROLE** | **+15-25% BIOTECH PREMIUM**"
+---
 ### Computational Biology Engineer | Genentech Global Negotiation Guide
 
 **Negotiation DNA:** Roche Subsidiary / Bay Area Biotech Premium / RSU + Bonus / R&D-Driven Culture | **SIGNATURE ROLE** | **+15-25% BIOTECH PREMIUM**

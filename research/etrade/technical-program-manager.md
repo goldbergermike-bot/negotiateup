@@ -1,3 +1,51 @@
+---
+company: etrade
+company_display: Etrade
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 138000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_low: 24000
+    bonus_high: 44000
+    total_comp_low: 195000
+    total_comp_high: 282000
+    currency: USD
+  - region: "Jersey City, NJ"
+    base_low: 131000
+    base_high: 171000
+    stock_low: null
+    stock_high: null
+    bonus_low: 23000
+    bonus_high: 42000
+    total_comp_low: 185000
+    total_comp_high: 268000
+    currency: USD
+  - region: "Alpharetta, GA"
+    base_low: 117000
+    base_high: 153000
+    stock_low: null
+    stock_high: null
+    bonus_low: 20000
+    bonus_high: 37000
+    total_comp_low: 166000
+    total_comp_high: 240000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Program Delivery` `Cross-Functional Coordination` `Launch Management`"
+---
 ### Technical Program Manager | E*TRADE (Morgan Stanley) Global Negotiation Guide
 
 **Negotiation DNA:** `Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Program Delivery` `Cross-Functional Coordination` `Launch Management`

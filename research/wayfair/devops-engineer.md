@@ -1,3 +1,48 @@
+---
+company: wayfair
+company_display: Wayfair
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 132000
+    base_high: 172000
+    stock_low: 38000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 228000
+    currency: USD
+  - region: New York
+    base_low: 139000
+    base_high: 181000
+    stock_low: 40000
+    stock_high: 63000
+    bonus_pct: 10
+    total_comp_low: 176000
+    total_comp_high: 239000
+    currency: USD
+  - region: Remote US
+    base_low: 119000
+    base_high: 155000
+    stock_low: 32000
+    stock_high: 51000
+    bonus_pct: 10
+    total_comp_low: 151000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Wayfair DevOps Engineer = Google SRE L4-L5 = Amazon Systems Engineer = Meta Production Engineer = Apple SRE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Infrastructure & Reliability Premium"
+---
 ### DevOps Engineer | Wayfair Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Infrastructure & Reliability Premium

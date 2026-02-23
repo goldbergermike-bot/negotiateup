@@ -1,3 +1,49 @@
+---
+company: cohere
+company_display: Cohere
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 110000
+    base_high: 142000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 142000
+    total_comp_high: 198000
+    currency: CAD
+  - region: San Francisco
+    base_low: 138000
+    base_high: 175000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 161000
+    total_comp_high: 216000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 125000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Cohere Product Designer = Google UX Designer L4 (Toronto) = Meta Product Designer IC4 = Shopify Senior Product Designer = Amazon UX Designer SDE II equivalent. In Toronto, Cohere competes for design talent with Google, Shopify, Wealthsimple, and RBC's innovation labs. Enterprise AI UX is a niche specialty — the pool of designers who understand both developer experience and enterprise compliance workflows is small."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty"
+---
 ### Product Designer | Cohere Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty

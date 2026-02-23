@@ -1,3 +1,48 @@
+---
+company: spacex
+company_display: Spacex
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Hawthorne, CA"
+    base_low: 155000
+    base_high: 200000
+    stock_low: 100000
+    stock_high: 270000
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 350000
+    currency: USD
+  - region: "Redmond, WA"
+    base_low: 155000
+    base_high: 200000
+    stock_low: 100000
+    stock_high: 270000
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 350000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 155000
+    base_high: 200000
+    stock_low: 100000
+    stock_high: 270000
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 350000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: SpaceX SA = AWS Senior SA = Azure Solutions Architect -- but with satellite networking and government security compliance
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starlink Enterprise/Government Solutions | 60+ Hour Culture"
+---
 ### Solutions Architect | SpaceX Global Negotiation Guide
 
 **Negotiation DNA:** Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starlink Enterprise/Government Solutions | 60+ Hour Culture

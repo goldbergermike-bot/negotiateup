@@ -1,3 +1,48 @@
+---
+company: hashicorp
+company_display: HashiCorp
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 158000
+    total_comp_high: 350000
+    currency: USD
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 76000
+    total_comp_high: 176000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Technical Program Managers at HashiCorp orchestrate the cross-functional programs that deliver Vault, Terraform, and the IBM Software Security by Default initiative — turning strategic vision into shipped products across the IBM and Red Hat ecosystem."
+---
 ### Technical Program Manager — HashiCorp (IBM) Salary Negotiation Guide
 
 **Negotiation DNA**: Technical Program Managers at HashiCorp orchestrate the cross-functional programs that deliver Vault, Terraform, and the IBM Software Security by Default initiative — turning strategic vision into shipped products across the IBM and Red Hat ecosystem.

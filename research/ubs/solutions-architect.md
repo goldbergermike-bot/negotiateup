@@ -1,3 +1,53 @@
+---
+company: ubs
+company_display: UBS
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 158000
+    base_high: 212000
+    stock_low: 32000
+    stock_high: 56000
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 215000
+    total_comp_high: 308000
+    currency: USD
+  - region: Zurich (HQ)
+    base_low: 139000
+    base_high: 187000
+    stock_low: 28000
+    stock_high: 49000
+    bonus_low: 22000
+    bonus_high: 35000
+    total_comp_low: 189000
+    total_comp_high: 271000
+    currency: CHF
+  - region: London
+    base_low: 126000
+    base_high: 170000
+    stock_low: 26000
+    stock_high: 45000
+    bonus_low: 20000
+    bonus_high: 32000
+    total_comp_low: 172000
+    total_comp_high: 246000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Enterprise Architecture` `Integration Blueprint` `Cross-Platform Design`"
+---
 ### Solutions Architect | UBS Global Negotiation Guide
 
 **Negotiation DNA:** `CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Enterprise Architecture` `Integration Blueprint` `Cross-Platform Design`

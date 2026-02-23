@@ -1,3 +1,49 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 60000
+    base_high: 82000
+    stock_low: 65000
+    stock_high: 125000
+    bonus_pct: null
+    total_comp_low: 76000
+    total_comp_high: 113000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 60000
+    stock_high: 115000
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 104000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 65000
+    stock_high: 125000
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 105000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Mistral Product Designer = Google UX Designer L3-L4 Paris = Meta Product Designer IC4 = DeepMind UX = Anthropic Design. Google UX Designer Paris total comp ranges €80K-€130K. AI-specific design roles command a 10-15% premium over general product design in Paris."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium"
+---
 ### Product Designer | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium

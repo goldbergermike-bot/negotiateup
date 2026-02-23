@@ -1,3 +1,39 @@
+---
+company: lattice
+company_display: Lattice
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 150000
+    base_high: 208000
+    stock_low: 65000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 310000
+    currency: USD
+  - region: Remote US
+    base_low: 138000
+    base_high: 195000
+    stock_low: 55000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lattice DS (IC2-IC3) = Culture Amp DS = 15Five DS = Workday DS = Google L3-L4 DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | People Management Platform | $3B Valuation | San Francisco | **PEOPLE ANALYTICS PREMIUM**"
+---
 ### Data Scientist | Lattice Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | People Management Platform | $3B Valuation | San Francisco | **PEOPLE ANALYTICS PREMIUM**

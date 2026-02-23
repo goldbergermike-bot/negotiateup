@@ -1,3 +1,49 @@
+---
+company: deutsche-bank
+company_display: Deutsche Bank
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 142000
+    base_high: 202000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 192000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 145000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 132000
+    total_comp_high: 228000
+    currency: GBP
+  - region: Frankfurt (HQ)
+    base_low: 85000
+    base_high: 128000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 114000
+    total_comp_high: 198000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "TPM at DB (SVP/Director) = L5-L6 TPM at Google, E5-E6 TPM at Meta, Sr TPM-Principal TPM at Amazon, SVP/Director TPM at BofA, SVP/ED at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "EUR30B market cap European bank + TPMs coordinate programs across EU/US/Asia + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB TPMs manage the most complex international banking programs | **INTERNATIONAL PROGRAM PREMIUM**"
+---
 ### Technical Program Manager | Deutsche Bank Global Negotiation Guide
 
 **Negotiation DNA:** EUR30B market cap European bank + TPMs coordinate programs across EU/US/Asia + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB TPMs manage the most complex international banking programs | **INTERNATIONAL PROGRAM PREMIUM**

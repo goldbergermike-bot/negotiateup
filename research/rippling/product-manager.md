@@ -1,3 +1,48 @@
+---
+company: rippling
+company_display: Rippling
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 228000
+    stock_low: 180000
+    stock_high: 340000
+    bonus_pct: 12
+    total_comp_low: 262000
+    total_comp_high: 388000
+    currency: USD
+  - region: New York
+    base_low: 172000
+    base_high: 225000
+    stock_low: 175000
+    stock_high: 332000
+    bonus_pct: 12
+    total_comp_low: 258000
+    total_comp_high: 382000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 212000
+    stock_low: 162000
+    stock_high: 312000
+    bonus_pct: 12
+    total_comp_low: 242000
+    total_comp_high: 358000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rippling PM = Gusto PM = Workday PM = ADP PM = Google L5 PM = Meta PM (IC5)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **CROSS-DOMAIN PRODUCT PREMIUM**"
+---
 ### Product Manager | Rippling Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **CROSS-DOMAIN PRODUCT PREMIUM**

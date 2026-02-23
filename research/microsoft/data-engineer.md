@@ -1,3 +1,69 @@
+---
+company: microsoft
+company_display: Microsoft
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Data Engineer I-II
+    base_low: 120000
+    base_high: 165000
+    stock_low: 60000
+    stock_high: 150000
+    bonus_pct: 10
+    signing_bonus_low: 15000
+    signing_bonus_high: 35000
+    total_comp_low: 150000
+    total_comp_high: 235000
+    currency: USD
+  - region: Senior Data Engineer
+    base_low: 155000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 50000
+    total_comp_low: 230000
+    total_comp_high: 365000
+    currency: USD
+  - region: Principal Data Engineer
+    base_low: 195000
+    base_high: 270000
+    stock_low: 250000
+    stock_high: 550000
+    bonus_pct: 20
+    signing_bonus_low: 40000
+    signing_bonus_high: 80000
+    total_comp_low: 345000
+    total_comp_high: 530000
+    currency: USD
+  - region: Partner Data Engineer
+    base_low: 260000
+    base_high: 350000
+    stock_low: 500000
+    stock_high: 1200000
+    bonus_pct: 25
+    signing_bonus_low: 60000
+    signing_bonus_high: 120000
+    total_comp_low: 530000
+    total_comp_high: 850000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+  - LinkedIn
+  - Hired
+negotiation_dna_summary: null
+---
 # Data Engineer - Microsoft Negotiation Guide
 
 ## Role Overview

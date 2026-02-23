@@ -1,3 +1,51 @@
+---
+company: blackstone
+company_display: Blackstone
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 245000
+    base_high: 305000
+    stock_low: null
+    stock_high: null
+    bonus_low: 85000
+    bonus_high: 130000
+    total_comp_low: 475000
+    total_comp_high: 685000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_low: 75000
+    bonus_high: 115000
+    total_comp_low: 435000
+    total_comp_high: 625000
+    currency: GBP
+  - region: Miami
+    base_low: 235000
+    base_high: 290000
+    stock_low: null
+    stock_high: null
+    bonus_low: 80000
+    bonus_high: 120000
+    total_comp_low: 450000
+    total_comp_high: 655000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `People Leadership` `Cross-Asset Platform Management` `Technology Transformation`"
+---
 ### Engineering Manager | Blackstone Global Negotiation Guide
 
 **Negotiation DNA:** `$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `People Leadership` `Cross-Asset Platform Management` `Technology Transformation`

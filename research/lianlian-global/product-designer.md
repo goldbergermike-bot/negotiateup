@@ -1,3 +1,47 @@
+---
+company: lianlian-global
+company_display: Lianlian Global
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":cn: Hangzhou (CNY)"
+    base_low: 250000
+    base_high: 450000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 330000
+    total_comp_high: 650000
+    currency: JPY
+  - region: ":hong_kong: Hong Kong (HKD)"
+    base_low: 420000
+    base_high: 750000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 540000
+    total_comp_high: 1050000
+    currency: HKD
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 75000
+    base_high: 130000
+    stock_low: 20000
+    stock_high: 50000
+    bonus_pct: null
+    total_comp_low: 95000
+    total_comp_high: 180000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a product design compensation framework spanning Hangzhou, Hong Kong, and Singapore markets."
+---
 ### Product Designer — LianLian Global Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a product design compensation framework spanning Hangzhou, Hong Kong, and Singapore markets.

@@ -1,3 +1,50 @@
+---
+company: verizon
+company_display: Verizon
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / New Jersey
+    base_low: 115000
+    base_high: 165000
+    stock_low: 25000
+    stock_high: 98000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 222000
+    currency: USD
+  - region: Bay Area / Seattle
+    base_low: 120000
+    base_high: 172000
+    stock_low: 28000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 235000
+    currency: USD
+  - region: Dallas / Atlanta
+    base_low: 108000
+    base_high: 155000
+    stock_low: 22000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 128000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Verizon Product Designer (D2-D4) = Google L3-L5 UX = Meta E3-E5 Designer = T-Mobile D3-D5 = Amazon UX II-III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$175B Telecom Leader | Premium Consumer Experience | My Verizon + Fios + Enterprise Design"
+---
 ### Product Designer | Verizon Global Negotiation Guide
 
 **Negotiation DNA:** $175B Telecom Leader | Premium Consumer Experience | My Verizon + Fios + Enterprise Design

@@ -1,3 +1,50 @@
+---
+company: match-group
+company_display: Match Group
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas
+    base_low: 155000
+    base_high: 210000
+    stock_low: 35000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 282000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 230000
+    stock_low: 39000
+    stock_high: 63000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 310000
+    currency: USD
+  - region: Los Angeles
+    base_low: 155000
+    base_high: 210000
+    stock_low: 35000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 282000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Match Group Senior Software Engineer = Google L5 = Meta E5 = Amazon SDE III = Microsoft Senior SDE 62/63 = Apple ICT4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)"
+---
 ### Senior Software Engineer | Match Group Global Negotiation Guide
 
 **Negotiation DNA:** Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)

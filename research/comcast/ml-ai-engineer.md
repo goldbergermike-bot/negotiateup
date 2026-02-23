@@ -1,3 +1,49 @@
+---
+company: comcast
+company_display: Comcast
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / NYC
+    base_low: 150000
+    base_high: 215000
+    stock_low: 55000
+    stock_high: 170000
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 325000
+    currency: USD
+  - region: Denver / Seattle
+    base_low: 145000
+    base_high: 210000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 12
+    total_comp_low: 185000
+    total_comp_high: 310000
+    currency: USD
+  - region: London (UK)
+    base_low: 110000
+    base_high: 155000
+    stock_low: 38000
+    stock_high: 120000
+    bonus_pct: 12
+    total_comp_low: 150000
+    total_comp_high: 245000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Comcast ML/AI Engineer (T4-T5) = Google L4-L5 ML Engineer = Meta E4-E5 ML Engineer = Amazon Applied Scientist II-III = Microsoft 62-64
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$170B Media-Tech Conglomerate | AI-Powered Content & Network Intelligence | **+10-20% AI PREMIUM**"
+---
 ### ML/AI Engineer | Comcast Global Negotiation Guide
 
 **Negotiation DNA:** $170B Media-Tech Conglomerate | AI-Powered Content & Network Intelligence | **+10-20% AI PREMIUM**

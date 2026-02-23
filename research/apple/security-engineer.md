@@ -1,3 +1,50 @@
+---
+company: apple
+company_display: Apple
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 170000
+    base_high: 260000
+    stock_low: 150000
+    stock_high: 420000
+    bonus_pct: 5
+    total_comp_low: 240000
+    total_comp_high: 420000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 160000
+    base_high: 245000
+    stock_low: 130000
+    stock_high: 380000
+    bonus_pct: 5
+    total_comp_low: 220000
+    total_comp_high: 390000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 165000
+    base_high: 255000
+    stock_low: 140000
+    stock_high: 400000
+    bonus_pct: 5
+    total_comp_low: 230000
+    total_comp_high: 405000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple ICT3 (Security) = Google L4, Meta E4, CrowdStrike Staff | Apple ICT4 (Security) = Google L5, Meta E5, CrowdStrike Senior Staff | Apple ICT5 (Security) = Google L6, Meta E6, CrowdStrike Principal"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium security base + strong RSU grants protecting the world's most valuable brand | Apple positions security as foundational to its privacy promise and product trust | **PRIVACY BRAND PREMIUM: Security engineers protect Apple's core brand differentiator, creating exceptional leverage**"
+---
 ### Security Engineer | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Premium security base + strong RSU grants protecting the world's most valuable brand | Apple positions security as foundational to its privacy promise and product trust | **PRIVACY BRAND PREMIUM: Security engineers protect Apple's core brand differentiator, creating exceptional leverage**

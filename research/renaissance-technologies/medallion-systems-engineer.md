@@ -1,3 +1,51 @@
+---
+company: renaissance-technologies
+company_display: Renaissance Technologies
+role: medallion-systems-engineer
+role_display: Medallion Systems Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: East Setauket HQ (Long Island)
+    base_low: 340000
+    base_high: 350000
+    stock_low: null
+    stock_high: null
+    bonus_low: 250000
+    bonus_high: 450000
+    total_comp_low: 900000
+    total_comp_high: 1350000
+    currency: USD
+  - region: New York City
+    base_low: 345000
+    base_high: 350000
+    stock_low: null
+    stock_high: null
+    bonus_low: 260000
+    bonus_high: 465000
+    total_comp_low: 915000
+    total_comp_high: 1365000
+    currency: USD
+  - region: Remote US (Very Rare)
+    base_low: 325000
+    base_high: 350000
+    stock_low: null
+    stock_high: null
+    bonus_low: 220000
+    bonus_high: 390000
+    total_comp_low: 805000
+    total_comp_high: 1200000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Medallion Fund` `Gold Standard` `Quant Pioneer` `+25-35% Medallion Systems Premium` `Core Signal Generation` `Backtesting Infrastructure` `Execution Systems` `Academic Culture` `Fund-Critical Systems`"
+---
 ### Medallion Systems Engineer | Renaissance Technologies Global Negotiation Guide
 
 **SIGNATURE ROLE**

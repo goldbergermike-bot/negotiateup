@@ -1,3 +1,48 @@
+---
+company: chewy
+company_display: Chewy
+role: pet-health-ai-engineer
+role_display: Pet Health AI Engineer (SIGNATURE ROLE)
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Plantation FL
+    base_low: 175000
+    base_high: 232000
+    stock_low: 42000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 328000
+    currency: USD
+  - region: Boston
+    base_low: 189000
+    base_high: 253000
+    stock_low: 45000
+    stock_high: 74000
+    bonus_pct: 10
+    total_comp_low: 254000
+    total_comp_high: 359000
+    currency: USD
+  - region: Remote US
+    base_low: 166000
+    base_high: 220000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 223000
+    total_comp_high: 312000
+    currency: USD
+level_mapping:
+  internal: SIGNATURE ROLE
+  raw: Chewy Pet Health AI Engineer = Google ML Engineer L5–L6 = Amazon Applied Scientist L6 = Meta ML Engineer IC5–IC6 = Microsoft Principal ML Engineer 64–65 = Tempus Health AI Engineer = Mars Petcare Data Scientist (Senior)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus + AI Premium (20–30%) | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium"
+---
 ### Pet Health AI Engineer (SIGNATURE ROLE) | Chewy Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus + AI Premium (20–30%) | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium

@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 135000
+    base_high: 190000
+    stock_low: 42000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 255000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 150000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 290000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 62000
+    base_high: 98000
+    stock_low: 18000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 75000
+    total_comp_high: 128000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 112000
+    base_high: 158000
+    stock_low: 32000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 210000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 1800000
+    base_high: 3800000
+    stock_low: 800000
+    stock_high: 2500000
+    bonus_pct: 10
+    total_comp_low: 2400000
+    total_comp_high: 5000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva IC3/IC4 (ML) ~ Intuit Senior/Staff ML | ServiceNow Senior/Staff ML | Oracle Senior/Principal AI | Domo Senior/Lead DS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Compliance AI & automated reporting intelligence specialist | Regulatory NLP & document AI | **AI/ML PREMIUM**"
+---
 ### ML/AI Engineer | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** Compliance AI & automated reporting intelligence specialist | Regulatory NLP & document AI | **AI/ML PREMIUM**

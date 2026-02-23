@@ -1,3 +1,39 @@
+---
+company: faire
+company_display: Faire
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 130000
+    base_high: 182000
+    stock_low: 52000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 157000
+    total_comp_high: 255000
+    currency: USD
+  - region: Remote US
+    base_low: 122000
+    base_high: 172000
+    stock_low: 48000
+    stock_high: 142000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Faire Product Designer = Google UX Designer L3-L4 = Shopify Product Designer = Amazon UX Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Startup Comp | Private $12B Valuation | B2B Wholesale Pioneer | Pre-IPO Upside"
+---
 ### Product Designer | Faire Global Negotiation Guide
 
 **Negotiation DNA:** Strong Startup Comp | Private $12B Valuation | B2B Wholesale Pioneer | Pre-IPO Upside

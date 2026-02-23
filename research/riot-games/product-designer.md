@@ -1,3 +1,49 @@
+---
+company: riot-games
+company_display: Riot Games
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+  - region: Seattle
+    base_low: 135000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 178000
+    total_comp_high: 290000
+    currency: USD
+  - region: Dublin
+    base_low: 55000
+    base_high: 85000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 72000
+    total_comp_high: 115000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Riot Designer (P3-P4) = Google L4 UX = Apple ICT3-4 Design
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity Profit-Sharing + Premium Bonus | Player-First Gaming Culture"
+---
 ### Product Designer | Riot Games Global Negotiation Guide
 
 **Negotiation DNA:** Equity Profit-Sharing + Premium Bonus | Player-First Gaming Culture

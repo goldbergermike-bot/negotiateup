@@ -1,3 +1,52 @@
+---
+company: nuvei
+company_display: Nuvei
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montreal
+    base_low: 100000
+    base_high: 145000
+    stock_low: 20000
+    stock_high: 45000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 130000
+    total_comp_high: 210000
+    currency: CAD
+  - region: New York
+    base_low: 130000
+    base_high: 185000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 170000
+    total_comp_high: 268000
+    currency: USD
+  - region: London
+    base_low: 70000
+    base_high: 105000
+    stock_low: 12000
+    stock_high: 30000
+    bonus_low: 8000
+    bonus_high: 15000
+    total_comp_low: 90000
+    total_comp_high: 150000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Nuvei | Google | Meta | Stripe | Adyen | Global Payments |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `UX/UI` `Design Systems` `Montreal HQ`"
+---
 ### Product Designer | Nuvei Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `UX/UI` `Design Systems` `Montreal HQ`

@@ -1,3 +1,48 @@
+---
+company: gusto
+company_display: Gusto
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 245000
+    stock_low: 180000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 295000
+    total_comp_high: 400000
+    currency: USD
+  - region: Denver
+    base_low: 180000
+    base_high: 220000
+    stock_low: 150000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 355000
+    currency: USD
+  - region: Toronto
+    base_low: 185000
+    base_high: 225000
+    stock_low: 140000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 255000
+    total_comp_high: 345000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto EM = Google L5 EM = Meta M1 = Stripe EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Comp / Management Premium | AI Transformation & Team Scaling"
+---
 ### Engineering Manager | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp / Management Premium | AI Transformation & Team Scaling

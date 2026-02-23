@@ -1,3 +1,68 @@
+---
+company: sap
+company_display: Sap
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 170000
+    base_high: 240000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 12
+    total_comp_low: 220000
+    total_comp_high: 350000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 55000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 305000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 90000
+    base_high: 135000
+    stock_low: 40000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 200000
+    currency: EUR
+  - region: UK (London)
+    base_low: 82000
+    base_high: 122000
+    stock_low: 35000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 112000
+    total_comp_high: 180000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2800000
+    base_high: 5200000
+    stock_low: 1400000
+    stock_high: 3800000
+    bonus_pct: 10
+    total_comp_low: 3800000
+    total_comp_high: 7000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP T3 ~ Google L5 | Microsoft 63 | Amazon L6 | Salesforce LMTS | ServiceNow Staff"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Enterprise cloud platform builder | S/4HANA & BTP senior technical contributor | **SENIOR IC PREMIUM**"
+---
 ### Senior Software Engineer | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise cloud platform builder | S/4HANA & BTP senior technical contributor | **SENIOR IC PREMIUM**

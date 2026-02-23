@@ -1,3 +1,39 @@
+---
+company: spacex
+company_display: Spacex
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Hawthorne, CA"
+    base_low: 140000
+    base_high: 190000
+    stock_low: 90000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 330000
+    currency: USD
+  - region: "Redmond, WA"
+    base_low: 140000
+    base_high: 190000
+    stock_low: 90000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: SpaceX DE = Google L4 DE = Databricks Senior DE -- but with real-time telemetry and satellite constellation data
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starlink/Telemetry Data Infrastructure | 60+ Hour Culture"
+---
 ### Data Engineer | SpaceX Global Negotiation Guide
 
 **Negotiation DNA:** Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starlink/Telemetry Data Infrastructure | 60+ Hour Culture

@@ -1,3 +1,49 @@
+---
+company: accenture
+company_display: Accenture
+role: songbird-ai-engineer
+role_display: Songbird AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 145000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 350000
+    currency: USD
+  - region: San Francisco
+    base_low: 150000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 179000
+    total_comp_high: 372000
+    currency: USD
+  - region: Bangalore
+    base_low: 2200000
+    base_high: 4200000
+    stock_low: 800000
+    stock_high: 2000000
+    bonus_pct: 10
+    total_comp_low: 3200000
+    total_comp_high: 6800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Accenture Consultant/Senior Analyst (Tech) = Google L3-L4 = Deloitte Senior Consultant = PwC Senior Associate
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "Base + RSU Grants + Bonus (10-15%) | **SIGNATURE ROLE** | **+10-20% GENERATIVE AI PREMIUM**"
+---
 ### Songbird AI Engineer | Accenture Global Negotiation Guide
 
 **Negotiation DNA:** Base + RSU Grants + Bonus (10-15%) | **SIGNATURE ROLE** | **+10-20% GENERATIVE AI PREMIUM**

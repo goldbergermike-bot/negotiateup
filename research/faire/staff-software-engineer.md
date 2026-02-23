@@ -1,3 +1,39 @@
+---
+company: faire
+company_display: Faire
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 190000
+    base_high: 248000
+    stock_low: 170000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 300000
+    total_comp_high: 480000
+    currency: USD
+  - region: Remote US
+    base_low: 182000
+    base_high: 238000
+    stock_low: 158000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 285000
+    total_comp_high: 458000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Faire Staff SWE = Google L5 = Meta E5 = Shopify Staff SWE = Amazon Principal SDE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Startup Comp | Private $12B Valuation | B2B Wholesale Pioneer | Pre-IPO Upside"
+---
 ### Staff Software Engineer | Faire Global Negotiation Guide
 
 **Negotiation DNA:** Strong Startup Comp | Private $12B Valuation | B2B Wholesale Pioneer | Pre-IPO Upside

@@ -1,3 +1,50 @@
+---
+company: scale-ai
+company_display: Scale AI
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 188000
+    base_high: 235000
+    stock_low: 195000
+    stock_high: 342000
+    bonus_pct: null
+    total_comp_low: 237000
+    total_comp_high: 321000
+    currency: USD
+  - region: New York
+    base_low: 194000
+    base_high: 247000
+    stock_low: 195000
+    stock_high: 342000
+    bonus_pct: null
+    total_comp_low: 243000
+    total_comp_high: 332000
+    currency: USD
+  - region: Washington DC
+    base_low: 197000
+    base_high: 254000
+    stock_low: 195000
+    stock_high: 342000
+    bonus_pct: null
+    total_comp_low: 246000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Scale Security Engineer = Google L4-L5 Security = Meta Security Engineer (IC4-IC5) = Amazon Security Engineer II-III = Apple Security Engineer = Microsoft Security Engineer 62-64
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity"
+---
 ### Security Engineer | Scale AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity

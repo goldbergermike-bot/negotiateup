@@ -1,3 +1,48 @@
+---
+company: revolut
+company_display: Revolut
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":gb: London (GBP)"
+    base_low: 70000
+    base_high: 110000
+    stock_low: 40000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 110000
+    total_comp_high: 230000
+    currency: GBP
+  - region: ":lt: Vilnius (EUR)"
+    base_low: 50000
+    base_high: 80000
+    stock_low: 30000
+    stock_high: 85000
+    bonus_pct: null
+    total_comp_low: 80000
+    total_comp_high: 165000
+    currency: EUR
+  - region: ":us: New York (USD)"
+    base_low: 130000
+    base_high: 190000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 390000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a DevOps engineering compensation framework spanning London, Vilnius, and New York markets. DevOps Engineers at Revolut own the infrastructure that keeps a $75B fintech running — your CI/CD pipelines, observability systems, and platform reliability directly determine whether Revolut can scale to the $9B revenue target while maintaining the uptime and compliance posture required for a US "
+---
 ### DevOps Engineer — Revolut Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a DevOps engineering compensation framework spanning London, Vilnius, and New York markets. DevOps Engineers at Revolut own the infrastructure that keeps a $75B fintech running — your CI/CD pipelines, observability systems, and platform reliability directly determine whether Revolut can scale to the $9B revenue target while maintaining the uptime and compliance posture required for a US IPO.

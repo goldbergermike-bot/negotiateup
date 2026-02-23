@@ -1,3 +1,50 @@
+---
+company: baidu
+company_display: Baidu
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 135000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 340000
+    base_high: 620000
+    stock_low: 110000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 480000
+    total_comp_high: 960000
+    currency: CNY
+  - region: Shanghai
+    base_low: 320000
+    base_high: 590000
+    stock_low: 100000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 450000
+    total_comp_high: 910000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "Product Designer at Baidu (T4-T6) = L4-L5 at Google, IC4-IC5 at Meta"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$40B market cap with search UX serving 600M+ users + Apollo robotaxi rider experience + ERNIE AI interface design + US designers shape international product experiences | Baidu designers work at the intersection of AI and user experience | **AI UX PREMIUM**"
+---
 ### Product Designer | Baidu Global Negotiation Guide
 
 **Negotiation DNA:** $40B market cap with search UX serving 600M+ users + Apollo robotaxi rider experience + ERNIE AI interface design + US designers shape international product experiences | Baidu designers work at the intersection of AI and user experience | **AI UX PREMIUM**

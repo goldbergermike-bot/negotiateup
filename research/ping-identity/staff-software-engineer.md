@@ -1,3 +1,48 @@
+---
+company: ping-identity
+company_display: Ping Identity
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver
+    base_low: 222000
+    base_high: 278000
+    stock_low: 98000
+    stock_high: 172000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 395000
+    currency: USD
+  - region: Austin
+    base_low: 215000
+    base_high: 270000
+    stock_low: 98000
+    stock_high: 172000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 385000
+    currency: USD
+  - region: Remote US
+    base_low: 208000
+    base_high: 262000
+    stock_low: 98000
+    stock_high: 172000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 378000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ping Identity Staff SWE (IC5) = Okta Staff SWE = CyberArk Staff SWE = SailPoint Staff SWE = ForgeRock Staff SWE = Microsoft Identity Principal SWE (L64-L65)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY PLATFORM BONUS**"
+---
 ### Staff Software Engineer | Ping Identity Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY PLATFORM BONUS**

@@ -1,3 +1,50 @@
+---
+company: bank-of-america
+company_display: Bank of America
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte (HQ)
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 190000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York City
+    base_low: 155000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 210000
+    total_comp_high: 340000
+    currency: USD
+  - region: San Francisco
+    base_low: 150000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 200000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "TPM at BofA (SVP/Director) = L5-L6 TPM at Google, E5-E6 TPM at Meta, Sr TPM-Principal TPM at Amazon, Director TPM at Capital One, SVP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$340B market cap bank + Massive cross-functional tech programs + Charlotte HQ cost advantage + TPMs coordinate multi-million dollar initiatives | BofA TPMs drive enterprise-wide delivery | **PROGRAM DELIVERY PREMIUM**"
+---
 ### Technical Program Manager | Bank of America Global Negotiation Guide
 
 **Negotiation DNA:** $340B market cap bank + Massive cross-functional tech programs + Charlotte HQ cost advantage + TPMs coordinate multi-million dollar initiatives | BofA TPMs drive enterprise-wide delivery | **PROGRAM DELIVERY PREMIUM**

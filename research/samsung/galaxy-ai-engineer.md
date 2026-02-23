@@ -1,3 +1,68 @@
+---
+company: samsung
+company_display: Samsung
+role: galaxy-ai-engineer
+role_display: Galaxy AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / San Jose (US R&D)"
+    base_low: 165000
+    base_high: 230000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 370000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 340000
+    currency: USD
+  - region: Seoul (HQ / Samsung Electronics)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (Samsung R&D)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "London (European R&D)"
+    base_low: 90000
+    base_high: 145000
+    stock_low: 40000
+    stock_high: 110000
+    bonus_pct: 15
+    total_comp_low: 125000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Galaxy AI Engineer at Samsung (CL3-CL4) = IC3-IC4 at Apple, L4-L5 at Google, E4-E5 at Meta, SDE II-Senior at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B conglomerate backing on-device AI push + Galaxy AI ecosystem (150M+ flagship users) + Korean chaebol stability with competitive US R&D comp | Samsung is aggressively hiring AI talent to compete with Apple Intelligence and Google Gemini Nano | **STRATEGIC AI PREMIUM**"
+---
 ### Galaxy AI Engineer | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B conglomerate backing on-device AI push + Galaxy AI ecosystem (150M+ flagship users) + Korean chaebol stability with competitive US R&D comp | Samsung is aggressively hiring AI talent to compete with Apple Intelligence and Google Gemini Nano | **STRATEGIC AI PREMIUM**

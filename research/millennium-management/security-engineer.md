@@ -1,3 +1,50 @@
+---
+company: millennium-management
+company_display: Millennium Management
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 195000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_low: 100000
+    bonus_high: 160000
+    total_comp_low: 355000
+    total_comp_high: 515000
+    currency: USD
+  - region: Miami
+    base_low: 185000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_low: 90000
+    bonus_high: 145000
+    total_comp_low: 325000
+    total_comp_high: 475000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 148000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_low: 75000
+    bonus_high: 122000
+    total_comp_low: 268000
+    total_comp_high: 392000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Fund Security` `Pod Data Protection` `Threat Prevention` `Direct Attribution`"
+---
 ### Security Engineer | Millennium Management Global Negotiation Guide
 
 **Negotiation DNA:** `Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Fund Security` `Pod Data Protection` `Threat Prevention` `Direct Attribution`

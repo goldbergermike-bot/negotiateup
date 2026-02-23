@@ -1,3 +1,49 @@
+---
+company: marvell
+company_display: Marvell
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 145000
+    base_high: 185000
+    stock_low: 100000
+    stock_high: 170000
+    bonus_pct: 12
+    total_comp_low: 192000
+    total_comp_high: 265000
+    currency: USD
+  - region: Boise
+    base_low: 130000
+    base_high: 166000
+    stock_low: 85000
+    stock_high: 148000
+    bonus_pct: 12
+    total_comp_low: 168000
+    total_comp_high: 235000
+    currency: USD
+  - region: Remote US
+    base_low: 137000
+    base_high: 175000
+    stock_low: 92000
+    stock_high: 158000
+    bonus_pct: 12
+    total_comp_low: 180000
+    total_comp_high: 250000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Marvell DS T4–T5 = Google DS L4–L5 = Meta DS IC4–IC5 = Apple DS ICT3–ICT4 = Broadcom Data Scientist = AMD Analytics Specialist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | +5% Analytics Premium"
+---
 ### Data Scientist | Marvell Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | +5% Analytics Premium

@@ -1,3 +1,52 @@
+---
+company: vanguard
+company_display: Vanguard
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Malvern, PA (HQ)"
+    base_low: 165000
+    base_high: 222000
+    stock_low: null
+    stock_high: null
+    bonus_low: 32000
+    bonus_high: 52000
+    total_comp_low: 238000
+    total_comp_high: 342000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 157000
+    base_high: 211000
+    stock_low: null
+    stock_high: null
+    bonus_low: 30000
+    bonus_high: 49000
+    total_comp_low: 226000
+    total_comp_high: 325000
+    currency: USD
+  - region: "Scottsdale, AZ"
+    base_low: 157000
+    base_high: 211000
+    stock_low: null
+    stock_high: null
+    bonus_low: 30000
+    bonus_high: 49000
+    total_comp_low: 226000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Comparably
+negotiation_dna_summary: "`AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Engineering Leadership` `Team Scaling` `Investment Platform Delivery`"
+---
 ### Engineering Manager | Vanguard Global Negotiation Guide
 
 **Negotiation DNA:** `AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Engineering Leadership` `Team Scaling` `Investment Platform Delivery`

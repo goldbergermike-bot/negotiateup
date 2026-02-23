@@ -1,3 +1,48 @@
+---
+company: plaid
+company_display: Plaid
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 142000
+    base_high: 178000
+    stock_low: 98000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 238000
+    currency: USD
+  - region: New York
+    base_low: 138000
+    base_high: 172000
+    stock_low: 98000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 162000
+    stock_low: 98000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 218000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Plaid Designer (D2-D3) = Stripe Designer = Square Designer = Google UX Designer (L4-L5) = Meta Product Designer (IC4-IC5) = MX Sr Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**"
+---
 ### Product Designer | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**

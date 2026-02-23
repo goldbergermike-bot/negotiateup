@@ -1,3 +1,53 @@
+---
+company: ally-financial
+company_display: Ally Financial
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Detroit, MI (HQ)"
+    base_low: 110000
+    base_high: 138000
+    stock_low: 20000
+    stock_high: 40000
+    bonus_low: 18000
+    bonus_high: 34000
+    total_comp_low: 148000
+    total_comp_high: 212000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 116000
+    base_high: 145000
+    stock_low: 21000
+    stock_high: 42000
+    bonus_low: 19000
+    bonus_high: 36000
+    total_comp_low: 156000
+    total_comp_high: 223000
+    currency: USD
+  - region: New York
+    base_low: 130000
+    base_high: 163000
+    stock_low: 24000
+    stock_high: 47000
+    bonus_low: 21000
+    bonus_high: 40000
+    total_comp_low: 175000
+    total_comp_high: 250000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Dice
+  - LinkedIn
+negotiation_dna_summary: "`Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Full-Stack Development` `Auto Finance Platform` `Customer-Facing Systems`"
+---
 ### Software Engineer | Ally Financial Global Negotiation Guide
 
 **Negotiation DNA:** `Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Full-Stack Development` `Auto Finance Platform` `Customer-Facing Systems`

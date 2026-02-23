@@ -1,3 +1,48 @@
+---
+company: notion
+company_display: Notion
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 235000
+    stock_low: 190000
+    stock_high: 330000
+    bonus_pct: 10
+    total_comp_low: 272000
+    total_comp_high: 378000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 230000
+    stock_low: 185000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 264000
+    total_comp_high: 368000
+    currency: USD
+  - region: London
+    base_low: 122000
+    base_high: 155000
+    stock_low: 125000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 248000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Notion SA (L4-L5) = Google Cloud SA L5-L6 = AWS SA = Figma SA = Atlassian SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$10B Valuation) + Bonus | Enterprise AI Workspace Deployment | 100M+ Users | **NOTION AI PREMIUM**"
+---
 ### Solutions Architect | Notion Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$10B Valuation) + Bonus | Enterprise AI Workspace Deployment | 100M+ Users | **NOTION AI PREMIUM**

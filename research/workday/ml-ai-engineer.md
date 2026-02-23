@@ -1,3 +1,48 @@
+---
+company: workday
+company_display: Workday
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pleasanton
+    base_low: 185000
+    base_high: 228000
+    stock_low: 215000
+    stock_high: 358000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 328000
+    currency: USD
+  - region: Dublin
+    base_low: 114000
+    base_high: 145000
+    stock_low: 118000
+    stock_high: 215000
+    bonus_pct: 15
+    total_comp_low: 153000
+    total_comp_high: 208000
+    currency: EUR
+  - region: London
+    base_low: 122000
+    base_high: 158000
+    stock_low: 129000
+    stock_high: 233000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 226000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Workday ML/AI Eng (P3-P4) = Google ML L4-L5 = Meta ML E4-E5 = Anthropic Senior = Salesforce Einstein AI Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity | **+15-25% AGENTIC AI PREMIUM**"
+---
 ### ML/AI Engineer | Workday Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity | **+15-25% AGENTIC AI PREMIUM**

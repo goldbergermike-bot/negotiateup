@@ -1,3 +1,48 @@
+---
+company: notion
+company_display: Notion
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 225000
+    stock_low: 190000
+    stock_high: 330000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 365000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 220000
+    stock_low: 185000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 260000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 150000
+    stock_low: 125000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 242000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Notion DevOps (L3-L5) = Google SRE L4-L6 = Meta Production Engineer E4-E6 = Vercel DevOps = Figma DevOps
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI Infrastructure & Workspace Reliability | 100M+ Users | **NOTION AI PREMIUM**"
+---
 ### DevOps Engineer | Notion Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI Infrastructure & Workspace Reliability | 100M+ Users | **NOTION AI PREMIUM**

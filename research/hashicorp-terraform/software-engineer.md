@@ -1,3 +1,50 @@
+---
+company: hashicorp-terraform
+company_display: HashiCorp Terraform
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 195000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 5
+    total_comp_low: 195000
+    total_comp_high: 270000
+    currency: USD
+  - region: Austin / Denver
+    base_low: 145000
+    base_high: 185000
+    stock_low: 110000
+    stock_high: 185000
+    bonus_pct: 5
+    total_comp_low: 183000
+    total_comp_high: 255000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 148000
+    stock_low: 90000
+    stock_high: 152000
+    bonus_pct: 5
+    total_comp_low: 145000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: HashiCorp SWE = Google L4 = Meta E4 = IBM Band 8 = AWS SDE II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)"
+---
 ### Software Engineer | HashiCorp (Terraform) Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)

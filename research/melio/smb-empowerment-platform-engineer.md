@@ -1,3 +1,53 @@
+---
+company: melio
+company_display: Melio
+role: smb-empowerment-platform-engineer
+role_display: SMB Empowerment Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 185000
+    base_high: 240000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 265000
+    total_comp_high: 400000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 230000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 248000
+    total_comp_high: 375000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Melio | Google | Meta | Stripe | Bill.com | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Agent Mel` `B2B Payments` `SMB Fintech` `Series D+` `Options` `Growth-Stage` `Platform Engineering` `AI Agent Infrastructure` `SMB Empowerment` `Full-Stack` `Founding Role`"
+---
 ### SMB Empowerment Platform Engineer | Melio Global Negotiation Guide
 
 > **SIGNATURE ROLE** — This is Melio's defining engineering role for 2026, purpose-built around the Agent Mel initiative and the company's SMB Empowerment thesis. This guide provides extended analysis reflecting the role's strategic importance.

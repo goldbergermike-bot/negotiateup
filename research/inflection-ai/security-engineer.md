@@ -1,3 +1,53 @@
+---
+company: inflection-ai
+company_display: Inflection AI
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 175000
+    base_high: 240000
+    stock_low: 110000
+    stock_high: 300000
+    bonus_low: 16000
+    bonus_high: 32000
+    total_comp_low: 203000
+    total_comp_high: 317000
+    currency: USD
+  - region: Seattle
+    base_low: 170000
+    base_high: 233000
+    stock_low: 110000
+    stock_high: 300000
+    bonus_low: 16000
+    bonus_high: 32000
+    total_comp_low: 197000
+    total_comp_high: 308000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 216000
+    stock_low: 99000
+    stock_high: 270000
+    bonus_low: 14000
+    bonus_high: 29000
+    total_comp_low: 183000
+    total_comp_high: 286000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Inflection Security Engineer = Microsoft L63-L64 Security = Google L4-L5 Security
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | Personal AI Security & Privacy"
+---
 ### Security Engineer | Inflection AI Global Negotiation Guide
 
 **Negotiation DNA:** Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | Personal AI Security & Privacy

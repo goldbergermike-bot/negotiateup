@@ -1,3 +1,67 @@
+---
+company: sap
+company_display: Sap
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 165000
+    base_high: 235000
+    stock_low: 65000
+    stock_high: 185000
+    bonus_pct: 12
+    total_comp_low: 215000
+    total_comp_high: 340000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 145000
+    base_high: 210000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 295000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 95000
+    base_high: 140000
+    stock_low: 40000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 205000
+    currency: EUR
+  - region: UK (London)
+    base_low: 85000
+    base_high: 125000
+    stock_low: 35000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 180000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 1500000
+    stock_high: 3800000
+    bonus_pct: 10
+    total_comp_low: 4000000
+    total_comp_high: 7200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP SA (T3/T4) ~ Google L5/L6 Cloud Architect | AWS Senior/Principal SA | Microsoft CSA/Principal | Salesforce Technical Architect"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Enterprise architecture & customer-facing technical leader | SAP ecosystem design authority | **ARCHITECTURE PREMIUM**"
+---
 ### Solutions Architect | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise architecture & customer-facing technical leader | SAP ecosystem design authority | **ARCHITECTURE PREMIUM**

@@ -1,3 +1,50 @@
+---
+company: perplexity
+company_display: Perplexity
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 232000
+    stock_low: 200000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 320000
+    currency: USD
+  - region: New York
+    base_low: 191000
+    base_high: 244000
+    stock_low: 200000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 241000
+    total_comp_high: 330000
+    currency: USD
+  - region: Remote US
+    base_low: 167000
+    base_high: 209000
+    stock_low: 200000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 217000
+    total_comp_high: 296000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Perplexity Data Scientist = Google DS L4-L5 = Meta DS (IC4-IC5) = Anthropic Data Scientist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift"
+---
 ### Data Scientist | Perplexity Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift

@@ -1,3 +1,51 @@
+---
+company: fidelity
+company_display: Fidelity
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 145000
+    base_high: 192000
+    stock_low: 28000
+    stock_high: 50000
+    bonus_low: 29000
+    bonus_high: 50000
+    total_comp_low: 202000
+    total_comp_high: 292000
+    currency: USD
+  - region: "Durham, NC"
+    base_low: 131000
+    base_high: 173000
+    stock_low: 25000
+    stock_high: 45000
+    bonus_low: 26000
+    bonus_high: 45000
+    total_comp_low: 182000
+    total_comp_high: 263000
+    currency: USD
+  - region: "Dallas, TX"
+    base_low: 133000
+    base_high: 177000
+    stock_low: 26000
+    stock_high: 46000
+    bonus_low: 27000
+    bonus_high: 46000
+    total_comp_low: 186000
+    total_comp_high: 269000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Enterprise Architecture` `Client-Facing Solutions` `Institutional Digital Integration`"
+---
 ### Solutions Architect | Fidelity Investments Global Negotiation Guide
 
 **Negotiation DNA:** `Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Enterprise Architecture` `Client-Facing Solutions` `Institutional Digital Integration`

@@ -1,3 +1,48 @@
+---
+company: proofpoint
+company_display: Proofpoint
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 158000
+    total_comp_high: 360000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 72000
+    total_comp_high: 160000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Data Scientists at Proofpoint develop the statistical models and analytical frameworks that transform billions of email security events into actionable threat intelligence, driving detection accuracy for the world's leading email security platform."
+---
 ### Data Scientist — Proofpoint Salary Negotiation Guide
 
 **Negotiation DNA**: Data Scientists at Proofpoint develop the statistical models and analytical frameworks that transform billions of email security events into actionable threat intelligence, driving detection accuracy for the world's leading email security platform.

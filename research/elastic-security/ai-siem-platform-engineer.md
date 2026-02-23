@@ -1,3 +1,49 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: ai-siem-platform-engineer
+role_display: AI SIEM Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 218000
+    base_high: 280000
+    stock_low: 250000
+    stock_high: 440000
+    bonus_pct: 10
+    total_comp_low: 325000
+    total_comp_high: 462000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 205000
+    base_high: 265000
+    stock_low: 230000
+    stock_high: 405000
+    bonus_pct: 10
+    total_comp_low: 305000
+    total_comp_high: 432000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 166000
+    base_high: 213000
+    stock_low: 190000
+    stock_high: 335000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 352000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic AI SIEM Platform Engineer = Google L5-L6 ML Security = Meta E5-E6 AI Infra = CrowdStrike Staff AI Engineer = Microsoft Senior Security AI = SentinelOne Senior AI Platform
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity | **SIGNATURE ROLE** | **+20-35% AI SECURITY PREMIUM**"
+---
 ### AI SIEM Platform Engineer | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity | **SIGNATURE ROLE** | **+20-35% AI SECURITY PREMIUM**

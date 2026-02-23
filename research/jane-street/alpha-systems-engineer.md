@@ -1,3 +1,49 @@
+---
+company: jane-street
+company_display: Jane Street
+role: alpha-systems-engineer
+role_display: Alpha Systems Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 325000
+    base_high: 450000
+    stock_low: null
+    stock_high: null
+    bonus_low: 425000
+    bonus_high: 650000
+    total_comp_low: 750000
+    total_comp_high: 1100000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: Hong Kong
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`SIGNATURE ROLE` `63% Pay Hike` `Alpha Architect` `$600K+ Per-Head` `+25-35% Alpha Systems Premium` `All-Cash Comp` `Private Partnership` `Core Trading Systems` `Order Routing` `Market Making Algorithms` `Alpha Generation Infrastructure`"
+---
 ### Alpha Systems Engineer | Jane Street Global Negotiation Guide
 
 **Negotiation DNA:** `SIGNATURE ROLE` `63% Pay Hike` `Alpha Architect` `$600K+ Per-Head` `+25-35% Alpha Systems Premium` `All-Cash Comp` `Private Partnership` `Core Trading Systems` `Order Routing` `Market Making Algorithms` `Alpha Generation Infrastructure`

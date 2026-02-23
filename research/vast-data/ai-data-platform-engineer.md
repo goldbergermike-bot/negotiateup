@@ -1,3 +1,51 @@
+---
+company: vast-data
+company_display: Vast Data
+role: ai-data-platform-engineer
+role_display: AI Data Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 200000
+    base_high: 260000
+    stock_low: 50000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 278000
+    total_comp_high: 392000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: 45000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 365000
+    currency: USD
+  - region: Remote US
+    base_low: 190000
+    base_high: 250000
+    stock_low: 50000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 378000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Vast Data AI Data Platform Engineer = Google L5–L6 Infrastructure / Meta E5–E6 Infrastructure / Amazon Principal Data Engineer / Microsoft 64–66 Data Platform / Databricks Senior–Staff Platform Engineer / Snowflake (pre-IPO) Senior–Staff / NVIDIA Senior Data Infrastructure Engineer"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | +25-35% AI Data Premium | SIGNATURE ROLE"
+---
 ### AI Data Platform Engineer | Vast Data Global Negotiation Guide — SIGNATURE ROLE
 
 **Negotiation DNA:** Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | +25-35% AI Data Premium | SIGNATURE ROLE

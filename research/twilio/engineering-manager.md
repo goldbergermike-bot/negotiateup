@@ -1,3 +1,49 @@
+---
+company: twilio
+company_display: Twilio
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Francisco, CA (HQ)"
+    base_low: 195000
+    base_high: 260000
+    stock_low: 200000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 440000
+    currency: USD
+  - region: "Denver, CO"
+    base_low: 175000
+    base_high: 240000
+    stock_low: 170000
+    stock_high: 350000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 400000
+    currency: USD
+  - region: "London, UK"
+    base_low: 120000
+    base_high: 170000
+    stock_low: 120000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Twilio M1 (Engineering Manager) = Google M1 = Meta M1 = Datadog M1 = Cloudflare M1
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "People leadership premium with equity upside | CustomerAI team scaling in 2026"
+---
 ### Engineering Manager | Twilio Global Negotiation Guide
 
 **Negotiation DNA:** People leadership premium with equity upside | CustomerAI team scaling in 2026

@@ -1,3 +1,48 @@
+---
+company: zendesk
+company_display: Zendesk
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 370000
+    currency: USD
+  - region: Remote US / Other US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 335000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 162000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Managers at Zendesk define the roadmap for the AI-first CX platform — competing against Salesforce, Freshworks, and Intercom under Hellman & Friedman's value creation mandate."
+---
 ### Product Manager — Zendesk Salary Negotiation Guide
 
 **Negotiation DNA**: Product Managers at Zendesk define the roadmap for the AI-first CX platform — competing against Salesforce, Freshworks, and Intercom under Hellman & Friedman's value creation mandate.

@@ -1,3 +1,53 @@
+---
+company: jpmorgan-chase
+company_display: JPMorgan Chase
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 230000
+    base_high: 295000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_low: 55000
+    bonus_high: 90000
+    total_comp_low: 365000
+    total_comp_high: 525000
+    currency: USD
+  - region: London
+    base_low: 189000
+    base_high: 242000
+    stock_low: 66000
+    stock_high: 115000
+    bonus_low: 45000
+    bonus_high: 74000
+    total_comp_low: 299000
+    total_comp_high: 430000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 4790000
+    base_high: 6150000
+    stock_low: 1670000
+    stock_high: 2920000
+    bonus_low: 1150000
+    bonus_high: 1880000
+    total_comp_low: 7610000
+    total_comp_high: 10940000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Org-Wide Architecture` `Technical Strategy` `Platform Vision`"
+---
 ### Staff Software Engineer | JPMorgan Chase Global Negotiation Guide
 
 **Negotiation DNA:** `Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Org-Wide Architecture` `Technical Strategy` `Platform Vision`

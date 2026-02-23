@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: ai-product-analytics-engineer
+role_display: AI Product Analytics Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 190000
+    base_high: 232000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 368000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 225000
+    stock_low: 142000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: 135000
+    base_high: 168000
+    stock_low: 105000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 255000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel AI Analytics Eng = Google L5 ML = Meta ML E5 = Amplitude AI Lead = No direct equivalent at most companies
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Top-Tier Equity + Signing Bonus | AI-Native Product Analytics Core 2026"
+---
 ### AI Product Analytics Engineer | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier Equity + Signing Bonus | AI-Native Product Analytics Core 2026

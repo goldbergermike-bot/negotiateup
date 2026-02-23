@@ -1,3 +1,39 @@
+---
+company: aurora-innovation
+company_display: Aurora Innovation
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pittsburgh (HQ)
+    base_low: 138000
+    base_high: 190000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 275000
+    currency: USD
+  - region: Bay Area
+    base_low: 148000
+    base_high: 202000
+    stock_low: 70000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 183000
+    total_comp_high: 293000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Aurora DevOps Engineer = Google SRE L3-L4 = Waymo DevOps = Amazon Systems Engineer = Meta Production Engineer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage"
+---
 ### DevOps Engineer | Aurora Innovation Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage

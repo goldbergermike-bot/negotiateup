@@ -1,3 +1,53 @@
+---
+company: fiserv
+company_display: Fiserv
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brookfield WI
+    base_low: 190000
+    base_high: 250000
+    stock_low: 160000
+    stock_high: 320000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 380000
+    total_comp_high: 625000
+    currency: USD
+  - region: New York
+    base_low: 220000
+    base_high: 290000
+    stock_low: 200000
+    stock_high: 400000
+    bonus_low: 38000
+    bonus_high: 65000
+    total_comp_low: 458000
+    total_comp_high: 755000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 175000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 250000
+    total_comp_high: 413000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Fiserv | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `IC Track` `L6` `Staff+`"
+---
 ### Staff Software Engineer | Fiserv Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `IC Track` `L6` `Staff+`

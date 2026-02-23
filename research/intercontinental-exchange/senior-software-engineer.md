@@ -1,3 +1,52 @@
+---
+company: intercontinental-exchange
+company_display: Intercontinental Exchange
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta (HQ)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 180000
+    stock_high: 300000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 235000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 174000
+    base_high: 235000
+    stock_low: 202000
+    stock_high: 336000
+    bonus_low: 31000
+    bonus_high: 54000
+    total_comp_low: 263000
+    total_comp_high: 378000
+    currency: USD
+  - region: London
+    base_low: 124000
+    base_high: 168000
+    stock_low: 144000
+    stock_high: 240000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 188000
+    total_comp_high: 270000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `System Design` `Exchange Architecture` `Cross-Platform Integration`"
+---
 ### Senior Software Engineer | Intercontinental Exchange (ICE) Global Negotiation Guide
 
 **Negotiation DNA:** `Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `System Design` `Exchange Architecture` `Cross-Platform Integration`

@@ -1,3 +1,48 @@
+---
+company: booking
+company_display: Booking
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 82000
+    base_high: 112000
+    stock_low: 65000
+    stock_high: 110000
+    bonus_pct: 15
+    total_comp_low: 132000
+    total_comp_high: 195000
+    currency: EUR
+  - region: New York
+    base_low: 158000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 145000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 312000
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 102000
+    stock_low: 60000
+    stock_high: 100000
+    bonus_pct: 15
+    total_comp_low: 122000
+    total_comp_high: 178000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Booking.com Data Scientist = Google Data Scientist L4/L5 = Expedia Data Scientist = Airbnb Data Scientist = Meta Data Scientist IC4/IC5 = Amazon Research Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions"
+---
 ### Data Scientist | Booking.com Global Negotiation Guide
 
 **Negotiation DNA:** Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions

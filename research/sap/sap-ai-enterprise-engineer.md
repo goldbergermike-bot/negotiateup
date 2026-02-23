@@ -1,3 +1,68 @@
+---
+company: sap
+company_display: Sap
+role: sap-ai-enterprise-engineer
+role_display: SAP AI Enterprise Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 165000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 12
+    total_comp_low: 220000
+    total_comp_high: 340000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 95000
+    base_high: 140000
+    stock_low: 40000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 210000
+    currency: EUR
+  - region: UK (London)
+    base_low: 85000
+    base_high: 125000
+    stock_low: 35000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 185000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 1500000
+    stock_high: 4000000
+    bonus_pct: 10
+    total_comp_low: 4000000
+    total_comp_high: 7500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP T3/T4 (AI) ~ Google L5/L6 | Microsoft 63/64 | Amazon L6/L7 | Salesforce LMTS/PMTS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Enterprise AI transformation specialist | SAP Business AI & Joule platform expertise | **AI PREMIUM**"
+---
 ### SAP AI Enterprise Engineer | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise AI transformation specialist | SAP Business AI & Joule platform expertise | **AI PREMIUM**

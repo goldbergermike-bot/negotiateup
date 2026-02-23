@@ -1,3 +1,51 @@
+---
+company: starling-bank
+company_display: Starling Bank
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 60000
+    base_high: 74000
+    stock_low: 9000
+    stock_high: 16000
+    bonus_low: 6000
+    bonus_high: 10000
+    total_comp_low: 75000
+    total_comp_high: 100000
+    currency: GBP
+  - region: Cardiff
+    base_low: 51000
+    base_high: 63000
+    stock_low: 8000
+    stock_high: 14000
+    bonus_low: 5000
+    bonus_high: 9000
+    total_comp_low: 64000
+    total_comp_high: 86000
+    currency: GBP
+  - region: Southampton
+    base_low: 53000
+    base_high: 65000
+    stock_low: 8000
+    stock_high: 14000
+    bonus_low: 5000
+    bonus_high: 9000
+    total_comp_low: 66000
+    total_comp_high: 88000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Cloud Infrastructure` `CI/CD` `Multi-Tenant Operations`"
+---
 ### DevOps Engineer | Starling Bank Global Negotiation Guide
 
 **Negotiation DNA:** `Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Cloud Infrastructure` `CI/CD` `Multi-Tenant Operations`

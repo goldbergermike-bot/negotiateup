@@ -1,3 +1,49 @@
+---
+company: optum
+company_display: Optum
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Eden Prairie MN
+    base_low: 170000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 365000
+    currency: USD
+  - region: Dallas TX
+    base_low: 165000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 355000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Optum T5-T6 EM = Google L5-L6 EM = Meta M1-M2 = UHG EM + 15-25% comp"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: UHG Tech/Analytics Subsidiary / Higher Comp Than Parent / People Leadership Premium
+---
 ### Engineering Manager | Optum Global Negotiation Guide
 
 **Negotiation DNA:** UHG Tech/Analytics Subsidiary / Higher Comp Than Parent / People Leadership Premium

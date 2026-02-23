@@ -1,3 +1,50 @@
+---
+company: att
+company_display: "AT&T"
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas / Austin
+    base_low: 140000
+    base_high: 195000
+    stock_low: 35000
+    stock_high: 118000
+    bonus_pct: 12
+    total_comp_low: 170000
+    total_comp_high: 262000
+    currency: USD
+  - region: NYC / New Jersey
+    base_low: 148000
+    base_high: 205000
+    stock_low: 40000
+    stock_high: 128000
+    bonus_pct: 12
+    total_comp_low: 180000
+    total_comp_high: 278000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 135000
+    base_high: 188000
+    stock_low: 32000
+    stock_high: 110000
+    bonus_pct: 12
+    total_comp_low: 162000
+    total_comp_high: 250000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "AT&T Senior SWE (L5) = Google L5 = Meta E5 = Amazon SDE III = Verizon L5 = T-Mobile L6"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$155B Legacy Telecom Modernizing | Senior Technical Ownership | 5G + Fiber + Enterprise Architecture"
+---
 ### Senior Software Engineer | AT&T Global Negotiation Guide
 
 **Negotiation DNA:** $155B Legacy Telecom Modernizing | Senior Technical Ownership | 5G + Fiber + Enterprise Architecture

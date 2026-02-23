@@ -1,3 +1,52 @@
+---
+company: avidxchange
+company_display: Avidxchange
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte NC
+    base_low: 115000
+    base_high: 150000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 160000
+    total_comp_high: 238000
+    currency: USD
+  - region: Atlanta GA
+    base_low: 120000
+    base_high: 155000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_low: 11000
+    bonus_high: 19000
+    total_comp_low: 166000
+    total_comp_high: 244000
+    currency: USD
+  - region: Remote US
+    base_low: 110000
+    base_high: 145000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_low: 9000
+    bonus_high: 17000
+    total_comp_low: 149000
+    total_comp_high: 222000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| AvidXchange | Google | Meta | Stripe | Bill.com | PayPal |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NASDAQ: AVDX` `Purposeful AI` `Mid-Market AP Automation` `AvidPay Network` `Charlotte NC Hub` `RSU/4yr Vesting` `Enterprise Tier` `Knowledge Discovery` `UX/UI` `Fintech Design`"
+---
 ### Product Designer | AvidXchange Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: AVDX` `Purposeful AI` `Mid-Market AP Automation` `AvidPay Network` `Charlotte NC Hub` `RSU/4yr Vesting` `Enterprise Tier` `Knowledge Discovery` `UX/UI` `Fintech Design`

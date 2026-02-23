@@ -1,3 +1,49 @@
+---
+company: l3harris
+company_display: L3Harris
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Melbourne, FL"
+    base_low: 155000
+    base_high: 200000
+    stock_low: 45000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 280000
+    currency: USD
+  - region: "Salt Lake City, UT"
+    base_low: 150000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 275000
+    currency: USD
+  - region: "Rochester, NY"
+    base_low: 148000
+    base_high: 193000
+    stock_low: 42000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: L3Harris Staff/Principal SWE = Raytheon Principal Eng = Northrop Technical Fellow -- top of individual contributor technical track
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Electronics/Communications | Standard 40-45 Hour Culture"
+---
 ### Staff Software Engineer | L3Harris Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Electronics/Communications | Standard 40-45 Hour Culture

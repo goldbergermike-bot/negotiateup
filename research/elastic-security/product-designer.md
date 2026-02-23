@@ -1,3 +1,50 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 148000
+    base_high: 195000
+    stock_low: 92000
+    stock_high: 168000
+    bonus_pct: 5
+    total_comp_low: 180000
+    total_comp_high: 252000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 138000
+    base_high: 185000
+    stock_low: 82000
+    stock_high: 155000
+    bonus_pct: 5
+    total_comp_low: 168000
+    total_comp_high: 237000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 112000
+    base_high: 148000
+    stock_low: 70000
+    stock_high: 128000
+    bonus_pct: 5
+    total_comp_low: 136000
+    total_comp_high: 192000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic Product Designer IC3 = Google L4 UX = Meta IC4 Designer = CrowdStrike Mid-Senior Designer = Splunk Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity"
+---
 ### Product Designer | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity

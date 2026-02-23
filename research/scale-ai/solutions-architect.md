@@ -1,3 +1,50 @@
+---
+company: scale-ai
+company_display: Scale AI
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 218000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 214000
+    total_comp_high: 287000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 229000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 219000
+    total_comp_high: 298000
+    currency: USD
+  - region: Washington DC
+    base_low: 184000
+    base_high: 235000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 223000
+    total_comp_high: 304000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Scale Solutions Architect = Google Cloud Customer Engineer (L4-L5) = AWS Solutions Architect = Meta Technical Solutions (IC4-IC5) = Microsoft Azure SA 62-64
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity"
+---
 ### Solutions Architect | Scale AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity

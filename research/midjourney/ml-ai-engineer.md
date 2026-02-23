@@ -1,3 +1,40 @@
+---
+company: midjourney
+company_display: Midjourney
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 220000
+    base_high: 300000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 310000
+    total_comp_high: 490000
+    currency: USD
+  - region: Remote US
+    base_low: 198000
+    base_high: 270000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 279000
+    total_comp_high: 441000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Midjourney ML/AI Engineer = Google L5-L6 ML Engineer = Meta ML Engineer IC5-IC6 = OpenAI ML Engineer = Stability AI Senior ML Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Premium Comp + Profit Sharing | Self-Funded & Profitable | San Francisco | **+15-30% ML PREMIUM** | Small Elite Team"
+---
 ### ML/AI Engineer | Midjourney Global Negotiation Guide
 
 **Negotiation DNA:** Premium Comp + Profit Sharing | Self-Funded & Profitable | San Francisco | **+15-30% ML PREMIUM** | Small Elite Team

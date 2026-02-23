@@ -1,3 +1,39 @@
+---
+company: coupang
+company_display: Coupang
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 200000
+    base_high: 258000
+    stock_low: 180000
+    stock_high: 420000
+    bonus_pct: 10
+    total_comp_low: 320000
+    total_comp_high: 510000
+    currency: USD
+  - region: Seattle
+    base_low: 195000
+    base_high: 250000
+    stock_low: 175000
+    stock_high: 410000
+    bonus_pct: 10
+    total_comp_low: 310000
+    total_comp_high: 498000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Coupang Staff SWE = Google L5 = Meta E5 = Amazon Principal SDE = Apple ICT4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive US Comp | CPNG RSUs ($40B Market Cap) | Korean E-Commerce Leader | Mountain View Office"
+---
 ### Staff Software Engineer | Coupang Global Negotiation Guide
 
 **Negotiation DNA:** Competitive US Comp | CPNG RSUs ($40B Market Cap) | Korean E-Commerce Leader | Mountain View Office

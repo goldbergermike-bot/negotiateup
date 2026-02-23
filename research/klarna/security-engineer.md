@@ -1,3 +1,48 @@
+---
+company: klarna
+company_display: Klarna
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 232000
+    stock_low: 132000
+    stock_high: 232000
+    bonus_pct: 15
+    total_comp_low: 222000
+    total_comp_high: 312000
+    currency: USD
+  - region: Remote EU
+    base_low: 72000
+    base_high: 95000
+    stock_low: 45000
+    stock_high: 78000
+    bonus_pct: 15
+    total_comp_low: 85000
+    total_comp_high: 125000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Klarna Security (IC3-IC4) = Stripe Security = Adyen Security = Block Security = Google L4-L5 Payments Security = PayPal Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER**"
+---
 ### Security Engineer | Klarna Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER**

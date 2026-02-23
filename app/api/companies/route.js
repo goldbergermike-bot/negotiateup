@@ -9,9 +9,14 @@ import fs from 'fs';
 import path from 'path';
 
 let _cachedCompanies = null;
+let _companiesCacheTime = 0;
+const CACHE_TTL_MS = 5 * 60 * 1000; // 5 minutes
 
 function getCompanies() {
-  if (_cachedCompanies) return _cachedCompanies;
+  const now = Date.now();
+  if (_cachedCompanies && (now - _companiesCacheTime) < CACHE_TTL_MS) {
+    return _cachedCompanies;
+  }
 
   const researchDir = path.join(process.cwd(), 'research');
   const entries = fs.readdirSync(researchDir).filter((entry) => {
@@ -24,6 +29,7 @@ function getCompanies() {
     id: dir,
     name: formatCompanyName(dir),
   }));
+  _companiesCacheTime = now;
 
   return _cachedCompanies;
 }

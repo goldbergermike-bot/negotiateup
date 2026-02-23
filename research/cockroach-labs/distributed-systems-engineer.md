@@ -1,3 +1,40 @@
+---
+company: cockroach-labs
+company_display: Cockroach Labs
+role: distributed-systems-engineer
+role_display: Distributed Systems Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC HQ
+    base_low: 170000
+    base_high: 235000
+    stock_low: 90000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 360000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 220000
+    stock_low: 80000
+    stock_high: 220000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cockroach Labs Distributed Systems Eng (Senior) = Google L4 (Spanner) = MongoDB Senior SWE = PlanetScale Senior SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($5B Valuation) | Distributed SQL Database | **SIGNATURE ROLE** | Deep Systems Engineering"
+---
 ### Distributed Systems Engineer | Cockroach Labs Global Negotiation Guide
 
 **Negotiation DNA:** Private ($5B Valuation) | Distributed SQL Database | **SIGNATURE ROLE** | Deep Systems Engineering

@@ -1,3 +1,52 @@
+---
+company: ally-financial
+company_display: Ally Financial
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Detroit, MI (HQ)"
+    base_low: 122000
+    base_high: 160000
+    stock_low: 25000
+    stock_high: 48000
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 172000
+    total_comp_high: 248000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 128000
+    base_high: 168000
+    stock_low: 26000
+    stock_high: 50000
+    bonus_low: 26000
+    bonus_high: 42000
+    total_comp_low: 181000
+    total_comp_high: 260000
+    currency: USD
+  - region: New York
+    base_low: 144000
+    base_high: 189000
+    stock_low: 30000
+    stock_high: 57000
+    bonus_low: 29000
+    bonus_high: 47000
+    total_comp_low: 203000
+    total_comp_high: 293000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "`Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Cross-Functional Delivery` `Regulatory Programs` `Platform Coordination`"
+---
 ### Technical Program Manager | Ally Financial Global Negotiation Guide
 
 **Negotiation DNA:** `Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Cross-Functional Delivery` `Regulatory Programs` `Platform Coordination`

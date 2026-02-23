@@ -1,3 +1,52 @@
+---
+company: tipalti
+company_display: Tipalti
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 130000
+    base_high: 165000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 180000
+    total_comp_high: 265000
+    currency: USD
+  - region: New York NY
+    base_low: 125000
+    base_high: 160000
+    stock_low: 35000
+    stock_high: 75000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 170000
+    total_comp_high: 253000
+    currency: USD
+  - region: Tel Aviv IL
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Tipalti | Google | Meta | Stripe | Bill.com | AvidXchange |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `AI Trust` `Fintech` `Pre-IPO` `Payables Automation` `Mid-Level IC`"
+---
 ### Software Engineer | Tipalti Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `AI Trust` `Fintech` `Pre-IPO` `Payables Automation` `Mid-Level IC`

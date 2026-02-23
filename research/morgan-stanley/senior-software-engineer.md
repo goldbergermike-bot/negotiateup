@@ -1,3 +1,53 @@
+---
+company: morgan-stanley
+company_display: Morgan Stanley
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 170000
+    base_high: 225000
+    stock_low: 48000
+    stock_high: 80000
+    bonus_low: 30000
+    bonus_high: 50000
+    total_comp_low: 248000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: 139000
+    base_high: 185000
+    stock_low: 39000
+    stock_high: 66000
+    bonus_low: 25000
+    bonus_high: 41000
+    total_comp_low: 203000
+    total_comp_high: 291000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 1330000
+    base_high: 1760000
+    stock_low: 374000
+    stock_high: 624000
+    bonus_low: 234000
+    bonus_high: 390000
+    total_comp_low: 1930000
+    total_comp_high: 2770000
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `System Design Authority` `Advisory Platform Ownership` `Cross-Team Technical Leadership`"
+---
 ### Senior Software Engineer | Morgan Stanley Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `System Design Authority` `Advisory Platform Ownership` `Cross-Team Technical Leadership`

@@ -1,3 +1,50 @@
+---
+company: runway
+company_display: Runway
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 155000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 270000
+    bonus_pct: null
+    total_comp_low: 178000
+    total_comp_high: 283000
+    currency: USD
+  - region: San Francisco
+    base_low: 155000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 270000
+    bonus_pct: null
+    total_comp_low: 178000
+    total_comp_high: 283000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 194000
+    stock_low: 81000
+    stock_high: 243000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Runway Data Scientist = Google L3-L4 Data Scientist = Meta Data Scientist IC3-IC4 = Amazon Applied Scientist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | Creative AI Analytics"
+---
 ### Data Scientist | Runway Global Negotiation Guide
 
 **Negotiation DNA:** Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | Creative AI Analytics

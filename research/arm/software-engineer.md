@@ -1,3 +1,48 @@
+---
+company: arm
+company_display: Arm
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 120000
+    base_high: 155000
+    stock_low: 140000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: USD
+  - region: Austin
+    base_low: 108000
+    base_high: 140000
+    stock_low: 125000
+    stock_high: 195000
+    bonus_pct: 15
+    total_comp_low: 152000
+    total_comp_high: 210000
+    currency: USD
+  - region: Cambridge UK
+    base_low: 42000
+    base_high: 55000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 58000
+    total_comp_high: 82000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ARM Software Engineer = NVIDIA Software Engineer = Intel Software Engineer (Grade 6) = Google L3/L4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages"
+---
 ### Software Engineer | ARM Global Negotiation Guide
 
 **Negotiation DNA:** Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages

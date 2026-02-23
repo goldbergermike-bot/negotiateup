@@ -1,3 +1,51 @@
+---
+company: intercontinental-exchange
+company_display: Intercontinental Exchange
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta (HQ)
+    base_low: 132000
+    base_high: 178000
+    stock_low: 132000
+    stock_high: 218000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 192000
+    total_comp_high: 275000
+    currency: USD
+  - region: New York
+    base_low: 148000
+    base_high: 199000
+    stock_low: 148000
+    stock_high: 244000
+    bonus_low: 25000
+    bonus_high: 43000
+    total_comp_low: 215000
+    total_comp_high: 308000
+    currency: USD
+  - region: London
+    base_low: 106000
+    base_high: 142000
+    stock_low: 106000
+    stock_high: 174000
+    bonus_low: 18000
+    bonus_high: 30000
+    total_comp_low: 154000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Cross-Functional Delivery` `Acquisition Integration` `Regulatory Program Delivery`"
+---
 ### Technical Program Manager | Intercontinental Exchange (ICE) Global Negotiation Guide
 
 **Negotiation DNA:** `Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Cross-Functional Delivery` `Acquisition Integration` `Regulatory Program Delivery`

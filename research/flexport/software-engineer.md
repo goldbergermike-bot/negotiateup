@@ -1,3 +1,39 @@
+---
+company: flexport
+company_display: Flexport
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 150000
+    base_high: 210000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 320000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 195000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Flexport SWE (IC2-IC3) = project44 SWE = FourKites SWE = Maersk Digital SWE = C.H. Robinson SWE = Google L3-L4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Freight Forwarding + Supply Chain Tech | $8B Valuation | Global Logistics Platform | **LOGISTICS TECH PREMIUM**"
+---
 ### Software Engineer | Flexport Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Freight Forwarding + Supply Chain Tech | $8B Valuation | Global Logistics Platform | **LOGISTICS TECH PREMIUM**

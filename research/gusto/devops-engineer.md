@@ -1,3 +1,48 @@
+---
+company: gusto
+company_display: Gusto
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 195000
+    stock_low: 110000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 275000
+    currency: USD
+  - region: Denver
+    base_low: 140000
+    base_high: 175000
+    stock_low: 95000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 245000
+    currency: USD
+  - region: Toronto
+    base_low: 145000
+    base_high: 175000
+    stock_low: 85000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 235000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto DevOps = Google L3-L4 SRE = Meta E3-E4 PE = Stripe Infrastructure Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Strong / Equity Growth | Zero-Downtime Payroll Infrastructure"
+---
 ### DevOps Engineer | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Base-Strong / Equity Growth | Zero-Downtime Payroll Infrastructure

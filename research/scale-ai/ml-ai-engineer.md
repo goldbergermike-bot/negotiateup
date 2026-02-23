@@ -1,3 +1,50 @@
+---
+company: scale-ai
+company_display: Scale AI
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 258000
+    stock_low: 285000
+    stock_high: 498000
+    bonus_pct: null
+    total_comp_low: 276000
+    total_comp_high: 383000
+    currency: USD
+  - region: New York
+    base_low: 211000
+    base_high: 271000
+    stock_low: 285000
+    stock_high: 498000
+    bonus_pct: null
+    total_comp_low: 282000
+    total_comp_high: 395000
+    currency: USD
+  - region: Washington DC
+    base_low: 215000
+    base_high: 279000
+    stock_low: 285000
+    stock_high: 498000
+    bonus_pct: null
+    total_comp_low: 287000
+    total_comp_high: 404000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Scale ML/AI Engineer = Google L4-L5 ML Engineer = Meta ML Engineer (IC4-IC5) = Amazon Applied Scientist II-III = Apple ML Engineer = OpenAI Research Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity | **+20-35% AGENTIC AI PREMIUM**"
+---
 ### ML/AI Engineer | Scale AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity | **+20-35% AGENTIC AI PREMIUM**

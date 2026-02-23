@@ -1,3 +1,49 @@
+---
+company: nium
+company_display: Nium
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 130000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 390000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 190000
+    base_high: 280000
+    stock_low: 120000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 310000
+    total_comp_high: 540000
+    currency: USD
+  - region: London (GBP)
+    base_low: 85000
+    base_high: 140000
+    stock_low: 50000
+    stock_high: 110000
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 250000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Hired
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a machine learning and AI engineering compensation framework spanning Singapore, San Francisco, and London markets. As an ML/AI Engineer at Nium, you are building the intelligence layer of global payments — creating the models that detect fraud in real-time, optimize payment routing across corridors, predict settlement times, automate compliance decisions, and power the next generati"
+---
 ### ML/AI Engineer — Nium Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a machine learning and AI engineering compensation framework spanning Singapore, San Francisco, and London markets. As an ML/AI Engineer at Nium, you are building the intelligence layer of global payments — creating the models that detect fraud in real-time, optimize payment routing across corridors, predict settlement times, automate compliance decisions, and power the next generation of programmable money.

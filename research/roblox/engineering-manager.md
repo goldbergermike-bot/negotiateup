@@ -1,3 +1,48 @@
+---
+company: roblox
+company_display: Roblox
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo
+    base_low: 220000
+    base_high: 280000
+    stock_low: 240000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 295000
+    total_comp_high: 405000
+    currency: USD
+  - region: New York
+    base_low: 215000
+    base_high: 275000
+    stock_low: 230000
+    stock_high: 385000
+    bonus_pct: 10
+    total_comp_low: 285000
+    total_comp_high: 392000
+    currency: USD
+  - region: Remote US
+    base_low: 200000
+    base_high: 255000
+    stock_low: 210000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Roblox Engineering Manager (M1-M2) = Google L6 EM = Meta M1 = Amazon SDM = Apple ICT5 EM = Microsoft 65 EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**"
+---
 ### Engineering Manager | Roblox Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**

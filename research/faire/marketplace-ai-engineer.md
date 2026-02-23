@@ -1,3 +1,39 @@
+---
+company: faire
+company_display: Faire
+role: marketplace-ai-engineer
+role_display: Marketplace AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 165000
+    base_high: 225000
+    stock_low: 100000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 370000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 245000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 350000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Faire Marketplace AI Engineer (Senior) = Google ML Engineer L4-L5 = Shopify ML Engineer = Amazon Applied Scientist II-III
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Startup Comp | Private $12B Valuation | **SIGNATURE ROLE** | **+5-15% MARKETPLACE AI PREMIUM** | B2B Wholesale Pioneer"
+---
 ### Marketplace AI Engineer | Faire Global Negotiation Guide
 
 **Negotiation DNA:** Strong Startup Comp | Private $12B Valuation | **SIGNATURE ROLE** | **+5-15% MARKETPLACE AI PREMIUM** | B2B Wholesale Pioneer

@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 112000
+    base_high: 158000
+    stock_low: 32000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 200000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 128000
+    base_high: 175000
+    stock_low: 38000
+    stock_high: 108000
+    bonus_pct: 10
+    total_comp_low: 152000
+    total_comp_high: 232000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 52000
+    base_high: 82000
+    stock_low: 14000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 62000
+    total_comp_high: 105000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 95000
+    base_high: 135000
+    stock_low: 22000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 108000
+    total_comp_high: 170000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 1400000
+    base_high: 2600000
+    stock_low: 600000
+    stock_high: 1600000
+    bonus_pct: 10
+    total_comp_low: 1800000
+    total_comp_high: 3500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva IC2/IC3 ~ Intuit Senior DevOps | ServiceNow Senior SRE | Oracle Cloud Senior | Domo Senior/Staff"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Compliance-grade cloud infrastructure specialist | Audit-ready deployment & platform reliability | **RELIABILITY PREMIUM**"
+---
 ### DevOps Engineer | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** Compliance-grade cloud infrastructure specialist | Audit-ready deployment & platform reliability | **RELIABILITY PREMIUM**

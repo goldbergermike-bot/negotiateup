@@ -1,3 +1,50 @@
+---
+company: anyscale
+company_display: Anyscale
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 212000
+    stock_low: 120000
+    stock_high: 225000
+    bonus_pct: 5
+    total_comp_low: 213000
+    total_comp_high: 290000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 207000
+    stock_low: 120000
+    stock_high: 225000
+    bonus_pct: 5
+    total_comp_low: 208000
+    total_comp_high: 283000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 161000
+    stock_low: 90000
+    stock_high: 169000
+    bonus_pct: 5
+    total_comp_low: 161000
+    total_comp_high: 219000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anyscale Data Engineer = Google L4 Data Engineer = Databricks Data Engineer = Spark/Databricks Data Engineer = Snowflake Data Engineer II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: Distributed Data Processing & Ray Data Expansion"
+---
 ### Data Engineer | Anyscale Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: Distributed Data Processing & Ray Data Expansion

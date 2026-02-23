@@ -1,3 +1,38 @@
+---
+company: sentinelone
+company_display: SentinelOne
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 158000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 76000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "You build the data infrastructure that powers the Autonomous Defense platform — your pipelines, schemas, and processing systems feed Purple AI and the Singularity Data Lake that enables enterprise-scale security analytics."
+---
 ### Data Engineer — SentinelOne Salary Negotiation Guide
 
 **Negotiation DNA**: You build the data infrastructure that powers the Autonomous Defense platform — your pipelines, schemas, and processing systems feed Purple AI and the Singularity Data Lake that enables enterprise-scale security analytics.

@@ -1,3 +1,50 @@
+---
+company: anthropic
+company_display: Anthropic
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 245000
+    stock_low: 200000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 245000
+    total_comp_high: 332000
+    currency: USD
+  - region: Seattle
+    base_low: 189000
+    base_high: 233000
+    stock_low: 200000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 239000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: 148000
+    base_high: 186000
+    stock_low: 152000
+    stock_high: 266000
+    bonus_pct: null
+    total_comp_low: 186000
+    total_comp_high: 253000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anthropic SWE = Google L4 = Meta E4 = OpenAI SWE = Amazon SDE II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium"
+---
 ### Software Engineer | Anthropic Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium

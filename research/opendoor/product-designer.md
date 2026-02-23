@@ -1,3 +1,39 @@
+---
+company: opendoor
+company_display: Opendoor
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 138000
+    base_high: 192000
+    stock_low: 42000
+    stock_high: 142000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 262000
+    currency: USD
+  - region: Remote US
+    base_low: 125000
+    base_high: 178000
+    stock_low: 35000
+    stock_high: 128000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 240000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Opendoor PD (IC2-IC3) = Zillow PD = Redfin PD = Compass PD = Google L3-L4 UX
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | iBuying + Real Estate Technology | ~$3B Market Cap (Public: OPEN) | San Francisco | **PROPTECH UX PREMIUM**"
+---
 ### Product Designer | Opendoor Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | iBuying + Real Estate Technology | ~$3B Market Cap (Public: OPEN) | San Francisco | **PROPTECH UX PREMIUM**

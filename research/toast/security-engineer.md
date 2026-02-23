@@ -1,3 +1,52 @@
+---
+company: toast
+company_display: Toast
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston MA
+    base_low: 160000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 16000
+    bonus_high: 32000
+    total_comp_low: 196000
+    total_comp_high: 292000
+    currency: USD
+  - region: New York
+    base_low: 172000
+    base_high: 225000
+    stock_low: 90000
+    stock_high: 175000
+    bonus_low: 18000
+    bonus_high: 36000
+    total_comp_low: 213000
+    total_comp_high: 318000
+    currency: USD
+  - region: San Francisco
+    base_low: 185000
+    base_high: 240000
+    stock_low: 100000
+    stock_high: 195000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 230000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Toast | Google | Meta | Stripe | Block | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: TOST` `Toast IQ` `Security Engineer` `Restaurant Tech` `Hospitality Intelligence` `PCI-DSS` `Payments Security` `Restaurant OS` `Data Protection`"
+---
 ### Security Engineer | Toast Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: TOST` `Toast IQ` `Security Engineer` `Restaurant Tech` `Hospitality Intelligence` `PCI-DSS` `Payments Security` `Restaurant OS` `Data Protection`

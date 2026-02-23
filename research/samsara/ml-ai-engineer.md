@@ -1,3 +1,48 @@
+---
+company: samsara
+company_display: Samsara
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 225000
+    stock_low: 115000
+    stock_high: 210000
+    bonus_pct: 12
+    total_comp_low: 278000
+    total_comp_high: 315000
+    currency: USD
+  - region: Atlanta
+    base_low: 158000
+    base_high: 192000
+    stock_low: 95000
+    stock_high: 175000
+    bonus_pct: 12
+    total_comp_low: 225000
+    total_comp_high: 262000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 205000
+    stock_low: 105000
+    stock_high: 190000
+    bonus_pct: 12
+    total_comp_low: 248000
+    total_comp_high: 288000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Samsara ML/AI Engineer = Google L5/L6 ML Engineer = Meta ML Engineer E5/E6 = Amazon Applied Scientist = Apple ML Engineer"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Industrial IoT & AI Platform | GAAP Profitable | Super Bowl AI Coach | +15-25% AI Premium"
+---
 ### ML/AI Engineer | Samsara Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Industrial IoT & AI Platform | GAAP Profitable | Super Bowl AI Coach | +15-25% AI Premium

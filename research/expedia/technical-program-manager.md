@@ -1,3 +1,48 @@
+---
+company: expedia
+company_display: Expedia
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 140000
+    base_high: 182000
+    stock_low: 90000
+    stock_high: 152000
+    bonus_pct: 15
+    total_comp_low: 182000
+    total_comp_high: 248000
+    currency: USD
+  - region: Austin
+    base_low: 127000
+    base_high: 165000
+    stock_low: 78000
+    stock_high: 135000
+    bonus_pct: 15
+    total_comp_low: 164000
+    total_comp_high: 224000
+    currency: USD
+  - region: London
+    base_low: 102000
+    base_high: 133000
+    stock_low: 67000
+    stock_high: 114000
+    bonus_pct: 15
+    total_comp_low: 133000
+    total_comp_high: 182000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Expedia Technical Program Manager = Google Technical Program Manager L5 = Booking.com Program Manager = Airbnb Technical Program Manager = Amazon Sr. TPM = Microsoft Program Manager 63/64
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | Cross-Functional Coordination Premium"
+---
 ### Technical Program Manager | Expedia Global Negotiation Guide
 
 **Negotiation DNA:** Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | Cross-Functional Coordination Premium

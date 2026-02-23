@@ -1,3 +1,50 @@
+---
+company: perplexity
+company_display: Perplexity
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 218000
+    stock_low: 160000
+    stock_high: 282000
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 289000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 229000
+    stock_low: 160000
+    stock_high: 282000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 299000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 196000
+    stock_low: 160000
+    stock_high: 282000
+    bonus_pct: null
+    total_comp_low: 198000
+    total_comp_high: 267000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Perplexity TPM = Google TPM L5 = Meta TPM (IC5) = Amazon Sr. TPM = Anthropic TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift"
+---
 ### Technical Program Manager | Perplexity Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift

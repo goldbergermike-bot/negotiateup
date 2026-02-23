@@ -1,3 +1,49 @@
+---
+company: electronic-arts
+company_display: Electronic Arts
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 140000
+    base_high: 195000
+    stock_low: 55000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 275000
+    currency: USD
+  - region: Orlando
+    base_low: 120000
+    base_high: 170000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 240000
+    currency: USD
+  - region: Bucharest
+    base_low: 42000
+    base_high: 65000
+    stock_low: 15000
+    stock_high: 35000
+    bonus_pct: 10
+    total_comp_low: 61000
+    total_comp_high: 105000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: EA DevOps ICT2-3 = Google L3-L4 SRE = Amazon L5 DevOps
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "RSU + Bonus | Sports-Gaming Revenue Machine"
+---
 ### DevOps Engineer | Electronic Arts Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Sports-Gaming Revenue Machine

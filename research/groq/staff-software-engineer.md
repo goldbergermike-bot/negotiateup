@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 225000
+    base_high: 290000
+    stock_low: 65000
+    stock_high: 120000
+    bonus_pct: 8
+    total_comp_low: 308000
+    total_comp_high: 432000
+    currency: USD
+  - region: San Diego
+    base_low: 210000
+    base_high: 270000
+    stock_low: 58000
+    stock_high: 108000
+    bonus_pct: 8
+    total_comp_low: 288000
+    total_comp_high: 405000
+    currency: USD
+  - region: Remote US
+    base_low: 198000
+    base_high: 255000
+    stock_low: 52000
+    stock_high: 98000
+    bonus_pct: 8
+    total_comp_low: 268000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq Staff SWE ≈ Google L6 · Meta E6 · Amazon Principal SDE · Apple ICT5 · Cerebras Staff Engineer · NVIDIA Senior Staff Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Staff-Level Technical Leadership Premium"
+---
 ### Staff Software Engineer | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Staff-Level Technical Leadership Premium

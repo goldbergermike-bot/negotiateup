@@ -1,3 +1,50 @@
+---
+company: akamai
+company_display: Akamai
+role: api-security-platform-engineer
+role_display: API Security Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge (MA)
+    base_low: 195000
+    base_high: 240000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 378000
+    currency: USD
+  - region: San Francisco
+    base_low: 210000
+    base_high: 255000
+    stock_low: 130000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 308000
+    total_comp_high: 405000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 225000
+    stock_low: 110000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 358000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Akamai API Security Platform Engineer = Google L5–L6 Security Engineer / Meta E5–E6 Infrastructure / Palo Alto Networks Staff Security Engineer"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | +20-30% API Security Premium | SIGNATURE"
+---
 ### API Security Platform Engineer | Akamai Global Negotiation Guide — SIGNATURE ROLE
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | +20-30% API Security Premium | SIGNATURE

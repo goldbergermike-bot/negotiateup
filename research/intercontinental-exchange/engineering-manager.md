@@ -1,3 +1,52 @@
+---
+company: intercontinental-exchange
+company_display: Intercontinental Exchange
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta (HQ)
+    base_low: 175000
+    base_high: 235000
+    stock_low: 220000
+    stock_high: 360000
+    bonus_low: 35000
+    bonus_high: 58000
+    total_comp_low: 272000
+    total_comp_high: 392000
+    currency: USD
+  - region: New York
+    base_low: 196000
+    base_high: 263000
+    stock_low: 246000
+    stock_high: 403000
+    bonus_low: 39000
+    bonus_high: 65000
+    total_comp_low: 305000
+    total_comp_high: 439000
+    currency: USD
+  - region: London
+    base_low: 140000
+    base_high: 188000
+    stock_low: 176000
+    stock_high: 288000
+    bonus_low: 28000
+    bonus_high: 46000
+    total_comp_low: 218000
+    total_comp_high: 314000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "`Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `People Leadership` `Exchange Operations` `Regulatory Compliance Engineering`"
+---
 ### Engineering Manager | Intercontinental Exchange (ICE) Global Negotiation Guide
 
 **Negotiation DNA:** `Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `People Leadership` `Exchange Operations` `Regulatory Compliance Engineering`

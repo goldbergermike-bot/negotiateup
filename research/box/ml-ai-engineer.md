@@ -1,3 +1,48 @@
+---
+company: box
+company_display: Box
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 172000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 212000
+    total_comp_high: 288000
+    currency: USD
+  - region: New York
+    base_low: 177000
+    base_high: 226000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 219000
+    total_comp_high: 302000
+    currency: USD
+  - region: London
+    base_low: 126000
+    base_high: 157000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 211000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Box ML/AI Engineer = Google L4–L5 ML Engineer = Anthropic ML Engineer = OpenAI Research Engineer = Meta ML Engineer E4–E5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management | **+15–25% AGENTIC AI PREMIUM**"
+---
 ### ML/AI Engineer | Box Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management | **+15–25% AGENTIC AI PREMIUM**

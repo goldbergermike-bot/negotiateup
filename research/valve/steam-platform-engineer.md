@@ -1,3 +1,49 @@
+---
+company: valve
+company_display: Valve
+role: steam-platform-engineer
+role_display: Steam Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue WA
+    base_low: 200000
+    base_high: 280000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 280000
+    total_comp_high: 500000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 185000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 470000
+    currency: USD
+  - region: N/A — Valve is Bellevue-only
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Valve Engineer (no formal levels) ~ Google L5-L6 = Meta E5-E6 = Staff+ at most companies
+data_sources:
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Exceptional Base + Profit Sharing / Flat Org | **SIGNATURE ROLE** | **+20–30% PLATFORM MONOPOLY PREMIUM**"
+---
 ### Steam Platform Engineer | Valve Global Negotiation Guide
 
 **Negotiation DNA:** Exceptional Base + Profit Sharing / Flat Org | **SIGNATURE ROLE** | **+20–30% PLATFORM MONOPOLY PREMIUM**

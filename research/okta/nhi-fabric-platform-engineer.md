@@ -1,3 +1,47 @@
+---
+company: okta
+company_display: Okta
+role: nhi-fabric-platform-engineer
+role_display: NHI Fabric Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 380000
+    currency: USD
+  - region: Toronto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 138000
+    total_comp_high: 308000
+    currency: CAD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 80000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "NHI Fabric Platform Engineers are the most strategically critical engineering hires at Okta in 2026 — you build the platform that discovers, classifies, governs, and secures every Non-Human Identity across the enterprise, directly implementing the Identity Governance mandates created by the February 3 STIG 1.1 update and addressing the 50:1 ratio of NHIs to humans that represents the fastest-growing attack surface in cybersecurity."
+---
 ### NHI Fabric Platform Engineer — Okta Salary Negotiation Guide
 
 **Negotiation DNA**: NHI Fabric Platform Engineers are the most strategically critical engineering hires at Okta in 2026 — you build the platform that discovers, classifies, governs, and secures every Non-Human Identity across the enterprise, directly implementing the Identity Governance mandates created by the February 3 STIG 1.1 update and addressing the 50:1 ratio of NHIs to humans that represents the fastest-growing attack surface in cybersecurity.

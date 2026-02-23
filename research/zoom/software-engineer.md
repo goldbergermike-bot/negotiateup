@@ -1,3 +1,69 @@
+---
+company: zoom
+company_display: Zoom
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 150000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 295000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 130000
+    base_high: 182000
+    stock_low: 58000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 252000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 68000
+    base_high: 102000
+    stock_low: 28000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 90000
+    total_comp_high: 145000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2000000
+    base_high: 3800000
+    stock_low: 1000000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 2800000
+    total_comp_high: 5200000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 108000
+    base_high: 162000
+    stock_low: 40000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 218000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom IC1/IC2 ~ Google L3/L4 | Microsoft 59/61 | Meta E3/E4 | Apple ICT2/ICT3 | Salesforce MTS/SMTS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Communication platform builder | Real-time UCaaS development | **PLATFORM PREMIUM**"
+---
 ### Software Engineer | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** Communication platform builder | Real-time UCaaS development | **PLATFORM PREMIUM**

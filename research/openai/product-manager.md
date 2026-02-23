@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 272000
+    stock_low: 325000
+    stock_high: 575000
+    bonus_pct: null
+    total_comp_low: 296000
+    total_comp_high: 416000
+    currency: USD
+  - region: Seattle
+    base_low: 208000
+    base_high: 262000
+    stock_low: 325000
+    stock_high: 575000
+    bonus_pct: null
+    total_comp_low: 289000
+    total_comp_high: 406000
+    currency: USD
+  - region: London
+    base_low: 150000
+    base_high: 192000
+    stock_low: 238000
+    stock_high: 420000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 297000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI PM = Google L4-L5 PM = Meta IC5 PM = Anthropic PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)"
+---
 ### Product Manager | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)

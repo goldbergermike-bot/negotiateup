@@ -1,3 +1,48 @@
+---
+company: oracle
+company_display: Oracle
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 162000
+    base_high: 200000
+    stock_low: 115000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 198000
+    total_comp_high: 265000
+    currency: USD
+  - region: Seattle
+    base_low: 172000
+    base_high: 212000
+    stock_low: 125000
+    stock_high: 215000
+    bonus_pct: null
+    total_comp_low: 212000
+    total_comp_high: 280000
+    currency: USD
+  - region: Bangalore
+    base_low: 3200000
+    base_high: 5000000
+    stock_low: 1200000
+    stock_high: 2200000
+    bonus_pct: null
+    total_comp_low: 3800000
+    total_comp_high: 5800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Oracle Senior SA = Google Customer Engineer = AWS Senior SA = Snowflake Senior SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Sign-On Bonus Culture | OCI \"Stargate\" AI Infrastructure Pivot | $500B JV Premium"
+---
 ### Solutions Architect | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Sign-On Bonus Culture | OCI "Stargate" AI Infrastructure Pivot | $500B JV Premium

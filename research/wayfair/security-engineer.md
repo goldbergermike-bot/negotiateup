@@ -1,3 +1,48 @@
+---
+company: wayfair
+company_display: Wayfair
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 148000
+    base_high: 195000
+    stock_low: 42000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 258000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 205000
+    stock_low: 44000
+    stock_high: 71000
+    bonus_pct: 10
+    total_comp_low: 197000
+    total_comp_high: 271000
+    currency: USD
+  - region: Remote US
+    base_low: 133000
+    base_high: 176000
+    stock_low: 36000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 169000
+    total_comp_high: 232000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Wayfair Security Engineer = Google Security Engineer L4-L5 = Amazon Security Engineer (Sr.) = Meta Security Engineer (IC5) = Apple Information Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Security & Compliance Premium"
+---
 ### Security Engineer | Wayfair Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Security & Compliance Premium

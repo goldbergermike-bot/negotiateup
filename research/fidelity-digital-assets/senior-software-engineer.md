@@ -1,3 +1,52 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 185000
+    base_high: 232000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_low: 42000
+    bonus_high: 62000
+    total_comp_low: 272000
+    total_comp_high: 382000
+    currency: USD
+  - region: New York
+    base_low: 198000
+    base_high: 248000
+    stock_low: 195000
+    stock_high: 345000
+    bonus_low: 48000
+    bonus_high: 68000
+    total_comp_low: 295000
+    total_comp_high: 415000
+    currency: USD
+  - region: Remote US
+    base_low: 170000
+    base_high: 212000
+    stock_low: 165000
+    stock_high: 290000
+    bonus_low: 38000
+    bonus_high: 55000
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#BlockchainEngineering` `#DigitalAssets` `#FIDD` `#SeniorIC`"
+---
 ### Senior Software Engineer | Fidelity Digital Assets Global Negotiation Guide
 
 **Negotiation DNA:** `#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#BlockchainEngineering` `#DigitalAssets` `#FIDD` `#SeniorIC`

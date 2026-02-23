@@ -1,3 +1,48 @@
+---
+company: shopify
+company_display: Shopify
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 185000
+    base_high: 238000
+    stock_low: 170000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 375000
+    currency: CAD
+  - region: San Francisco
+    base_low: 198000
+    base_high: 255000
+    stock_low: 185000
+    stock_high: 345000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 405000
+    currency: USD
+  - region: Remote US/Canada
+    base_low: 188000
+    base_high: 242000
+    stock_low: 175000
+    stock_high: 322000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shopify ML/AI (L6-L8) = Google ML L5-L6 = Meta ML E5-E6 = OpenAI Research Eng = Anthropic ML Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Core Models | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**"
+---
 ### ML/AI Engineer | Shopify Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Core Models | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**

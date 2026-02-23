@@ -1,3 +1,51 @@
+---
+company: match-group
+company_display: Match Group
+role: relationship-ai-engineer
+role_display: Relationship AI Engineer (SIGNATURE ROLE)
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas
+    base_low: 185000
+    base_high: 250000
+    stock_low: 42000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 204000
+    base_high: 275000
+    stock_low: 46000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 266000
+    total_comp_high: 372000
+    currency: USD
+  - region: Los Angeles
+    base_low: 185000
+    base_high: 250000
+    stock_low: 42000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 338000
+    currency: USD
+level_mapping:
+  internal: SIGNATURE ROLE
+  raw: "Match Group Relationship AI Engineer = Google L5/L6 Research Engineer = Meta ML Engineer (IC5/IC6) = Amazon Applied Scientist III/Sr. = Microsoft Principal ML Engineer 64/65 = Apple Sr. ML Engineer — *Note: This is a unique role with no exact parallel; level mapping is approximate based on scope and impact*"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus + 20-30% AI Premium | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)"
+---
 ### Relationship AI Engineer (SIGNATURE ROLE) | Match Group Global Negotiation Guide
 
 **Negotiation DNA:** Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus + 20-30% AI Premium | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)

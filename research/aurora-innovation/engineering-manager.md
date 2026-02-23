@@ -1,3 +1,39 @@
+---
+company: aurora-innovation
+company_display: Aurora Innovation
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pittsburgh (HQ)
+    base_low: 175000
+    base_high: 230000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 380000
+    currency: USD
+  - region: Bay Area
+    base_low: 185000
+    base_high: 242000
+    stock_low: 135000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 405000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Aurora Engineering Manager = Google EM L5 = Meta M1 = Waymo EM = Cruise EM = Apple EM2
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage"
+---
 ### Engineering Manager | Aurora Innovation Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage

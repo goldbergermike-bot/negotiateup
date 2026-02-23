@@ -1,3 +1,50 @@
+---
+company: weights-and-biases
+company_display: "Weights & Biases"
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 240000
+    base_high: 300000
+    stock_low: 300000
+    stock_high: 500000
+    bonus_pct: 10
+    total_comp_low: 365000
+    total_comp_high: 545000
+    currency: USD
+  - region: New York
+    base_low: 235000
+    base_high: 295000
+    stock_low: 300000
+    stock_high: 500000
+    bonus_pct: 10
+    total_comp_low: 360000
+    total_comp_high: 535000
+    currency: USD
+  - region: London
+    base_low: 182000
+    base_high: 228000
+    stock_low: 225000
+    stock_high: 375000
+    bonus_pct: 10
+    total_comp_low: 278000
+    total_comp_high: 413000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "W&B Staff SWE = Google L6 = Meta E6 = Databricks Staff SWE = Datadog Staff SWE = Snowflake Principal SWE"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Top-Tier Base + Significant Growth-Stage Equity | MLOps Platform Leader | 2026 Focus: Unified AI Development Platform Architecture"
+---
 ### Staff Software Engineer | Weights & Biases Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier Base + Significant Growth-Stage Equity | MLOps Platform Leader | 2026 Focus: Unified AI Development Platform Architecture

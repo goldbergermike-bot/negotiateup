@@ -1,3 +1,50 @@
+---
+company: akamai
+company_display: Akamai
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge (MA)
+    base_low: 185000
+    base_high: 225000
+    stock_low: 110000
+    stock_high: 200000
+    bonus_pct: 12
+    total_comp_low: 268000
+    total_comp_high: 362000
+    currency: USD
+  - region: San Francisco
+    base_low: 195000
+    base_high: 240000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 12
+    total_comp_low: 288000
+    total_comp_high: 385000
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 210000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: 12
+    total_comp_low: 258000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Akamai EM = Google L6 Manager / Meta M1 / Amazon SDM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Management Premium"
+---
 ### Engineering Manager | Akamai Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Management Premium

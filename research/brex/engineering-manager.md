@@ -1,3 +1,48 @@
+---
+company: brex
+company_display: Brex
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 212000
+    base_high: 268000
+    stock_low: 202000
+    stock_high: 355000
+    bonus_pct: 15
+    total_comp_low: 288000
+    total_comp_high: 408000
+    currency: USD
+  - region: New York
+    base_low: 218000
+    base_high: 275000
+    stock_low: 202000
+    stock_high: 355000
+    bonus_pct: 15
+    total_comp_low: 295000
+    total_comp_high: 418000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 260000
+    stock_low: 202000
+    stock_high: 355000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 400000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex EM (M1-M2) = Ramp EM = Stripe EM = Google EM L5-L6 = Meta EM M1-M2 = Amazon L6-L7 SDM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**"
+---
 ### Engineering Manager | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**

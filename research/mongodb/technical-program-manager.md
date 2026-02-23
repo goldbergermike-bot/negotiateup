@@ -1,3 +1,48 @@
+---
+company: mongodb
+company_display: Mongodb
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 165000
+    base_high: 205000
+    stock_low: 155000
+    stock_high: 255000
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 270000
+    currency: USD
+  - region: Dublin
+    base_low: 70000
+    base_high: 90000
+    stock_low: 62000
+    stock_high: 105000
+    bonus_pct: null
+    total_comp_low: 86000
+    total_comp_high: 116000
+    currency: EUR
+  - region: Austin
+    base_low: 155000
+    base_high: 195000
+    stock_low: 142000
+    stock_high: 235000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: MongoDB Senior TPM = Google L4 TPM = Elastic Senior TPM = Confluent Senior TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + No Bonus | \"Battle for the AI Data Layer\" | Voyage AI Acquisition Premium"
+---
 ### Technical Program Manager | MongoDB Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + No Bonus | "Battle for the AI Data Layer" | Voyage AI Acquisition Premium

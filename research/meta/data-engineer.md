@@ -1,3 +1,87 @@
+---
+company: meta
+company_display: Meta
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Menlo Park / NYC)
+    base_low: 170000
+    base_high: 255000
+    stock_low: 200000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 480000
+    currency: USD
+  - region: US (Seattle / Austin)
+    base_low: 160000
+    base_high: 240000
+    stock_low: 180000
+    stock_high: 470000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 450000
+    currency: USD
+  - region: London (UK)
+    base_low: 140000
+    base_high: 210000
+    stock_low: 160000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 390000
+    currency: USD
+  - region: Canada (Toronto / Montreal)
+    base_low: 135000
+    base_high: 200000
+    stock_low: 150000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 370000
+    currency: USD
+  - region: Germany (Berlin / Hamburg)
+    base_low: 125000
+    base_high: 195000
+    stock_low: 140000
+    stock_high: 360000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 350000
+    currency: USD
+  - region: Singapore
+    base_low: 120000
+    base_high: 185000
+    stock_low: 135000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 335000
+    currency: USD
+  - region: India (Hyderabad / Bangalore)
+    base_low: 50000
+    base_high: 90000
+    stock_low: 60000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 85000
+    total_comp_high: 175000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: E4 maps to Google L4 / Amazon L5 / Apple ICT3; E5 (Senior) maps to Google L5 / Amazon L6 / Apple ICT4; E6 (Staff) maps to Google L6 / Amazon L7 / Apple ICT5. Most external Data Engineer hires enter at E4 or E5.
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Petabyte-Scale Data Infrastructure | Cross-Product Data Pipelines | **DATA PLATFORM PREMIUM**"
+---
 ### Data Engineer | Meta Global Negotiation Guide
 
 **Negotiation DNA:** Petabyte-Scale Data Infrastructure | Cross-Product Data Pipelines | **DATA PLATFORM PREMIUM**

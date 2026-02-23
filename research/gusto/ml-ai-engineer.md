@@ -1,3 +1,48 @@
+---
+company: gusto
+company_display: Gusto
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 220000
+    stock_low: 150000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 345000
+    currency: USD
+  - region: Denver
+    base_low: 155000
+    base_high: 195000
+    stock_low: 130000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 305000
+    currency: USD
+  - region: Toronto
+    base_low: 165000
+    base_high: 200000
+    stock_low: 120000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 295000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto ML Engineer = Google L4 ML = Meta E4 ML = Stripe ML Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / AI Premium | Payroll Intelligence & Predictive Compliance"
+---
 ### ML/AI Engineer | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / AI Premium | Payroll Intelligence & Predictive Compliance

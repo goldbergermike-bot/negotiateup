@@ -1,3 +1,51 @@
+---
+company: citadel-securities
+company_display: Citadel Securities
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 185000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_low: 165000
+    bonus_high: 260000
+    total_comp_low: 350000
+    total_comp_high: 500000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_low: 175000
+    bonus_high: 275000
+    total_comp_low: 370000
+    total_comp_high: 530000
+    currency: USD
+  - region: London
+    base_low: 150000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_low: 130000
+    bonus_high: 210000
+    total_comp_low: 280000
+    total_comp_high: 400000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Cross-Functional Delivery` `25% US Equity Volume` `Private Firm Premium` `Trading Platform Programs`"
+---
 ### Technical Program Manager | Citadel Securities Global Negotiation Guide
 
 **Negotiation DNA:** `$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Cross-Functional Delivery` `25% US Equity Volume` `Private Firm Premium` `Trading Platform Programs`

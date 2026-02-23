@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 105000
+    base_high: 148000
+    stock_low: 28000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 122000
+    total_comp_high: 185000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 118000
+    base_high: 165000
+    stock_low: 35000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 215000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 50000
+    base_high: 78000
+    stock_low: 12000
+    stock_high: 38000
+    bonus_pct: 10
+    total_comp_low: 58000
+    total_comp_high: 98000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 88000
+    base_high: 125000
+    stock_low: 20000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 100000
+    total_comp_high: 155000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 1200000
+    base_high: 2400000
+    stock_low: 500000
+    stock_high: 1500000
+    bonus_pct: 10
+    total_comp_low: 1600000
+    total_comp_high: 3200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva IC2/IC3 (Design) ~ Intuit Senior Designer | ServiceNow Senior Designer | Oracle UX Senior | Domo Senior/Lead"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Compliance UX & collaborative reporting design specialist | Complex workflow simplification | **DESIGN PREMIUM**"
+---
 ### Product Designer | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** Compliance UX & collaborative reporting design specialist | Complex workflow simplification | **DESIGN PREMIUM**

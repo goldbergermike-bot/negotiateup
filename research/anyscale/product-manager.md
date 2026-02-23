@@ -1,3 +1,50 @@
+---
+company: anyscale
+company_display: Anyscale
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 232000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 250000
+    total_comp_high: 358000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 227000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 350000
+    currency: USD
+  - region: London
+    base_low: 137000
+    base_high: 176000
+    stock_low: 116000
+    stock_high: 206000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 272000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anyscale PM = Google L5 PM (Cloud) = AWS PM = Databricks PM = Meta PM IC5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: Enterprise AI Infrastructure Product Strategy"
+---
 ### Product Manager | Anyscale Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: Enterprise AI Infrastructure Product Strategy

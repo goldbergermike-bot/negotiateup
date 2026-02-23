@@ -1,3 +1,49 @@
+---
+company: american-express
+company_display: American Express
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 128000
+    base_high: 178000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 15
+    total_comp_low: 168000
+    total_comp_high: 262000
+    currency: USD
+  - region: Phoenix
+    base_low: 115000
+    base_high: 160000
+    stock_low: 45000
+    stock_high: 128000
+    bonus_pct: 15
+    total_comp_low: 150000
+    total_comp_high: 232000
+    currency: USD
+  - region: San Francisco
+    base_low: 125000
+    base_high: 175000
+    stock_low: 52000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 162000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Designer at AmEx (Senior/Principal) = L4-L5 at Google, IC4-IC5 at Meta, UXD II-Senior at Amazon, VP Design at BofA, Senior Designer at Capital One"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$190B market cap premium brand + Design IS the membership experience + NYC HQ + Premium brand demands premium design | AmEx design quality is a brand differentiator | **PREMIUM BRAND DESIGN PREMIUM**"
+---
 ### Product Designer | American Express Global Negotiation Guide
 
 **Negotiation DNA:** $190B market cap premium brand + Design IS the membership experience + NYC HQ + Premium brand demands premium design | AmEx design quality is a brand differentiator | **PREMIUM BRAND DESIGN PREMIUM**

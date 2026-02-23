@@ -1,3 +1,48 @@
+---
+company: reddit
+company_display: Reddit
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 162000
+    base_high: 198000
+    stock_low: 80000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 248000
+    currency: USD
+  - region: New York
+    base_low: 168000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 255000
+    currency: USD
+  - region: Remote US
+    base_low: 152000
+    base_high: 188000
+    stock_low: 80000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Reddit SWE (E4) = Google L3 = Meta E3 = Amazon SDE I = Microsoft 59-61
+data_sources:
+  - Reddit
+negotiation_dna_summary: "Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth"
+---
 ### Software Engineer | Reddit Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth

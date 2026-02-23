@@ -1,3 +1,39 @@
+---
+company: waymo
+company_display: Waymo
+role: autonomous-driving-engineer
+role_display: Autonomous Driving Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View (HQ)
+    base_low: 190000
+    base_high: 260000
+    stock_low: 200000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 530000
+    currency: USD
+  - region: San Francisco
+    base_low: 190000
+    base_high: 260000
+    stock_low: 200000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 530000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Waymo Autonomous Driving Engineer (Senior) = Google L4/L5 = Tesla FSD Senior Engineer = Cruise Senior ML Eng = Aurora Senior Perception Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Google-Adjacent Comp | Alphabet RSUs (GOOGL) | **SIGNATURE ROLE** | **+10-20% AUTONOMY PREMIUM** | Self-Driving Leader"
+---
 ### Autonomous Driving Engineer | Waymo Global Negotiation Guide
 
 **Negotiation DNA:** Google-Adjacent Comp | Alphabet RSUs (GOOGL) | **SIGNATURE ROLE** | **+10-20% AUTONOMY PREMIUM** | Self-Driving Leader

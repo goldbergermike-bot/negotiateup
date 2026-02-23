@@ -1,3 +1,52 @@
+---
+company: western-union
+company_display: Western Union
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver CO
+    base_low: 120000
+    base_high: 155000
+    stock_low: 30000
+    stock_high: 55000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 162000
+    total_comp_high: 232000
+    currency: USD
+  - region: New York
+    base_low: 135000
+    base_high: 175000
+    stock_low: 35000
+    stock_high: 65000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 185000
+    total_comp_high: 268000
+    currency: USD
+  - region: London
+    base_low: 80000
+    base_high: 105000
+    stock_low: 20000
+    stock_high: 38000
+    bonus_low: 8000
+    bonus_high: 16000
+    total_comp_low: 108000
+    total_comp_high: 159000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Western Union | Google | Meta | Stripe | JPMorgan | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: WU` `USDPT` `Product Designer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Financial UX`"
+---
 ### Product Designer | Western Union Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: WU` `USDPT` `Product Designer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Financial UX`

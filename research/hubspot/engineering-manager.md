@@ -1,3 +1,49 @@
+---
+company: hubspot
+company_display: Hubspot
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Cambridge, MA (HQ)"
+    base_low: 195000
+    base_high: 238000
+    stock_low: 235000
+    stock_high: 382000
+    bonus_pct: 12
+    total_comp_low: 272000
+    total_comp_high: 355000
+    currency: USD
+  - region: "Dublin, Ireland"
+    base_low: 117000
+    base_high: 155000
+    stock_low: 129000
+    stock_high: 229000
+    bonus_pct: 12
+    total_comp_low: 163000
+    total_comp_high: 231000
+    currency: EUR
+  - region: "London, UK"
+    base_low: 127000
+    base_high: 167000
+    stock_low: 141000
+    stock_high: 248000
+    bonus_pct: 12
+    total_comp_low: 177000
+    total_comp_high: 249000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Balanced Comp (Base + RSU + 12-18% Bonus) | \"Grow Better\" Remote-First Culture | Breeze AI Copilot Integration | M&A Optionality"
+---
 ### Engineering Manager | HubSpot Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp (Base + RSU + 12-18% Bonus) | "Grow Better" Remote-First Culture | Breeze AI Copilot Integration | M&A Optionality

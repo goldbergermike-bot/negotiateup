@@ -1,3 +1,67 @@
+---
+company: zoom
+company_display: Zoom
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 165000
+    base_high: 232000
+    stock_low: 88000
+    stock_high: 215000
+    bonus_pct: 12
+    total_comp_low: 218000
+    total_comp_high: 345000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 145000
+    base_high: 208000
+    stock_low: 68000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 295000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 80000
+    base_high: 122000
+    stock_low: 35000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 108000
+    total_comp_high: 175000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2800000
+    base_high: 5200000
+    stock_low: 1500000
+    stock_high: 3800000
+    bonus_pct: 10
+    total_comp_low: 3800000
+    total_comp_high: 7000000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 122000
+    base_high: 185000
+    stock_low: 52000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom TPM (IC3/IC4) ~ Google L5/L6 TPM | Microsoft 63/64 TPM | Meta E5/E6 TPM | Salesforce Senior/Lead TPM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Communication platform delivery orchestrator | Cross-functional UCaaS program leader | **PROGRAM LEADERSHIP PREMIUM**"
+---
 ### Technical Program Manager | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** Communication platform delivery orchestrator | Cross-functional UCaaS program leader | **PROGRAM LEADERSHIP PREMIUM**

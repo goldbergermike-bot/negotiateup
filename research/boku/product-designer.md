@@ -1,3 +1,48 @@
+---
+company: boku
+company_display: Boku
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 55000
+    base_high: 85000
+    stock_low: 15000
+    stock_high: 40000
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 125000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 120000
+    base_high: 175000
+    stock_low: 35000
+    stock_high: 80000
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 255000
+    currency: USD
+  - region: Mumbai (INR)
+    base_low: 1400000
+    base_high: 2500000
+    stock_low: 400000
+    stock_high: 1000000
+    bonus_pct: null
+    total_comp_low: 1800000
+    total_comp_high: 3500000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Product Designer compensation framework spanning London, San Francisco, and Mumbai markets."
+---
 ### Product Designer — Boku Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Product Designer compensation framework spanning London, San Francisco, and Mumbai markets.

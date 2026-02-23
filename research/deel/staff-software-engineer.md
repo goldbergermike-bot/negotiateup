@@ -1,3 +1,39 @@
+---
+company: deel
+company_display: Deel
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 218000
+    base_high: 282000
+    stock_low: 210000
+    stock_high: 440000
+    bonus_pct: 15
+    total_comp_low: 358000
+    total_comp_high: 548000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 265000
+    stock_low: 190000
+    stock_high: 405000
+    bonus_pct: 15
+    total_comp_low: 328000
+    total_comp_high: 508000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Deel Staff SWE (IC5) = Remote.com Staff SWE = Rippling Staff SWE = Papaya Global Principal SWE = Google L5-L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Global Payroll and Compliance | $12B Valuation | San Francisco | **GLOBAL EMPLOYMENT PLATFORM PREMIUM**"
+---
 ### Staff Software Engineer | Deel Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Global Payroll and Compliance | $12B Valuation | San Francisco | **GLOBAL EMPLOYMENT PLATFORM PREMIUM**

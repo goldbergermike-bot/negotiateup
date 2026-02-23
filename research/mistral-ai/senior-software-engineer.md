@@ -1,3 +1,48 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 85000
+    base_high: 115000
+    stock_low: 150000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 122000
+    total_comp_high: 184000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 138000
+    stock_high: 253000
+    bonus_pct: null
+    total_comp_low: 113000
+    total_comp_high: 170000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 150000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 114000
+    total_comp_high: 173000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Mistral Senior SWE = Google L4 Paris = DeepMind Senior SWE = Meta FAIR Senior SWE = Anthropic Senior (L4). Google L4 Paris total comp ranges €130K-€190K; DeepMind Senior in London ranges £120K-£180K. Mistral's equity upside is designed to match or exceed these on a 3-5 year horizon."
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium"
+---
 ### Senior Software Engineer | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium

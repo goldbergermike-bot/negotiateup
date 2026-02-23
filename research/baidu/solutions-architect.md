@@ -1,3 +1,59 @@
+---
+company: baidu
+company_display: Baidu
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Sunnyvale (US)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 335000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 55000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 440000
+    base_high: 790000
+    stock_low: 170000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 660000
+    total_comp_high: 1300000
+    currency: CNY
+  - region: Shanghai
+    base_low: 420000
+    base_high: 760000
+    stock_low: 160000
+    stock_high: 460000
+    bonus_pct: 15
+    total_comp_low: 630000
+    total_comp_high: 1250000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Baidu (T6-T7) = L5-L6 SA at Google Cloud, equivalent AWS SA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$40B market cap with Baidu AI Cloud + Apollo open platform partnerships + ERNIE API enterprise deployments + SAs drive AI product adoption and cloud revenue | Baidu SAs bridge cutting-edge AI technology and enterprise customers | **AI PLATFORM PREMIUM**"
+---
 ### Solutions Architect | Baidu Global Negotiation Guide
 
 **Negotiation DNA:** $40B market cap with Baidu AI Cloud + Apollo open platform partnerships + ERNIE API enterprise deployments + SAs drive AI product adoption and cloud revenue | Baidu SAs bridge cutting-edge AI technology and enterprise customers | **AI PLATFORM PREMIUM**

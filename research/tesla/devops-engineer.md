@@ -1,3 +1,48 @@
+---
+company: tesla
+company_display: Tesla
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin (HQ)
+    base_low: 130000
+    base_high: 190000
+    stock_low: 90000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 310000
+    currency: USD
+  - region: Palo Alto
+    base_low: 140000
+    base_high: 200000
+    stock_low: 100000
+    stock_high: 255000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 325000
+    currency: USD
+  - region: Fremont
+    base_low: 135000
+    base_high: 195000
+    stock_low: 95000
+    stock_high: 248000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 318000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tesla DevOps Engineer = Google L3/L4 SRE = Amazon SDE-II Systems = Meta E3/E4 Production Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk"
+---
 ### DevOps Engineer | Tesla Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk

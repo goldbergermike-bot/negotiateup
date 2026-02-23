@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: pure-play-fintech-platform-engineer
+role_display: Pure-Play FinTech Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 165000
+    base_high: 220000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 307000
+    total_comp_high: 502000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 260000
+    stock_low: 160000
+    stock_high: 320000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 385000
+    total_comp_high: 635000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 160000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_low: 18000
+    bonus_high: 36000
+    total_comp_low: 213000
+    total_comp_high: 366000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`SIGNATURE ROLE` `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Platform Engineering` `IC Track` `L5-L6 Equivalent` `Post-Worldpay Core Hire`"
+---
 ### Pure-Play FinTech Platform Engineer | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `SIGNATURE ROLE` `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Platform Engineering` `IC Track` `L5-L6 Equivalent` `Post-Worldpay Core Hire`

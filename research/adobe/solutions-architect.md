@@ -1,3 +1,51 @@
+---
+company: adobe
+company_display: Adobe
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 162000
+    base_high: 202000
+    stock_low: 140000
+    stock_high: 238000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 262000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 131000
+    stock_low: 84000
+    stock_high: 143000
+    bonus_pct: 10
+    total_comp_low: 129000
+    total_comp_high: 170000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4900000
+    base_high: 6000000
+    stock_low: 3500000
+    stock_high: 7100000
+    bonus_pct: 10
+    total_comp_low: 5900000
+    total_comp_high: 7800000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)"
+---
 ### Solutions Architect | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)

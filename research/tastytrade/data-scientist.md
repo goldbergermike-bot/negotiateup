@@ -1,3 +1,52 @@
+---
+company: tastytrade
+company_display: Tastytrade
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 132000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_low: 25000
+    bonus_high: 38000
+    total_comp_low: 182000
+    total_comp_high: 265000
+    currency: USD
+  - region: New York
+    base_low: 145000
+    base_high: 204000
+    stock_low: null
+    stock_high: null
+    bonus_low: 28000
+    bonus_high: 42000
+    total_comp_low: 201000
+    total_comp_high: 292000
+    currency: USD
+  - region: London
+    base_low: 101000
+    base_high: 141000
+    stock_low: 19000
+    stock_high: 32000
+    bonus_low: 19000
+    bonus_high: 29000
+    total_comp_low: 139000
+    total_comp_high: 202000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Volatility Modeling` `Probability Analytics` `Options Flow Analysis`"
+---
 ### Data Scientist | Tastytrade Global Negotiation Guide
 
 **Negotiation DNA:** `Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Volatility Modeling` `Probability Analytics` `Options Flow Analysis`

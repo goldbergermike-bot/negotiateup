@@ -1,3 +1,48 @@
+---
+company: pinterest
+company_display: Pinterest
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 185000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 245000
+    currency: USD
+  - region: New York
+    base_low: 140000
+    base_high: 178000
+    stock_low: 115000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 235000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 165000
+    stock_low: 100000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Pinterest Software Engineer (L3–L4) = Google L3–L4 = Meta E3–E4 = Amazon SDE I–II = Apple ICT2–ICT3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Standard 4-year vest with 1-year cliff"
+---
 ### Software Engineer | Pinterest Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Standard 4-year vest with 1-year cliff

@@ -1,3 +1,48 @@
+---
+company: bcg
+company_display: BCG
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 145000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 181000
+    total_comp_high: 276000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 188000
+    total_comp_high: 283000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 135000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 119000
+    total_comp_high: 196000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: BCG Product Designer = Google L4 UX = Meta IC4 Product Designer = Figma Senior Designer
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (25-45%) | No Equity | BCG X Design-Led Digital Products"
+---
 ### Product Designer | BCG Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (25-45%) | No Equity | BCG X Design-Led Digital Products

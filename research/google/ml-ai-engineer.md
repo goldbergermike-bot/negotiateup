@@ -1,3 +1,70 @@
+---
+company: google
+company_display: Google
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 190000
+    base_high: 285000
+    stock_low: 220000
+    stock_high: 560000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 510000
+    currency: USD
+  - region: New York City
+    base_low: 185000
+    base_high: 275000
+    stock_low: 210000
+    stock_high: 540000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 495000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 180000
+    base_high: 270000
+    stock_low: 200000
+    stock_high: 520000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 480000
+    currency: USD
+  - region: London (DeepMind)
+    base_low: 125000
+    base_high: 200000
+    stock_low: 150000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 380000
+    currency: GBP
+  - region: Zurich
+    base_low: 170000
+    base_high: 260000
+    stock_low: 190000
+    stock_high: 450000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 460000
+    currency: CHF
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Google (L4-L6) = ML Engineer at Meta (E4-E6), Applied Scientist at Amazon (L5-L7), ML Engineer at Microsoft (L62-L65), Research Engineer at OpenAI/Anthropic, ML Engineer at Apple (ICT3-ICT5)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Industry-defining AI research org (DeepMind, Google Brain legacy) + Massive RSU grants for ML talent + Frontier model experience premium | Google is ground zero for modern AI | **AI TALENT WAR PREMIUM**"
+---
 ### ML/AI Engineer | Google Global Negotiation Guide
 
 **Negotiation DNA:** Industry-defining AI research org (DeepMind, Google Brain legacy) + Massive RSU grants for ML talent + Frontier model experience premium | Google is ground zero for modern AI | **AI TALENT WAR PREMIUM**

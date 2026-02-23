@@ -1,3 +1,48 @@
+---
+company: kpmg
+company_display: KPMG
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 135000
+    base_high: 185000
+    stock_low: 12000
+    stock_high: 45000
+    bonus_pct: 15
+    total_comp_low: 172000
+    total_comp_high: 276000
+    currency: USD
+  - region: Chicago
+    base_low: 125000
+    base_high: 170000
+    stock_low: 10000
+    stock_high: 38000
+    bonus_pct: 15
+    total_comp_low: 157000
+    total_comp_high: 251000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 130000
+    stock_low: 8000
+    stock_high: 28000
+    bonus_pct: 15
+    total_comp_low: 112000
+    total_comp_high: 191000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: KPMG Director = Google L5-L6 EM = Deloitte Manager/SM = PwC Director
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (15-25%) + Equity at Senior Levels | Director Level"
+---
 ### Engineering Manager | KPMG Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (15-25%) + Equity at Senior Levels | Director Level

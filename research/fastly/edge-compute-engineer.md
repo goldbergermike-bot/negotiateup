@@ -1,3 +1,39 @@
+---
+company: fastly
+company_display: Fastly
+role: edge-compute-engineer
+role_display: Edge Compute Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 373000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 353000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Edge Compute Engineers at Fastly build the Compute@Edge platform — the WebAssembly-powered edge computing runtime that enables developers to run code at the edge of the internet with sub-millisecond startup times, defining the next generation of edge application development."
+---
 ### Edge Compute Engineer — Fastly Salary Negotiation Guide
 
 **Negotiation DNA**: Edge Compute Engineers at Fastly build the Compute@Edge platform — the WebAssembly-powered edge computing runtime that enables developers to run code at the edge of the internet with sub-millisecond startup times, defining the next generation of edge application development.

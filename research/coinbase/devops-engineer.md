@@ -1,3 +1,52 @@
+---
+company: coinbase
+company_display: Coinbase
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 210000
+    stock_low: 120000
+    stock_high: 280000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 218000
+    total_comp_high: 308000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 205000
+    stock_low: 115000
+    stock_high: 268000
+    bonus_low: 16000
+    bonus_high: 30000
+    total_comp_low: 212000
+    total_comp_high: 300000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 192000
+    stock_low: 100000
+    stock_high: 248000
+    bonus_low: 14000
+    bonus_high: 26000
+    total_comp_low: 198000
+    total_comp_high: 282000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "`Everything Exchange` · `$2B Buyback` · `COIN` · `IC4-IC5` · `Multi-Asset Infrastructure` · `Platform Reliability` · `RSU/4yr Vest`"
+---
 ### DevOps Engineer | Coinbase Global Negotiation Guide
 
 **Negotiation DNA:** `Everything Exchange` · `$2B Buyback` · `COIN` · `IC4-IC5` · `Multi-Asset Infrastructure` · `Platform Reliability` · `RSU/4yr Vest`

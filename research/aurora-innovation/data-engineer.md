@@ -1,3 +1,39 @@
+---
+company: aurora-innovation
+company_display: Aurora Innovation
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pittsburgh (HQ)
+    base_low: 140000
+    base_high: 193000
+    stock_low: 65000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+  - region: Bay Area
+    base_low: 150000
+    base_high: 205000
+    stock_low: 75000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 298000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Aurora Data Engineer = Google Data Engineer L3-L4 = Waymo Data Engineer = Amazon Data Engineer II = Meta Data Engineer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage"
+---
 ### Data Engineer | Aurora Innovation Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage

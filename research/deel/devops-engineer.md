@@ -1,3 +1,39 @@
+---
+company: deel
+company_display: Deel
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 158000
+    base_high: 218000
+    stock_low: 82000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 348000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 205000
+    stock_low: 72000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Deel DevOps (IC2-IC3) = Remote.com DevOps = Rippling DevOps = Google L3-L4 SRE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Global Payroll and Compliance | $12B Valuation | San Francisco | **GLOBAL PLATFORM RELIABILITY PREMIUM**"
+---
 ### DevOps Engineer | Deel Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Global Payroll and Compliance | $12B Valuation | San Francisco | **GLOBAL PLATFORM RELIABILITY PREMIUM**

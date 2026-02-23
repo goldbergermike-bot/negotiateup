@@ -1,3 +1,40 @@
+---
+company: cockroach-labs
+company_display: Cockroach Labs
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC HQ
+    base_low: 180000
+    base_high: 240000
+    stock_low: 110000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 380000
+    currency: USD
+  - region: Remote US
+    base_low: 165000
+    base_high: 225000
+    stock_low: 95000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 355000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cockroach Labs Senior SWE = MongoDB Senior SWE = Google L4 (Spanner) = PlanetScale Senior SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($5B Valuation) | Distributed SQL Database (CockroachDB) | NYC HQ | High Engineering Bar"
+---
 ### Senior Software Engineer | Cockroach Labs Global Negotiation Guide
 
 **Negotiation DNA:** Private ($5B Valuation) | Distributed SQL Database (CockroachDB) | NYC HQ | High Engineering Bar

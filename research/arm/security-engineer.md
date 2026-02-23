@@ -1,3 +1,48 @@
+---
+company: arm
+company_display: Arm
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 142000
+    base_high: 188000
+    stock_low: 185000
+    stock_high: 295000
+    bonus_pct: 15
+    total_comp_low: 208000
+    total_comp_high: 288000
+    currency: USD
+  - region: Austin
+    base_low: 128000
+    base_high: 170000
+    stock_low: 166000
+    stock_high: 265000
+    bonus_pct: 15
+    total_comp_low: 188000
+    total_comp_high: 260000
+    currency: USD
+  - region: Cambridge UK
+    base_low: 50000
+    base_high: 68000
+    stock_low: 115000
+    stock_high: 195000
+    bonus_pct: 15
+    total_comp_low: 72000
+    total_comp_high: 105000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ARM Security Engineer = NVIDIA Security Engineer = Intel Security Engineer (Grade 7-8) = Google L4/L5 Security Engineer
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages"
+---
 ### Security Engineer | ARM Global Negotiation Guide
 
 **Negotiation DNA:** Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages

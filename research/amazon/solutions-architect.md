@@ -1,3 +1,65 @@
+---
+company: amazon
+company_display: Amazon
+role: solutions-architect
+role_display: Solutions Architect (AWS)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 150000
+    base_high: 180000
+    stock_low: 150000
+    stock_high: 400000
+    bonus_pct: null
+    signing_bonus_low: 50000
+    signing_bonus_high: 90000
+    total_comp_low: 240000
+    total_comp_high: 390000
+    currency: USD
+  - region: Bay Area
+    base_low: 155000
+    base_high: 185000
+    stock_low: 160000
+    stock_high: 420000
+    bonus_pct: null
+    signing_bonus_low: 55000
+    signing_bonus_high: 95000
+    total_comp_low: 250000
+    total_comp_high: 405000
+    currency: USD
+  - region: NYC
+    base_low: 155000
+    base_high: 185000
+    stock_low: 155000
+    stock_high: 410000
+    bonus_pct: null
+    signing_bonus_low: 50000
+    signing_bonus_high: 90000
+    total_comp_low: 245000
+    total_comp_high: 400000
+    currency: USD
+  - region: Arlington VA
+    base_low: 150000
+    base_high: 180000
+    stock_low: 150000
+    stock_high: 400000
+    bonus_pct: null
+    signing_bonus_low: 50000
+    signing_bonus_high: 90000
+    total_comp_low: 240000
+    total_comp_high: 390000
+    currency: USD
+level_mapping:
+  internal: AWS
+  raw: AWS SA L5-L6 = Google Cloud Customer Engineer = Azure Solutions Architect = GCP SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Back-Loaded RSU Vesting / Signing Bonus Bridge | Customer-Facing Technical Role"
+---
 ### Solutions Architect (AWS) | Amazon Global Negotiation Guide
 
 **Negotiation DNA:** Back-Loaded RSU Vesting / Signing Bonus Bridge | Customer-Facing Technical Role

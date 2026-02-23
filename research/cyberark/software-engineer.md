@@ -1,3 +1,45 @@
+---
+company: cyberark
+company_display: Cyberark
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newton MA
+    base_low: 120000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 25000
+    total_comp_low: 185000
+    total_comp_high: 270000
+    currency: USD
+  - region: London
+    base_low: 65000
+    base_high: 85000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 8000
+    signing_bonus_high: 18000
+    total_comp_low: 108000
+    total_comp_high: 168000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Software Engineer at CyberArk maps to E3–E4 in the Palo Alto Networks engineering ladder, IC-level contributor within the Identity Security business unit."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London"
+---
 ### Software Engineer | CyberArk Global Negotiation Guide
 
 **Negotiation DNA:** CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London

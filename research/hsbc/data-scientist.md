@@ -1,3 +1,51 @@
+---
+company: hsbc
+company_display: HSBC
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 95000
+    base_high: 130000
+    stock_low: 40000
+    stock_high: 60000
+    bonus_low: 20000
+    bonus_high: 30000
+    total_comp_low: 152000
+    total_comp_high: 220000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 755000
+    base_high: 1030000
+    stock_low: 400000
+    stock_high: 600000
+    bonus_low: 370000
+    bonus_high: 570000
+    total_comp_low: 1520000
+    total_comp_high: 2200000
+    currency: HKD
+  - region: Singapore
+    base_low: 165000
+    base_high: 225000
+    stock_low: 69000
+    stock_high: 104000
+    bonus_low: 35000
+    bonus_high: 52000
+    total_comp_low: 263000
+    total_comp_high: 381000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Predictive Analytics` `Risk Modeling` `Quantitative Strategy`"
+---
 ### Data Scientist | HSBC Global Negotiation Guide
 
 **Negotiation DNA:** `Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Predictive Analytics` `Risk Modeling` `Quantitative Strategy`

@@ -1,3 +1,48 @@
+---
+company: illumina
+company_display: Illumina
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego CA
+    base_low: 170000
+    base_high: 230000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 365000
+    currency: USD
+  - region: Bay Area CA
+    base_low: 175000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 375000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Illumina EM = Google L5-L6 EM = Genentech EM = Moderna EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: Genomics/Sequencing Dominant / Specialized Biotech Comp / RSU + Bonus / Team Leadership
+---
 ### Engineering Manager | Illumina Global Negotiation Guide
 
 **Negotiation DNA:** Genomics/Sequencing Dominant / Specialized Biotech Comp / RSU + Bonus / Team Leadership

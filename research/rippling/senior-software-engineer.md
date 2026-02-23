@@ -1,3 +1,48 @@
+---
+company: rippling
+company_display: Rippling
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 252000
+    stock_low: 200000
+    stock_high: 380000
+    bonus_pct: 12
+    total_comp_low: 285000
+    total_comp_high: 418000
+    currency: USD
+  - region: New York
+    base_low: 192000
+    base_high: 248000
+    stock_low: 195000
+    stock_high: 372000
+    bonus_pct: 12
+    total_comp_low: 280000
+    total_comp_high: 412000
+    currency: USD
+  - region: Remote US
+    base_low: 182000
+    base_high: 235000
+    stock_low: 180000
+    stock_high: 348000
+    bonus_pct: 12
+    total_comp_low: 262000
+    total_comp_high: 388000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rippling Sr SWE (IC4) = Gusto Sr SWE = Workday Sr SWE = ADP Sr SWE = Google L5 = Meta E5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **WORKFORCE AUTOMATION PREMIUM**"
+---
 ### Senior Software Engineer | Rippling Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **WORKFORCE AUTOMATION PREMIUM**

@@ -1,3 +1,50 @@
+---
+company: atlassian
+company_display: Atlassian
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 195000
+    base_high: 280000
+    stock_low: 152000
+    stock_high: 302000
+    bonus_pct: null
+    total_comp_low: 248000
+    total_comp_high: 380000
+    currency: AUD
+  - region: San Francisco
+    base_low: 158000
+    base_high: 205000
+    stock_low: 138000
+    stock_high: 235000
+    bonus_pct: null
+    total_comp_low: 198000
+    total_comp_high: 270000
+    currency: USD
+  - region: Amsterdam
+    base_low: 95000
+    base_high: 138000
+    stock_low: 88000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 200000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P4 Senior SA = Google L5 SA = AWS Senior SA = Microsoft Senior Cloud SA = Salesforce Senior SA
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage"
+---
 ### Solutions Architect | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage

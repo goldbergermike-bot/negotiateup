@@ -1,3 +1,53 @@
+---
+company: moneygram
+company_display: Moneygram
+role: crypto-bridge-platform-engineer
+role_display: Crypto-Bridge Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas TX
+    base_low: 175000
+    base_high: 235000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 260000
+    total_comp_high: 405000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 265000
+    stock_low: 75000
+    stock_high: 150000
+    bonus_low: 30000
+    bonus_high: 60000
+    total_comp_low: 305000
+    total_comp_high: 475000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 175000
+    stock_low: 45000
+    stock_high: 95000
+    bonus_low: 18000
+    bonus_high: 38000
+    total_comp_low: 193000
+    total_comp_high: 308000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| MoneyGram | Google | Meta | Stripe | Western Union | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`SIGNATURE ROLE` `Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Blockchain Infrastructure` `MoneyGram Ramp` `Stablecoin Pioneer`"
+---
 ### Crypto-Bridge Platform Engineer | MoneyGram Global Negotiation Guide
 
 **Negotiation DNA:** `SIGNATURE ROLE` `Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Blockchain Infrastructure` `MoneyGram Ramp` `Stablecoin Pioneer`

@@ -1,3 +1,52 @@
+---
+company: toast
+company_display: Toast
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston MA
+    base_low: 160000
+    base_high: 205000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 210000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 220000
+    stock_low: 115000
+    stock_high: 220000
+    bonus_low: 28000
+    bonus_high: 50000
+    total_comp_low: 228000
+    total_comp_high: 335000
+    currency: USD
+  - region: San Francisco
+    base_low: 185000
+    base_high: 235000
+    stock_low: 125000
+    stock_high: 240000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 242000
+    total_comp_high: 360000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Toast | Google | Meta | Stripe | Block | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: TOST` `Toast IQ` `Product Manager` `Restaurant Tech` `Hospitality Intelligence` `Restaurant OS` `Payments` `Vertical SaaS`"
+---
 ### Product Manager | Toast Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: TOST` `Toast IQ` `Product Manager` `Restaurant Tech` `Hospitality Intelligence` `Restaurant OS` `Payments` `Vertical SaaS`

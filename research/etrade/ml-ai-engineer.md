@@ -1,3 +1,51 @@
+---
+company: etrade
+company_display: Etrade
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 185000
+    base_high: 248000
+    stock_low: null
+    stock_high: null
+    bonus_low: 35000
+    bonus_high: 62000
+    total_comp_low: 272000
+    total_comp_high: 398000
+    currency: USD
+  - region: "Jersey City, NJ"
+    base_low: 176000
+    base_high: 236000
+    stock_low: null
+    stock_high: null
+    bonus_low: 33000
+    bonus_high: 59000
+    total_comp_low: 258000
+    total_comp_high: 378000
+    currency: USD
+  - region: "Alpharetta, GA"
+    base_low: 157000
+    base_high: 211000
+    stock_low: null
+    stock_high: null
+    bonus_low: 30000
+    bonus_high: 53000
+    total_comp_low: 231000
+    total_comp_high: 338000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Machine Learning` `Fraud Detection` `Algorithmic Trading Models`"
+---
 ### ML/AI Engineer | E*TRADE (Morgan Stanley) Global Negotiation Guide
 
 **Negotiation DNA:** `Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Machine Learning` `Fraud Detection` `Algorithmic Trading Models`

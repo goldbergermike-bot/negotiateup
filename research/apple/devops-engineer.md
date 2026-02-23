@@ -1,3 +1,50 @@
+---
+company: apple
+company_display: Apple
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 155000
+    base_high: 235000
+    stock_low: 120000
+    stock_high: 350000
+    bonus_pct: 5
+    total_comp_low: 210000
+    total_comp_high: 375000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 145000
+    base_high: 220000
+    stock_low: 100000
+    stock_high: 300000
+    bonus_pct: 5
+    total_comp_low: 190000
+    total_comp_high: 340000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 150000
+    base_high: 225000
+    stock_low: 110000
+    stock_high: 320000
+    bonus_pct: 5
+    total_comp_low: 200000
+    total_comp_high: 350000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple ICT2 = Google L3, Meta E3, Amazon L4 (SysDE) | Apple ICT3 = Google L4, Meta E4, Amazon L5 (SysDE) | Apple ICT4 = Google L5, Meta E5, Amazon L6 (SysDE)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strong infrastructure base + solid RSU grants supporting Apple's massive deployment ecosystem | Apple positions DevOps as critical to shipping products to 1.5B+ devices | **SCALE PREMIUM: Apple's infrastructure serves billions of devices across hardware and cloud services**"
+---
 ### DevOps Engineer | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Strong infrastructure base + solid RSU grants supporting Apple's massive deployment ecosystem | Apple positions DevOps as critical to shipping products to 1.5B+ devices | **SCALE PREMIUM: Apple's infrastructure serves billions of devices across hardware and cloud services**

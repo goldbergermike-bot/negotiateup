@@ -1,3 +1,49 @@
+---
+company: cohere
+company_display: Cohere
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 175000
+    base_high: 222000
+    stock_low: 255000
+    stock_high: 448000
+    bonus_pct: null
+    total_comp_low: 248000
+    total_comp_high: 345000
+    currency: CAD
+  - region: San Francisco
+    base_low: 205000
+    base_high: 258000
+    stock_low: 255000
+    stock_high: 448000
+    bonus_pct: null
+    total_comp_low: 269000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: 150000
+    base_high: 192000
+    stock_low: 255000
+    stock_high: 448000
+    bonus_pct: null
+    total_comp_low: 218000
+    total_comp_high: 305000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Cohere EM = Google L5 EM (Toronto) = Meta M1 = Amazon SDM II = Anthropic Engineering Manager. In Toronto, you are competing directly for the same management talent as Google Brain Toronto, Meta FAIR, and Shopify engineering leadership. Your pre-IPO equity package at Cohere's $5.5B+ valuation is the key differentiator."
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty"
+---
 ### Engineering Manager | Cohere Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty

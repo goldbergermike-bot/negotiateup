@@ -1,3 +1,77 @@
+---
+company: bytedance
+company_display: Bytedance
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Mountain View (US)
+    base_low: 175000
+    base_high: 240000
+    stock_low: 110000
+    stock_high: 315000
+    bonus_pct: 15
+    total_comp_low: 255000
+    total_comp_high: 420000
+    currency: USD
+  - region: New York City (US)
+    base_low: 170000
+    base_high: 235000
+    stock_low: 105000
+    stock_high: 305000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 410000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 170000
+    base_high: 235000
+    stock_low: 105000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 405000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 480000
+    base_high: 850000
+    stock_low: 220000
+    stock_high: 580000
+    bonus_pct: 20
+    total_comp_low: 750000
+    total_comp_high: 1450000
+    currency: CNY
+  - region: Shanghai
+    base_low: 460000
+    base_high: 820000
+    stock_low: 210000
+    stock_high: 560000
+    bonus_pct: 20
+    total_comp_low: 720000
+    total_comp_high: 1400000
+    currency: CNY
+  - region: Singapore
+    base_low: 130000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Scientist at ByteDance (2-1 to 2-2) = L4-L5 at Google, IC4-IC5 at Meta, DS Senior at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Private $225B+ with unprecedented content engagement data from 1.5B+ TikTok users + Advertising optimization driving $30B+ ad revenue + FAANG-matching US comp | ByteDance data scientists analyze the most engaging content platform ever built | **ENGAGEMENT ANALYTICS PREMIUM**"
+---
 ### Data Scientist | ByteDance Global Negotiation Guide
 
 **Negotiation DNA:** Private $225B+ with unprecedented content engagement data from 1.5B+ TikTok users + Advertising optimization driving $30B+ ad revenue + FAANG-matching US comp | ByteDance data scientists analyze the most engaging content platform ever built | **ENGAGEMENT ANALYTICS PREMIUM**

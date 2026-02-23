@@ -1,3 +1,48 @@
+---
+company: brex
+company_display: Brex
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 248000
+    base_high: 312000
+    stock_low: 265000
+    stock_high: 468000
+    bonus_pct: 15
+    total_comp_low: 358000
+    total_comp_high: 505000
+    currency: USD
+  - region: New York
+    base_low: 255000
+    base_high: 320000
+    stock_low: 265000
+    stock_high: 468000
+    bonus_pct: 15
+    total_comp_low: 368000
+    total_comp_high: 518000
+    currency: USD
+  - region: Remote US
+    base_low: 240000
+    base_high: 302000
+    stock_low: 265000
+    stock_high: 468000
+    bonus_pct: 15
+    total_comp_low: 348000
+    total_comp_high: 495000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex Staff SWE (IC5) = Ramp Staff SWE = Stripe L5 = Google L6 = Meta E6 = Amazon L7 = Microsoft 66-67
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**"
+---
 ### Staff Software Engineer | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**

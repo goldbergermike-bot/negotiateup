@@ -1,3 +1,40 @@
+---
+company: c3-ai
+company_display: C3.ai
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City HQ
+    base_low: 135000
+    base_high: 190000
+    stock_low: 40000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 260000
+    currency: USD
+  - region: Remote US
+    base_low: 120000
+    base_high: 175000
+    stock_low: 35000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 235000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: C3.ai Senior Designer = Palantir Senior Designer = Salesforce Senior Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Public ($4B Market Cap) | Enterprise AI Platform | Tom Siebel-Led | Volatile Stock"
+---
 ### Product Designer | C3.ai Global Negotiation Guide
 
 **Negotiation DNA:** Public ($4B Market Cap) | Enterprise AI Platform | Tom Siebel-Led | Volatile Stock

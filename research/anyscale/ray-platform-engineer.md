@@ -1,3 +1,50 @@
+---
+company: anyscale
+company_display: Anyscale
+role: ray-platform-engineer
+role_display: Ray Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 275000
+    stock_low: 235000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 308000
+    total_comp_high: 460000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 270000
+    stock_low: 235000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 303000
+    total_comp_high: 453000
+    currency: USD
+  - region: London
+    base_low: 163000
+    base_high: 209000
+    stock_low: 176000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 350000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anyscale Ray Platform Engineer = Google L5-L6 Systems Engineer = Meta E5-E6 Infrastructure = Databricks Staff Platform Engineer = AWS Principal SDE = NVIDIA Senior Systems Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity + AI Premium | Ray Distributed Computing Platform Leader | **SIGNATURE ROLE** | 2026 Focus: Next-Gen Ray Runtime & Distributed AI Platform Architecture"
+---
 ### Ray Platform Engineer | Anyscale Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity + AI Premium | Ray Distributed Computing Platform Leader | **SIGNATURE ROLE** | 2026 Focus: Next-Gen Ray Runtime & Distributed AI Platform Architecture

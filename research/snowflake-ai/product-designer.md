@@ -1,3 +1,48 @@
+---
+company: snowflake-ai
+company_display: Snowflake AI
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bozeman
+    base_low: 162000
+    base_high: 205000
+    stock_low: 168000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 204000
+    total_comp_high: 274000
+    currency: USD
+  - region: Seattle
+    base_low: 155000
+    base_high: 198000
+    stock_low: 158000
+    stock_high: 262000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 264000
+    currency: USD
+  - region: Warsaw
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snowflake PD = Google L4 UX = Meta IC4 Product Design = Databricks PD = Amazon L5 UXD
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Cortex AI Platform Pivot | CEO-Led AI Transformation | TOP-OF-MARKET Initial Grants"
+---
 ### Product Designer | Snowflake AI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Cortex AI Platform Pivot | CEO-Led AI Transformation | TOP-OF-MARKET Initial Grants

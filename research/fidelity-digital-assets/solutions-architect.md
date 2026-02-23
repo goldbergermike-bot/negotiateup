@@ -1,3 +1,52 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 192000
+    base_high: 248000
+    stock_low: 175000
+    stock_high: 320000
+    bonus_low: 48000
+    bonus_high: 75000
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 265000
+    stock_low: 192000
+    stock_high: 348000
+    bonus_low: 55000
+    bonus_high: 82000
+    total_comp_low: 282000
+    total_comp_high: 395000
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 225000
+    stock_low: 158000
+    stock_high: 290000
+    bonus_low: 42000
+    bonus_high: 68000
+    total_comp_low: 225000
+    total_comp_high: 315000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#SolutionsArchitecture` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#EnterpriseIntegration`"
+---
 ### Solutions Architect | Fidelity Digital Assets Global Negotiation Guide
 
 **Negotiation DNA:** `#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#SolutionsArchitecture` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#EnterpriseIntegration`

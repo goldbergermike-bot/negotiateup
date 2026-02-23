@@ -1,3 +1,53 @@
+---
+company: paypal
+company_display: Paypal
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 165000
+    base_high: 225000
+    stock_low: 140000
+    stock_high: 280000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 330000
+    total_comp_high: 550000
+    currency: USD
+  - region: New York NY
+    base_low: 160000
+    base_high: 220000
+    stock_low: 130000
+    stock_high: 265000
+    bonus_low: 23000
+    bonus_high: 42000
+    total_comp_low: 313000
+    total_comp_high: 527000
+    currency: USD
+  - region: London UK
+    base_low: 95000
+    base_high: 140000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 180000
+    total_comp_high: 308000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| PayPal | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: PYPL` `Product Manager` `PM` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Payments Product` `Checkout Optimization` `Venmo` `PYUSD`"
+---
 ### Product Manager | PayPal Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: PYPL` `Product Manager` `PM` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Payments Product` `Checkout Optimization` `Venmo` `PYUSD`

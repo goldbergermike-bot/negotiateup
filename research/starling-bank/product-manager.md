@@ -1,3 +1,51 @@
+---
+company: starling-bank
+company_display: Starling Bank
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 68000
+    base_high: 85000
+    stock_low: 10000
+    stock_high: 18000
+    bonus_low: 7000
+    bonus_high: 12000
+    total_comp_low: 85000
+    total_comp_high: 115000
+    currency: GBP
+  - region: Cardiff
+    base_low: 58000
+    base_high: 72000
+    stock_low: 9000
+    stock_high: 15000
+    bonus_low: 6000
+    bonus_high: 10000
+    total_comp_low: 73000
+    total_comp_high: 97000
+    currency: GBP
+  - region: Southampton
+    base_low: 60000
+    base_high: 75000
+    stock_low: 9000
+    stock_high: 16000
+    bonus_low: 6000
+    bonus_high: 11000
+    total_comp_low: 75000
+    total_comp_high: 102000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `B2B SaaS` `Platform Product` `Enterprise Customers`"
+---
 ### Product Manager | Starling Bank Global Negotiation Guide
 
 **Negotiation DNA:** `Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `B2B SaaS` `Platform Product` `Enterprise Customers`

@@ -1,3 +1,40 @@
+---
+company: alteryx
+company_display: Alteryx
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine HQ
+    base_low: 145000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 185000
+    stock_low: 40000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Alteryx Senior SA = Dataiku SA = Tableau SA = Snowflake SA
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium"
+---
 ### Solutions Architect | Alteryx Global Negotiation Guide
 
 **Negotiation DNA:** Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium

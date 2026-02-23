@@ -1,3 +1,48 @@
+---
+company: spotify
+company_display: Spotify
+role: audio-ai-personalization-engineer
+role_display: Audio AI Personalization Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 225000
+    base_high: 282000
+    stock_low: 278000
+    stock_high: 488000
+    bonus_pct: 15
+    total_comp_low: 295000
+    total_comp_high: 404000
+    currency: USD
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 169000
+    base_high: 212000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 221000
+    total_comp_high: 303000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Spotify Audio AI Personalization Eng (Senior) = Google L4-L5 ML (YouTube Recommendations) = Meta E4-E5 ML (Reels Ranking) = Netflix Senior ML Eng (Recommendation) = Apple ML ICT3-ICT4 (Siri/Music)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Audio Ecosystem Leader | $11B Creator Payout | **SIGNATURE ROLE** | **+15-25% AI Premium**"
+---
 ### Audio AI Personalization Engineer | Spotify Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Audio Ecosystem Leader | $11B Creator Payout | **SIGNATURE ROLE** | **+15-25% AI Premium**

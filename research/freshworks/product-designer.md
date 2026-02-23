@@ -1,3 +1,48 @@
+---
+company: freshworks
+company_display: Freshworks
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 118000
+    total_comp_high: 285000
+    currency: USD
+  - region: India
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 25000
+    total_comp_high: 105000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 42000
+    total_comp_high: 125000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Designers at Freshworks craft the user experience across the $5B integrated SaaS suite — designing simple, delightful interfaces that make enterprise-grade software accessible to businesses of all sizes."
+---
 ### Product Designer — Freshworks Salary Negotiation Guide
 
 **Negotiation DNA**: Product Designers at Freshworks craft the user experience across the $5B integrated SaaS suite — designing simple, delightful interfaces that make enterprise-grade software accessible to businesses of all sizes.

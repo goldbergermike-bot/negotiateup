@@ -1,3 +1,48 @@
+---
+company: sophos
+company_display: Sophos
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US Remote
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 148000
+    total_comp_high: 340000
+    currency: USD
+  - region: Abingdon UK
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 53000
+    total_comp_high: 138000
+    currency: GBP
+  - region: Vancouver
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 118000
+    total_comp_high: 280000
+    currency: CAD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Managers at Sophos define the roadmap for endpoint security, firewall, and cloud management products that protect over 500,000 organizations, making strategic decisions across a diverse product portfolio serving SMBs through enterprises."
+---
 ### Product Manager — Sophos Salary Negotiation Guide
 
 **Negotiation DNA**: Product Managers at Sophos define the roadmap for endpoint security, firewall, and cloud management products that protect over 500,000 organizations, making strategic decisions across a diverse product portfolio serving SMBs through enterprises.

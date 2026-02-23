@@ -1,3 +1,49 @@
+---
+company: together-ai
+company_display: Together AI
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 205000
+    stock_low: 42000
+    stock_high: 70000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 262000
+    currency: USD
+  - region: Seattle
+    base_low: 147000
+    base_high: 195000
+    stock_low: 40000
+    stock_high: 67000
+    bonus_pct: 10
+    total_comp_low: 179000
+    total_comp_high: 249000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 184000
+    stock_low: 37000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 169000
+    total_comp_high: 236000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Together AI Solutions Architect ≈ Google Customer Engineer L5 · AWS Solutions Architect III · Meta Solutions Engineer IC5 · Snowflake Solutions Architect · Databricks SA
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +20% Kernel Innovation Premium"
+---
 ### Solutions Architect | Together AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +20% Kernel Innovation Premium

@@ -1,3 +1,51 @@
+---
+company: andreessen-horowitz
+company_display: Andreessen Horowitz
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 210000
+    base_high: 278000
+    stock_low: null
+    stock_high: null
+    bonus_low: 152000
+    bonus_high: 240000
+    total_comp_low: 362000
+    total_comp_high: 518000
+    currency: USD
+  - region: San Francisco
+    base_low: 205000
+    base_high: 272000
+    stock_low: null
+    stock_high: null
+    bonus_low: 148000
+    bonus_high: 233000
+    total_comp_low: 353000
+    total_comp_high: 505000
+    currency: USD
+  - region: New York
+    base_low: 198000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_low: 142000
+    bonus_high: 225000
+    total_comp_low: 340000
+    total_comp_high: 490000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Platform Product Strategy` `VC-Native Product Thinking`"
+---
 ### Product Manager | Andreessen Horowitz Global Negotiation Guide
 
 **Negotiation DNA:** `$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Platform Product Strategy` `VC-Native Product Thinking`

@@ -1,3 +1,50 @@
+---
+company: deutsche-bank
+company_display: Deutsche Bank
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 148000
+    base_high: 208000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 200000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: 102000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 140000
+    total_comp_high: 242000
+    currency: GBP
+  - region: Frankfurt (HQ)
+    base_low: 90000
+    base_high: 135000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 122000
+    total_comp_high: 210000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at DB (VP/SVP) = L4-L5 at Google, E4-E5 at Meta, Applied Scientist at Amazon, VP/SVP at BofA, VP/ED at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "EUR30B market cap European bank + AI across trading, risk, and compliance + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB ML spans European regulatory AI challenges | **EUROPEAN AI PREMIUM**"
+---
 ### ML/AI Engineer | Deutsche Bank Global Negotiation Guide
 
 **Negotiation DNA:** EUR30B market cap European bank + AI across trading, risk, and compliance + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB ML spans European regulatory AI challenges | **EUROPEAN AI PREMIUM**

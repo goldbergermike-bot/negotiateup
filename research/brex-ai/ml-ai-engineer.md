@@ -1,3 +1,48 @@
+---
+company: brex-ai
+company_display: Brex AI
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 182000
+    base_high: 232000
+    stock_low: 200000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 325000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 228000
+    stock_low: 195000
+    stock_high: 328000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 318000
+    currency: USD
+  - region: Remote (US)
+    base_low: 165000
+    base_high: 212000
+    stock_low: 175000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex ML (Mid-Senior) = Google L4 ML = Meta E4 ML = Stripe L3 ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Late-Stage Private | AI-Powered Spend Management"
+---
 ### ML/AI Engineer | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Late-Stage Private | AI-Powered Spend Management

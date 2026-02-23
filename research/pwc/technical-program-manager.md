@@ -1,3 +1,48 @@
+---
+company: pwc
+company_display: PwC
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 120000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 223000
+    currency: USD
+  - region: Chicago
+    base_low: 115000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 127000
+    total_comp_high: 206000
+    currency: USD
+  - region: London
+    base_low: 82000
+    base_high: 120000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 90000
+    total_comp_high: 162000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: PwC Manager (TPM) = Google L4-L5 TPM = Amazon Senior TPM = Deloitte Manager TPM
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (10-20%) + Limited Equity at Senior Levels | Firm-Wide Technology Programs"
+---
 ### Technical Program Manager | PwC Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (10-20%) + Limited Equity at Senior Levels | Firm-Wide Technology Programs

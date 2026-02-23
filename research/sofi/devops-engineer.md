@@ -1,3 +1,48 @@
+---
+company: sofi
+company_display: SoFi
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 132000
+    base_high: 168000
+    stock_low: 115000
+    stock_high: 205000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+  - region: New York / Salt Lake City
+    base_low: 122000
+    base_high: 155000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 225000
+    currency: USD
+  - region: Remote US
+    base_low: 112000
+    base_high: 145000
+    stock_low: 85000
+    stock_high: 158000
+    bonus_pct: 8
+    total_comp_low: 145000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$178K-$248K TC (SF)` | `LTV Accelerator` | `Platform Reliability` | `NASDAQ: SOFI`"
+---
 ### DevOps Engineer | SoFi Global Negotiation Guide
 
 **Negotiation DNA:** `$178K-$248K TC (SF)` | `LTV Accelerator` | `Platform Reliability` | `NASDAQ: SOFI`

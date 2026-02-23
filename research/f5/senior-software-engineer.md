@@ -1,3 +1,56 @@
+---
+company: f5
+company_display: F5
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 155000
+    base_high: 190000
+    stock_low: 140000
+    stock_high: 265000
+    bonus_pct: 10
+    signing_bonus_low: 20000
+    signing_bonus_high: 45000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Jose
+    base_low: 162000
+    base_high: 198000
+    stock_low: 148000
+    stock_high: 275000
+    bonus_pct: 10
+    signing_bonus_low: 20000
+    signing_bonus_high: 45000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 115000
+    stock_low: 80000
+    stock_high: 155000
+    bonus_pct: 10
+    signing_bonus_low: 12000
+    signing_bonus_high: 28000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "- F5 Senior Software Engineer (E4–E5) = Google L4–L5 / Meta E4–E5 / Microsoft Senior SDE 61–63 / Amazon SDE II–III"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support"
+---
 ### Senior Software Engineer | F5 Global Negotiation Guide
 
 **Negotiation DNA:** F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support

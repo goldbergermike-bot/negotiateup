@@ -1,3 +1,39 @@
+---
+company: deel
+company_display: Deel
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 240000
+    stock_low: 130000
+    stock_high: 305000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 418000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 225000
+    stock_low: 112000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Deel Sr SWE (IC3-IC4) = Remote.com Sr SWE = Rippling Sr SWE = Papaya Global Sr SWE = Google L4-L5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Global Payroll and Compliance | $12B Valuation | San Francisco | **GLOBAL EMPLOYMENT PLATFORM PREMIUM**"
+---
 ### Senior Software Engineer | Deel Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Global Payroll and Compliance | $12B Valuation | San Francisco | **GLOBAL EMPLOYMENT PLATFORM PREMIUM**

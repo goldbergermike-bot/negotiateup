@@ -1,3 +1,69 @@
+---
+company: docusign
+company_display: Docusign
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 145000
+    base_high: 195000
+    stock_low: 60000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 270000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 125000
+    base_high: 172000
+    stock_low: 42000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 230000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 62000
+    base_high: 95000
+    stock_low: 22000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 80000
+    total_comp_high: 128000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 1800000
+    base_high: 3200000
+    stock_low: 800000
+    stock_high: 2200000
+    bonus_pct: 10
+    total_comp_low: 2400000
+    total_comp_high: 4200000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 110000
+    base_high: 158000
+    stock_low: 35000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign IC1/IC2 ~ Salesforce MTS | Adobe IC2/IC3 | ServiceNow SWE/Senior | Google L3/L4 | Microsoft 59/61"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Agreement platform builder | E-signature & CLM development | **MID-TIER TECH PREMIUM**"
+---
 ### Software Engineer | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** Agreement platform builder | E-signature & CLM development | **MID-TIER TECH PREMIUM**

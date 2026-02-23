@@ -1,3 +1,48 @@
+---
+company: databricks-unity
+company_display: Databricks Unity
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 238000
+    stock_low: 168000
+    stock_high: 292000
+    bonus_pct: 12
+    total_comp_low: 262000
+    total_comp_high: 372000
+    currency: USD
+  - region: New York
+    base_low: 192000
+    base_high: 245000
+    stock_low: 168000
+    stock_high: 292000
+    bonus_pct: 12
+    total_comp_low: 268000
+    total_comp_high: 378000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 162000
+    stock_low: 112000
+    stock_high: 195000
+    bonus_pct: 12
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Databricks TPM (L4-L5) = Snowflake TPM = Google TPM L5 = Meta TPM IC5 = Amazon TPM L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Technical Program Manager | Databricks Unity Global Negotiation Guide
 
 **Negotiation DNA:** Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**

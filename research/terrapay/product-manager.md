@@ -1,3 +1,52 @@
+---
+company: terrapay
+company_display: Terrapay
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam (EUR)
+    base_low: 80000
+    base_high: 115000
+    stock_low: 55000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 235000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 100000
+    base_high: 145000
+    stock_low: 65000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 285000
+    currency: SGD
+  - region: New York (USD)
+    base_low: 140000
+    base_high: 195000
+    stock_low: 80000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 375000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - "TerraPay MilX Creator Payout Launch — Jan 28, 2026 — Product Strategy"
+  - "TerraPay Global Payments Highway — 7.5B+ Accounts, 130+ Countries"
+  - TerraPay Botim Super-App Partnership — Integration Product
+  - Thunes / Nium / Wise PM Compensation Benchmarks
+  - "TerraPay Private Valuation & PM-Level Options Data"
+  - Cross-Border Payments Product Management Talent Market
+negotiation_dna_summary: "This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a product management compensation framework spanning Amsterdam, Singapore, and New York markets."
+---
 ### Product Manager — TerraPay Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a product management compensation framework spanning Amsterdam, Singapore, and New York markets.

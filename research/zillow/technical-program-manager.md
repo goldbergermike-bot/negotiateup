@@ -1,3 +1,48 @@
+---
+company: zillow
+company_display: Zillow
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 138000
+    base_high: 180000
+    stock_low: 135000
+    stock_high: 225000
+    bonus_pct: 15
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+  - region: San Francisco
+    base_low: 149000
+    base_high: 194000
+    stock_low: 146000
+    stock_high: 243000
+    bonus_pct: 15
+    total_comp_low: 196000
+    total_comp_high: 272000
+    currency: USD
+  - region: Remote US
+    base_low: 124000
+    base_high: 162000
+    stock_low: 122000
+    stock_high: 203000
+    bonus_pct: 15
+    total_comp_low: 164000
+    total_comp_high: 227000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zillow Technical Program Manager = Google TPM L5 = Redfin Program Manager = Opendoor TPM = Amazon TPM L5–L6 = Meta TPM IC5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep"
+---
 ### Technical Program Manager | Zillow Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep

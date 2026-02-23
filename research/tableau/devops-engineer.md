@@ -1,3 +1,49 @@
+---
+company: tableau
+company_display: Tableau
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle HQ
+    base_low: 150000
+    base_high: 205000
+    stock_low: 70000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 310000
+    currency: USD
+  - region: San Francisco
+    base_low: 155000
+    base_high: 210000
+    stock_low: 75000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 320000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 190000
+    stock_low: 60000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tableau Senior DevOps = Salesforce SRE = Google L4 SRE = Datadog DevOps
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Salesforce Subsidiary ($15.7B Acquisition) | Data Visualization Leader | Liquid RSUs"
+---
 ### DevOps Engineer | Tableau Global Negotiation Guide
 
 **Negotiation DNA:** Salesforce Subsidiary ($15.7B Acquisition) | Data Visualization Leader | Liquid RSUs

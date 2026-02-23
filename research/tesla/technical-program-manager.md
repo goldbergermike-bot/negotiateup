@@ -1,3 +1,48 @@
+---
+company: tesla
+company_display: Tesla
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin (HQ)
+    base_low: 145000
+    base_high: 215000
+    stock_low: 110000
+    stock_high: 290000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 345000
+    currency: USD
+  - region: Palo Alto
+    base_low: 155000
+    base_high: 225000
+    stock_low: 120000
+    stock_high: 305000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 360000
+    currency: USD
+  - region: Fremont
+    base_low: 150000
+    base_high: 220000
+    stock_low: 115000
+    stock_high: 298000
+    bonus_pct: null
+    total_comp_low: 203000
+    total_comp_high: 353000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tesla TPM = Google L4/L5 TPM = Amazon L5/L6 TPM = Apple Program Manager (IC3/IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk | Hardware-Software Coordination"
+---
 ### Technical Program Manager | Tesla Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk | Hardware-Software Coordination

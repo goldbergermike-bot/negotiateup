@@ -1,3 +1,54 @@
+---
+company: tpg
+company_display: Tpg
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 168000
+    base_high: 208000
+    stock_low: 100000
+    stock_high: 165000
+    bonus_low: 25000
+    bonus_high: 42000
+    total_comp_low: 293000
+    total_comp_high: 358000
+    currency: USD
+  - region: "Fort Worth, TX"
+    base_low: 142000
+    base_high: 178000
+    stock_low: 80000
+    stock_high: 132000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 248000
+    total_comp_high: 302000
+    currency: USD
+  - region: New York
+    base_low: 162000
+    base_high: 202000
+    stock_low: 95000
+    stock_high: 158000
+    bonus_low: 24000
+    bonus_high: 40000
+    total_comp_low: 282000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "`Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Platform Reliability` `AI Ops` `Infrastructure-as-Revenue` `Deployment Velocity`"
+---
 ### DevOps Engineer | TPG Global Negotiation Guide
 
 **Negotiation DNA:** `Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Platform Reliability` `AI Ops` `Infrastructure-as-Revenue` `Deployment Velocity`

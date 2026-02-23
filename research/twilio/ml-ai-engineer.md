@@ -1,3 +1,48 @@
+---
+company: twilio
+company_display: Twilio
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Francisco, CA (HQ)"
+    base_low: 170000
+    base_high: 235000
+    stock_low: 160000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 260000
+    total_comp_high: 390000
+    currency: USD
+  - region: "Denver, CO"
+    base_low: 155000
+    base_high: 215000
+    stock_low: 130000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 230000
+    total_comp_high: 350000
+    currency: USD
+  - region: "London, UK"
+    base_low: 110000
+    base_high: 155000
+    stock_low: 100000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 275000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Twilio ML3 (ML/AI Engineer) = Google L4 ML = Meta E4 ML = Databricks ML3 = OpenAI IC3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "AI/ML infrastructure premium at communications scale | CustomerAI model deployment driving 2026 roadmap"
+---
 ### ML/AI Engineer | Twilio Global Negotiation Guide
 
 **Negotiation DNA:** AI/ML infrastructure premium at communications scale | CustomerAI model deployment driving 2026 roadmap

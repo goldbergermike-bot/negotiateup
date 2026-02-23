@@ -1,3 +1,48 @@
+---
+company: sophos
+company_display: Sophos
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US Remote
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 323000
+    currency: USD
+  - region: Abingdon UK
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 48000
+    total_comp_high: 128000
+    currency: GBP
+  - region: Vancouver
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 110000
+    total_comp_high: 265000
+    currency: CAD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Technical Program Managers at Sophos orchestrate cross-functional engineering programs spanning endpoint security, firewall, and cloud management products, coordinating delivery across globally distributed teams in the UK, Canada, India, and the US."
+---
 ### Technical Program Manager — Sophos Salary Negotiation Guide
 
 **Negotiation DNA**: Technical Program Managers at Sophos orchestrate cross-functional engineering programs spanning endpoint security, firewall, and cloud management products, coordinating delivery across globally distributed teams in the UK, Canada, India, and the US.

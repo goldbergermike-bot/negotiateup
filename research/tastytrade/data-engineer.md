@@ -1,3 +1,52 @@
+---
+company: tastytrade
+company_display: Tastytrade
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 128000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_low: 23000
+    bonus_high: 37000
+    total_comp_low: 175000
+    total_comp_high: 252000
+    currency: USD
+  - region: New York
+    base_low: 141000
+    base_high: 193000
+    stock_low: null
+    stock_high: null
+    bonus_low: 25000
+    bonus_high: 41000
+    total_comp_low: 192000
+    total_comp_high: 278000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 133000
+    stock_low: 18000
+    stock_high: 30000
+    bonus_low: 17000
+    bonus_high: 28000
+    total_comp_low: 133000
+    total_comp_high: 191000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Options Market Data Pipelines` `Real-Time Greeks Streaming` `Cross-Asset Data Integration`"
+---
 ### Data Engineer | Tastytrade Global Negotiation Guide
 
 **Negotiation DNA:** `Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Options Market Data Pipelines` `Real-Time Greeks Streaming` `Cross-Asset Data Integration`

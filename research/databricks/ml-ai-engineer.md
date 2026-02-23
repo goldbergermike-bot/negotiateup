@@ -1,3 +1,48 @@
+---
+company: databricks
+company_display: Databricks
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 272000
+    stock_low: 248000
+    stock_high: 438000
+    bonus_pct: 15
+    total_comp_low: 322000
+    total_comp_high: 455000
+    currency: USD
+  - region: New York
+    base_low: 222000
+    base_high: 278000
+    stock_low: 248000
+    stock_high: 438000
+    bonus_pct: 15
+    total_comp_low: 328000
+    total_comp_high: 462000
+    currency: USD
+  - region: Remote US
+    base_low: 208000
+    base_high: 265000
+    stock_low: 248000
+    stock_high: 438000
+    bonus_pct: 15
+    total_comp_low: 315000
+    total_comp_high: 448000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Databricks ML/AI (IC3-IC4) = Snowflake ML = Google ML L4-L5 = Meta ML (E4-E5) = Amazon ML L5-L6 = Microsoft ML 62-63
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | +15-25% AI Premium | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**"
+---
 ### ML/AI Engineer | Databricks Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | +15-25% AI Premium | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**

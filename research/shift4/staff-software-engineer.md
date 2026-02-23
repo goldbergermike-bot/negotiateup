@@ -1,3 +1,53 @@
+---
+company: shift4
+company_display: Shift4
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Center Valley PA
+    base_low: 190000
+    base_high: 240000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 375000
+    total_comp_high: 590000
+    currency: USD
+  - region: New York
+    base_low: 220000
+    base_high: 275000
+    stock_low: 200000
+    stock_high: 400000
+    bonus_low: 30000
+    bonus_high: 60000
+    total_comp_low: 450000
+    total_comp_high: 735000
+    currency: USD
+  - region: London
+    base_low: 145000
+    base_high: 185000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 285000
+    total_comp_high: 465000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Shift4 | Google | Meta | Stripe | Toast | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: FOUR` `Stablecoin Settlement` `Staff IC` `Payments Architecture` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Finaro Global Acquiring` `System Design` `Technical Leadership`"
+---
 ### Staff Software Engineer | Shift4 Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FOUR` `Stablecoin Settlement` `Staff IC` `Payments Architecture` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Finaro Global Acquiring` `System Design` `Technical Leadership`

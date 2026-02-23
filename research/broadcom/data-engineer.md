@@ -1,3 +1,48 @@
+---
+company: broadcom
+company_display: Broadcom
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose (USD)
+    base_low: 148000
+    base_high: 192000
+    stock_low: 140000
+    stock_high: 255000
+    bonus_pct: 15
+    total_comp_low: 192000
+    total_comp_high: 278000
+    currency: USD
+  - region: Singapore (SGD S$)
+    base_low: 120000
+    base_high: 158000
+    stock_low: 114000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 156000
+    total_comp_high: 232000
+    currency: SGD
+  - region: London (GBP £)
+    base_low: 90000
+    base_high: 125000
+    stock_low: 84000
+    stock_high: 155000
+    bonus_pct: 15
+    total_comp_low: 118000
+    total_comp_high: 182000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Broadcom Data Engineer = VMware Senior Data Engineer = Google L4-L5 Data Engineer = NVIDIA Data Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp"
+---
 ### Data Engineer | Broadcom Global Negotiation Guide
 
 **Negotiation DNA:** Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp

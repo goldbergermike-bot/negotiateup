@@ -1,3 +1,48 @@
+---
+company: plaid
+company_display: Plaid
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 162000
+    base_high: 208000
+    stock_low: 118000
+    stock_high: 208000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 278000
+    currency: USD
+  - region: New York
+    base_low: 158000
+    base_high: 202000
+    stock_low: 118000
+    stock_high: 208000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 272000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 190000
+    stock_low: 118000
+    stock_high: 208000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Plaid DE (IC2-IC3) = Stripe Data Engineer = Square Data Engineer = Google Data Engineer (L3-L4) = MX Data Engineer = Finicity Data Pipeline Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**"
+---
 ### Data Engineer | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**

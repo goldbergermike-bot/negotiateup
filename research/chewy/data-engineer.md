@@ -1,3 +1,51 @@
+---
+company: chewy
+company_display: Chewy
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Plantation FL
+    base_low: 120000
+    base_high: 158000
+    stock_low: 28000
+    stock_high: 44000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 222000
+    currency: USD
+  - region: Boston
+    base_low: 130000
+    base_high: 172000
+    stock_low: 30000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 243000
+    currency: USD
+  - region: Remote US
+    base_low: 114000
+    base_high: 150000
+    stock_low: 27000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 154000
+    total_comp_high: 211000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chewy Data Engineer = Google Data Engineer L4–L5 = Amazon Data Engineer SDE II = Meta Data Engineer IC4 = Microsoft Data Engineer 61–63 = Databricks Data Engineer Mid–Senior
+data_sources:
+  - "Chewy 84% Autoship Penetration — Q4 2024 Earnings Report, Recurring Revenue Model"
+  - "Chewy Pet Health Expansion — Chewy Health, Telehealth, Insurance, Pharmacy Announcements"
+  - "Chewy 10-K Annual Filing — $12B+ Revenue, 20M+ Active Customers"
+  - Pet Humanization Trend — APPA $150B+ US Pet Industry Spending Report
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium"
+---
 ### Data Engineer | Chewy Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium

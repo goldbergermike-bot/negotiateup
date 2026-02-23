@@ -1,3 +1,49 @@
+---
+company: take-two-interactive
+company_display: Take-Two Interactive
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 155000
+    base_high: 220000
+    stock_low: 55000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 315000
+    currency: USD
+  - region: San Diego (Rockstar)
+    base_low: 145000
+    base_high: 208000
+    stock_low: 50000
+    stock_high: 158000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+  - region: Bangalore
+    base_low: 2400000
+    base_high: 4200000
+    stock_low: 1200000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 4000000
+    total_comp_high: 7600000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Take-Two SA = Google L4-L5 Solutions = EA SA = AWS Solutions Architect III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "RSU + Premium Bonus | GTA + NBA 2K Revenue Machine"
+---
 ### Solutions Architect | Take-Two Interactive Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Premium Bonus | GTA + NBA 2K Revenue Machine

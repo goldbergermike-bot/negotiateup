@@ -1,3 +1,49 @@
+---
+company: linear
+company_display: Linear
+role: ai-project-intelligence-engineer
+role_display: AI Project Intelligence Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 270000
+    stock_low: 250000
+    stock_high: 460000
+    bonus_pct: 5
+    total_comp_low: 325000
+    total_comp_high: 495000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 270000
+    stock_low: 250000
+    stock_high: 460000
+    bonus_pct: 5
+    total_comp_low: 325000
+    total_comp_high: 495000
+    currency: USD
+  - region: London
+    base_low: 156000
+    base_high: 205000
+    stock_low: 190000
+    stock_high: 350000
+    bonus_pct: 5
+    total_comp_low: 247000
+    total_comp_high: 377000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Linear AI Project Intelligence Engineer = Google L5-L6 ML Applied Scientist = Meta E5-E6 ML Engineer = Notion AI Engineer = Asana ML/AI Engineer (Staff)
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "AI-Premium Base + Significant Pre-IPO Equity | Project Management Reimagined | **SIGNATURE ROLE** | **+15-25% PROJECT AI PREMIUM**"
+---
 ### AI Project Intelligence Engineer | Linear Global Negotiation Guide
 
 **Negotiation DNA:** AI-Premium Base + Significant Pre-IPO Equity | Project Management Reimagined | **SIGNATURE ROLE** | **+15-25% PROJECT AI PREMIUM**

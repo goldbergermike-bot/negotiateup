@@ -1,3 +1,53 @@
+---
+company: vanguard
+company_display: Vanguard
+role: ai-scaler-platform-engineer
+role_display: AI Scaler Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Malvern, PA (HQ)"
+    base_low: 232000
+    base_high: 322000
+    stock_low: null
+    stock_high: null
+    bonus_low: 48000
+    bonus_high: 78000
+    total_comp_low: 345000
+    total_comp_high: 502000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 220000
+    base_high: 306000
+    stock_low: null
+    stock_high: null
+    bonus_low: 46000
+    bonus_high: 74000
+    total_comp_low: 328000
+    total_comp_high: 477000
+    currency: USD
+  - region: "Scottsdale, AZ"
+    base_low: 220000
+    base_high: 306000
+    stock_low: null
+    stock_high: null
+    bonus_low: 46000
+    bonus_high: 74000
+    total_comp_low: 328000
+    total_comp_high: 477000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `AI Investment Platform` `Multi-Modal Intelligence` `Frontier ML Systems` `Alternative Data Architecture` `Investment Signal Engineering`"
+---
 ### AI Scaler Platform Engineer | Vanguard Global Negotiation Guide
 
 **SIGNATURE ROLE** — This is Vanguard's highest-impact individual contributor technology role, purpose-built for the $2.1 trillion AI infrastructure investment thesis.

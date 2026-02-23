@@ -1,3 +1,48 @@
+---
+company: boku
+company_display: Boku
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 70000
+    base_high: 105000
+    stock_low: 25000
+    stock_high: 65000
+    bonus_pct: null
+    total_comp_low: 95000
+    total_comp_high: 170000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 130000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 330000
+    currency: USD
+  - region: Mumbai (INR)
+    base_low: 2200000
+    base_high: 4000000
+    stock_low: 800000
+    stock_high: 1800000
+    bonus_pct: null
+    total_comp_low: 3000000
+    total_comp_high: 5800000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Product Manager compensation framework spanning London, San Francisco, and Mumbai markets."
+---
 ### Product Manager — Boku Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Product Manager compensation framework spanning London, San Francisco, and Mumbai markets.

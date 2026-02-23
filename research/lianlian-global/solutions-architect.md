@@ -1,3 +1,47 @@
+---
+company: lianlian-global
+company_display: Lianlian Global
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":cn: Hangzhou (CNY)"
+    base_low: 450000
+    base_high: 750000
+    stock_low: 200000
+    stock_high: 500000
+    bonus_pct: null
+    total_comp_low: 650000
+    total_comp_high: 1250000
+    currency: JPY
+  - region: ":hong_kong: Hong Kong (HKD)"
+    base_low: 750000
+    base_high: 1200000
+    stock_low: 300000
+    stock_high: 650000
+    bonus_pct: null
+    total_comp_low: 1050000
+    total_comp_high: 1850000
+    currency: HKD
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 120000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 320000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a solutions architecture compensation framework spanning Hangzhou, Hong Kong, and Singapore markets."
+---
 ### Solutions Architect — LianLian Global Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a solutions architecture compensation framework spanning Hangzhou, Hong Kong, and Singapore markets.

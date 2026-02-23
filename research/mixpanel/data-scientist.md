@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 205000
+    stock_low: 110000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 285000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 198000
+    stock_low: 105000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 272000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 150000
+    stock_low: 78000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 202000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel DS = Google L4 = Meta E4 = Amplitude Senior DS = Databricks DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity + Performance Bonus | AI Insights Automation 2026"
+---
 ### Data Scientist | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity + Performance Bonus | AI Insights Automation 2026

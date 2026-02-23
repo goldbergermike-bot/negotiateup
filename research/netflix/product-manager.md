@@ -1,3 +1,48 @@
+---
+company: netflix
+company_display: Netflix
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 235000
+    base_high: 298000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 298000
+    currency: USD
+  - region: San Francisco
+    base_low: 242000
+    base_high: 307000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 242000
+    total_comp_high: 307000
+    currency: USD
+  - region: London
+    base_low: 179000
+    base_high: 227000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 179000
+    total_comp_high: 227000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Netflix PM = Google L5-L6 PM = Meta PM (IC5-IC6) = Apple PM = Amazon Senior PM / Principal PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture"
+---
 ### Product Manager | Netflix Global Negotiation Guide
 
 **Negotiation DNA:** All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture

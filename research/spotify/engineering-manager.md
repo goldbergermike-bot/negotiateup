@@ -1,3 +1,48 @@
+---
+company: spotify
+company_display: Spotify
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 222000
+    base_high: 278000
+    stock_low: 248000
+    stock_high: 432000
+    bonus_pct: 15
+    total_comp_low: 284000
+    total_comp_high: 388000
+    currency: USD
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 167000
+    base_high: 209000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 213000
+    total_comp_high: 291000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Spotify EM = Google L5 EM = Meta M1 = Netflix EM = Apple EM3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Audio Ecosystem Leader | $11B Creator Payout"
+---
 ### Engineering Manager | Spotify Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Audio Ecosystem Leader | $11B Creator Payout

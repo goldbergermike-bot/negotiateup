@@ -1,3 +1,52 @@
+---
+company: tipalti
+company_display: Tipalti
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 190000
+    base_high: 250000
+    stock_low: 80000
+    stock_high: 180000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 295000
+    total_comp_high: 480000
+    currency: USD
+  - region: New York NY
+    base_low: 185000
+    base_high: 245000
+    stock_low: 75000
+    stock_high: 170000
+    bonus_low: 23000
+    bonus_high: 48000
+    total_comp_low: 283000
+    total_comp_high: 463000
+    currency: USD
+  - region: Tel Aviv IL
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Tipalti | Google | Meta | Stripe | Bill.com | AvidXchange |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `AI Trust` `Fintech` `Pre-IPO` `Payables Automation` `People Leadership` `Technical Management`"
+---
 ### Engineering Manager | Tipalti Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `AI Trust` `Fintech` `Pre-IPO` `Payables Automation` `People Leadership` `Technical Management`

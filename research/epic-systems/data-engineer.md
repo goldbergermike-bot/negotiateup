@@ -1,3 +1,39 @@
+---
+company: epic-systems
+company_display: Epic Systems
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Verona WI
+    base_low: 120000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 190000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 110000
+    base_high: 160000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 180000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Epic Data Engineer = Cerner/Oracle DE = UHG DE (but lower TC due to no equity)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: Private Company / No Public Equity / Bonus-Only Variable / Clinical Data Infrastructure
+---
 ### Data Engineer | Epic Systems Global Negotiation Guide
 
 **Negotiation DNA:** Private Company / No Public Equity / Bonus-Only Variable / Clinical Data Infrastructure

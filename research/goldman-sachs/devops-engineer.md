@@ -1,3 +1,53 @@
+---
+company: goldman-sachs
+company_display: Goldman Sachs
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 130000
+    base_high: 178000
+    stock_low: 38000
+    stock_high: 60000
+    bonus_low: 30000
+    bonus_high: 47000
+    total_comp_low: 198000
+    total_comp_high: 285000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 135000
+    stock_low: 29000
+    stock_high: 45000
+    bonus_low: 23000
+    bonus_high: 36000
+    total_comp_low: 150000
+    total_comp_high: 216000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 3000000
+    base_high: 4500000
+    stock_low: 1200000
+    stock_high: 1800000
+    bonus_low: 800000
+    bonus_high: 1300000
+    total_comp_low: 5000000
+    total_comp_high: 7600000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: "`Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `GSD Platform Infrastructure` `CI/CD Pipeline Automation` `Production Reliability`"
+---
 ### DevOps Engineer | Goldman Sachs Global Negotiation Guide
 
 **Negotiation DNA:** `Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `GSD Platform Infrastructure` `CI/CD Pipeline Automation` `Production Reliability`

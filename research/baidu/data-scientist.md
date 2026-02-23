@@ -1,3 +1,59 @@
+---
+company: baidu
+company_display: Baidu
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 155000
+    base_high: 215000
+    stock_low: 60000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 320000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 150000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 310000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 420000
+    base_high: 750000
+    stock_low: 150000
+    stock_high: 430000
+    bonus_pct: 15
+    total_comp_low: 610000
+    total_comp_high: 1200000
+    currency: CNY
+  - region: Shanghai
+    base_low: 400000
+    base_high: 720000
+    stock_low: 140000
+    stock_high: 410000
+    bonus_pct: 15
+    total_comp_low: 580000
+    total_comp_high: 1150000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "Data Scientist at Baidu (T5-T7) = L4-L5 at Google, IC4-IC5 at Meta, DS Senior at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$40B market cap with China's largest search behavioral dataset + Apollo AV safety analytics + ERNIE model evaluation + US R&D comp competitive for analytics talent | Baidu data scientists analyze search, AI, and autonomous driving at scale | **AI ANALYTICS PREMIUM**"
+---
 ### Data Scientist | Baidu Global Negotiation Guide
 
 **Negotiation DNA:** $40B market cap with China's largest search behavioral dataset + Apollo AV safety analytics + ERNIE model evaluation + US R&D comp competitive for analytics talent | Baidu data scientists analyze search, AI, and autonomous driving at scale | **AI ANALYTICS PREMIUM**

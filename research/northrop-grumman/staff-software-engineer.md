@@ -1,3 +1,49 @@
+---
+company: northrop-grumman
+company_display: Northrop Grumman
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Falls Church, VA"
+    base_low: 160000
+    base_high: 210000
+    stock_low: 50000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 300000
+    currency: USD
+  - region: "Redondo Beach, CA"
+    base_low: 165000
+    base_high: 215000
+    stock_low: 50000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 305000
+    currency: USD
+  - region: "Huntsville, AL"
+    base_low: 150000
+    base_high: 200000
+    stock_low: 48000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Northrop Staff/Principal SWE = L3Harris Staff SWE = Lockheed Technical Fellow -- top of IC technical track in defense
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense + Tech Premium | $75B Market Cap | Space Systems/Defense | Standard 40-45 Hour Culture"
+---
 ### Staff Software Engineer | Northrop Grumman Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense + Tech Premium | $75B Market Cap | Space Systems/Defense | Standard 40-45 Hour Culture

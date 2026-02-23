@@ -1,3 +1,48 @@
+---
+company: roblox
+company_display: Roblox
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo
+    base_low: 175000
+    base_high: 225000
+    stock_low: 160000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 315000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 220000
+    stock_low: 155000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 305000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 205000
+    stock_low: 140000
+    stock_high: 245000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 282000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Roblox Product Manager (IC3-IC5) = Google L5-L7 PM = Meta PM/SPM = Amazon PM/Sr. PM = Apple PM = Microsoft PM/Sr. PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**"
+---
 ### Product Manager | Roblox Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**

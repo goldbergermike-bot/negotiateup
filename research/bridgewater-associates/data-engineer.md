@@ -1,3 +1,43 @@
+---
+company: bridgewater-associates
+company_display: Bridgewater Associates
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westport, CT (HQ)"
+    base_low: 160000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_low: 80000
+    bonus_high: 220000
+    total_comp_low: 240000
+    total_comp_high: 440000
+    currency: USD
+  - region: New York City
+    base_low: 168000
+    base_high: 231000
+    stock_low: null
+    stock_high: null
+    bonus_low: 84000
+    bonus_high: 231000
+    total_comp_low: 252000
+    total_comp_high: 462000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Engineer at Bridgewater = L4 Data Engineer at Google, E4 Data Engineer at Meta, SDE II (Data) at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Data infrastructure powering systematic investment research and execution | Data is the lifeblood of quantitative strategies | **ELITE HEDGE FUND PREMIUM**"
+---
 ### Data Engineer | Bridgewater Associates Global Negotiation Guide
 
 **Negotiation DNA:** ~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Data infrastructure powering systematic investment research and execution | Data is the lifeblood of quantitative strategies | **ELITE HEDGE FUND PREMIUM**

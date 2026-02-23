@@ -1,3 +1,53 @@
+---
+company: ubs
+company_display: UBS
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 190000
+    base_high: 265000
+    stock_low: 45000
+    stock_high: 75000
+    bonus_low: 33000
+    bonus_high: 52000
+    total_comp_low: 268000
+    total_comp_high: 392000
+    currency: USD
+  - region: Zurich (HQ)
+    base_low: 167000
+    base_high: 233000
+    stock_low: 40000
+    stock_high: 66000
+    bonus_low: 29000
+    bonus_high: 46000
+    total_comp_low: 236000
+    total_comp_high: 345000
+    currency: CHF
+  - region: London
+    base_low: 152000
+    base_high: 212000
+    stock_low: 36000
+    stock_high: 60000
+    bonus_low: 26000
+    bonus_high: 42000
+    total_comp_low: 214000
+    total_comp_high: 314000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Intelligent Migration Automation` `ML Model Consolidation` `AI-Driven Decommissioning`"
+---
 ### ML/AI Engineer | UBS Global Negotiation Guide
 
 **Negotiation DNA:** `CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Intelligent Migration Automation` `ML Model Consolidation` `AI-Driven Decommissioning`

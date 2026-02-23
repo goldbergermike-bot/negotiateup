@@ -1,3 +1,49 @@
+---
+company: l3harris
+company_display: L3Harris
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Melbourne, FL"
+    base_low: 110000
+    base_high: 160000
+    stock_low: 22000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 205000
+    currency: USD
+  - region: "Salt Lake City, UT"
+    base_low: 105000
+    base_high: 155000
+    stock_low: 22000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 127000
+    total_comp_high: 200000
+    currency: USD
+  - region: "Rochester, NY"
+    base_low: 105000
+    base_high: 155000
+    stock_low: 20000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 195000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "L3Harris DS = Raytheon DS = Northrop DS -- defense data science is growing across primes, with L3Harris investing heavily"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Analytics/ISR Intelligence | Standard 40-45 Hour Culture"
+---
 ### Data Scientist | L3Harris Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Analytics/ISR Intelligence | Standard 40-45 Hour Culture

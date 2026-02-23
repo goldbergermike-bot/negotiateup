@@ -1,3 +1,47 @@
+---
+company: crowdstrike
+company_display: CrowdStrike
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 355000
+    currency: USD
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 395000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 178000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Data Scientists at CrowdStrike build the detection models and behavioral analytics that power the Agentic Security Platform, enabling Orchestrators of the Agentic SOC to make autonomous threat decisions at enterprise scale."
+---
 ### Data Scientist — CrowdStrike Salary Negotiation Guide
 
 **Negotiation DNA**: Data Scientists at CrowdStrike build the detection models and behavioral analytics that power the Agentic Security Platform, enabling Orchestrators of the Agentic SOC to make autonomous threat decisions at enterprise scale.

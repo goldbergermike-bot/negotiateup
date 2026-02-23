@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 150000
+    base_high: 195000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 255000
+    total_comp_high: 400000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 230000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 32000
+    bonus_high: 55000
+    total_comp_low: 307000
+    total_comp_high: 485000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 145000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 178000
+    total_comp_high: 290000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Pre-Sales Technical` `Client-Facing Architecture`"
+---
 ### Solutions Architect | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Pre-Sales Technical` `Client-Facing Architecture`

@@ -1,3 +1,54 @@
+---
+company: cme-group
+company_display: CME Group
+role: model-hydration-platform-engineer
+role_display: Model Hydration Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 255000
+    base_high: 355000
+    stock_low: 90000
+    stock_high: 150000
+    bonus_low: 53000
+    bonus_high: 80000
+    total_comp_low: 398000
+    total_comp_high: 585000
+    currency: USD
+  - region: New York
+    base_low: 275000
+    base_high: 383000
+    stock_low: 97000
+    stock_high: 162000
+    bonus_low: 57000
+    bonus_high: 86000
+    total_comp_low: 429000
+    total_comp_high: 631000
+    currency: USD
+  - region: London
+    base_low: 198000
+    base_high: 276000
+    stock_low: 70000
+    stock_high: 117000
+    bonus_low: 41000
+    bonus_high: 62000
+    total_comp_low: 309000
+    total_comp_high: 455000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - LinkedIn
+negotiation_dna_summary: "`Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Model-Hydration Platform Architecture` `ML Data Pipeline Infrastructure` `Real-Time Inference Feeds` `Exchange Data Transformation` `AI-Optimized Data Products`"
+---
 ### Model Hydration Platform Engineer | CME Group Global Negotiation Guide
 
 # SIGNATURE ROLE

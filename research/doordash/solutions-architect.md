@@ -1,3 +1,48 @@
+---
+company: doordash
+company_display: DoorDash
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 182000
+    base_high: 228000
+    stock_low: 158000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 300000
+    currency: USD
+  - region: New York City
+    base_low: 182000
+    base_high: 228000
+    stock_low: 158000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 300000
+    currency: USD
+  - region: Sydney
+    base_low: 150000
+    base_high: 188000
+    stock_low: 103000
+    stock_high: 179000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 244000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: DoorDash SA = Google L4 Solutions = Uber Solutions Eng = Shopify SA = Instacart SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion"
+---
 ### Solutions Architect | DoorDash Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion

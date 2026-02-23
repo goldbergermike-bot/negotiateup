@@ -1,3 +1,59 @@
+---
+company: sea-group
+company_display: Sea Group
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 125000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 305000
+    currency: USD
+  - region: Bay Area / Seattle (US)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 70000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 350000
+    currency: USD
+  - region: "Shenzhen (R&D)"
+    base_low: 420000
+    base_high: 740000
+    stock_low: 160000
+    stock_high: 430000
+    bonus_pct: 10
+    total_comp_low: 580000
+    total_comp_high: 1070000
+    currency: CNY
+  - region: "Beijing (R&D)"
+    base_low: 400000
+    base_high: 710000
+    stock_low: 150000
+    stock_high: 410000
+    bonus_pct: 10
+    total_comp_low: 550000
+    total_comp_high: 1020000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Sea Group (L5-L7) = L4-L5 at Google, IC4-IC5 at Meta, ML Engineer at Shopify/Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$35B market cap with ML powering Shopee search/recommendations (2B+ orders), Garena game AI, and SeaMoney credit scoring + Unique cross-platform training data + Growth RSUs | Sea Group ML engineers optimize algorithms across e-commerce, gaming, and fintech | **CROSS-PLATFORM ML PREMIUM**"
+---
 ### ML/AI Engineer | Sea Group Global Negotiation Guide
 
 **Negotiation DNA:** $35B market cap with ML powering Shopee search/recommendations (2B+ orders), Garena game AI, and SeaMoney credit scoring + Unique cross-platform training data + Growth RSUs | Sea Group ML engineers optimize algorithms across e-commerce, gaming, and fintech | **CROSS-PLATFORM ML PREMIUM**

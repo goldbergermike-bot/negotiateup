@@ -1,3 +1,68 @@
+---
+company: tencent
+company_display: Tencent
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Los Angeles (US)
+    base_low: 165000
+    base_high: 235000
+    stock_low: 90000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 380000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 160000
+    base_high: 230000
+    stock_low: 85000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 370000
+    currency: USD
+  - region: Shenzhen (HQ)
+    base_low: 460000
+    base_high: 830000
+    stock_low: 180000
+    stock_high: 510000
+    bonus_pct: 20
+    total_comp_low: 690000
+    total_comp_high: 1350000
+    currency: CNY
+  - region: Beijing
+    base_low: 440000
+    base_high: 800000
+    stock_low: 170000
+    stock_high: 490000
+    bonus_pct: 20
+    total_comp_low: 660000
+    total_comp_high: 1300000
+    currency: CNY
+  - region: Singapore
+    base_low: 125000
+    base_high: 190000
+    stock_low: 60000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 175000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Tencent (T10-T11) = L5-L6 SA at Google Cloud, equivalent AWS SA, Principal SA at Microsoft"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$450B company expanding Tencent Cloud globally + Gaming platform partnerships with major studios + Enterprise solutions leveraging WeChat/WeCom ecosystem | SAs drive Tencent Cloud's international revenue growth | **CLOUD GROWTH PREMIUM**"
+---
 ### Solutions Architect | Tencent Global Negotiation Guide
 
 **Negotiation DNA:** $450B company expanding Tencent Cloud globally + Gaming platform partnerships with major studios + Enterprise solutions leveraging WeChat/WeCom ecosystem | SAs drive Tencent Cloud's international revenue growth | **CLOUD GROWTH PREMIUM**

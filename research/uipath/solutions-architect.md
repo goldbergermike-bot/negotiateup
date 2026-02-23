@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 168000
+    base_high: 235000
+    stock_low: 72000
+    stock_high: 190000
+    bonus_pct: 12
+    total_comp_low: 215000
+    total_comp_high: 340000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 148000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 295000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 48000
+    base_high: 80000
+    stock_low: 18000
+    stock_high: 50000
+    bonus_pct: 10
+    total_comp_low: 60000
+    total_comp_high: 108000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 80000
+    base_high: 122000
+    stock_low: 32000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 105000
+    total_comp_high: 170000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2800000
+    base_high: 5200000
+    stock_low: 1200000
+    stock_high: 3600000
+    bonus_pct: 10
+    total_comp_low: 3600000
+    total_comp_high: 6800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath SA (IC3/IC4) ~ Microsoft Power Platform Architect | Automation Anywhere SA | ServiceNow Solution Consultant | Salesforce Technical Architect"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Enterprise automation deployment specialist | RPA Center of Excellence architect | **ARCHITECTURE PREMIUM**"
+---
 ### Solutions Architect | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise automation deployment specialist | RPA Center of Excellence architect | **ARCHITECTURE PREMIUM**

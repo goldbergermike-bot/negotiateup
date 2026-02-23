@@ -1,3 +1,50 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 152000
+    base_high: 198000
+    stock_low: 95000
+    stock_high: 170000
+    bonus_pct: 5
+    total_comp_low: 183000
+    total_comp_high: 255000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 142000
+    base_high: 188000
+    stock_low: 85000
+    stock_high: 157000
+    bonus_pct: 5
+    total_comp_low: 171000
+    total_comp_high: 240000
+    currency: USD
+  - region: London / Berlin
+    base_low: 116000
+    base_high: 150000
+    stock_low: 72000
+    stock_high: 129000
+    bonus_pct: 5
+    total_comp_low: 139000
+    total_comp_high: 193000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs Product Designer = Google L4 UX = Meta IC4 Designer = Datadog Mid-Senior Designer = Elastic IC3 Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside"
+---
 ### Product Designer | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside

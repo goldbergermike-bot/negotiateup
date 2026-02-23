@@ -1,3 +1,48 @@
+---
+company: booking
+company_display: Booking
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 68000
+    base_high: 88000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_pct: 15
+    total_comp_low: 115000
+    total_comp_high: 168000
+    currency: EUR
+  - region: New York
+    base_low: 175000
+    base_high: 242000
+    stock_low: 50000
+    stock_high: 80000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 272000
+    currency: USD
+  - region: London
+    base_low: 62000
+    base_high: 82000
+    stock_low: 40000
+    stock_high: 60000
+    bonus_pct: 15
+    total_comp_low: 108000
+    total_comp_high: 155000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Booking.com Software Engineer = Google L3/L4 = Expedia SDE I/II = Airbnb Software Engineer = Meta E3/E4 = Amazon SDE I/II
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions"
+---
 ### Software Engineer | Booking.com Global Negotiation Guide
 
 **Negotiation DNA:** Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions

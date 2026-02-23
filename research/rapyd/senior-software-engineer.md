@@ -1,3 +1,48 @@
+---
+company: rapyd
+company_display: Rapyd
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 78000
+    base_high: 115000
+    stock_low: 55000
+    stock_high: 95000
+    bonus_pct: null
+    total_comp_low: 133000
+    total_comp_high: 210000
+    currency: GBP
+  - region: Tel Aviv (ILS)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Francisco (USD)
+    base_low: 165000
+    base_high: 220000
+    stock_low: 95000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Rapyd's Stablecoin Mainstream strategy, translating the Jan 2026 State of Stablecoins Report (34% business adoption) into a Senior Software Engineer compensation framework spanning London, Tel Aviv, and San Francisco markets."
+---
 ### Senior Software Engineer — Rapyd Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Rapyd's Stablecoin Mainstream strategy, translating the Jan 2026 State of Stablecoins Report (34% business adoption) into a Senior Software Engineer compensation framework spanning London, Tel Aviv, and San Francisco markets.

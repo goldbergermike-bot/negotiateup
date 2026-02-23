@@ -1,3 +1,51 @@
+---
+company: adobe
+company_display: Adobe
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 218000
+    base_high: 265000
+    stock_low: 300000
+    stock_high: 480000
+    bonus_pct: 12
+    total_comp_low: 318000
+    total_comp_high: 412000
+    currency: USD
+  - region: London
+    base_low: 142000
+    base_high: 172000
+    stock_low: 180000
+    stock_high: 288000
+    bonus_pct: 12
+    total_comp_low: 207000
+    total_comp_high: 268000
+    currency: GBP
+  - region: Bangalore
+    base_low: 6500000
+    base_high: 7900000
+    stock_low: 7500000
+    stock_high: 14400000
+    bonus_pct: 12
+    total_comp_low: 9500000
+    total_comp_high: 12300000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "Balanced Comp Model (Base + Equity + 12-18% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)"
+---
 ### Staff Software Engineer | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp Model (Base + Equity + 12-18% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)

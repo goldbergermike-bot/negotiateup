@@ -1,3 +1,50 @@
+---
+company: t-mobile
+company_display: T-Mobile
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue / Seattle
+    base_low: 185000
+    base_high: 260000
+    stock_low: 110000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 455000
+    currency: USD
+  - region: NYC / San Francisco
+    base_low: 190000
+    base_high: 265000
+    stock_low: 115000
+    stock_high: 290000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 470000
+    currency: USD
+  - region: Dallas / Denver
+    base_low: 175000
+    base_high: 248000
+    stock_low: 95000
+    stock_high: 255000
+    bonus_pct: 15
+    total_comp_low: 255000
+    total_comp_high: 420000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: T-Mobile Staff SWE (L7) = Google L6 = Meta E6 = Amazon Principal SDE = Microsoft 65-66 = Apple ICT5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$250B 5G Leader | Technical Strategy Owner | Platform + 5G Architecture Authority"
+---
 ### Staff Software Engineer | T-Mobile Global Negotiation Guide
 
 **Negotiation DNA:** $250B 5G Leader | Technical Strategy Owner | Platform + 5G Architecture Authority

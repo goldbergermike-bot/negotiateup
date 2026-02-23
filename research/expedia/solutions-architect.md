@@ -1,3 +1,48 @@
+---
+company: expedia
+company_display: Expedia
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 145000
+    base_high: 190000
+    stock_low: 95000
+    stock_high: 158000
+    bonus_pct: 15
+    total_comp_low: 188000
+    total_comp_high: 258000
+    currency: USD
+  - region: Austin
+    base_low: 132000
+    base_high: 172000
+    stock_low: 83000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 169000
+    total_comp_high: 232000
+    currency: USD
+  - region: London
+    base_low: 106000
+    base_high: 139000
+    stock_low: 70000
+    stock_high: 118000
+    bonus_pct: 15
+    total_comp_low: 138000
+    total_comp_high: 189000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Expedia Solutions Architect = Google Solutions Architect L5 = Booking.com Solutions Architect = Airbnb Technical Architect = Amazon Solutions Architect = Microsoft Solutions Architect 63/64
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | Architecture Scope Premium"
+---
 ### Solutions Architect | Expedia Global Negotiation Guide
 
 **Negotiation DNA:** Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | Architecture Scope Premium

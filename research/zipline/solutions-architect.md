@@ -1,3 +1,39 @@
+---
+company: zipline
+company_display: Zipline
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: South San Francisco / Bay Area
+    base_low: 158000
+    base_high: 218000
+    stock_low: 78000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 338000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 205000
+    stock_low: 68000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 312000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zipline SA (IC3-IC4) = Wing SA = Amazon Prime Air SA = Google L4-L5 SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Drone Delivery (Medical Supplies) | $4.2B Valuation | South San Francisco | **DRONE PARTNER INTEGRATION PREMIUM**"
+---
 ### Solutions Architect | Zipline Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Drone Delivery (Medical Supplies) | $4.2B Valuation | South San Francisco | **DRONE PARTNER INTEGRATION PREMIUM**

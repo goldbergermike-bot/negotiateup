@@ -1,3 +1,50 @@
+---
+company: atlassian
+company_display: Atlassian
+role: ai-teammate-platform-engineer
+role_display: AI Teammate Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 235000
+    base_high: 318000
+    stock_low: 250000
+    stock_high: 420000
+    bonus_pct: null
+    total_comp_low: 325000
+    total_comp_high: 465000
+    currency: AUD
+  - region: San Francisco
+    base_low: 190000
+    base_high: 240000
+    stock_low: 220000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 275000
+    total_comp_high: 385000
+    currency: USD
+  - region: Amsterdam
+    base_low: 125000
+    base_high: 172000
+    stock_low: 150000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 280000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P4 AI Teammate Eng = Google L5 AI = Meta E5 AI = Microsoft 64 AI = Anthropic Senior Research Eng = Datadog Staff ML
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Teammate (Rovo) Platform Architect | Guard Premium Governance + Agentic Workflow Automation | +20-30% AI Teammate Premium"
+---
 ### AI Teammate Platform Engineer | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Teammate (Rovo) Platform Architect | Guard Premium Governance + Agentic Workflow Automation | +20-30% AI Teammate Premium

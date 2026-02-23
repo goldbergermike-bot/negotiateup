@@ -1,3 +1,51 @@
+---
+company: andreessen-horowitz
+company_display: Andreessen Horowitz
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 310000
+    base_high: 405000
+    stock_low: null
+    stock_high: null
+    bonus_low: 322000
+    bonus_high: 510000
+    total_comp_low: 632000
+    total_comp_high: 915000
+    currency: USD
+  - region: San Francisco
+    base_low: 302000
+    base_high: 395000
+    stock_low: null
+    stock_high: null
+    bonus_low: 312000
+    bonus_high: 498000
+    total_comp_low: 614000
+    total_comp_high: 893000
+    currency: USD
+  - region: New York
+    base_low: 295000
+    base_high: 385000
+    stock_low: null
+    stock_high: null
+    bonus_low: 300000
+    bonus_high: 482000
+    total_comp_low: 595000
+    total_comp_high: 867000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Senior Carry Eligible` `$42B+ AUM` `+15-25% Premium` `Technical Leadership` `Architecture Owner`"
+---
 ### Staff Software Engineer | Andreessen Horowitz Global Negotiation Guide
 
 **Negotiation DNA:** `$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Senior Carry Eligible` `$42B+ AUM` `+15-25% Premium` `Technical Leadership` `Architecture Owner`

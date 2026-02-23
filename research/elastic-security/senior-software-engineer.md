@@ -1,3 +1,50 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 185000
+    base_high: 240000
+    stock_low: 160000
+    stock_high: 290000
+    bonus_pct: 5
+    total_comp_low: 252000
+    total_comp_high: 358000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 173000
+    base_high: 228000
+    stock_low: 145000
+    stock_high: 268000
+    bonus_pct: 5
+    total_comp_low: 237000
+    total_comp_high: 338000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 140000
+    base_high: 183000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 5
+    total_comp_low: 191000
+    total_comp_high: 271000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic Senior SWE IC4 = Google L5 = Meta E5 = CrowdStrike Senior SWE = Splunk Senior SWE = Sentinel Senior SDE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity"
+---
 ### Senior Software Engineer | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity

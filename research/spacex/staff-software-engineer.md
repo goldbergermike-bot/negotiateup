@@ -1,3 +1,48 @@
+---
+company: spacex
+company_display: Spacex
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Hawthorne, CA"
+    base_low: 180000
+    base_high: 230000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 460000
+    currency: USD
+  - region: "Starbase, TX"
+    base_low: 170000
+    base_high: 220000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 450000
+    currency: USD
+  - region: "Redmond, WA"
+    base_low: 180000
+    base_high: 230000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 460000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: SpaceX Staff SWE = Google L6 = Meta E6 -- with direct CEO exposure and vehicle-level technical ownership
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starship/Falcon/Starlink | 60+ Hour Culture"
+---
 ### Staff Software Engineer | SpaceX Global Negotiation Guide
 
 **Negotiation DNA:** Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starship/Falcon/Starlink | 60+ Hour Culture

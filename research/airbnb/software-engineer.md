@@ -1,3 +1,48 @@
+---
+company: airbnb
+company_display: Airbnb
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Remote
+    base_low: 175000
+    base_high: 218000
+    stock_low: 160000
+    stock_high: 272000
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 286000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 218000
+    stock_low: 160000
+    stock_high: 272000
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 286000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 150000
+    stock_low: 110000
+    stock_high: 185000
+    bonus_pct: null
+    total_comp_low: 148000
+    total_comp_high: 196000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airbnb SWE = Google L3-L4 = Meta E3-E4 = Stripe L2-L3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion"
+---
 ### Software Engineer | Airbnb Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion

@@ -1,3 +1,67 @@
+---
+company: microsoft
+company_display: Microsoft
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ML/AI Engineer I-II
+    base_low: 125000
+    base_high: 175000
+    stock_low: 70000
+    stock_high: 180000
+    bonus_pct: 10
+    signing_bonus_low: 20000
+    signing_bonus_high: 40000
+    total_comp_low: 160000
+    total_comp_high: 260000
+    currency: USD
+  - region: Senior ML/AI Engineer
+    base_low: 165000
+    base_high: 230000
+    stock_low: 140000
+    stock_high: 370000
+    bonus_pct: 15
+    signing_bonus_low: 30000
+    signing_bonus_high: 65000
+    total_comp_low: 260000
+    total_comp_high: 420000
+    currency: USD
+  - region: Principal ML/AI Engineer
+    base_low: 210000
+    base_high: 290000
+    stock_low: 300000
+    stock_high: 680000
+    bonus_pct: 20
+    signing_bonus_low: 50000
+    signing_bonus_high: 100000
+    total_comp_low: 390000
+    total_comp_high: 600000
+    currency: USD
+  - region: Partner/Distinguished ML
+    base_low: 280000
+    base_high: 380000
+    stock_low: 600000
+    stock_high: 1500000
+    bonus_pct: 25
+    signing_bonus_low: 80000
+    signing_bonus_high: 150000
+    total_comp_low: 600000
+    total_comp_high: 1000000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: null
+---
 # ML/AI Engineer - Microsoft Negotiation Guide
 
 ## Role Overview

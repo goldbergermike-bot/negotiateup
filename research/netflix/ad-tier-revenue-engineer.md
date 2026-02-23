@@ -1,3 +1,48 @@
+---
+company: netflix
+company_display: Netflix
+role: ad-tier-revenue-engineer
+role_display: Ad-Tier Revenue Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 285000
+    base_high: 358000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 285000
+    total_comp_high: 358000
+    currency: USD
+  - region: San Francisco
+    base_low: 294000
+    base_high: 369000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 294000
+    total_comp_high: 369000
+    currency: USD
+  - region: London
+    base_low: 217000
+    base_high: 273000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 217000
+    total_comp_high: 273000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Netflix Ad-Tier Revenue Engineer = Google Ads Engineer L5-L6 = Meta Ads Engineer (IC5-IC6) = Amazon Advertising Engineer III / Senior = The Trade Desk Staff Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture | **SIGNATURE ROLE** | **+15-25% AI PREMIUM**"
+---
 ### Ad-Tier Revenue Engineer | Netflix Global Negotiation Guide
 
 **Negotiation DNA:** All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture | **SIGNATURE ROLE** | **+15-25% AI PREMIUM**

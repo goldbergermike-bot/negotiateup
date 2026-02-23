@@ -1,3 +1,50 @@
+---
+company: salesforce
+company_display: Salesforce
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 235000
+    base_high: 280000
+    stock_low: 380000
+    stock_high: 600000
+    bonus_pct: null
+    total_comp_low: 330000
+    total_comp_high: 430000
+    currency: USD
+  - region: Indianapolis
+    base_low: 210000
+    base_high: 255000
+    stock_low: 330000
+    stock_high: 520000
+    bonus_pct: null
+    total_comp_low: 293000
+    total_comp_high: 385000
+    currency: USD
+  - region: Hyderabad
+    base_low: 5000000
+    base_high: 7200000
+    stock_low: 4000000
+    stock_high: 6500000
+    bonus_pct: null
+    total_comp_low: 9000000
+    total_comp_high: 13700000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Salesforce PMTS = Google L5 = Meta E5 = Stripe L4 = Snowflake Senior Staff
+data_sources:
+  - Levels.fyi
+  - LinkedIn
+  - Blind
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Agentforce Consumption Inflection"
+---
 ### Staff Software Engineer | Salesforce Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Agentforce Consumption Inflection

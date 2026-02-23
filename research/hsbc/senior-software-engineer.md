@@ -1,3 +1,51 @@
+---
+company: hsbc
+company_display: HSBC
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 110000
+    base_high: 152000
+    stock_low: 48000
+    stock_high: 72000
+    bonus_low: 21000
+    bonus_high: 32000
+    total_comp_low: 178000
+    total_comp_high: 256000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 875000
+    base_high: 1210000
+    stock_low: 475000
+    stock_high: 720000
+    bonus_low: 430000
+    bonus_high: 630000
+    total_comp_low: 1780000
+    total_comp_high: 2560000
+    currency: HKD
+  - region: Singapore
+    base_low: 190000
+    base_high: 263000
+    stock_low: 82000
+    stock_high: 124000
+    bonus_low: 36000
+    bonus_high: 55000
+    total_comp_low: 308000
+    total_comp_high: 443000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Technical Leadership` `System Design` `Platform Architecture`"
+---
 ### Senior Software Engineer | HSBC Global Negotiation Guide
 
 **Negotiation DNA:** `Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Technical Leadership` `System Design` `Platform Architecture`

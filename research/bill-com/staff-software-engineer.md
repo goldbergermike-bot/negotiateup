@@ -1,3 +1,53 @@
+---
+company: bill-com
+company_display: Bill.com
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 210000
+    base_high: 265000
+    stock_low: 220000
+    stock_high: 400000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 460000
+    total_comp_high: 720000
+    currency: USD
+  - region: Houston TX
+    base_low: 185000
+    base_high: 235000
+    stock_low: 180000
+    stock_high: 330000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 390000
+    total_comp_high: 610000
+    currency: USD
+  - region: Salt Lake City UT
+    base_low: 175000
+    base_high: 225000
+    stock_low: 160000
+    stock_high: 310000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 357000
+    total_comp_high: 577000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| BILL | Google | Meta | Stripe | PayPal | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: BILL` `Agentic AP` `Staff Software Engineer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Technical Leadership`"
+---
 ### Staff Software Engineer | Bill.com Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: BILL` `Agentic AP` `Staff Software Engineer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Technical Leadership`

@@ -1,3 +1,51 @@
+---
+company: starling-bank
+company_display: Starling Bank
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 65000
+    base_high: 82000
+    stock_low: 10000
+    stock_high: 18000
+    bonus_low: 7000
+    bonus_high: 12000
+    total_comp_low: 82000
+    total_comp_high: 112000
+    currency: GBP
+  - region: Cardiff
+    base_low: 55000
+    base_high: 70000
+    stock_low: 9000
+    stock_high: 15000
+    bonus_low: 6000
+    bonus_high: 10000
+    total_comp_low: 70000
+    total_comp_high: 95000
+    currency: GBP
+  - region: Southampton
+    base_low: 57000
+    base_high: 72000
+    stock_low: 9000
+    stock_high: 16000
+    bonus_low: 6000
+    bonus_high: 11000
+    total_comp_low: 72000
+    total_comp_high: 99000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Risk Modelling` `Enterprise Analytics` `ML/Statistical Models`"
+---
 ### Data Scientist | Starling Bank Global Negotiation Guide
 
 **Negotiation DNA:** `Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Risk Modelling` `Enterprise Analytics` `ML/Statistical Models`

@@ -1,3 +1,49 @@
+---
+company: valve
+company_display: Valve
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue WA
+    base_low: 155000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 390000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 142000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 365000
+    currency: USD
+  - region: N/A — Valve is Bellevue-only
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Valve Designer (no levels) ~ Google L4-L5 UX = Apple ICT4 Design
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue"
+---
 ### Product Designer | Valve Global Negotiation Guide
 
 **Negotiation DNA:** Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue

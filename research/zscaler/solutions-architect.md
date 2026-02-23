@@ -1,3 +1,47 @@
+---
+company: zscaler
+company_display: Zscaler
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 370000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2800000
+    total_comp_high: 8200000
+    currency: INR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 180000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Solutions Architects at Zscaler bridge the gap between the Zero Trust Exchange and enterprise customer outcomes — where the $1B+ Zero Trust Everywhere milestone and 80% AI growth demand architects who position AI Guard as the foundation of modern security."
+---
 ### Solutions Architect — Zscaler Salary Negotiation Guide
 
 **Negotiation DNA**: Solutions Architects at Zscaler bridge the gap between the Zero Trust Exchange and enterprise customer outcomes — where the $1B+ Zero Trust Everywhere milestone and 80% AI growth demand architects who position AI Guard as the foundation of modern security.

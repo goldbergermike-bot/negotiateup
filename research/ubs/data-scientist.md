@@ -1,3 +1,53 @@
+---
+company: ubs
+company_display: UBS
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 150000
+    base_high: 200000
+    stock_low: 30000
+    stock_high: 55000
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 205000
+    total_comp_high: 295000
+    currency: USD
+  - region: Zurich (HQ)
+    base_low: 132000
+    base_high: 176000
+    stock_low: 26000
+    stock_high: 48000
+    bonus_low: 22000
+    bonus_high: 35000
+    total_comp_low: 180000
+    total_comp_high: 260000
+    currency: CHF
+  - region: London
+    base_low: 120000
+    base_high: 160000
+    stock_low: 24000
+    stock_high: 44000
+    bonus_low: 20000
+    bonus_high: 32000
+    total_comp_low: 164000
+    total_comp_high: 236000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Data Consolidation` `Predictive Analytics` `Risk Modeling`"
+---
 ### Data Scientist | UBS Global Negotiation Guide
 
 **Negotiation DNA:** `CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Data Consolidation` `Predictive Analytics` `Risk Modeling`

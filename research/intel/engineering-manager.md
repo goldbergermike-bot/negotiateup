@@ -1,3 +1,48 @@
+---
+company: intel
+company_display: Intel
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 175000
+    base_high: 230000
+    stock_low: 90000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 258000
+    total_comp_high: 358000
+    currency: USD
+  - region: Portland
+    base_low: 165000
+    base_high: 218000
+    stock_low: 80000
+    stock_high: 145000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 335000
+    currency: USD
+  - region: Phoenix
+    base_low: 155000
+    base_high: 205000
+    stock_low: 72000
+    stock_high: 130000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 315000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Intel Engineering Manager (Grade 8-9) = AMD Engineering Manager = NVIDIA Engineering Manager = Google L6 Engineering Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + INTC RSUs (4yr vest) + Bonus (15-20%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages"
+---
 ### Engineering Manager | Intel Global Negotiation Guide
 
 **Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (15-20%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages

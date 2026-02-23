@@ -1,3 +1,48 @@
+---
+company: databricks
+company_display: Databricks
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 225000
+    stock_low: 162000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 182000
+    base_high: 232000
+    stock_low: 162000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 218000
+    stock_low: 162000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 332000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Databricks DE (IC2-IC3) = Snowflake DE = Google DE L3-L4 = Meta DE (E4) = Amazon DE L4-L5 = Microsoft DE 60-61
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Data Engineer | Databricks Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**

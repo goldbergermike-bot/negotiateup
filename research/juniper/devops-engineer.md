@@ -1,3 +1,49 @@
+---
+company: juniper
+company_display: Juniper
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 128000
+    base_high: 168000
+    stock_low: 25000
+    stock_high: 45000
+    bonus_pct: 8
+    total_comp_low: 180000
+    total_comp_high: 232000
+    currency: USD
+  - region: Westford (MA)
+    base_low: 118000
+    base_high: 155000
+    stock_low: 22000
+    stock_high: 40000
+    bonus_pct: 8
+    total_comp_low: 168000
+    total_comp_high: 215000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 150000
+    stock_low: 20000
+    stock_high: 38000
+    bonus_pct: 8
+    total_comp_low: 168000
+    total_comp_high: 208000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Juniper DevOps Engineer (IC2–IC3) = Google L3–L5 SRE | Meta Production Engineer | Amazon Systems Development Engineer II–III | Cisco DevOps Engineer–Senior | HPE Cloud Operations Engineer (IC3–IC4)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | Infrastructure Automation Tier"
+---
 ### DevOps Engineer | Juniper Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | Infrastructure Automation Tier

@@ -1,3 +1,49 @@
+---
+company: tableau
+company_display: Tableau
+role: data-visualization-engineer
+role_display: Data Visualization Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle HQ
+    base_low: 160000
+    base_high: 220000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 335000
+    currency: USD
+  - region: San Francisco
+    base_low: 165000
+    base_high: 225000
+    stock_low: 85000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tableau Data Viz Eng (Senior) = Salesforce LMTS = Google L4 = Meta E4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Salesforce Subsidiary ($15.7B Acquisition) | Data Visualization Leader | **SIGNATURE ROLE** | Liquid RSUs"
+---
 ### Data Visualization Engineer | Tableau Global Negotiation Guide
 
 **Negotiation DNA:** Salesforce Subsidiary ($15.7B Acquisition) | Data Visualization Leader | **SIGNATURE ROLE** | Liquid RSUs

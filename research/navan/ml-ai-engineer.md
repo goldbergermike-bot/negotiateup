@@ -1,3 +1,53 @@
+---
+company: navan
+company_display: Navan
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 260000
+    stock_low: 65000
+    stock_high: 135000
+    bonus_low: 18000
+    bonus_high: 40000
+    total_comp_low: 268000
+    total_comp_high: 435000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 255000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 16000
+    bonus_high: 38000
+    total_comp_low: 256000
+    total_comp_high: 423000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 165000
+    stock_low: 40000
+    stock_high: 85000
+    bonus_low: 11000
+    bonus_high: 25000
+    total_comp_low: 166000
+    total_comp_high: 275000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Navan | Google | Meta | Stripe | Brex | Airbnb |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `Machine Learning` `Ava AI`"
+---
 ### ML/AI Engineer | Navan Global Negotiation Guide
 
 **Negotiation DNA:** `Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `Machine Learning` `Ava AI`

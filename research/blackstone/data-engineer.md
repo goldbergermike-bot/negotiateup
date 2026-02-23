@@ -1,3 +1,51 @@
+---
+company: blackstone
+company_display: Blackstone
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 190000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_low: 52000
+    bonus_high: 82000
+    total_comp_low: 310000
+    total_comp_high: 445000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_low: 46000
+    bonus_high: 72000
+    total_comp_low: 282000
+    total_comp_high: 405000
+    currency: GBP
+  - region: Miami
+    base_low: 180000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_low: 48000
+    bonus_high: 76000
+    total_comp_low: 295000
+    total_comp_high: 425000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `Data Platform` `Pipeline Architecture` `Alternative Data Infrastructure`"
+---
 ### Data Engineer | Blackstone Global Negotiation Guide
 
 **Negotiation DNA:** `$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `Data Platform` `Pipeline Architecture` `Alternative Data Infrastructure`

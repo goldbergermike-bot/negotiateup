@@ -1,3 +1,39 @@
+---
+company: opendoor
+company_display: Opendoor
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 152000
+    base_high: 210000
+    stock_low: 58000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 305000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 198000
+    stock_low: 50000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Opendoor Security (IC2-IC3) = Zillow Security = Redfin Security = Google L3-L4 Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | iBuying + Real Estate Technology | ~$3B Market Cap (Public: OPEN) | San Francisco | **REAL ESTATE SECURITY PREMIUM**"
+---
 ### Security Engineer | Opendoor Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | iBuying + Real Estate Technology | ~$3B Market Cap (Public: OPEN) | San Francisco | **REAL ESTATE SECURITY PREMIUM**

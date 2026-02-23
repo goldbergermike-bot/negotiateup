@@ -1,3 +1,39 @@
+---
+company: gitlab
+company_display: Gitlab
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (All-Remote)
+    base_low: 135000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 275000
+    currency: USD
+  - region: San Francisco Benchmark
+    base_low: 140000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: GitLab Senior Designer = GitHub Senior Designer = Atlassian Senior Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Public ($8B Market Cap) | All-Remote | DevSecOps Platform | Transparent Comp"
+---
 ### Product Designer | GitLab Global Negotiation Guide
 
 **Negotiation DNA:** Public ($8B Market Cap) | All-Remote | DevSecOps Platform | Transparent Comp

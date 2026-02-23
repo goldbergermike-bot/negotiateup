@@ -1,3 +1,48 @@
+---
+company: trellix
+company_display: Trellix
+role: xdr-platform-engineer
+role_display: XDR Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Milpitas/Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 323000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2200000
+    total_comp_high: 9000000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "XDR Platform Engineers at Trellix build the core extended detection and response platform that unifies endpoint security (from McAfee Enterprise), network security, email security, and cloud security with FireEye's world-class threat intelligence into a single correlated detection and response framework."
+---
 ### XDR Platform Engineer — Trellix Salary Negotiation Guide
 
 **Negotiation DNA**: XDR Platform Engineers at Trellix build the core extended detection and response platform that unifies endpoint security (from McAfee Enterprise), network security, email security, and cloud security with FireEye's world-class threat intelligence into a single correlated detection and response framework.

@@ -1,3 +1,53 @@
+---
+company: marqeta
+company_display: Marqeta
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland CA
+    base_low: 185000
+    base_high: 235000
+    stock_low: 140000
+    stock_high: 240000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 345000
+    total_comp_high: 510000
+    currency: USD
+  - region: New York NY
+    base_low: 190000
+    base_high: 240000
+    stock_low: 140000
+    stock_high: 240000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 350000
+    total_comp_high: 515000
+    currency: USD
+  - region: Remote US
+    base_low: 170000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_low: 18000
+    bonus_high: 30000
+    total_comp_low: 308000
+    total_comp_high: 445000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Marqeta | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: MQ` `Embedded 2.0` `Modern Card Issuing` `Just-in-Time Funding` `Infrastructure Orchestrator` `Water Economy` `Fintech Platform` `API-First` `Payments Infrastructure` `Senior IC`"
+---
 ### Senior Software Engineer | Marqeta Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: MQ` `Embedded 2.0` `Modern Card Issuing` `Just-in-Time Funding` `Infrastructure Orchestrator` `Water Economy` `Fintech Platform` `API-First` `Payments Infrastructure` `Senior IC`

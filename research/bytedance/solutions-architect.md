@@ -1,3 +1,59 @@
+---
+company: bytedance
+company_display: Bytedance
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Mountain View (US)
+    base_low: 175000
+    base_high: 245000
+    stock_low: 110000
+    stock_high: 310000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 425000
+    currency: USD
+  - region: New York City / Los Angeles (US)
+    base_low: 170000
+    base_high: 240000
+    stock_low: 105000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 255000
+    total_comp_high: 415000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 500000
+    base_high: 880000
+    stock_low: 240000
+    stock_high: 620000
+    bonus_pct: 20
+    total_comp_low: 790000
+    total_comp_high: 1500000
+    currency: CNY
+  - region: Singapore
+    base_low: 135000
+    base_high: 210000
+    stock_low: 70000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at ByteDance (2-1 to 2-2) = L5-L6 SA at Google, equivalent AWS SA, SA at Meta Business"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Private $225B+ with TikTok For Business (advertising platform) and Lark Enterprise driving B2B growth + TikTok Shop partner integrations + FAANG-competitive SA comp | ByteDance SAs drive enterprise and advertising platform adoption | **ADVERTISING PLATFORM PREMIUM**"
+---
 ### Solutions Architect | ByteDance Global Negotiation Guide
 
 **Negotiation DNA:** Private $225B+ with TikTok For Business (advertising platform) and Lark Enterprise driving B2B growth + TikTok Shop partner integrations + FAANG-competitive SA comp | ByteDance SAs drive enterprise and advertising platform adoption | **ADVERTISING PLATFORM PREMIUM**

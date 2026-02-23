@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: lpu-inference-platform-engineer
+role_display: LPU Inference Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 210000
+    base_high: 272000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 282000
+    total_comp_high: 395000
+    currency: USD
+  - region: San Diego
+    base_low: 195000
+    base_high: 255000
+    stock_low: 50000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 372000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 242000
+    stock_low: 45000
+    stock_high: 82000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq LPU Inference Platform Engineer ≈ Google Compiler/Runtime Engineer L5–L6 · NVIDIA CUDA Platform Engineer (Senior/Staff) · Meta Inference Platform Engineer E5–E6 · Intel Compiler Engineer (Senior/Principal) · Cerebras Platform Engineer · AWS Inferentia Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | SIGNATURE ROLE | +25-35% LPU Premium"
+---
 ### LPU Inference Platform Engineer | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | SIGNATURE ROLE | +25-35% LPU Premium

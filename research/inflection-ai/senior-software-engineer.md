@@ -1,3 +1,53 @@
+---
+company: inflection-ai
+company_display: Inflection AI
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 195000
+    base_high: 260000
+    stock_low: 140000
+    stock_high: 370000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 230000
+    total_comp_high: 358000
+    currency: USD
+  - region: Seattle
+    base_low: 189000
+    base_high: 252000
+    stock_low: 140000
+    stock_high: 370000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 224000
+    total_comp_high: 347000
+    currency: USD
+  - region: Remote US
+    base_low: 176000
+    base_high: 234000
+    stock_low: 126000
+    stock_high: 333000
+    bonus_low: 16000
+    bonus_high: 32000
+    total_comp_low: 207000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Inflection Senior SWE = Microsoft L63-L64 = Google L5 = Meta E5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | Pi AI Assistant"
+---
 ### Senior Software Engineer | Inflection AI Global Negotiation Guide
 
 **Negotiation DNA:** Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | Pi AI Assistant

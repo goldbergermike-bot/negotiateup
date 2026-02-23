@@ -1,3 +1,39 @@
+---
+company: walmart-global-tech
+company_display: Walmart Global Tech
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bentonville AR (HQ)
+    base_low: 122000
+    base_high: 175000
+    stock_low: 42000
+    stock_high: 142000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 250000
+    currency: USD
+  - region: Bay Area (Sunnyvale)
+    base_low: 135000
+    base_high: 190000
+    stock_low: 52000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 273000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Walmart Global Tech DevOps = Google SRE L3-L4 = Amazon Systems Engineer = Meta Production Engineer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage"
+---
 ### DevOps Engineer | Walmart Global Tech Global Negotiation Guide
 
 **Negotiation DNA:** Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage

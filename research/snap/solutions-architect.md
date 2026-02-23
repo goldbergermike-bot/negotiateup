@@ -1,3 +1,49 @@
+---
+company: snap
+company_display: Snap
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 148000
+    base_high: 188000
+    stock_low: 145000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 265000
+    currency: USD
+  - region: San Francisco
+    base_low: 156000
+    base_high: 198000
+    stock_low: 152000
+    stock_high: 252000
+    bonus_pct: 10
+    total_comp_low: 206000
+    total_comp_high: 280000
+    currency: USD
+  - region: New York
+    base_low: 153000
+    base_high: 195000
+    stock_low: 150000
+    stock_high: 248000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 276000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snap Solutions Architect (L4–L6) = Google Cloud Solutions Architect = Meta Solutions Engineer = Apple Platform Architect = Amazon Solutions Architect = Microsoft Azure Solutions Architect (62-65)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | AR Platform Integration Premium"
+---
 ### Solutions Architect | Snap Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | AR Platform Integration Premium

@@ -1,3 +1,50 @@
+---
+company: atlassian
+company_display: Atlassian
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 195000
+    base_high: 278000
+    stock_low: 167000
+    stock_high: 332000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 395000
+    currency: AUD
+  - region: San Francisco
+    base_low: 162000
+    base_high: 205000
+    stock_low: 152000
+    stock_high: 255000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 290000
+    currency: USD
+  - region: Amsterdam
+    base_low: 95000
+    base_high: 140000
+    stock_low: 95000
+    stock_high: 175000
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 210000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P3 Senior DS = Google L4 DS = Meta IC4 DS = Microsoft 62 DS = Datadog Senior DS
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage"
+---
 ### Data Scientist | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage

@@ -1,3 +1,49 @@
+---
+company: electronic-arts
+company_display: Electronic Arts
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 145000
+    base_high: 205000
+    stock_low: 60000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 295000
+    currency: USD
+  - region: Orlando
+    base_low: 125000
+    base_high: 180000
+    stock_low: 50000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 258000
+    currency: USD
+  - region: Bucharest
+    base_low: 45000
+    base_high: 70000
+    stock_low: 15000
+    stock_high: 35000
+    bonus_pct: 10
+    total_comp_low: 64000
+    total_comp_high: 110000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: EA TPM ICT3 = Google L4 TPM = Amazon L6 TPM = Microsoft 63 TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "RSU + Bonus | Sports-Gaming Revenue Machine"
+---
 ### Technical Program Manager | Electronic Arts Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Sports-Gaming Revenue Machine

@@ -1,3 +1,50 @@
+---
+company: vercel
+company_display: Vercel
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 230000
+    stock_low: 180000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 280000
+    total_comp_high: 415000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 230000
+    stock_low: 180000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 280000
+    total_comp_high: 415000
+    currency: USD
+  - region: London
+    base_low: 133000
+    base_high: 175000
+    stock_low: 137000
+    stock_high: 266000
+    bonus_pct: 10
+    total_comp_low: 213000
+    total_comp_high: 316000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Vercel PM = Google L5 PM = Meta IC5 PM = Stripe PM = Datadog Senior PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strategy-Premium Base + Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI-Native Product Strategy"
+---
 ### Product Manager | Vercel Global Negotiation Guide
 
 **Negotiation DNA:** Strategy-Premium Base + Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI-Native Product Strategy

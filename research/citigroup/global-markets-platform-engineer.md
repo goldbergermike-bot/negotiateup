@@ -1,3 +1,50 @@
+---
+company: citigroup
+company_display: Citigroup
+role: global-markets-platform-engineer
+role_display: Global Markets Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 160000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 225000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 160000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 155000
+    total_comp_high: 270000
+    currency: GBP
+  - region: Singapore
+    base_low: 150000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 205000
+    total_comp_high: 340000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: "Global Markets Platform Engineer at Citi (VP/Director) = L5-L6 at Google, E5-E6 at Meta, SDE III-Principal at Amazon, VP/SVP at Goldman Sachs, VP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$130B market cap global bank + 160+ country operations = unmatched scale + NYC HQ competitive tech hiring + Trading platform engineering premium | Citi pays top-of-bank for markets technology talent | **GLOBAL MARKETS PREMIUM**"
+---
 ### Global Markets Platform Engineer | Citigroup Global Negotiation Guide
 
 **Negotiation DNA:** $130B market cap global bank + 160+ country operations = unmatched scale + NYC HQ competitive tech hiring + Trading platform engineering premium | Citi pays top-of-bank for markets technology talent | **GLOBAL MARKETS PREMIUM**

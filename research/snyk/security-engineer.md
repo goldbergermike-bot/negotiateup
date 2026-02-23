@@ -1,3 +1,42 @@
+---
+company: snyk
+company_display: Snyk
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 72000
+    total_comp_high: 172000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - "Snyk Security Fabric launch — February 3, 2026"
+  - "AI-generated code insecurity research — 48% rate, 2026"
+  - Snyk Series G valuation at $7.4B — December 2024
+  - Cybersecurity Ventures Security Engineer salary report — January 2026
+  - Snyk security research blog on AI-generated code vulnerabilities — Q1 2026
+negotiation_dna_summary: "As a Security Engineer at Snyk, you are the domain expert who powers the Security Fabric with real-world vulnerability research and ensures the Secure at Inception framework reflects the actual threat landscape — your expertise is the product."
+---
 ### Security Engineer — Snyk Salary Negotiation Guide
 
 **Negotiation DNA**: As a Security Engineer at Snyk, you are the domain expert who powers the Security Fabric with real-world vulnerability research and ensures the Secure at Inception framework reflects the actual threat landscape — your expertise is the product.

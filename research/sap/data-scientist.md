@@ -1,3 +1,69 @@
+---
+company: sap
+company_display: Sap
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 150000
+    base_high: 210000
+    stock_low: 60000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 305000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 130000
+    base_high: 185000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 260000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 85000
+    base_high: 130000
+    stock_low: 35000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 185000
+    currency: EUR
+  - region: UK (London)
+    base_low: 75000
+    base_high: 115000
+    stock_low: 30000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 100000
+    total_comp_high: 165000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2500000
+    base_high: 4800000
+    stock_low: 1200000
+    stock_high: 3500000
+    bonus_pct: 10
+    total_comp_low: 3500000
+    total_comp_high: 6500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP T2/T3 (DS) ~ Google L4/L5 DS | Microsoft 62/63 DS | Amazon L5/L6 DS | Salesforce Senior/Lead DS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Enterprise analytics & predictive intelligence specialist | SAP Analytics Cloud & BTP ML expertise | **ANALYTICS PREMIUM**"
+---
 ### Data Scientist | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise analytics & predictive intelligence specialist | SAP Analytics Cloud & BTP ML expertise | **ANALYTICS PREMIUM**

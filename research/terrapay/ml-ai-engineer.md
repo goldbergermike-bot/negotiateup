@@ -1,3 +1,52 @@
+---
+company: terrapay
+company_display: Terrapay
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam (EUR)
+    base_low: 82000
+    base_high: 120000
+    stock_low: 50000
+    stock_high: 115000
+    bonus_pct: null
+    total_comp_low: 132000
+    total_comp_high: 235000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 100000
+    base_high: 148000
+    stock_low: 60000
+    stock_high: 138000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 286000
+    currency: SGD
+  - region: New York (USD)
+    base_low: 150000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 175000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - "TerraPay MilX Creator Payout Launch — Jan 28, 2026 — ML Routing Engine"
+  - "TerraPay Global Payments Highway — 7.5B+ Accounts, 130+ Countries"
+  - TerraPay Botim Super-App Partnership — Consumer Fraud Detection
+  - Thunes / Nium / Wise / Adyen ML/AI Compensation
+  - "TerraPay Private Valuation & ML-Level Options Data"
+  - Payments ML/AI Engineering Talent Market
+negotiation_dna_summary: "This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a machine learning and AI engineering compensation framework spanning Amsterdam, Singapore, and New York markets."
+---
 ### ML/AI Engineer — TerraPay Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a machine learning and AI engineering compensation framework spanning Amsterdam, Singapore, and New York markets.

@@ -1,3 +1,50 @@
+---
+company: hashicorp-terraform
+company_display: HashiCorp Terraform
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 230000
+    base_high: 285000
+    stock_low: 300000
+    stock_high: 500000
+    bonus_pct: 10
+    total_comp_low: 340000
+    total_comp_high: 480000
+    currency: USD
+  - region: Austin / Denver
+    base_low: 218000
+    base_high: 270000
+    stock_low: 275000
+    stock_high: 460000
+    bonus_pct: 10
+    total_comp_low: 320000
+    total_comp_high: 450000
+    currency: USD
+  - region: London
+    base_low: 175000
+    base_high: 217000
+    stock_low: 228000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 365000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: HashiCorp Staff SWE = Google L6 = Meta E6 = IBM Band 10 / STSM = AWS Principal SDE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)"
+---
 ### Staff Software Engineer | HashiCorp (Terraform) Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)

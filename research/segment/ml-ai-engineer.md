@@ -1,3 +1,48 @@
+---
+company: segment
+company_display: Segment
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 188000
+    base_high: 228000
+    stock_low: 145000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 355000
+    currency: USD
+  - region: New York
+    base_low: 182000
+    base_high: 222000
+    stock_low: 138000
+    stock_high: 258000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 342000
+    currency: USD
+  - region: London
+    base_low: 132000
+    base_high: 165000
+    stock_low: 102000
+    stock_high: 188000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 248000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Segment ML/AI = Google L4-L5 ML = Meta ML E5 = Salesforce Einstein ML = mParticle AI Lead
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Top-Tier Twilio RSU + Signing Bonus | AI-Native Customer Data Intelligence 2026"
+---
 ### ML/AI Engineer | Segment Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier Twilio RSU + Signing Bonus | AI-Native Customer Data Intelligence 2026

@@ -1,3 +1,32 @@
+---
+company: two-sigma
+company_display: Two Sigma
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 195000
+    base_high: 270000
+    stock_low: null
+    stock_high: null
+    bonus_low: 156000
+    bonus_high: 405000
+    total_comp_low: 351000
+    total_comp_high: 675000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Two Sigma = L6-L7 at Google, E6-E7 at Meta, Principal SA at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-150%+ | Two Sigma SAs design architecture for investment-grade systems | **ELITE QUANT ARCHITECTURE PREMIUM**"
+---
 ### Solutions Architect | Two Sigma Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-150%+ | Two Sigma SAs design architecture for investment-grade systems | **ELITE QUANT ARCHITECTURE PREMIUM**

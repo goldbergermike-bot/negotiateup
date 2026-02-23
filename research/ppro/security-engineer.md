@@ -1,3 +1,48 @@
+---
+company: ppro
+company_display: Ppro
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 75000
+    base_high: 110000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: null
+    total_comp_low: 100000
+    total_comp_high: 160000
+    currency: GBP
+  - region: Munich (EUR)
+    base_low: 80000
+    base_high: 115000
+    stock_low: 23000
+    stock_high: 48000
+    bonus_pct: null
+    total_comp_low: 103000
+    total_comp_high: 163000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 100000
+    base_high: 145000
+    stock_low: 32000
+    stock_high: 65000
+    bonus_pct: null
+    total_comp_low: 132000
+    total_comp_high: 210000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a security engineering compensation framework spanning London, Munich, and Singapore markets."
+---
 ### Security Engineer — PPRO Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a security engineering compensation framework spanning London, Munich, and Singapore markets.

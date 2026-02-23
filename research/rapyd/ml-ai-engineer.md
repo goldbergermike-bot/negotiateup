@@ -1,3 +1,48 @@
+---
+company: rapyd
+company_display: Rapyd
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 82000
+    base_high: 128000
+    stock_low: 52000
+    stock_high: 105000
+    bonus_pct: null
+    total_comp_low: 134000
+    total_comp_high: 233000
+    currency: GBP
+  - region: Tel Aviv (ILS)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Francisco (USD)
+    base_low: 168000
+    base_high: 240000
+    stock_low: 92000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 420000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Rapyd's Stablecoin Mainstream strategy, translating the Jan 2026 State of Stablecoins Report (34% business adoption) into an ML/AI Engineer compensation framework spanning London, Tel Aviv, and San Francisco markets."
+---
 ### ML/AI Engineer — Rapyd Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Rapyd's Stablecoin Mainstream strategy, translating the Jan 2026 State of Stablecoins Report (34% business adoption) into an ML/AI Engineer compensation framework spanning London, Tel Aviv, and San Francisco markets.

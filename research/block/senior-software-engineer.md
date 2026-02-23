@@ -1,3 +1,53 @@
+---
+company: block
+company_display: Block (Square)
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 190000
+    base_high: 240000
+    stock_low: 200000
+    stock_high: 350000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 280000
+    total_comp_high: 430000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 235000
+    stock_low: 190000
+    stock_high: 330000
+    bonus_low: 19000
+    bonus_high: 38000
+    total_comp_low: 270000
+    total_comp_high: 415000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 150000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 175000
+    total_comp_high: 275000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Block | Google | Meta | Stripe | PayPal | Coinbase |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L5-Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents`"
+---
 ### Senior Software Engineer | Block Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L5-Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents`

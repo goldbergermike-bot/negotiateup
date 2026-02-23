@@ -1,3 +1,50 @@
+---
+company: sambanova
+company_display: Sambanova
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 220000
+    base_high: 280000
+    stock_low: 55000
+    stock_high: 105000
+    bonus_pct: 12
+    total_comp_low: 298000
+    total_comp_high: 418000
+    currency: USD
+  - region: Austin
+    base_low: 198000
+    base_high: 252000
+    stock_low: 45000
+    stock_high: 88000
+    bonus_pct: 12
+    total_comp_low: 268000
+    total_comp_high: 375000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 242000
+    stock_low: 42000
+    stock_high: 82000
+    bonus_pct: 12
+    total_comp_low: 255000
+    total_comp_high: 358000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SambaNova Staff SWE (L6) ~ Google L6 | Meta E6 | Amazon Principal SDE | Apple ICT5 | Microsoft 65–67"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +30% Agentic Orchestrator Premium"
+---
 ### Staff Software Engineer | SambaNova Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +30% Agentic Orchestrator Premium

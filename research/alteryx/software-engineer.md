@@ -1,3 +1,40 @@
+---
+company: alteryx
+company_display: Alteryx
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine HQ
+    base_low: 135000
+    base_high: 190000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 270000
+    currency: USD
+  - region: Remote US
+    base_low: 120000
+    base_high: 175000
+    stock_low: 40000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Alteryx SWE = Dataiku SWE = Tableau SWE = Google L3
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium"
+---
 ### Software Engineer | Alteryx Global Negotiation Guide
 
 **Negotiation DNA:** Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium

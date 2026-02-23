@@ -1,3 +1,48 @@
+---
+company: retool
+company_display: Retool
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 200000
+    stock_low: 125000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 288000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 195000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 278000
+    currency: USD
+  - region: London
+    base_low: 102000
+    base_high: 132000
+    stock_low: 82000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 190000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Retool SWE (L3-L4) = Google SWE L4-L5 = Meta SWE E4-E5 = Vercel SWE = Appsmith SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | Internal Tools & AI Workflow Platform | 30K+ Companies | **RETOOL AI PREMIUM**"
+---
 ### Software Engineer | Retool Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | Internal Tools & AI Workflow Platform | 30K+ Companies | **RETOOL AI PREMIUM**

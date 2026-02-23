@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 232000
+    stock_low: 215000
+    stock_high: 378000
+    bonus_pct: null
+    total_comp_low: 239000
+    total_comp_high: 326000
+    currency: USD
+  - region: Seattle
+    base_low: 178000
+    base_high: 225000
+    stock_low: 215000
+    stock_high: 378000
+    bonus_pct: null
+    total_comp_low: 232000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: 128000
+    base_high: 162000
+    stock_low: 158000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 168000
+    total_comp_high: 231000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI Product Designer = Google L4 UX = Meta IC4 Design = Anthropic Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)"
+---
 ### Product Designer | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)

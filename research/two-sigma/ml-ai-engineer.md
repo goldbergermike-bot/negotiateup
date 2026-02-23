@@ -1,3 +1,43 @@
+---
+company: two-sigma
+company_display: Two Sigma
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 200000
+    base_high: 280000
+    stock_low: null
+    stock_high: null
+    bonus_low: 200000
+    bonus_high: 560000
+    total_comp_low: 400000
+    total_comp_high: 840000
+    currency: USD
+  - region: Houston
+    base_low: 185000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_low: 185000
+    bonus_high: 520000
+    total_comp_low: 370000
+    total_comp_high: 780000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Two Sigma = L5-L7 at Google, E5-E7 at Meta, Applied Scientist at Amazon, no equivalent at traditional banks"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-200%+ | Two Sigma ML engineers build models that directly generate investment returns | **ELITE QUANT ML PREMIUM**"
+---
 ### ML/AI Engineer | Two Sigma Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-200%+ | Two Sigma ML engineers build models that directly generate investment returns | **ELITE QUANT ML PREMIUM**

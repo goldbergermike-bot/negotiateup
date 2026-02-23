@@ -1,3 +1,52 @@
+---
+company: robinhood
+company_display: Robinhood
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Menlo Park, CA (HQ)"
+    base_low: 205000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 292000
+    total_comp_high: 425000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 292000
+    total_comp_high: 425000
+    currency: USD
+  - region: London
+    base_low: 155000
+    base_high: 200000
+    stock_low: 203000
+    stock_high: 372000
+    bonus_low: 17000
+    bonus_high: 29000
+    total_comp_low: 221000
+    total_comp_high: 322000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `+15-25% AI Premium` `Financial ML Models` `Personalization at Scale` `Responsible AI in Finance`"
+---
 ### ML/AI Engineer | Robinhood Global Negotiation Guide
 
 **Negotiation DNA:** `Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `+15-25% AI Premium` `Financial ML Models` `Personalization at Scale` `Responsible AI in Finance`

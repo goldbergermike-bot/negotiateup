@@ -1,3 +1,49 @@
+---
+company: flywire
+company_display: Flywire
+role: vertical-intelligence-platform-engineer
+role_display: Vertical Intelligence Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (USD)
+    base_low: 195000
+    base_high: 255000
+    stock_low: 200000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 395000
+    total_comp_high: 635000
+    currency: USD
+  - region: New York (USD)
+    base_low: 210000
+    base_high: 275000
+    stock_low: 220000
+    stock_high: 420000
+    bonus_pct: null
+    total_comp_low: 430000
+    total_comp_high: 695000
+    currency: USD
+  - region: London (GBP)
+    base_low: 120000
+    base_high: 170000
+    stock_low: 110000
+    stock_high: 210000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 380000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Flywire's Invisible Pay transformation, translating the Feb 2026 David King predictions and Feb 3 Simovative partnership into the ultimate Flywire-specific compensation framework for the Vertical Intelligence Platform Engineer — spanning Boston, New York, and London markets. This is the role that sits at the exact center of Flywire's strategic transformation, and the negotiation leverage is commensurate."
+---
 ### Vertical Intelligence Platform Engineer — Flywire Salary Negotiation Guide
 
 # **SIGNATURE ROLE**

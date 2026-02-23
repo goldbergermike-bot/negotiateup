@@ -1,3 +1,50 @@
+---
+company: airtable
+company_display: Airtable
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 225000
+    stock_low: 130000
+    stock_high: 240000
+    bonus_pct: 5
+    total_comp_low: 228000
+    total_comp_high: 318000
+    currency: USD
+  - region: NYC / Austin
+    base_low: 165000
+    base_high: 215000
+    stock_low: 118000
+    stock_high: 222000
+    bonus_pct: 5
+    total_comp_low: 213000
+    total_comp_high: 298000
+    currency: USD
+  - region: London
+    base_low: 133000
+    base_high: 171000
+    stock_low: 98000
+    stock_high: 182000
+    bonus_pct: 5
+    total_comp_low: 173000
+    total_comp_high: 242000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airtable Security Engineer = Google L4-L5 Security = Meta E4-E5 Security = Notion Security Engineer = Monday.com Security Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push"
+---
 ### Security Engineer | Airtable Global Negotiation Guide
 
 **Negotiation DNA:** No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push

@@ -1,3 +1,48 @@
+---
+company: revolut
+company_display: Revolut
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":gb: London (GBP)"
+    base_low: 65000
+    base_high: 100000
+    stock_low: 30000
+    stock_high: 90000
+    bonus_pct: null
+    total_comp_low: 95000
+    total_comp_high: 190000
+    currency: GBP
+  - region: ":lt: Vilnius (EUR)"
+    base_low: 45000
+    base_high: 72000
+    stock_low: 20000
+    stock_high: 60000
+    bonus_pct: null
+    total_comp_low: 65000
+    total_comp_high: 132000
+    currency: EUR
+  - region: ":us: New York (USD)"
+    base_low: 120000
+    base_high: 175000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a product design compensation framework spanning London, Vilnius, and New York markets. Product Designers at Revolut craft the user experience that converts 40M+ users into engaged, paying customers — your design decisions directly impact activation rates, retention, and the premium subscription conversions that fuel the $9B revenue engine heading toward a US IPO."
+---
 ### Product Designer — Revolut Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a product design compensation framework spanning London, Vilnius, and New York markets. Product Designers at Revolut craft the user experience that converts 40M+ users into engaged, paying customers — your design decisions directly impact activation rates, retention, and the premium subscription conversions that fuel the $9B revenue engine heading toward a US IPO.

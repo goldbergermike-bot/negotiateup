@@ -1,3 +1,50 @@
+---
+company: bank-of-america
+company_display: Bank of America
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte (HQ)
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 190000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York City
+    base_low: 150000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 205000
+    total_comp_high: 330000
+    currency: USD
+  - region: San Francisco
+    base_low: 145000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 200000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Scientist at BofA (VP/SVP) = L4-L5 at Google, IC4-IC5 at Meta, DS II-Senior at Amazon, Senior/Principal DS at Capital One, VP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$340B market cap bank + Data science critical to risk, fraud, and AI products + Charlotte HQ cost advantage + Banks pay premium for quant/DS talent | BofA invests heavily in analytics and modeling | **QUANTITATIVE ANALYTICS PREMIUM**"
+---
 ### Data Scientist | Bank of America Global Negotiation Guide
 
 **Negotiation DNA:** $340B market cap bank + Data science critical to risk, fraud, and AI products + Charlotte HQ cost advantage + Banks pay premium for quant/DS talent | BofA invests heavily in analytics and modeling | **QUANTITATIVE ANALYTICS PREMIUM**

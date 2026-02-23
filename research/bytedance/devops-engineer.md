@@ -1,3 +1,68 @@
+---
+company: bytedance
+company_display: Bytedance
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Mountain View (US)
+    base_low: 170000
+    base_high: 235000
+    stock_low: 105000
+    stock_high: 310000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 410000
+    currency: USD
+  - region: New York City / Seattle (US)
+    base_low: 165000
+    base_high: 230000
+    stock_low: 100000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 400000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 470000
+    base_high: 830000
+    stock_low: 210000
+    stock_high: 570000
+    bonus_pct: 20
+    total_comp_low: 730000
+    total_comp_high: 1400000
+    currency: CNY
+  - region: Shanghai
+    base_low: 450000
+    base_high: 800000
+    stock_low: 200000
+    stock_high: 540000
+    bonus_pct: 20
+    total_comp_low: 700000
+    total_comp_high: 1350000
+    currency: CNY
+  - region: Singapore
+    base_low: 125000
+    base_high: 195000
+    stock_low: 65000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at ByteDance (1-2 to 2-2) = L3-L5 SRE at Google, IC3-IC5 PE at Meta, SysDE at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Private $225B+ operating global infrastructure for 1.5B+ TikTok users + One of the world's largest CDN deployments + FAANG-matching US comp for infrastructure talent | ByteDance DevOps engineers manage infrastructure delivering billions of video streams daily | **GLOBAL INFRASTRUCTURE PREMIUM**"
+---
 ### DevOps Engineer | ByteDance Global Negotiation Guide
 
 **Negotiation DNA:** Private $225B+ operating global infrastructure for 1.5B+ TikTok users + One of the world's largest CDN deployments + FAANG-matching US comp for infrastructure talent | ByteDance DevOps engineers manage infrastructure delivering billions of video streams daily | **GLOBAL INFRASTRUCTURE PREMIUM**

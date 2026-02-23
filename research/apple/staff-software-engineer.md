@@ -1,3 +1,50 @@
+---
+company: apple
+company_display: Apple
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 220000
+    base_high: 300000
+    stock_low: 300000
+    stock_high: 700000
+    bonus_pct: 10
+    total_comp_low: 380000
+    total_comp_high: 575000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 210000
+    base_high: 285000
+    stock_low: 270000
+    stock_high: 630000
+    bonus_pct: 10
+    total_comp_low: 355000
+    total_comp_high: 535000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 215000
+    base_high: 295000
+    stock_low: 285000
+    stock_high: 665000
+    bonus_pct: 10
+    total_comp_low: 365000
+    total_comp_high: 555000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple ICT5 = Google L6 (Staff), Meta E6 (Staff), Amazon L7 (Principal SDE), Microsoft 67-68"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Elite-tier base + massive RSU grants at the ICT5 level | Apple positions Staff engineers as technical leaders who define architecture and influence product direction across organizations | **ICT5 SCARCITY PREMIUM: Fewer than 10% of Apple engineers reach ICT5, creating exceptional negotiation leverage**"
+---
 ### Staff Software Engineer | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Elite-tier base + massive RSU grants at the ICT5 level | Apple positions Staff engineers as technical leaders who define architecture and influence product direction across organizations | **ICT5 SCARCITY PREMIUM: Fewer than 10% of Apple engineers reach ICT5, creating exceptional negotiation leverage**

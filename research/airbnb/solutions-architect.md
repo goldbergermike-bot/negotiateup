@@ -1,3 +1,48 @@
+---
+company: airbnb
+company_display: Airbnb
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Remote
+    base_low: 195000
+    base_high: 245000
+    stock_low: 178000
+    stock_high: 308000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 322000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 245000
+    stock_low: 178000
+    stock_high: 308000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 322000
+    currency: USD
+  - region: London
+    base_low: 134000
+    base_high: 168000
+    stock_low: 122000
+    stock_high: 211000
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 221000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airbnb Solutions Architect = Google L4 Solutions Eng = AWS Solutions Architect = Stripe Solutions Architect
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion"
+---
 ### Solutions Architect | Airbnb Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion

@@ -1,3 +1,49 @@
+---
+company: take-two-interactive
+company_display: Take-Two Interactive
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 150000
+    base_high: 215000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 320000
+    currency: USD
+  - region: San Diego (Rockstar)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 192000
+    total_comp_high: 298000
+    currency: USD
+  - region: Bangalore
+    base_low: 2500000
+    base_high: 4200000
+    stock_low: 1200000
+    stock_high: 2800000
+    bonus_pct: 15
+    total_comp_low: 4200000
+    total_comp_high: 7600000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Take-Two PM = Google L5 PM = EA PM = Activision PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "RSU + Premium Bonus | GTA + NBA 2K Revenue Machine"
+---
 ### Product Manager | Take-Two Interactive Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Premium Bonus | GTA + NBA 2K Revenue Machine

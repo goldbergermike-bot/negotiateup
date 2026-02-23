@@ -1,3 +1,39 @@
+---
+company: remote-com
+company_display: Remote.com
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Bay Area
+    base_low: 195000
+    base_high: 255000
+    stock_low: 155000
+    stock_high: 332000
+    bonus_pct: 15
+    total_comp_low: 292000
+    total_comp_high: 448000
+    currency: USD
+  - region: Remote US
+    base_low: 182000
+    base_high: 242000
+    stock_low: 138000
+    stock_high: 305000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 415000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Remote.com Staff SWE (IC5) = Deel Staff SWE = Rippling Staff SWE = Google L5-L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Global Employment Platform | $3B Valuation | Remote-First | **GLOBAL EMPLOYMENT PLATFORM PREMIUM**"
+---
 ### Staff Software Engineer | Remote.com Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Global Employment Platform | $3B Valuation | Remote-First | **GLOBAL EMPLOYMENT PLATFORM PREMIUM**

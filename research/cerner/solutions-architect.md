@@ -1,3 +1,48 @@
+---
+company: cerner
+company_display: Cerner
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Kansas City MO
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 285000
+    currency: USD
+  - region: Austin TX
+    base_low: 145000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Oracle Health IC4-IC5 SA = Google L5 Solutions = AWS Senior SA = Optum SA (comparable TC)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: Oracle-Acquired / Enterprise Health IT / RSU + Bonus / Migration Architecture
+---
 ### Solutions Architect | Cerner (Oracle Health) Global Negotiation Guide
 
 **Negotiation DNA:** Oracle-Acquired / Enterprise Health IT / RSU + Bonus / Migration Architecture

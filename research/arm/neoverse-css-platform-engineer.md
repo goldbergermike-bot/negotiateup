@@ -1,3 +1,48 @@
+---
+company: arm
+company_display: Arm
+role: neoverse-css-platform-engineer
+role_display: Neoverse/CSS Platform Engineer (SIGNATURE ROLE)
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 185000
+    base_high: 252000
+    stock_low: 270000
+    stock_high: 415000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 388000
+    currency: USD
+  - region: Austin
+    base_low: 165000
+    base_high: 228000
+    stock_low: 242000
+    stock_high: 375000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 350000
+    currency: USD
+  - region: Cambridge UK
+    base_low: 68000
+    base_high: 92000
+    stock_low: 165000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 98000
+    total_comp_high: 142000
+    currency: GBP
+level_mapping:
+  internal: SIGNATURE ROLE
+  raw: ARM Neoverse/CSS Platform Engineer = NVIDIA GPU Architect/Server Platform Engineer = Intel Xeon Platform Engineer (Grade 8-9) = Google L5/L6 Hardware Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + ARM RSUs + Bonus + Server Compute Premium (20-30%) | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages"
+---
 ### Neoverse/CSS Platform Engineer (SIGNATURE ROLE) | ARM Global Negotiation Guide
 
 **Negotiation DNA:** Base + ARM RSUs + Bonus + Server Compute Premium (20-30%) | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages

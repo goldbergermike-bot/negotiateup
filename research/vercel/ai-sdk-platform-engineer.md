@@ -1,3 +1,49 @@
+---
+company: vercel
+company_display: Vercel
+role: ai-sdk-platform-engineer
+role_display: AI SDK Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 275000
+    stock_low: 280000
+    stock_high: 500000
+    bonus_pct: 5
+    total_comp_low: 340000
+    total_comp_high: 530000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 275000
+    stock_low: 280000
+    stock_high: 500000
+    bonus_pct: 5
+    total_comp_low: 340000
+    total_comp_high: 530000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 209000
+    stock_low: 213000
+    stock_high: 380000
+    bonus_pct: 5
+    total_comp_low: 259000
+    total_comp_high: 403000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Vercel AI SDK Platform Engineer = Google L5-L6 ML Platform Engineer = Meta E5-E6 AI Infrastructure Engineer = Anthropic SDK Engineer = OpenAI Platform Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "AI-Premium Base + Significant Pre-IPO Equity | Edge-First Deployment Pioneer | **SIGNATURE ROLE** | **+15-25% AI PLATFORM PREMIUM**"
+---
 ### AI SDK Platform Engineer | Vercel Global Negotiation Guide
 
 **Negotiation DNA:** AI-Premium Base + Significant Pre-IPO Equity | Edge-First Deployment Pioneer | **SIGNATURE ROLE** | **+15-25% AI PLATFORM PREMIUM**

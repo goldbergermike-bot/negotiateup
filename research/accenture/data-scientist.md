@@ -1,3 +1,48 @@
+---
+company: accenture
+company_display: Accenture
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 130000
+    base_high: 180000
+    stock_low: 40000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 163000
+    total_comp_high: 302000
+    currency: USD
+  - region: San Francisco
+    base_low: 135000
+    base_high: 185000
+    stock_low: 45000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 171000
+    total_comp_high: 313000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 130000
+    stock_low: 15000
+    stock_high: 45000
+    bonus_pct: 10
+    total_comp_low: 109000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Accenture Consultant (Data Science) = Google L4 Data Scientist = Meta IC4 DS = Deloitte Manager (DS)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + RSU Grants + Bonus (10-15%) | Applied Intelligence Practice"
+---
 ### Data Scientist | Accenture Global Negotiation Guide
 
 **Negotiation DNA:** Base + RSU Grants + Bonus (10-15%) | Applied Intelligence Practice

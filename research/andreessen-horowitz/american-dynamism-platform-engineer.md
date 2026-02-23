@@ -1,3 +1,51 @@
+---
+company: andreessen-horowitz
+company_display: Andreessen Horowitz
+role: american-dynamism-platform-engineer
+role_display: American Dynamism Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 348000
+    base_high: 478000
+    stock_low: null
+    stock_high: null
+    bonus_low: 330000
+    bonus_high: 507000
+    total_comp_low: 678000
+    total_comp_high: 985000
+    currency: USD
+  - region: San Francisco
+    base_low: 340000
+    base_high: 468000
+    stock_low: null
+    stock_high: null
+    bonus_low: 320000
+    bonus_high: 495000
+    total_comp_low: 660000
+    total_comp_high: 963000
+    currency: USD
+  - region: New York
+    base_low: 330000
+    base_high: 455000
+    stock_low: null
+    stock_high: null
+    bonus_low: 310000
+    bonus_high: 480000
+    total_comp_low: 640000
+    total_comp_high: 935000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Crunchbase
+  - Levels.fyi
+negotiation_dna_summary: "`$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Senior Carry Eligible` `$42B+ AUM` `+25-35% American Dynamism Premium` `AI-Native Deal Sourcing` `Intelligence Cost Analytics` `Portfolio Infrastructure` `Thesis-Defining Role`"
+---
 ### American Dynamism Platform Engineer | Andreessen Horowitz Global Negotiation Guide
 
 **SIGNATURE ROLE**

@@ -1,3 +1,48 @@
+---
+company: servicenow
+company_display: Servicenow
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara (USD)
+    base_low: 215000
+    base_high: 265000
+    stock_low: 280000
+    stock_high: 460000
+    bonus_pct: 15
+    total_comp_low: 315000
+    total_comp_high: 400000
+    currency: USD
+  - region: San Diego (USD)
+    base_low: 195000
+    base_high: 245000
+    stock_low: 250000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 363000
+    currency: USD
+  - region: London (GBP £)
+    base_low: 140000
+    base_high: 172000
+    stock_low: 182000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 260000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ServiceNow EM = Google L5 Manager = Meta M1 = Salesforce EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform"
+---
 ### Engineering Manager | ServiceNow Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform

@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 158000
+    base_high: 222000
+    stock_low: 68000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 315000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 138000
+    base_high: 198000
+    stock_low: 52000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 272000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 45000
+    base_high: 75000
+    stock_low: 16000
+    stock_high: 45000
+    bonus_pct: 10
+    total_comp_low: 55000
+    total_comp_high: 98000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 75000
+    base_high: 115000
+    stock_low: 30000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 98000
+    total_comp_high: 160000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2500000
+    base_high: 4800000
+    stock_low: 1200000
+    stock_high: 3400000
+    bonus_pct: 10
+    total_comp_low: 3200000
+    total_comp_high: 6500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath TPM (IC3/IC4) ~ Microsoft 63/64 TPM | Google L5/L6 TPM | Automation Anywhere Senior/Lead TPM | ServiceNow Senior/Lead TPM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Automation platform delivery orchestrator | Cross-functional AI & RPA program leader | **PROGRAM LEADERSHIP PREMIUM**"
+---
 ### Technical Program Manager | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** Automation platform delivery orchestrator | Cross-functional AI & RPA program leader | **PROGRAM LEADERSHIP PREMIUM**

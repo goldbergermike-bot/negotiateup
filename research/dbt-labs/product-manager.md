@@ -1,3 +1,48 @@
+---
+company: dbt-labs
+company_display: dbt Labs
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / Remote-US
+    base_low: 175000
+    base_high: 212000
+    stock_low: 130000
+    stock_high: 230000
+    bonus_pct: 12
+    total_comp_low: 235000
+    total_comp_high: 310000
+    currency: USD
+  - region: San Francisco
+    base_low: 185000
+    base_high: 225000
+    stock_low: 142000
+    stock_high: 248000
+    bonus_pct: 12
+    total_comp_low: 250000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 155000
+    stock_low: 92000
+    stock_high: 172000
+    bonus_pct: 12
+    total_comp_low: 172000
+    total_comp_high: 228000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: dbt Labs PM = Google L5 PM = Snowflake Senior PM = Databricks PM = Meta PM IC5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Equity + Performance Bonus | Semantic Layer AI Product Strategy 2026"
+---
 ### Product Manager | dbt Labs Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Equity + Performance Bonus | Semantic Layer AI Product Strategy 2026

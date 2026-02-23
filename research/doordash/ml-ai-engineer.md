@@ -1,3 +1,48 @@
+---
+company: doordash
+company_display: DoorDash
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 268000
+    stock_low: 262000
+    stock_high: 458000
+    bonus_pct: 15
+    total_comp_low: 281000
+    total_comp_high: 385000
+    currency: USD
+  - region: New York City
+    base_low: 215000
+    base_high: 268000
+    stock_low: 262000
+    stock_high: 458000
+    bonus_pct: 15
+    total_comp_low: 281000
+    total_comp_high: 385000
+    currency: USD
+  - region: Sydney
+    base_low: 177000
+    base_high: 221000
+    stock_low: 171000
+    stock_high: 298000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 315000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: DoorDash Senior ML Eng = Google L4 ML = Uber Senior ML = Meta E4 ML = Instacart Senior ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion | **+15–25% AI PREMIUM**"
+---
 ### ML/AI Engineer | DoorDash Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion | **+15–25% AI PREMIUM**

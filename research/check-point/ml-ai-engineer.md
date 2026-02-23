@@ -1,3 +1,39 @@
+---
+company: check-point
+company_display: Check Point
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Carlos
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 380000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 172000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "ML/AI Engineers at Check Point are the technical core of the Agentic AI Stack, building the autonomous threat detection and remediation models that power all Four Pillars and command the highest premiums in cybersecurity."
+---
 ### ML/AI Engineer — Check Point Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at Check Point are the technical core of the Agentic AI Stack, building the autonomous threat detection and remediation models that power all Four Pillars and command the highest premiums in cybersecurity.

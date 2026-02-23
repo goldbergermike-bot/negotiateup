@@ -1,3 +1,48 @@
+---
+company: dbt-labs
+company_display: dbt Labs
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / Remote-US
+    base_low: 165000
+    base_high: 198000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 260000
+    currency: USD
+  - region: San Francisco
+    base_low: 175000
+    base_high: 210000
+    stock_low: 135000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 278000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 152000
+    stock_low: 85000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 198000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: dbt Labs DE = Google L3-L4 = Snowflake DE = Databricks DE = Amazon L4-L5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Equity + Bonus | Semantic Layer AI Expansion | Analytics Engineering Category Creator | Series D Growth-Stage Equity"
+---
 ### Data Engineer | dbt Labs Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Equity + Bonus | Semantic Layer AI Expansion | Analytics Engineering Category Creator | Series D Growth-Stage Equity

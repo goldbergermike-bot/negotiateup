@@ -1,3 +1,39 @@
+---
+company: anduril
+company_display: Anduril
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Costa Mesa, CA"
+    base_low: 150000
+    base_high: 205000
+    stock_low: 85000
+    stock_high: 245000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 340000
+    currency: USD
+  - region: "Seattle, WA"
+    base_low: 150000
+    base_high: 205000
+    stock_low: 85000
+    stock_high: 245000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Anduril DevOps = Google L4 SRE = Amazon Senior SysDE -- with classified networks, edge infrastructure, and embedded systems"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense Infrastructure/Edge Deployment | High-Intensity Culture"
+---
 ### DevOps Engineer | Anduril Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense Infrastructure/Edge Deployment | High-Intensity Culture

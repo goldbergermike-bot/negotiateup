@@ -1,3 +1,48 @@
+---
+company: xai
+company_display: xAI
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 218000
+    base_high: 272000
+    stock_low: 348000
+    stock_high: 608000
+    bonus_pct: null
+    total_comp_low: 327000
+    total_comp_high: 452000
+    currency: USD
+  - region: Palo Alto
+    base_low: 218000
+    base_high: 272000
+    stock_low: 348000
+    stock_high: 608000
+    bonus_pct: null
+    total_comp_low: 327000
+    total_comp_high: 452000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 258000
+    stock_low: 348000
+    stock_high: 608000
+    bonus_pct: null
+    total_comp_low: 311000
+    total_comp_high: 432000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: xAI PM = Google L4-L5 PM = OpenAI PM = Meta IC5 PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026)"
+---
 ### Product Manager | xAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026)

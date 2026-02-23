@@ -1,3 +1,52 @@
+---
+company: nuvei
+company_display: Nuvei
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montreal
+    base_low: 165000
+    base_high: 220000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 245000
+    total_comp_high: 375000
+    currency: CAD
+  - region: New York
+    base_low: 200000
+    base_high: 270000
+    stock_low: 65000
+    stock_high: 130000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 295000
+    total_comp_high: 455000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 155000
+    stock_low: 30000
+    stock_high: 70000
+    bonus_low: 16000
+    bonus_high: 30000
+    total_comp_low: 156000
+    total_comp_high: 255000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Nuvei | Google | Meta | Stripe | Adyen | Global Payments |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `People Leadership` `Montreal HQ`"
+---
 ### Engineering Manager | Nuvei Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `People Leadership` `Montreal HQ`

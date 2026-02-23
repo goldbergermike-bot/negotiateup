@@ -1,3 +1,51 @@
+---
+company: kraken
+company_display: Kraken
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 228000
+    base_high: 285000
+    stock_low: 385000
+    stock_high: 640000
+    bonus_low: 35000
+    bonus_high: 55000
+    total_comp_low: 338000
+    total_comp_high: 478000
+    currency: USD
+  - region: New York
+    base_low: 222000
+    base_high: 278000
+    stock_low: 370000
+    stock_high: 620000
+    bonus_low: 33000
+    bonus_high: 52000
+    total_comp_low: 328000
+    total_comp_high: 465000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 258000
+    stock_low: 340000
+    stock_high: 575000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 282000
+    total_comp_high: 398000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | ML/AI Track | +15-25% AI Premium"
+---
 ### ML/AI Engineer | Kraken Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | ML/AI Track | +15-25% AI Premium

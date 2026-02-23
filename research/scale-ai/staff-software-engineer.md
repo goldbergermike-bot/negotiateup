@@ -1,3 +1,50 @@
+---
+company: scale-ai
+company_display: Scale AI
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 238000
+    base_high: 298000
+    stock_low: 375000
+    stock_high: 650000
+    bonus_pct: null
+    total_comp_low: 332000
+    total_comp_high: 461000
+    currency: USD
+  - region: New York
+    base_low: 245000
+    base_high: 313000
+    stock_low: 375000
+    stock_high: 650000
+    bonus_pct: null
+    total_comp_low: 339000
+    total_comp_high: 476000
+    currency: USD
+  - region: Washington DC
+    base_low: 250000
+    base_high: 322000
+    stock_low: 375000
+    stock_high: 650000
+    bonus_pct: null
+    total_comp_low: 344000
+    total_comp_high: 485000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Scale Staff SWE = Google L5 = Meta E5 = Amazon SDE III / Principal = Apple ICT4 = Microsoft Principal SDE 64-65
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity"
+---
 ### Staff Software Engineer | Scale AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity

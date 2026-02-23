@@ -1,3 +1,49 @@
+---
+company: epic-games
+company_display: Epic Games
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 145000
+    base_high: 205000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 192000
+    total_comp_high: 300000
+    currency: USD
+  - region: Seattle
+    base_low: 155000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 195000
+    bonus_pct: 15
+    total_comp_low: 208000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: 55000
+    base_high: 85000
+    stock_low: 20000
+    stock_high: 45000
+    bonus_pct: 10
+    total_comp_low: 80000
+    total_comp_high: 132000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic DevOps = Google L3-L4 SRE = Amazon L5-L6 SysDE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue"
+---
 ### DevOps Engineer | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue

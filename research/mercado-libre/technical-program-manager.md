@@ -1,3 +1,39 @@
+---
+company: mercado-libre
+company_display: Mercado Libre
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area
+    base_low: 150000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 215000
+    bonus_pct: 15
+    total_comp_low: 198000
+    total_comp_high: 325000
+    currency: USD
+  - region: Buenos Aires
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Mercado Libre TPM = Google TPM L4-L5 = Amazon TPM = Meta TPM (IC4-IC5)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Premium LatAm Tech Comp | MELI RSUs ($90B Market Cap) | LatAm E-Commerce Leader | Strong Growth"
+---
 ### Technical Program Manager | Mercado Libre Global Negotiation Guide
 
 **Negotiation DNA:** Premium LatAm Tech Comp | MELI RSUs ($90B Market Cap) | LatAm E-Commerce Leader | Strong Growth

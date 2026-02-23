@@ -1,3 +1,52 @@
+---
+company: oracle
+company_display: Oracle
+role: oci-ai-infrastructure-engineer
+role_display: OCI AI Infrastructure Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 178000
+    base_high: 222000
+    stock_low: 170000
+    stock_high: 290000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 318000
+    currency: USD
+  - region: Seattle
+    base_low: 188000
+    base_high: 235000
+    stock_low: 185000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 250000
+    total_comp_high: 338000
+    currency: USD
+  - region: Bangalore
+    base_low: 3800000
+    base_high: 6000000
+    stock_low: 2000000
+    stock_high: 3500000
+    bonus_pct: null
+    total_comp_low: 5000000
+    total_comp_high: 7500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Oracle OCI AI Infra Eng (Senior) = AWS Annapurna/Trainium Team = Google TPU Infrastructure Eng = NVIDIA DGX Cloud Eng
+data_sources:
+  - Stargate JV — $500B Oracle + OpenAI + SoftBank AI Infrastructure
+  - "OCI AI Infrastructure — GPU Superclusters, RDMA Networking, Bare-Metal"
+  - OCI vs. AWS/GCP/Azure — Why OpenAI Chose Oracle
+  - Outsize Sign-On — Maximum Premium for Stargate-Critical Engineers
+  - "Agentic AI Premium — 15-25% for Autonomous AI Infrastructure Management"
+negotiation_dna_summary: "Base-Heavy + **OUTSIZE SIGN-ON** | **SIGNATURE ROLE** | **+15–25% AGENTIC AI PREMIUM** | $500B Stargate JV Premium"
+---
 ### OCI AI Infrastructure Engineer | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + **OUTSIZE SIGN-ON** | **SIGNATURE ROLE** | **+15–25% AGENTIC AI PREMIUM** | $500B Stargate JV Premium

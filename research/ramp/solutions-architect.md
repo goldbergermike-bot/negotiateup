@@ -1,3 +1,48 @@
+---
+company: ramp
+company_display: Ramp
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 185000
+    base_high: 222000
+    stock_low: 138000
+    stock_high: 232000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 302000
+    currency: USD
+  - region: San Francisco
+    base_low: 182000
+    base_high: 218000
+    stock_low: 135000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 215000
+    stock_low: 132000
+    stock_high: 222000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 288000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ramp SA (SA2-SA3) = Brex SA = Google Cloud SA L4-L5 = AWS SA L5-L6 = Stripe Implementation = Coupa SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOU DESIGN THE INTEGRATIONS THAT UNLOCK SAVINGS ACROSS EVERY CUSTOMER'S TECH STACK**"
+---
 ### Solutions Architect | Ramp Global Negotiation Guide
 
 **Negotiation DNA:** Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOU DESIGN THE INTEGRATIONS THAT UNLOCK SAVINGS ACROSS EVERY CUSTOMER'S TECH STACK**

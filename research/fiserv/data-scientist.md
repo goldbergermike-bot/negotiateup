@@ -1,3 +1,52 @@
+---
+company: fiserv
+company_display: Fiserv
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brookfield WI
+    base_low: 135000
+    base_high: 185000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_low: 16000
+    bonus_high: 32000
+    total_comp_low: 221000
+    total_comp_high: 367000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 190000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 270000
+    total_comp_high: 445000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 130000
+    stock_low: 45000
+    stock_high: 95000
+    bonus_low: 10000
+    bonus_high: 22000
+    total_comp_low: 145000
+    total_comp_high: 247000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Fiserv | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Data & Analytics` `IC Track`"
+---
 ### Data Scientist | Fiserv Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Data & Analytics` `IC Track`

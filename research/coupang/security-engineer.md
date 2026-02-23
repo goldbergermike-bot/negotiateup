@@ -1,3 +1,39 @@
+---
+company: coupang
+company_display: Coupang
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 155000
+    base_high: 215000
+    stock_low: 80000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 335000
+    currency: USD
+  - region: Seattle
+    base_low: 150000
+    base_high: 208000
+    stock_low: 75000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Coupang Security Engineer = Google Security Engineer L3-L4 = Amazon Security Engineer = Meta Security Engineer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive US Comp | CPNG RSUs ($40B Market Cap) | Korean E-Commerce Leader | Mountain View Office"
+---
 ### Security Engineer | Coupang Global Negotiation Guide
 
 **Negotiation DNA:** Competitive US Comp | CPNG RSUs ($40B Market Cap) | Korean E-Commerce Leader | Mountain View Office

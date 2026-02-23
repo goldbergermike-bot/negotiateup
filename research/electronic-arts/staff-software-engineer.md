@@ -1,3 +1,48 @@
+---
+company: electronic-arts
+company_display: Electronic Arts
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 185000
+    base_high: 245000
+    stock_low: 150000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 430000
+    currency: USD
+  - region: Orlando
+    base_low: 165000
+    base_high: 220000
+    stock_low: 125000
+    stock_high: 270000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 380000
+    currency: USD
+  - region: Bucharest
+    base_low: 70000
+    base_high: 100000
+    stock_low: 40000
+    stock_high: 75000
+    bonus_pct: 15
+    total_comp_low: 120000
+    total_comp_high: 190000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: EA ICT4 (Staff) = Google L5 = Meta E5 = Microsoft 65-66
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Sports-Gaming Revenue Machine"
+---
 ### Staff Software Engineer | Electronic Arts Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Sports-Gaming Revenue Machine

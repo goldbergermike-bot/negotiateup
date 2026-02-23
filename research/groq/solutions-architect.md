@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 155000
+    base_high: 195000
+    stock_low: 28000
+    stock_high: 52000
+    bonus_pct: 8
+    total_comp_low: 192000
+    total_comp_high: 265000
+    currency: USD
+  - region: San Diego
+    base_low: 142000
+    base_high: 180000
+    stock_low: 25000
+    stock_high: 47000
+    bonus_pct: 8
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 172000
+    stock_low: 22000
+    stock_high: 42000
+    bonus_pct: 8
+    total_comp_low: 165000
+    total_comp_high: 232000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq SA ≈ Google Cloud SA L4–L5 · AWS Sr. Solutions Architect · Azure SA · NVIDIA Solutions Architect · Cerebras SA · Databricks SA
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Enterprise Technical Premium"
+---
 ### Solutions Architect | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Enterprise Technical Premium

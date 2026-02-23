@@ -1,3 +1,39 @@
+---
+company: opendoor
+company_display: Opendoor
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 285000
+    currency: USD
+  - region: Remote US
+    base_low: 132000
+    base_high: 188000
+    stock_low: 42000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Opendoor SWE (IC2-IC3) = Zillow SWE = Redfin SWE = Compass SWE = Google L3-L4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | iBuying + Real Estate Technology | ~$3B Market Cap (Public: OPEN) | San Francisco | **PROPTECH PREMIUM**"
+---
 ### Software Engineer | Opendoor Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | iBuying + Real Estate Technology | ~$3B Market Cap (Public: OPEN) | San Francisco | **PROPTECH PREMIUM**

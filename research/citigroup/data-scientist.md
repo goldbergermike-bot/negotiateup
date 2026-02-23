@@ -1,3 +1,50 @@
+---
+company: citigroup
+company_display: Citigroup
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 145000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 138000
+    total_comp_high: 240000
+    currency: GBP
+  - region: Singapore
+    base_low: 130000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 175000
+    total_comp_high: 290000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: "Data Scientist at Citi (VP/SVP) = L4-L5 at Google, IC4-IC5 at Meta, Applied Scientist at Amazon, Senior DS at Capital One, VP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$130B market cap global bank + Quantitative modeling across trading, risk, and consumer + NYC HQ competitive hiring + Banks pay DS premium | Citi DS spans institutional and consumer analytics | **QUANTITATIVE ANALYTICS PREMIUM**"
+---
 ### Data Scientist | Citigroup Global Negotiation Guide
 
 **Negotiation DNA:** $130B market cap global bank + Quantitative modeling across trading, risk, and consumer + NYC HQ competitive hiring + Banks pay DS premium | Citi DS spans institutional and consumer analytics | **QUANTITATIVE ANALYTICS PREMIUM**

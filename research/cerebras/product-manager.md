@@ -1,3 +1,51 @@
+---
+company: cerebras
+company_display: Cerebras
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 192000
+    base_high: 242000
+    stock_low: 198000
+    stock_high: 348000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 355000
+    currency: USD
+  - region: San Diego
+    base_low: 188000
+    base_high: 238000
+    stock_low: 198000
+    stock_high: 348000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 352000
+    currency: USD
+  - region: Remote US
+    base_low: 182000
+    base_high: 232000
+    stock_low: 198000
+    stock_high: 348000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cerebras PM (PM2-PM3) = Google L5 PM = NVIDIA PM = Meta PM = Groq PM
+data_sources:
+  - Cerebras Q2 2026 IPO Timeline — Product Growth Narrative
+  - Cerebras $10B OpenAI Deal — Market Expansion Beyond Anchor Customer
+  - Cerebras Product Strategy — NVIDIA Competitive Positioning
+  - Cerebras PM Comp — Private Market 2025
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal"
+---
 ### Product Manager | Cerebras Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal

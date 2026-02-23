@@ -1,3 +1,51 @@
+---
+company: coinbase
+company_display: Coinbase
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 225000
+    base_high: 270000
+    stock_low: 300000
+    stock_high: 560000
+    bonus_low: 30000
+    bonus_high: 52000
+    total_comp_low: 322000
+    total_comp_high: 452000
+    currency: USD
+  - region: New York
+    base_low: 220000
+    base_high: 265000
+    stock_low: 288000
+    stock_high: 540000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 315000
+    total_comp_high: 442000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 248000
+    stock_low: 265000
+    stock_high: 500000
+    bonus_low: 24000
+    bonus_high: 42000
+    total_comp_low: 295000
+    total_comp_high: 418000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`Everything Exchange` · `$2B Buyback` · `COIN` · `IC5-IC6` · `+15-25% AI Premium` · `Multi-Asset ML Systems` · `Real-Time Inference` · `RSU/4yr Vest`"
+---
 ### ML/AI Engineer | Coinbase Global Negotiation Guide
 
 **Negotiation DNA:** `Everything Exchange` · `$2B Buyback` · `COIN` · `IC5-IC6` · `+15-25% AI Premium` · `Multi-Asset ML Systems` · `Real-Time Inference` · `RSU/4yr Vest`

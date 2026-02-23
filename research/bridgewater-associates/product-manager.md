@@ -1,3 +1,43 @@
+---
+company: bridgewater-associates
+company_display: Bridgewater Associates
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westport, CT (HQ)"
+    base_low: 165000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_low: 66000
+    bonus_high: 188000
+    total_comp_low: 231000
+    total_comp_high: 423000
+    currency: USD
+  - region: New York City
+    base_low: 173000
+    base_high: 247000
+    stock_low: null
+    stock_high: null
+    bonus_low: 69000
+    bonus_high: 198000
+    total_comp_low: 242000
+    total_comp_high: 445000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Manager at Bridgewater = L5/L6 Product Manager at Google, IC5/IC6 Product Manager at Meta, Senior PM/Principal PM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Product leadership for internal investment technology and research platforms | Driving product strategy in a Principles-based meritocracy | **ELITE HEDGE FUND PREMIUM**"
+---
 ### Product Manager | Bridgewater Associates Global Negotiation Guide
 
 **Negotiation DNA:** ~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Product leadership for internal investment technology and research platforms | Driving product strategy in a Principles-based meritocracy | **ELITE HEDGE FUND PREMIUM**

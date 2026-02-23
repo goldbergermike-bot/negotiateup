@@ -1,3 +1,48 @@
+---
+company: brex-ai
+company_display: Brex AI
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 198000
+    stock_low: 150000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 265000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 192000
+    stock_low: 145000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 258000
+    currency: USD
+  - region: Remote (US)
+    base_low: 145000
+    base_high: 180000
+    stock_low: 130000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 240000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex SWE (Mid) = Google L3 = Meta E3 = Stripe L2
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Late-Stage Private | AI-Powered Spend Management"
+---
 ### Software Engineer | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Late-Stage Private | AI-Powered Spend Management

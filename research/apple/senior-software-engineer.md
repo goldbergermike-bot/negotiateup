@@ -1,3 +1,50 @@
+---
+company: apple
+company_display: Apple
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 180000
+    base_high: 255000
+    stock_low: 180000
+    stock_high: 450000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 420000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 170000
+    base_high: 240000
+    stock_low: 160000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 390000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 175000
+    base_high: 250000
+    stock_low: 170000
+    stock_high: 430000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 405000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple ICT4 = Google L5 (Senior), Meta E5 (Senior), Amazon L6 (Senior SDE), Microsoft 63-64"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strong senior-level base + substantial RSU grants at the ICT4 level | Apple positions Senior SWEs as the technical backbone driving product delivery | **ICT4 SWEET SPOT: The most common hiring level with well-established but negotiable comp bands**"
+---
 ### Senior Software Engineer | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Strong senior-level base + substantial RSU grants at the ICT4 level | Apple positions Senior SWEs as the technical backbone driving product delivery | **ICT4 SWEET SPOT: The most common hiring level with well-established but negotiable comp bands**

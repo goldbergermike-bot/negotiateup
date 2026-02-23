@@ -1,3 +1,48 @@
+---
+company: take-two-interactive
+company_display: Take-Two Interactive
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 130000
+    base_high: 185000
+    stock_low: 40000
+    stock_high: 130000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 265000
+    currency: USD
+  - region: San Diego (Rockstar)
+    base_low: 125000
+    base_high: 178000
+    stock_low: 35000
+    stock_high: 120000
+    bonus_pct: 15
+    total_comp_low: 157000
+    total_comp_high: 255000
+    currency: USD
+  - region: Bangalore
+    base_low: 1800000
+    base_high: 3200000
+    stock_low: 800000
+    stock_high: 2000000
+    bonus_pct: 10
+    total_comp_low: 2800000
+    total_comp_high: 5600000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Take-Two SWE = Google L3 = Meta E3 = EA ICT2
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Premium Bonus | GTA + NBA 2K Revenue Machine"
+---
 ### Software Engineer | Take-Two Interactive Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Premium Bonus | GTA + NBA 2K Revenue Machine

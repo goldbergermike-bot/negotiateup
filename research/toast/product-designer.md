@@ -1,3 +1,52 @@
+---
+company: toast
+company_display: Toast
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston MA
+    base_low: 140000
+    base_high: 185000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 167000
+    total_comp_high: 245000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 182000
+    total_comp_high: 268000
+    currency: USD
+  - region: San Francisco
+    base_low: 160000
+    base_high: 215000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 16000
+    bonus_high: 32000
+    total_comp_low: 196000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Toast | Google | Meta | Stripe | Block | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: TOST` `Toast IQ` `Product Designer` `Restaurant Tech` `Hospitality Intelligence` `UX/UI` `Design Systems` `Restaurant OS`"
+---
 ### Product Designer | Toast Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: TOST` `Toast IQ` `Product Designer` `Restaurant Tech` `Hospitality Intelligence` `UX/UI` `Design Systems` `Restaurant OS`

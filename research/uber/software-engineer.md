@@ -1,3 +1,48 @@
+---
+company: uber
+company_display: Uber
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 172000
+    base_high: 215000
+    stock_low: 155000
+    stock_high: 265000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 286000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 222000
+    stock_low: 155000
+    stock_high: 265000
+    bonus_pct: 10
+    total_comp_low: 217000
+    total_comp_high: 295000
+    currency: USD
+  - region: Amsterdam
+    base_low: 68000
+    base_high: 88000
+    stock_low: 65000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 85000
+    total_comp_high: 118000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Uber SWE (L4) = Google L3-L4 SWE = Lyft SWE = DoorDash SWE = Meta E3-E4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)"
+---
 ### Software Engineer | Uber Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)

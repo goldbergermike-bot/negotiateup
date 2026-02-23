@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 130000
+    base_high: 170000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 14000
+    bonus_high: 26000
+    total_comp_low: 204000
+    total_comp_high: 316000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 200000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 253000
+    total_comp_high: 392000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 120000
+    stock_low: 40000
+    stock_high: 85000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 138000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Infrastructure` `SRE` `Platform Engineering`"
+---
 ### DevOps Engineer | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Infrastructure` `SRE` `Platform Engineering`

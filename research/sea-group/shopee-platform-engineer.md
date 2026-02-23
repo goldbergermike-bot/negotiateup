@@ -1,3 +1,68 @@
+---
+company: sea-group
+company_display: Sea Group
+role: shopee-platform-engineer
+role_display: Shopee Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 120000
+    base_high: 190000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 290000
+    currency: USD
+  - region: Bay Area / Seattle (US)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 65000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 345000
+    currency: USD
+  - region: "Shenzhen (R&D)"
+    base_low: 400000
+    base_high: 720000
+    stock_low: 150000
+    stock_high: 420000
+    bonus_pct: 10
+    total_comp_low: 550000
+    total_comp_high: 1050000
+    currency: CNY
+  - region: Jakarta
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Ho Chi Minh City
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Shopee Platform Engineer at Sea Group (L5-L7) = L4-L5 at Google, IC4-IC5 at Meta, SDE II-Senior at Amazon, equivalent Shopify/Alibaba"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$35B market cap with Shopee as SE Asia's #1 e-commerce platform + 2B+ annual orders processed + Hyper-growth comp philosophy with aggressive RSU grants + Singapore HQ with US engineering presence | Shopee platform engineers build the infrastructure powering the largest e-commerce marketplace in SE Asia and Taiwan | **E-COMMERCE PLATFORM PREMIUM**"
+---
 ### Shopee Platform Engineer | Sea Group Global Negotiation Guide
 
 **Negotiation DNA:** $35B market cap with Shopee as SE Asia's #1 e-commerce platform + 2B+ annual orders processed + Hyper-growth comp philosophy with aggressive RSU grants + Singapore HQ with US engineering presence | Shopee platform engineers build the infrastructure powering the largest e-commerce marketplace in SE Asia and Taiwan | **E-COMMERCE PLATFORM PREMIUM**

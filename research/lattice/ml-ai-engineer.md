@@ -1,3 +1,39 @@
+---
+company: lattice
+company_display: Lattice
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 158000
+    base_high: 218000
+    stock_low: 75000
+    stock_high: 212000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 205000
+    stock_low: 62000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lattice ML/AI (IC2-IC4) = Culture Amp ML Engineer = Workday ML Engineer = Google L3-L5 ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | People Management Platform | $3B Valuation | San Francisco | **PEOPLE AI PREMIUM**"
+---
 ### ML/AI Engineer | Lattice Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | People Management Platform | $3B Valuation | San Francisco | **PEOPLE AI PREMIUM**

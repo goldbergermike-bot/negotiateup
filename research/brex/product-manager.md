@@ -1,3 +1,48 @@
+---
+company: brex
+company_display: Brex
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 225000
+    stock_low: 142000
+    stock_high: 252000
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 318000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 232000
+    stock_low: 142000
+    stock_high: 252000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 328000
+    currency: USD
+  - region: Remote US
+    base_low: 172000
+    base_high: 218000
+    stock_low: 142000
+    stock_high: 252000
+    bonus_pct: 15
+    total_comp_low: 222000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex PM (PM2-PM3) = Ramp PM = Stripe PM = Google PM L4-L5 = Meta PM IC4-IC5 = Amazon L5-L6 PMT
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**"
+---
 ### Product Manager | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**

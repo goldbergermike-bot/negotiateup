@@ -1,3 +1,48 @@
+---
+company: intel
+company_display: Intel
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 155000
+    base_high: 195000
+    stock_low: 70000
+    stock_high: 130000
+    bonus_pct: 12
+    total_comp_low: 212000
+    total_comp_high: 298000
+    currency: USD
+  - region: Portland
+    base_low: 145000
+    base_high: 185000
+    stock_low: 60000
+    stock_high: 115000
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 275000
+    currency: USD
+  - region: Phoenix
+    base_low: 138000
+    base_high: 175000
+    stock_low: 55000
+    stock_high: 105000
+    bonus_pct: 12
+    total_comp_low: 185000
+    total_comp_high: 260000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Intel Senior Software Engineer (Grade 8) = AMD Senior MTS Software Engineer = NVIDIA Senior Software Engineer = Google L4-L5 Software Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + INTC RSUs (4yr vest) + Bonus (10-20%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages"
+---
 ### Senior Software Engineer | Intel Global Negotiation Guide
 
 **Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (10-20%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages

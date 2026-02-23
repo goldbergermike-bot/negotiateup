@@ -1,3 +1,50 @@
+---
+company: vercel
+company_display: Vercel
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 225000
+    stock_low: 140000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 260000
+    total_comp_high: 380000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 225000
+    stock_low: 140000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 260000
+    total_comp_high: 380000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 171000
+    stock_low: 107000
+    stock_high: 213000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 289000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Vercel Solutions Architect = Google Customer Engineer = AWS Solutions Architect = Cloudflare Solutions Engineer = Datadog Technical Account Manager (Senior)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Enterprise-Premium Base + Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI-Powered Enterprise Adoption"
+---
 ### Solutions Architect | Vercel Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise-Premium Base + Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI-Powered Enterprise Adoption

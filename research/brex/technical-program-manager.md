@@ -1,3 +1,48 @@
+---
+company: brex
+company_display: Brex
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 208000
+    stock_low: 108000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 268000
+    currency: USD
+  - region: New York
+    base_low: 172000
+    base_high: 215000
+    stock_low: 108000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 275000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 202000
+    stock_low: 108000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex TPM (TPM2-TPM3) = Ramp TPM = Stripe TPM = Google TPM L4-L5 = Meta TPM IC4-IC5 = Amazon L5-L6 TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**"
+---
 ### Technical Program Manager | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**

@@ -1,3 +1,48 @@
+---
+company: github
+company_display: Github
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 200000
+    stock_low: 150000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 310000
+    currency: USD
+  - region: Seattle
+    base_low: 155000
+    base_high: 195000
+    stock_low: 145000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 300000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 135000
+    stock_low: 90000
+    stock_high: 155000
+    bonus_pct: 15
+    total_comp_low: 140000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: GitHub DS = Microsoft Data Scientist (L61-L63) = Google DS L4-L5 = Meta DS IC4-IC5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Microsoft RSU + Bonus | Copilot Efficacy Measurement & Developer Analytics"
+---
 ### Data Scientist | GitHub Global Negotiation Guide
 
 **Negotiation DNA:** Base + Microsoft RSU + Bonus | Copilot Efficacy Measurement & Developer Analytics

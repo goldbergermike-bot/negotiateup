@@ -1,3 +1,48 @@
+---
+company: snowflake
+company_display: Snowflake
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bozeman
+    base_low: 180000
+    base_high: 225000
+    stock_low: 220000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 320000
+    currency: USD
+  - region: Seattle
+    base_low: 175000
+    base_high: 220000
+    stock_low: 210000
+    stock_high: 360000
+    bonus_pct: null
+    total_comp_low: 228000
+    total_comp_high: 310000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 150000
+    stock_low: 120000
+    stock_high: 195000
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 199000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Snowflake Senior SA = Databricks Senior SA = AWS Senior SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / No Bonus | CEO-Led AI Platform Pivot | TOP-OF-MARKET Initial Grants"
+---
 ### Solutions Architect | Snowflake Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | CEO-Led AI Platform Pivot | TOP-OF-MARKET Initial Grants

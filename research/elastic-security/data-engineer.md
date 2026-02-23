@@ -1,3 +1,50 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 155000
+    base_high: 200000
+    stock_low: 108000
+    stock_high: 190000
+    bonus_pct: 5
+    total_comp_low: 193000
+    total_comp_high: 270000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 145000
+    base_high: 190000
+    stock_low: 98000
+    stock_high: 175000
+    bonus_pct: 5
+    total_comp_low: 180000
+    total_comp_high: 255000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 118000
+    base_high: 152000
+    stock_low: 82000
+    stock_high: 144000
+    bonus_pct: 5
+    total_comp_low: 147000
+    total_comp_high: 208000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic Data Engineer IC3 = Google L4 Data Engineer = Meta E4 Data = CrowdStrike DE II = Splunk DE II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity"
+---
 ### Data Engineer | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity

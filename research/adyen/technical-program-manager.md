@@ -1,3 +1,52 @@
+---
+company: adyen
+company_display: Adyen
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 90000
+    base_high: 130000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 150000
+    total_comp_high: 250000
+    currency: EUR
+  - region: San Francisco
+    base_low: 145000
+    base_high: 200000
+    stock_low: 75000
+    stock_high: 155000
+    bonus_low: 16000
+    bonus_high: 30000
+    total_comp_low: 236000
+    total_comp_high: 385000
+    currency: USD
+  - region: London
+    base_low: 80000
+    base_high: 118000
+    stock_low: 42000
+    stock_high: 88000
+    bonus_low: 9000
+    bonus_high: 18000
+    total_comp_low: 131000
+    total_comp_high: 224000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Adyen | Google | Meta | Stripe | Visa | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Program Management Track`"
+---
 ### Technical Program Manager | Adyen Global Negotiation Guide
 
 **Negotiation DNA:** `AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Program Management Track`

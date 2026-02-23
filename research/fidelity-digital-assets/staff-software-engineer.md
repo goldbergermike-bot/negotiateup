@@ -1,3 +1,52 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 248000
+    base_high: 305000
+    stock_low: 280000
+    stock_high: 520000
+    bonus_low: 62000
+    bonus_high: 92000
+    total_comp_low: 382000
+    total_comp_high: 538000
+    currency: USD
+  - region: New York
+    base_low: 265000
+    base_high: 328000
+    stock_low: 305000
+    stock_high: 565000
+    bonus_low: 68000
+    bonus_high: 102000
+    total_comp_low: 415000
+    total_comp_high: 585000
+    currency: USD
+  - region: Remote US
+    base_low: 228000
+    base_high: 278000
+    stock_low: 255000
+    stock_high: 475000
+    bonus_low: 55000
+    bonus_high: 82000
+    total_comp_low: 348000
+    total_comp_high: 490000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#BlockchainEngineering` `#DigitalAssets` `#FIDD` `#StaffIC` `#CryptoPremium` `+15-25% Digital Assets Premium`"
+---
 ### Staff Software Engineer | Fidelity Digital Assets Global Negotiation Guide
 
 **Negotiation DNA:** `#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#BlockchainEngineering` `#DigitalAssets` `#FIDD` `#StaffIC` `#CryptoPremium` `+15-25% Digital Assets Premium`

@@ -1,3 +1,48 @@
+---
+company: databricks
+company_display: Databricks
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 268000
+    base_high: 338000
+    stock_low: 378000
+    stock_high: 665000
+    bonus_pct: 15
+    total_comp_low: 448000
+    total_comp_high: 635000
+    currency: USD
+  - region: New York
+    base_low: 275000
+    base_high: 345000
+    stock_low: 378000
+    stock_high: 665000
+    bonus_pct: 15
+    total_comp_low: 455000
+    total_comp_high: 642000
+    currency: USD
+  - region: Remote US
+    base_low: 262000
+    base_high: 332000
+    stock_low: 378000
+    stock_high: 665000
+    bonus_pct: 15
+    total_comp_low: 442000
+    total_comp_high: 628000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Databricks Staff SWE (L5) = Snowflake Staff SWE = Google L6 = Meta E6 = Amazon L7 = Microsoft 65-66
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | +15-25% Lakehouse AI Architect Premium | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Staff Software Engineer | Databricks Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | +15-25% Lakehouse AI Architect Premium | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**

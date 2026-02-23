@@ -1,3 +1,51 @@
+---
+company: renaissance-technologies
+company_display: Renaissance Technologies
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: East Setauket HQ (Long Island)
+    base_low: 260000
+    base_high: 310000
+    stock_low: null
+    stock_high: null
+    bonus_low: 100000
+    bonus_high: 175000
+    total_comp_low: 450000
+    total_comp_high: 650000
+    currency: USD
+  - region: New York City
+    base_low: 270000
+    base_high: 315000
+    stock_low: null
+    stock_high: null
+    bonus_low: 105000
+    bonus_high: 180000
+    total_comp_low: 465000
+    total_comp_high: 660000
+    currency: USD
+  - region: Remote US (Very Rare)
+    base_low: 250000
+    base_high: 295000
+    stock_low: null
+    stock_high: null
+    bonus_low: 85000
+    bonus_high: 150000
+    total_comp_low: 410000
+    total_comp_high: 580000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Medallion Fund` `Gold Standard` `Quant Pioneer` `Internal Platform Product` `Research Tooling` `Academic Culture`"
+---
 ### Product Manager | Renaissance Technologies Global Negotiation Guide
 
 **Negotiation DNA:** `Medallion Fund` `Gold Standard` `Quant Pioneer` `Internal Platform Product` `Research Tooling` `Academic Culture`

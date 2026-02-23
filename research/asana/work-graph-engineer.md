@@ -1,3 +1,48 @@
+---
+company: asana
+company_display: Asana
+role: work-graph-engineer
+role_display: Work Graph Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 365000
+    currency: USD
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 345000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 162000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "The Work Graph Engineer is Asana's most strategically critical hire — the specialist who builds and evolves the proprietary graph data model that is the foundation of Asana's entire product and the core of its $5B competitive moat."
+---
 ### Work Graph Engineer — Asana Salary Negotiation Guide
 
 **Negotiation DNA**: The Work Graph Engineer is Asana's most strategically critical hire — the specialist who builds and evolves the proprietary graph data model that is the foundation of Asana's entire product and the core of its $5B competitive moat.

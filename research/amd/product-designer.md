@@ -1,3 +1,48 @@
+---
+company: amd
+company_display: AMD
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 148000
+    base_high: 188000
+    stock_low: 68000
+    stock_high: 122000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: USD
+  - region: Austin
+    base_low: 142000
+    base_high: 182000
+    stock_low: 68000
+    stock_high: 122000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 225000
+    currency: USD
+  - region: Remote US
+    base_low: 138000
+    base_high: 175000
+    stock_low: 68000
+    stock_high: 122000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 218000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: AMD Product Designer (MTS) = NVIDIA UX = Intel UX Designer = Google L4 UX
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Semiconductor & AI Compute | AI-Native Workflow | **+30% AI PRODUCTIVITY PREMIUM**"
+---
 ### Product Designer | AMD Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Semiconductor & AI Compute | AI-Native Workflow | **+30% AI PRODUCTIVITY PREMIUM**

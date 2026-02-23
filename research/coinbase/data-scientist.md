@@ -1,3 +1,52 @@
+---
+company: coinbase
+company_display: Coinbase
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 215000
+    stock_low: 210000
+    stock_high: 420000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 252000
+    total_comp_high: 355000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 210000
+    stock_low: 200000
+    stock_high: 400000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 245000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 195000
+    stock_low: 180000
+    stock_high: 370000
+    bonus_low: 16000
+    bonus_high: 30000
+    total_comp_low: 228000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "`Everything Exchange` · `$2B Buyback` · `COIN` · `DS L4-L5` · `Multi-Asset Analytics` · `Market Intelligence` · `RSU/4yr Vest`"
+---
 ### Data Scientist | Coinbase Global Negotiation Guide
 
 **Negotiation DNA:** `Everything Exchange` · `$2B Buyback` · `COIN` · `DS L4-L5` · `Multi-Asset Analytics` · `Market Intelligence` · `RSU/4yr Vest`

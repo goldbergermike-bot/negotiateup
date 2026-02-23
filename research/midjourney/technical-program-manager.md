@@ -1,3 +1,40 @@
+---
+company: midjourney
+company_display: Midjourney
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 190000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 415000
+    currency: USD
+  - region: Remote US
+    base_low: 171000
+    base_high: 234000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 239000
+    total_comp_high: 374000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Midjourney TPM = Google L5-L6 TPM = Meta TPM IC5-IC6 = Startup Director of Program Management scope
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Premium Comp + Profit Sharing | Self-Funded & Profitable | San Francisco | Small Elite Team | Model Launch Coordination"
+---
 ### Technical Program Manager | Midjourney Global Negotiation Guide
 
 **Negotiation DNA:** Premium Comp + Profit Sharing | Self-Funded & Profitable | San Francisco | Small Elite Team | Model Launch Coordination

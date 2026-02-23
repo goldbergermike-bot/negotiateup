@@ -1,3 +1,53 @@
+---
+company: inflection-ai
+company_display: Inflection AI
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 165000
+    base_high: 225000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+  - region: Seattle
+    base_low: 160000
+    base_high: 218000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 185000
+    total_comp_high: 287000
+    currency: USD
+  - region: Remote US
+    base_low: 149000
+    base_high: 203000
+    stock_low: 90000
+    stock_high: 252000
+    bonus_low: 14000
+    bonus_high: 27000
+    total_comp_low: 171000
+    total_comp_high: 266000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Inflection Data Scientist = Microsoft L62-L63 Data Scientist = Google L3-L4 Data Scientist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | Pi User Intelligence"
+---
 ### Data Scientist | Inflection AI Global Negotiation Guide
 
 **Negotiation DNA:** Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | Pi User Intelligence

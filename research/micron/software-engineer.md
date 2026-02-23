@@ -1,3 +1,49 @@
+---
+company: micron
+company_display: Micron
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boise
+    base_low: 110000
+    base_high: 140000
+    stock_low: 30000
+    stock_high: 55000
+    bonus_pct: 8
+    total_comp_low: 165000
+    total_comp_high: 225000
+    currency: USD
+  - region: San Jose
+    base_low: 130000
+    base_high: 165000
+    stock_low: 40000
+    stock_high: 70000
+    bonus_pct: 8
+    total_comp_low: 195000
+    total_comp_high: 265000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 148000
+    stock_low: 32000
+    stock_high: 58000
+    bonus_pct: 8
+    total_comp_low: 172000
+    total_comp_high: 235000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Micron SWE I/II maps to Google L3/L4, Meta E3/E4, Amazon SDE I/II"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +10% AI/Memory Premium"
+---
 ### Software Engineer | Micron Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +10% AI/Memory Premium

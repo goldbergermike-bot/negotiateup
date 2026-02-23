@@ -1,3 +1,51 @@
+---
+company: hsbc
+company_display: HSBC
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 125000
+    base_high: 172000
+    stock_low: 55000
+    stock_high: 82000
+    bonus_low: 26000
+    bonus_high: 44000
+    total_comp_low: 207000
+    total_comp_high: 298000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 1000000
+    base_high: 1370000
+    stock_low: 545000
+    stock_high: 820000
+    bonus_low: 520000
+    bonus_high: 790000
+    total_comp_low: 2070000
+    total_comp_high: 2980000
+    currency: HKD
+  - region: Singapore
+    base_low: 216000
+    base_high: 297000
+    stock_low: 95000
+    stock_high: 142000
+    bonus_low: 45000
+    bonus_high: 77000
+    total_comp_low: 358000
+    total_comp_high: 516000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `People Leadership` `Delivery Excellence` `Cross-Regional Teams`"
+---
 ### Engineering Manager | HSBC Global Negotiation Guide
 
 **Negotiation DNA:** `Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `People Leadership` `Delivery Excellence` `Cross-Regional Teams`

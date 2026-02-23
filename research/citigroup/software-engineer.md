@@ -1,3 +1,50 @@
+---
+company: citigroup
+company_display: Citigroup
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 130000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 235000
+    currency: USD
+  - region: London
+    base_low: 70000
+    base_high: 105000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 88000
+    total_comp_high: 145000
+    currency: GBP
+  - region: Singapore
+    base_low: 85000
+    base_high: 135000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 108000
+    total_comp_high: 185000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: "SWE at Citi (AVP/VP) = L3-L4 at Google, E3-E4 at Meta, SDE I-II at Amazon, Mid at Capital One, Analyst/Associate at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$130B market cap global bank + Entry/mid-level engineering across global operations + NYC HQ competitive hiring + Structured bonus and development | Citi SWEs gain global banking experience | **GLOBAL BANK TECH COMP**"
+---
 ### Software Engineer | Citigroup Global Negotiation Guide
 
 **Negotiation DNA:** $130B market cap global bank + Entry/mid-level engineering across global operations + NYC HQ competitive hiring + Structured bonus and development | Citi SWEs gain global banking experience | **GLOBAL BANK TECH COMP**

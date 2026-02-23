@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 162000
+    base_high: 228000
+    stock_low: 58000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 305000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 142000
+    base_high: 202000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 268000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 72000
+    base_high: 110000
+    stock_low: 25000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 92000
+    total_comp_high: 148000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 2400000
+    base_high: 4500000
+    stock_low: 1000000
+    stock_high: 3000000
+    bonus_pct: 10
+    total_comp_low: 3000000
+    total_comp_high: 6000000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 125000
+    base_high: 178000
+    stock_low: 38000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 232000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora IC3 ~ Chargebee Senior/Staff | Recurly Staff | Stripe IC4 | Salesforce LMTS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Subscription platform senior builder | Billing engine architecture & revenue systems | **SENIOR IC PREMIUM**"
+---
 ### Senior Software Engineer | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Subscription platform senior builder | Billing engine architecture & revenue systems | **SENIOR IC PREMIUM**

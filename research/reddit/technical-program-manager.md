@@ -1,3 +1,49 @@
+---
+company: reddit
+company_display: Reddit
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 212000
+    stock_low: 88000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 262000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 218000
+    stock_low: 88000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 268000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 202000
+    stock_low: 88000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Reddit TPM (L4-L5) = Google L4 TPM = Meta IC4 TPM = Amazon TPM II = Microsoft 62 TPM
+data_sources:
+  - Reddit
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth"
+---
 ### Technical Program Manager | Reddit Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth

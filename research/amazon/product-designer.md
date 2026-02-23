@@ -1,3 +1,66 @@
+---
+company: amazon
+company_display: Amazon
+role: product-designer
+role_display: Product Designer (UX Designer)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 140000
+    base_high: 175000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: null
+    signing_bonus_low: 40000
+    signing_bonus_high: 80000
+    total_comp_low: 210000
+    total_comp_high: 340000
+    currency: USD
+  - region: Bay Area
+    base_low: 145000
+    base_high: 180000
+    stock_low: 130000
+    stock_high: 320000
+    bonus_pct: null
+    signing_bonus_low: 45000
+    signing_bonus_high: 85000
+    total_comp_low: 220000
+    total_comp_high: 355000
+    currency: USD
+  - region: NYC
+    base_low: 145000
+    base_high: 180000
+    stock_low: 125000
+    stock_high: 310000
+    bonus_pct: null
+    signing_bonus_low: 40000
+    signing_bonus_high: 80000
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: USD
+  - region: Austin
+    base_low: 130000
+    base_high: 170000
+    stock_low: 110000
+    stock_high: 280000
+    bonus_pct: null
+    signing_bonus_low: 35000
+    signing_bonus_high: 70000
+    total_comp_low: 195000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: UX Designer
+  raw: Amazon L5 UX Designer = Google L4 UX = Meta IC4 Product Designer = Apple ICT3 Design
+data_sources:
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "Back-Loaded RSU Vesting / Signing Bonus Bridge | Customer Obsession-Driven Design"
+---
 ### Product Designer (UX Designer) | Amazon Global Negotiation Guide
 
 **Negotiation DNA:** Back-Loaded RSU Vesting / Signing Bonus Bridge | Customer Obsession-Driven Design

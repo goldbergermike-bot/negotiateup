@@ -1,3 +1,48 @@
+---
+company: palantir
+company_display: Palantir
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 152000
+    base_high: 190000
+    stock_low: 230000
+    stock_high: 385000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 286000
+    currency: USD
+  - region: New York City
+    base_low: 158000
+    base_high: 195000
+    stock_low: 238000
+    stock_high: 395000
+    bonus_pct: null
+    total_comp_low: 218000
+    total_comp_high: 294000
+    currency: USD
+  - region: London
+    base_low: 80000
+    base_high: 102000
+    stock_low: 115000
+    stock_high: 195000
+    bonus_pct: null
+    total_comp_low: 109000
+    total_comp_high: 151000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Palantir Senior SA = Google Customer Engineer = Databricks Senior SA — but with 50%+ travel and customer embedding"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture"
+---
 ### Solutions Architect | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture

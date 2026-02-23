@@ -1,3 +1,52 @@
+---
+company: airbnb
+company_display: Airbnb
+role: ai-trip-planning-engineer
+role_display: AI Trip Planning Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Remote
+    base_low: 242000
+    base_high: 305000
+    stock_low: 325000
+    stock_high: 568000
+    bonus_pct: null
+    total_comp_low: 323000
+    total_comp_high: 447000
+    currency: USD
+  - region: New York
+    base_low: 242000
+    base_high: 305000
+    stock_low: 325000
+    stock_high: 568000
+    bonus_pct: null
+    total_comp_low: 323000
+    total_comp_high: 447000
+    currency: USD
+  - region: London
+    base_low: 166000
+    base_high: 210000
+    stock_low: 223000
+    stock_high: 390000
+    bonus_pct: null
+    total_comp_low: 222000
+    total_comp_high: 307000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airbnb AI Trip Planning Eng (Senior) = Google L4-L5 ML = Anthropic Senior Eng = OpenAI Senior Eng
+data_sources:
+  - Airbnb FY2025
+  - "Airbnb CEO Brian Chesky — Experiences & AI Strategy, 2025"
+  - AI Trip Planning Engineer Market — LLM Application Engineering Comp 2026
+  - "Airbnb Engineering Blog — LLM Infrastructure & AI Product Architecture"
+  - Consumer-Facing LLM Applications — Talent Market Report 2026
+negotiation_dna_summary: "Equity-Heavy + Competitive Base | **SIGNATURE ROLE** | **+15–25% AI PREMIUM** | Live Anywhere Policy | Experiences Marketplace Expansion"
+---
 ### AI Trip Planning Engineer | Airbnb Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base | **SIGNATURE ROLE** | **+15–25% AI PREMIUM** | Live Anywhere Policy | Experiences Marketplace Expansion

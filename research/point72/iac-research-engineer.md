@@ -1,3 +1,50 @@
+---
+company: point72
+company_display: Point72
+role: iac-research-engineer
+role_display: IAC Research Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stamford CT (HQ)
+    base_low: 325000
+    base_high: 450000
+    stock_low: null
+    stock_high: null
+    bonus_low: 360000
+    bonus_high: 550000
+    total_comp_low: 685000
+    total_comp_high: 1000000
+    currency: USD
+  - region: New York
+    base_low: 335000
+    base_high: 465000
+    stock_low: null
+    stock_high: null
+    bonus_low: 375000
+    bonus_high: 570000
+    total_comp_low: 710000
+    total_comp_high: 1035000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 610000
+    total_comp_high: 890000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`IAC Team` `Researcher Premium` `$466K+ L3` `+25-35% IAC Research Premium` `Alpha Capture Systems` `Signal Research Infrastructure` `Systematic Trading Models` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus` `SIGNATURE ROLE`"
+---
 ### IAC Research Engineer | Point72 Global Negotiation Guide
 
 **SIGNATURE ROLE** | **+25-35% IAC Research Premium** | **Highest Compensation Band**

@@ -1,3 +1,53 @@
+---
+company: cme-group
+company_display: CME Group
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 220000
+    base_high: 295000
+    stock_low: 75000
+    stock_high: 130000
+    bonus_low: 47000
+    bonus_high: 70000
+    total_comp_low: 342000
+    total_comp_high: 495000
+    currency: USD
+  - region: New York
+    base_low: 238000
+    base_high: 318000
+    stock_low: 81000
+    stock_high: 140000
+    bonus_low: 51000
+    bonus_high: 76000
+    total_comp_low: 370000
+    total_comp_high: 534000
+    currency: USD
+  - region: London
+    base_low: 171000
+    base_high: 229000
+    stock_low: 58000
+    stock_high: 101000
+    bonus_low: 37000
+    bonus_high: 54000
+    total_comp_low: 266000
+    total_comp_high: 384000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `System Architecture` `Technical Leadership` `Platform Strategy`"
+---
 ### Staff Software Engineer | CME Group Global Negotiation Guide
 
 **Negotiation DNA:** `Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `System Architecture` `Technical Leadership` `Platform Strategy`

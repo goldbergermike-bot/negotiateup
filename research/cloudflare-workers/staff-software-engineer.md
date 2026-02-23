@@ -1,3 +1,48 @@
+---
+company: cloudflare-workers
+company_display: Cloudflare Workers
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 228000
+    base_high: 288000
+    stock_low: 295000
+    stock_high: 480000
+    bonus_pct: 10
+    total_comp_low: 382000
+    total_comp_high: 535000
+    currency: USD
+  - region: Austin
+    base_low: 218000
+    base_high: 275000
+    stock_low: 282000
+    stock_high: 462000
+    bonus_pct: 10
+    total_comp_low: 368000
+    total_comp_high: 515000
+    currency: USD
+  - region: London
+    base_low: 152000
+    base_high: 192000
+    stock_low: 195000
+    stock_high: 318000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 352000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Cloudflare Staff SWE (L5-L6) = Google SWE L6-L7 = Meta SWE E6-E7 = Fastly Staff = Vercel Staff
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NYSE: NET) + Bonus | Edge AI Architecture Leadership | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**"
+---
 ### Staff Software Engineer | Cloudflare Workers Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NYSE: NET) + Bonus | Edge AI Architecture Leadership | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**

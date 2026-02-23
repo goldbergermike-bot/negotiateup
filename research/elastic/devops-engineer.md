@@ -1,3 +1,48 @@
+---
+company: elastic
+company_display: Elastic
+role: devops-engineer
+role_display: DevOps / Platform Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 208000
+    stock_low: 160000
+    stock_high: 268000
+    bonus_pct: 5
+    total_comp_low: 200000
+    total_comp_high: 268000
+    currency: USD
+  - region: Amsterdam
+    base_low: 70000
+    base_high: 90000
+    stock_low: 62000
+    stock_high: 108000
+    bonus_pct: 5
+    total_comp_low: 82000
+    total_comp_high: 112000
+    currency: EUR
+  - region: Bangalore
+    base_low: 3800000
+    base_high: 5800000
+    stock_low: 2800000
+    stock_high: 4800000
+    bonus_pct: 5
+    total_comp_low: 4800000
+    total_comp_high: 7500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Elastic Senior Platform Eng = Google L4 SRE = MongoDB Senior Platform Eng = Confluent Senior Platform Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Small Bonus | \"Battle for the AI Data Layer\" | ESRE Premium"
+---
 ### DevOps / Platform Engineer | Elastic Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Small Bonus | "Battle for the AI Data Layer" | ESRE Premium

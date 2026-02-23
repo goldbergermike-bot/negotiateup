@@ -1,3 +1,55 @@
+---
+company: tenable
+company_display: Tenable
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Columbia MD
+    base_low: 130000
+    base_high: 165000
+    stock_low: 50000
+    stock_high: 110000
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 22000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Austin
+    base_low: 125000
+    base_high: 160000
+    stock_low: 45000
+    stock_high: 100000
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 22000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 100000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_pct: 10
+    signing_bonus_low: 6000
+    signing_bonus_high: 14000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Product Designer at Tenable maps to mid-to-senior UX/Product Design at peer cybersecurity companies (CrowdStrike UX Designer, Palo Alto Networks Product Designer) and L4–L5 Design at FAANG-tier companies."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London"
+---
 ### Product Designer | Tenable Global Negotiation Guide
 
 **Negotiation DNA:** Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London

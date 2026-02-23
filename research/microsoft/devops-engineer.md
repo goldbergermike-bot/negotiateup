@@ -1,3 +1,68 @@
+---
+company: microsoft
+company_display: Microsoft
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: DevOps Engineer I-II
+    base_low: 120000
+    base_high: 165000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 10
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 148000
+    total_comp_high: 230000
+    currency: USD
+  - region: Senior DevOps Engineer
+    base_low: 150000
+    base_high: 210000
+    stock_low: 110000
+    stock_high: 290000
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 45000
+    total_comp_low: 220000
+    total_comp_high: 350000
+    currency: USD
+  - region: Principal DevOps Engineer
+    base_low: 190000
+    base_high: 265000
+    stock_low: 240000
+    stock_high: 530000
+    bonus_pct: 20
+    signing_bonus_low: 40000
+    signing_bonus_high: 75000
+    total_comp_low: 330000
+    total_comp_high: 510000
+    currency: USD
+  - region: Partner DevOps Engineer
+    base_low: 250000
+    base_high: 340000
+    stock_low: 450000
+    stock_high: 1000000
+    bonus_pct: 25
+    signing_bonus_low: 60000
+    signing_bonus_high: 100000
+    total_comp_low: 490000
+    total_comp_high: 780000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+  - Indeed
+negotiation_dna_summary: null
+---
 # DevOps Engineer - Microsoft Negotiation Guide
 
 ## Role Overview

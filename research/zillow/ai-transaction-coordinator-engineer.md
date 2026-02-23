@@ -1,3 +1,52 @@
+---
+company: zillow
+company_display: Zillow
+role: ai-transaction-coordinator-engineer
+role_display: AI Transaction Coordinator Engineer (SIGNATURE ROLE)
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 198000
+    base_high: 268000
+    stock_low: 280000
+    stock_high: 440000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 385000
+    currency: USD
+  - region: San Francisco
+    base_low: 214000
+    base_high: 289000
+    stock_low: 302000
+    stock_high: 475000
+    bonus_pct: 15
+    total_comp_low: 297000
+    total_comp_high: 415000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 241000
+    stock_low: 252000
+    stock_high: 396000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 347000
+    currency: USD
+level_mapping:
+  internal: SIGNATURE ROLE
+  raw: "Zillow AI Transaction Coordinator Engineer = Google AI Engineer L5–L6 = Redfin Senior ML Engineer (no equivalent — novel role) = Opendoor Transaction AI Engineer = Amazon Applied Scientist L6 = Meta AI Research Engineer E6 — NOTE: This is a novel role category. There are few direct comparisons. Negotiate accordingly."
+data_sources:
+  - Zillow AI Transaction Coordinator — From Search to Closing Prep 2026
+  - Zillow 230M+ Monthly Unique Users — Real Estate Platform Scale
+  - "Zillow Housing Super App — Mortgage, Closing, Insurance Integration"
+  - Zillow AI Transaction Coordinator Role Definition — Novel Category Compensation Analysis 2026
+  - "Real Estate Transaction Revenue Attribution — Mortgage Leads, Agent Referrals, Closing Services"
+negotiation_dna_summary: "Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep"
+---
 ### AI Transaction Coordinator Engineer (SIGNATURE ROLE) | Zillow Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep

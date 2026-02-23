@@ -1,3 +1,40 @@
+---
+company: postman
+company_display: Postman
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco HQ
+    base_low: 175000
+    base_high: 235000
+    stock_low: 90000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 355000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 220000
+    stock_low: 80000
+    stock_high: 220000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Postman Senior SWE = GitLab Senior SWE = Google L4 = Stripe Senior SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($5.6B Valuation) | API Development Platform | 30M+ Developer User Base | Liquidity Risk"
+---
 ### Senior Software Engineer | Postman Global Negotiation Guide
 
 **Negotiation DNA:** Private ($5.6B Valuation) | API Development Platform | 30M+ Developer User Base | Liquidity Risk

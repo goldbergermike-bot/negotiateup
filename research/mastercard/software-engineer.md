@@ -1,3 +1,52 @@
+---
+company: mastercard
+company_display: Mastercard
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Purchase NY
+    base_low: 120000
+    base_high: 155000
+    stock_low: 60000
+    stock_high: 100000
+    bonus_low: 12000
+    bonus_high: 20000
+    total_comp_low: 192000
+    total_comp_high: 275000
+    currency: USD
+  - region: New York
+    base_low: 125000
+    base_high: 160000
+    stock_low: 65000
+    stock_high: 110000
+    bonus_low: 13000
+    bonus_high: 22000
+    total_comp_low: 203000
+    total_comp_high: 292000
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 100000
+    stock_low: 35000
+    stock_high: 60000
+    bonus_low: 8000
+    bonus_high: 14000
+    total_comp_low: 118000
+    total_comp_high: 174000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Mastercard | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `Payments Infrastructure` `Biometric Authentication` `IC Track`"
+---
 ### Software Engineer | Mastercard Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `Payments Infrastructure` `Biometric Authentication` `IC Track`

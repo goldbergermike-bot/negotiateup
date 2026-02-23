@@ -1,3 +1,53 @@
+---
+company: bill-com
+company_display: Bill.com
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 175000
+    base_high: 220000
+    stock_low: 140000
+    stock_high: 240000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 333000
+    total_comp_high: 495000
+    currency: USD
+  - region: Houston TX
+    base_low: 150000
+    base_high: 190000
+    stock_low: 110000
+    stock_high: 190000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 275000
+    total_comp_high: 408000
+    currency: USD
+  - region: Salt Lake City UT
+    base_low: 145000
+    base_high: 185000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_low: 14000
+    bonus_high: 27000
+    total_comp_low: 259000
+    total_comp_high: 392000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| BILL | Google | Meta | Stripe | PayPal | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: BILL` `Agentic AP` `Senior Software Engineer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Platform Engineering`"
+---
 ### Senior Software Engineer | Bill.com Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: BILL` `Agentic AP` `Senior Software Engineer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Platform Engineering`

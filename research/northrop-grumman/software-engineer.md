@@ -1,3 +1,58 @@
+---
+company: northrop-grumman
+company_display: Northrop Grumman
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Falls Church, VA"
+    base_low: 110000
+    base_high: 160000
+    stock_low: 25000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 210000
+    currency: USD
+  - region: "Redondo Beach, CA"
+    base_low: 115000
+    base_high: 165000
+    stock_low: 25000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 215000
+    currency: USD
+  - region: "Huntsville, AL"
+    base_low: 105000
+    base_high: 155000
+    stock_low: 23000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 200000
+    currency: USD
+  - region: "Baltimore, MD"
+    base_low: 110000
+    base_high: 160000
+    stock_low: 25000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Northrop SWE = L3Harris SWE = Raytheon SWE -- Northrop pays 5-10% above defense industry average due to space systems talent competition"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense + Tech Premium | $75B Market Cap | Space Systems/Defense | Standard 40-45 Hour Culture"
+---
 ### Software Engineer | Northrop Grumman Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense + Tech Premium | $75B Market Cap | Space Systems/Defense | Standard 40-45 Hour Culture

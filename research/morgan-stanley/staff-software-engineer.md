@@ -1,3 +1,53 @@
+---
+company: morgan-stanley
+company_display: Morgan Stanley
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 230000
+    base_high: 300000
+    stock_low: 75000
+    stock_high: 130000
+    bonus_low: 50000
+    bonus_high: 82000
+    total_comp_low: 355000
+    total_comp_high: 512000
+    currency: USD
+  - region: London
+    base_low: 189000
+    base_high: 246000
+    stock_low: 62000
+    stock_high: 107000
+    bonus_low: 41000
+    bonus_high: 67000
+    total_comp_low: 291000
+    total_comp_high: 420000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 1790000
+    base_high: 2340000
+    stock_low: 585000
+    stock_high: 1010000
+    bonus_low: 390000
+    bonus_high: 640000
+    total_comp_low: 2770000
+    total_comp_high: 3990000
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Technical Strategy Owner` `Platform Architecture Authority` `Org-Wide Engineering Influence`"
+---
 ### Staff Software Engineer | Morgan Stanley Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Technical Strategy Owner` `Platform Architecture Authority` `Org-Wide Engineering Influence`

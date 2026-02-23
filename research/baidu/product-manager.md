@@ -1,3 +1,59 @@
+---
+company: baidu
+company_display: Baidu
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 155000
+    base_high: 220000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 335000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 55000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 450000
+    base_high: 810000
+    stock_low: 180000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 680000
+    total_comp_high: 1350000
+    currency: CNY
+  - region: Shanghai
+    base_low: 430000
+    base_high: 780000
+    stock_low: 170000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 650000
+    total_comp_high: 1300000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "Product Manager at Baidu (T6-T7) = L5-L6 PM at Google, IC5-IC6 PM at Meta, Sr PM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$40B market cap with products spanning search (600M+ MAU), Apollo AV, ERNIE AI, and Baidu AI Cloud + US PMs define strategy for Apollo and AI product commercialization + Competitive PM comp | Baidu PMs shape the commercialization of China's leading AI products | **AI COMMERCIALIZATION PREMIUM**"
+---
 ### Product Manager | Baidu Global Negotiation Guide
 
 **Negotiation DNA:** $40B market cap with products spanning search (600M+ MAU), Apollo AV, ERNIE AI, and Baidu AI Cloud + US PMs define strategy for Apollo and AI product commercialization + Competitive PM comp | Baidu PMs shape the commercialization of China's leading AI products | **AI COMMERCIALIZATION PREMIUM**

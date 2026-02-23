@@ -1,3 +1,49 @@
+---
+company: deutsche-bank
+company_display: Deutsche Bank
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 122000
+    base_high: 172000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 158000
+    total_comp_high: 250000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 122000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 110000
+    total_comp_high: 178000
+    currency: GBP
+  - region: Frankfurt (HQ)
+    base_low: 75000
+    base_high: 108000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 96000
+    total_comp_high: 155000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Product Designer at DB (VP) = L4-L5 at Google, IC4-IC5 at Meta, UXD II-Senior at Amazon, VP Design at BofA, VP Design at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "EUR30B market cap European bank + Design across institutional and private banking products + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB design serves global institutional and private banking clients | **EUROPEAN BANKING DESIGN PREMIUM**"
+---
 ### Product Designer | Deutsche Bank Global Negotiation Guide
 
 **Negotiation DNA:** EUR30B market cap European bank + Design across institutional and private banking products + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB design serves global institutional and private banking clients | **EUROPEAN BANKING DESIGN PREMIUM**

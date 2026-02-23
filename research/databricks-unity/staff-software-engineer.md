@@ -1,3 +1,48 @@
+---
+company: databricks-unity
+company_display: Databricks Unity
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 258000
+    base_high: 318000
+    stock_low: 385000
+    stock_high: 625000
+    bonus_pct: 15
+    total_comp_low: 442000
+    total_comp_high: 608000
+    currency: USD
+  - region: New York
+    base_low: 265000
+    base_high: 325000
+    stock_low: 385000
+    stock_high: 625000
+    bonus_pct: 15
+    total_comp_low: 448000
+    total_comp_high: 615000
+    currency: USD
+  - region: London
+    base_low: 178000
+    base_high: 218000
+    stock_low: 255000
+    stock_high: 415000
+    bonus_pct: 15
+    total_comp_low: 302000
+    total_comp_high: 412000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Databricks Staff SWE (L5-L6) = Snowflake Staff = Google L6 = Meta E6 = Amazon L7 = Microsoft 65-66
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Staff Software Engineer | Databricks Unity Global Negotiation Guide
 
 **Negotiation DNA:** Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**

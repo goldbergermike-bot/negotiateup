@@ -1,3 +1,48 @@
+---
+company: broadcom
+company_display: Broadcom
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose (USD)
+    base_low: 155000
+    base_high: 205000
+    stock_low: 160000
+    stock_high: 310000
+    bonus_pct: 20
+    total_comp_low: 218000
+    total_comp_high: 318000
+    currency: USD
+  - region: Singapore (SGD S$)
+    base_low: 128000
+    base_high: 170000
+    stock_low: 132000
+    stock_high: 255000
+    bonus_pct: 20
+    total_comp_low: 180000
+    total_comp_high: 265000
+    currency: SGD
+  - region: London (GBP £)
+    base_low: 95000
+    base_high: 132000
+    stock_low: 96000
+    stock_high: 188000
+    bonus_pct: 20
+    total_comp_low: 136000
+    total_comp_high: 206000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Broadcom Product Manager = VMware Senior Product Manager = Google L5 PM = NVIDIA Product Manager = Microsoft Senior PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + AVGO RSUs (4yr vest) + 20-25% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp"
+---
 ### Product Manager | Broadcom Global Negotiation Guide
 
 **Negotiation DNA:** Base + AVGO RSUs (4yr vest) + 20-25% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp

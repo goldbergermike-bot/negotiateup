@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 175000
+    base_high: 245000
+    stock_low: 72000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 350000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 155000
+    base_high: 218000
+    stock_low: 55000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 50000
+    base_high: 82000
+    stock_low: 18000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 62000
+    total_comp_high: 110000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 82000
+    base_high: 125000
+    stock_low: 35000
+    stock_high: 82000
+    bonus_pct: 10
+    total_comp_low: 108000
+    total_comp_high: 175000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2800000
+    base_high: 5200000
+    stock_low: 1400000
+    stock_high: 3800000
+    bonus_pct: 10
+    total_comp_low: 3800000
+    total_comp_high: 7000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath IC3 ~ Microsoft 63 | Google L5 | Automation Anywhere Staff | ServiceNow Senior | Salesforce LMTS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Automation platform senior builder | RPA engine & orchestration systems architecture | **SENIOR IC PREMIUM**"
+---
 ### Senior Software Engineer | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** Automation platform senior builder | RPA engine & orchestration systems architecture | **SENIOR IC PREMIUM**

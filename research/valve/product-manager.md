@@ -1,3 +1,49 @@
+---
+company: valve
+company_display: Valve
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue WA
+    base_low: 175000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 250000
+    total_comp_high: 450000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 160000
+    base_high: 238000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 420000
+    currency: USD
+  - region: N/A — Valve is Bellevue-only
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Valve PM (no formal title) ~ Google L6 PM = Meta IC6 PM = Director PM at most companies
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue"
+---
 ### Product Manager | Valve Global Negotiation Guide
 
 **Negotiation DNA:** Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue

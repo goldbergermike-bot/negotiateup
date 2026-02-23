@@ -1,3 +1,48 @@
+---
+company: servicenow
+company_display: Servicenow
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara (USD)
+    base_low: 185000
+    base_high: 230000
+    stock_low: 190000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 325000
+    currency: USD
+  - region: San Diego (USD)
+    base_low: 170000
+    base_high: 215000
+    stock_low: 170000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 298000
+    currency: USD
+  - region: London (GBP £)
+    base_low: 120000
+    base_high: 150000
+    stock_low: 124000
+    stock_high: 221000
+    bonus_pct: 15
+    total_comp_low: 156000
+    total_comp_high: 212000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ServiceNow Senior SA = AWS Senior SA = Google Customer Engineer L4 = Salesforce Senior SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform"
+---
 ### Solutions Architect | ServiceNow Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform

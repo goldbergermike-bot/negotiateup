@@ -1,3 +1,48 @@
+---
+company: shopify
+company_display: Shopify
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 170000
+    base_high: 218000
+    stock_low: 150000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 328000
+    currency: CAD
+  - region: San Francisco
+    base_low: 188000
+    base_high: 238000
+    stock_low: 168000
+    stock_high: 302000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 362000
+    currency: USD
+  - region: Remote US/Canada
+    base_low: 178000
+    base_high: 225000
+    stock_low: 158000
+    stock_high: 285000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 342000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shopify SecEng (L5-L7) = Google SecEng L4-L5 = Meta SecEng E4-E5 = Stripe SecEng = CrowdStrike Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce Security | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**"
+---
 ### Security Engineer | Shopify Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce Security | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**

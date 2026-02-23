@@ -1,3 +1,51 @@
+---
+company: andreessen-horowitz
+company_display: Andreessen Horowitz
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 205000
+    base_high: 268000
+    stock_low: null
+    stock_high: null
+    bonus_low: 133000
+    bonus_high: 220000
+    total_comp_low: 338000
+    total_comp_high: 488000
+    currency: USD
+  - region: San Francisco
+    base_low: 200000
+    base_high: 262000
+    stock_low: null
+    stock_high: null
+    bonus_low: 128000
+    bonus_high: 214000
+    total_comp_low: 328000
+    total_comp_high: 476000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_low: 124000
+    bonus_high: 208000
+    total_comp_low: 319000
+    total_comp_high: 463000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Investment Data Security` `LP Confidentiality` `Defense-Grade Infrastructure`"
+---
 ### Security Engineer | Andreessen Horowitz Global Negotiation Guide
 
 **Negotiation DNA:** `$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Investment Data Security` `LP Confidentiality` `Defense-Grade Infrastructure`

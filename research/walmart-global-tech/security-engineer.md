@@ -1,3 +1,39 @@
+---
+company: walmart-global-tech
+company_display: Walmart Global Tech
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bentonville AR (HQ)
+    base_low: 130000
+    base_high: 185000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 275000
+    currency: USD
+  - region: Bay Area (Sunnyvale)
+    base_low: 142000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 183000
+    total_comp_high: 300000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Walmart Global Tech Security Engineer = Google Security Engineer L3-L4 = Amazon Security Engineer = Meta Security Engineer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage"
+---
 ### Security Engineer | Walmart Global Tech Global Negotiation Guide
 
 **Negotiation DNA:** Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage

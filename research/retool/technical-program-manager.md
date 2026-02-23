@@ -1,3 +1,48 @@
+---
+company: retool
+company_display: Retool
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 225000
+    stock_low: 150000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 340000
+    currency: USD
+  - region: New York
+    base_low: 172000
+    base_high: 220000
+    stock_low: 145000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 330000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 148000
+    stock_low: 98000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 218000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Retool TPM (L4-L5) = Google TPM L5-L6 = Meta TPM E5-E6 = Vercel TPM = Datadog TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI Platform Program Delivery | 30K+ Companies | **RETOOL AI PREMIUM**"
+---
 ### Technical Program Manager | Retool Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI Platform Program Delivery | 30K+ Companies | **RETOOL AI PREMIUM**

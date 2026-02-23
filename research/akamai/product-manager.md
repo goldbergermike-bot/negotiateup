@@ -1,3 +1,49 @@
+---
+company: akamai
+company_display: Akamai
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge (MA)
+    base_low: 150000
+    base_high: 185000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 285000
+    currency: USD
+  - region: San Francisco
+    base_low: 160000
+    base_high: 195000
+    stock_low: 85000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 230000
+    total_comp_high: 305000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 175000
+    stock_low: 70000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Akamai PM = Google L5 PM / Meta PM (IC5) / Amazon PM (L6)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Product Strategy Premium"
+---
 ### Product Manager | Akamai Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Product Strategy Premium

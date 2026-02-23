@@ -1,3 +1,48 @@
+---
+company: cerner
+company_display: Cerner
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Kansas City MO
+    base_low: 125000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 250000
+    currency: USD
+  - region: Austin TX
+    base_low: 130000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 255000
+    currency: USD
+  - region: Remote US
+    base_low: 120000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 240000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Oracle Health IC2-IC3 DE = Google L3-L4 DE = UHG DE = Epic DE (higher TC with RSUs)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: Oracle-Acquired / Enterprise Health IT / RSU + Bonus / Healthcare Data Migration
+---
 ### Data Engineer | Cerner (Oracle Health) Global Negotiation Guide
 
 **Negotiation DNA:** Oracle-Acquired / Enterprise Health IT / RSU + Bonus / Healthcare Data Migration

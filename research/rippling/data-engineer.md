@@ -1,3 +1,48 @@
+---
+company: rippling
+company_display: Rippling
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 218000
+    stock_low: 155000
+    stock_high: 285000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 152000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 332000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 205000
+    stock_low: 142000
+    stock_high: 262000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 315000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rippling Data Engineer = Gusto Data Engineer = Workday Data Engineer = Google L3-L4 Data = Meta E3-E4 Data
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **COMPOUND EMPLOYEE GRAPH DATA PREMIUM**"
+---
 ### Data Engineer | Rippling Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **COMPOUND EMPLOYEE GRAPH DATA PREMIUM**

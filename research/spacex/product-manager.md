@@ -1,3 +1,39 @@
+---
+company: spacex
+company_display: Spacex
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Hawthorne, CA"
+    base_low: 155000
+    base_high: 205000
+    stock_low: 120000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 370000
+    currency: USD
+  - region: "Redmond, WA"
+    base_low: 155000
+    base_high: 205000
+    stock_low: 120000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 370000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: SpaceX PM = Google L5 PM = Meta PM5 -- but with hardware/firmware product management and broader scope
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starlink Consumer/Enterprise Products | 60+ Hour Culture"
+---
 ### Product Manager | SpaceX Global Negotiation Guide
 
 **Negotiation DNA:** Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starlink Consumer/Enterprise Products | 60+ Hour Culture

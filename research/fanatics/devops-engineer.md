@@ -1,3 +1,39 @@
+---
+company: fanatics
+company_display: Fanatics
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC
+    base_low: 132000
+    base_high: 185000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 262000
+    currency: USD
+  - region: Jacksonville FL (HQ)
+    base_low: 122000
+    base_high: 175000
+    stock_low: 45000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Fanatics DevOps = Google SRE L3-L4 = Amazon Systems Engineer = Shopify SRE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Private $31B Valuation | Growth Equity | Sports Commerce Monopoly | Pre-IPO Upside"
+---
 ### DevOps Engineer | Fanatics Global Negotiation Guide
 
 **Negotiation DNA:** Private $31B Valuation | Growth Equity | Sports Commerce Monopoly | Pre-IPO Upside

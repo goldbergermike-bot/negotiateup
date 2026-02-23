@@ -1,3 +1,48 @@
+---
+company: ppro
+company_display: Ppro
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 70000
+    base_high: 100000
+    stock_low: 22000
+    stock_high: 48000
+    bonus_pct: null
+    total_comp_low: 92000
+    total_comp_high: 148000
+    currency: GBP
+  - region: Munich (EUR)
+    base_low: 75000
+    base_high: 105000
+    stock_low: 20000
+    stock_high: 45000
+    bonus_pct: null
+    total_comp_low: 95000
+    total_comp_high: 150000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 95000
+    base_high: 135000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 195000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a data science compensation framework spanning London, Munich, and Singapore markets."
+---
 ### Data Scientist — PPRO Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a data science compensation framework spanning London, Munich, and Singapore markets.

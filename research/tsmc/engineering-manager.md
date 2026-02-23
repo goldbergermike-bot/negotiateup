@@ -1,3 +1,49 @@
+---
+company: tsmc
+company_display: TSMC
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Phoenix AZ
+    base_low: 180000
+    base_high: 238000
+    stock_low: 55000
+    stock_high: 88000
+    bonus_pct: 18
+    total_comp_low: 255000
+    total_comp_high: 355000
+    currency: USD
+  - region: San Jose
+    base_low: 195000
+    base_high: 258000
+    stock_low: 62000
+    stock_high: 98000
+    bonus_pct: 18
+    total_comp_low: 275000
+    total_comp_high: 382000
+    currency: USD
+  - region: Hsinchu Taiwan
+    base_low: null
+    base_high: null
+    stock_low: 40000
+    stock_high: 70000
+    bonus_pct: 25
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: TSMC Engineering Manager = Intel Foundry Engineering Manager (Grade 9–10) = Samsung Foundry EM = Applied Materials Engineering Manager = Synopsys Engineering Manager = Google L7 Manager equivalent scope
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone"
+---
 ### Engineering Manager | TSMC Global Negotiation Guide
 
 **Negotiation DNA:** Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone

@@ -1,3 +1,49 @@
+---
+company: unitedhealth-group
+company_display: UnitedHealth Group
+role: healthcare-ai-platform-engineer
+role_display: Healthcare AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minnetonka MN
+    base_low: 155000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 310000
+    currency: USD
+  - region: Dallas TX
+    base_low: 150000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 300000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: UHG Senior Engineer (AI) = Google L4-L5 = Meta E4-E5 = Optum T5-T6
+data_sources:
+  - Levels.fyi
+  - Hired
+negotiation_dna_summary: "Health Insurance Giant / Bonus-Heavy Comp / RSU Growing | **SIGNATURE ROLE** | **+10-20% AI/ML PREMIUM**"
+---
 ### Healthcare AI Platform Engineer | UnitedHealth Group Global Negotiation Guide
 
 **Negotiation DNA:** Health Insurance Giant / Bonus-Heavy Comp / RSU Growing | **SIGNATURE ROLE** | **+10-20% AI/ML PREMIUM**

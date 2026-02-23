@@ -1,3 +1,48 @@
+---
+company: mercury
+company_display: Mercury
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 200000
+    stock_low: 155000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 275000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 195000
+    stock_low: 150000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 268000
+    currency: USD
+  - region: Remote (US)
+    base_low: 145000
+    base_high: 182000
+    stock_low: 135000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Mercury DS (Mid) = Google L4 DS = Meta IC4 DS = Stripe Data Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure"
+---
 ### Data Scientist | Mercury Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure

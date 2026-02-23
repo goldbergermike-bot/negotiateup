@@ -1,3 +1,56 @@
+---
+company: new-relic
+company_display: New Relic
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 15000
+    signing_bonus_high: 28000
+    total_comp_low: 210000
+    total_comp_high: 295000
+    currency: USD
+  - region: Portland
+    base_low: 145000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 12000
+    signing_bonus_high: 22000
+    total_comp_low: 190000
+    total_comp_high: 265000
+    currency: USD
+  - region: London
+    base_low: 92000
+    base_high: 130000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 8000
+    signing_bonus_high: 16000
+    total_comp_low: 115000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Technical Program Manager at New Relic maps to TPM/Sr TPM across the industry. Equivalent titles include TPM II/Sr (Amazon), Technical Program Manager (Meta/Google), and Program Manager (Datadog/Microsoft)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Technical Program Manager | New Relic (Private — TPG/Francisco Partners) | Program Management Track | Options/4yr Vesting | Observability Platform"
+---
 ### Technical Program Manager | New Relic Global Negotiation Guide
 
 **Negotiation DNA:** Technical Program Manager | New Relic (Private — TPG/Francisco Partners) | Program Management Track | Options/4yr Vesting | Observability Platform

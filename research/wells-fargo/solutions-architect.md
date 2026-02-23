@@ -1,3 +1,50 @@
+---
+company: wells-fargo
+company_display: Wells Fargo
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 155000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 210000
+    total_comp_high: 345000
+    currency: USD
+  - region: New York City
+    base_low: 152000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 205000
+    total_comp_high: 335000
+    currency: USD
+  - region: Charlotte
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at WF (SVP/Director) = L5-L6 at Google, E5-E6 at Meta, Principal SA at Amazon, Principal Architect at Capital One, SVP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$225B market cap bank + Architecture drives the entire rebuilding strategy + SF HQ tech market rates + Architects are most critical hires during transformation | Wells Fargo SAs define the bank's future technology landscape | **TRANSFORMATION ARCHITECTURE PREMIUM**"
+---
 ### Solutions Architect | Wells Fargo Global Negotiation Guide
 
 **Negotiation DNA:** $225B market cap bank + Architecture drives the entire rebuilding strategy + SF HQ tech market rates + Architects are most critical hires during transformation | Wells Fargo SAs define the bank's future technology landscape | **TRANSFORMATION ARCHITECTURE PREMIUM**

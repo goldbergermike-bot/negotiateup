@@ -1,3 +1,39 @@
+---
+company: coupang
+company_display: Coupang
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 140000
+    base_high: 195000
+    stock_low: 65000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 285000
+    currency: USD
+  - region: Seattle
+    base_low: 135000
+    base_high: 188000
+    stock_low: 60000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Coupang Product Designer = Google UX Designer L3-L4 = Amazon UX Designer = Meta Product Designer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive US Comp | CPNG RSUs ($40B Market Cap) | Korean E-Commerce Leader | Mountain View Office"
+---
 ### Product Designer | Coupang Global Negotiation Guide
 
 **Negotiation DNA:** Competitive US Comp | CPNG RSUs ($40B Market Cap) | Korean E-Commerce Leader | Mountain View Office

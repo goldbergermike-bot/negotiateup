@@ -1,3 +1,51 @@
+---
+company: etrade
+company_display: Etrade
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 128000
+    base_high: 168000
+    stock_low: null
+    stock_high: null
+    bonus_low: 22000
+    bonus_high: 39000
+    total_comp_low: 182000
+    total_comp_high: 262000
+    currency: USD
+  - region: "Jersey City, NJ"
+    base_low: 122000
+    base_high: 160000
+    stock_low: null
+    stock_high: null
+    bonus_low: 21000
+    bonus_high: 37000
+    total_comp_low: 173000
+    total_comp_high: 249000
+    currency: USD
+  - region: "Alpharetta, GA"
+    base_low: 109000
+    base_high: 143000
+    stock_low: null
+    stock_high: null
+    bonus_low: 19000
+    bonus_high: 33000
+    total_comp_low: 155000
+    total_comp_high: 223000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `CI/CD Pipeline` `Infrastructure Automation` `Cloud & On-Prem Hybrid`"
+---
 ### DevOps Engineer | E*TRADE (Morgan Stanley) Global Negotiation Guide
 
 **Negotiation DNA:** `Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `CI/CD Pipeline` `Infrastructure Automation` `Cloud & On-Prem Hybrid`

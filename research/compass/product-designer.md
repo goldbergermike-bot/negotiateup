@@ -1,3 +1,39 @@
+---
+company: compass
+company_display: Compass
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 135000
+    base_high: 188000
+    stock_low: 38000
+    stock_high: 132000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 248000
+    currency: USD
+  - region: Remote US
+    base_low: 122000
+    base_high: 175000
+    stock_low: 32000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 142000
+    total_comp_high: 228000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Compass PD (IC2-IC3) = Zillow PD = Redfin PD = Opendoor PD = Google L3-L4 UX
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **PROPTECH UX PREMIUM**"
+---
 ### Product Designer | Compass Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **PROPTECH UX PREMIUM**

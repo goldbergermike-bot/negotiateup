@@ -1,3 +1,53 @@
+---
+company: fiserv
+company_display: Fiserv
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brookfield WI
+    base_low: 170000
+    base_high: 225000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_low: 28000
+    bonus_high: 50000
+    total_comp_low: 318000
+    total_comp_high: 515000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 260000
+    stock_low: 150000
+    stock_high: 300000
+    bonus_low: 35000
+    bonus_high: 58000
+    total_comp_low: 385000
+    total_comp_high: 618000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 155000
+    stock_low: 75000
+    stock_high: 150000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 208000
+    total_comp_high: 340000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Fiserv | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Management Track` `M1-M2`"
+---
 ### Engineering Manager | Fiserv Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Management Track` `M1-M2`

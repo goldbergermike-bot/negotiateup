@@ -1,3 +1,48 @@
+---
+company: revolut
+company_display: Revolut
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":gb: London (GBP)"
+    base_low: 55000
+    base_high: 80000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 140000
+    currency: GBP
+  - region: ":lt: Vilnius (EUR)"
+    base_low: 40000
+    base_high: 60000
+    stock_low: 20000
+    stock_high: 45000
+    bonus_pct: null
+    total_comp_low: 60000
+    total_comp_high: 105000
+    currency: EUR
+  - region: ":us: New York (USD)"
+    base_low: 110000
+    base_high: 150000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 250000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a software engineering compensation framework spanning London, Vilnius, and New York markets. At the Software Engineer level, you are the foundation of Revolut's hyper-growth engineering machine — the builders shipping the product features that drive the $9B revenue engine toward a historic US IPO."
+---
 ### Software Engineer — Revolut Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a software engineering compensation framework spanning London, Vilnius, and New York markets. At the Software Engineer level, you are the foundation of Revolut's hyper-growth engineering machine — the builders shipping the product features that drive the $9B revenue engine toward a historic US IPO.

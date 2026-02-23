@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 145000
+    base_high: 182000
+    stock_low: 25000
+    stock_high: 48000
+    bonus_pct: 5
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+  - region: San Diego
+    base_low: 134000
+    base_high: 168000
+    stock_low: 22000
+    stock_high: 43000
+    bonus_pct: 5
+    total_comp_low: 165000
+    total_comp_high: 230000
+    currency: USD
+  - region: Remote US
+    base_low: 126000
+    base_high: 160000
+    stock_low: 20000
+    stock_high: 38000
+    bonus_pct: 5
+    total_comp_low: 152000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq TPM ≈ Google TPM L4–L5 · Meta TPM (IC4–IC5) · Amazon TPM SDE-II–III · Apple Program Manager · NVIDIA Program Manager · Cerebras TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Cross-Functional Execution Premium"
+---
 ### Technical Program Manager | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Cross-Functional Execution Premium

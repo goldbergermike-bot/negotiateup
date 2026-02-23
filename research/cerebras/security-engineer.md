@@ -1,3 +1,51 @@
+---
+company: cerebras
+company_display: Cerebras
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 198000
+    base_high: 248000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+  - region: San Diego
+    base_low: 195000
+    base_high: 245000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 358000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 238000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 352000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cerebras Security Eng (IC2-IC3) = Google L4-L5 Security = NVIDIA Security = Meta Security Eng = Groq Security
+data_sources:
+  - Cerebras Q2 2026 IPO Timeline — SOX Security Compliance
+  - Cerebras $10B OpenAI Deal — Deployment Security
+  - Cerebras Wafer-Scale IP — Strategic Asset Protection
+  - Cerebras Security Comp — Private Market 2025
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal"
+---
 ### Security Engineer | Cerebras Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal

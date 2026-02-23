@@ -1,3 +1,68 @@
+---
+company: tencent
+company_display: Tencent
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Palo Alto / Los Angeles (US R&D)"
+    base_low: 145000
+    base_high: 210000
+    stock_low: 70000
+    stock_high: 190000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 140000
+    base_high: 205000
+    stock_low: 65000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 315000
+    currency: USD
+  - region: Shenzhen (HQ)
+    base_low: 380000
+    base_high: 700000
+    stock_low: 130000
+    stock_high: 400000
+    bonus_pct: 20
+    total_comp_low: 540000
+    total_comp_high: 1100000
+    currency: CNY
+  - region: Beijing
+    base_low: 360000
+    base_high: 670000
+    stock_low: 120000
+    stock_high: 380000
+    bonus_pct: 20
+    total_comp_low: 510000
+    total_comp_high: 1050000
+    currency: CNY
+  - region: Singapore
+    base_low: 105000
+    base_high: 165000
+    stock_low: 45000
+    stock_high: 120000
+    bonus_pct: 15
+    total_comp_low: 140000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Designer at Tencent (T8-T10) = L4-L5 at Google, IC4-IC5 at Meta, ICT3-ICT4 at Apple, equivalent Spotify/Figma"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$450B company with WeChat defining super-app UX globally + Gaming UX for world's largest portfolio + US design teams shaping international product experiences | Tencent designers influence interaction patterns used by 1.3B+ people daily | **SUPER-APP UX PREMIUM**"
+---
 ### Product Designer | Tencent Global Negotiation Guide
 
 **Negotiation DNA:** $450B company with WeChat defining super-app UX globally + Gaming UX for world's largest portfolio + US design teams shaping international product experiences | Tencent designers influence interaction patterns used by 1.3B+ people daily | **SUPER-APP UX PREMIUM**

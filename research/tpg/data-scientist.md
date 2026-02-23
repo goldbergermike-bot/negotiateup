@@ -1,3 +1,54 @@
+---
+company: tpg
+company_display: Tpg
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 195000
+    base_high: 248000
+    stock_low: 170000
+    stock_high: 270000
+    bonus_low: 40000
+    bonus_high: 65000
+    total_comp_low: 405000
+    total_comp_high: 478000
+    currency: USD
+  - region: "Fort Worth, TX"
+    base_low: 165000
+    base_high: 210000
+    stock_low: 135000
+    stock_high: 218000
+    bonus_low: 32000
+    bonus_high: 52000
+    total_comp_low: 332000
+    total_comp_high: 395000
+    currency: USD
+  - region: New York
+    base_low: 188000
+    base_high: 242000
+    stock_low: 160000
+    stock_high: 258000
+    bonus_low: 38000
+    bonus_high: 62000
+    total_comp_low: 390000
+    total_comp_high: 462000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "`Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Quantitative Alpha` `Investment Analytics` `Portfolio Intelligence` `Revenue-Driving Analyst`"
+---
 ### Data Scientist | TPG Global Negotiation Guide
 
 **Negotiation DNA:** `Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Quantitative Alpha` `Investment Analytics` `Portfolio Intelligence` `Revenue-Driving Analyst`

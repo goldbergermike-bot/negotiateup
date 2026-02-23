@@ -1,3 +1,52 @@
+---
+company: sequoia
+company_display: Sequoia
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 195000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_low: 135000
+    bonus_high: 190000
+    total_comp_low: 375000
+    total_comp_high: 498000
+    currency: USD
+  - region: San Francisco
+    base_low: 190000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_low: 125000
+    bonus_high: 180000
+    total_comp_low: 355000
+    total_comp_high: 478000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 140000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_low: 88000
+    bonus_high: 132000
+    total_comp_low: 256000
+    total_comp_high: 354000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - LinkedIn
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Base $185K-$245K` | `Carry/Bonus $120K-$190K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`"
+---
 ### Product Manager | Sequoia Global Negotiation Guide
 
 **Negotiation DNA:** `Base $185K-$245K` | `Carry/Bonus $120K-$190K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`

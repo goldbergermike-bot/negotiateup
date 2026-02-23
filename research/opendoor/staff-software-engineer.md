@@ -1,3 +1,39 @@
+---
+company: opendoor
+company_display: Opendoor
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 260000
+    stock_low: 165000
+    stock_high: 348000
+    bonus_pct: 15
+    total_comp_low: 312000
+    total_comp_high: 468000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 245000
+    stock_low: 148000
+    stock_high: 318000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 432000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Opendoor Staff SWE (IC5) = Zillow Staff SWE = Redfin Staff SWE = Compass Staff SWE = Google L5-L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | iBuying + Real Estate Technology | ~$3B Market Cap (Public: OPEN) | San Francisco | **PROPTECH PREMIUM**"
+---
 ### Staff Software Engineer | Opendoor Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | iBuying + Real Estate Technology | ~$3B Market Cap (Public: OPEN) | San Francisco | **PROPTECH PREMIUM**

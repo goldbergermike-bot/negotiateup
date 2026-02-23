@@ -1,3 +1,50 @@
+---
+company: stability-ai
+company_display: Stability AI
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 78000
+    base_high: 125000
+    stock_low: 50000
+    stock_high: 175000
+    bonus_pct: null
+    total_comp_low: 91000
+    total_comp_high: 169000
+    currency: GBP
+  - region: San Francisco
+    base_low: 148000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 185000
+    bonus_pct: null
+    total_comp_low: 162000
+    total_comp_high: 251000
+    currency: USD
+  - region: Remote US
+    base_low: 133000
+    base_high: 185000
+    stock_low: 50000
+    stock_high: 167000
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 226000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stability AI Data Scientist = Google L3-L4 Data Scientist = UK Data Scientist Senior
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | Open-Source Model Evaluation"
+---
 ### Data Scientist | Stability AI Global Negotiation Guide
 
 **Negotiation DNA:** Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | Open-Source Model Evaluation

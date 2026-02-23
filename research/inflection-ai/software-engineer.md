@@ -1,3 +1,53 @@
+---
+company: inflection-ai
+company_display: Inflection AI
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 165000
+    base_high: 230000
+    stock_low: 100000
+    stock_high: 300000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 190000
+    total_comp_high: 305000
+    currency: USD
+  - region: Seattle
+    base_low: 160000
+    base_high: 223000
+    stock_low: 100000
+    stock_high: 300000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 185000
+    total_comp_high: 296000
+    currency: USD
+  - region: Remote US
+    base_low: 149000
+    base_high: 207000
+    stock_low: 90000
+    stock_high: 270000
+    bonus_low: 14000
+    bonus_high: 27000
+    total_comp_low: 171000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Inflection SWE = Microsoft L62-L63 = Google L3-L4 = Meta E3-E4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | Pi AI Assistant"
+---
 ### Software Engineer | Inflection AI Global Negotiation Guide
 
 **Negotiation DNA:** Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | Pi AI Assistant

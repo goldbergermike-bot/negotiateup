@@ -1,3 +1,48 @@
+---
+company: arm
+company_display: Arm
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 168000
+    base_high: 225000
+    stock_low: 225000
+    stock_high: 365000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 342000
+    currency: USD
+  - region: Austin
+    base_low: 150000
+    base_high: 202000
+    stock_low: 200000
+    stock_high: 328000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 308000
+    currency: USD
+  - region: Cambridge UK
+    base_low: 58000
+    base_high: 82000
+    stock_low: 145000
+    stock_high: 245000
+    bonus_pct: 15
+    total_comp_low: 85000
+    total_comp_high: 125000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ARM ML/AI Engineer = NVIDIA ML/AI Engineer = Intel AI Engineer (Grade 7-8) = Google L5 ML Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + ARM RSUs + Bonus + AI Premium (20-30%) | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages"
+---
 ### ML/AI Engineer | ARM Global Negotiation Guide
 
 **Negotiation DNA:** Base + ARM RSUs + Bonus + AI Premium (20-30%) | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages

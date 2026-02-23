@@ -1,3 +1,50 @@
+---
+company: weights-and-biases
+company_display: "Weights & Biases"
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 230000
+    stock_low: 140000
+    stock_high: 250000
+    bonus_pct: 5
+    total_comp_low: 233000
+    total_comp_high: 325000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 225000
+    stock_low: 140000
+    stock_high: 250000
+    bonus_pct: 5
+    total_comp_low: 228000
+    total_comp_high: 318000
+    currency: USD
+  - region: London
+    base_low: 137000
+    base_high: 175000
+    stock_low: 105000
+    stock_high: 188000
+    bonus_pct: 5
+    total_comp_low: 178000
+    total_comp_high: 245000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "W&B Security Engineer = Google L4-L5 Security Engineer = Databricks Security Engineer = Datadog Security Engineer = Meta Security Engineer IC4-5"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Growth-Stage Equity | MLOps Platform Leader | 2026 Focus: Enterprise ML Security & Model Supply Chain Protection"
+---
 ### Security Engineer | Weights & Biases Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Growth-Stage Equity | MLOps Platform Leader | 2026 Focus: Enterprise ML Security & Model Supply Chain Protection

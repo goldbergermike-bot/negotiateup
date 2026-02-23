@@ -1,3 +1,52 @@
+---
+company: block
+company_display: Block (Square)
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 220000
+    stock_low: 160000
+    stock_high: 280000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 248000
+    total_comp_high: 390000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 215000
+    stock_low: 150000
+    stock_high: 265000
+    bonus_low: 17000
+    bonus_high: 33000
+    total_comp_low: 240000
+    total_comp_high: 375000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 138000
+    stock_low: 95000
+    stock_high: 170000
+    bonus_low: 11000
+    bonus_high: 22000
+    total_comp_low: 150000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Block | Google | Meta | Stripe | PayPal | Coinbase |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L4-L5 Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Agent Infrastructure` `Platform Reliability`"
+---
 ### DevOps Engineer | Block Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L4-L5 Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Agent Infrastructure` `Platform Reliability`

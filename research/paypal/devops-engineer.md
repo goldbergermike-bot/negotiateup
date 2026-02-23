@@ -1,3 +1,53 @@
+---
+company: paypal
+company_display: Paypal
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 155000
+    base_high: 210000
+    stock_low: 110000
+    stock_high: 220000
+    bonus_low: 16000
+    bonus_high: 30000
+    total_comp_low: 281000
+    total_comp_high: 460000
+    currency: USD
+  - region: New York NY
+    base_low: 150000
+    base_high: 205000
+    stock_low: 105000
+    stock_high: 210000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 270000
+    total_comp_high: 443000
+    currency: USD
+  - region: London UK
+    base_low: 88000
+    base_high: 125000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_low: 10000
+    bonus_high: 19000
+    total_comp_low: 153000
+    total_comp_high: 254000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| PayPal | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: PYPL` `DevOps Engineer` `IC3-IC4` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Platform Reliability` `CI/CD` `Infrastructure` `Venmo` `PYUSD`"
+---
 ### DevOps Engineer | PayPal Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: PYPL` `DevOps Engineer` `IC3-IC4` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Platform Reliability` `CI/CD` `Infrastructure` `Venmo` `PYUSD`

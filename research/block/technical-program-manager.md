@@ -1,3 +1,52 @@
+---
+company: block
+company_display: Block (Square)
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 235000
+    stock_low: 170000
+    stock_high: 300000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 260000
+    total_comp_high: 410000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 230000
+    stock_low: 160000
+    stock_high: 285000
+    bonus_low: 19000
+    bonus_high: 38000
+    total_comp_low: 250000
+    total_comp_high: 395000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 145000
+    stock_low: 105000
+    stock_high: 185000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 160000
+    total_comp_high: 255000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Block | Google | Meta | Stripe | PayPal | Coinbase |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L5-L6 Equivalent` `TPM` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Cross-Functional Execution`"
+---
 ### Technical Program Manager | Block Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L5-L6 Equivalent` `TPM` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Cross-Functional Execution`

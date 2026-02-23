@@ -1,3 +1,48 @@
+---
+company: shopify
+company_display: Shopify
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 195000
+    base_high: 252000
+    stock_low: 198000
+    stock_high: 358000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 398000
+    currency: CAD
+  - region: San Francisco
+    base_low: 215000
+    base_high: 272000
+    stock_low: 225000
+    stock_high: 398000
+    bonus_pct: 15
+    total_comp_low: 308000
+    total_comp_high: 432000
+    currency: USD
+  - region: Remote US/Canada
+    base_low: 202000
+    base_high: 255000
+    stock_low: 212000
+    stock_high: 375000
+    bonus_pct: 15
+    total_comp_low: 288000
+    total_comp_high: 408000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shopify EM (M1-M2) = Stripe EM = Square EM = Google L5-L6 EM Commerce = Meta M1
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce Assistant | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**"
+---
 ### Engineering Manager | Shopify Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce Assistant | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**

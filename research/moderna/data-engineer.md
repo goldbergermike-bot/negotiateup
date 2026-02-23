@@ -1,3 +1,48 @@
+---
+company: moderna
+company_display: Moderna
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge MA
+    base_low: 145000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+  - region: Other US
+    base_low: 130000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Moderna Data Engineer = Genentech DE = Illumina DE = Google L3-L4 DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: mRNA Pioneer / Post-COVID Growth / RSU + Bonus / Biotech Data Infrastructure
+---
 ### Data Engineer | Moderna Global Negotiation Guide
 
 **Negotiation DNA:** mRNA Pioneer / Post-COVID Growth / RSU + Bonus / Biotech Data Infrastructure

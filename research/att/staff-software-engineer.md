@@ -1,3 +1,50 @@
+---
+company: att
+company_display: "AT&T"
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas / Austin
+    base_low: 168000
+    base_high: 232000
+    stock_low: 58000
+    stock_high: 178000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 350000
+    currency: USD
+  - region: NYC / New Jersey
+    base_low: 175000
+    base_high: 242000
+    stock_low: 65000
+    stock_high: 190000
+    bonus_pct: 15
+    total_comp_low: 232000
+    total_comp_high: 370000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 162000
+    base_high: 225000
+    stock_low: 52000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 208000
+    total_comp_high: 332000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "AT&T Staff SWE (L6-L7) = Google L6 = Meta E6 = Amazon Principal SDE = Verizon L6-L7 = T-Mobile L7"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$155B Legacy Telecom Modernizing | Technical Strategy Owner | Network + Platform Architecture Authority"
+---
 ### Staff Software Engineer | AT&T Global Negotiation Guide
 
 **Negotiation DNA:** $155B Legacy Telecom Modernizing | Technical Strategy Owner | Network + Platform Architecture Authority

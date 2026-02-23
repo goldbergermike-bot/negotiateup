@@ -1,3 +1,49 @@
+---
+company: marvell
+company_display: Marvell
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 138000
+    base_high: 178000
+    stock_low: 92000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+  - region: Boise
+    base_low: 124000
+    base_high: 160000
+    stock_low: 78000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 224000
+    currency: USD
+  - region: Remote US
+    base_low: 131000
+    base_high: 169000
+    stock_low: 85000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Marvell DE T4–T5 = Google DE L4–L5 = Meta DE E4–E5 = Apple DE ICT3–ICT4 = Broadcom Data Engineer = AMD Data Platform Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | Standard Band"
+---
 ### Data Engineer | Marvell Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | Standard Band

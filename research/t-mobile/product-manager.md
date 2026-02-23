@@ -1,3 +1,50 @@
+---
+company: t-mobile
+company_display: T-Mobile
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue / Seattle
+    base_low: 142000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 168000
+    bonus_pct: 12
+    total_comp_low: 185000
+    total_comp_high: 310000
+    currency: USD
+  - region: NYC / San Francisco
+    base_low: 148000
+    base_high: 212000
+    stock_low: 60000
+    stock_high: 175000
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 325000
+    currency: USD
+  - region: Dallas / Denver
+    base_low: 135000
+    base_high: 195000
+    stock_low: 48000
+    stock_high: 152000
+    bonus_pct: 12
+    total_comp_low: 170000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: T-Mobile PM (P3-P5) = Google L4-L6 PM = Meta E4-E6 PM = Amazon PM L5-L7 = Microsoft 62-65 PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$250B 5G Leader | Un-carrier Product Strategy | Consumer + 5G Services Portfolio"
+---
 ### Product Manager | T-Mobile Global Negotiation Guide
 
 **Negotiation DNA:** $250B 5G Leader | Un-carrier Product Strategy | Consumer + 5G Services Portfolio

@@ -1,3 +1,49 @@
+---
+company: akamai
+company_display: Akamai
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge (MA)
+    base_low: 120000
+    base_high: 148000
+    stock_low: 45000
+    stock_high: 85000
+    bonus_pct: 8
+    total_comp_low: 158000
+    total_comp_high: 212000
+    currency: USD
+  - region: San Francisco
+    base_low: 128000
+    base_high: 155000
+    stock_low: 50000
+    stock_high: 95000
+    bonus_pct: 8
+    total_comp_low: 170000
+    total_comp_high: 228000
+    currency: USD
+  - region: Remote US
+    base_low: 112000
+    base_high: 138000
+    stock_low: 40000
+    stock_high: 75000
+    bonus_pct: 8
+    total_comp_low: 152000
+    total_comp_high: 198000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Akamai Product Designer = Google UX Designer L4–L5 / Meta Product Designer (IC4–IC5) / Amazon UX Designer (L5–L6)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Design Premium"
+---
 ### Product Designer | Akamai Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Design Premium

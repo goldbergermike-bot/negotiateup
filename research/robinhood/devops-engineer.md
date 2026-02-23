@@ -1,3 +1,52 @@
+---
+company: robinhood
+company_display: Robinhood
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Menlo Park, CA (HQ)"
+    base_low: 145000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_low: 14000
+    bonus_high: 23000
+    total_comp_low: 195000
+    total_comp_high: 282000
+    currency: USD
+  - region: New York
+    base_low: 145000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_low: 14000
+    bonus_high: 23000
+    total_comp_low: 195000
+    total_comp_high: 282000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 140000
+    stock_low: 112000
+    stock_high: 221000
+    bonus_low: 11000
+    bonus_high: 17000
+    total_comp_low: 148000
+    total_comp_high: 214000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `Platform Reliability` `CI/CD at Fintech Scale` `Zero-Downtime Infrastructure`"
+---
 ### DevOps Engineer | Robinhood Global Negotiation Guide
 
 **Negotiation DNA:** `Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `Platform Reliability` `CI/CD at Fintech Scale` `Zero-Downtime Infrastructure`

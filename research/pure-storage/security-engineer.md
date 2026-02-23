@@ -1,3 +1,49 @@
+---
+company: pure-storage
+company_display: Pure Storage
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 155000
+    base_high: 190000
+    stock_low: 95000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 275000
+    currency: USD
+  - region: Denver
+    base_low: 142000
+    base_high: 175000
+    stock_low: 82000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 255000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 165000
+    stock_low: 75000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 235000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Pure Storage | Google | Meta | Amazon | Microsoft |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | +8% Security Premium"
+---
 ### Security Engineer | Pure Storage Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | +8% Security Premium

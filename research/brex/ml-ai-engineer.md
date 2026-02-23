@@ -1,3 +1,48 @@
+---
+company: brex
+company_display: Brex
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 198000
+    base_high: 252000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 15
+    total_comp_low: 272000
+    total_comp_high: 385000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 260000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 395000
+    currency: USD
+  - region: Remote US
+    base_low: 192000
+    base_high: 245000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 378000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex ML/AI (IC3-IC4) = Ramp ML = Stripe ML = Google ML L4-L5 = Meta ML IC4-IC5 = Amazon L5-L6 Applied Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | +15-25% AI Premium | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**"
+---
 ### ML/AI Engineer | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | +15-25% AI Premium | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**

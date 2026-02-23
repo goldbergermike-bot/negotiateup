@@ -1,3 +1,40 @@
+---
+company: domo
+company_display: Domo
+role: ml-ai-engineer
+role_display: ML / AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: American Fork UT HQ
+    base_low: 125000
+    base_high: 170000
+    stock_low: 30000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 230000
+    currency: USD
+  - region: Remote US
+    base_low: 120000
+    base_high: 160000
+    stock_low: 25000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Domo ML/AI Eng = Sisense ML Eng = Looker ML Eng = Tableau ML Eng (comp-adjusted)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Small-Cap Public ($700M Market Cap) | BI Platform | Utah-Based Value | AI Competitive Necessity"
+---
 ### ML / AI Engineer | Domo Global Negotiation Guide
 
 **Negotiation DNA:** Small-Cap Public ($700M Market Cap) | BI Platform | Utah-Based Value | AI Competitive Necessity

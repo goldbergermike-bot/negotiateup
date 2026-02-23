@@ -1,3 +1,48 @@
+---
+company: freshworks
+company_display: Freshworks
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 340000
+    currency: USD
+  - region: India
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 38000
+    total_comp_high: 148000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 52000
+    total_comp_high: 152000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "ML/AI Engineers at Freshworks build the Freddy AI platform that powers intelligent features across the $5B integrated SaaS suite — competing directly with Zendesk AI, ServiceNow Now Assist, and Salesforce Einstein."
+---
 ### ML/AI Engineer — Freshworks Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at Freshworks build the Freddy AI platform that powers intelligent features across the $5B integrated SaaS suite — competing directly with Zendesk AI, ServiceNow Now Assist, and Salesforce Einstein.

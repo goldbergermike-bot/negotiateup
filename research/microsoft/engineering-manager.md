@@ -1,3 +1,79 @@
+---
+company: microsoft
+company_display: Microsoft
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Engineering Manager
+    base_low: 175000
+    base_high: 240000
+    stock_low: 180000
+    stock_high: 380000
+    bonus_pct: 15
+    signing_bonus_low: 30000
+    signing_bonus_high: 60000
+    total_comp_low: 280000
+    total_comp_high: 420000
+    currency: USD
+  - region: Engineering Manager II
+    base_low: 195000
+    base_high: 270000
+    stock_low: 250000
+    stock_high: 500000
+    bonus_pct: 20
+    signing_bonus_low: 40000
+    signing_bonus_high: 80000
+    total_comp_low: 340000
+    total_comp_high: 520000
+    currency: USD
+  - region: Senior EM / Group EM
+    base_low: 220000
+    base_high: 290000
+    stock_low: 350000
+    stock_high: 600000
+    bonus_pct: 20
+    signing_bonus_low: 50000
+    signing_bonus_high: 100000
+    total_comp_low: 400000
+    total_comp_high: 580000
+    currency: USD
+  - region: Director of Engineering
+    base_low: 270000
+    base_high: 360000
+    stock_low: 500000
+    stock_high: 1200000
+    bonus_pct: 25
+    signing_bonus_low: 70000
+    signing_bonus_high: 150000
+    total_comp_low: 540000
+    total_comp_high: 900000
+    currency: USD
+  - region: VP / CVP Engineering
+    base_low: 350000
+    base_high: 450000
+    stock_low: 1000000
+    stock_high: 3000000
+    bonus_pct: 30
+    signing_bonus_low: 100000
+    signing_bonus_high: 250000
+    total_comp_low: 800000
+    total_comp_high: 1500000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: null
+---
 # Engineering Manager - Microsoft Negotiation Guide
 
 ## Role Overview

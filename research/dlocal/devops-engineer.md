@@ -1,3 +1,47 @@
+---
+company: dlocal
+company_display: Dlocal
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montevideo (UYU)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: São Paulo (BRL)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York (USD)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 360000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes dLocal's Asia Priority strategy, translating the Jan 2026 Asia Strategic Pivot and Feb 11 JPM Bull Case into a DevOps engineering compensation framework spanning Montevideo, São Paulo, and New York markets. DevOps Engineers at dLocal ensure the emerging market payment platform operates with financial-grade reliability, scalability, and compliance across two continents."
+---
 ### DevOps Engineer — dLocal Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes dLocal's Asia Priority strategy, translating the Jan 2026 Asia Strategic Pivot and Feb 11 JPM Bull Case into a DevOps engineering compensation framework spanning Montevideo, São Paulo, and New York markets. DevOps Engineers at dLocal ensure the emerging market payment platform operates with financial-grade reliability, scalability, and compliance across two continents.

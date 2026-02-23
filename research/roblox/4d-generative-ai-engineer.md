@@ -1,3 +1,53 @@
+---
+company: roblox
+company_display: Roblox
+role: 4d-generative-ai-engineer
+role_display: 4D Generative AI Engineer (SIGNATURE ROLE)
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo
+    base_low: 220000
+    base_high: 290000
+    stock_low: 240000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 295000
+    total_comp_high: 412000
+    currency: USD
+  - region: New York
+    base_low: 215000
+    base_high: 285000
+    stock_low: 230000
+    stock_high: 385000
+    bonus_pct: 10
+    total_comp_low: 285000
+    total_comp_high: 400000
+    currency: USD
+  - region: Remote US
+    base_low: 200000
+    base_high: 265000
+    stock_low: 210000
+    stock_high: 355000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 375000
+    currency: USD
+level_mapping:
+  internal: SIGNATURE ROLE
+  raw: Roblox 4D Generative AI Engineer (IC4-IC6) = Google DeepMind Research Scientist L5-L7 = Meta FAIR Research Scientist = OpenAI Research Engineer = NVIDIA Senior AI Research Scientist = Apple ML Research Engineer
+data_sources:
+  - Roblox 4D Generative AI Foundation Model — Roblox AI Research Blog 2026
+  - Roblox Creator Economy — $1B+ Creator Payouts — Roblox 2025 10-K
+  - Roblox 80M+ DAU Immersive Platform — Roblox Q4 2025 Earnings
+  - "Roblox RDC 2025 Keynote — AI-Powered Creator Tools & 4D GenAI Vision"
+  - 3D Generative AI Talent Market Analysis — AI Talent Report 2026
+  - Text-to-3D Generation SOTA — NeurIPS 2025 / CVPR 2026 Proceedings
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM (HIGHEST PREMIUM ROLE)**"
+---
 ### 4D Generative AI Engineer (SIGNATURE ROLE) | Roblox Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM (HIGHEST PREMIUM ROLE)**

@@ -1,3 +1,47 @@
+---
+company: okta
+company_display: Okta
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 365000
+    currency: USD
+  - region: Toronto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 295000
+    currency: CAD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "ML/AI Engineers at Okta build the machine learning systems that make the NHI Fabric intelligent — designing the models that detect identity threats in real time, automate Identity Governance decisions, and govern the 50:1 ratio of Non-Human Identities to humans, including autonomous AI agents."
+---
 ### ML/AI Engineer — Okta Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at Okta build the machine learning systems that make the NHI Fabric intelligent — designing the models that detect identity threats in real time, automate Identity Governance decisions, and govern the 50:1 ratio of Non-Human Identities to humans, including autonomous AI agents.

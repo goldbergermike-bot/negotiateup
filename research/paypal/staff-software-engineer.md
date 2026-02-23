@@ -1,3 +1,53 @@
+---
+company: paypal
+company_display: Paypal
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 220000
+    base_high: 280000
+    stock_low: 300000
+    stock_high: 500000
+    bonus_low: 35000
+    bonus_high: 55000
+    total_comp_low: 555000
+    total_comp_high: 835000
+    currency: USD
+  - region: New York NY
+    base_low: 215000
+    base_high: 275000
+    stock_low: 280000
+    stock_high: 480000
+    bonus_low: 33000
+    bonus_high: 52000
+    total_comp_low: 528000
+    total_comp_high: 807000
+    currency: USD
+  - region: London UK
+    base_low: 135000
+    base_high: 175000
+    stock_low: 150000
+    stock_high: 260000
+    bonus_low: 22000
+    bonus_high: 36000
+    total_comp_low: 307000
+    total_comp_high: 471000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| PayPal | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: PYPL` `Staff Software Engineer` `IC5` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Platform Architecture` `Tech Lead` `Venmo` `PYUSD` `Principal Track`"
+---
 ### Staff Software Engineer | PayPal Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: PYPL` `Staff Software Engineer` `IC5` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Platform Architecture` `Tech Lead` `Venmo` `PYUSD` `Principal Track`

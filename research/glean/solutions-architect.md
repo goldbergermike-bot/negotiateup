@@ -1,3 +1,50 @@
+---
+company: glean
+company_display: Glean
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 170000
+    base_high: 235000
+    stock_low: 105000
+    stock_high: 295000
+    bonus_pct: null
+    total_comp_low: 196000
+    total_comp_high: 309000
+    currency: USD
+  - region: New York City
+    base_low: 170000
+    base_high: 235000
+    stock_low: 105000
+    stock_high: 295000
+    bonus_pct: null
+    total_comp_low: 196000
+    total_comp_high: 309000
+    currency: USD
+  - region: Remote US
+    base_low: 153000
+    base_high: 212000
+    stock_low: 95000
+    stock_high: 266000
+    bonus_pct: null
+    total_comp_low: 177000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Glean SA = Google Customer Engineer L4-L5 = Databricks SA = AWS SA III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strong Growth-Stage Comp + Pre-IPO Equity | $4.6B Valuation | Palo Alto | Enterprise AI Deployment"
+---
 ### Solutions Architect | Glean Global Negotiation Guide
 
 **Negotiation DNA:** Strong Growth-Stage Comp + Pre-IPO Equity | $4.6B Valuation | Palo Alto | Enterprise AI Deployment

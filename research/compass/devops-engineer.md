@@ -1,3 +1,39 @@
+---
+company: compass
+company_display: Compass
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 142000
+    base_high: 198000
+    stock_low: 42000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 272000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 185000
+    stock_low: 35000
+    stock_high: 132000
+    bonus_pct: 10
+    total_comp_low: 152000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Compass DevOps (IC2-IC3) = Zillow DevOps = Redfin DevOps = Google L3-L4 SRE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **PROPTECH RELIABILITY PREMIUM**"
+---
 ### DevOps Engineer | Compass Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **PROPTECH RELIABILITY PREMIUM**

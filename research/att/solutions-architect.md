@@ -1,3 +1,50 @@
+---
+company: att
+company_display: "AT&T"
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas / Austin
+    base_low: 135000
+    base_high: 188000
+    stock_low: 30000
+    stock_high: 115000
+    bonus_pct: 12
+    total_comp_low: 162000
+    total_comp_high: 258000
+    currency: USD
+  - region: NYC / New Jersey
+    base_low: 142000
+    base_high: 198000
+    stock_low: 35000
+    stock_high: 125000
+    bonus_pct: 12
+    total_comp_low: 172000
+    total_comp_high: 272000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 128000
+    base_high: 182000
+    stock_low: 28000
+    stock_high: 108000
+    bonus_pct: 12
+    total_comp_low: 152000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "AT&T Solutions Architect (L5-L7) = Google Cloud Architect L5-L6 = AWS Solutions Architect (Senior/Principal) = Verizon SA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$155B Legacy Telecom Modernizing | Enterprise + 5G Solutions Design | Network + Cloud Architecture"
+---
 ### Solutions Architect | AT&T Global Negotiation Guide
 
 **Negotiation DNA:** $155B Legacy Telecom Modernizing | Enterprise + 5G Solutions Design | Network + Cloud Architecture

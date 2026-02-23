@@ -1,3 +1,52 @@
+---
+company: nuvei
+company_display: Nuvei
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montreal
+    base_low: 140000
+    base_high: 195000
+    stock_low: 40000
+    stock_high: 85000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 198000
+    total_comp_high: 315000
+    currency: CAD
+  - region: New York
+    base_low: 175000
+    base_high: 240000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 22000
+    bonus_high: 45000
+    total_comp_low: 247000
+    total_comp_high: 385000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 140000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_low: 14000
+    bonus_high: 25000
+    total_comp_low: 134000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Nuvei | Google | Meta | Stripe | Adyen | Global Payments |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Enterprise Architecture` `Client-Facing` `Montreal HQ`"
+---
 ### Solutions Architect | Nuvei Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Enterprise Architecture` `Client-Facing` `Montreal HQ`

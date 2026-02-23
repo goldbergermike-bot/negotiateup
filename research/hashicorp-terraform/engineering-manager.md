@@ -1,3 +1,50 @@
+---
+company: hashicorp-terraform
+company_display: HashiCorp Terraform
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 265000
+    stock_low: 240000
+    stock_high: 420000
+    bonus_pct: 10
+    total_comp_low: 310000
+    total_comp_high: 430000
+    currency: USD
+  - region: Austin / Denver
+    base_low: 198000
+    base_high: 250000
+    stock_low: 220000
+    stock_high: 390000
+    bonus_pct: 10
+    total_comp_low: 292000
+    total_comp_high: 405000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 202000
+    stock_low: 182000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 237000
+    total_comp_high: 328000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: HashiCorp EM = Google L6 EM = Meta M1 = IBM Band 10 Manager = AWS SDM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)"
+---
 ### Engineering Manager | HashiCorp (Terraform) Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)

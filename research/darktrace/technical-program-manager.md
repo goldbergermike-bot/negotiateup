@@ -1,3 +1,58 @@
+---
+company: darktrace
+company_display: Darktrace
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge UK
+    base_low: 70000
+    base_high: 100000
+    stock_low: 20000
+    stock_high: 50000
+    bonus_low: 7000
+    bonus_high: 15000
+    signing_bonus_low: 5000
+    signing_bonus_high: 10000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: London
+    base_low: 80000
+    base_high: 115000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_low: 8000
+    bonus_high: 17250
+    signing_bonus_low: 6000
+    signing_bonus_high: 12000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: San Francisco
+    base_low: 165000
+    base_high: 225000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 16500
+    bonus_high: 33750
+    signing_bonus_low: 12000
+    signing_bonus_high: 30000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Technical Program Manager at Darktrace maps to L5–L6 TPM at Google, IC5–IC6 TPM at Meta, Sr. TPM at Amazon, and 63–65 TPM at Microsoft."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Technical Program Manager | Darktrace (LSE: DARK) | Program Management Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco"
+---
 ### Technical Program Manager | Darktrace Global Negotiation Guide
 
 **Negotiation DNA:** Technical Program Manager | Darktrace (LSE: DARK) | Program Management Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco

@@ -1,3 +1,51 @@
+---
+company: cerebras
+company_display: Cerebras
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 252000
+    base_high: 312000
+    stock_low: 348000
+    stock_high: 612000
+    bonus_pct: 15
+    total_comp_low: 398000
+    total_comp_high: 558000
+    currency: USD
+  - region: San Diego
+    base_low: 248000
+    base_high: 308000
+    stock_low: 348000
+    stock_high: 612000
+    bonus_pct: 15
+    total_comp_low: 395000
+    total_comp_high: 555000
+    currency: USD
+  - region: Remote US
+    base_low: 242000
+    base_high: 302000
+    stock_low: 348000
+    stock_high: 612000
+    bonus_pct: 15
+    total_comp_low: 388000
+    total_comp_high: 548000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cerebras Staff SWE (IC4) = Google L6 = NVIDIA IC4 = Meta E6 = Groq Staff SWE
+data_sources:
+  - Cerebras Q2 2026 IPO Timeline — Staff Architect Pre-IPO Window
+  - Cerebras $10B OpenAI Deal — Architecture Scalability Requirements
+  - Cerebras Wafer-Scale Architecture — Staff-Level Design
+  - Cerebras Staff SWE Comp — Private Market 2025
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal"
+---
 ### Staff Software Engineer | Cerebras Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal

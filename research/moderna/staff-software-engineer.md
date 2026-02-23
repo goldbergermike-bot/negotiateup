@@ -1,3 +1,48 @@
+---
+company: moderna
+company_display: Moderna
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge MA
+    base_low: 190000
+    base_high: 250000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 275000
+    total_comp_high: 420000
+    currency: USD
+  - region: Remote US
+    base_low: 180000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 260000
+    total_comp_high: 400000
+    currency: USD
+  - region: Other US
+    base_low: 175000
+    base_high: 230000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 245000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Moderna Staff SWE = Google L5-L6 = Genentech Staff = Microsoft Principal
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: mRNA Pioneer / Post-COVID Growth / RSU + Bonus / Staff Technical Leadership
+---
 ### Staff Software Engineer | Moderna Global Negotiation Guide
 
 **Negotiation DNA:** mRNA Pioneer / Post-COVID Growth / RSU + Bonus / Staff Technical Leadership

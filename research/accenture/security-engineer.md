@@ -1,3 +1,48 @@
+---
+company: accenture
+company_display: Accenture
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 125000
+    base_high: 175000
+    stock_low: 35000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 156000
+    total_comp_high: 286000
+    currency: USD
+  - region: San Francisco
+    base_low: 130000
+    base_high: 180000
+    stock_low: 38000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 297000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 125000
+    stock_low: 15000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 109000
+    total_comp_high: 184000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Accenture Consultant (Security) = Google L4 Security = CrowdStrike Senior = Deloitte Senior Consultant (Cyber)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + RSU Grants + Bonus (10-15%) | Accenture Security Practice"
+---
 ### Security Engineer | Accenture Global Negotiation Guide
 
 **Negotiation DNA:** Base + RSU Grants + Bonus (10-15%) | Accenture Security Practice

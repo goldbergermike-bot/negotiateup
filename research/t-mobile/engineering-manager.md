@@ -1,3 +1,50 @@
+---
+company: t-mobile
+company_display: T-Mobile
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue / Seattle
+    base_low: 168000
+    base_high: 235000
+    stock_low: 78000
+    stock_high: 218000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 385000
+    currency: USD
+  - region: NYC / San Francisco
+    base_low: 175000
+    base_high: 242000
+    stock_low: 82000
+    stock_high: 225000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 400000
+    currency: USD
+  - region: Dallas / Denver
+    base_low: 158000
+    base_high: 222000
+    stock_low: 68000
+    stock_high: 198000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 355000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: T-Mobile EM (M1-M2) = Google L5-L6 Manager = Meta E5-E6 Manager = Amazon L6-L7 Manager = Microsoft 63-65 Manager
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$250B 5G Leader | Multi-Team Technical Leadership | Platform + 5G Team Building"
+---
 ### Engineering Manager | T-Mobile Global Negotiation Guide
 
 **Negotiation DNA:** $250B 5G Leader | Multi-Team Technical Leadership | Platform + 5G Team Building

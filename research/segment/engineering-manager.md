@@ -1,3 +1,48 @@
+---
+company: segment
+company_display: Segment
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 248000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 395000
+    currency: USD
+  - region: New York
+    base_low: 198000
+    base_high: 242000
+    stock_low: 152000
+    stock_high: 288000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 382000
+    currency: USD
+  - region: London
+    base_low: 148000
+    base_high: 180000
+    stock_low: 112000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 208000
+    total_comp_high: 282000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Segment EM = Google L5-L6 EM = Twilio Senior EM = Meta M1 = mParticle VP Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Premium Twilio RSU + Leadership Bonus | AI CDP Team Leadership 2026"
+---
 ### Engineering Manager | Segment Global Negotiation Guide
 
 **Negotiation DNA:** Premium Twilio RSU + Leadership Bonus | AI CDP Team Leadership 2026

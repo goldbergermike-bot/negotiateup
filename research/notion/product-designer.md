@@ -1,3 +1,48 @@
+---
+company: notion
+company_display: Notion
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 225000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 260000
+    total_comp_high: 365000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 220000
+    stock_low: 175000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 150000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Notion PD (L3-L5) = Google UX L4-L6 = Meta PD E4-E6 = Figma PD = Linear PD
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI-Powered Workspace Design | 100M+ Users | **NOTION AI PREMIUM**"
+---
 ### Product Designer | Notion Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI-Powered Workspace Design | 100M+ Users | **NOTION AI PREMIUM**

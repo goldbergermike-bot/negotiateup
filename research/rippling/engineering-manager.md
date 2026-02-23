@@ -1,3 +1,48 @@
+---
+company: rippling
+company_display: Rippling
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 268000
+    stock_low: 250000
+    stock_high: 440000
+    bonus_pct: 15
+    total_comp_low: 318000
+    total_comp_high: 468000
+    currency: USD
+  - region: New York
+    base_low: 208000
+    base_high: 265000
+    stock_low: 245000
+    stock_high: 432000
+    bonus_pct: 15
+    total_comp_low: 312000
+    total_comp_high: 462000
+    currency: USD
+  - region: Remote US
+    base_low: 198000
+    base_high: 252000
+    stock_low: 228000
+    stock_high: 408000
+    bonus_pct: 15
+    total_comp_low: 295000
+    total_comp_high: 438000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rippling EM (M1) = Gusto EM = Workday EM = ADP EM = Google L6 Manager = Meta M1
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **CROSS-DOMAIN LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Rippling Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **CROSS-DOMAIN LEADERSHIP PREMIUM**

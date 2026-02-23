@@ -1,3 +1,48 @@
+---
+company: square
+company_display: Square
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 208000
+    base_high: 265000
+    stock_low: 218000
+    stock_high: 388000
+    bonus_pct: 15
+    total_comp_low: 298000
+    total_comp_high: 418000
+    currency: USD
+  - region: New York
+    base_low: 208000
+    base_high: 265000
+    stock_low: 218000
+    stock_high: 388000
+    bonus_pct: 15
+    total_comp_low: 298000
+    total_comp_high: 418000
+    currency: USD
+  - region: Remote US
+    base_low: 195000
+    base_high: 248000
+    stock_low: 205000
+    stock_high: 365000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Square EM (M1-M2) = Stripe EM = Shopify EM = Toast EM = Google L5-L6 EM Commerce = Meta M1
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Block RSUs) + Bonus | AI-Powered Commerce Tools | $45B+ Market Cap | 56M+ Sellers | **COMMERCE AI PREMIUM**"
+---
 ### Engineering Manager | Square Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Block RSUs) + Bonus | AI-Powered Commerce Tools | $45B+ Market Cap | 56M+ Sellers | **COMMERCE AI PREMIUM**

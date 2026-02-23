@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: subscription-economy-engineer
+role_display: Subscription Economy Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 280000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 135000
+    base_high: 185000
+    stock_low: 42000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 240000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 68000
+    base_high: 105000
+    stock_low: 22000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 85000
+    total_comp_high: 138000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 2000000
+    base_high: 4000000
+    stock_low: 800000
+    stock_high: 2500000
+    bonus_pct: 10
+    total_comp_low: 2600000
+    total_comp_high: 5200000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 118000
+    base_high: 168000
+    stock_low: 35000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora IC3/IC4 ~ Chargebee Senior/Staff | Recurly Senior/Staff | Stripe Senior | Salesforce MTS/LMTS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Subscription billing & revenue management specialist | Subscription lifecycle & monetization platform | **SUBSCRIPTION PREMIUM**"
+---
 ### Subscription Economy Engineer | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Subscription billing & revenue management specialist | Subscription lifecycle & monetization platform | **SUBSCRIPTION PREMIUM**

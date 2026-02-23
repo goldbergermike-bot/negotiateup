@@ -1,3 +1,57 @@
+---
+company: f5
+company_display: F5
+role: ai-runtime-security-platform-engineer
+role_display: AI Runtime Security Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 185000
+    base_high: 235000
+    stock_low: 220000
+    stock_high: 420000
+    bonus_pct: 12
+    signing_bonus_low: 35000
+    signing_bonus_high: 100000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Jose
+    base_low: 195000
+    base_high: 245000
+    stock_low: 235000
+    stock_high: 440000
+    bonus_pct: 12
+    signing_bonus_low: 35000
+    signing_bonus_high: 100000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 145000
+    stock_low: 128000
+    stock_high: 255000
+    bonus_pct: 12
+    signing_bonus_low: 20000
+    signing_bonus_high: 60000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "- F5 AI Runtime Security Platform Engineer (E5–E7) = Google L5–L7 / Meta E5–E7 / Microsoft Senior–Principal 63–66 / Amazon SDE III–Principal"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support | Signature Role — #200 Company Milestone"
+---
 ### AI Runtime Security Platform Engineer | F5 Global Negotiation Guide
 
 **Negotiation DNA:** F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support | Signature Role — #200 Company Milestone

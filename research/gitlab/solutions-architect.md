@@ -1,3 +1,39 @@
+---
+company: gitlab
+company_display: Gitlab
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (All-Remote)
+    base_low: 145000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: USD
+  - region: San Francisco Benchmark
+    base_low: 150000
+    base_high: 210000
+    stock_low: 60000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: GitLab Senior SA = GitHub SA = Atlassian SA = AWS Senior SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Public ($8B Market Cap) | All-Remote | DevSecOps Platform | Transparent Comp"
+---
 ### Solutions Architect | GitLab Global Negotiation Guide
 
 **Negotiation DNA:** Public ($8B Market Cap) | All-Remote | DevSecOps Platform | Transparent Comp

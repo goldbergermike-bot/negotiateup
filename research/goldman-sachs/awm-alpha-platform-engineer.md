@@ -1,3 +1,52 @@
+---
+company: goldman-sachs
+company_display: Goldman Sachs
+role: awm-alpha-platform-engineer
+role_display: AWM Alpha Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 275000
+    base_high: 385000
+    stock_low: 95000
+    stock_high: 155000
+    bonus_low: 68000
+    bonus_high: 105000
+    total_comp_low: 438000
+    total_comp_high: 645000
+    currency: USD
+  - region: London
+    base_low: 208000
+    base_high: 292000
+    stock_low: 72000
+    stock_high: 118000
+    bonus_low: 52000
+    bonus_high: 80000
+    total_comp_low: 332000
+    total_comp_high: 490000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 6800000
+    base_high: 10000000
+    stock_low: 2800000
+    stock_high: 4200000
+    bonus_low: 1800000
+    bonus_high: 2800000
+    total_comp_low: 11400000
+    total_comp_high: 17000000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Executive Director / Managing Director` `Alpha-Generating Platform Architecture` `AI Infrastructure for Active Management` `Marquee AWM Integration` `Direct P&L Attribution`"
+---
 ### AWM Alpha Platform Engineer | Goldman Sachs Global Negotiation Guide
 
 **SIGNATURE ROLE**

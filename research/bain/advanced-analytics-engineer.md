@@ -1,3 +1,48 @@
+---
+company: bain
+company_display: Bain
+role: advanced-analytics-engineer
+role_display: Advanced Analytics Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 185000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 241000
+    total_comp_high: 368000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 250000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 247000
+    total_comp_high: 375000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 150000
+    total_comp_high: 255000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Bain Senior Advanced Analytics Engineer = Google L4-L5 Data/ML Engineer = Palantir FDE = Two Sigma Quant Developer
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (25-50%) | **SIGNATURE ROLE** | **+15-25% PE ANALYTICS PREMIUM**"
+---
 ### Advanced Analytics Engineer | Bain Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (25-50%) | **SIGNATURE ROLE** | **+15-25% PE ANALYTICS PREMIUM**

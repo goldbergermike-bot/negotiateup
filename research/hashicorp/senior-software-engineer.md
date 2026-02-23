@@ -1,3 +1,48 @@
+---
+company: hashicorp
+company_display: HashiCorp
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 360000
+    currency: USD
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 158000
+    total_comp_high: 330000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Senior Software Engineers at HashiCorp own the technical direction of Vault, Terraform, and critical IBM Software infrastructure — the Security by Default standard for the entire IBM enterprise stack."
+---
 ### Senior Software Engineer — HashiCorp (IBM) Salary Negotiation Guide
 
 **Negotiation DNA**: Senior Software Engineers at HashiCorp own the technical direction of Vault, Terraform, and critical IBM Software infrastructure — the Security by Default standard for the entire IBM enterprise stack.

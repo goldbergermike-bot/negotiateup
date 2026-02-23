@@ -1,3 +1,49 @@
+---
+company: checkout-com
+company_display: Checkout Com
+role: ai-native-shopping-rails-platform-engineer
+role_display: AI-Native Shopping Rails Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 110000
+    base_high: 160000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 310000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 210000
+    base_high: 275000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 330000
+    total_comp_high: 475000
+    currency: USD
+  - region: New York (USD)
+    base_low: 200000
+    base_high: 265000
+    stock_low: 110000
+    stock_high: 190000
+    bonus_pct: null
+    total_comp_low: 310000
+    total_comp_high: 455000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into a platform engineering compensation framework for the most strategically critical role at the company — the engineer building the foundational AI-Native Shopping Rails infrastructure that will power autonomous commerce across London, San Francisco, and New York markets."
+---
 ### AI-Native Shopping Rails Platform Engineer — Checkout.com Salary Negotiation Guide
 
 ## SIGNATURE ROLE

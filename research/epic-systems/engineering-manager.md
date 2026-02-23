@@ -1,3 +1,40 @@
+---
+company: epic-systems
+company_display: Epic Systems
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Verona WI
+    base_low: 150000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 170000
+    total_comp_high: 240000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 160000
+    total_comp_high: 230000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Epic Team Lead = Google L5 EM (lower TC) = Cerner/Oracle EM = UHG EM (lower TC)
+data_sources:
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: Private Company / No Public Equity / Bonus-Only Variable / Team Leadership
+---
 ### Engineering Manager | Epic Systems Global Negotiation Guide
 
 **Negotiation DNA:** Private Company / No Public Equity / Bonus-Only Variable / Team Leadership

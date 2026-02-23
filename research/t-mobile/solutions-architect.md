@@ -1,3 +1,50 @@
+---
+company: t-mobile
+company_display: T-Mobile
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue / Seattle
+    base_low: 148000
+    base_high: 210000
+    stock_low: 58000
+    stock_high: 175000
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 320000
+    currency: USD
+  - region: NYC / San Francisco
+    base_low: 155000
+    base_high: 218000
+    stock_low: 62000
+    stock_high: 182000
+    bonus_pct: 12
+    total_comp_low: 205000
+    total_comp_high: 335000
+    currency: USD
+  - region: Dallas / Denver
+    base_low: 140000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 158000
+    bonus_pct: 12
+    total_comp_low: 178000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: T-Mobile Solutions Architect (L6-L7) = Google Cloud Architect L5-L6 = AWS Solutions Architect (Senior/Principal) = Verizon Principal Architect
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$250B 5G Leader | Enterprise + 5G Solutions Architecture | Network + Cloud Design"
+---
 ### Solutions Architect | T-Mobile Global Negotiation Guide
 
 **Negotiation DNA:** $250B 5G Leader | Enterprise + 5G Solutions Architecture | Network + Cloud Design

@@ -1,3 +1,51 @@
+---
+company: hsbc
+company_display: HSBC
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 82000
+    base_high: 112000
+    stock_low: 30000
+    stock_high: 48000
+    bonus_low: 17000
+    bonus_high: 24000
+    total_comp_low: 129000
+    total_comp_high: 184000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 650000
+    base_high: 920000
+    stock_low: 295000
+    stock_high: 475000
+    bonus_low: 345000
+    bonus_high: 440000
+    total_comp_low: 1290000
+    total_comp_high: 1840000
+    currency: HKD
+  - region: Singapore
+    base_low: 142000
+    base_high: 193000
+    stock_low: 51000
+    stock_high: 82000
+    bonus_low: 30000
+    bonus_high: 42000
+    total_comp_low: 223000
+    total_comp_high: 317000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Full-Stack Development` `Core Banking Systems` `Cloud Migration`"
+---
 ### Software Engineer | HSBC Global Negotiation Guide
 
 **Negotiation DNA:** `Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Full-Stack Development` `Core Banking Systems` `Cloud Migration`

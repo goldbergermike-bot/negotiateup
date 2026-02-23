@@ -1,3 +1,48 @@
+---
+company: booking
+company_display: Booking
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 75000
+    base_high: 102000
+    stock_low: 52000
+    stock_high: 90000
+    bonus_pct: 15
+    total_comp_low: 118000
+    total_comp_high: 175000
+    currency: EUR
+  - region: New York
+    base_low: 142000
+    base_high: 192000
+    stock_low: 78000
+    stock_high: 125000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 285000
+    currency: USD
+  - region: London
+    base_low: 68000
+    base_high: 92000
+    stock_low: 48000
+    stock_high: 82000
+    bonus_pct: 15
+    total_comp_low: 108000
+    total_comp_high: 162000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Booking.com Technical Program Manager = Google TPM L5 = Expedia Technical Program Manager = Airbnb TPM = Meta TPM IC5 = Amazon Sr. TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions"
+---
 ### Technical Program Manager | Booking.com Global Negotiation Guide
 
 **Negotiation DNA:** Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions

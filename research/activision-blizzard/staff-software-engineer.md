@@ -1,3 +1,48 @@
+---
+company: activision-blizzard
+company_display: Activision Blizzard
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine / Santa Monica
+    base_low: 200000
+    base_high: 260000
+    stock_low: 180000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 320000
+    total_comp_high: 480000
+    currency: USD
+  - region: Austin
+    base_low: 175000
+    base_high: 235000
+    stock_low: 150000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 420000
+    currency: USD
+  - region: Hyderabad
+    base_low: 4000000
+    base_high: 6500000
+    stock_low: 3000000
+    stock_high: 5500000
+    bonus_pct: 15
+    total_comp_low: 7500000
+    total_comp_high: 13000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Activision/MS Level 64-65 = Google L5-L6 = Meta E5-E6 = Amazon L7
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine"
+---
 ### Staff Software Engineer | Activision Blizzard (Microsoft/Xbox) Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine

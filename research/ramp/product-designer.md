@@ -1,3 +1,48 @@
+---
+company: ramp
+company_display: Ramp
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 150000
+    base_high: 182000
+    stock_low: 98000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 235000
+    currency: USD
+  - region: San Francisco
+    base_low: 148000
+    base_high: 178000
+    stock_low: 95000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 228000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 175000
+    stock_low: 92000
+    stock_high: 152000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 222000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ramp Designer (D2-D3) = Brex Designer = Google UX L4-L5 = Meta Product Designer IC4-IC5 = Stripe Designer = Square Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOUR DESIGNS MAKE SAVING MONEY EFFORTLESS FOR 25,000+ BUSINESSES**"
+---
 ### Product Designer | Ramp Global Negotiation Guide
 
 **Negotiation DNA:** Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOUR DESIGNS MAKE SAVING MONEY EFFORTLESS FOR 25,000+ BUSINESSES**

@@ -1,3 +1,54 @@
+---
+company: blackrock
+company_display: Blackrock
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 170000
+    base_high: 218000
+    stock_low: null
+    stock_high: null
+    bonus_low: 48000
+    bonus_high: 72000
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+  - region: San Francisco
+    base_low: 180000
+    base_high: 230000
+    stock_low: null
+    stock_high: null
+    bonus_low: 52000
+    bonus_high: 76000
+    total_comp_low: 272000
+    total_comp_high: 382000
+    currency: USD
+  - region: London
+    base_low: 121000
+    base_high: 155000
+    stock_low: 142000
+    stock_high: 242000
+    bonus_low: 34000
+    bonus_high: 51000
+    total_comp_low: 297000
+    total_comp_high: 448000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "`$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Product Manager` `Product Leadership` `VP-Level`"
+---
 ### Product Manager | BlackRock Global Negotiation Guide
 
 **Negotiation DNA:** `$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Product Manager` `Product Leadership` `VP-Level`

@@ -1,3 +1,52 @@
+---
+company: terrapay
+company_display: Terrapay
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam (EUR)
+    base_low: 110000
+    base_high: 145000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 345000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 140000
+    base_high: 185000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 425000
+    currency: SGD
+  - region: New York (USD)
+    base_low: 195000
+    base_high: 255000
+    stock_low: 150000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 345000
+    total_comp_high: 565000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - "TerraPay MilX Creator Payout Launch — Jan 28, 2026"
+  - "TerraPay Global Payments Highway — 7.5B+ Accounts, 130+ Countries"
+  - TerraPay Botim Super-App Partnership — Integration Architecture
+  - Thunes / Nium / Wise / Remitly Staff SWE Compensation
+  - "TerraPay Private Valuation & Staff-Level Options Data"
+  - Cross-Border Payments Staff Engineering Talent Scarcity
+negotiation_dna_summary: "This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a staff-level engineering compensation framework spanning Amsterdam, Singapore, and New York markets."
+---
 ### Staff Software Engineer — TerraPay Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a staff-level engineering compensation framework spanning Amsterdam, Singapore, and New York markets.

@@ -1,3 +1,49 @@
+---
+company: cohere
+company_display: Cohere
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 130000
+    base_high: 168000
+    stock_low: 125000
+    stock_high: 225000
+    bonus_pct: null
+    total_comp_low: 168000
+    total_comp_high: 235000
+    currency: CAD
+  - region: San Francisco
+    base_low: 158000
+    base_high: 198000
+    stock_low: 125000
+    stock_high: 225000
+    bonus_pct: null
+    total_comp_low: 189000
+    total_comp_high: 254000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 148000
+    stock_low: 125000
+    stock_high: 225000
+    bonus_pct: null
+    total_comp_low: 148000
+    total_comp_high: 208000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Cohere DevOps = Google L4 SRE (Toronto) = Meta Production Engineer IC4 = Amazon SysDE II = Shopify Senior Production Engineer. In the Toronto market, Cohere's DevOps roles compete with Google SRE, Shopify Production Engineering, and RBC's cloud infrastructure teams. Multi-cloud + on-prem AI infrastructure expertise is a niche skill set that commands a 15-20% premium over generic DevOps."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty"
+---
 ### DevOps Engineer | Cohere Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty

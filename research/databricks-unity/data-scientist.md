@@ -1,3 +1,48 @@
+---
+company: databricks-unity
+company_display: Databricks Unity
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 235000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 355000
+    currency: USD
+  - region: New York
+    base_low: 192000
+    base_high: 242000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 162000
+    stock_low: 112000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 242000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Databricks DS (L2-L3) = Snowflake DS = Google DS L3-L4 = Meta DS E4 = Amazon DS L5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Data Scientist | Databricks Unity Global Negotiation Guide
 
 **Negotiation DNA:** Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**

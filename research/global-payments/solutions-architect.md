@@ -1,3 +1,53 @@
+---
+company: global-payments
+company_display: Global Payments
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 155000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 22000
+    bonus_high: 40000
+    total_comp_low: 257000
+    total_comp_high: 405000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 230000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 303000
+    total_comp_high: 478000
+    currency: USD
+  - region: London
+    base_low: 102000
+    base_high: 140000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 172000
+    total_comp_high: 278000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Global Payments | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Enterprise Architecture` `Merchant Integration`"
+---
 ### Solutions Architect | Global Payments Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Enterprise Architecture` `Merchant Integration`

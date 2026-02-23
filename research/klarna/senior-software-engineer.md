@@ -1,3 +1,48 @@
+---
+company: klarna
+company_display: Klarna
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York
+    base_low: 202000
+    base_high: 255000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 368000
+    currency: USD
+  - region: Remote EU
+    base_low: 82000
+    base_high: 108000
+    stock_low: 58000
+    stock_high: 98000
+    bonus_pct: 15
+    total_comp_low: 102000
+    total_comp_high: 148000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Klarna Sr SWE (L4) = Stripe Sr SWE = Adyen Sr SWE = Block Sr SWE = Google L5 Payments = PayPal Sr SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER**"
+---
 ### Senior Software Engineer | Klarna Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER**

@@ -1,3 +1,54 @@
+---
+company: coupa
+company_display: Coupa
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 195000
+    base_high: 245000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 30000
+    bonus_high: 50000
+    total_comp_low: 305000
+    total_comp_high: 455000
+    currency: USD
+  - region: New York NY
+    base_low: 190000
+    base_high: 240000
+    stock_low: 75000
+    stock_high: 150000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 293000
+    total_comp_high: 438000
+    currency: USD
+  - region: London UK
+    base_low: 125000
+    base_high: 160000
+    stock_low: 50000
+    stock_high: 95000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 193000
+    total_comp_high: 287000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Coupa | Google | Meta | Stripe | SAP | Oracle |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Hired
+negotiation_dna_summary: "`Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `People Leadership` `Org Builder`"
+---
 ### Engineering Manager | Coupa Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `People Leadership` `Org Builder`

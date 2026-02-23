@@ -1,3 +1,39 @@
+---
+company: waymo
+company_display: Waymo
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View (HQ)
+    base_low: 170000
+    base_high: 235000
+    stock_low: 150000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 435000
+    currency: USD
+  - region: San Francisco
+    base_low: 170000
+    base_high: 235000
+    stock_low: 150000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 435000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Waymo Software Engineer = Google L3 = Meta E3 = Apple ICT2 = Amazon SDE-I
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Google-Adjacent Comp | Alphabet RSUs (GOOGL) | Self-Driving Leader | Top-Tier Stability"
+---
 ### Software Engineer | Waymo Global Negotiation Guide
 
 **Negotiation DNA:** Google-Adjacent Comp | Alphabet RSUs (GOOGL) | Self-Driving Leader | Top-Tier Stability

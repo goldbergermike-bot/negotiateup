@@ -1,3 +1,50 @@
+---
+company: harvey-ai
+company_display: Harvey AI
+role: legal-ai-engineer
+role_display: Legal AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 225000
+    base_high: 305000
+    stock_low: 180000
+    stock_high: 430000
+    bonus_pct: null
+    total_comp_low: 270000
+    total_comp_high: 413000
+    currency: USD
+  - region: New York City
+    base_low: 225000
+    base_high: 305000
+    stock_low: 180000
+    stock_high: 430000
+    bonus_pct: null
+    total_comp_low: 270000
+    total_comp_high: 413000
+    currency: USD
+  - region: Remote US
+    base_low: 203000
+    base_high: 275000
+    stock_low: 162000
+    stock_high: 387000
+    bonus_pct: null
+    total_comp_low: 243000
+    total_comp_high: 372000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Harvey Legal AI Engineer = Google L5-L6 Research Engineer = OpenAI Research Engineer = Anthropic ML Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Comp + Pre-IPO Equity | $2B+ Valuation | San Francisco | **SIGNATURE ROLE** | **+15-30% ML PREMIUM** | Legal AI Pioneer"
+---
 ### Legal AI Engineer | Harvey AI Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Comp + Pre-IPO Equity | $2B+ Valuation | San Francisco | **SIGNATURE ROLE** | **+15-30% ML PREMIUM** | Legal AI Pioneer

@@ -1,3 +1,53 @@
+---
+company: navan
+company_display: Navan
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 230000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_low: 18000
+    bonus_high: 40000
+    total_comp_low: 243000
+    total_comp_high: 380000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 225000
+    stock_low: 50000
+    stock_high: 105000
+    bonus_low: 16000
+    bonus_high: 38000
+    total_comp_low: 231000
+    total_comp_high: 368000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 145000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_low: 10000
+    bonus_high: 25000
+    total_comp_low: 150000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Navan | Google | Meta | Stripe | Brex | Airbnb |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `Product Strategy`"
+---
 ### Product Manager | Navan Global Negotiation Guide
 
 **Negotiation DNA:** `Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `Product Strategy`

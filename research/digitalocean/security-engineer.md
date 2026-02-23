@@ -1,3 +1,39 @@
+---
+company: digitalocean
+company_display: DigitalOcean
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 153000
+    total_comp_high: 348000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 138000
+    total_comp_high: 328000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Security Engineers at DigitalOcean protect the multi-tenant cloud platform that millions of developers trust with their applications and data, securing everything from hypervisor isolation to customer data protection."
+---
 ### Security Engineer — DigitalOcean Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at DigitalOcean protect the multi-tenant cloud platform that millions of developers trust with their applications and data, securing everything from hypervisor isolation to customer data protection.

@@ -1,3 +1,54 @@
+---
+company: blackrock
+company_display: Blackrock
+role: aladdin-ai-platform-engineer
+role_display: Aladdin AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 275000
+    base_high: 365000
+    stock_low: null
+    stock_high: null
+    bonus_low: 88000
+    bonus_high: 148000
+    total_comp_low: 388000
+    total_comp_high: 548000
+    currency: USD
+  - region: San Francisco
+    base_low: 290000
+    base_high: 385000
+    stock_low: null
+    stock_high: null
+    bonus_low: 93000
+    bonus_high: 155000
+    total_comp_low: 409000
+    total_comp_high: 577000
+    currency: USD
+  - region: London
+    base_low: 196000
+    base_high: 260000
+    stock_low: 314000
+    stock_high: 513000
+    bonus_low: 63000
+    bonus_high: 105000
+    total_comp_low: 573000
+    total_comp_high: 878000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "`$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Aladdin AI Platform Engineer` `IC Track` `Director/MD-Level` `+25-35% Signature Premium`"
+---
 ### Aladdin AI Platform Engineer | BlackRock Global Negotiation Guide
 
 **SIGNATURE ROLE** — *This is BlackRock's most strategically critical and highest-compensated individual contributor engineering role. The Aladdin AI Platform Engineer defines the architectural future of the $21T+ Aladdin platform and commands a +25-35% premium over standard Director-level engineering compensation.*

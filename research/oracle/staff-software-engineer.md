@@ -1,3 +1,48 @@
+---
+company: oracle
+company_display: Oracle
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 205000
+    base_high: 252000
+    stock_low: 220000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 280000
+    total_comp_high: 378000
+    currency: USD
+  - region: Seattle
+    base_low: 218000
+    base_high: 265000
+    stock_low: 240000
+    stock_high: 400000
+    bonus_pct: null
+    total_comp_low: 300000
+    total_comp_high: 400000
+    currency: USD
+  - region: Bangalore
+    base_low: 4800000
+    base_high: 7200000
+    stock_low: 3000000
+    stock_high: 5200000
+    bonus_pct: null
+    total_comp_low: 6000000
+    total_comp_high: 9200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Oracle IC5 Staff SWE = Google L5 = Meta E5 = AWS Principal SDE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Sign-On Bonus Culture | OCI \"Stargate\" AI Infrastructure Pivot | $500B JV Premium"
+---
 ### Staff Software Engineer | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Sign-On Bonus Culture | OCI "Stargate" AI Infrastructure Pivot | $500B JV Premium

@@ -1,3 +1,48 @@
+---
+company: elastic
+company_display: Elastic
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 140000
+    base_high: 172000
+    stock_low: 95000
+    stock_high: 162000
+    bonus_pct: 5
+    total_comp_low: 158000
+    total_comp_high: 208000
+    currency: USD
+  - region: Amsterdam
+    base_low: 55000
+    base_high: 72000
+    stock_low: 38000
+    stock_high: 62000
+    bonus_pct: 5
+    total_comp_low: 62000
+    total_comp_high: 85000
+    currency: EUR
+  - region: Bangalore
+    base_low: 2500000
+    base_high: 4000000
+    stock_low: 1500000
+    stock_high: 2800000
+    bonus_pct: 5
+    total_comp_low: 3200000
+    total_comp_high: 5000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Elastic Senior Designer = Google L4 UX = MongoDB Senior Designer = Datadog Senior Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Small Bonus | \"Battle for the AI Data Layer\" | ESRE Premium"
+---
 ### Product Designer | Elastic Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Small Bonus | "Battle for the AI Data Layer" | ESRE Premium

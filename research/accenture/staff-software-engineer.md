@@ -1,3 +1,48 @@
+---
+company: accenture
+company_display: Accenture
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_pct: 12
+    total_comp_low: 253000
+    total_comp_high: 404000
+    currency: USD
+  - region: San Francisco
+    base_low: 170000
+    base_high: 225000
+    stock_low: 75000
+    stock_high: 160000
+    bonus_pct: 12
+    total_comp_low: 264000
+    total_comp_high: 426000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 155000
+    stock_low: 35000
+    stock_high: 80000
+    bonus_pct: 12
+    total_comp_low: 158000
+    total_comp_high: 263000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Accenture Senior Manager / MD = Google L5-L6 = Deloitte Senior Manager/Director = PwC Director/MD
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + RSU Grants + Bonus (12-18%) | Senior Manager / Managing Director Level"
+---
 ### Staff Software Engineer | Accenture Global Negotiation Guide
 
 **Negotiation DNA:** Base + RSU Grants + Bonus (12-18%) | Senior Manager / Managing Director Level

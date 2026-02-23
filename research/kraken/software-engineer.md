@@ -1,3 +1,51 @@
+---
+company: kraken
+company_display: Kraken
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 195000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 215000
+    total_comp_high: 302000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 190000
+    stock_low: 170000
+    stock_high: 310000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 208000
+    total_comp_high: 292000
+    currency: USD
+  - region: Remote US
+    base_low: 138000
+    base_high: 175000
+    stock_low: 155000
+    stock_high: 280000
+    bonus_low: 12000
+    bonus_high: 20000
+    total_comp_low: 192000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | IC Track"
+---
 ### Software Engineer | Kraken Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | IC Track

@@ -1,3 +1,48 @@
+---
+company: kpmg
+company_display: KPMG
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 130000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 150000
+    total_comp_high: 265000
+    currency: USD
+  - region: Chicago
+    base_low: 125000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 144000
+    total_comp_high: 241000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 130000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 104000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: KPMG Director (SA) = AWS Senior SA = Google Cloud Customer Engineer (L5) = PwC Director (SA)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (15-25%) + Equity at Senior Levels | Technology Advisory Architecture"
+---
 ### Solutions Architect | KPMG Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (15-25%) + Equity at Senior Levels | Technology Advisory Architecture

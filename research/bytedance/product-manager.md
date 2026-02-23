@@ -1,3 +1,68 @@
+---
+company: bytedance
+company_display: Bytedance
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Mountain View (US)
+    base_low: 180000
+    base_high: 250000
+    stock_low: 120000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 460000
+    currency: USD
+  - region: New York City / Los Angeles (US)
+    base_low: 175000
+    base_high: 245000
+    stock_low: 115000
+    stock_high: 330000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 450000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 530000
+    base_high: 950000
+    stock_low: 260000
+    stock_high: 700000
+    bonus_pct: 20
+    total_comp_low: 840000
+    total_comp_high: 1700000
+    currency: CNY
+  - region: Shanghai
+    base_low: 510000
+    base_high: 920000
+    stock_low: 250000
+    stock_high: 670000
+    bonus_pct: 20
+    total_comp_low: 810000
+    total_comp_high: 1650000
+    currency: CNY
+  - region: Singapore
+    base_low: 140000
+    base_high: 215000
+    stock_low: 75000
+    stock_high: 185000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 350000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Manager at ByteDance (2-1 to 2-2) = L5-L6 PM at Google, IC5-IC6 PM at Meta, Sr PM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Private $225B+ with TikTok's product portfolio expanding rapidly (Shop, Search, LIVE, Effects) + PM roles at ByteDance offer unprecedented growth scope + FAANG-matching US PM comp with pre-IPO upside | ByteDance PMs define product strategy for the world's fastest-growing tech company | **HYPER-GROWTH PM PREMIUM**"
+---
 ### Product Manager | ByteDance Global Negotiation Guide
 
 **Negotiation DNA:** Private $225B+ with TikTok's product portfolio expanding rapidly (Shop, Search, LIVE, Effects) + PM roles at ByteDance offer unprecedented growth scope + FAANG-matching US PM comp with pre-IPO upside | ByteDance PMs define product strategy for the world's fastest-growing tech company | **HYPER-GROWTH PM PREMIUM**

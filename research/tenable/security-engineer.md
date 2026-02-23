@@ -1,3 +1,55 @@
+---
+company: tenable
+company_display: Tenable
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Columbia MD
+    base_low: 145000
+    base_high: 190000
+    stock_low: 70000
+    stock_high: 145000
+    bonus_pct: 10
+    signing_bonus_low: 12000
+    signing_bonus_high: 28000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Austin
+    base_low: 140000
+    base_high: 185000
+    stock_low: 65000
+    stock_high: 135000
+    bonus_pct: 10
+    signing_bonus_low: 12000
+    signing_bonus_high: 28000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 120000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_pct: 10
+    signing_bonus_low: 7000
+    signing_bonus_high: 16000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Security Engineer at Tenable maps to IC3 Security/AppSec equivalent at peer cybersecurity companies (CrowdStrike Security Engineer, Palo Alto Networks Security Research Engineer, Rapid7 Security Analyst) and L4–L5 Security Engineer at FAANG-tier companies."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London"
+---
 ### Security Engineer | Tenable Global Negotiation Guide
 
 **Negotiation DNA:** Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London

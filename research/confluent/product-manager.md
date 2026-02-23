@@ -1,3 +1,48 @@
+---
+company: confluent
+company_display: Confluent
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 165000
+    base_high: 205000
+    stock_low: 165000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 280000
+    currency: USD
+  - region: London
+    base_low: 72000
+    base_high: 92000
+    stock_low: 68000
+    stock_high: 112000
+    bonus_pct: 10
+    total_comp_low: 88000
+    total_comp_high: 118000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4200000
+    base_high: 6500000
+    stock_low: 3200000
+    stock_high: 5200000
+    bonus_pct: 10
+    total_comp_low: 5200000
+    total_comp_high: 8200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Confluent PM = Google L4 PM = Databricks PM = MongoDB PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy"
+---
 ### Product Manager | Confluent Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy

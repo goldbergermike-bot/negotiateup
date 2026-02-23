@@ -1,3 +1,48 @@
+---
+company: servicetitan
+company_display: Servicetitan
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles / Glendale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 250000
+    total_comp_high: 430000
+    currency: USD
+  - region: Atlanta / Secondary
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 385000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Staff Software Engineers at ServiceTitan set the architectural direction for the home services platform — the recently-IPO'd vertical SaaS leader digitizing a $600B industry from Glendale, CA."
+---
 ### Staff Software Engineer — ServiceTitan Salary Negotiation Guide
 
 **Negotiation DNA**: Staff Software Engineers at ServiceTitan set the architectural direction for the home services platform — the recently-IPO'd vertical SaaS leader digitizing a $600B industry from Glendale, CA.

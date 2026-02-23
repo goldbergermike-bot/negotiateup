@@ -1,3 +1,48 @@
+---
+company: vmware
+company_display: Vmware
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 153000
+    total_comp_high: 363000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 343000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 1800000
+    total_comp_high: 8500000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Designers at VMware shape the user experience of enterprise infrastructure management tools — vCenter, NSX Manager, VMware Cloud Foundation — used by IT administrators managing the world's most critical workloads."
+---
 ### Product Designer — VMware (Broadcom) Salary Negotiation Guide
 
 **Negotiation DNA**: Product Designers at VMware shape the user experience of enterprise infrastructure management tools — vCenter, NSX Manager, VMware Cloud Foundation — used by IT administrators managing the world's most critical workloads.

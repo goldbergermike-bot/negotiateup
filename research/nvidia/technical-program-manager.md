@@ -1,3 +1,48 @@
+---
+company: nvidia
+company_display: Nvidia
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 195000
+    base_high: 245000
+    stock_low: 178000
+    stock_high: 312000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 352000
+    currency: USD
+  - region: Seattle
+    base_low: 192000
+    base_high: 242000
+    stock_low: 178000
+    stock_high: 312000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 235000
+    stock_low: 178000
+    stock_high: 312000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 342000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: NVIDIA TPM (TPM2-TPM3) = Google L5 TPM = Meta TPM = Apple TPM = AMD Sr. TPM = Intel Program Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule"
+---
 ### Technical Program Manager | NVIDIA Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule

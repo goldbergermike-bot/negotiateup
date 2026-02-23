@@ -1,3 +1,50 @@
+---
+company: perplexity
+company_display: Perplexity
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 222000
+    stock_low: 175000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 222000
+    total_comp_high: 300000
+    currency: USD
+  - region: New York
+    base_low: 183000
+    base_high: 233000
+    stock_low: 175000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 227000
+    total_comp_high: 311000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 200000
+    stock_low: 175000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 204000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Perplexity DevOps Engineer = Google SRE L4-L5 = Amazon Systems Engineer SDE II-III = Anthropic Infrastructure Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift"
+---
 ### DevOps Engineer | Perplexity Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift

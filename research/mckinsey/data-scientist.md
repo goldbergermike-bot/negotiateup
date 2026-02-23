@@ -1,3 +1,48 @@
+---
+company: mckinsey
+company_display: Mckinsey
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 170000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 221000
+    total_comp_high: 360000
+    currency: USD
+  - region: Chicago
+    base_low: 160000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 208000
+    total_comp_high: 338000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 143000
+    total_comp_high: 248000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: McKinsey QuantumBlack Data Scientist = Google L4-L5 Research Scientist = Meta Research Scientist = Two Sigma Quant Researcher
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (30-50%) | No Equity | QuantumBlack Premium"
+---
 ### Data Scientist | McKinsey Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (30-50%) | No Equity | QuantumBlack Premium

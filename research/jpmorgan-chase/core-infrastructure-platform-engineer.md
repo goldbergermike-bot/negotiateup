@@ -1,3 +1,53 @@
+---
+company: jpmorgan-chase
+company_display: JPMorgan Chase
+role: core-infrastructure-platform-engineer
+role_display: Core Infrastructure Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 265000
+    base_high: 355000
+    stock_low: 90000
+    stock_high: 160000
+    bonus_low: 70000
+    bonus_high: 110000
+    total_comp_low: 425000
+    total_comp_high: 625000
+    currency: USD
+  - region: London
+    base_low: 217000
+    base_high: 291000
+    stock_low: 74000
+    stock_high: 131000
+    bonus_low: 57000
+    bonus_high: 90000
+    total_comp_low: 348000
+    total_comp_high: 513000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 5520000
+    base_high: 7400000
+    stock_low: 1880000
+    stock_high: 3330000
+    bonus_low: 1460000
+    bonus_high: 2290000
+    total_comp_low: 8860000
+    total_comp_high: 13020000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Platform Architecture` `GPU/Compute Infrastructure` `AI Foundation Layer` `Regulatory-Grade Systems` `Zero-Downtime Operations`"
+---
 ### Core Infrastructure Platform Engineer | JPMorgan Chase Global Negotiation Guide
 
 **SIGNATURE ROLE**

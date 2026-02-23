@@ -1,3 +1,48 @@
+---
+company: ebay
+company_display: Ebay
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 198000
+    base_high: 248000
+    stock_low: 142000
+    stock_high: 255000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 255000
+    stock_low: 142000
+    stock_high: 255000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 238000
+    stock_low: 142000
+    stock_high: 255000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 328000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: eBay Sr SWE (IC3) = Google L4 = Meta E4 = Amazon SDE II = Etsy E3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Global Marketplace & Payments | $2.5B Share Buyback | Trading Below Future Cash Flow Value"
+---
 ### Senior Software Engineer | eBay Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Global Marketplace & Payments | $2.5B Share Buyback | Trading Below Future Cash Flow Value

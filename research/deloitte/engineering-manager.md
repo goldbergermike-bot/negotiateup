@@ -1,3 +1,48 @@
+---
+company: deloitte
+company_display: Deloitte
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 150000
+    base_high: 200000
+    stock_low: 20000
+    stock_high: 60000
+    bonus_pct: 15
+    total_comp_low: 198000
+    total_comp_high: 310000
+    currency: USD
+  - region: Chicago
+    base_low: 140000
+    base_high: 185000
+    stock_low: 15000
+    stock_high: 50000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 281000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 145000
+    stock_low: 10000
+    stock_high: 35000
+    bonus_pct: 15
+    total_comp_low: 125000
+    total_comp_high: 216000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Deloitte Manager/Senior Manager (Tech) = Google L5-L6 EM = Accenture Manager = PwC Director
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (15-25%) + Equity Grants | Manager/Senior Manager Level"
+---
 ### Engineering Manager | Deloitte Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (15-25%) + Equity Grants | Manager/Senior Manager Level

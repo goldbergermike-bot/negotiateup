@@ -1,3 +1,42 @@
+---
+company: zipline
+company_display: Zipline
+role: drone-logistics-engineer
+role_display: Drone Logistics Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: South San Francisco / Bay Area
+    base_low: 168000
+    base_high: 228000
+    stock_low: 110000
+    stock_high: 265000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 385000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 212000
+    stock_low: 95000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 355000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zipline Drone Logistics Engineer = No Direct Equivalent (Specialized) > Wing (Alphabet) SWE > Amazon Prime Air SWE > UPS Flight Forward SWE = Google L4-L5"
+data_sources:
+  - Zipline $4.2B Valuation — Autonomous Drone Delivery Leader
+  - "Zipline Operations — Rwanda, Ghana, Nigeria, USA"
+  - Zipline Platform 2 (P2 Zip) — Commercial Delivery Expansion
+  - Zipline vs Wing/Amazon Prime Air — Drone Logistics Competition
+negotiation_dna_summary: "Equity-Heavy (Private) | Drone Delivery (Medical Supplies) | $4.2B Valuation | South San Francisco | **DRONE DELIVERY PREMIUM**"
+---
 ### Drone Logistics Engineer | Zipline Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Drone Delivery (Medical Supplies) | $4.2B Valuation | South San Francisco | **DRONE DELIVERY PREMIUM**

@@ -1,3 +1,53 @@
+---
+company: airbase
+company_display: Airbase
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 230000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 263000
+    total_comp_high: 405000
+    currency: USD
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 5200000
+    stock_low: 1800000
+    stock_high: 3500000
+    bonus_low: 400000
+    bonus_high: 800000
+    total_comp_low: 5200000
+    total_comp_high: 9500000
+    currency: INR
+  - region: New York
+    base_low: 180000
+    base_high: 235000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 268000
+    total_comp_high: 410000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Airbase | Google | Meta | Stripe | Bill.com | Coupa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Machine Learning` `AI Automation` `Fintech ML`"
+---
 ### ML/AI Engineer | Airbase Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Machine Learning` `AI Automation` `Fintech ML`

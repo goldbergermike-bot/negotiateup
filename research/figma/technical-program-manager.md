@@ -1,3 +1,50 @@
+---
+company: figma
+company_display: Figma
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 230000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 395000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 230000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 395000
+    currency: USD
+  - region: London
+    base_low: 133000
+    base_high: 175000
+    stock_low: 122000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 209000
+    total_comp_high: 301000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Figma TPM = Google L5 TPM = Meta IC5 TPM = Adobe TPM = Canva Program Manager
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Program-Premium Base + Strong Equity | Design Platform Pioneer | 2026 Focus: AI Feature Launch Orchestration"
+---
 ### Technical Program Manager | Figma Global Negotiation Guide
 
 **Negotiation DNA:** Program-Premium Base + Strong Equity | Design Platform Pioneer | 2026 Focus: AI Feature Launch Orchestration

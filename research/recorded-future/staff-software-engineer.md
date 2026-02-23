@@ -1,3 +1,39 @@
+---
+company: recorded-future
+company_display: Recorded Future
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Somerville/Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 280000
+    total_comp_high: 420000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 263000
+    total_comp_high: 398000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Staff Software Engineers at Recorded Future define the technical architecture of the world's largest intelligence platform, setting cross-team direction for AI-powered intelligence collection, analysis, and delivery systems under Mastercard ownership."
+---
 ### Staff Software Engineer — Recorded Future Salary Negotiation Guide
 
 **Negotiation DNA**: Staff Software Engineers at Recorded Future define the technical architecture of the world's largest intelligence platform, setting cross-team direction for AI-powered intelligence collection, analysis, and delivery systems under Mastercard ownership.

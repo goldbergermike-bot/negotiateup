@@ -1,3 +1,52 @@
+---
+company: terrapay
+company_display: Terrapay
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam (EUR)
+    base_low: 100000
+    base_high: 135000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 305000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 130000
+    base_high: 175000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 375000
+    currency: SGD
+  - region: New York (USD)
+    base_low: 175000
+    base_high: 230000
+    stock_low: 120000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 295000
+    total_comp_high: 490000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - "TerraPay MilX Creator Payout Launch — Jan 28, 2026"
+  - "TerraPay Global Payments Highway — 7.5B+ Accounts, 130+ Countries"
+  - TerraPay Botim Super-App Partnership — Integration Program
+  - Thunes / Nium / Wise EM Compensation Benchmarks
+  - "TerraPay Private Valuation & Management-Level Options Data"
+  - Payments Engineering Management Talent Market
+negotiation_dna_summary: "This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into an engineering management compensation framework spanning Amsterdam, Singapore, and New York markets."
+---
 ### Engineering Manager — TerraPay Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into an engineering management compensation framework spanning Amsterdam, Singapore, and New York markets.

@@ -1,3 +1,48 @@
+---
+company: sofi
+company_display: SoFi
+role: ltv-platform-engineer
+role_display: LTV Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 220000
+    base_high: 275000
+    stock_low: 300000
+    stock_high: 520000
+    bonus_pct: 18
+    total_comp_low: 318000
+    total_comp_high: 448000
+    currency: USD
+  - region: New York / Salt Lake City
+    base_low: 205000
+    base_high: 258000
+    stock_low: 268000
+    stock_high: 468000
+    bonus_pct: 18
+    total_comp_low: 292000
+    total_comp_high: 412000
+    currency: USD
+  - region: Remote US
+    base_low: 190000
+    base_high: 240000
+    stock_low: 235000
+    stock_high: 415000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 378000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$318K-$448K TC (SF)` | **SIGNATURE ROLE** | `LTV Accelerator` | `+25-35% LTV Accelerator Premium` | `Cross-Platform Architect` | `NASDAQ: SOFI`"
+---
 ### LTV Platform Engineer | SoFi Global Negotiation Guide
 
 **Negotiation DNA:** `$318K-$448K TC (SF)` | **SIGNATURE ROLE** | `LTV Accelerator` | `+25-35% LTV Accelerator Premium` | `Cross-Platform Architect` | `NASDAQ: SOFI`

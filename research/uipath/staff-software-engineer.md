@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 210000
+    base_high: 292000
+    stock_low: 105000
+    stock_high: 275000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 435000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 185000
+    base_high: 260000
+    stock_low: 82000
+    stock_high: 220000
+    bonus_pct: 12
+    total_comp_low: 242000
+    total_comp_high: 380000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 62000
+    base_high: 105000
+    stock_low: 28000
+    stock_high: 72000
+    bonus_pct: 12
+    total_comp_low: 82000
+    total_comp_high: 148000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 98000
+    base_high: 150000
+    stock_low: 45000
+    stock_high: 115000
+    bonus_pct: 12
+    total_comp_low: 132000
+    total_comp_high: 225000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 4200000
+    base_high: 7500000
+    stock_low: 2200000
+    stock_high: 5200000
+    bonus_pct: 12
+    total_comp_low: 5500000
+    total_comp_high: 10500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath IC4/IC5 ~ Microsoft 65/66 | Google L6/L7 | Automation Anywhere Principal/Distinguished | Salesforce PMTS/Distinguished"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Automation platform architecture leader | Cross-system technical authority & AI automation visionary | **STAFF IC PREMIUM**"
+---
 ### Staff Software Engineer | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** Automation platform architecture leader | Cross-system technical authority & AI automation visionary | **STAFF IC PREMIUM**

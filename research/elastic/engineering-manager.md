@@ -1,3 +1,48 @@
+---
+company: elastic
+company_display: Elastic
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 245000
+    stock_low: 250000
+    stock_high: 400000
+    bonus_pct: 8
+    total_comp_low: 278000
+    total_comp_high: 358000
+    currency: USD
+  - region: Amsterdam
+    base_low: 85000
+    base_high: 108000
+    stock_low: 100000
+    stock_high: 162000
+    bonus_pct: 8
+    total_comp_low: 112000
+    total_comp_high: 150000
+    currency: EUR
+  - region: Bangalore
+    base_low: 5200000
+    base_high: 7500000
+    stock_low: 4200000
+    stock_high: 6800000
+    bonus_pct: 8
+    total_comp_low: 6800000
+    total_comp_high: 10200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Elastic EM = Google L5 Manager = Meta M1 = MongoDB EM = Confluent EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Small Bonus | \"Battle for the AI Data Layer\" | ESRE Premium"
+---
 ### Engineering Manager | Elastic Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Small Bonus | "Battle for the AI Data Layer" | ESRE Premium

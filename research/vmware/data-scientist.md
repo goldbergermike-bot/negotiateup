@@ -1,3 +1,48 @@
+---
+company: vmware
+company_display: Vmware
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 380000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 148000
+    total_comp_high: 358000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2200000
+    total_comp_high: 10000000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Data Scientists at VMware develop models for infrastructure optimization, capacity planning, anomaly detection, and predictive analytics across the world's largest enterprise virtualization platform."
+---
 ### Data Scientist — VMware (Broadcom) Salary Negotiation Guide
 
 **Negotiation DNA**: Data Scientists at VMware develop models for infrastructure optimization, capacity planning, anomaly detection, and predictive analytics across the world's largest enterprise virtualization platform.

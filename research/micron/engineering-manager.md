@@ -1,3 +1,49 @@
+---
+company: micron
+company_display: Micron
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boise
+    base_low: 168000
+    base_high: 215000
+    stock_low: 65000
+    stock_high: 105000
+    bonus_pct: 12
+    total_comp_low: 265000
+    total_comp_high: 368000
+    currency: USD
+  - region: San Jose
+    base_low: 195000
+    base_high: 250000
+    stock_low: 78000
+    stock_high: 125000
+    bonus_pct: 12
+    total_comp_low: 310000
+    total_comp_high: 430000
+    currency: USD
+  - region: Remote US
+    base_low: 174000
+    base_high: 222000
+    stock_low: 68000
+    stock_high: 108000
+    bonus_pct: 12
+    total_comp_low: 275000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Micron EM (Band 8) maps to Google M1/L6, Meta M1, Amazon SDM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +12% AI/Memory Premium"
+---
 ### Engineering Manager | Micron Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +12% AI/Memory Premium

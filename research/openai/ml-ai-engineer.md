@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 265000
+    base_high: 335000
+    stock_low: 500000
+    stock_high: 900000
+    bonus_pct: null
+    total_comp_low: 390000
+    total_comp_high: 560000
+    currency: USD
+  - region: Seattle
+    base_low: 255000
+    base_high: 325000
+    stock_low: 500000
+    stock_high: 900000
+    bonus_pct: null
+    total_comp_low: 380000
+    total_comp_high: 550000
+    currency: USD
+  - region: London
+    base_low: 185000
+    base_high: 235000
+    stock_low: 365000
+    stock_high: 658000
+    bonus_pct: null
+    total_comp_low: 276000
+    total_comp_high: 400000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI ML/AI Eng = Google L5 Research Eng = Meta FAIR Eng = Anthropic ML Eng = DeepMind Research Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+) | **+25–40% AGENTIC AI PREMIUM**"
+---
 ### ML/AI Engineer | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+) | **+25–40% AGENTIC AI PREMIUM**

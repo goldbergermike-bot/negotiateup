@@ -1,3 +1,49 @@
+---
+company: hashicorp-terraform
+company_display: HashiCorp Terraform
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 240000
+    stock_low: 170000
+    stock_high: 300000
+    bonus_pct: 5
+    total_comp_low: 252000
+    total_comp_high: 365000
+    currency: USD
+  - region: Austin / Denver
+    base_low: 175000
+    base_high: 228000
+    stock_low: 155000
+    stock_high: 278000
+    bonus_pct: 5
+    total_comp_low: 238000
+    total_comp_high: 345000
+    currency: USD
+  - region: London
+    base_low: 140000
+    base_high: 183000
+    stock_low: 130000
+    stock_high: 228000
+    bonus_pct: 5
+    total_comp_low: 192000
+    total_comp_high: 278000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: HashiCorp ML/AI Engineer = Google L4-L5 ML Engineer = Meta E4-E5 ML Engineer = IBM Band 8-9 AI Engineer = AWS Applied Scientist
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024) | **+15-25% AI PREMIUM**"
+---
 ### ML/AI Engineer | HashiCorp (Terraform) Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024) | **+15-25% AI PREMIUM**

@@ -1,3 +1,50 @@
+---
+company: disney
+company_display: Disney
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Burbank / Los Angeles
+    base_low: 170000
+    base_high: 240000
+    stock_low: 80000
+    stock_high: 225000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 400000
+    currency: USD
+  - region: San Francisco / Seattle
+    base_low: 175000
+    base_high: 245000
+    stock_low: 85000
+    stock_high: 235000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 415000
+    currency: USD
+  - region: London (UK)
+    base_low: 130000
+    base_high: 180000
+    stock_low: 60000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Disney EM (M1-M2) = Google L5-L6 Manager = Meta E5-E6 Manager = Amazon L6-L7 Manager = Microsoft 63-65 Manager
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B Entertainment-Tech Empire | Multi-Team Technical Leadership | Disney+ / Parks / ESPN Team Building"
+---
 ### Engineering Manager | Disney Global Negotiation Guide
 
 **Negotiation DNA:** $200B Entertainment-Tech Empire | Multi-Team Technical Leadership | Disney+ / Parks / ESPN Team Building

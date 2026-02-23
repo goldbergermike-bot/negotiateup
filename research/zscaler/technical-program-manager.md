@@ -1,3 +1,47 @@
+---
+company: zscaler
+company_display: Zscaler
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 350000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2500000
+    total_comp_high: 7600000
+    currency: INR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Technical Program Managers at Zscaler orchestrate the delivery of the Zero Trust Exchange and AI Guard platform — where the $1B+ Zero Trust Everywhere milestone and 80% AI growth demand cross-functional execution at the speed of enterprise security."
+---
 ### Technical Program Manager — Zscaler Salary Negotiation Guide
 
 **Negotiation DNA**: Technical Program Managers at Zscaler orchestrate the delivery of the Zero Trust Exchange and AI Guard platform — where the $1B+ Zero Trust Everywhere milestone and 80% AI growth demand cross-functional execution at the speed of enterprise security.

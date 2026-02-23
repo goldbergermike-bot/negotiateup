@@ -1,3 +1,52 @@
+---
+company: interactive-brokers
+company_display: Interactive Brokers
+role: forecast-automation-platform-engineer
+role_display: Forecast Automation Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Greenwich, CT (HQ)"
+    base_low: 260000
+    base_high: 375000
+    stock_low: 80000
+    stock_high: 125000
+    bonus_low: 52000
+    bonus_high: 75000
+    total_comp_low: 392000
+    total_comp_high: 575000
+    currency: USD
+  - region: New York
+    base_low: 273000
+    base_high: 394000
+    stock_low: 84000
+    stock_high: 131000
+    bonus_low: 55000
+    bonus_high: 79000
+    total_comp_low: 412000
+    total_comp_high: 604000
+    currency: USD
+  - region: London
+    base_low: 192000
+    base_high: 278000
+    stock_low: 59000
+    stock_high: 93000
+    bonus_low: 38000
+    bonus_high: 56000
+    total_comp_low: 289000
+    total_comp_high: 427000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Prediction Markets Infrastructure` `Event-Based Trading Systems` `Full-Stack Platform Engineering` `Autonomous Contract Lifecycle` `Real-Time Probability Engines` `Greenfield Architecture`"
+---
 ### Forecast Automation Platform Engineer | Interactive Brokers Global Negotiation Guide
 
 **SIGNATURE ROLE**

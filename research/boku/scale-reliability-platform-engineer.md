@@ -1,3 +1,48 @@
+---
+company: boku
+company_display: Boku
+role: scale-reliability-platform-engineer
+role_display: Scale-Reliability Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 85000
+    base_high: 130000
+    stock_low: 40000
+    stock_high: 110000
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 240000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 170000
+    base_high: 250000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 250000
+    total_comp_high: 450000
+    currency: USD
+  - region: Mumbai (INR)
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 1200000
+    stock_high: 2800000
+    bonus_pct: null
+    total_comp_low: 4200000
+    total_comp_high: 8300000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Scale-Reliability Platform Engineer compensation framework spanning London, San Francisco, and Mumbai markets. This is the role where Boku's negotiation leverage is maximized — the engineer who builds and guarantees the reliability of the platform layer that Apple, Netflix, Spotify, Sony, and Microsoft depend on to reach billions of wallet-paying consumers."
+---
 ### Scale-Reliability Platform Engineer — Boku Salary Negotiation Guide
 
 # SIGNATURE ROLE

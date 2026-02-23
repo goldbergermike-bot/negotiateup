@@ -1,3 +1,48 @@
+---
+company: plaid
+company_display: Plaid
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 198000
+    stock_low: 112000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 192000
+    stock_low: 112000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 262000
+    currency: USD
+  - region: Remote US
+    base_low: 142000
+    base_high: 182000
+    stock_low: 112000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Plaid DevOps (IC2-IC3) = Stripe Infrastructure SWE = Square DevOps = Google SRE (L3-L4) = MX DevOps = Finicity Infrastructure Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**"
+---
 ### DevOps Engineer | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**

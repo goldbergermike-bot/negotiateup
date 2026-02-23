@@ -1,3 +1,48 @@
+---
+company: chime
+company_display: Chime
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 162000
+    base_high: 188000
+    stock_low: 108000
+    stock_high: 152000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 235000
+    currency: USD
+  - region: Chicago
+    base_low: 155000
+    base_high: 178000
+    stock_low: 92000
+    stock_high: 138000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 218000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 172000
+    stock_low: 85000
+    stock_high: 128000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 208000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chime DevOps (IC2-IC3) = Cash App SRE/DevOps = Google SRE L3-L4 = Meta Production Engineer E3-E4 = Amazon Systems Engineer II-III = SoFi DevOps
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | **INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**"
+---
 ### DevOps Engineer | Chime Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | **INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**

@@ -1,3 +1,55 @@
+---
+company: pagerduty
+company_display: Pagerduty
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Atlanta
+    base_low: 130000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 25000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 110000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 8000
+    signing_bonus_high: 18000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Product Designer at PagerDuty maps to IC3 design (L5 equivalent design at Google, IC5 at Meta, 62-63 at Microsoft). Typically 4-8 years of design experience with a strong portfolio in enterprise SaaS or developer tools."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge"
+---
 ### Product Designer | PagerDuty Global Negotiation Guide
 
 **Negotiation DNA:** PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge

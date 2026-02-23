@@ -1,3 +1,54 @@
+---
+company: tpg
+company_display: Tpg
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 178000
+    base_high: 222000
+    stock_low: 115000
+    stock_high: 190000
+    bonus_low: 30000
+    bonus_high: 50000
+    total_comp_low: 323000
+    total_comp_high: 392000
+    currency: USD
+  - region: "Fort Worth, TX"
+    base_low: 150000
+    base_high: 188000
+    stock_low: 92000
+    stock_high: 152000
+    bonus_low: 24000
+    bonus_high: 42000
+    total_comp_low: 272000
+    total_comp_high: 330000
+    currency: USD
+  - region: New York
+    base_low: 172000
+    base_high: 215000
+    stock_low: 108000
+    stock_high: 182000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 312000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "`Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Cross-Functional Execution` `AI Program Delivery` `Revenue Acceleration` `CRO/CGO Mindset`"
+---
 ### Technical Program Manager | TPG Global Negotiation Guide
 
 **Negotiation DNA:** `Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Cross-Functional Execution` `AI Program Delivery` `Revenue Acceleration` `CRO/CGO Mindset`

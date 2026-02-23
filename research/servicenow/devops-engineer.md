@@ -1,3 +1,48 @@
+---
+company: servicenow
+company_display: Servicenow
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara (USD)
+    base_low: 165000
+    base_high: 210000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 278000
+    currency: USD
+  - region: San Diego (USD)
+    base_low: 155000
+    base_high: 195000
+    stock_low: 135000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 255000
+    currency: USD
+  - region: London (GBP £)
+    base_low: 108000
+    base_high: 137000
+    stock_low: 98000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 133000
+    total_comp_high: 181000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ServiceNow Senior DevOps = Google L4 SRE = Meta Production Engineer (E4) = Salesforce Senior DevOps
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform"
+---
 ### DevOps Engineer | ServiceNow Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform

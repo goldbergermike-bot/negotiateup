@@ -1,3 +1,48 @@
+---
+company: electronic-arts
+company_display: Electronic Arts
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 140000
+    base_high: 195000
+    stock_low: 60000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 280000
+    currency: USD
+  - region: Orlando
+    base_low: 120000
+    base_high: 170000
+    stock_low: 50000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 153000
+    total_comp_high: 245000
+    currency: USD
+  - region: Bucharest
+    base_low: 42000
+    base_high: 68000
+    stock_low: 15000
+    stock_high: 35000
+    bonus_pct: 10
+    total_comp_low: 61000
+    total_comp_high: 108000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: EA Data Engineer ICT2-3 = Google L3-L4 Data Eng = Meta E3-E4 Data Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Sports-Gaming Revenue Machine"
+---
 ### Data Engineer | Electronic Arts Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Sports-Gaming Revenue Machine

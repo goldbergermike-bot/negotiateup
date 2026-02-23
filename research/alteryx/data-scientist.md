@@ -1,3 +1,40 @@
+---
+company: alteryx
+company_display: Alteryx
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine HQ
+    base_low: 145000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 190000
+    stock_low: 45000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Alteryx Senior DS = Dataiku Senior DS = Tableau Senior DS = Google L4 DS
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium"
+---
 ### Data Scientist | Alteryx Global Negotiation Guide
 
 **Negotiation DNA:** Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium

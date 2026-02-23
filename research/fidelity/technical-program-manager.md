@@ -1,3 +1,51 @@
+---
+company: fidelity
+company_display: Fidelity
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 132000
+    base_high: 175000
+    stock_low: 25000
+    stock_high: 45000
+    bonus_low: 28000
+    bonus_high: 45000
+    total_comp_low: 185000
+    total_comp_high: 265000
+    currency: USD
+  - region: "Durham, NC"
+    base_low: 119000
+    base_high: 158000
+    stock_low: 23000
+    stock_high: 41000
+    bonus_low: 25000
+    bonus_high: 41000
+    total_comp_low: 167000
+    total_comp_high: 240000
+    currency: USD
+  - region: "Dallas, TX"
+    base_low: 121000
+    base_high: 161000
+    stock_low: 23000
+    stock_high: 41000
+    bonus_low: 26000
+    bonus_high: 42000
+    total_comp_low: 170000
+    total_comp_high: 244000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Cross-Functional Execution` `Regulatory Program Delivery` `Stablecoin Launch Management`"
+---
 ### Technical Program Manager | Fidelity Investments Global Negotiation Guide
 
 **Negotiation DNA:** `Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Cross-Functional Execution` `Regulatory Program Delivery` `Stablecoin Launch Management`

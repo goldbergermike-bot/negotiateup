@@ -1,3 +1,48 @@
+---
+company: epic-games
+company_display: Epic Games
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 165000
+    base_high: 225000
+    stock_low: 100000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 232000
+    total_comp_high: 380000
+    currency: USD
+  - region: Seattle
+    base_low: 175000
+    base_high: 235000
+    stock_low: 110000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 400000
+    currency: USD
+  - region: London
+    base_low: 65000
+    base_high: 100000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_pct: 15
+    total_comp_low: 100000
+    total_comp_high: 165000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic Senior SWE = Google L4 = Meta E4 = Unity Senior SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue"
+---
 ### Senior Software Engineer | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue

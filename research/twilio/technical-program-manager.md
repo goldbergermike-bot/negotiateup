@@ -1,3 +1,49 @@
+---
+company: twilio
+company_display: Twilio
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Francisco, CA (HQ)"
+    base_low: 155000
+    base_high: 210000
+    stock_low: 110000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 320000
+    currency: USD
+  - region: "Denver, CO"
+    base_low: 140000
+    base_high: 195000
+    stock_low: 90000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 290000
+    currency: USD
+  - region: "London, UK"
+    base_low: 100000
+    base_high: 140000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Twilio TPM2 (Technical Program Manager) = Google L4 TPM = Meta IC4 TPM = Amazon L5 TPM = Datadog TPM2
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Cross-platform program execution premium | CustomerAI launch coordination driving 2026 milestones"
+---
 ### Technical Program Manager | Twilio Global Negotiation Guide
 
 **Negotiation DNA:** Cross-platform program execution premium | CustomerAI launch coordination driving 2026 milestones

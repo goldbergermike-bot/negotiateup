@@ -1,3 +1,39 @@
+---
+company: waymo
+company_display: Waymo
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View (HQ)
+    base_low: 220000
+    base_high: 280000
+    stock_low: 350000
+    stock_high: 700000
+    bonus_pct: 15
+    total_comp_low: 420000
+    total_comp_high: 650000
+    currency: USD
+  - region: San Francisco
+    base_low: 220000
+    base_high: 280000
+    stock_low: 350000
+    stock_high: 700000
+    bonus_pct: 15
+    total_comp_low: 420000
+    total_comp_high: 650000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Waymo Staff Software Engineer = Google L5 = Meta E5 = Apple ICT4 = Amazon Principal SDE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Google-Adjacent Comp | Alphabet RSUs (GOOGL) | Self-Driving Leader | Top-Tier Stability"
+---
 ### Staff Software Engineer | Waymo Global Negotiation Guide
 
 **Negotiation DNA:** Google-Adjacent Comp | Alphabet RSUs (GOOGL) | Self-Driving Leader | Top-Tier Stability

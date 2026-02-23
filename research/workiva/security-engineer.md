@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 125000
+    base_high: 175000
+    stock_low: 38000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 230000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 142000
+    base_high: 195000
+    stock_low: 48000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 262000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 58000
+    base_high: 92000
+    stock_low: 16000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 70000
+    total_comp_high: 118000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 105000
+    base_high: 150000
+    stock_low: 28000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 122000
+    total_comp_high: 195000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 1800000
+    base_high: 3400000
+    stock_low: 800000
+    stock_high: 2200000
+    bonus_pct: 10
+    total_comp_low: 2400000
+    total_comp_high: 4500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva IC3/IC4 (Security) ~ Intuit Senior/Staff Security | ServiceNow Senior/Staff Security | Domo Senior/Staff Security | Rapid7 Senior/Staff"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Compliance platform security & data protection specialist | Regulatory-grade security architecture | **SECURITY PREMIUM**"
+---
 ### Security Engineer | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** Compliance platform security & data protection specialist | Regulatory-grade security architecture | **SECURITY PREMIUM**

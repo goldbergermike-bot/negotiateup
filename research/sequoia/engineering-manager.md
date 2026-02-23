@@ -1,3 +1,52 @@
+---
+company: sequoia
+company_display: Sequoia
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 265000
+    base_high: 335000
+    stock_low: null
+    stock_high: null
+    bonus_low: 215000
+    bonus_high: 310000
+    total_comp_low: 545000
+    total_comp_high: 742000
+    currency: USD
+  - region: San Francisco
+    base_low: 255000
+    base_high: 320000
+    stock_low: null
+    stock_high: null
+    bonus_low: 200000
+    bonus_high: 295000
+    total_comp_low: 515000
+    total_comp_high: 705000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 190000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_low: 145000
+    bonus_high: 215000
+    total_comp_low: 377000
+    total_comp_high: 525000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - LinkedIn
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`Base $250K-$335K` | `Carry/Bonus $195K-$310K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`"
+---
 ### Engineering Manager | Sequoia Global Negotiation Guide
 
 **Negotiation DNA:** `Base $250K-$335K` | `Carry/Bonus $195K-$310K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`

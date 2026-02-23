@@ -1,3 +1,48 @@
+---
+company: compass
+company_display: Compass
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 195000
+    base_high: 255000
+    stock_low: 150000
+    stock_high: 318000
+    bonus_pct: 15
+    total_comp_low: 292000
+    total_comp_high: 438000
+    currency: USD
+  - region: San Francisco
+    base_low: 195000
+    base_high: 255000
+    stock_low: 150000
+    stock_high: 318000
+    bonus_pct: 15
+    total_comp_low: 292000
+    total_comp_high: 438000
+    currency: USD
+  - region: Remote US
+    base_low: 182000
+    base_high: 242000
+    stock_low: 132000
+    stock_high: 292000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 405000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Compass Staff SWE (IC5) = Zillow Staff SWE = Redfin Staff SWE = Opendoor Staff SWE = Google L5-L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **PROPTECH PREMIUM**"
+---
 ### Staff Software Engineer | Compass Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **PROPTECH PREMIUM**

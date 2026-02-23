@@ -1,3 +1,48 @@
+---
+company: etsy
+company_display: Etsy
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brooklyn
+    base_low: 172000
+    base_high: 215000
+    stock_low: 92000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 272000
+    currency: USD
+  - region: San Francisco
+    base_low: 178000
+    base_high: 222000
+    stock_low: 92000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 278000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 205000
+    stock_low: 92000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Etsy Solutions Architect (E3) = Google L4-L5 SA = Meta Solutions Eng = Amazon SA II = Shopify SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction"
+---
 ### Solutions Architect | Etsy Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction

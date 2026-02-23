@@ -1,3 +1,49 @@
+---
+company: twilio
+company_display: Twilio
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Francisco, CA (HQ)"
+    base_low: 150000
+    base_high: 200000
+    stock_low: 110000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 295000
+    currency: USD
+  - region: "Denver, CO"
+    base_low: 135000
+    base_high: 185000
+    stock_low: 90000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 265000
+    currency: USD
+  - region: "London, UK"
+    base_low: 95000
+    base_high: 135000
+    stock_low: 70000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Twilio L2 (DevOps Engineer) = Google L3 SRE = Meta E3 PE = Datadog IC2 = PagerDuty IC2
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Platform reliability at communications scale | CustomerAI infrastructure orchestration in 2026"
+---
 ### DevOps Engineer | Twilio Global Negotiation Guide
 
 **Negotiation DNA:** Platform reliability at communications scale | CustomerAI infrastructure orchestration in 2026

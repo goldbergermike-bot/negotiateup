@@ -1,3 +1,50 @@
+---
+company: blackstone
+company_display: Blackstone
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 215000
+    base_high: 275000
+    stock_low: null
+    stock_high: null
+    bonus_low: 65000
+    bonus_high: 105000
+    total_comp_low: 365000
+    total_comp_high: 525000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_low: 58000
+    bonus_high: 90000
+    total_comp_low: 330000
+    total_comp_high: 480000
+    currency: GBP
+  - region: Miami
+    base_low: 205000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_low: 60000
+    bonus_high: 95000
+    total_comp_low: 345000
+    total_comp_high: 500000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `Quantitative Analytics` `Portfolio Intelligence` `Alternative Data`"
+---
 ### Data Scientist | Blackstone Global Negotiation Guide
 
 **Negotiation DNA:** `$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `Quantitative Analytics` `Portfolio Intelligence` `Alternative Data`

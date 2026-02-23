@@ -1,3 +1,49 @@
+---
+company: github
+company_display: Github
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 220000
+    base_high: 265000
+    stock_low: 350000
+    stock_high: 520000
+    bonus_pct: 15
+    total_comp_low: 380000
+    total_comp_high: 530000
+    currency: USD
+  - region: Seattle
+    base_low: 215000
+    base_high: 260000
+    stock_low: 340000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 370000
+    total_comp_high: 520000
+    currency: USD
+  - region: London
+    base_low: 150000
+    base_high: 185000
+    stock_low: 200000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 370000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: GitHub Staff IC4 = Microsoft Principal SDE (L65-L66) = Google L6 = Meta E6 = Stripe L4
+data_sources:
+  - LinkedIn
+  - Levels.fyi
+negotiation_dna_summary: "Base + Microsoft RSU + Bonus | Copilot Architecture & Platform Strategy"
+---
 ### Staff Software Engineer | GitHub Global Negotiation Guide
 
 **Negotiation DNA:** Base + Microsoft RSU + Bonus | Copilot Architecture & Platform Strategy

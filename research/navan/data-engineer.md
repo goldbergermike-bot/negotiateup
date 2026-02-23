@@ -1,3 +1,54 @@
+---
+company: navan
+company_display: Navan
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 220000
+    stock_low: 45000
+    stock_high: 95000
+    bonus_low: 12000
+    bonus_high: 28000
+    total_comp_low: 217000
+    total_comp_high: 343000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 215000
+    stock_low: 42000
+    stock_high: 90000
+    bonus_low: 10000
+    bonus_high: 26000
+    total_comp_low: 207000
+    total_comp_high: 331000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 138000
+    stock_low: 28000
+    stock_high: 60000
+    bonus_low: 7000
+    bonus_high: 17000
+    total_comp_low: 133000
+    total_comp_high: 215000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Navan | Google | Meta | Stripe | Brex | Airbnb |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Crunchbase
+negotiation_dna_summary: "`Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `Data Infrastructure` `ETL/ELT`"
+---
 ### Data Engineer | Navan Global Negotiation Guide
 
 **Negotiation DNA:** `Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `Data Infrastructure` `ETL/ELT`

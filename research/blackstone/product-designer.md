@@ -1,3 +1,51 @@
+---
+company: blackstone
+company_display: Blackstone
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 155000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_low: 40000
+    bonus_high: 60000
+    total_comp_low: 240000
+    total_comp_high: 345000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_low: 35000
+    bonus_high: 52000
+    total_comp_low: 220000
+    total_comp_high: 315000
+    currency: GBP
+  - region: Miami
+    base_low: 145000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_low: 37000
+    bonus_high: 55000
+    total_comp_low: 228000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `UX/UI Design` `Investment Platform Design` `LP Portal Experience`"
+---
 ### Product Designer | Blackstone Global Negotiation Guide
 
 **Negotiation DNA:** `$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `UX/UI Design` `Investment Platform Design` `LP Portal Experience`

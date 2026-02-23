@@ -1,3 +1,49 @@
+---
+company: nium
+company_display: Nium
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 130000
+    base_high: 200000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 370000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 170000
+    base_high: 245000
+    stock_low: 100000
+    stock_high: 220000
+    bonus_pct: null
+    total_comp_low: 270000
+    total_comp_high: 465000
+    currency: USD
+  - region: London (GBP)
+    base_low: 80000
+    base_high: 130000
+    stock_low: 50000
+    stock_high: 110000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a product management compensation framework spanning Singapore, San Francisco, and London markets. As a Product Manager at Nium, you define what gets built — translating the Reimagined Infrastructure vision into product roadmaps, API specifications, and partner-facing capabilities that shape how money moves across borders."
+---
 ### Product Manager — Nium Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a product management compensation framework spanning Singapore, San Francisco, and London markets. As a Product Manager at Nium, you define what gets built — translating the Reimagined Infrastructure vision into product roadmaps, API specifications, and partner-facing capabilities that shape how money moves across borders.

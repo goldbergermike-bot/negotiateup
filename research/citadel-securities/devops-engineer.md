@@ -1,3 +1,51 @@
+---
+company: citadel-securities
+company_display: Citadel Securities
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 175000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_low: 150000
+    bonus_high: 240000
+    total_comp_low: 325000
+    total_comp_high: 465000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_low: 155000
+    bonus_high: 250000
+    total_comp_low: 340000
+    total_comp_high: 485000
+    currency: USD
+  - region: London
+    base_low: 140000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_low: 120000
+    bonus_high: 190000
+    total_comp_low: 260000
+    total_comp_high: 370000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Infrastructure Reliability` `25% US Equity Volume` `Private Firm Premium` `Zero-Downtime Operations`"
+---
 ### DevOps Engineer | Citadel Securities Global Negotiation Guide
 
 **Negotiation DNA:** `$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Infrastructure Reliability` `25% US Equity Volume` `Private Firm Premium` `Zero-Downtime Operations`

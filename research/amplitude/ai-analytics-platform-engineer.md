@@ -1,3 +1,51 @@
+---
+company: amplitude
+company_display: Amplitude
+role: ai-analytics-platform-engineer
+role_display: AI Analytics Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 192000
+    base_high: 250000
+    stock_low: 220000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 365000
+    currency: USD
+  - region: New York
+    base_low: 188000
+    base_high: 245000
+    stock_low: 215000
+    stock_high: 368000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 158000
+    stock_low: 110000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Amplitude AI Platform Eng (Senior) = Google L4-L5 ML Platform = Mixpanel Senior ML = Heap AI Lead
+data_sources:
+  - Amplitude AI Analytics Platform — Investor Day Strategy 2026
+  - "AMPL 10-K — AI Product Revenue Impact & Enterprise Retention"
+  - AI Analytics Platform Engineering — Market Comp Report 2026
+  - "Behavioral ML & NLP Analytics — Cross-Domain Model Trends"
+negotiation_dna_summary: "RSU-Based / Public Company | **SIGNATURE ROLE** | **+15–30% AI ANALYTICS PREMIUM**"
+---
 ### AI Analytics Platform Engineer | Amplitude Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Based / Public Company | **SIGNATURE ROLE** | **+15–30% AI ANALYTICS PREMIUM**

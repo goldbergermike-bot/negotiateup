@@ -1,3 +1,48 @@
+---
+company: servicenow
+company_display: Servicenow
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara (USD)
+    base_low: 180000
+    base_high: 230000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 230000
+    total_comp_high: 325000
+    currency: USD
+  - region: San Diego (USD)
+    base_low: 165000
+    base_high: 215000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 298000
+    currency: USD
+  - region: London (GBP £)
+    base_low: 118000
+    base_high: 150000
+    stock_low: 130000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 212000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ServiceNow Senior Data Scientist = Google L4 DS = Meta DS (IC4) = Salesforce Senior DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform | **+10–20% AI PREMIUM**"
+---
 ### Data Scientist | ServiceNow Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform | **+10–20% AI PREMIUM**

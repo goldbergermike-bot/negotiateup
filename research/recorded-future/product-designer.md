@@ -1,3 +1,39 @@
+---
+company: recorded-future
+company_display: Recorded Future
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Somerville/Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 333000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 315000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Designers at Recorded Future shape the user experience of the world's largest threat intelligence platform, translating complex intelligence data — threat actors, malware families, vulnerability chains — into intuitive interfaces for security analysts and decision-makers."
+---
 ### Product Designer — Recorded Future Salary Negotiation Guide
 
 **Negotiation DNA**: Product Designers at Recorded Future shape the user experience of the world's largest threat intelligence platform, translating complex intelligence data — threat actors, malware families, vulnerability chains — into intuitive interfaces for security analysts and decision-makers.

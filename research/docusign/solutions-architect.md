@@ -1,3 +1,67 @@
+---
+company: docusign
+company_display: Docusign
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 170000
+    base_high: 235000
+    stock_low: 80000
+    stock_high: 195000
+    bonus_pct: 12
+    total_comp_low: 220000
+    total_comp_high: 345000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 148000
+    base_high: 210000
+    stock_low: 58000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 82000
+    base_high: 122000
+    stock_low: 35000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 110000
+    total_comp_high: 175000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2800000
+    base_high: 5200000
+    stock_low: 1400000
+    stock_high: 3600000
+    bonus_pct: 10
+    total_comp_low: 3800000
+    total_comp_high: 6800000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 135000
+    base_high: 192000
+    stock_low: 52000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign SA (IC3/IC4) ~ Salesforce Technical Architect | Microsoft CSA | ServiceNow Solution Consultant | AWS Senior SA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Agreement platform integration specialist | Enterprise CLM & IAM deployment expert | **ARCHITECTURE PREMIUM**"
+---
 ### Solutions Architect | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** Agreement platform integration specialist | Enterprise CLM & IAM deployment expert | **ARCHITECTURE PREMIUM**

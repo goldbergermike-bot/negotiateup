@@ -1,3 +1,48 @@
+---
+company: servicenow
+company_display: Servicenow
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara (USD)
+    base_low: 155000
+    base_high: 195000
+    stock_low: 130000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 260000
+    currency: USD
+  - region: San Diego (USD)
+    base_low: 145000
+    base_high: 185000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 240000
+    currency: USD
+  - region: London (GBP £)
+    base_low: 100000
+    base_high: 127000
+    stock_low: 85000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 127000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ServiceNow Senior Designer = Google UX L4 = Meta Product Designer (IC4) = Salesforce Senior Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform"
+---
 ### Product Designer | ServiceNow Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform

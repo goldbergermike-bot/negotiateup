@@ -1,3 +1,52 @@
+---
+company: adyen
+company_display: Adyen
+role: autonomous-transaction-platform-engineer
+role_display: Autonomous Transaction Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 140000
+    base_high: 195000
+    stock_low: 130000
+    stock_high: 260000
+    bonus_low: 22000
+    bonus_high: 45000
+    total_comp_low: 292000
+    total_comp_high: 500000
+    currency: EUR
+  - region: San Francisco
+    base_low: 220000
+    base_high: 300000
+    stock_low: 200000
+    stock_high: 400000
+    bonus_low: 35000
+    bonus_high: 65000
+    total_comp_low: 455000
+    total_comp_high: 765000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 178000
+    stock_low: 110000
+    stock_high: 225000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 255000
+    total_comp_high: 443000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Adyen | Google | Meta | Stripe | Visa | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `SIGNATURE ROLE` `Platform Architecture` `AI-Native Payments` `+20-30% Autonomous Premium`"
+---
 ### Autonomous Transaction Platform Engineer | Adyen Global Negotiation Guide
 
 ## SIGNATURE ROLE — Negotiate Up Exclusive

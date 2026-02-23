@@ -1,3 +1,52 @@
+---
+company: adyen
+company_display: Adyen
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 135000
+    base_high: 180000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 275000
+    total_comp_high: 440000
+    currency: EUR
+  - region: San Francisco
+    base_low: 210000
+    base_high: 280000
+    stock_low: 180000
+    stock_high: 340000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 420000
+    total_comp_high: 675000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 165000
+    stock_low: 100000
+    stock_high: 190000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 238000
+    total_comp_high: 390000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Adyen | Google | Meta | Stripe | Visa | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Staff IC Track`"
+---
 ### Staff Software Engineer | Adyen Global Negotiation Guide
 
 **Negotiation DNA:** `AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Staff IC Track`

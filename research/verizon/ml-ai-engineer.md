@@ -1,3 +1,49 @@
+---
+company: verizon
+company_display: Verizon
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / New Jersey
+    base_low: 138000
+    base_high: 198000
+    stock_low: 40000
+    stock_high: 140000
+    bonus_pct: 12
+    total_comp_low: 172000
+    total_comp_high: 280000
+    currency: USD
+  - region: Bay Area / Seattle
+    base_low: 145000
+    base_high: 205000
+    stock_low: 45000
+    stock_high: 148000
+    bonus_pct: 12
+    total_comp_low: 182000
+    total_comp_high: 295000
+    currency: USD
+  - region: Dallas / Atlanta
+    base_low: 130000
+    base_high: 188000
+    stock_low: 35000
+    stock_high: 128000
+    bonus_pct: 12
+    total_comp_low: 160000
+    total_comp_high: 260000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Verizon ML/AI Engineer (L4-L6) = Google L4-L6 ML = Meta E4-E6 ML = Amazon Applied Scientist II-III = T-Mobile L5-L7
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$175B Telecom Leader | AI-Powered Network + Enterprise Intelligence | **+10-18% AI PREMIUM**"
+---
 ### ML/AI Engineer | Verizon Global Negotiation Guide
 
 **Negotiation DNA:** $175B Telecom Leader | AI-Powered Network + Enterprise Intelligence | **+10-18% AI PREMIUM**

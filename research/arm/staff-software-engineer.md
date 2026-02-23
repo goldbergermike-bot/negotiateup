@@ -1,3 +1,48 @@
+---
+company: arm
+company_display: Arm
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 195000
+    base_high: 260000
+    stock_low: 320000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 425000
+    currency: USD
+  - region: Austin
+    base_low: 175000
+    base_high: 235000
+    stock_low: 285000
+    stock_high: 450000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 385000
+    currency: USD
+  - region: Cambridge UK
+    base_low: 72000
+    base_high: 100000
+    stock_low: 180000
+    stock_high: 310000
+    bonus_pct: 15
+    total_comp_low: 105000
+    total_comp_high: 155000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ARM Staff Software Engineer = NVIDIA Staff/Senior Staff Engineer = Intel Principal Engineer (Grade 9) = Google L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages"
+---
 ### Staff Software Engineer | ARM Global Negotiation Guide
 
 **Negotiation DNA:** Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages

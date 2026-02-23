@@ -1,3 +1,48 @@
+---
+company: databricks-unity
+company_display: Databricks Unity
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 225000
+    stock_low: 168000
+    stock_high: 295000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 345000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 232000
+    stock_low: 168000
+    stock_high: 295000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 352000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 158000
+    stock_low: 112000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 235000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Databricks SWE (L2-L3) = Snowflake SWE = Google L3-L4 = Meta E4 = Amazon L5 = Microsoft 61-62
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Software Engineer | Databricks Unity Global Negotiation Guide
 
 **Negotiation DNA:** Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**

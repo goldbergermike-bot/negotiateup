@@ -1,3 +1,49 @@
+---
+company: juniper
+company_display: Juniper
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 145000
+    base_high: 185000
+    stock_low: 35000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 275000
+    currency: USD
+  - region: Westford (MA)
+    base_low: 135000
+    base_high: 172000
+    stock_low: 30000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 258000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 168000
+    stock_low: 28000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 250000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Juniper PM (PM2–PM3) = Google L5–L6 PM | Meta PM–Sr. PM | Amazon Sr. PM–Principal PM | Cisco Product Manager–Sr. Product Manager | HPE Product Manager (IC4–IC5)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | Product Strategy Premium"
+---
 ### Product Manager | Juniper Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | Product Strategy Premium

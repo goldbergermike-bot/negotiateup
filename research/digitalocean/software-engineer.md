@@ -1,3 +1,39 @@
+---
+company: digitalocean
+company_display: DigitalOcean
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 340000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Software Engineers at DigitalOcean build the developer-focused cloud platform that simplifies cloud computing for SMBs and startups, powering Droplets, Kubernetes, managed databases, App Platform, and serverless functions."
+---
 ### Software Engineer — DigitalOcean Salary Negotiation Guide
 
 **Negotiation DNA**: Software Engineers at DigitalOcean build the developer-focused cloud platform that simplifies cloud computing for SMBs and startups, powering Droplets, Kubernetes, managed databases, App Platform, and serverless functions.

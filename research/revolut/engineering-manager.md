@@ -1,3 +1,48 @@
+---
+company: revolut
+company_display: Revolut
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":gb: London (GBP)"
+    base_low: 95000
+    base_high: 140000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 340000
+    currency: GBP
+  - region: ":lt: Vilnius (EUR)"
+    base_low: 65000
+    base_high: 100000
+    stock_low: 50000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 115000
+    total_comp_high: 240000
+    currency: EUR
+  - region: ":us: New York (USD)"
+    base_low: 170000
+    base_high: 230000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 290000
+    total_comp_high: 530000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into an engineering management compensation framework spanning London, Vilnius, and New York markets. Engineering Managers at Revolut sit at the intersection of technical execution and organizational leverage — you own the teams building the systems that power a $75B fintech, and your ability to ship reliably and scale headcount is a direct input to IPO Readiness."
+---
 ### Engineering Manager — Revolut Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into an engineering management compensation framework spanning London, Vilnius, and New York markets. Engineering Managers at Revolut sit at the intersection of technical execution and organizational leverage — you own the teams building the systems that power a $75B fintech, and your ability to ship reliably and scale headcount is a direct input to IPO Readiness.

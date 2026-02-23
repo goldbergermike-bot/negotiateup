@@ -1,3 +1,39 @@
+---
+company: nuro
+company_display: Nuro
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View / Bay Area
+    base_low: 152000
+    base_high: 212000
+    stock_low: 88000
+    stock_high: 252000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 198000
+    stock_low: 75000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Nuro PD (IC2-IC3) = Waymo PD = Aurora PD = Zoox PD = Google L3-L4 UX
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AUTONOMOUS DELIVERY UX PREMIUM**"
+---
 ### Product Designer | Nuro Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AUTONOMOUS DELIVERY UX PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: adobe
+company_display: Adobe
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 178000
+    base_high: 222000
+    stock_low: 200000
+    stock_high: 338000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 322000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 148000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 208000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4500000
+    base_high: 6800000
+    stock_low: 5000000
+    stock_high: 10000000
+    bonus_pct: 10
+    total_comp_low: 6200000
+    total_comp_high: 9800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Adobe Senior ML Eng (ICT5) = Google L4 ML = Meta E4 ML = Snowflake Senior ML (Cortex)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | **+15–30% AGENTIC AI PREMIUM** | Firefly AI Core Team"
+---
 ### ML/AI Engineer | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | **+15–30% AGENTIC AI PREMIUM** | Firefly AI Core Team

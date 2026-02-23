@@ -1,3 +1,89 @@
+---
+company: microsoft
+company_display: Microsoft
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: PM I-II
+    base_low: 115000
+    base_high: 160000
+    stock_low: 50000
+    stock_high: 140000
+    bonus_pct: 10
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 145000
+    total_comp_high: 230000
+    currency: USD
+  - region: Senior PM
+    base_low: 155000
+    base_high: 220000
+    stock_low: 120000
+    stock_high: 320000
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 55000
+    total_comp_low: 230000
+    total_comp_high: 380000
+    currency: USD
+  - region: Principal PM
+    base_low: 195000
+    base_high: 260000
+    stock_low: 200000
+    stock_high: 430000
+    bonus_pct: 20
+    signing_bonus_low: 40000
+    signing_bonus_high: 75000
+    total_comp_low: 305000
+    total_comp_high: 470000
+    currency: USD
+  - region: Principal PM Lead
+    base_low: 220000
+    base_high: 280000
+    stock_low: 300000
+    stock_high: 550000
+    bonus_pct: 20
+    signing_bonus_low: 50000
+    signing_bonus_high: 90000
+    total_comp_low: 380000
+    total_comp_high: 540000
+    currency: USD
+  - region: Group PM / Director
+    base_low: 260000
+    base_high: 350000
+    stock_low: 450000
+    stock_high: 1000000
+    bonus_pct: 25
+    signing_bonus_low: 60000
+    signing_bonus_high: 120000
+    total_comp_low: 500000
+    total_comp_high: 830000
+    currency: USD
+  - region: CVP / VP PM
+    base_low: 340000
+    base_high: 430000
+    stock_low: 900000
+    stock_high: 2500000
+    bonus_pct: 30
+    signing_bonus_low: 100000
+    signing_bonus_high: 200000
+    total_comp_low: 750000
+    total_comp_high: 1300000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: null
+---
 # Product Manager - Microsoft Negotiation Guide
 
 ## Role Overview

@@ -1,3 +1,49 @@
+---
+company: disney
+company_display: Disney
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Burbank / Los Angeles
+    base_low: 155000
+    base_high: 220000
+    stock_low: 65000
+    stock_high: 190000
+    bonus_pct: 12
+    total_comp_low: 205000
+    total_comp_high: 340000
+    currency: USD
+  - region: San Francisco / Seattle
+    base_low: 160000
+    base_high: 225000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 12
+    total_comp_low: 215000
+    total_comp_high: 355000
+    currency: USD
+  - region: London (UK)
+    base_low: 115000
+    base_high: 165000
+    stock_low: 45000
+    stock_high: 140000
+    bonus_pct: 12
+    total_comp_low: 160000
+    total_comp_high: 260000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Disney ML/AI Engineer (IC3-IC5) = Google L4-L6 ML Engineer = Meta E4-E6 ML Engineer = Amazon Applied Scientist II-III = Netflix ML Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$200B Entertainment-Tech Empire | AI-Powered Entertainment Intelligence | **+10-20% AI PREMIUM**"
+---
 ### ML/AI Engineer | Disney Global Negotiation Guide
 
 **Negotiation DNA:** $200B Entertainment-Tech Empire | AI-Powered Entertainment Intelligence | **+10-20% AI PREMIUM**

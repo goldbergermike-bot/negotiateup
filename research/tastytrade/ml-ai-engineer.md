@@ -1,3 +1,52 @@
+---
+company: tastytrade
+company_display: Tastytrade
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 178000
+    base_high: 248000
+    stock_low: null
+    stock_high: null
+    bonus_low: 32000
+    bonus_high: 52000
+    total_comp_low: 248000
+    total_comp_high: 362000
+    currency: USD
+  - region: New York
+    base_low: 196000
+    base_high: 273000
+    stock_low: null
+    stock_high: null
+    bonus_low: 35000
+    bonus_high: 57000
+    total_comp_low: 273000
+    total_comp_high: 398000
+    currency: USD
+  - region: London
+    base_low: 136000
+    base_high: 189000
+    stock_low: 29000
+    stock_high: 47000
+    bonus_low: 24000
+    bonus_high: 40000
+    total_comp_low: 189000
+    total_comp_high: 276000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Volatility Prediction Models` `Options Strategy Optimization` `AI-Driven Trading Analytics`"
+---
 ### ML/AI Engineer | Tastytrade Global Negotiation Guide
 
 **Negotiation DNA:** `Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Volatility Prediction Models` `Options Strategy Optimization` `AI-Driven Trading Analytics`

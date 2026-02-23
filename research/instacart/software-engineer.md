@@ -1,3 +1,48 @@
+---
+company: instacart
+company_display: Instacart
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 130000
+    base_high: 165000
+    stock_low: 55000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: USD
+  - region: New York
+    base_low: 125000
+    base_high: 160000
+    stock_low: 50000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 225000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 148000
+    stock_low: 45000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Instacart Software Engineer (IC3) = Google L3–L4 = Meta E3–E4 = DoorDash IC3 = Uber L3–L4 = Lyft L3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU Equity + Bonus | Instant Commerce & Grocery Tech | 4x Engineering Velocity | Post-IPO Growth"
+---
 ### Software Engineer | Instacart Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU Equity + Bonus | Instant Commerce & Grocery Tech | 4x Engineering Velocity | Post-IPO Growth

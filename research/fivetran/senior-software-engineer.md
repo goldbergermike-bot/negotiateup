@@ -1,3 +1,48 @@
+---
+company: fivetran
+company_display: Fivetran
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland / Remote-US
+    base_low: 182000
+    base_high: 222000
+    stock_low: 135000
+    stock_high: 248000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 330000
+    currency: USD
+  - region: Denver
+    base_low: 178000
+    base_high: 215000
+    stock_low: 128000
+    stock_high: 238000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 318000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 162000
+    stock_low: 92000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 235000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Fivetran Senior SWE = Google L5 = Snowflake Senior = Databricks Senior = Meta E5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity + Bonus | AI-Automated Connector & Platform Architecture 2026"
+---
 ### Senior Software Engineer | Fivetran Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity + Bonus | AI-Automated Connector & Platform Architecture 2026

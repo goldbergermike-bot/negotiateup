@@ -1,3 +1,52 @@
+---
+company: interactive-brokers
+company_display: Interactive Brokers
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Greenwich, CT (HQ)"
+    base_low: 120000
+    base_high: 165000
+    stock_low: 28000
+    stock_high: 48000
+    bonus_low: 20000
+    bonus_high: 29000
+    total_comp_low: 168000
+    total_comp_high: 242000
+    currency: USD
+  - region: New York
+    base_low: 126000
+    base_high: 173000
+    stock_low: 29000
+    stock_high: 50000
+    bonus_low: 21000
+    bonus_high: 31000
+    total_comp_low: 176000
+    total_comp_high: 254000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 122000
+    stock_low: 21000
+    stock_high: 35000
+    bonus_low: 15000
+    bonus_high: 21000
+    total_comp_low: 124000
+    total_comp_high: 178000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "`ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Low-Latency Systems` `Full-Stack Trading Infrastructure` `Lean Team Impact`"
+---
 ### Software Engineer | Interactive Brokers Global Negotiation Guide
 
 **Negotiation DNA:** `ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Low-Latency Systems` `Full-Stack Trading Infrastructure` `Lean Team Impact`

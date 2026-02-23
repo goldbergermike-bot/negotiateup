@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 188000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 248000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 182000
+    stock_low: 75000
+    stock_high: 142000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 238000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 135000
+    stock_low: 55000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 172000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel PD = Google L4 UX = Figma Product Designer = Amplitude Senior Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Equity + Bonus | AI-Native Analytics UX Design 2026"
+---
 ### Product Designer | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Equity + Bonus | AI-Native Analytics UX Design 2026

@@ -1,3 +1,52 @@
+---
+company: andreessen-horowitz
+company_display: Andreessen Horowitz
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 210000
+    base_high: 278000
+    stock_low: null
+    stock_high: null
+    bonus_low: 145000
+    bonus_high: 234000
+    total_comp_low: 355000
+    total_comp_high: 512000
+    currency: USD
+  - region: San Francisco
+    base_low: 205000
+    base_high: 272000
+    stock_low: null
+    stock_high: null
+    bonus_low: 140000
+    bonus_high: 228000
+    total_comp_low: 345000
+    total_comp_high: 500000
+    currency: USD
+  - region: New York
+    base_low: 198000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_low: 135000
+    bonus_high: 220000
+    total_comp_low: 333000
+    total_comp_high: 485000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - LinkedIn
+  - Glassdoor
+negotiation_dna_summary: "`$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Platform Architecture` `Portfolio Technical Advisory` `Cross-Fund Integration`"
+---
 ### Solutions Architect | Andreessen Horowitz Global Negotiation Guide
 
 **Negotiation DNA:** `$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Platform Architecture` `Portfolio Technical Advisory` `Cross-Fund Integration`

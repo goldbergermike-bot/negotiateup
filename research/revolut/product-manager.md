@@ -1,3 +1,48 @@
+---
+company: revolut
+company_display: Revolut
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":gb: London (GBP)"
+    base_low: 75000
+    base_high: 120000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 270000
+    currency: GBP
+  - region: ":lt: Vilnius (EUR)"
+    base_low: 55000
+    base_high: 85000
+    stock_low: 35000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 90000
+    total_comp_high: 185000
+    currency: EUR
+  - region: ":us: New York (USD)"
+    base_low: 140000
+    base_high: 200000
+    stock_low: 80000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 450000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a product management compensation framework spanning London, Vilnius, and New York markets. Product Managers at Revolut own the roadmap that converts 40M+ users into $9B in revenue — you are the strategic layer between engineering execution and business outcomes, and your decisions directly shape the IPO narrative."
+---
 ### Product Manager — Revolut Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a product management compensation framework spanning London, Vilnius, and New York markets. Product Managers at Revolut own the roadmap that converts 40M+ users into $9B in revenue — you are the strategic layer between engineering execution and business outcomes, and your decisions directly shape the IPO narrative.

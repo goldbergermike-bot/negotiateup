@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 135000
+    base_high: 170000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: 5
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: USD
+  - region: San Diego
+    base_low: 125000
+    base_high: 158000
+    stock_low: 22000
+    stock_high: 45000
+    bonus_pct: 5
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+  - region: Remote US
+    base_low: 118000
+    base_high: 150000
+    stock_low: 20000
+    stock_high: 40000
+    bonus_pct: 5
+    total_comp_low: 145000
+    total_comp_high: 200000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq SWE ≈ Google L3–L4 · Meta E3–E4 · Amazon SDE I–II · Apple ICT2–ICT3 · Cerebras/Anyscale SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Competitive Startup Premium"
+---
 ### Software Engineer | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Competitive Startup Premium

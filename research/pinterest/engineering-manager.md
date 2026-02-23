@@ -1,3 +1,48 @@
+---
+company: pinterest
+company_display: Pinterest
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 260000
+    stock_low: 280000
+    stock_high: 480000
+    bonus_pct: 12
+    total_comp_low: 290000
+    total_comp_high: 398000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 250000
+    stock_low: 260000
+    stock_high: 450000
+    bonus_pct: 12
+    total_comp_low: 275000
+    total_comp_high: 380000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 235000
+    stock_low: 230000
+    stock_high: 400000
+    bonus_pct: 12
+    total_comp_low: 255000
+    total_comp_high: 350000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Pinterest Engineering Manager (M1–M2) = Google L6 Manager = Meta M1 = Amazon SDM = Apple Engineering Manager = Microsoft Engineering Manager (65–67)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | People Leadership Premium | Standard 4-year vest with 1-year cliff"
+---
 ### Engineering Manager | Pinterest Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | People Leadership Premium | Standard 4-year vest with 1-year cliff

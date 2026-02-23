@@ -1,3 +1,52 @@
+---
+company: mastercard
+company_display: Mastercard
+role: trust-orchestrator-platform-engineer
+role_display: Trust Orchestrator Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Purchase NY
+    base_low: 195000
+    base_high: 260000
+    stock_low: 180000
+    stock_high: 340000
+    bonus_low: 38000
+    bonus_high: 65000
+    total_comp_low: 413000
+    total_comp_high: 665000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 270000
+    stock_low: 200000
+    stock_high: 370000
+    bonus_low: 40000
+    bonus_high: 70000
+    total_comp_low: 445000
+    total_comp_high: 710000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 175000
+    stock_low: 110000
+    stock_high: 195000
+    bonus_low: 24000
+    bonus_high: 40000
+    total_comp_low: 264000
+    total_comp_high: 410000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Mastercard | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `SIGNATURE ROLE` `Biometric Authentication` `Platform Architecture` `Identity Infrastructure` `Payment Network Evolution` `Zero Trust Commerce` `Credential Orchestration`"
+---
 ### Trust Orchestrator Platform Engineer | Mastercard Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `SIGNATURE ROLE` `Biometric Authentication` `Platform Architecture` `Identity Infrastructure` `Payment Network Evolution` `Zero Trust Commerce` `Credential Orchestration`

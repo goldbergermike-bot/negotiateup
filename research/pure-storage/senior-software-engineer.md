@@ -1,3 +1,50 @@
+---
+company: pure-storage
+company_display: Pure Storage
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 170000
+    base_high: 210000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 308000
+    currency: USD
+  - region: Denver
+    base_low: 155000
+    base_high: 192000
+    stock_low: 105000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 282000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 182000
+    stock_low: 95000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Pure Storage | Google | Meta | Amazon | Microsoft |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | +5–10% Senior Premium"
+---
 ### Senior Software Engineer | Pure Storage Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | +5–10% Senior Premium

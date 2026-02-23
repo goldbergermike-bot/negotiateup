@@ -1,3 +1,39 @@
+---
+company: walmart-global-tech
+company_display: Walmart Global Tech
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bentonville AR (HQ)
+    base_low: 112000
+    base_high: 160000
+    stock_low: 35000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 133000
+    total_comp_high: 212000
+    currency: USD
+  - region: Bay Area (Sunnyvale)
+    base_low: 125000
+    base_high: 175000
+    stock_low: 45000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Walmart Global Tech Product Designer = Google UX Designer L3-L4 = Amazon UX Designer = Meta Product Designer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage"
+---
 ### Product Designer | Walmart Global Tech Global Negotiation Guide
 
 **Negotiation DNA:** Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage

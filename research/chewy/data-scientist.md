@@ -1,3 +1,51 @@
+---
+company: chewy
+company_display: Chewy
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Plantation FL
+    base_low: 128000
+    base_high: 168000
+    stock_low: 30000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 238000
+    currency: USD
+  - region: Boston
+    base_low: 138000
+    base_high: 183000
+    stock_low: 32000
+    stock_high: 53000
+    bonus_pct: 10
+    total_comp_low: 186000
+    total_comp_high: 260000
+    currency: USD
+  - region: Remote US
+    base_low: 122000
+    base_high: 160000
+    stock_low: 29000
+    stock_high: 46000
+    bonus_pct: 10
+    total_comp_low: 163000
+    total_comp_high: 226000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chewy Data Scientist = Google Data Scientist L4–L5 = Amazon Research Scientist L5 = Meta Data Scientist IC4–IC5 = Microsoft Data Scientist 62–63 = Apple Data Scientist ICT4
+data_sources:
+  - "Chewy 84% Autoship Penetration — Q4 2024 Earnings Report, Recurring Revenue Model"
+  - "Chewy Pet Health Expansion — Chewy Health, Telehealth, Insurance, Pharmacy Announcements"
+  - "Chewy 10-K Annual Filing — $12B+ Revenue, 20M+ Active Customers"
+  - Pet Humanization Trend — APPA $150B+ US Pet Industry Spending Report
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium"
+---
 ### Data Scientist | Chewy Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium

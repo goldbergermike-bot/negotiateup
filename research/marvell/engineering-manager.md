@@ -1,3 +1,48 @@
+---
+company: marvell
+company_display: Marvell
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 185000
+    base_high: 235000
+    stock_low: 170000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 372000
+    currency: USD
+  - region: Boise
+    base_low: 166000
+    base_high: 212000
+    stock_low: 145000
+    stock_high: 245000
+    bonus_pct: 15
+    total_comp_low: 238000
+    total_comp_high: 332000
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 222000
+    stock_low: 155000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 252000
+    total_comp_high: 350000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Marvell M1–M2 = Google EM L6–L7 = Meta M1–M2 = Apple EM ICT5 = Broadcom Engineering Manager = AMD Senior Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | +15% Management Premium"
+---
 ### Engineering Manager | Marvell Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | +15% Management Premium

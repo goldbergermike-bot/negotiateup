@@ -1,3 +1,48 @@
+---
+company: fivetran
+company_display: Fivetran
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland / Remote-US
+    base_low: 148000
+    base_high: 180000
+    stock_low: 82000
+    stock_high: 152000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 240000
+    currency: USD
+  - region: Denver
+    base_low: 142000
+    base_high: 175000
+    stock_low: 78000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 230000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 130000
+    stock_low: 55000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 168000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Fivetran SWE = Google L3-L4 = Snowflake SWE = Databricks SWE = Meta E3-E4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Forward + Bonus | Data Connector & AI Feature Development 2026"
+---
 ### Software Engineer | Fivetran Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Forward + Bonus | Data Connector & AI Feature Development 2026

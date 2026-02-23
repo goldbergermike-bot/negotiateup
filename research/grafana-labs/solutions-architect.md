@@ -1,3 +1,50 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 168000
+    base_high: 218000
+    stock_low: 125000
+    stock_high: 225000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 310000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 158000
+    base_high: 208000
+    stock_low: 112000
+    stock_high: 208000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 290000
+    currency: USD
+  - region: London / Berlin
+    base_low: 128000
+    base_high: 166000
+    stock_low: 95000
+    stock_high: 171000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 236000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs SA = Google Cloud SA = AWS Senior SA = Datadog Senior SA = Elastic Senior SA
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside"
+---
 ### Solutions Architect | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside

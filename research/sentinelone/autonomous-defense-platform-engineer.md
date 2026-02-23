@@ -1,3 +1,39 @@
+---
+company: sentinelone
+company_display: SentinelOne
+role: autonomous-defense-platform-engineer
+role_display: Autonomous Defense Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 420000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 82000
+    total_comp_high: 215000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "You are the embodiment of SentinelOne's mission — an engineer who builds the Autonomous Defense systems that enable AI-driven threat detection, investigation, and remediation at machine speed across the Singularity platform, powered by Purple AI."
+---
 ### Autonomous Defense Platform Engineer — SentinelOne Salary Negotiation Guide
 
 **Negotiation DNA**: You are the embodiment of SentinelOne's mission — an engineer who builds the Autonomous Defense systems that enable AI-driven threat detection, investigation, and remediation at machine speed across the Singularity platform, powered by Purple AI.

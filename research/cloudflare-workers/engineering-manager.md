@@ -1,3 +1,48 @@
+---
+company: cloudflare-workers
+company_display: Cloudflare Workers
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 218000
+    base_high: 272000
+    stock_low: 280000
+    stock_high: 465000
+    bonus_pct: 15
+    total_comp_low: 362000
+    total_comp_high: 510000
+    currency: USD
+  - region: Austin
+    base_low: 208000
+    base_high: 260000
+    stock_low: 268000
+    stock_high: 448000
+    bonus_pct: 15
+    total_comp_low: 348000
+    total_comp_high: 492000
+    currency: USD
+  - region: London
+    base_low: 142000
+    base_high: 180000
+    stock_low: 185000
+    stock_high: 308000
+    bonus_pct: 15
+    total_comp_low: 238000
+    total_comp_high: 338000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Cloudflare EM (M1-M2) = Google EM L6-L7 = Meta EM M1-M2 = Fastly EM = Vercel EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NYSE: NET) + Bonus | Edge AI Platform Engineering Leadership | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**"
+---
 ### Engineering Manager | Cloudflare Workers Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NYSE: NET) + Bonus | Edge AI Platform Engineering Leadership | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**

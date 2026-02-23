@@ -1,3 +1,48 @@
+---
+company: freshworks
+company_display: Freshworks
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 320000
+    currency: USD
+  - region: India
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 30000
+    total_comp_high: 125000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 48000
+    total_comp_high: 140000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Security Engineers at Freshworks protect the $5B integrated SaaS suite that 67,000+ businesses trust with their customer data, IT operations, and sales information — where enterprise security is the gateway to upmarket growth."
+---
 ### Security Engineer — Freshworks Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at Freshworks protect the $5B integrated SaaS suite that 67,000+ businesses trust with their customer data, IT operations, and sales information — where enterprise security is the gateway to upmarket growth.

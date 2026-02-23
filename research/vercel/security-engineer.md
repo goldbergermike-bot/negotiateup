@@ -1,3 +1,50 @@
+---
+company: vercel
+company_display: Vercel
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 240000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_pct: 5
+    total_comp_low: 260000
+    total_comp_high: 385000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 240000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_pct: 5
+    total_comp_low: 260000
+    total_comp_high: 385000
+    currency: USD
+  - region: London
+    base_low: 141000
+    base_high: 183000
+    stock_low: 122000
+    stock_high: 228000
+    bonus_pct: 5
+    total_comp_low: 198000
+    total_comp_high: 293000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Vercel Security Engineer = Google L4-L5 Security Engineer = Meta E4-E5 Security Engineer = Cloudflare Security Engineer = AWS Security Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Security-Premium Base + Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI Security & Edge Zero-Trust"
+---
 ### Security Engineer | Vercel Global Negotiation Guide
 
 **Negotiation DNA:** Security-Premium Base + Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI Security & Edge Zero-Trust

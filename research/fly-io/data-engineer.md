@@ -1,3 +1,39 @@
+---
+company: fly-io
+company_display: Fly.io
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 395000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 375000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Data Engineers at Fly.io build the telemetry, metrics, and analytics infrastructure that monitors the global edge application platform, powering observability for both the platform team and Fly.io's developer customers."
+---
 ### Data Engineer — Fly.io Salary Negotiation Guide
 
 **Negotiation DNA**: Data Engineers at Fly.io build the telemetry, metrics, and analytics infrastructure that monitors the global edge application platform, powering observability for both the platform team and Fly.io's developer customers.

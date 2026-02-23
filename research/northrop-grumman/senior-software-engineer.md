@@ -1,3 +1,58 @@
+---
+company: northrop-grumman
+company_display: Northrop Grumman
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Falls Church, VA"
+    base_low: 135000
+    base_high: 180000
+    stock_low: 35000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 247000
+    currency: USD
+  - region: "Redondo Beach, CA"
+    base_low: 140000
+    base_high: 185000
+    stock_low: 35000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 167000
+    total_comp_high: 252000
+    currency: USD
+  - region: "Huntsville, AL"
+    base_low: 125000
+    base_high: 175000
+    stock_low: 32000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 240000
+    currency: USD
+  - region: "Baltimore, MD"
+    base_low: 135000
+    base_high: 180000
+    stock_low: 35000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 247000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Northrop Senior SWE = L3Harris Senior SWE = Lockheed Senior SWE -- Northrop pays 5-10% above for space-adjacent roles"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense + Tech Premium | $75B Market Cap | Space Systems/Defense | Standard 40-45 Hour Culture"
+---
 ### Senior Software Engineer | Northrop Grumman Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense + Tech Premium | $75B Market Cap | Space Systems/Defense | Standard 40-45 Hour Culture

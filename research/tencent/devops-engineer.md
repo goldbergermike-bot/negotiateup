@@ -1,3 +1,68 @@
+---
+company: tencent
+company_display: Tencent
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Palo Alto / Los Angeles (US R&D)"
+    base_low: 160000
+    base_high: 225000
+    stock_low: 85000
+    stock_high: 225000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 355000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 80000
+    stock_high: 215000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: USD
+  - region: Shenzhen (HQ)
+    base_low: 420000
+    base_high: 780000
+    stock_low: 160000
+    stock_high: 470000
+    bonus_pct: 20
+    total_comp_low: 630000
+    total_comp_high: 1250000
+    currency: CNY
+  - region: Beijing
+    base_low: 400000
+    base_high: 750000
+    stock_low: 150000
+    stock_high: 450000
+    bonus_pct: 20
+    total_comp_low: 600000
+    total_comp_high: 1200000
+    currency: CNY
+  - region: Singapore
+    base_low: 115000
+    base_high: 175000
+    stock_low: 55000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 160000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at Tencent (T8-T10) = L4-L5 SRE at Google, IC4-IC5 PE at Meta, SysDE at Amazon, equivalent cloud provider infrastructure roles"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$450B company operating infrastructure for 1.3B WeChat users + world's largest gaming platform requiring ultra-low latency + Tencent Cloud competing as top-3 cloud in Asia-Pacific | DevOps engineers ensure reliability for services generating $90B+ annual revenue | **INFRASTRUCTURE SCALE PREMIUM**"
+---
 ### DevOps Engineer | Tencent Global Negotiation Guide
 
 **Negotiation DNA:** $450B company operating infrastructure for 1.3B WeChat users + world's largest gaming platform requiring ultra-low latency + Tencent Cloud competing as top-3 cloud in Asia-Pacific | DevOps engineers ensure reliability for services generating $90B+ annual revenue | **INFRASTRUCTURE SCALE PREMIUM**

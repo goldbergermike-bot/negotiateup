@@ -1,3 +1,50 @@
+---
+company: stability-ai
+company_display: Stability AI
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 100000
+    base_high: 170000
+    stock_low: 80000
+    stock_high: 265000
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 236000
+    currency: GBP
+  - region: San Francisco
+    base_low: 180000
+    base_high: 270000
+    stock_low: 85000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 201000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 243000
+    stock_low: 77000
+    stock_high: 270000
+    bonus_pct: null
+    total_comp_low: 181000
+    total_comp_high: 311000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stability AI ML/AI Engineer = Google L4-L6 ML Engineer = Meta ML Engineer IC4-IC6 = Hugging Face Senior ML Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | **+15-30% ML PREMIUM** | Open-Source Model Development"
+---
 ### ML/AI Engineer | Stability AI Global Negotiation Guide
 
 **Negotiation DNA:** Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | **+15-30% ML PREMIUM** | Open-Source Model Development

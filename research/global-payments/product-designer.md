@@ -1,3 +1,53 @@
+---
+company: global-payments
+company_display: Global Payments
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 120000
+    base_high: 160000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 182000
+    total_comp_high: 282000
+    currency: USD
+  - region: New York
+    base_low: 140000
+    base_high: 185000
+    stock_low: 65000
+    stock_high: 130000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 220000
+    total_comp_high: 343000
+    currency: USD
+  - region: London
+    base_low: 78000
+    base_high: 110000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_low: 8000
+    bonus_high: 15000
+    total_comp_low: 121000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Global Payments | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Design Systems` `Merchant UX`"
+---
 ### Product Designer | Global Payments Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Design Systems` `Merchant UX`

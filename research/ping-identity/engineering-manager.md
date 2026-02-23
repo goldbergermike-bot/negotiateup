@@ -1,3 +1,48 @@
+---
+company: ping-identity
+company_display: Ping Identity
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver
+    base_low: 192000
+    base_high: 242000
+    stock_low: 78000
+    stock_high: 138000
+    bonus_pct: 15
+    total_comp_low: 242000
+    total_comp_high: 342000
+    currency: USD
+  - region: Austin
+    base_low: 185000
+    base_high: 235000
+    stock_low: 78000
+    stock_high: 138000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: 182000
+    base_high: 228000
+    stock_low: 78000
+    stock_high: 138000
+    bonus_pct: 15
+    total_comp_low: 232000
+    total_comp_high: 328000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ping Identity EM (M1-M2) = Okta EM = CyberArk EM = SailPoint EM = ForgeRock EM = Microsoft Identity EM (L63-L64)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY PLATFORM BONUS**"
+---
 ### Engineering Manager | Ping Identity Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY PLATFORM BONUS**

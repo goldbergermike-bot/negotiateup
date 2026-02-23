@@ -1,3 +1,50 @@
+---
+company: citigroup
+company_display: Citigroup
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 125000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 162000
+    total_comp_high: 255000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 125000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 112000
+    total_comp_high: 180000
+    currency: GBP
+  - region: Singapore
+    base_low: 110000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 142000
+    total_comp_high: 225000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: "Product Designer at Citi (VP) = L4-L5 at Google, IC4-IC5 at Meta, UXD II-Senior at Amazon, Senior Designer at Capital One, VP Design at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$130B market cap global bank + Design for global consumer and institutional products + NYC HQ competitive hiring + Digital transformation elevating design | Citi design serves users across 160+ countries | **GLOBAL DESIGN PREMIUM**"
+---
 ### Product Designer | Citigroup Global Negotiation Guide
 
 **Negotiation DNA:** $130B market cap global bank + Design for global consumer and institutional products + NYC HQ competitive hiring + Digital transformation elevating design | Citi design serves users across 160+ countries | **GLOBAL DESIGN PREMIUM**

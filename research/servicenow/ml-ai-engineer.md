@@ -1,3 +1,48 @@
+---
+company: servicenow
+company_display: Servicenow
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara (USD)
+    base_low: 195000
+    base_high: 255000
+    stock_low: 270000
+    stock_high: 450000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 380000
+    currency: USD
+  - region: San Diego (USD)
+    base_low: 180000
+    base_high: 238000
+    stock_low: 240000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 253000
+    total_comp_high: 348000
+    currency: USD
+  - region: London (GBP £)
+    base_low: 127000
+    base_high: 166000
+    stock_low: 176000
+    stock_high: 293000
+    bonus_pct: 10
+    total_comp_low: 179000
+    total_comp_high: 248000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ServiceNow Senior ML Eng = Google L4 ML = Meta ML Engineer (E4) = Salesforce Senior ML Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform | **+15–25% AGENTIC AI PREMIUM**"
+---
 ### ML/AI Engineer | ServiceNow Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform | **+15–25% AGENTIC AI PREMIUM**

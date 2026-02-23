@@ -1,3 +1,48 @@
+---
+company: nutanix
+company_display: Nutanix
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 158000
+    total_comp_high: 375000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 353000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2200000
+    total_comp_high: 10000000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Managers at Nutanix define the roadmap for the hybrid multi-cloud platform, making strategic decisions about HCI, cloud management, and multi-cloud capabilities that serve thousands of enterprises transitioning to modern infrastructure."
+---
 ### Product Manager — Nutanix Salary Negotiation Guide
 
 **Negotiation DNA**: Product Managers at Nutanix define the roadmap for the hybrid multi-cloud platform, making strategic decisions about HCI, cloud management, and multi-cloud capabilities that serve thousands of enterprises transitioning to modern infrastructure.

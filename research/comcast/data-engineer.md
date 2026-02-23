@@ -1,3 +1,50 @@
+---
+company: comcast
+company_display: Comcast
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / NYC
+    base_low: 135000
+    base_high: 190000
+    stock_low: 40000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 270000
+    currency: USD
+  - region: Denver / Seattle
+    base_low: 130000
+    base_high: 185000
+    stock_low: 35000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 255000
+    currency: USD
+  - region: London (UK)
+    base_low: 100000
+    base_high: 140000
+    stock_low: 25000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Comcast Data Engineer (T3-T5) = Google L3-L5 Data Engineer = Meta E3-E5 Data Engineer = Amazon DE II-III = Microsoft 60-63
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$170B Media-Tech Conglomerate | 30M+ Customer Data Platform | Cross-Business Data Infrastructure"
+---
 ### Data Engineer | Comcast Global Negotiation Guide
 
 **Negotiation DNA:** $170B Media-Tech Conglomerate | 30M+ Customer Data Platform | Cross-Business Data Infrastructure

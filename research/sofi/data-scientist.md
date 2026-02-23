@@ -1,3 +1,48 @@
+---
+company: sofi
+company_display: SoFi
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 148000
+    base_high: 188000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_pct: 12
+    total_comp_low: 202000
+    total_comp_high: 282000
+    currency: USD
+  - region: New York / Salt Lake City
+    base_low: 135000
+    base_high: 175000
+    stock_low: 120000
+    stock_high: 232000
+    bonus_pct: 12
+    total_comp_low: 182000
+    total_comp_high: 258000
+    currency: USD
+  - region: Remote US
+    base_low: 125000
+    base_high: 162000
+    stock_low: 105000
+    stock_high: 205000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$202K-$282K TC (SF)` | `LTV Accelerator` | `Member Intelligence` | `NASDAQ: SOFI`"
+---
 ### Data Scientist | SoFi Global Negotiation Guide
 
 **Negotiation DNA:** `$202K-$282K TC (SF)` | `LTV Accelerator` | `Member Intelligence` | `NASDAQ: SOFI`

@@ -1,3 +1,49 @@
+---
+company: l3harris
+company_display: L3Harris
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Melbourne, FL"
+    base_low: 150000
+    base_high: 195000
+    stock_low: 40000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 270000
+    currency: USD
+  - region: "Salt Lake City, UT"
+    base_low: 145000
+    base_high: 190000
+    stock_low: 40000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 265000
+    currency: USD
+  - region: "Rochester, NY"
+    base_low: 143000
+    base_high: 188000
+    stock_low: 38000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: L3Harris EM = Raytheon EM = Northrop EM -- L3Harris pays competitively with defense peers for management
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Electronics/Communications | Standard 40-45 Hour Culture"
+---
 ### Engineering Manager | L3Harris Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Electronics/Communications | Standard 40-45 Hour Culture

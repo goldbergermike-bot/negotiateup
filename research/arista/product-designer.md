@@ -1,3 +1,48 @@
+---
+company: arista
+company_display: Arista Networks
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 152000
+    base_high: 192000
+    stock_low: 118000
+    stock_high: 208000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 258000
+    currency: USD
+  - region: Vancouver (BC)
+    base_low: 142000
+    base_high: 182000
+    stock_low: 112000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 242000
+    currency: CAD
+  - region: Remote US
+    base_low: 145000
+    base_high: 185000
+    stock_low: 118000
+    stock_high: 208000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Arista Product Designer (D2-D3) = Cisco UX = Juniper UX = Google L4 UX = Palo Alto Design
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density"
+---
 ### Product Designer | Arista Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density

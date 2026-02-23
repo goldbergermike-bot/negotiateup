@@ -1,3 +1,48 @@
+---
+company: arista
+company_display: Arista Networks
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 192000
+    base_high: 242000
+    stock_low: 212000
+    stock_high: 375000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 372000
+    currency: USD
+  - region: Vancouver (BC)
+    base_low: 182000
+    base_high: 228000
+    stock_low: 198000
+    stock_high: 352000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 352000
+    currency: CAD
+  - region: Remote US
+    base_low: 185000
+    base_high: 235000
+    stock_low: 212000
+    stock_high: 375000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Arista PM (PM2-PM3) = Cisco PM = Juniper PM = Google L5 PM Network = AWS PM Networking
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density"
+---
 ### Product Manager | Arista Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density

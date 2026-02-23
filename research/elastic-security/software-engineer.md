@@ -1,3 +1,50 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 150000
+    base_high: 195000
+    stock_low: 100000
+    stock_high: 175000
+    bonus_pct: 5
+    total_comp_low: 185000
+    total_comp_high: 255000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 140000
+    base_high: 185000
+    stock_low: 90000
+    stock_high: 162000
+    bonus_pct: 5
+    total_comp_low: 172000
+    total_comp_high: 240000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 112000
+    base_high: 148000
+    stock_low: 75000
+    stock_high: 133000
+    bonus_pct: 5
+    total_comp_low: 140000
+    total_comp_high: 195000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic SWE IC3 = Google L4 = Meta E4 = CrowdStrike SWE II = Splunk SWE II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity"
+---
 ### Software Engineer | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity

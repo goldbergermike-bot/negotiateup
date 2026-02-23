@@ -1,3 +1,39 @@
+---
+company: rivian
+company_display: Rivian
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine (HQ)
+    base_low: 125000
+    base_high: 175000
+    stock_low: 60000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 152000
+    total_comp_high: 255000
+    currency: USD
+  - region: Palo Alto
+    base_low: 133000
+    base_high: 185000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rivian Product Designer = Google UX Designer L3-L4 = Tesla Product Designer = Apple Design = Amazon UX Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage EV Comp | Large Equity Grants (RIVN) | Mission-Driven Culture | EV Growth Upside"
+---
 ### Product Designer | Rivian Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage EV Comp | Large Equity Grants (RIVN) | Mission-Driven Culture | EV Growth Upside

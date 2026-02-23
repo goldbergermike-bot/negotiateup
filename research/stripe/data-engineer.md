@@ -1,3 +1,48 @@
+---
+company: stripe
+company_display: Stripe
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 228000
+    stock_low: 162000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 228000
+    stock_low: 162000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 338000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 215000
+    stock_low: 152000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 315000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stripe DE (IC2-IC3) = Adyen DE = Block/Square DE = PayPal/Braintree DE = Checkout.com DE = Google L3-L4 DE Payments
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | **TRUST ORCHESTRATOR PREMIUM**"
+---
 ### Data Engineer | Stripe Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | **TRUST ORCHESTRATOR PREMIUM**

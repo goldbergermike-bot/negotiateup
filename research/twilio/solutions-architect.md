@@ -1,3 +1,49 @@
+---
+company: twilio
+company_display: Twilio
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Francisco, CA (HQ)"
+    base_low: 155000
+    base_high: 210000
+    stock_low: 100000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 325000
+    currency: USD
+  - region: "Denver, CO"
+    base_low: 140000
+    base_high: 195000
+    stock_low: 85000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+  - region: "London, UK"
+    base_low: 100000
+    base_high: 140000
+    stock_low: 65000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Twilio SA2 (Solutions Architect) = Google L4 CE = Meta IC4 SE = AWS SA2 = Snowflake SA2
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Enterprise communications integration premium | CustomerAI enterprise adoption driving 2026 revenue"
+---
 ### Solutions Architect | Twilio Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise communications integration premium | CustomerAI enterprise adoption driving 2026 revenue

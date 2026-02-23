@@ -1,3 +1,67 @@
+---
+company: zoom
+company_display: Zoom
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 85000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 315000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 135000
+    base_high: 190000
+    stock_low: 65000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 270000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 75000
+    base_high: 112000
+    stock_low: 32000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 100000
+    total_comp_high: 162000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2200000
+    base_high: 4200000
+    stock_low: 1200000
+    stock_high: 3000000
+    bonus_pct: 10
+    total_comp_low: 3000000
+    total_comp_high: 5800000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 115000
+    base_high: 170000
+    stock_low: 45000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 230000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom IC2/IC3 ~ Google L4/L5 SRE | Microsoft 61/62 | Twilio Senior/Staff | Datadog Senior/Staff | Cloudflare Senior/Staff"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Real-time communication infrastructure specialist | Global media delivery & platform reliability | **RELIABILITY PREMIUM**"
+---
 ### DevOps Engineer | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** Real-time communication infrastructure specialist | Global media delivery & platform reliability | **RELIABILITY PREMIUM**

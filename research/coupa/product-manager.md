@@ -1,3 +1,53 @@
+---
+company: coupa
+company_display: Coupa
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 160000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 110000
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 235000
+    total_comp_high: 350000
+    currency: USD
+  - region: New York NY
+    base_low: 155000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 100000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 222000
+    total_comp_high: 333000
+    currency: USD
+  - region: London UK
+    base_low: 100000
+    base_high: 130000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 145000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Coupa | Google | Meta | Stripe | SAP | Oracle |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `Product Strategy` `Enterprise SaaS`"
+---
 ### Product Manager | Coupa Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `Product Strategy` `Enterprise SaaS`

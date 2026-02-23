@@ -1,3 +1,68 @@
+---
+company: bytedance
+company_display: Bytedance
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Mountain View (US)
+    base_low: 185000
+    base_high: 260000
+    stock_low: 130000
+    stock_high: 370000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 490000
+    currency: USD
+  - region: New York City / Seattle (US)
+    base_low: 180000
+    base_high: 255000
+    stock_low: 125000
+    stock_high: 360000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 480000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 560000
+    base_high: 1050000
+    stock_low: 310000
+    stock_high: 800000
+    bonus_pct: 20
+    total_comp_low: 920000
+    total_comp_high: 1900000
+    currency: CNY
+  - region: Shanghai
+    base_low: 530000
+    base_high: 1000000
+    stock_low: 290000
+    stock_high: 760000
+    bonus_pct: 20
+    total_comp_low: 870000
+    total_comp_high: 1800000
+    currency: CNY
+  - region: Singapore
+    base_low: 145000
+    base_high: 225000
+    stock_low: 85000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at ByteDance (2-1 to 3-1) = L4-L6 at Google Brain, IC4-IC6 at Meta FAIR, Research Engineer at OpenAI/Anthropic"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Private $225B+ built on the world's most advanced recommendation AI + Deep learning at scale powering TikTok, Douyin, and advertising + US AI comp exceeding FAANG for top ML talent | ByteDance's entire value proposition is AI -- ML engineers are the most strategically important hires | **CORE AI PREMIUM**"
+---
 ### ML/AI Engineer | ByteDance Global Negotiation Guide
 
 **Negotiation DNA:** Private $225B+ built on the world's most advanced recommendation AI + Deep learning at scale powering TikTok, Douyin, and advertising + US AI comp exceeding FAANG for top ML talent | ByteDance's entire value proposition is AI -- ML engineers are the most strategically important hires | **CORE AI PREMIUM**

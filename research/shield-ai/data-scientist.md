@@ -1,3 +1,39 @@
+---
+company: shield-ai
+company_display: Shield Ai
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Diego, CA"
+    base_low: 145000
+    base_high: 195000
+    stock_low: 70000
+    stock_high: 210000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 300000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 140000
+    base_high: 190000
+    stock_low: 70000
+    stock_high: 210000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shield AI DS = Google L4 DS = Waymo Autonomy DS -- with combat drone analytics and military customer quantification
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | Autonomy Analytics/Performance Modeling | Startup Intensity"
+---
 ### Data Scientist | Shield AI Global Negotiation Guide
 
 **Negotiation DNA:** Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | Autonomy Analytics/Performance Modeling | Startup Intensity

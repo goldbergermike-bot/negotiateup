@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 150000
+    base_high: 208000
+    stock_low: 55000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 275000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 132000
+    base_high: 185000
+    stock_low: 42000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 242000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 65000
+    base_high: 102000
+    stock_low: 22000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 82000
+    total_comp_high: 135000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 2000000
+    base_high: 3800000
+    stock_low: 800000
+    stock_high: 2500000
+    bonus_pct: 10
+    total_comp_low: 2600000
+    total_comp_high: 5000000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 112000
+    base_high: 162000
+    stock_low: 35000
+    stock_high: 82000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 208000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora IC3/IC4 (Security) ~ Chargebee Senior/Staff Security | Stripe Security | Braintree Senior/Staff Security | Recurly Lead Security"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Financial platform security & payment protection specialist | PCI DSS & billing data security | **SECURITY PREMIUM**"
+---
 ### Security Engineer | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Financial platform security & payment protection specialist | PCI DSS & billing data security | **SECURITY PREMIUM**

@@ -1,3 +1,50 @@
+---
+company: scale-ai
+company_display: Scale AI
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 210000
+    stock_low: 150000
+    stock_high: 265000
+    bonus_pct: null
+    total_comp_low: 206000
+    total_comp_high: 276000
+    currency: USD
+  - region: New York
+    base_low: 173000
+    base_high: 221000
+    stock_low: 150000
+    stock_high: 265000
+    bonus_pct: null
+    total_comp_low: 211000
+    total_comp_high: 287000
+    currency: USD
+  - region: Washington DC
+    base_low: 176000
+    base_high: 227000
+    stock_low: 150000
+    stock_high: 265000
+    bonus_pct: null
+    total_comp_low: 214000
+    total_comp_high: 293000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Scale Data Engineer = Google L4 Data Engineer = Meta Data Engineer (IC4) = Amazon Data Engineer II = Databricks Data Engineer = Snowflake Data Engineer 62-63
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity"
+---
 ### Data Engineer | Scale AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity

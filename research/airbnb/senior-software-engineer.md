@@ -1,3 +1,48 @@
+---
+company: airbnb
+company_display: Airbnb
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Remote
+    base_low: 215000
+    base_high: 268000
+    stock_low: 255000
+    stock_high: 435000
+    bonus_pct: null
+    total_comp_low: 279000
+    total_comp_high: 377000
+    currency: USD
+  - region: New York
+    base_low: 215000
+    base_high: 268000
+    stock_low: 255000
+    stock_high: 435000
+    bonus_pct: null
+    total_comp_low: 279000
+    total_comp_high: 377000
+    currency: USD
+  - region: London
+    base_low: 148000
+    base_high: 184000
+    stock_low: 175000
+    stock_high: 298000
+    bonus_pct: null
+    total_comp_low: 192000
+    total_comp_high: 259000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airbnb Senior SWE = Google L4-L5 = Meta E4-E5 = Stripe L3-L4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion"
+---
 ### Senior Software Engineer | Airbnb Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion

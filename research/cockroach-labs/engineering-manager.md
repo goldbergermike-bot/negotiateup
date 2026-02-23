@@ -1,3 +1,40 @@
+---
+company: cockroach-labs
+company_display: Cockroach Labs
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC HQ
+    base_low: 210000
+    base_high: 260000
+    stock_low: 150000
+    stock_high: 340000
+    bonus_pct: null
+    total_comp_low: 310000
+    total_comp_high: 460000
+    currency: USD
+  - region: Remote US
+    base_low: 195000
+    base_high: 245000
+    stock_low: 130000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 285000
+    total_comp_high: 425000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cockroach Labs EM = MongoDB EM = Google L5 Manager (Spanner) = PlanetScale EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($5B Valuation) | Distributed SQL Database (CockroachDB) | NYC HQ | High Engineering Bar"
+---
 ### Engineering Manager | Cockroach Labs Global Negotiation Guide
 
 **Negotiation DNA:** Private ($5B Valuation) | Distributed SQL Database (CockroachDB) | NYC HQ | High Engineering Bar

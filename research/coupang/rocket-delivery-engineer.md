@@ -1,3 +1,48 @@
+---
+company: coupang
+company_display: Coupang
+role: rocket-delivery-engineer
+role_display: Rocket Delivery Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 175000
+    base_high: 240000
+    stock_low: 110000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 400000
+    currency: USD
+  - region: Seattle
+    base_low: 170000
+    base_high: 235000
+    stock_low: 105000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 388000
+    currency: USD
+  - region: Seoul
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Coupang Rocket Delivery Engineer (Senior) = Amazon Fulfillment SWE (Senior) = Google L4/L5 = DoorDash Senior SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive US Comp | CPNG RSUs ($40B Market Cap) | **SIGNATURE ROLE** | **+10-15% LOGISTICS PREMIUM** | Korean E-Commerce Leader"
+---
 ### Rocket Delivery Engineer | Coupang Global Negotiation Guide
 
 **Negotiation DNA:** Competitive US Comp | CPNG RSUs ($40B Market Cap) | **SIGNATURE ROLE** | **+10-15% LOGISTICS PREMIUM** | Korean E-Commerce Leader

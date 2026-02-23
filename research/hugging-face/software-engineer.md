@@ -1,3 +1,52 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 58000
+    base_high: 78000
+    stock_low: 55000
+    stock_high: 105000
+    bonus_pct: null
+    total_comp_low: 72000
+    total_comp_high: 104000
+    currency: EUR
+  - region: New York
+    base_low: 155000
+    base_high: 195000
+    stock_low: 120000
+    stock_high: 215000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 249000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "HF Software Engineer = Google L3–L4 (Paris) = Meta FAIR SWE (Paris/NYC) = Mistral AI SWE = DeepMind Research Engineer (London equivalent). Paris base bands reflect the French market, which runs 40–55% below US equivalents for the same level. Remote engineers outside Paris/NYC are typically banded between 60–85% of NYC rates depending on cost-of-living tier."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat"
+---
 ### Software Engineer | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat

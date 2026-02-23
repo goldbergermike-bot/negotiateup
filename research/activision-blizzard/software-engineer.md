@@ -1,3 +1,49 @@
+---
+company: activision-blizzard
+company_display: Activision Blizzard
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine / Santa Monica
+    base_low: 140000
+    base_high: 195000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 290000
+    currency: USD
+  - region: Austin
+    base_low: 120000
+    base_high: 170000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 255000
+    currency: USD
+  - region: Hyderabad
+    base_low: 2000000
+    base_high: 3800000
+    stock_low: 1200000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 3500000
+    total_comp_high: 7000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Activision/MS Level 59-61 = Google L3 = Meta E3 = Amazon L4-L5
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine"
+---
 ### Software Engineer | Activision Blizzard (Microsoft/Xbox) Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine

@@ -1,3 +1,53 @@
+---
+company: ncr-voyix
+company_display: NCR Voyix
+role: modernization-inflection-platform-engineer
+role_display: Modernization Inflection Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 170000
+    base_high: 220000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 250000
+    total_comp_high: 388000
+    currency: USD
+  - region: New York NY
+    base_low: 195000
+    base_high: 250000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 25000
+    bonus_high: 48000
+    total_comp_low: 300000
+    total_comp_high: 458000
+    currency: USD
+  - region: London UK
+    base_low: 115000
+    base_high: 155000
+    stock_low: 42000
+    stock_high: 90000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 171000
+    total_comp_high: 273000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| NCR Voyix | Google | Meta | Stripe | Fiserv | Block |"
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `SIGNATURE ROLE` `Platform Engineering IC` `RSU/4yr` `Legacy-to-Cloud Migration` `Commerce Platform Architect` `Multi-Vertical` `Post-Atleos Pure-Play`"
+---
 ### Modernization Inflection Platform Engineer | NCR Voyix Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `SIGNATURE ROLE` `Platform Engineering IC` `RSU/4yr` `Legacy-to-Cloud Migration` `Commerce Platform Architect` `Multi-Vertical` `Post-Atleos Pure-Play`

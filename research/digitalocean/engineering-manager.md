@@ -1,3 +1,39 @@
+---
+company: digitalocean
+company_display: DigitalOcean
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 218000
+    total_comp_high: 445000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 203000
+    total_comp_high: 420000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Engineering Managers at DigitalOcean lead teams building the developer cloud platform, driving delivery of compute, Kubernetes, managed databases, and application platform capabilities for millions of developers."
+---
 ### Engineering Manager — DigitalOcean Salary Negotiation Guide
 
 **Negotiation DNA**: Engineering Managers at DigitalOcean lead teams building the developer cloud platform, driving delivery of compute, Kubernetes, managed databases, and application platform capabilities for millions of developers.

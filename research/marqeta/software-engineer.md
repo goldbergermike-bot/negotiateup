@@ -1,3 +1,53 @@
+---
+company: marqeta
+company_display: Marqeta
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland CA
+    base_low: 145000
+    base_high: 185000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 240000
+    total_comp_high: 350000
+    currency: USD
+  - region: New York NY
+    base_low: 150000
+    base_high: 190000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 245000
+    total_comp_high: 355000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 170000
+    stock_low: 70000
+    stock_high: 120000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 212000
+    total_comp_high: 312000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Marqeta | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: MQ` `Embedded 2.0` `Modern Card Issuing` `Just-in-Time Funding` `Infrastructure Orchestrator` `Water Economy` `Fintech Platform` `API-First` `Payments Infrastructure`"
+---
 ### Software Engineer | Marqeta Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: MQ` `Embedded 2.0` `Modern Card Issuing` `Just-in-Time Funding` `Infrastructure Orchestrator` `Water Economy` `Fintech Platform` `API-First` `Payments Infrastructure`

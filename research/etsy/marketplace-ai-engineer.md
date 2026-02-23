@@ -1,3 +1,52 @@
+---
+company: etsy
+company_display: Etsy
+role: marketplace-ai-engineer
+role_display: Marketplace AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brooklyn
+    base_low: 215000
+    base_high: 268000
+    stock_low: 172000
+    stock_high: 302000
+    bonus_pct: 15
+    total_comp_low: 272000
+    total_comp_high: 378000
+    currency: USD
+  - region: San Francisco
+    base_low: 222000
+    base_high: 275000
+    stock_low: 172000
+    stock_high: 302000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 388000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 258000
+    stock_low: 172000
+    stock_high: 302000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 368000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Etsy Marketplace AI Eng (E4) = Google L5 AI Platform = Amazon Personalization ML = Shopify AI Eng = Pinterest Visual AI Eng
+data_sources:
+  - "Etsy $750M Share Repurchase — February 2026, 14.2% Float Reduction"
+  - Etsy Marketplace AI — Signature Initiative 2026
+  - Etsy Conversational Shopping AI — Unique-Item Discovery
+  - Etsy Seller AI Copilot — Generative Listing Tools
+  - Etsy Personalized Curation — AI-Powered Boutique Experience
+negotiation_dna_summary: "Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | **SIGNATURE ROLE** | **+20–30% AI PREMIUM**"
+---
 ### Marketplace AI Engineer | Etsy Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | **SIGNATURE ROLE** | **+20–30% AI PREMIUM**

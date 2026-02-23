@@ -1,3 +1,50 @@
+---
+company: anyscale
+company_display: Anyscale
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 218000
+    stock_low: 135000
+    stock_high: 245000
+    bonus_pct: 5
+    total_comp_low: 220000
+    total_comp_high: 310000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 213000
+    stock_low: 135000
+    stock_high: 245000
+    bonus_pct: 5
+    total_comp_low: 215000
+    total_comp_high: 303000
+    currency: USD
+  - region: London
+    base_low: 129000
+    base_high: 166000
+    stock_low: 101000
+    stock_high: 184000
+    bonus_pct: 5
+    total_comp_low: 167000
+    total_comp_high: 235000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anyscale SWE = Google L4 = Meta E4 = Databricks SWE II = Snowflake SWE = AWS SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: AI Infrastructure Scaling & Ray Platform Expansion"
+---
 ### Software Engineer | Anyscale Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: AI Infrastructure Scaling & Ray Platform Expansion

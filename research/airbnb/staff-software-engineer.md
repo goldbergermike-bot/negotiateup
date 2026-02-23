@@ -1,3 +1,48 @@
+---
+company: airbnb
+company_display: Airbnb
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Remote
+    base_low: 268000
+    base_high: 335000
+    stock_low: 400000
+    stock_high: 688000
+    bonus_pct: null
+    total_comp_low: 368000
+    total_comp_high: 507000
+    currency: USD
+  - region: New York
+    base_low: 268000
+    base_high: 335000
+    stock_low: 400000
+    stock_high: 688000
+    bonus_pct: null
+    total_comp_low: 368000
+    total_comp_high: 507000
+    currency: USD
+  - region: London
+    base_low: 184000
+    base_high: 230000
+    stock_low: 275000
+    stock_high: 472000
+    bonus_pct: null
+    total_comp_low: 253000
+    total_comp_high: 348000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airbnb Staff SWE = Google L5-L6 = Meta E6 = Stripe L4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion"
+---
 ### Staff Software Engineer | Airbnb Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion

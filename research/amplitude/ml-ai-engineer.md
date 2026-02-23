@@ -1,3 +1,48 @@
+---
+company: amplitude
+company_display: Amplitude
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 222000
+    stock_low: 150000
+    stock_high: 265000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 310000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 218000
+    stock_low: 145000
+    stock_high: 255000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 302000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 142000
+    stock_low: 75000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Amplitude ML (Mid-Senior) = Google L4 ML = Meta E4 ML = Mixpanel Senior ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Based / Public Company | AI-Powered Product Analytics"
+---
 ### ML/AI Engineer | Amplitude Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Based / Public Company | AI-Powered Product Analytics

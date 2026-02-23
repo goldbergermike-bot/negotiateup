@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 255000
+    stock_low: 275000
+    stock_high: 478000
+    bonus_pct: null
+    total_comp_low: 274000
+    total_comp_high: 375000
+    currency: USD
+  - region: Seattle
+    base_low: 198000
+    base_high: 248000
+    stock_low: 275000
+    stock_high: 478000
+    bonus_pct: null
+    total_comp_low: 267000
+    total_comp_high: 368000
+    currency: USD
+  - region: London
+    base_low: 142000
+    base_high: 178000
+    stock_low: 200000
+    stock_high: 348000
+    bonus_pct: null
+    total_comp_low: 192000
+    total_comp_high: 265000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI SA = Google L4 Solutions Eng = AWS Senior SA = Anthropic SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)"
+---
 ### Solutions Architect | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)

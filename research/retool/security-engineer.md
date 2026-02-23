@@ -1,3 +1,48 @@
+---
+company: retool
+company_display: Retool
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 228000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 348000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 222000
+    stock_low: 150000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 340000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 150000
+    stock_low: 102000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 222000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Retool SecEng (L3-L5) = Google SecEng L4-L5 = Meta SecEng E4-E5 = Supabase SecEng = HashiCorp SecEng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | Platform & AI Security | 30K+ Companies | **RETOOL AI PREMIUM**"
+---
 ### Security Engineer | Retool Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | Platform & AI Security | 30K+ Companies | **RETOOL AI PREMIUM**

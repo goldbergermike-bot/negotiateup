@@ -1,3 +1,49 @@
+---
+company: snap
+company_display: Snap
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 150000
+    base_high: 192000
+    stock_low: 148000
+    stock_high: 252000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 272000
+    currency: USD
+  - region: San Francisco
+    base_low: 158000
+    base_high: 202000
+    stock_low: 158000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 290000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 198000
+    stock_low: 154000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 206000
+    total_comp_high: 284000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snap Data Scientist (L3–L6) = Google Data Scientist L3-L6 = Meta Data Scientist IC3-IC6 = Apple Data Scientist = Amazon Research Scientist = Microsoft Data Scientist (59-64)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | Data-Driven AR Insights Premium"
+---
 ### Data Scientist | Snap Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | Data-Driven AR Insights Premium

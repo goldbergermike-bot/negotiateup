@@ -1,3 +1,50 @@
+---
+company: point72
+company_display: Point72
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stamford CT (HQ)
+    base_low: 300000
+    base_high: 400000
+    stock_low: null
+    stock_high: null
+    bonus_low: 335000
+    bonus_high: 525000
+    total_comp_low: 635000
+    total_comp_high: 925000
+    currency: USD
+  - region: New York
+    base_low: 310000
+    base_high: 415000
+    stock_low: null
+    stock_high: null
+    bonus_low: 345000
+    bonus_high: 540000
+    total_comp_low: 655000
+    total_comp_high: 955000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 570000
+    total_comp_high: 830000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`IAC Team` `Researcher Premium` `$466K+ L3` `+15-25% Premium` `Systematic Trading Architecture` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`"
+---
 ### Staff Software Engineer | Point72 Global Negotiation Guide
 
 **Negotiation DNA:** `IAC Team` `Researcher Premium` `$466K+ L3` `+15-25% Premium` `Systematic Trading Architecture` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`

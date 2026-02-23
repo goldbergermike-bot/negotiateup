@@ -1,3 +1,48 @@
+---
+company: cloudflare-workers
+company_display: Cloudflare Workers
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 225000
+    stock_low: 170000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 365000
+    currency: USD
+  - region: Austin
+    base_low: 170000
+    base_high: 215000
+    stock_low: 160000
+    stock_high: 282000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 345000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 150000
+    stock_low: 112000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 238000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Cloudflare DE (L3-L5) = Google DE L4-L5 = Meta DE E4-E5 = Fastly DE = AWS DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NYSE: NET) + Bonus | Edge Computing & AI Data Infrastructure | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**"
+---
 ### Data Engineer | Cloudflare Workers Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NYSE: NET) + Bonus | Edge Computing & AI Data Infrastructure | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**

@@ -1,3 +1,51 @@
+---
+company: ncr-voyix
+company_display: NCR Voyix
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 110000
+    base_high: 145000
+    stock_low: 20000
+    stock_high: 45000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 140000
+    total_comp_high: 208000
+    currency: USD
+  - region: New York NY
+    base_low: 125000
+    base_high: 165000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 162000
+    total_comp_high: 242000
+    currency: USD
+  - region: London UK
+    base_low: 72000
+    base_high: 98000
+    stock_low: 14000
+    stock_high: 30000
+    bonus_low: 7000
+    bonus_high: 14000
+    total_comp_low: 93000
+    total_comp_high: 142000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| NCR Voyix | Google | Meta | Stripe | Fiserv | Block |"
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Design IC` `RSU/4yr` `Commerce UX`"
+---
 ### Product Designer | NCR Voyix Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Design IC` `RSU/4yr` `Commerce UX`

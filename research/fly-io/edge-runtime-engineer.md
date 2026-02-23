@@ -1,3 +1,39 @@
+---
+company: fly-io
+company_display: Fly.io
+role: edge-runtime-engineer
+role_display: Edge Runtime Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 415000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Edge Runtime Engineers at Fly.io build the core runtime infrastructure — Firecracker microVM orchestration, the Machines API, global networking (Anycast, WireGuard), and the edge compute layer that enables developers to run full-stack applications close to users worldwide."
+---
 ### Edge Runtime Engineer — Fly.io Salary Negotiation Guide
 
 **Negotiation DNA**: Edge Runtime Engineers at Fly.io build the core runtime infrastructure — Firecracker microVM orchestration, the Machines API, global networking (Anycast, WireGuard), and the edge compute layer that enables developers to run full-stack applications close to users worldwide.

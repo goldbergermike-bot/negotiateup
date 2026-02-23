@@ -1,3 +1,52 @@
+---
+company: wayfair
+company_display: Wayfair
+role: spatial-commerce-ai-engineer
+role_display: Spatial Commerce AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 188000
+    base_high: 255000
+    stock_low: 62000
+    stock_high: 98000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 342000
+    currency: USD
+  - region: New York
+    base_low: 197000
+    base_high: 268000
+    stock_low: 65000
+    stock_high: 103000
+    bonus_pct: 10
+    total_comp_low: 257000
+    total_comp_high: 359000
+    currency: USD
+  - region: Remote US
+    base_low: 169000
+    base_high: 230000
+    stock_low: 52000
+    stock_high: 83000
+    bonus_pct: 10
+    total_comp_low: 221000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Wayfair Spatial Commerce AI Engineer = Google AR/VR ML Engineer L5-L6 = Apple Vision Pro ML Engineer = Meta Reality Labs ML Engineer = Niantic Senior AI Engineer
+data_sources:
+  - Wayfair 2026 Tariff Holiday — Margin Protection Window
+  - Wayfair $12B+ Revenue — Home Goods E-Commerce Scale
+  - "Wayfair AR & 3D Visualization — Room Planner, View in Room, 3D Product Models"
+  - "Wayfair Engineering Blog — Computer Vision, AR, and Spatial Commerce"
+  - Apple Vision Pro Spatial Computing — visionOS Developer Documentation
+negotiation_dna_summary: "Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | +20-30% AI Premium | SIGNATURE ROLE — AR/3D/Spatial Computing"
+---
 ### Spatial Commerce AI Engineer | Wayfair Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | +20-30% AI Premium | SIGNATURE ROLE — AR/3D/Spatial Computing

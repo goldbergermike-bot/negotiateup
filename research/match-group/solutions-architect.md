@@ -1,3 +1,50 @@
+---
+company: match-group
+company_display: Match Group
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas
+    base_low: 130000
+    base_high: 172000
+    stock_low: 30000
+    stock_high: 45000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 235000
+    currency: USD
+  - region: New York
+    base_low: 143000
+    base_high: 189000
+    stock_low: 33000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 189000
+    total_comp_high: 259000
+    currency: USD
+  - region: Los Angeles
+    base_low: 130000
+    base_high: 172000
+    stock_low: 30000
+    stock_high: 45000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 235000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Match Group Solutions Architect = Google L5 Solutions Architect = Meta Solutions Engineer (IC5) = Amazon Solutions Architect III = Microsoft Solutions Architect 63/64 = Apple Systems Architect
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)"
+---
 ### Solutions Architect | Match Group Global Negotiation Guide
 
 **Negotiation DNA:** Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)

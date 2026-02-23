@@ -1,3 +1,56 @@
+---
+company: new-relic
+company_display: New Relic
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 12000
+    signing_bonus_high: 25000
+    total_comp_low: 210000
+    total_comp_high: 310000
+    currency: USD
+  - region: Portland
+    base_low: 140000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 10000
+    signing_bonus_high: 20000
+    total_comp_low: 190000
+    total_comp_high: 278000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 125000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 7000
+    signing_bonus_high: 15000
+    total_comp_low: 115000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at New Relic maps to SA/Senior SA across the industry. Equivalent titles include Solutions Architect (AWS/Datadog), Technical Account Manager (Google Cloud), and Customer Engineer (Splunk/Elastic)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Solutions Architect | New Relic (Private — TPG/Francisco Partners) | Technical Sales Track | Options/4yr Vesting | Observability Platform"
+---
 ### Solutions Architect | New Relic Global Negotiation Guide
 
 **Negotiation DNA:** Solutions Architect | New Relic (Private — TPG/Francisco Partners) | Technical Sales Track | Options/4yr Vesting | Observability Platform

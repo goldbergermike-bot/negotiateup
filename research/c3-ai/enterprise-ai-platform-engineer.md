@@ -1,3 +1,40 @@
+---
+company: c3-ai
+company_display: C3.ai
+role: enterprise-ai-platform-engineer
+role_display: Enterprise AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City HQ
+    base_low: 155000
+    base_high: 215000
+    stock_low: 65000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: C3.ai Platform Eng (Senior) = Palantir Forward Deployed Eng = Databricks Platform Eng = Google L4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Public ($4B Market Cap) | Enterprise AI Platform | **SIGNATURE ROLE** | Tom Siebel-Led"
+---
 ### Enterprise AI Platform Engineer | C3.ai Global Negotiation Guide
 
 **Negotiation DNA:** Public ($4B Market Cap) | Enterprise AI Platform | **SIGNATURE ROLE** | Tom Siebel-Led

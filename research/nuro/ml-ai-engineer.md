@@ -1,3 +1,39 @@
+---
+company: nuro
+company_display: Nuro
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View / Bay Area
+    base_low: 178000
+    base_high: 248000
+    stock_low: 140000
+    stock_high: 365000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 455000
+    currency: USD
+  - region: Remote US
+    base_low: 165000
+    base_high: 232000
+    stock_low: 120000
+    stock_high: 330000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 418000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Nuro ML/AI (IC2-IC4) = Waymo ML/AI = Aurora ML/AI = Zoox ML/AI = Google L3-L5 ML AV
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AUTONOMOUS PERCEPTION/PLANNING PREMIUM**"
+---
 ### ML/AI Engineer | Nuro Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AUTONOMOUS PERCEPTION/PLANNING PREMIUM**

@@ -1,3 +1,50 @@
+---
+company: warner-bros-discovery
+company_display: Warner Bros. Discovery
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Los Angeles
+    base_low: 125000
+    base_high: 175000
+    stock_low: 30000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 235000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 118000
+    base_high: 165000
+    stock_low: 25000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+  - region: London (UK)
+    base_low: 92000
+    base_high: 130000
+    stock_low: 18000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 112000
+    total_comp_high: 172000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: WBD Data Engineer (L3-L5) = Google L3-L5 DE = Meta E3-E5 DE = Amazon DE II-III = Comcast T3-T5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$25B Media Company | Streaming + Content Analytics Infrastructure | HBO/Max Data Platform"
+---
 ### Data Engineer | Warner Bros Discovery Global Negotiation Guide
 
 **Negotiation DNA:** $25B Media Company | Streaming + Content Analytics Infrastructure | HBO/Max Data Platform

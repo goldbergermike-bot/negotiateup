@@ -1,3 +1,48 @@
+---
+company: tsmc
+company_display: TSMC
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Phoenix AZ
+    base_low: 195000
+    base_high: 255000
+    stock_low: 60000
+    stock_high: 100000
+    bonus_pct: 18
+    total_comp_low: 278000
+    total_comp_high: 388000
+    currency: USD
+  - region: San Jose
+    base_low: 210000
+    base_high: 275000
+    stock_low: 70000
+    stock_high: 115000
+    bonus_pct: 18
+    total_comp_low: 300000
+    total_comp_high: 418000
+    currency: USD
+  - region: Hsinchu Taiwan
+    base_low: null
+    base_high: null
+    stock_low: 45000
+    stock_high: 80000
+    bonus_pct: 25
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: TSMC Staff Software Engineer = Intel Foundry Principal Engineer (Grade 9–10) = Samsung Foundry Staff SWE = Synopsys Principal SWE = Cadence Principal SWE = Google L6 equivalent scope
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone"
+---
 ### Staff Software Engineer | TSMC Global Negotiation Guide
 
 **Negotiation DNA:** Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone

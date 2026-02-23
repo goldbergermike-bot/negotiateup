@@ -1,3 +1,48 @@
+---
+company: wise
+company_display: Wise
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 55000
+    base_high: 75000
+    stock_low: 20000
+    stock_high: 40000
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 115000
+    currency: GBP
+  - region: Tallinn (EUR)
+    base_low: 42000
+    base_high: 60000
+    stock_low: 15000
+    stock_high: 30000
+    bonus_pct: null
+    total_comp_low: 57000
+    total_comp_high: 90000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 72000
+    base_high: 100000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: null
+    total_comp_low: 97000
+    total_comp_high: 150000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a software engineering compensation framework spanning London, Tallinn, and Singapore markets. As a Software Engineer at Wise, you are a foundational builder of the Platform Integrity layer that powers billions in cross-border transactions and the Wise Platform API used by banks and enterprises worldwide."
+---
 ### Software Engineer — Wise Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a software engineering compensation framework spanning London, Tallinn, and Singapore markets. As a Software Engineer at Wise, you are a foundational builder of the Platform Integrity layer that powers billions in cross-border transactions and the Wise Platform API used by banks and enterprises worldwide.

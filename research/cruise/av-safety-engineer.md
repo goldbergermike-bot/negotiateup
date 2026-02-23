@@ -1,3 +1,30 @@
+---
+company: cruise
+company_display: Cruise
+role: av-safety-engineer
+role_display: AV Safety Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 175000
+    base_high: 240000
+    stock_low: 150000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 450000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cruise AV Safety Engineer (Senior) = Waymo Safety Engineer = Google L4/L5 = Tesla Autopilot Safety Eng = Aurora Safety Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "GM Subsidiary Comp | Competitive Bay Area RSUs | **SIGNATURE ROLE** | **+10-20% SAFETY PREMIUM** | Autonomous Vehicle Pioneer"
+---
 ### AV Safety Engineer | Cruise Global Negotiation Guide
 
 **Negotiation DNA:** GM Subsidiary Comp | Competitive Bay Area RSUs | **SIGNATURE ROLE** | **+10-20% SAFETY PREMIUM** | Autonomous Vehicle Pioneer

@@ -1,3 +1,50 @@
+---
+company: hsbc
+company_display: HSBC
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 95000
+    base_high: 132000
+    stock_low: 38000
+    stock_high: 58000
+    bonus_low: 20000
+    bonus_high: 33000
+    total_comp_low: 155000
+    total_comp_high: 223000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 755000
+    base_high: 1050000
+    stock_low: 380000
+    stock_high: 580000
+    bonus_low: 410000
+    bonus_high: 590000
+    total_comp_low: 1550000
+    total_comp_high: 2220000
+    currency: HKD
+  - region: Singapore
+    base_low: 165000
+    base_high: 228000
+    stock_low: 66000
+    stock_high: 100000
+    bonus_low: 35000
+    bonus_high: 57000
+    total_comp_low: 267000
+    total_comp_high: 385000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Product Strategy` `Market Expansion` `Revenue Ownership`"
+---
 ### Product Manager | HSBC Global Negotiation Guide
 
 **Negotiation DNA:** `Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Product Strategy` `Market Expansion` `Revenue Ownership`

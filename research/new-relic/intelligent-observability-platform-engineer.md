@@ -1,3 +1,56 @@
+---
+company: new-relic
+company_display: New Relic
+role: intelligent-observability-platform-engineer
+role_display: Intelligent Observability Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 22000
+    signing_bonus_high: 48000
+    total_comp_low: 270000
+    total_comp_high: 400000
+    currency: USD
+  - region: Portland
+    base_low: 167000
+    base_high: 222000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 18000
+    signing_bonus_high: 38000
+    total_comp_low: 245000
+    total_comp_high: 360000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 14000
+    signing_bonus_high: 28000
+    total_comp_low: 150000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Intelligent Observability Platform Engineer at New Relic maps to L5/L6 (senior-staff) across the industry. Equivalent titles include Applied Scientist II (Amazon), ML Platform Engineer (Google), AI Infrastructure Engineer (Meta), ML Platform Engineer (Datadog), and AI Platform Engineer (Dynatrace)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Intelligent Observability Platform Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | New Relic AI Architect | Innovation Dividend Builder"
+---
 ### Intelligent Observability Platform Engineer | New Relic Global Negotiation Guide
 
 **Negotiation DNA:** Intelligent Observability Platform Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | New Relic AI Architect | Innovation Dividend Builder

@@ -1,3 +1,87 @@
+---
+company: meta
+company_display: Meta
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Menlo Park / NYC)
+    base_low: 175000
+    base_high: 260000
+    stock_low: 200000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 490000
+    currency: USD
+  - region: US (Seattle / Austin)
+    base_low: 165000
+    base_high: 245000
+    stock_low: 185000
+    stock_high: 470000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 460000
+    currency: USD
+  - region: London (UK)
+    base_low: 145000
+    base_high: 215000
+    stock_low: 160000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 395000
+    currency: USD
+  - region: Canada (Toronto / Montreal)
+    base_low: 135000
+    base_high: 205000
+    stock_low: 150000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 375000
+    currency: USD
+  - region: Germany (Berlin / Hamburg)
+    base_low: 125000
+    base_high: 195000
+    stock_low: 140000
+    stock_high: 360000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 355000
+    currency: USD
+  - region: Singapore
+    base_low: 120000
+    base_high: 190000
+    stock_low: 135000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 340000
+    currency: USD
+  - region: India (Hyderabad / Bangalore)
+    base_low: 50000
+    base_high: 90000
+    stock_low: 60000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 85000
+    total_comp_high: 175000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: E4 equivalent maps to Google L4 Solutions Engineer / Amazon L5 SA / Apple ICT3; E5 equivalent (Senior) maps to Google L5 Solutions Engineer / Amazon L6 SA / Apple ICT4; E6 equivalent (Staff/Principal) maps to Google L6 Solutions Architect / Amazon L7 SA. Most external hires enter at E4 or E5 equivalent.
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Enterprise Platform Strategy | Technical Partner Enablement | **META ECOSYSTEM GROWTH PREMIUM**"
+---
 ### Solutions Architect | Meta Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise Platform Strategy | Technical Partner Enablement | **META ECOSYSTEM GROWTH PREMIUM**

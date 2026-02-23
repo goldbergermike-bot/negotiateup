@@ -1,3 +1,50 @@
+---
+company: vast-data
+company_display: Vast Data
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 160000
+    base_high: 200000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 295000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: 25000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 275000
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 190000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Vast Data Product Manager = Google L5 PM / Meta PM (IC5) / Amazon Sr. PMT / Microsoft PM2 / Apple PM / Databricks PM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Product Strategy Premium"
+---
 ### Product Manager | Vast Data Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Product Strategy Premium

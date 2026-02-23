@@ -1,3 +1,48 @@
+---
+company: datadog
+company_display: Datadog
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 360000
+    currency: USD
+  - region: Paris
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 135000
+    currency: EUR
+  - region: Dublin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 60000
+    total_comp_high: 140000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: DevOps Engineers at Datadog operate at the intersection of the platform and its customers — enabling the infrastructure that powers LLM Observability and the AI Nervous System at global scale.
+---
 ### DevOps Engineer — Datadog Salary Negotiation Guide
 
 **Negotiation DNA**: DevOps Engineers at Datadog operate at the intersection of the platform and its customers — enabling the infrastructure that powers LLM Observability and the AI Nervous System at global scale.

@@ -1,3 +1,48 @@
+---
+company: genentech
+company_display: Genentech
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: South San Francisco
+    base_low: 155000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 340000
+    currency: USD
+  - region: Bay Area Remote
+    base_low: 145000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: USD
+  - region: Other US
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Genentech Security = Google L4 Security = Moderna Security = Illumina Security (comparable TC)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Roche Subsidiary / Bay Area Biotech Premium / RSU + Bonus / IP & Clinical Data Protection"
+---
 ### Security Engineer | Genentech Global Negotiation Guide
 
 **Negotiation DNA:** Roche Subsidiary / Bay Area Biotech Premium / RSU + Bonus / IP & Clinical Data Protection

@@ -1,3 +1,48 @@
+---
+company: unity
+company_display: Unity
+role: runtime-platform-engineer
+role_display: Runtime Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 235000
+    stock_low: 100000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 385000
+    currency: USD
+  - region: Austin
+    base_low: 155000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 340000
+    currency: USD
+  - region: Copenhagen
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Unity Senior Runtime Eng = Google L4-L5 = Meta E4-E5 = Epic Unreal Senior Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus / Post-IPO Stabilizing | **SIGNATURE ROLE** | **+10–20% ENGINE RUNTIME PREMIUM**"
+---
 ### Runtime Platform Engineer | Unity Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Post-IPO Stabilizing | **SIGNATURE ROLE** | **+10–20% ENGINE RUNTIME PREMIUM**

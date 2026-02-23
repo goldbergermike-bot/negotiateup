@@ -1,3 +1,48 @@
+---
+company: plaid-identity
+company_display: Plaid Identity
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 195000
+    stock_low: 130000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 260000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 190000
+    stock_low: 125000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 186000
+    total_comp_high: 252000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 120000
+    stock_low: 65000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 160000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Plaid Designer (Mid) = Google L4 UX = Meta IC4 Design = Stripe Product Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure"
+---
 ### Product Designer | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure

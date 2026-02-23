@@ -1,3 +1,53 @@
+---
+company: airbase
+company_display: Airbase
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 260000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 355000
+    total_comp_high: 505000
+    currency: USD
+  - region: Bangalore
+    base_low: 4800000
+    base_high: 7200000
+    stock_low: 3000000
+    stock_high: 5000000
+    bonus_low: 600000
+    bonus_high: 1200000
+    total_comp_low: 8400000
+    total_comp_high: 13400000
+    currency: INR
+  - region: New York
+    base_low: 215000
+    base_high: 265000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 360000
+    total_comp_high: 510000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Airbase | Google | Meta | Stripe | Bill.com | Coupa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Technical Strategy` `Platform Architecture`"
+---
 ### Staff Software Engineer | Airbase Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Technical Strategy` `Platform Architecture`

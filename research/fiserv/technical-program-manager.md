@@ -1,3 +1,53 @@
+---
+company: fiserv
+company_display: Fiserv
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brookfield WI
+    base_low: 140000
+    base_high: 190000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 228000
+    total_comp_high: 375000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 220000
+    stock_low: 90000
+    stock_high: 190000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 277000
+    total_comp_high: 452000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 135000
+    stock_low: 45000
+    stock_high: 95000
+    bonus_low: 12000
+    bonus_high: 24000
+    total_comp_low: 152000
+    total_comp_high: 254000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Fiserv | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Program Management` `Cross-Functional`"
+---
 ### Technical Program Manager | Fiserv Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Program Management` `Cross-Functional`

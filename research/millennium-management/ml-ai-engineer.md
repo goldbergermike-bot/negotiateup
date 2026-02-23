@@ -1,3 +1,50 @@
+---
+company: millennium-management
+company_display: Millennium Management
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 255000
+    base_high: 340000
+    stock_low: null
+    stock_high: null
+    bonus_low: 145000
+    bonus_high: 230000
+    total_comp_low: 490000
+    total_comp_high: 715000
+    currency: USD
+  - region: Miami
+    base_low: 240000
+    base_high: 320000
+    stock_low: null
+    stock_high: null
+    bonus_low: 135000
+    bonus_high: 210000
+    total_comp_low: 455000
+    total_comp_high: 660000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 195000
+    base_high: 258000
+    stock_low: null
+    stock_high: null
+    bonus_low: 110000
+    bonus_high: 175000
+    total_comp_low: 373000
+    total_comp_high: 543000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`Pod Structure` `PnL Percentage` `Impact Multiplier` `+15-25% AI/Quant Premium` `Multi-Manager Platform` `Alpha Generation` `Quantitative Models` `Machine Learning` `Direct Attribution`"
+---
 ### ML/AI Engineer | Millennium Management Global Negotiation Guide
 
 **Negotiation DNA:** `Pod Structure` `PnL Percentage` `Impact Multiplier` `+15-25% AI/Quant Premium` `Multi-Manager Platform` `Alpha Generation` `Quantitative Models` `Machine Learning` `Direct Attribution`

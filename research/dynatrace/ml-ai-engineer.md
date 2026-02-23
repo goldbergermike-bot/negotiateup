@@ -1,3 +1,47 @@
+---
+company: dynatrace
+company_display: Dynatrace
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Waltham MA
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 365000
+    currency: USD
+  - region: Detroit
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 328000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 62000
+    total_comp_high: 160000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "ML/AI Engineer | Dynatrace (NYSE: DT) | Davis AI Engine Architect | Autonomous Remediation Intelligence | $100M Log Consumption | RSU/4yr Vesting | Waltham MA + Detroit + London"
+---
 ### ML/AI Engineer | Dynatrace Global Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineer | Dynatrace (NYSE: DT) | Davis AI Engine Architect | Autonomous Remediation Intelligence | $100M Log Consumption | RSU/4yr Vesting | Waltham MA + Detroit + London

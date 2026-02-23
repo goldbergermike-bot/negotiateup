@@ -1,3 +1,54 @@
+---
+company: tpg
+company_display: Tpg
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 185000
+    base_high: 232000
+    stock_low: 135000
+    stock_high: 220000
+    bonus_low: 35000
+    bonus_high: 55000
+    total_comp_low: 355000
+    total_comp_high: 428000
+    currency: USD
+  - region: "Fort Worth, TX"
+    base_low: 155000
+    base_high: 195000
+    stock_low: 108000
+    stock_high: 178000
+    bonus_low: 28000
+    bonus_high: 45000
+    total_comp_low: 298000
+    total_comp_high: 358000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 225000
+    stock_low: 128000
+    stock_high: 210000
+    bonus_low: 33000
+    bonus_high: 52000
+    total_comp_low: 342000
+    total_comp_high: 415000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "`Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Cross-Portfolio Architecture` `Client-Facing Technical Leadership` `Revenue-Driving Architect`"
+---
 ### Solutions Architect | TPG Global Negotiation Guide
 
 **Negotiation DNA:** `Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Cross-Portfolio Architecture` `Client-Facing Technical Leadership` `Revenue-Driving Architect`

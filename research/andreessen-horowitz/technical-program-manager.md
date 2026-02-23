@@ -1,3 +1,52 @@
+---
+company: andreessen-horowitz
+company_display: Andreessen Horowitz
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 195000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_low: 127000
+    bonus_high: 207000
+    total_comp_low: 322000
+    total_comp_high: 462000
+    currency: USD
+  - region: San Francisco
+    base_low: 190000
+    base_high: 248000
+    stock_low: null
+    stock_high: null
+    bonus_low: 122000
+    bonus_high: 200000
+    total_comp_low: 312000
+    total_comp_high: 448000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 242000
+    stock_low: null
+    stock_high: null
+    bonus_low: 118000
+    bonus_high: 194000
+    total_comp_low: 303000
+    total_comp_high: 436000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - LinkedIn
+  - Glassdoor
+negotiation_dna_summary: "`$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Cross-Functional Execution` `Platform Program Delivery` `Fund Operations`"
+---
 ### Technical Program Manager | Andreessen Horowitz Global Negotiation Guide
 
 **Negotiation DNA:** `$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Cross-Functional Execution` `Platform Program Delivery` `Fund Operations`

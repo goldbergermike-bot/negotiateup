@@ -1,3 +1,53 @@
+---
+company: vanguard
+company_display: Vanguard
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Malvern, PA (HQ)"
+    base_low: 198000
+    base_high: 268000
+    stock_low: null
+    stock_high: null
+    bonus_low: 42000
+    bonus_high: 68000
+    total_comp_low: 292000
+    total_comp_high: 422000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 188000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_low: 40000
+    bonus_high: 65000
+    total_comp_low: 277000
+    total_comp_high: 401000
+    currency: USD
+  - region: "Scottsdale, AZ"
+    base_low: 188000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_low: 40000
+    bonus_high: 65000
+    total_comp_low: 277000
+    total_comp_high: 401000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Technical Strategy` `Cross-Platform Architecture` `Investment Systems Leadership`"
+---
 ### Staff Software Engineer | Vanguard Global Negotiation Guide
 
 **Negotiation DNA:** `AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Technical Strategy` `Cross-Platform Architecture` `Investment Systems Leadership`

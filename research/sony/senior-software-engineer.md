@@ -1,3 +1,59 @@
+---
+company: sony
+company_display: Sony
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / San Diego (US)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 55000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 335000
+    currency: USD
+  - region: Bay Area (US)
+    base_low: 145000
+    base_high: 210000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 325000
+    currency: USD
+  - region: Tokyo (HQ)
+    base_low: 10000000
+    base_high: 16000000
+    stock_low: 3000000
+    stock_high: 8000000
+    bonus_pct: 10
+    total_comp_low: 13000000
+    total_comp_high: 22000000
+    currency: JPY
+  - region: London (SIE Europe)
+    base_low: 95000
+    base_high: 150000
+    stock_low: 35000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Senior SWE at Sony (IC4-IC5) = L5 at Google, IC5 at Meta, SDE III at Amazon, Senior at Microsoft Xbox"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$110B market cap with senior roles spanning PlayStation platform, entertainment tech, and semiconductors + US senior comp increasingly competitive with tech industry + Sony stock RSUs with strong appreciation | Senior engineers at Sony lead critical systems across the world's leading entertainment technology company | **SENIOR ENTERTAINMENT TECH PREMIUM**"
+---
 ### Senior Software Engineer | Sony Global Negotiation Guide
 
 **Negotiation DNA:** $110B market cap with senior roles spanning PlayStation platform, entertainment tech, and semiconductors + US senior comp increasingly competitive with tech industry + Sony stock RSUs with strong appreciation | Senior engineers at Sony lead critical systems across the world's leading entertainment technology company | **SENIOR ENTERTAINMENT TECH PREMIUM**

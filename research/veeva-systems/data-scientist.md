@@ -1,3 +1,48 @@
+---
+company: veeva-systems
+company_display: Veeva Systems
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Pleasanton
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 365000
+    currency: USD
+  - region: Boston / East Coast
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 335000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 160000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Data Scientists at Veeva Systems apply statistical and ML methods to the richest pharmaceutical dataset in the industry — driving insights across clinical trials, regulatory intelligence, and commercial operations for a $35B life sciences cloud leader."
+---
 ### Data Scientist — Veeva Systems Salary Negotiation Guide
 
 **Negotiation DNA**: Data Scientists at Veeva Systems apply statistical and ML methods to the richest pharmaceutical dataset in the industry — driving insights across clinical trials, regulatory intelligence, and commercial operations for a $35B life sciences cloud leader.

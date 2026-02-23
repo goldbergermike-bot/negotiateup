@@ -1,3 +1,56 @@
+---
+company: new-relic
+company_display: New Relic
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 150000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 12000
+    signing_bonus_high: 25000
+    total_comp_low: 195000
+    total_comp_high: 265000
+    currency: USD
+  - region: Portland
+    base_low: 135000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 20000
+    total_comp_low: 175000
+    total_comp_high: 238000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 120000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 7000
+    signing_bonus_high: 15000
+    total_comp_low: 105000
+    total_comp_high: 155000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at New Relic maps to L4/L5 (mid-senior) across the industry. Equivalent titles include Systems Development Engineer (Amazon), Production Engineer (Meta), SRE/DevOps (Google), and Infrastructure Engineer (Datadog/HashiCorp)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "DevOps Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | Observability Platform"
+---
 ### DevOps Engineer | New Relic Global Negotiation Guide
 
 **Negotiation DNA:** DevOps Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | Observability Platform

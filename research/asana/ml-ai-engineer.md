@@ -1,3 +1,48 @@
+---
+company: asana
+company_display: Asana
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 365000
+    currency: USD
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 345000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 165000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "ML/AI Engineers at Asana build Asana Intelligence — the AI layer that transforms the Work Graph into actionable insights, giving Asana a structural advantage over every competitor in the $5B work management market."
+---
 ### ML/AI Engineer — Asana Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at Asana build Asana Intelligence — the AI layer that transforms the Work Graph into actionable insights, giving Asana a structural advantage over every competitor in the $5B work management market.

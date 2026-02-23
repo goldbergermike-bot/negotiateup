@@ -1,3 +1,52 @@
+---
+company: confluent
+company_display: Confluent
+role: flink-streaming-engineer
+role_display: Flink Streaming Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 192000
+    base_high: 238000
+    stock_low: 230000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 270000
+    total_comp_high: 358000
+    currency: USD
+  - region: London
+    base_low: 82000
+    base_high: 108000
+    stock_low: 92000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 110000
+    total_comp_high: 158000
+    currency: GBP
+  - region: Bangalore
+    base_low: 5200000
+    base_high: 8000000
+    stock_low: 4500000
+    stock_high: 7200000
+    bonus_pct: 10
+    total_comp_low: 6800000
+    total_comp_high: 10800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Confluent Flink Streaming Eng (Senior) = Databricks Spark Runtime Eng = Google L4-L5 Stream Processing = Amazon Kinesis Senior Eng
+data_sources:
+  - Confluent Flink-First Strategy
+  - Apache Flink — Managed Stream Processing on Confluent Cloud
+  - Kafka-Flink Native Integration — Zero-Copy Streaming + Processing
+  - Flink SQL — Democratizing Stream Processing for All Developers
+  - "Agentic AI Premium — 15-25% for Real-Time AI Processing Infrastructure"
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Apache Kafka Originators | **SIGNATURE ROLE** | **+15–25% AGENTIC AI PREMIUM**"
+---
 ### Flink Streaming Engineer | Confluent Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Apache Kafka Originators | **SIGNATURE ROLE** | **+15–25% AGENTIC AI PREMIUM**

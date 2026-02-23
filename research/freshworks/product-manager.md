@@ -1,3 +1,48 @@
+---
+company: freshworks
+company_display: Freshworks
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 345000
+    currency: USD
+  - region: India
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 35000
+    total_comp_high: 130000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 52000
+    total_comp_high: 155000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Managers at Freshworks define the roadmap for the $5B integrated SaaS suite — competing against Zendesk, ServiceNow, and Salesforce with a unified platform strategy powered by Freddy AI."
+---
 ### Product Manager — Freshworks Salary Negotiation Guide
 
 **Negotiation DNA**: Product Managers at Freshworks define the roadmap for the $5B integrated SaaS suite — competing against Zendesk, ServiceNow, and Salesforce with a unified platform strategy powered by Freddy AI.

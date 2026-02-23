@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 135000
+    base_high: 192000
+    stock_low: 42000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 255000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 152000
+    base_high: 215000
+    stock_low: 52000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 292000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 62000
+    base_high: 98000
+    stock_low: 18000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 75000
+    total_comp_high: 128000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 115000
+    base_high: 162000
+    stock_low: 30000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 212000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 2200000
+    base_high: 4200000
+    stock_low: 1000000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 3000000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva IC3 ~ Intuit Senior | ServiceNow Senior | Oracle Senior | Domo Senior/Staff"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Compliance platform senior builder | Connected reporting architecture & GRC systems | **SENIOR IC PREMIUM**"
+---
 ### Senior Software Engineer | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** Compliance platform senior builder | Connected reporting architecture & GRC systems | **SENIOR IC PREMIUM**

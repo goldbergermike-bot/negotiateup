@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 152000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 275000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 128000
+    base_high: 178000
+    stock_low: 42000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 238000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 40000
+    base_high: 68000
+    stock_low: 14000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 50000
+    total_comp_high: 88000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 65000
+    base_high: 100000
+    stock_low: 24000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 82000
+    total_comp_high: 135000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 1800000
+    base_high: 3500000
+    stock_low: 800000
+    stock_high: 2400000
+    bonus_pct: 10
+    total_comp_low: 2400000
+    total_comp_high: 4800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath IC2/IC3 ~ Microsoft 61/62 DevOps | Google L4/L5 SRE | Automation Anywhere Senior/Staff | ServiceNow Senior SRE"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Automation platform infrastructure specialist | Cloud orchestration & robot fleet management | **RELIABILITY PREMIUM**"
+---
 ### DevOps Engineer | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** Automation platform infrastructure specialist | Cloud orchestration & robot fleet management | **RELIABILITY PREMIUM**

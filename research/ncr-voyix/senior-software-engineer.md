@@ -1,3 +1,53 @@
+---
+company: ncr-voyix
+company_display: NCR Voyix
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 140000
+    base_high: 175000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 195000
+    total_comp_high: 280000
+    currency: USD
+  - region: New York NY
+    base_low: 160000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 18000
+    bonus_high: 30000
+    total_comp_low: 228000
+    total_comp_high: 330000
+    currency: USD
+  - region: London UK
+    base_low: 95000
+    base_high: 125000
+    stock_low: 28000
+    stock_high: 55000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 133000
+    total_comp_high: 198000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| NCR Voyix | Google | Meta | Stripe | Fiserv | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Senior IC` `RSU/4yr`"
+---
 ### Senior Software Engineer | NCR Voyix Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Senior IC` `RSU/4yr`

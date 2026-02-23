@@ -1,3 +1,48 @@
+---
+company: proofpoint
+company_display: Proofpoint
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 148000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 310000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 65000
+    total_comp_high: 145000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Designers at Proofpoint shape the user experience of enterprise security tools used by security operations teams at Fortune 100 companies, translating complex threat data into intuitive interfaces that enable faster and more accurate threat response."
+---
 ### Product Designer — Proofpoint Salary Negotiation Guide
 
 **Negotiation DNA**: Product Designers at Proofpoint shape the user experience of enterprise security tools used by security operations teams at Fortune 100 companies, translating complex threat data into intuitive interfaces that enable faster and more accurate threat response.

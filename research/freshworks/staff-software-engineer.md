@@ -1,3 +1,48 @@
+---
+company: freshworks
+company_display: Freshworks
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 420000
+    currency: USD
+  - region: India
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 95000
+    total_comp_high: 195000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 105000
+    total_comp_high: 195000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Staff Software Engineers at Freshworks set the architectural direction across the $5B integrated SaaS suite — defining how Freddy AI, Freshdesk, Freshservice, and Freshsales work as a unified platform."
+---
 ### Staff Software Engineer — Freshworks Salary Negotiation Guide
 
 **Negotiation DNA**: Staff Software Engineers at Freshworks set the architectural direction across the $5B integrated SaaS suite — defining how Freddy AI, Freshdesk, Freshservice, and Freshsales work as a unified platform.

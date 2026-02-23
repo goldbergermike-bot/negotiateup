@@ -1,3 +1,52 @@
+---
+company: tipalti
+company_display: Tipalti
+role: trust-architect-platform-engineer
+role_display: Trust Architect Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 195000
+    base_high: 260000
+    stock_low: 100000
+    stock_high: 240000
+    bonus_low: 25000
+    bonus_high: 55000
+    total_comp_low: 320000
+    total_comp_high: 555000
+    currency: USD
+  - region: New York NY
+    base_low: 190000
+    base_high: 255000
+    stock_low: 90000
+    stock_high: 230000
+    bonus_low: 23000
+    bonus_high: 52000
+    total_comp_low: 303000
+    total_comp_high: 537000
+    currency: USD
+  - region: Tel Aviv IL
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Tipalti | Google | Meta | Stripe | Bill.com | AvidXchange |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `AI Trust` `Fintech` `Pre-IPO` `Payables Automation` `Trust Architecture` `AI Governance` `Platform Engineering` `Signature Role`"
+---
 ### Trust Architect Platform Engineer | Tipalti Global Negotiation Guide
 
 > **SIGNATURE ROLE** — This is Tipalti's defining role for the AI Trust era. This guide is expanded to provide comprehensive negotiation intelligence for the most strategically important hire in Tipalti's 2026 roadmap.

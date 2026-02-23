@@ -1,3 +1,39 @@
+---
+company: gitlab
+company_display: Gitlab
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (All-Remote)
+    base_low: 150000
+    base_high: 210000
+    stock_low: 60000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+  - region: San Francisco Benchmark
+    base_low: 155000
+    base_high: 215000
+    stock_low: 65000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: GitLab Senior TPM = GitHub Senior TPM = Google L5 TPM = Atlassian Senior TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Public ($8B Market Cap) | All-Remote | DevSecOps Platform | Transparent Comp"
+---
 ### Technical Program Manager | GitLab Global Negotiation Guide
 
 **Negotiation DNA:** Public ($8B Market Cap) | All-Remote | DevSecOps Platform | Transparent Comp

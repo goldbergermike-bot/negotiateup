@@ -1,3 +1,49 @@
+---
+company: epic-games
+company_display: Epic Games
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 155000
+    base_high: 220000
+    stock_low: 80000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 350000
+    currency: USD
+  - region: Seattle
+    base_low: 165000
+    base_high: 230000
+    stock_low: 90000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: 60000
+    base_high: 95000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_pct: 15
+    total_comp_low: 92000
+    total_comp_high: 155000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic PM = Google L5-L6 PM = Meta IC5 PM = Valve PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue"
+---
 ### Product Manager | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue

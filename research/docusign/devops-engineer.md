@@ -1,3 +1,67 @@
+---
+company: docusign
+company_display: Docusign
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 150000
+    base_high: 205000
+    stock_low: 65000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 285000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 130000
+    base_high: 180000
+    stock_low: 48000
+    stock_high: 128000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 240000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 70000
+    base_high: 108000
+    stock_low: 28000
+    stock_high: 70000
+    bonus_pct: 10
+    total_comp_low: 92000
+    total_comp_high: 148000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2000000
+    base_high: 3800000
+    stock_low: 1000000
+    stock_high: 2600000
+    bonus_pct: 10
+    total_comp_low: 2800000
+    total_comp_high: 5200000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 118000
+    base_high: 168000
+    stock_low: 38000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign IC2/IC3 ~ Twilio Senior/Staff SRE | Datadog Senior/Staff | Salesforce MTS/LMTS Platform | Google L4/L5 SRE"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "SaaS reliability & deployment automation specialist | Agreement platform infrastructure | **RELIABILITY PREMIUM**"
+---
 ### DevOps Engineer | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** SaaS reliability & deployment automation specialist | Agreement platform infrastructure | **RELIABILITY PREMIUM**

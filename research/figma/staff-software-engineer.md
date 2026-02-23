@@ -1,3 +1,49 @@
+---
+company: figma
+company_display: Figma
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 260000
+    base_high: 320000
+    stock_low: 450000
+    stock_high: 750000
+    bonus_pct: 10
+    total_comp_low: 430000
+    total_comp_high: 680000
+    currency: USD
+  - region: New York
+    base_low: 260000
+    base_high: 320000
+    stock_low: 450000
+    stock_high: 750000
+    bonus_pct: 10
+    total_comp_low: 430000
+    total_comp_high: 680000
+    currency: USD
+  - region: London
+    base_low: 198000
+    base_high: 243000
+    stock_low: 342000
+    stock_high: 570000
+    bonus_pct: 10
+    total_comp_low: 327000
+    total_comp_high: 517000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Figma Staff SWE = Google L6 = Meta E6 = Adobe Principal Engineer = Canva Staff Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Premium Base + Major Equity Stake | Design Platform Pioneer | 2026 Focus: AI-Native Design Platform Architecture"
+---
 ### Staff Software Engineer | Figma Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Major Equity Stake | Design Platform Pioneer | 2026 Focus: AI-Native Design Platform Architecture

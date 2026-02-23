@@ -1,3 +1,52 @@
+---
+company: sequoia
+company_display: Sequoia
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 190000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_low: 130000
+    bonus_high: 190000
+    total_comp_low: 365000
+    total_comp_high: 492000
+    currency: USD
+  - region: San Francisco
+    base_low: 185000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_low: 122000
+    bonus_high: 182000
+    total_comp_low: 347000
+    total_comp_high: 474000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 135000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_low: 88000
+    bonus_high: 135000
+    total_comp_low: 251000
+    total_comp_high: 352000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - LinkedIn
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Base $180K-$240K` | `Carry/Bonus $120K-$190K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`"
+---
 ### Solutions Architect | Sequoia Global Negotiation Guide
 
 **Negotiation DNA:** `Base $180K-$240K` | `Carry/Bonus $120K-$190K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`

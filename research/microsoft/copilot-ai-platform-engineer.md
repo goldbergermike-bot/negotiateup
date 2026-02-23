@@ -1,3 +1,68 @@
+---
+company: microsoft
+company_display: Microsoft
+role: copilot-ai-platform-engineer
+role_display: Copilot AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: SWE I-II (AI Platform)
+    base_low: 130000
+    base_high: 175000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 10
+    signing_bonus_low: 20000
+    signing_bonus_high: 40000
+    total_comp_low: 170000
+    total_comp_high: 270000
+    currency: USD
+  - region: Senior SWE (AI Platform)
+    base_low: 165000
+    base_high: 230000
+    stock_low: 150000
+    stock_high: 380000
+    bonus_pct: 15
+    signing_bonus_low: 30000
+    signing_bonus_high: 60000
+    total_comp_low: 260000
+    total_comp_high: 420000
+    currency: USD
+  - region: Principal SWE (AI Platform)
+    base_low: 210000
+    base_high: 295000
+    stock_low: 300000
+    stock_high: 700000
+    bonus_pct: 20
+    signing_bonus_low: 50000
+    signing_bonus_high: 100000
+    total_comp_low: 400000
+    total_comp_high: 620000
+    currency: USD
+  - region: Partner+ (AI Platform)
+    base_low: 280000
+    base_high: 380000
+    stock_low: 600000
+    stock_high: 1500000
+    bonus_pct: 25
+    signing_bonus_low: 80000
+    signing_bonus_high: 150000
+    total_comp_low: 600000
+    total_comp_high: 1000000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+  - Hired
+negotiation_dna_summary: null
+---
 # Copilot AI Platform Engineer - Microsoft Negotiation Guide
 
 ## Role Overview

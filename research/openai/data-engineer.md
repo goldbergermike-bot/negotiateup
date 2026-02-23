@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 242000
+    stock_low: 248000
+    stock_high: 432000
+    bonus_pct: null
+    total_comp_low: 257000
+    total_comp_high: 350000
+    currency: USD
+  - region: Seattle
+    base_low: 188000
+    base_high: 235000
+    stock_low: 248000
+    stock_high: 432000
+    bonus_pct: null
+    total_comp_low: 250000
+    total_comp_high: 343000
+    currency: USD
+  - region: London
+    base_low: 135000
+    base_high: 170000
+    stock_low: 180000
+    stock_high: 315000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 249000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI Data Eng = Google L4 DE = Meta DE = Scale AI DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)"
+---
 ### Data Engineer | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)

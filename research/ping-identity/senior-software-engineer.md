@@ -1,3 +1,48 @@
+---
+company: ping-identity
+company_display: Ping Identity
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver
+    base_low: 178000
+    base_high: 225000
+    stock_low: 62000
+    stock_high: 108000
+    bonus_pct: 15
+    total_comp_low: 218000
+    total_comp_high: 305000
+    currency: USD
+  - region: Austin
+    base_low: 172000
+    base_high: 218000
+    stock_low: 62000
+    stock_high: 108000
+    bonus_pct: 15
+    total_comp_low: 212000
+    total_comp_high: 298000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 212000
+    stock_low: 62000
+    stock_high: 108000
+    bonus_pct: 15
+    total_comp_low: 208000
+    total_comp_high: 292000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ping Identity Sr SWE (IC4) = Okta Sr SWE = CyberArk Sr SWE = SailPoint Sr SWE = ForgeRock Sr SWE = Microsoft Identity Sr SWE (L62-L63)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY PLATFORM BONUS**"
+---
 ### Senior Software Engineer | Ping Identity Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY PLATFORM BONUS**

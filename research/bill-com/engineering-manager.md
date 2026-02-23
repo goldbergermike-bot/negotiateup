@@ -1,3 +1,53 @@
+---
+company: bill-com
+company_display: Bill.com
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 195000
+    base_high: 250000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 400000
+    total_comp_high: 620000
+    currency: USD
+  - region: Houston TX
+    base_low: 170000
+    base_high: 220000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 330000
+    total_comp_high: 520000
+    currency: USD
+  - region: Salt Lake City UT
+    base_low: 160000
+    base_high: 210000
+    stock_low: 130000
+    stock_high: 240000
+    bonus_low: 18000
+    bonus_high: 38000
+    total_comp_low: 308000
+    total_comp_high: 488000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| BILL | Google | Meta | Stripe | PayPal | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: BILL` `Agentic AP` `Engineering Manager` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `People Leadership`"
+---
 ### Engineering Manager | Bill.com Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: BILL` `Agentic AP` `Engineering Manager` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `People Leadership`

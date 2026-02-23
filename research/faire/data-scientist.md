@@ -1,3 +1,39 @@
+---
+company: faire
+company_display: Faire
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 300000
+    currency: USD
+  - region: Remote US
+    base_low: 138000
+    base_high: 192000
+    stock_low: 65000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 282000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Faire Data Scientist = Google DS L3-L4 = Shopify Data Scientist = Amazon Applied Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Startup Comp | Private $12B Valuation | B2B Wholesale Pioneer | Pre-IPO Upside"
+---
 ### Data Scientist | Faire Global Negotiation Guide
 
 **Negotiation DNA:** Strong Startup Comp | Private $12B Valuation | B2B Wholesale Pioneer | Pre-IPO Upside

@@ -1,3 +1,53 @@
+---
+company: global-payments
+company_display: Global Payments
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 110000
+    base_high: 145000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 160000
+    total_comp_high: 243000
+    currency: USD
+  - region: New York
+    base_low: 125000
+    base_high: 165000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 187000
+    total_comp_high: 287000
+    currency: USD
+  - region: London
+    base_low: 70000
+    base_high: 95000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_low: 7000
+    bonus_high: 12000
+    total_comp_low: 102000
+    total_comp_high: 162000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Global Payments | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Fintech Infrastructure` `IC Track`"
+---
 ### Software Engineer | Global Payments Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Fintech Infrastructure` `IC Track`

@@ -1,3 +1,50 @@
+---
+company: supabase
+company_display: Supabase
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 220000
+    stock_low: 120000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 250000
+    total_comp_high: 370000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 210000
+    stock_low: 120000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 168000
+    stock_low: 91000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 282000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Supabase Solutions Architect = Google Cloud Customer Engineer = AWS Solutions Architect = MongoDB Solutions Architect = PlanetScale Solutions Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Enterprise-Premium Base + Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Powered Enterprise Database Migration"
+---
 ### Solutions Architect | Supabase Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise-Premium Base + Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Powered Enterprise Database Migration

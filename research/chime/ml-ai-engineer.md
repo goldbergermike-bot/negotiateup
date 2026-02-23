@@ -1,3 +1,48 @@
+---
+company: chime
+company_display: Chime
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 212000
+    base_high: 242000
+    stock_low: 198000
+    stock_high: 278000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 348000
+    currency: USD
+  - region: Chicago
+    base_low: 202000
+    base_high: 232000
+    stock_low: 172000
+    stock_high: 255000
+    bonus_pct: 15
+    total_comp_low: 258000
+    total_comp_high: 322000
+    currency: USD
+  - region: Remote US
+    base_low: 192000
+    base_high: 222000
+    stock_low: 158000
+    stock_high: 242000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chime ML/AI (IC3-IC4) = Cash App ML = Google ML L4-L5 = Meta ML Engineer E4-E5 = Amazon Applied Scientist II-III = SoFi ML = Revolut ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | +15-25% AI Premium | **INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**"
+---
 ### ML/AI Engineer | Chime Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | +15-25% AI Premium | **INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**

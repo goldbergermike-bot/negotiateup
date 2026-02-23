@@ -1,3 +1,48 @@
+---
+company: elastic
+company_display: Elastic
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 188000
+    base_high: 232000
+    stock_low: 218000
+    stock_high: 365000
+    bonus_pct: 5
+    total_comp_low: 252000
+    total_comp_high: 338000
+    currency: USD
+  - region: Amsterdam
+    base_low: 80000
+    base_high: 105000
+    stock_low: 88000
+    stock_high: 148000
+    bonus_pct: 5
+    total_comp_low: 108000
+    total_comp_high: 152000
+    currency: EUR
+  - region: Bangalore
+    base_low: 4800000
+    base_high: 7200000
+    stock_low: 4000000
+    stock_high: 6500000
+    bonus_pct: 5
+    total_comp_low: 6200000
+    total_comp_high: 9500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Elastic Senior ML Eng = Google L4 ML = MongoDB Senior ML (Voyage AI) = Snowflake Senior ML (Cortex)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Small Bonus | \"Battle for the AI Data Layer\" | **+20–35% AGENTIC AI PREMIUM** | ESRE Core Team"
+---
 ### ML/AI Engineer | Elastic Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Small Bonus | "Battle for the AI Data Layer" | **+20–35% AGENTIC AI PREMIUM** | ESRE Core Team

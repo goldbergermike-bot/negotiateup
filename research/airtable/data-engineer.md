@@ -1,3 +1,50 @@
+---
+company: airtable
+company_display: Airtable
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 158000
+    base_high: 202000
+    stock_low: 95000
+    stock_high: 172000
+    bonus_pct: 5
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: USD
+  - region: NYC / Austin
+    base_low: 148000
+    base_high: 192000
+    stock_low: 85000
+    stock_high: 158000
+    bonus_pct: 5
+    total_comp_low: 180000
+    total_comp_high: 252000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 154000
+    stock_low: 72000
+    stock_high: 131000
+    bonus_pct: 5
+    total_comp_low: 146000
+    total_comp_high: 204000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airtable Data Engineer = Google L4 Data Engineer = Meta E4 Data = Notion DE = Monday.com DE II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push"
+---
 ### Data Engineer | Airtable Global Negotiation Guide
 
 **Negotiation DNA:** No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push

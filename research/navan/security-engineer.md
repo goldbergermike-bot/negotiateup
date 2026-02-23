@@ -1,3 +1,53 @@
+---
+company: navan
+company_display: Navan
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 235000
+    stock_low: 50000
+    stock_high: 105000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 240000
+    total_comp_high: 370000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 230000
+    stock_low: 48000
+    stock_high: 100000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 232000
+    total_comp_high: 358000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 148000
+    stock_low: 32000
+    stock_high: 65000
+    bonus_low: 9000
+    bonus_high: 19000
+    total_comp_low: 149000
+    total_comp_high: 232000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Navan | Google | Meta | Stripe | Brex | Airbnb |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `AppSec` `FinTech Compliance`"
+---
 ### Security Engineer | Navan Global Negotiation Guide
 
 **Negotiation DNA:** `Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `AppSec` `FinTech Compliance`

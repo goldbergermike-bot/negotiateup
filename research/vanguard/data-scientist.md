@@ -1,3 +1,53 @@
+---
+company: vanguard
+company_display: Vanguard
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Malvern, PA (HQ)"
+    base_low: 125000
+    base_high: 172000
+    stock_low: null
+    stock_high: null
+    bonus_low: 22000
+    bonus_high: 36000
+    total_comp_low: 175000
+    total_comp_high: 252000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 119000
+    base_high: 163000
+    stock_low: null
+    stock_high: null
+    bonus_low: 21000
+    bonus_high: 34000
+    total_comp_low: 166000
+    total_comp_high: 239000
+    currency: USD
+  - region: "Scottsdale, AZ"
+    base_low: 119000
+    base_high: 163000
+    stock_low: null
+    stock_high: null
+    bonus_low: 21000
+    bonus_high: 34000
+    total_comp_low: 166000
+    total_comp_high: 239000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Quantitative Modeling` `Investment Analytics` `Alternative Data`"
+---
 ### Data Scientist | Vanguard Global Negotiation Guide
 
 **Negotiation DNA:** `AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Quantitative Modeling` `Investment Analytics` `Alternative Data`

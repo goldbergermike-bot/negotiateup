@@ -1,3 +1,40 @@
+---
+company: epic-systems
+company_display: Epic Systems
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Verona WI
+    base_low: 130000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 210000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 120000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 200000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Epic TPM/Implementation Director = Cerner/Oracle TPM = UHG TPM (lower TC due to no equity)
+data_sources:
+  - Glassdoor
+  - Hired
+negotiation_dna_summary: Private Company / No Public Equity / Bonus-Only Variable / Implementation Program Execution
+---
 ### Technical Program Manager | Epic Systems Global Negotiation Guide
 
 **Negotiation DNA:** Private Company / No Public Equity / Bonus-Only Variable / Implementation Program Execution

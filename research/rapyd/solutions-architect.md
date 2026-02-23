@@ -1,3 +1,48 @@
+---
+company: rapyd
+company_display: Rapyd
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 82000
+    base_high: 122000
+    stock_low: 48000
+    stock_high: 95000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 217000
+    currency: GBP
+  - region: Tel Aviv (ILS)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Francisco (USD)
+    base_low: 158000
+    base_high: 218000
+    stock_low: 82000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 378000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Rapyd's Stablecoin Mainstream strategy, translating the Jan 2026 State of Stablecoins Report (34% business adoption) into a Solutions Architect compensation framework spanning London, Tel Aviv, and San Francisco markets."
+---
 ### Solutions Architect — Rapyd Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Rapyd's Stablecoin Mainstream strategy, translating the Jan 2026 State of Stablecoins Report (34% business adoption) into a Solutions Architect compensation framework spanning London, Tel Aviv, and San Francisco markets.

@@ -1,3 +1,48 @@
+---
+company: databricks
+company_display: Databricks
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 222000
+    stock_low: 162000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 182000
+    base_high: 228000
+    stock_low: 162000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 215000
+    stock_low: 162000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 332000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Databricks SWE (L2-L3) = Snowflake SWE = Google L3-L4 = Meta E4 = Amazon L5 = Microsoft 61-62
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Software Engineer | Databricks Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**

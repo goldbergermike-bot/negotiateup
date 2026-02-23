@@ -1,3 +1,48 @@
+---
+company: plaid-identity
+company_display: Plaid Identity
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 205000
+    stock_low: 150000
+    stock_high: 245000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 275000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 200000
+    stock_low: 145000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 268000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 135000
+    stock_low: 75000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 178000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Plaid DevOps (Mid) = Google L3 SRE = Meta E3 Production Engineer = Stripe L2 Infrastructure
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure"
+---
 ### DevOps Engineer | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure

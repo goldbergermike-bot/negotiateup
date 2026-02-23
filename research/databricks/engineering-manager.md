@@ -1,3 +1,48 @@
+---
+company: databricks
+company_display: Databricks
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 232000
+    base_high: 292000
+    stock_low: 278000
+    stock_high: 492000
+    bonus_pct: 15
+    total_comp_low: 355000
+    total_comp_high: 502000
+    currency: USD
+  - region: New York
+    base_low: 238000
+    base_high: 298000
+    stock_low: 278000
+    stock_high: 492000
+    bonus_pct: 15
+    total_comp_low: 362000
+    total_comp_high: 508000
+    currency: USD
+  - region: Remote US
+    base_low: 225000
+    base_high: 285000
+    stock_low: 278000
+    stock_high: 492000
+    bonus_pct: 15
+    total_comp_low: 348000
+    total_comp_high: 495000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Databricks EM (M1-M2) = Snowflake EM = Google M1-M2 = Meta M1 = Amazon L6 Manager = Microsoft 64-65
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Engineering Manager | Databricks Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**

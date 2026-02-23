@@ -1,3 +1,49 @@
+---
+company: tenstorrent
+company_display: Tenstorrent
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 115000
+    base_high: 148000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_pct: 8
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: CAD
+  - region: Austin
+    base_low: 118000
+    base_high: 155000
+    stock_low: 30000
+    stock_high: 50000
+    bonus_pct: 8
+    total_comp_low: 162000
+    total_comp_high: 225000
+    currency: USD
+  - region: Remote US
+    base_low: 110000
+    base_high: 148000
+    stock_low: 28000
+    stock_high: 48000
+    bonus_pct: 8
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Tenstorrent SWE ~ Google L3–L4 | Meta E3–E4 | Apple ICT2–ICT3 | AMD MTS-1 | Intel Grade 6–7"
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "[Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | Late-Stage Startup ~$3.5B Valuation"
+---
 ### Software Engineer | Tenstorrent Global Negotiation Guide
 
 **Negotiation DNA:** [Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | Late-Stage Startup ~$3.5B Valuation

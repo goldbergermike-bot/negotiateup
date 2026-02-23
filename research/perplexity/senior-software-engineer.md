@@ -1,3 +1,50 @@
+---
+company: perplexity
+company_display: Perplexity
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 255000
+    stock_low: 280000
+    stock_high: 485000
+    bonus_pct: null
+    total_comp_low: 275000
+    total_comp_high: 376000
+    currency: USD
+  - region: New York
+    base_low: 211000
+    base_high: 268000
+    stock_low: 280000
+    stock_high: 485000
+    bonus_pct: null
+    total_comp_low: 281000
+    total_comp_high: 389000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 230000
+    stock_low: 280000
+    stock_high: 485000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 351000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Perplexity Senior SWE = Google L4-L5 = Anthropic Senior SWE = OpenAI Senior SWE = Meta E4-E5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift"
+---
 ### Senior Software Engineer | Perplexity Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift

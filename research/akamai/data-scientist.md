@@ -1,3 +1,49 @@
+---
+company: akamai
+company_display: Akamai
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge (MA)
+    base_low: 145000
+    base_high: 175000
+    stock_low: 65000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 258000
+    currency: USD
+  - region: San Francisco
+    base_low: 155000
+    base_high: 185000
+    stock_low: 70000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 275000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 165000
+    stock_low: 55000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Akamai Data Scientist = Google L4–L5 DS / Meta Data Scientist (IC4–IC5) / Amazon Applied Scientist (L5–L6)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Data & Analytics Premium"
+---
 ### Data Scientist | Akamai Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Data & Analytics Premium

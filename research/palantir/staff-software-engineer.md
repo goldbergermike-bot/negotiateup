@@ -1,3 +1,48 @@
+---
+company: palantir
+company_display: Palantir
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 180000
+    base_high: 220000
+    stock_low: 450000
+    stock_high: 720000
+    bonus_pct: null
+    total_comp_low: 293000
+    total_comp_high: 400000
+    currency: USD
+  - region: New York City
+    base_low: 185000
+    base_high: 225000
+    stock_low: 460000
+    stock_high: 730000
+    bonus_pct: null
+    total_comp_low: 300000
+    total_comp_high: 408000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 128000
+    stock_low: 225000
+    stock_high: 365000
+    bonus_pct: null
+    total_comp_low: 156000
+    total_comp_high: 219000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Palantir Staff SWE = Google L5 = Meta E5 — but with customer-facing deployment and classified access
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture"
+---
 ### Staff Software Engineer | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture

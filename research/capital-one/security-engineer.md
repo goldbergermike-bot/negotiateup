@@ -1,3 +1,50 @@
+---
+company: capital-one
+company_display: Capital One
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: McLean VA (HQ)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 85000
+    stock_high: 225000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 335000
+    currency: USD
+  - region: New York City
+    base_low: 165000
+    base_high: 222000
+    stock_low: 95000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 360000
+    currency: USD
+  - region: San Francisco
+    base_low: 160000
+    base_high: 218000
+    stock_low: 90000
+    stock_high: 232000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Security Engineer at Capital One (Senior/Principal) = L4-L5 at Google, E4-E5 at Meta, SecEng II-Senior at Amazon, VP/SVP at BofA/JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$68B market cap TECH-FIRST bank + Cloud-native security on AWS at scale + McLean VA HQ + Post-2019-breach security investment is massive | Capital One cloud security is industry-leading | **CLOUD SECURITY PREMIUM**"
+---
 ### Security Engineer | Capital One Global Negotiation Guide
 
 **Negotiation DNA:** $68B market cap TECH-FIRST bank + Cloud-native security on AWS at scale + McLean VA HQ + Post-2019-breach security investment is massive | Capital One cloud security is industry-leading | **CLOUD SECURITY PREMIUM**

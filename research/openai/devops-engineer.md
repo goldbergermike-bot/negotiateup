@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 248000
+    stock_low: 265000
+    stock_high: 462000
+    bonus_pct: null
+    total_comp_low: 266000
+    total_comp_high: 364000
+    currency: USD
+  - region: Seattle
+    base_low: 192000
+    base_high: 242000
+    stock_low: 265000
+    stock_high: 462000
+    bonus_pct: null
+    total_comp_low: 258000
+    total_comp_high: 358000
+    currency: USD
+  - region: London
+    base_low: 138000
+    base_high: 175000
+    stock_low: 192000
+    stock_high: 338000
+    bonus_pct: null
+    total_comp_low: 186000
+    total_comp_high: 260000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI DevOps Eng = Google L4 SRE = Meta Production Eng = Anthropic Infra Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)"
+---
 ### DevOps Engineer | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)

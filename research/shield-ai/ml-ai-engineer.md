@@ -1,3 +1,39 @@
+---
+company: shield-ai
+company_display: Shield Ai
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Diego, CA"
+    base_low: 160000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 270000
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 350000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 155000
+    base_high: 210000
+    stock_low: 100000
+    stock_high: 270000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Shield AI ML Eng = Google L4-L5 ML = Waymo Perception/Planning Eng -- with combat environment, GPS-denied, and edge constraints"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | Hivemind AI/Autonomous Perception & Planning | Startup Intensity"
+---
 ### ML/AI Engineer | Shield AI Global Negotiation Guide
 
 **Negotiation DNA:** Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | Hivemind AI/Autonomous Perception & Planning | Startup Intensity

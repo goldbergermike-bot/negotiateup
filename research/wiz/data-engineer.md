@@ -1,3 +1,38 @@
+---
+company: wiz
+company_display: Wiz
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 400000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 80000
+    total_comp_high: 192000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "As a Data Engineer at the $32B Hyperscaler Multicloud security leader, you build the data pipelines and infrastructure that process billions of cloud resources across every major Hyperscaler — the data backbone of Google Cloud's most strategic acquisition."
+---
 ### Data Engineer — Wiz (Google) Salary Negotiation Guide
 
 **Negotiation DNA**: As a Data Engineer at the $32B Hyperscaler Multicloud security leader, you build the data pipelines and infrastructure that process billions of cloud resources across every major Hyperscaler — the data backbone of Google Cloud's most strategic acquisition.

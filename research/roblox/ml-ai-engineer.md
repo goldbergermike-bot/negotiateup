@@ -1,3 +1,51 @@
+---
+company: roblox
+company_display: Roblox
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo
+    base_low: 195000
+    base_high: 255000
+    stock_low: 200000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 358000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 250000
+    stock_low: 190000
+    stock_high: 325000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 235000
+    stock_low: 175000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Roblox ML/AI Engineer (IC3-IC5) = Google ML Engineer L4-L6 = Meta ML Engineer = Amazon Applied Scientist = Apple ML Engineer = Microsoft ML Scientist = OpenAI Research Engineer
+data_sources:
+  - Roblox 4D Generative AI Foundation Model — Roblox AI Research Blog 2026
+  - Roblox Creator Economy — $1B+ Creator Payouts — Roblox 2025 10-K
+  - Roblox 80M+ DAU Immersive Platform — Roblox Q4 2025 Earnings
+  - 3D Generative AI Talent Market Analysis — AI Talent Report 2026
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM** | **+25-40% Agentic AI Premium Note**"
+---
 ### ML/AI Engineer | Roblox Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM** | **+25-40% Agentic AI Premium Note**

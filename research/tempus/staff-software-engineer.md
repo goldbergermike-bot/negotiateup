@@ -1,3 +1,49 @@
+---
+company: tempus
+company_display: Tempus
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago IL
+    base_low: 190000
+    base_high: 250000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 270000
+    total_comp_high: 400000
+    currency: USD
+  - region: Bay Area CA
+    base_low: 200000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 285000
+    total_comp_high: 420000
+    currency: USD
+  - region: Remote US
+    base_low: 180000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 250000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tempus Staff SWE = Google L5-L6 = Flatiron Staff = Microsoft Principal
+data_sources:
+  - Levels.fyi
+  - Hired
+negotiation_dna_summary: AI-Driven Precision Medicine / Growth-Stage / Equity Upside / Staff Technical Leadership
+---
 ### Staff Software Engineer | Tempus Global Negotiation Guide
 
 **Negotiation DNA:** AI-Driven Precision Medicine / Growth-Stage / Equity Upside / Staff Technical Leadership

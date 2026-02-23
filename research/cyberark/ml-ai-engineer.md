@@ -1,3 +1,45 @@
+---
+company: cyberark
+company_display: Cyberark
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newton MA
+    base_low: 155000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 20000
+    signing_bonus_high: 40000
+    total_comp_low: 275000
+    total_comp_high: 410000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 120000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 167000
+    total_comp_high: 268000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at CyberArk maps to E4–E5 (ML) in the Palo Alto Networks AI/ML engineering ladder, mid-to-senior IC ML engineer within the Identity Security AI team."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London"
+---
 ### ML/AI Engineer | CyberArk Global Negotiation Guide
 
 **Negotiation DNA:** CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London

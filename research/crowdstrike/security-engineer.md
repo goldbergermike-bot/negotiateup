@@ -1,3 +1,47 @@
+---
+company: crowdstrike
+company_display: CrowdStrike
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 355000
+    currency: USD
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 390000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 83000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Security Engineers at CrowdStrike build the detection logic, threat response capabilities, and security guardrails that form the core of the Agentic Security Platform, enabling Orchestrators of the Agentic SOC to operate safely while making autonomous security decisions at enterprise scale."
+---
 ### Security Engineer — CrowdStrike Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at CrowdStrike build the detection logic, threat response capabilities, and security guardrails that form the core of the Agentic Security Platform, enabling Orchestrators of the Agentic SOC to operate safely while making autonomous security decisions at enterprise scale.

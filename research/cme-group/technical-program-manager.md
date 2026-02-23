@@ -1,3 +1,51 @@
+---
+company: cme-group
+company_display: CME Group
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 138000
+    base_high: 185000
+    stock_low: 34000
+    stock_high: 62000
+    bonus_low: 23000
+    bonus_high: 35000
+    total_comp_low: 195000
+    total_comp_high: 282000
+    currency: USD
+  - region: New York
+    base_low: 149000
+    base_high: 200000
+    stock_low: 37000
+    stock_high: 67000
+    bonus_low: 25000
+    bonus_high: 38000
+    total_comp_low: 211000
+    total_comp_high: 305000
+    currency: USD
+  - region: London
+    base_low: 107000
+    base_high: 144000
+    stock_low: 26000
+    stock_high: 48000
+    bonus_low: 18000
+    bonus_high: 27000
+    total_comp_low: 151000
+    total_comp_high: 219000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Cross-Functional Delivery` `Exchange Program Execution` `Regulatory Coordination`"
+---
 ### Technical Program Manager | CME Group Global Negotiation Guide
 
 **Negotiation DNA:** `Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Cross-Functional Delivery` `Exchange Program Execution` `Regulatory Coordination`

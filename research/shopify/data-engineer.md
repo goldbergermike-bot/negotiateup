@@ -1,3 +1,48 @@
+---
+company: shopify
+company_display: Shopify
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 165000
+    base_high: 210000
+    stock_low: 145000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 315000
+    currency: CAD
+  - region: San Francisco
+    base_low: 182000
+    base_high: 228000
+    stock_low: 160000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 348000
+    currency: USD
+  - region: Remote US/Canada
+    base_low: 170000
+    base_high: 215000
+    stock_low: 150000
+    stock_high: 272000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shopify DE (L5-L7) = Google DE L4-L5 = Meta DE E4-E5 = Stripe DE = Databricks DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce Data Pipelines | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**"
+---
 ### Data Engineer | Shopify Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce Data Pipelines | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**

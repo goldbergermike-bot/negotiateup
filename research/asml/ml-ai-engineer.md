@@ -1,3 +1,49 @@
+---
+company: asml
+company_display: Asml
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 88000
+    base_high: 108000
+    stock_low: 25000
+    stock_high: 48000
+    bonus_pct: 12
+    total_comp_low: 88000
+    total_comp_high: 125000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 50000
+    stock_high: 80000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 315000
+    currency: USD
+  - region: San Jose
+    base_low: 165000
+    base_high: 225000
+    stock_low: 55000
+    stock_high: 85000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 315000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML ML/AI Engineer maps to Google L4–L5 ML Engineer, Meta ML Engineer IC4–IC5, Apple ML Engineer, Microsoft ML Engineer 62–65, and semiconductor industry Senior AI/ML Scientist."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +15-25% AI Premium"
+---
 ### ML/AI Engineer | ASML Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +15-25% AI Premium

@@ -1,3 +1,48 @@
+---
+company: hashicorp
+company_display: HashiCorp
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 345000
+    currency: USD
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 315000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 174000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Data Engineers at HashiCorp build the data pipelines and infrastructure that power Vault and Terraform telemetry at IBM scale — their Security by Default analytics infrastructure enables data-driven decisions across the IBM Software division.
+---
 ### Data Engineer — HashiCorp (IBM) Salary Negotiation Guide
 
 **Negotiation DNA**: Data Engineers at HashiCorp build the data pipelines and infrastructure that power Vault and Terraform telemetry at IBM scale — their Security by Default analytics infrastructure enables data-driven decisions across the IBM Software division.

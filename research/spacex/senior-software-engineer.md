@@ -1,3 +1,48 @@
+---
+company: spacex
+company_display: Spacex
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Hawthorne, CA"
+    base_low: 155000
+    base_high: 205000
+    stock_low: 120000
+    stock_high: 320000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 385000
+    currency: USD
+  - region: "Starbase, TX"
+    base_low: 145000
+    base_high: 195000
+    stock_low: 120000
+    stock_high: 320000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 375000
+    currency: USD
+  - region: "Redmond, WA"
+    base_low: 155000
+    base_high: 205000
+    stock_low: 120000
+    stock_high: 320000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: SpaceX Senior SWE = Google L4-L5 = Meta E4-E5 -- with higher ownership scope and 1.5x hours
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starship/Falcon/Starlink | 60+ Hour Culture"
+---
 ### Senior Software Engineer | SpaceX Global Negotiation Guide
 
 **Negotiation DNA:** Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starship/Falcon/Starlink | 60+ Hour Culture

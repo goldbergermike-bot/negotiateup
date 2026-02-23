@@ -1,3 +1,50 @@
+---
+company: sambanova
+company_display: Sambanova
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 150000
+    base_high: 195000
+    stock_low: 30000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 272000
+    currency: USD
+  - region: Austin
+    base_low: 135000
+    base_high: 175000
+    stock_low: 25000
+    stock_high: 44000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 168000
+    stock_low: 22000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 230000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SambaNova Security Engineer ~ Google Security Engineer (L4–L5) | Meta Security Engineer (IC4–IC5) | Amazon Security Engineer II–III | Apple Security | Microsoft Security Engineer (62–64)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +22% Agentic Orchestrator Premium"
+---
 ### Security Engineer | SambaNova Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +22% Agentic Orchestrator Premium

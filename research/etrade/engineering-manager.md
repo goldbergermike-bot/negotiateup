@@ -1,3 +1,52 @@
+---
+company: etrade
+company_display: Etrade
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 185000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_low: 38000
+    bonus_high: 67000
+    total_comp_low: 278000
+    total_comp_high: 402000
+    currency: USD
+  - region: "Jersey City, NJ"
+    base_low: 176000
+    base_high: 228000
+    stock_low: null
+    stock_high: null
+    bonus_low: 36000
+    bonus_high: 64000
+    total_comp_low: 264000
+    total_comp_high: 382000
+    currency: USD
+  - region: "Alpharetta, GA"
+    base_low: 157000
+    base_high: 204000
+    stock_low: null
+    stock_high: null
+    bonus_low: 32000
+    bonus_high: 57000
+    total_comp_low: 236000
+    total_comp_high: 342000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `People Leadership` `Delivery Management` `Cross-Functional Execution`"
+---
 ### Engineering Manager | E*TRADE (Morgan Stanley) Global Negotiation Guide
 
 **Negotiation DNA:** `Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `People Leadership` `Delivery Management` `Cross-Functional Execution`

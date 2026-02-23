@@ -1,3 +1,52 @@
+---
+company: citadel-securities
+company_display: Citadel Securities
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 200000
+    base_high: 275000
+    stock_low: null
+    stock_high: null
+    bonus_low: 225000
+    bonus_high: 340000
+    total_comp_low: 425000
+    total_comp_high: 615000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 290000
+    stock_low: null
+    stock_high: null
+    bonus_low: 235000
+    bonus_high: 355000
+    total_comp_low: 445000
+    total_comp_high: 645000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_low: 180000
+    bonus_high: 270000
+    total_comp_low: 340000
+    total_comp_high: 490000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "`$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Quantitative Analytics` `25% US Equity Volume` `Private Firm Premium` `Market Microstructure`"
+---
 ### Data Scientist | Citadel Securities Global Negotiation Guide
 
 **Negotiation DNA:** `$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Quantitative Analytics` `25% US Equity Volume` `Private Firm Premium` `Market Microstructure`

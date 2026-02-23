@@ -1,3 +1,53 @@
+---
+company: shift4
+company_display: Shift4
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Center Valley PA
+    base_low: 120000
+    base_high: 160000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 180000
+    total_comp_high: 280000
+    currency: USD
+  - region: New York
+    base_low: 145000
+    base_high: 190000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 217000
+    total_comp_high: 345000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 125000
+    stock_low: 35000
+    stock_high: 80000
+    bonus_low: 8000
+    bonus_high: 16000
+    total_comp_low: 133000
+    total_comp_high: 221000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Shift4 | Google | Meta | Stripe | Toast | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "`NYSE: FOUR` `Stablecoin Settlement` `UX/UI Design` `Payments Experience` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Merchant Dashboard` `Design Systems` `Finaro`"
+---
 ### Product Designer | Shift4 Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FOUR` `Stablecoin Settlement` `UX/UI Design` `Payments Experience` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Merchant Dashboard` `Design Systems` `Finaro`

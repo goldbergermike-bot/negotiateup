@@ -1,3 +1,50 @@
+---
+company: apple
+company_display: Apple
+role: apple-intelligence-engineer
+role_display: Apple Intelligence Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 185000
+    base_high: 270000
+    stock_low: 200000
+    stock_high: 550000
+    bonus_pct: 5
+    total_comp_low: 280000
+    total_comp_high: 480000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 170000
+    base_high: 255000
+    stock_low: 180000
+    stock_high: 500000
+    bonus_pct: 5
+    total_comp_low: 255000
+    total_comp_high: 445000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 175000
+    base_high: 260000
+    stock_low: 190000
+    stock_high: 520000
+    bonus_pct: 5
+    total_comp_low: 265000
+    total_comp_high: 455000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple ICT3 = Google L4, Meta E4, Amazon L5 | Apple ICT4 = Google L5, Meta E5, Amazon L6 | Apple ICT5 = Google L6, Meta E6, Amazon L7"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Top-of-market AI/ML base + aggressive RSU grants on Apple's flagship AI platform | Apple positions as the defining on-device AI experience | **APPLE INTELLIGENCE PREMIUM: +15-25% above standard SWE comp**"
+---
 ### Apple Intelligence Engineer | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Top-of-market AI/ML base + aggressive RSU grants on Apple's flagship AI platform | Apple positions as the defining on-device AI experience | **APPLE INTELLIGENCE PREMIUM: +15-25% above standard SWE comp**

@@ -1,3 +1,49 @@
+---
+company: tenstorrent
+company_display: Tenstorrent
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 155000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 338000
+    currency: CAD
+  - region: Austin
+    base_low: 148000
+    base_high: 198000
+    stock_low: 45000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 310000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 192000
+    stock_low: 42000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 298000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Tenstorrent Senior SWE ~ Google L5 | Meta E5 | Apple ICT4 | AMD SMTS | Intel Grade 8–9 | NVIDIA IC3"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "[Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | +10% Senior Premium"
+---
 ### Senior Software Engineer | Tenstorrent Global Negotiation Guide
 
 **Negotiation DNA:** [Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | +10% Senior Premium

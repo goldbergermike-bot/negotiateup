@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: ai-automation-engineer
+role_display: AI Automation Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 165000
+    base_high: 228000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 335000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 145000
+    base_high: 202000
+    stock_low: 58000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 290000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 55000
+    base_high: 88000
+    stock_low: 22000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 72000
+    total_comp_high: 118000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 78000
+    base_high: 118000
+    stock_low: 32000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 102000
+    total_comp_high: 168000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2400000
+    base_high: 4800000
+    stock_low: 1200000
+    stock_high: 3500000
+    bonus_pct: 10
+    total_comp_low: 3200000
+    total_comp_high: 6500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath IC3/IC4 (AI) ~ Microsoft 63/64 AI | Google L5/L6 | Salesforce Einstein Senior/Lead | Automation Anywhere Staff"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "RPA & intelligent automation specialist | AI-powered process automation & agentic AI | **AI AUTOMATION PREMIUM**"
+---
 ### AI Automation Engineer | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** RPA & intelligent automation specialist | AI-powered process automation & agentic AI | **AI AUTOMATION PREMIUM**

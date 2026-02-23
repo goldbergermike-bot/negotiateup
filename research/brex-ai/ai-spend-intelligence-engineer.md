@@ -1,3 +1,51 @@
+---
+company: brex-ai
+company_display: Brex AI
+role: ai-spend-intelligence-engineer
+role_display: AI Spend Intelligence Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 198000
+    base_high: 258000
+    stock_low: 270000
+    stock_high: 450000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 385000
+    currency: USD
+  - region: New York
+    base_low: 193000
+    base_high: 252000
+    stock_low: 260000
+    stock_high: 435000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 375000
+    currency: USD
+  - region: Remote (US)
+    base_low: 180000
+    base_high: 238000
+    stock_low: 238000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex AI Spend Eng (Senior) = Google L4-L5 ML = Stripe L3-L4 ML = Ramp Senior ML
+data_sources:
+  - Brex AI Spend Intelligence Platform — Product Strategy 2026
+  - "Brex Pre-IPO Valuation & Equity Benchmarks 2026"
+  - AI Spend Management Engineering — Market Comp Report 2026
+  - Enterprise ML Intelligence — Competitive Differentiation Trends
+negotiation_dna_summary: "Equity-Heavy / Late-Stage Private | **SIGNATURE ROLE** | **+15–30% AI SPEND PREMIUM**"
+---
 ### AI Spend Intelligence Engineer | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Late-Stage Private | **SIGNATURE ROLE** | **+15–30% AI SPEND PREMIUM**

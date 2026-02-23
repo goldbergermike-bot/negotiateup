@@ -1,3 +1,49 @@
+---
+company: twilio
+company_display: Twilio
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Francisco, CA (HQ)"
+    base_low: 140000
+    base_high: 190000
+    stock_low: 80000
+    stock_high: 180000
+    bonus_pct: 5
+    total_comp_low: 180000
+    total_comp_high: 270000
+    currency: USD
+  - region: "Denver, CO"
+    base_low: 125000
+    base_high: 175000
+    stock_low: 65000
+    stock_high: 150000
+    bonus_pct: 5
+    total_comp_low: 160000
+    total_comp_high: 240000
+    currency: USD
+  - region: "London, UK"
+    base_low: 85000
+    base_high: 125000
+    stock_low: 50000
+    stock_high: 115000
+    bonus_pct: 5
+    total_comp_low: 110000
+    total_comp_high: 180000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Twilio D2 (Product Designer) = Google L4 UX = Meta IC4 Design = Datadog D2 = Cloudflare D2
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Developer experience design premium | CustomerAI console & API design in 2026"
+---
 ### Product Designer | Twilio Global Negotiation Guide
 
 **Negotiation DNA:** Developer experience design premium | CustomerAI console & API design in 2026

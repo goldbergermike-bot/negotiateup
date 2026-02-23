@@ -1,3 +1,42 @@
+---
+company: bridgewater-associates
+company_display: Bridgewater Associates
+role: systematic-investment-engineer
+role_display: Systematic Investment Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westport, CT (HQ)"
+    base_low: 200000
+    base_high: 280000
+    stock_low: null
+    stock_high: null
+    bonus_low: 200000
+    bonus_high: 700000
+    total_comp_low: 400000
+    total_comp_high: 980000
+    currency: USD
+  - region: New York City
+    base_low: 210000
+    base_high: 290000
+    stock_low: null
+    stock_high: null
+    bonus_low: 210000
+    bonus_high: 725000
+    total_comp_low: 420000
+    total_comp_high: 1015000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Systematic Investment Engineer at Bridgewater = L5/L6 Software Engineer at Google, E5/E6 at Meta, SDE II/SDE III at Amazon (with quant premium)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Core investment-technology hybrid role building systematic trading strategies | Bridgewater's signature role blending quantitative research with production engineering | **ELITE QUANT FUND PREMIUM**"
+---
 ### Systematic Investment Engineer | Bridgewater Associates Global Negotiation Guide
 
 **Negotiation DNA:** ~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Core investment-technology hybrid role building systematic trading strategies | Bridgewater's signature role blending quantitative research with production engineering | **ELITE QUANT FUND PREMIUM**

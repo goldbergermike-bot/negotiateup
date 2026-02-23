@@ -1,3 +1,48 @@
+---
+company: freshworks
+company_display: Freshworks
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 300000
+    currency: USD
+  - region: India
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 28000
+    total_comp_high: 120000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 45000
+    total_comp_high: 132000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "DevOps Engineers at Freshworks build and maintain the infrastructure that serves the $5B integrated SaaS suite to 67,000+ customers globally — managing multi-product deployments across US, India, and European data centers."
+---
 ### DevOps Engineer — Freshworks Salary Negotiation Guide
 
 **Negotiation DNA**: DevOps Engineers at Freshworks build and maintain the infrastructure that serves the $5B integrated SaaS suite to 67,000+ customers globally — managing multi-product deployments across US, India, and European data centers.

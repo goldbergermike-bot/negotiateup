@@ -1,3 +1,50 @@
+---
+company: point72
+company_display: Point72
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stamford CT (HQ)
+    base_low: 195000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_low: 170000
+    bonus_high: 265000
+    total_comp_low: 365000
+    total_comp_high: 525000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 270000
+    stock_low: null
+    stock_high: null
+    bonus_low: 180000
+    bonus_high: 275000
+    total_comp_low: 380000
+    total_comp_high: 545000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 325000
+    total_comp_high: 475000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`IAC Team` `Researcher Premium` `$466K+ L3` `Trading Platform Architecture` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`"
+---
 ### Solutions Architect | Point72 Global Negotiation Guide
 
 **Negotiation DNA:** `IAC Team` `Researcher Premium` `$466K+ L3` `Trading Platform Architecture` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`

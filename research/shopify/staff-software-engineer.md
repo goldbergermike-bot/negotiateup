@@ -1,3 +1,48 @@
+---
+company: shopify
+company_display: Shopify
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 225000
+    base_high: 285000
+    stock_low: 278000
+    stock_high: 498000
+    bonus_pct: 15
+    total_comp_low: 358000
+    total_comp_high: 495000
+    currency: CAD
+  - region: San Francisco
+    base_low: 242000
+    base_high: 302000
+    stock_low: 312000
+    stock_high: 548000
+    bonus_pct: 15
+    total_comp_low: 382000
+    total_comp_high: 518000
+    currency: USD
+  - region: Remote US/Canada
+    base_low: 228000
+    base_high: 285000
+    stock_low: 292000
+    stock_high: 515000
+    bonus_pct: 15
+    total_comp_low: 358000
+    total_comp_high: 488000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shopify Staff SWE (L8) = Stripe IC4 = Square Staff SWE = Google L6 Commerce = Meta E6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce Assistant | $100B+ Market Cap | 4.6M+ Merchants | +15–25% Staff Premium | **SIDEKICK AI PREMIUM**"
+---
 ### Staff Software Engineer | Shopify Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce Assistant | $100B+ Market Cap | 4.6M+ Merchants | +15–25% Staff Premium | **SIDEKICK AI PREMIUM**

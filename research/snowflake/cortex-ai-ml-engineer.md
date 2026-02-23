@@ -1,3 +1,52 @@
+---
+company: snowflake
+company_display: Snowflake
+role: cortex-ai-ml-engineer
+role_display: Cortex AI / Arctic ML Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bozeman
+    base_low: 220000
+    base_high: 280000
+    stock_low: 380000
+    stock_high: 640000
+    bonus_pct: null
+    total_comp_low: 315000
+    total_comp_high: 440000
+    currency: USD
+  - region: Seattle
+    base_low: 215000
+    base_high: 275000
+    stock_low: 360000
+    stock_high: 610000
+    bonus_pct: null
+    total_comp_low: 305000
+    total_comp_high: 428000
+    currency: USD
+  - region: Warsaw
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snowflake Cortex/Arctic Eng (Senior) = Databricks Mosaic ML Eng = Google L4-L5 ML = Meta FAIR Senior
+data_sources:
+  - "Snowflake Cortex AI — Product Architecture, Snowflake Summit 2025"
+  - Arctic LLM — Open-Source Enterprise Model Family
+  - "Sridhar Ramaswamy on Cortex AI — CEO Vision, Investor Day 2025"
+  - Databricks Mosaic ML Acquisition — $1.3B Comparable
+  - Multi-Cloud AI Serving — Snowflake Engineering Blog 2025
+negotiation_dna_summary: "Equity-Heavy / No Bonus | **SIGNATURE ROLE** | **+20–35% AGENTIC AI PREMIUM**"
+---
 ### Cortex AI / Arctic ML Engineer | Snowflake Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | **SIGNATURE ROLE** | **+20–35% AGENTIC AI PREMIUM**

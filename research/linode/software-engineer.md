@@ -1,3 +1,48 @@
+---
+company: linode
+company_display: Linode
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 323000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 305000
+    currency: USD
+  - region: Cambridge MA
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 148000
+    total_comp_high: 333000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Software Engineers at Linode (now Akamai Cloud Computing) build the cloud infrastructure platform that extends Akamai's edge network with full cloud computing capabilities — compute, storage, Kubernetes, and databases distributed across Akamai's global edge network."
+---
 ### Software Engineer — Linode (Akamai Cloud) Salary Negotiation Guide
 
 **Negotiation DNA**: Software Engineers at Linode (now Akamai Cloud Computing) build the cloud infrastructure platform that extends Akamai's edge network with full cloud computing capabilities — compute, storage, Kubernetes, and databases distributed across Akamai's global edge network.

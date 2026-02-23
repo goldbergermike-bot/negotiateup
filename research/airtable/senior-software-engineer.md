@@ -1,3 +1,50 @@
+---
+company: airtable
+company_display: Airtable
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 190000
+    base_high: 245000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 5
+    total_comp_low: 255000
+    total_comp_high: 355000
+    currency: USD
+  - region: NYC / Austin
+    base_low: 180000
+    base_high: 235000
+    stock_low: 138000
+    stock_high: 258000
+    bonus_pct: 5
+    total_comp_low: 240000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: 145000
+    base_high: 187000
+    stock_low: 114000
+    stock_high: 213000
+    bonus_pct: 5
+    total_comp_low: 194000
+    total_comp_high: 270000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airtable Senior SWE = Google L5 = Meta E5 = Notion Senior SWE = Monday.com Senior SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push"
+---
 ### Senior Software Engineer | Airtable Global Negotiation Guide
 
 **Negotiation DNA:** No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push

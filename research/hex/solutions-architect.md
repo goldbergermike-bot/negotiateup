@@ -1,3 +1,50 @@
+---
+company: hex
+company_display: Hex
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 210000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 330000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 205000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 323000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 158000
+    stock_low: 75000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 168000
+    total_comp_high: 248000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Hex Solutions Architect = Snowflake Solutions Architect = Databricks Solutions Architect = Google Customer Engineer = Fivetran Solutions Architect
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Growth-Stage Equity + Sales Bonus | Data Analytics Platform Pioneer | 2026 Focus: Enterprise AI Analytics Adoption"
+---
 ### Solutions Architect | Hex Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Growth-Stage Equity + Sales Bonus | Data Analytics Platform Pioneer | 2026 Focus: Enterprise AI Analytics Adoption

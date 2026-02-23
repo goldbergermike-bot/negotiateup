@@ -1,3 +1,48 @@
+---
+company: airwallex
+company_display: Airwallex
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Melbourne (AUD)
+    base_low: 150000
+    base_high: 195000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 355000
+    currency: AUD
+  - region: San Francisco (USD)
+    base_low: 185000
+    base_high: 230000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 285000
+    total_comp_high: 430000
+    currency: USD
+  - region: London (GBP)
+    base_low: 90000
+    base_high: 125000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a senior software engineering compensation framework spanning Melbourne, San Francisco, and London markets. As a Senior Software Engineer, you own critical subsystems in the cross-border payments stack — your technical decisions directly determine whether Airwallex passes regulatory audits and unlocks new market corridors."
+---
 ### Senior Software Engineer — Airwallex Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a senior software engineering compensation framework spanning Melbourne, San Francisco, and London markets. As a Senior Software Engineer, you own critical subsystems in the cross-border payments stack — your technical decisions directly determine whether Airwallex passes regulatory audits and unlocks new market corridors.

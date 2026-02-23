@@ -1,3 +1,48 @@
+---
+company: nium
+company_display: Nium
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 100000
+    base_high: 165000
+    stock_low: 50000
+    stock_high: 110000
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 275000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 70000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 380000
+    currency: USD
+  - region: London (GBP)
+    base_low: 65000
+    base_high: 110000
+    stock_low: 35000
+    stock_high: 75000
+    bonus_pct: null
+    total_comp_low: 100000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a DevOps engineering compensation framework spanning Singapore, San Francisco, and London markets. As a DevOps Engineer at Nium, you are the operational backbone of the Reimagined Infrastructure — building CI/CD pipelines, managing cloud infrastructure, ensuring five-nines availability for global payment processing, and enabling engineering velocity across a rapidly scaling organizat"
+---
 ### DevOps Engineer — Nium Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a DevOps engineering compensation framework spanning Singapore, San Francisco, and London markets. As a DevOps Engineer at Nium, you are the operational backbone of the Reimagined Infrastructure — building CI/CD pipelines, managing cloud infrastructure, ensuring five-nines availability for global payment processing, and enabling engineering velocity across a rapidly scaling organization.

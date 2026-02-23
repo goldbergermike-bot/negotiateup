@@ -1,3 +1,50 @@
+---
+company: adept-ai
+company_display: Adept AI
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 220000
+    stock_low: 85000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 186000
+    total_comp_high: 280000
+    currency: USD
+  - region: Seattle
+    base_low: 160000
+    base_high: 213000
+    stock_low: 85000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 181000
+    total_comp_high: 273000
+    currency: USD
+  - region: Remote US
+    base_low: 149000
+    base_high: 198000
+    stock_low: 77000
+    stock_high: 216000
+    bonus_pct: null
+    total_comp_low: 168000
+    total_comp_high: 252000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Adept SA = Amazon Solutions Architect III = Google CE L4-L5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | Enterprise Agent Deployment"
+---
 ### Solutions Architect | Adept AI Global Negotiation Guide
 
 **Negotiation DNA:** Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | Enterprise Agent Deployment

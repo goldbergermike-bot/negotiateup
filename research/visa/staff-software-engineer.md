@@ -1,3 +1,54 @@
+---
+company: visa
+company_display: Visa
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Foster City
+    base_low: 230000
+    base_high: 290000
+    stock_low: 280000
+    stock_high: 450000
+    bonus_low: 45000
+    bonus_high: 75000
+    total_comp_low: 555000
+    total_comp_high: 815000
+    currency: USD
+  - region: New York
+    base_low: 245000
+    base_high: 310000
+    stock_low: 300000
+    stock_high: 480000
+    bonus_low: 48000
+    bonus_high: 80000
+    total_comp_low: 593000
+    total_comp_high: 870000
+    currency: USD
+  - region: London
+    base_low: 140000
+    base_high: 180000
+    stock_low: 160000
+    stock_high: 260000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 328000
+    total_comp_high: 488000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Visa | Google | Meta | Stripe | JPMorgan | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Infrastructure` `Staff IC` `VisaNet` `4B+ Cards` `200+ Countries` `Technical Leadership` `System Architecture`"
+---
 ### Staff Software Engineer | Visa Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Infrastructure` `Staff IC` `VisaNet` `4B+ Cards` `200+ Countries` `Technical Leadership` `System Architecture`

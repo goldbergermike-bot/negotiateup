@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 58000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 290000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 135000
+    base_high: 190000
+    stock_low: 45000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 252000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 68000
+    base_high: 108000
+    stock_low: 22000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 85000
+    total_comp_high: 142000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 2200000
+    base_high: 4200000
+    stock_low: 1000000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 2800000
+    total_comp_high: 5600000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 118000
+    base_high: 172000
+    stock_low: 38000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 142000
+    total_comp_high: 225000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora IC3/IC4 (ML) ~ Chargebee Senior/Staff ML | Stripe ML | Salesforce Einstein Senior | Recurly Lead ML"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Subscription intelligence & predictive billing specialist | AI-powered revenue optimization | **AI/ML PREMIUM**"
+---
 ### ML/AI Engineer | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Subscription intelligence & predictive billing specialist | AI-powered revenue optimization | **AI/ML PREMIUM**

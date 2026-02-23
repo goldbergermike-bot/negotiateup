@@ -1,3 +1,50 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 175000
+    base_high: 225000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 340000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 165000
+    base_high: 215000
+    stock_low: 128000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 318000
+    currency: USD
+  - region: London / Berlin
+    base_low: 133000
+    base_high: 171000
+    stock_low: 106000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 179000
+    total_comp_high: 259000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs PM = Google L5 PM = Meta IC5 PM = Datadog Senior PM = Elastic Senior PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside"
+---
 ### Product Manager | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside

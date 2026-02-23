@@ -1,3 +1,52 @@
+---
+company: monzo
+company_display: Monzo
+role: occ-expansion-platform-engineer
+role_display: OCC Expansion Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 92000
+    base_high: 135000
+    stock_low: 18000
+    stock_high: 27000
+    bonus_low: 10000
+    bonus_high: 13000
+    total_comp_low: 120000
+    total_comp_high: 175000
+    currency: GBP
+  - region: Remote UK
+    base_low: 87000
+    base_high: 128000
+    stock_low: 17000
+    stock_high: 25000
+    bonus_low: 10000
+    bonus_high: 12000
+    total_comp_low: 114000
+    total_comp_high: 165000
+    currency: GBP
+  - region: Remote US
+    base_low: 146000
+    base_high: 215000
+    stock_low: 29000
+    stock_high: 43000
+    bonus_low: 16000
+    bonus_high: 21000
+    total_comp_low: 190000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Crunchbase
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `SIGNATURE ROLE` `Dual-Regulated Banking Platform` `Greenfield US Infrastructure` `+25-35% US Expansion Premium`"
+---
 ### OCC Expansion Platform Engineer | Monzo Global Negotiation Guide
 
 **SIGNATURE ROLE**

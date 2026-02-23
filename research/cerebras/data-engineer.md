@@ -1,3 +1,51 @@
+---
+company: cerebras
+company_display: Cerebras
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 182000
+    base_high: 228000
+    stock_low: 158000
+    stock_high: 282000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 322000
+    currency: USD
+  - region: San Diego
+    base_low: 178000
+    base_high: 225000
+    stock_low: 158000
+    stock_high: 282000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 318000
+    currency: USD
+  - region: Remote US
+    base_low: 172000
+    base_high: 218000
+    stock_low: 158000
+    stock_high: 282000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 312000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cerebras Data Eng (IC2-IC3) = Google L4-L5 DE = NVIDIA Data Eng = Meta Data Eng = Groq Data Eng
+data_sources:
+  - Cerebras Q2 2026 IPO Timeline — S-1 Data Infrastructure
+  - Cerebras $10B OpenAI Deal — Revenue Data Tracking
+  - Cerebras Wafer-Scale Telemetry — Data Engineering
+  - Cerebras DE Comp — Private Market 2025
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal"
+---
 ### Data Engineer | Cerebras Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal

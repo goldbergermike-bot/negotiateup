@@ -1,3 +1,48 @@
+---
+company: airwallex
+company_display: Airwallex
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Melbourne (AUD)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 65000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 350000
+    currency: AUD
+  - region: San Francisco (USD)
+    base_low: 185000
+    base_high: 245000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 415000
+    currency: USD
+  - region: London (GBP)
+    base_low: 90000
+    base_high: 130000
+    stock_low: 40000
+    stock_high: 85000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 215000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a technical program management compensation framework spanning Melbourne, San Francisco, and London markets. As a Technical Program Manager at Airwallex, you orchestrate the delivery of cross-functional programs that span engineering, compliance, legal, and business teams — your coordination ensures that complex payment system initiatives ship on time, on spec, an"
+---
 ### Technical Program Manager — Airwallex Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a technical program management compensation framework spanning Melbourne, San Francisco, and London markets. As a Technical Program Manager at Airwallex, you orchestrate the delivery of cross-functional programs that span engineering, compliance, legal, and business teams — your coordination ensures that complex payment system initiatives ship on time, on spec, and within regulatory requirements.

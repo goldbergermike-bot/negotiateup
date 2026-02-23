@@ -1,3 +1,49 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 208000
+    base_high: 265000
+    stock_low: 220000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 305000
+    total_comp_high: 425000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 195000
+    base_high: 250000
+    stock_low: 200000
+    stock_high: 368000
+    bonus_pct: 10
+    total_comp_low: 285000
+    total_comp_high: 398000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 158000
+    base_high: 202000
+    stock_low: 167000
+    stock_high: 304000
+    bonus_pct: 10
+    total_comp_low: 233000
+    total_comp_high: 324000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic EM = Google L6 EM = Meta M1 = CrowdStrike EM = Palo Alto EM = Splunk EM
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity"
+---
 ### Engineering Manager | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity

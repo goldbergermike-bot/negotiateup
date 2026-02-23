@@ -1,3 +1,48 @@
+---
+company: intel
+company_display: Intel
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 130000
+    base_high: 170000
+    stock_low: 50000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: USD
+  - region: Portland
+    base_low: 122000
+    base_high: 160000
+    stock_low: 42000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 225000
+    currency: USD
+  - region: Phoenix
+    base_low: 115000
+    base_high: 150000
+    stock_low: 38000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 208000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Intel Data Engineer (Grade 7-8) = AMD Data Engineer = NVIDIA Data Engineer = Google L4 Data Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + INTC RSUs (4yr vest) + Bonus (10-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages"
+---
 ### Data Engineer | Intel Global Negotiation Guide
 
 **Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (10-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages

@@ -1,3 +1,48 @@
+---
+company: nvidia
+company_display: Nvidia
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 202000
+    base_high: 252000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 368000
+    currency: USD
+  - region: Seattle
+    base_low: 198000
+    base_high: 248000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 365000
+    currency: USD
+  - region: Remote US
+    base_low: 192000
+    base_high: 242000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 358000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: NVIDIA SA (IC3) = Google Cloud SA = AWS SA = Azure SA = AMD SA = Intel SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule"
+---
 ### Solutions Architect | NVIDIA Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule

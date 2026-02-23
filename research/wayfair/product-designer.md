@@ -1,3 +1,48 @@
+---
+company: wayfair
+company_display: Wayfair
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 118000
+    base_high: 155000
+    stock_low: 30000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: USD
+  - region: New York
+    base_low: 124000
+    base_high: 163000
+    stock_low: 32000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+  - region: Remote US
+    base_low: 106000
+    base_high: 140000
+    stock_low: 25000
+    stock_high: 44000
+    bonus_pct: 10
+    total_comp_low: 133000
+    total_comp_high: 185000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Wayfair Product Designer = Google UX Designer L4-L5 = Amazon UX Designer (Sr.) = Meta Product Designer (IC4-IC5) = Apple Design
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Design Complexity Premium"
+---
 ### Product Designer | Wayfair Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Design Complexity Premium

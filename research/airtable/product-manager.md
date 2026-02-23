@@ -1,3 +1,50 @@
+---
+company: airtable
+company_display: Airtable
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 172000
+    base_high: 222000
+    stock_low: 128000
+    stock_high: 242000
+    bonus_pct: 10
+    total_comp_low: 230000
+    total_comp_high: 325000
+    currency: USD
+  - region: NYC / Austin
+    base_low: 162000
+    base_high: 212000
+    stock_low: 118000
+    stock_high: 223000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 305000
+    currency: USD
+  - region: London
+    base_low: 131000
+    base_high: 169000
+    stock_low: 97000
+    stock_high: 184000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 248000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airtable PM = Google L5 PM = Meta IC5 PM = Notion Senior PM = Monday.com Senior PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push"
+---
 ### Product Manager | Airtable Global Negotiation Guide
 
 **Negotiation DNA:** No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push

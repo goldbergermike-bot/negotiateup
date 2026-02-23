@@ -1,3 +1,48 @@
+---
+company: shopify
+company_display: Shopify
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 165000
+    base_high: 212000
+    stock_low: 145000
+    stock_high: 258000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 318000
+    currency: CAD
+  - region: San Francisco
+    base_low: 182000
+    base_high: 232000
+    stock_low: 162000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 348000
+    currency: USD
+  - region: Remote US/Canada
+    base_low: 172000
+    base_high: 218000
+    stock_low: 152000
+    stock_high: 272000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 328000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shopify TPM (L6-L8) = Google TPM L5-L6 = Meta TPM E5-E6 = Stripe TPM = Amazon TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Program Delivery | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**"
+---
 ### Technical Program Manager | Shopify Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Program Delivery | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**

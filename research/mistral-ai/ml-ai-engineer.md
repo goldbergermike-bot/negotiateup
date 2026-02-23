@@ -1,3 +1,48 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 95000
+    base_high: 130000
+    stock_low: 200000
+    stock_high: 375000
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 224000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 184000
+    stock_high: 345000
+    bonus_pct: null
+    total_comp_low: 134000
+    total_comp_high: 206000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 200000
+    stock_high: 375000
+    bonus_pct: null
+    total_comp_low: 136000
+    total_comp_high: 211000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Mistral ML/AI Engineer = Google ML Engineer L4-L5 Paris = Meta FAIR Research Engineer = DeepMind Research Engineer = Anthropic ML Engineer. Google ML Engineer L5 Paris total comp ranges €180K-€280K; Meta FAIR Research Engineer ranges €160K-€250K. The Agentic AI Premium pushes Mistral ML/AI engineer comp to the top of European ranges.
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium | **+20-35% AGENTIC AI PREMIUM**"
+---
 ### ML/AI Engineer | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium | **+20-35% AGENTIC AI PREMIUM**

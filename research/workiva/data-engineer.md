@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 115000
+    base_high: 160000
+    stock_low: 32000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 205000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 130000
+    base_high: 178000
+    stock_low: 40000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 238000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 55000
+    base_high: 85000
+    stock_low: 15000
+    stock_high: 45000
+    bonus_pct: 10
+    total_comp_low: 65000
+    total_comp_high: 108000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 98000
+    base_high: 138000
+    stock_low: 24000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 112000
+    total_comp_high: 175000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 1500000
+    base_high: 2800000
+    stock_low: 600000
+    stock_high: 1800000
+    bonus_pct: 10
+    total_comp_low: 2000000
+    total_comp_high: 3600000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva IC2/IC3 ~ Intuit Senior | ServiceNow Senior | Oracle Senior | Splunk Senior"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Regulatory data pipeline architect | Compliance analytics & connected data infrastructure | **DATA PLATFORM PREMIUM**"
+---
 ### Data Engineer | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** Regulatory data pipeline architect | Compliance analytics & connected data infrastructure | **DATA PLATFORM PREMIUM**

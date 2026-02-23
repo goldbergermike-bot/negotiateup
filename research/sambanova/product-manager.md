@@ -1,3 +1,50 @@
+---
+company: sambanova
+company_display: Sambanova
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 158000
+    base_high: 205000
+    stock_low: 32000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 285000
+    currency: USD
+  - region: Austin
+    base_low: 142000
+    base_high: 185000
+    stock_low: 26000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 178000
+    stock_low: 24000
+    stock_high: 45000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SambaNova PM ~ Google PM (L5–L6) | Meta PM (IC5) | Amazon Sr. PM | Apple PM | Microsoft PM (63–65)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +20% Agentic Orchestrator Premium"
+---
 ### Product Manager | SambaNova Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +20% Agentic Orchestrator Premium

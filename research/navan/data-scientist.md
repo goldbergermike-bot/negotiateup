@@ -1,3 +1,53 @@
+---
+company: navan
+company_display: Navan
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 225000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 15000
+    bonus_high: 35000
+    total_comp_low: 230000
+    total_comp_high: 360000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 220000
+    stock_low: 48000
+    stock_high: 95000
+    bonus_low: 14000
+    bonus_high: 32000
+    total_comp_low: 222000
+    total_comp_high: 347000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 140000
+    stock_low: 32000
+    stock_high: 62000
+    bonus_low: 9000
+    bonus_high: 22000
+    total_comp_low: 141000
+    total_comp_high: 224000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Navan | Google | Meta | Stripe | Brex | Airbnb |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `Analytics & ML`"
+---
 ### Data Scientist | Navan Global Negotiation Guide
 
 **Negotiation DNA:** `Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `Analytics & ML`

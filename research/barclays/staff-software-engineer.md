@@ -1,3 +1,49 @@
+---
+company: barclays
+company_display: Barclays
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 165000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 232000
+    total_comp_high: 370000
+    currency: USD
+  - region: London (HQ)
+    base_low: 112000
+    base_high: 160000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 158000
+    total_comp_high: 268000
+    currency: GBP
+  - region: Glasgow
+    base_low: 90000
+    base_high: 130000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 125000
+    total_comp_high: 208000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Staff SWE at Barclays (SVP/Director) = L6 at Google, E6 at Meta, Principal at Amazon, SVP/Director at BofA, SVP/ED at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GBP35B market cap UK bank + Staff-level sets technical direction across UK/global banking + London/NYC dual hub + Competitive in quant/tech | Barclays Staff SWEs drive platform strategy | **UK BANKING TECHNICAL LEADERSHIP PREMIUM**"
+---
 ### Staff Software Engineer | Barclays Global Negotiation Guide
 
 **Negotiation DNA:** GBP35B market cap UK bank + Staff-level sets technical direction across UK/global banking + London/NYC dual hub + Competitive in quant/tech | Barclays Staff SWEs drive platform strategy | **UK BANKING TECHNICAL LEADERSHIP PREMIUM**

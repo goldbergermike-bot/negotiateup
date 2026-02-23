@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 208000
+    stock_low: 95000
+    stock_high: 175000
+    bonus_pct: 12
+    total_comp_low: 220000
+    total_comp_high: 290000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 200000
+    stock_low: 90000
+    stock_high: 168000
+    bonus_pct: 12
+    total_comp_low: 212000
+    total_comp_high: 278000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 152000
+    stock_low: 68000
+    stock_high: 122000
+    bonus_pct: 12
+    total_comp_low: 152000
+    total_comp_high: 202000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel TPM = Google L5 TPM = Meta TPM IC5 = Amplitude Senior TPM = Datadog TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Equity + Delivery Bonus | AI Analytics Program Execution 2026"
+---
 ### Technical Program Manager | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Equity + Delivery Bonus | AI Analytics Program Execution 2026

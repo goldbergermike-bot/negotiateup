@@ -1,3 +1,50 @@
+---
+company: airtable
+company_display: Airtable
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 265000
+    stock_low: 200000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 298000
+    total_comp_high: 418000
+    currency: USD
+  - region: NYC / Austin
+    base_low: 198000
+    base_high: 252000
+    stock_low: 184000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 280000
+    total_comp_high: 392000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 202000
+    stock_low: 152000
+    stock_high: 289000
+    bonus_pct: 10
+    total_comp_low: 227000
+    total_comp_high: 318000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airtable EM = Google L6 EM = Meta M1 = Notion EM = Figma EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push"
+---
 ### Engineering Manager | Airtable Global Negotiation Guide
 
 **Negotiation DNA:** No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push

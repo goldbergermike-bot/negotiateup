@@ -1,3 +1,52 @@
+---
+company: vanguard
+company_display: Vanguard
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Malvern, PA (HQ)"
+    base_low: 110000
+    base_high: 148000
+    stock_low: null
+    stock_high: null
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 145000
+    total_comp_high: 208000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 105000
+    base_high: 141000
+    stock_low: null
+    stock_high: null
+    bonus_low: 14000
+    bonus_high: 27000
+    total_comp_low: 138000
+    total_comp_high: 198000
+    currency: USD
+  - region: "Scottsdale, AZ"
+    base_low: 105000
+    base_high: 141000
+    stock_low: null
+    stock_high: null
+    bonus_low: 14000
+    bonus_high: 27000
+    total_comp_low: 138000
+    total_comp_high: 198000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Comparably
+negotiation_dna_summary: "`AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Full-Stack Development` `Fund Platform Engineering` `Investor-First Architecture`"
+---
 ### Software Engineer | Vanguard Global Negotiation Guide
 
 **Negotiation DNA:** `AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Full-Stack Development` `Fund Platform Engineering` `Investor-First Architecture`

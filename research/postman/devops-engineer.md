@@ -1,3 +1,40 @@
+---
+company: postman
+company_display: Postman
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco HQ
+    base_low: 155000
+    base_high: 215000
+    stock_low: 65000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 315000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Postman Senior DevOps = GitLab DevOps = Google L4 SRE = Datadog DevOps
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($5.6B Valuation) | API Development Platform | 30M+ Developer User Base | Liquidity Risk"
+---
 ### DevOps Engineer | Postman Global Negotiation Guide
 
 **Negotiation DNA:** Private ($5.6B Valuation) | API Development Platform | 30M+ Developer User Base | Liquidity Risk

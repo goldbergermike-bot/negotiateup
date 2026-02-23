@@ -1,3 +1,50 @@
+---
+company: stability-ai
+company_display: Stability AI
+role: open-source-ai-engineer
+role_display: Open-Source AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 105000
+    base_high: 170000
+    stock_low: 80000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 235000
+    currency: GBP
+  - region: San Francisco
+    base_low: 195000
+    base_high: 275000
+    stock_low: 100000
+    stock_high: 325000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 356000
+    currency: USD
+  - region: Remote US
+    base_low: 176000
+    base_high: 248000
+    stock_low: 90000
+    stock_high: 293000
+    bonus_pct: null
+    total_comp_low: 198000
+    total_comp_high: 321000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stability AI Open-Source AI Engineer = Google L5-L6 Research Engineer = Meta FAIR Research Engineer IC5-IC6 = Hugging Face Senior ML Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | **SIGNATURE ROLE** | **+15-30% ML PREMIUM** | Open-Source AI Pioneer"
+---
 ### Open-Source AI Engineer | Stability AI Global Negotiation Guide
 
 **Negotiation DNA:** Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | **SIGNATURE ROLE** | **+15-30% ML PREMIUM** | Open-Source AI Pioneer

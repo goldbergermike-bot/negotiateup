@@ -1,3 +1,50 @@
+---
+company: citigroup
+company_display: Citigroup
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 170000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 240000
+    total_comp_high: 395000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 165000
+    total_comp_high: 285000
+    currency: GBP
+  - region: Singapore
+    base_low: 155000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 215000
+    total_comp_high: 350000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at Citi (SVP/Director) = L6-L7 at Google, M1-M2 at Meta, SDM-Principal SDM at Amazon, Director at Capital One, SVP/MD at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$130B market cap global bank + Managing engineering across 160+ countries + NYC HQ competitive hiring + Banking management bonus culture | Citi EMs lead truly global engineering teams | **GLOBAL LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Citigroup Global Negotiation Guide
 
 **Negotiation DNA:** $130B market cap global bank + Managing engineering across 160+ countries + NYC HQ competitive hiring + Banking management bonus culture | Citi EMs lead truly global engineering teams | **GLOBAL LEADERSHIP PREMIUM**

@@ -1,3 +1,39 @@
+---
+company: rivian
+company_display: Rivian
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine (HQ)
+    base_low: 135000
+    base_high: 188000
+    stock_low: 70000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 295000
+    currency: USD
+  - region: Palo Alto
+    base_low: 143000
+    base_high: 198000
+    stock_low: 80000
+    stock_high: 245000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rivian DevOps Engineer = Google SRE L3-L4 = Amazon Systems Engineer = Tesla DevOps = Meta Production Engineer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage EV Comp | Large Equity Grants (RIVN) | Mission-Driven Culture | EV Growth Upside"
+---
 ### DevOps Engineer | Rivian Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage EV Comp | Large Equity Grants (RIVN) | Mission-Driven Culture | EV Growth Upside

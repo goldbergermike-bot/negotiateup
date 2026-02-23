@@ -1,3 +1,48 @@
+---
+company: segment
+company_display: Segment
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 202000
+    stock_low: 110000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 278000
+    currency: USD
+  - region: New York
+    base_low: 162000
+    base_high: 195000
+    stock_low: 105000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 268000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 148000
+    stock_low: 78000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 198000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Segment DE = Google L3-L4 = Snowflake DE = Databricks DE = mParticle Senior DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Twilio RSU Package + Bonus | AI-Powered CDP Data Infrastructure 2026"
+---
 ### Data Engineer | Segment Global Negotiation Guide
 
 **Negotiation DNA:** Twilio RSU Package + Bonus | AI-Powered CDP Data Infrastructure 2026

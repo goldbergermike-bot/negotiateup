@@ -1,3 +1,50 @@
+---
+company: stability-ai
+company_display: Stability AI
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 75000
+    base_high: 120000
+    stock_low: 50000
+    stock_high: 170000
+    bonus_pct: null
+    total_comp_low: 88000
+    total_comp_high: 163000
+    currency: GBP
+  - region: San Francisco
+    base_low: 145000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 159000
+    total_comp_high: 245000
+    currency: USD
+  - region: Remote US
+    base_low: 131000
+    base_high: 180000
+    stock_low: 50000
+    stock_high: 162000
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 221000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stability AI Product Designer = Google L4 UX Designer = UK Senior Product Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | Open-Source AI UX"
+---
 ### Product Designer | Stability AI Global Negotiation Guide
 
 **Negotiation DNA:** Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | Open-Source AI UX

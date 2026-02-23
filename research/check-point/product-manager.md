@@ -1,3 +1,40 @@
+---
+company: check-point
+company_display: Check Point
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Carlos
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 345000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 155000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "Product Managers at Check Point own the roadmap for the Agentic AI Stack and Four Pillars product portfolio, making them central to the company's post-acquisition competitive strategy."
+---
 ### Product Manager — Check Point Salary Negotiation Guide
 
 **Negotiation DNA**: Product Managers at Check Point own the roadmap for the Agentic AI Stack and Four Pillars product portfolio, making them central to the company's post-acquisition competitive strategy.

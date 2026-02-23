@@ -1,3 +1,50 @@
+---
+company: anyscale
+company_display: Anyscale
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 255000
+    stock_low: 175000
+    stock_high: 315000
+    bonus_pct: 5
+    total_comp_low: 270000
+    total_comp_high: 400000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 250000
+    stock_low: 175000
+    stock_high: 315000
+    bonus_pct: 5
+    total_comp_low: 265000
+    total_comp_high: 393000
+    currency: USD
+  - region: London
+    base_low: 148000
+    base_high: 194000
+    stock_low: 131000
+    stock_high: 236000
+    bonus_pct: 5
+    total_comp_low: 206000
+    total_comp_high: 305000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anyscale ML/AI Engineer = Google L4-L5 ML Infrastructure Engineer = Meta ML Engineer IC4-5 = Databricks ML Engineer = OpenAI Infrastructure Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity + AI Premium | Ray Distributed Computing Platform Leader | 2026 Focus: Distributed ML Training & Serving Intelligence"
+---
 ### ML/AI Engineer | Anyscale Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity + AI Premium | Ray Distributed Computing Platform Leader | 2026 Focus: Distributed ML Training & Serving Intelligence

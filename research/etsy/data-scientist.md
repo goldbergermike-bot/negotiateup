@@ -1,3 +1,48 @@
+---
+company: etsy
+company_display: Etsy
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brooklyn
+    base_low: 172000
+    base_high: 215000
+    stock_low: 95000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 272000
+    currency: USD
+  - region: San Francisco
+    base_low: 178000
+    base_high: 222000
+    stock_low: 95000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 282000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 205000
+    stock_low: 95000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Etsy Data Scientist (DS3) = Google L4 DS = Meta IC4 DS = Amazon DS II = Shopify DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction"
+---
 ### Data Scientist | Etsy Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction

@@ -1,3 +1,49 @@
+---
+company: together-ai
+company_display: Together AI
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 225000
+    stock_low: 45000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 288000
+    currency: USD
+  - region: Seattle
+    base_low: 162000
+    base_high: 214000
+    stock_low: 43000
+    stock_high: 71000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 274000
+    currency: USD
+  - region: Remote US
+    base_low: 153000
+    base_high: 203000
+    stock_low: 40000
+    stock_high: 67000
+    bonus_pct: 10
+    total_comp_low: 187000
+    total_comp_high: 259000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Together AI PM ≈ Google PM L5 · Meta PM IC5 · OpenAI PM · Anthropic PM · Amazon Sr. PMT · Apple PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +15% Kernel Innovation Premium"
+---
 ### Product Manager | Together AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +15% Kernel Innovation Premium

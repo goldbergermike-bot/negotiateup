@@ -1,3 +1,50 @@
+---
+company: wells-fargo
+company_display: Wells Fargo
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 148000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 198000
+    total_comp_high: 300000
+    currency: USD
+  - region: New York City
+    base_low: 145000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 195000
+    total_comp_high: 290000
+    currency: USD
+  - region: Charlotte
+    base_low: 132000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 175000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Senior SWE at WF (VP) = L5 at Google, E5 at Meta, SDE III at Amazon, Senior at Capital One, VP at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$225B market cap bank + Rebuilding core platforms from legacy + SF HQ tech market rates + Transformation creates premium for experienced engineers | Wells Fargo pays above-bank for senior SWEs during rebuilding | **PLATFORM REBUILDING PREMIUM**"
+---
 ### Senior Software Engineer | Wells Fargo Global Negotiation Guide
 
 **Negotiation DNA:** $225B market cap bank + Rebuilding core platforms from legacy + SF HQ tech market rates + Transformation creates premium for experienced engineers | Wells Fargo pays above-bank for senior SWEs during rebuilding | **PLATFORM REBUILDING PREMIUM**

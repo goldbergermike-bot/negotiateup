@@ -1,3 +1,48 @@
+---
+company: datadog
+company_display: Datadog
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 380000
+    currency: USD
+  - region: Paris
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 58000
+    total_comp_high: 148000
+    currency: EUR
+  - region: Dublin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 62000
+    total_comp_high: 155000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Security Engineers at Datadog protect the AI Nervous System and build the Cloud SIEM products that extend LLM Observability into the security domain — defending the platform that monitors the world's AI workloads."
+---
 ### Security Engineer — Datadog Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at Datadog protect the AI Nervous System and build the Cloud SIEM products that extend LLM Observability into the security domain — defending the platform that monitors the world's AI workloads.

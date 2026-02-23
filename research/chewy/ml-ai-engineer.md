@@ -1,3 +1,48 @@
+---
+company: chewy
+company_display: Chewy
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Plantation FL
+    base_low: 155000
+    base_high: 205000
+    stock_low: 38000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 292000
+    currency: USD
+  - region: Boston
+    base_low: 167000
+    base_high: 223000
+    stock_low: 41000
+    stock_high: 66000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 319000
+    currency: USD
+  - region: Remote US
+    base_low: 147000
+    base_high: 195000
+    stock_low: 36000
+    stock_high: 57000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 277000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chewy ML/AI Engineer = Google ML Engineer L4–L5 = Amazon Applied Scientist L5 = Meta ML Engineer IC4–IC5 = Microsoft ML Engineer 62–64 = OpenAI Research Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus + AI Premium (15–25%) | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium"
+---
 ### ML/AI Engineer | Chewy Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus + AI Premium (15–25%) | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium

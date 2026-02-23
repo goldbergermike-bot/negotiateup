@@ -1,3 +1,40 @@
+---
+company: domo
+company_display: Domo
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: American Fork UT HQ
+    base_low: 120000
+    base_high: 165000
+    stock_low: 30000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 155000
+    stock_low: 25000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Domo Senior Security Eng = Sisense Security Eng = Looker Security Eng (comp-adjusted)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Small-Cap Public ($700M Market Cap) | BI Platform | Utah-Based Value | Smaller Company Comp"
+---
 ### Security Engineer | Domo Global Negotiation Guide
 
 **Negotiation DNA:** Small-Cap Public ($700M Market Cap) | BI Platform | Utah-Based Value | Smaller Company Comp

@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 295000
+    base_high: 370000
+    stock_low: 650000
+    stock_high: 1200000
+    bonus_pct: null
+    total_comp_low: 458000
+    total_comp_high: 670000
+    currency: USD
+  - region: Seattle
+    base_low: 285000
+    base_high: 358000
+    stock_low: 650000
+    stock_high: 1200000
+    bonus_pct: null
+    total_comp_low: 448000
+    total_comp_high: 658000
+    currency: USD
+  - region: London
+    base_low: 205000
+    base_high: 258000
+    stock_low: 475000
+    stock_high: 875000
+    bonus_pct: null
+    total_comp_low: 324000
+    total_comp_high: 477000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI Staff SWE (L6) = Google L6 SWE = Meta E6 = Anthropic Staff SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)"
+---
 ### Staff Software Engineer | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)

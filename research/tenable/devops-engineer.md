@@ -1,3 +1,55 @@
+---
+company: tenable
+company_display: Tenable
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Columbia MD
+    base_low: 135000
+    base_high: 170000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 22000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Austin
+    base_low: 130000
+    base_high: 165000
+    stock_low: 50000
+    stock_high: 105000
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 22000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 78000
+    base_high: 105000
+    stock_low: 35000
+    stock_high: 68000
+    bonus_pct: 10
+    signing_bonus_low: 6000
+    signing_bonus_high: 14000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at Tenable maps to Infrastructure/Platform Engineer IC2–IC3 at peer cybersecurity companies (CrowdStrike Platform Engineer, Palo Alto Networks DevOps, Rapid7 SRE) and L4 SRE/DevOps at FAANG-tier companies."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London"
+---
 ### DevOps Engineer | Tenable Global Negotiation Guide
 
 **Negotiation DNA:** Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London

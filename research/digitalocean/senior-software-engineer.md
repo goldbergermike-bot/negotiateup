@@ -1,3 +1,39 @@
+---
+company: digitalocean
+company_display: DigitalOcean
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 310000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 193000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Senior Software Engineers at DigitalOcean own critical subsystems within the developer cloud platform, driving architectural decisions for Droplets, Kubernetes, managed databases, and the infrastructure that serves millions of developers worldwide."
+---
 ### Senior Software Engineer — DigitalOcean Salary Negotiation Guide
 
 **Negotiation DNA**: Senior Software Engineers at DigitalOcean own critical subsystems within the developer cloud platform, driving architectural decisions for Droplets, Kubernetes, managed databases, and the infrastructure that serves millions of developers worldwide.

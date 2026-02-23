@@ -1,3 +1,50 @@
+---
+company: harvey-ai
+company_display: Harvey AI
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 245000
+    stock_low: 110000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 208000
+    total_comp_high: 323000
+    currency: USD
+  - region: New York City
+    base_low: 180000
+    base_high: 245000
+    stock_low: 110000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 208000
+    total_comp_high: 323000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 221000
+    stock_low: 99000
+    stock_high: 279000
+    bonus_pct: null
+    total_comp_low: 187000
+    total_comp_high: 291000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Harvey Security Engineer = Google L4-L5 Security = Meta Security IC4-IC5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Comp + Pre-IPO Equity | $2B+ Valuation | San Francisco | Legal Data Security"
+---
 ### Security Engineer | Harvey AI Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Comp + Pre-IPO Equity | $2B+ Valuation | San Francisco | Legal Data Security

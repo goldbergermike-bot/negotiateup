@@ -1,3 +1,48 @@
+---
+company: tesla
+company_display: Tesla
+role: fsd-autonomy-engineer
+role_display: FSD/Autonomy Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin (HQ)
+    base_low: 170000
+    base_high: 235000
+    stock_low: 200000
+    stock_high: 480000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 355000
+    currency: USD
+  - region: Palo Alto
+    base_low: 180000
+    base_high: 250000
+    stock_low: 220000
+    stock_high: 500000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 375000
+    currency: USD
+  - region: Fremont
+    base_low: 175000
+    base_high: 245000
+    stock_low: 210000
+    stock_high: 490000
+    bonus_pct: null
+    total_comp_low: 228000
+    total_comp_high: 368000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tesla FSD Engineer (Senior) = Waymo Senior SWE = Google L4/L5 Perception = Cruise Senior ML Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy / No Cash Bonus | Mission-Driven Culture | **SIGNATURE ROLE** | **+10-20% AUTONOMY PREMIUM** | Stock Volatility Risk"
+---
 ### FSD/Autonomy Engineer | Tesla Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy / No Cash Bonus | Mission-Driven Culture | **SIGNATURE ROLE** | **+10-20% AUTONOMY PREMIUM** | Stock Volatility Risk

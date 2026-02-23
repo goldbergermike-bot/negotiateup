@@ -1,3 +1,49 @@
+---
+company: juniper
+company_display: Juniper
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 112000
+    base_high: 148000
+    stock_low: 22000
+    stock_high: 40000
+    bonus_pct: 8
+    total_comp_low: 155000
+    total_comp_high: 205000
+    currency: USD
+  - region: Westford (MA)
+    base_low: 105000
+    base_high: 138000
+    stock_low: 20000
+    stock_high: 36000
+    bonus_pct: 8
+    total_comp_low: 148000
+    total_comp_high: 192000
+    currency: USD
+  - region: Remote US
+    base_low: 100000
+    base_high: 135000
+    stock_low: 18000
+    stock_high: 34000
+    bonus_pct: 8
+    total_comp_low: 148000
+    total_comp_high: 188000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Juniper Product Designer (D2–D3) = Google L4–L5 UX | Meta Product Designer–Sr. PD | Amazon UX Designer II–III | Cisco UX Designer–Senior | HPE UX Designer (IC3–IC4)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | UX/Design Tier"
+---
 ### Product Designer | Juniper Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | UX/Design Tier

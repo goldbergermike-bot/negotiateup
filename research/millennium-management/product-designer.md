@@ -1,3 +1,50 @@
+---
+company: millennium-management
+company_display: Millennium Management
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 155000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_low: 70000
+    bonus_high: 115000
+    total_comp_low: 270000
+    total_comp_high: 390000
+    currency: USD
+  - region: Miami
+    base_low: 145000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_low: 65000
+    bonus_high: 105000
+    total_comp_low: 250000
+    total_comp_high: 360000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 118000
+    base_high: 152000
+    stock_low: null
+    stock_high: null
+    bonus_low: 52000
+    bonus_high: 87000
+    total_comp_low: 203000
+    total_comp_high: 294000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "`Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Trading UX` `Pod Dashboard Design` `Direct Attribution`"
+---
 ### Product Designer | Millennium Management Global Negotiation Guide
 
 **Negotiation DNA:** `Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Trading UX` `Pod Dashboard Design` `Direct Attribution`

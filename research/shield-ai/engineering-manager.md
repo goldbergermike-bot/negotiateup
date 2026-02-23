@@ -1,3 +1,39 @@
+---
+company: shield-ai
+company_display: Shield Ai
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Diego, CA"
+    base_low: 180000
+    base_high: 230000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 385000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 175000
+    base_high: 225000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shield AI EM = Google L5-L6 Manager = Anduril EM -- with earlier-stage organizational influence and aircraft autonomy domain
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | AI-Powered Defense Drones | Startup Intensity"
+---
 ### Engineering Manager | Shield AI Global Negotiation Guide
 
 **Negotiation DNA:** Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | AI-Powered Defense Drones | Startup Intensity

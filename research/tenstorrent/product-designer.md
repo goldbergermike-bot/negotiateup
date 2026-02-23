@@ -1,3 +1,48 @@
+---
+company: tenstorrent
+company_display: Tenstorrent
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 108000
+    base_high: 142000
+    stock_low: 35000
+    stock_high: 55000
+    bonus_pct: 8
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: CAD
+  - region: Austin
+    base_low: 105000
+    base_high: 140000
+    stock_low: 30000
+    stock_high: 48000
+    bonus_pct: 8
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+  - region: Remote US
+    base_low: 98000
+    base_high: 135000
+    stock_low: 28000
+    stock_high: 45000
+    bonus_pct: 8
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Tenstorrent Product Designer ~ Google L4 UX | Meta D4 | Apple Design IC3 | AMD Senior UX Designer | Intel UX Designer II"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "[Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | Developer Experience Focus"
+---
 ### Product Designer | Tenstorrent Global Negotiation Guide
 
 **Negotiation DNA:** [Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | Developer Experience Focus

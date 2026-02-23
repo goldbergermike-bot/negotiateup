@@ -1,3 +1,52 @@
+---
+company: tastytrade
+company_display: Tastytrade
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 122000
+    base_high: 168000
+    stock_low: null
+    stock_high: null
+    bonus_low: 21000
+    bonus_high: 34000
+    total_comp_low: 165000
+    total_comp_high: 238000
+    currency: USD
+  - region: New York
+    base_low: 134000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_low: 23000
+    bonus_high: 37000
+    total_comp_low: 181000
+    total_comp_high: 262000
+    currency: USD
+  - region: London
+    base_low: 93000
+    base_high: 128000
+    stock_low: 17000
+    stock_high: 27000
+    bonus_low: 16000
+    bonus_high: 26000
+    total_comp_low: 126000
+    total_comp_high: 181000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Trading Platform Reliability` `Low-Latency Infrastructure` `Multi-Region Deployment`"
+---
 ### DevOps Engineer | Tastytrade Global Negotiation Guide
 
 **Negotiation DNA:** `Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Trading Platform Reliability` `Low-Latency Infrastructure` `Multi-Region Deployment`

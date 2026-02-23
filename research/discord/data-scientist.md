@@ -1,3 +1,48 @@
+---
+company: discord
+company_display: Discord
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 210000
+    stock_low: 95000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 278000
+    currency: USD
+  - region: New York
+    base_low: 158000
+    base_high: 202000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 265000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 190000
+    stock_low: 82000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Discord Data Scientist = Google DS L4 = Meta Data Scientist (IC4) = Amazon Applied Scientist II = Apple Data Scientist 3 = Spotify Data Scientist II
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Subscription Analytics Premium"
+---
 ### Data Scientist | Discord Global Negotiation Guide
 
 **Negotiation DNA:** Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Subscription Analytics Premium

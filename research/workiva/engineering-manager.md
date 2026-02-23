@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 155000
+    base_high: 220000
+    stock_low: 55000
+    stock_high: 155000
+    bonus_pct: 12
+    total_comp_low: 192000
+    total_comp_high: 310000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 172000
+    base_high: 242000
+    stock_low: 68000
+    stock_high: 180000
+    bonus_pct: 12
+    total_comp_low: 220000
+    total_comp_high: 350000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 72000
+    base_high: 112000
+    stock_low: 25000
+    stock_high: 68000
+    bonus_pct: 12
+    total_comp_low: 90000
+    total_comp_high: 152000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 132000
+    base_high: 188000
+    stock_low: 38000
+    stock_high: 108000
+    bonus_pct: 12
+    total_comp_low: 155000
+    total_comp_high: 252000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 1400000
+    stock_high: 3500000
+    bonus_pct: 12
+    total_comp_low: 3800000
+    total_comp_high: 7200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva EM ~ Intuit EM/Senior EM | ServiceNow EM | Oracle Senior Manager | Domo Director Eng"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GRC platform engineering leader | Compliance technology team builder | **LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** GRC platform engineering leader | Compliance technology team builder | **LEADERSHIP PREMIUM**

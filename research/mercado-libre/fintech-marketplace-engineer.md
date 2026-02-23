@@ -1,3 +1,39 @@
+---
+company: mercado-libre
+company_display: Mercado Libre
+role: fintech-marketplace-engineer
+role_display: Fintech Marketplace Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area
+    base_low: 170000
+    base_high: 235000
+    stock_low: 110000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 400000
+    currency: USD
+  - region: Buenos Aires
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Mercado Libre Fintech Marketplace Engineer (Senior) = Google Payments L4-L5 = Stripe Backend Engineer = Amazon SDE-II/III
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Premium LatAm Tech Comp | MELI RSUs ($90B Market Cap) | **SIGNATURE ROLE** | **+10-15% FINTECH PREMIUM** | LatAm E-Commerce Leader"
+---
 ### Fintech Marketplace Engineer | Mercado Libre Global Negotiation Guide
 
 **Negotiation DNA:** Premium LatAm Tech Comp | MELI RSUs ($90B Market Cap) | **SIGNATURE ROLE** | **+10-15% FINTECH PREMIUM** | LatAm E-Commerce Leader

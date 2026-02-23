@@ -1,3 +1,52 @@
+---
+company: toast
+company_display: Toast
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston MA
+    base_low: 210000
+    base_high: 260000
+    stock_low: 200000
+    stock_high: 350000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 280000
+    total_comp_high: 402000
+    currency: USD
+  - region: New York
+    base_low: 225000
+    base_high: 275000
+    stock_low: 220000
+    stock_high: 380000
+    bonus_low: 35000
+    bonus_high: 60000
+    total_comp_low: 300000
+    total_comp_high: 440000
+    currency: USD
+  - region: San Francisco
+    base_low: 240000
+    base_high: 295000
+    stock_low: 240000
+    stock_high: 420000
+    bonus_low: 38000
+    bonus_high: 65000
+    total_comp_low: 338000
+    total_comp_high: 480000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Toast | Google | Meta | Stripe | Block | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`NYSE: TOST` `Toast IQ` `Staff Software Engineer` `Restaurant Tech` `Hospitality Intelligence` `Platform Architecture` `Payments` `Technical Leadership`"
+---
 ### Staff Software Engineer | Toast Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: TOST` `Toast IQ` `Staff Software Engineer` `Restaurant Tech` `Hospitality Intelligence` `Platform Architecture` `Payments` `Technical Leadership`

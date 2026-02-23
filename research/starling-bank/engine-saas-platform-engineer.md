@@ -1,3 +1,53 @@
+---
+company: starling-bank
+company_display: Starling Bank
+role: engine-saas-platform-engineer
+role_display: Engine SaaS Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 125000
+    base_high: 155000
+    stock_low: 20000
+    stock_high: 38000
+    bonus_low: 14000
+    bonus_high: 22000
+    total_comp_low: 159000
+    total_comp_high: 215000
+    currency: GBP
+  - region: Cardiff
+    base_low: 106000
+    base_high: 132000
+    stock_low: 17000
+    stock_high: 32000
+    bonus_low: 12000
+    bonus_high: 19000
+    total_comp_low: 135000
+    total_comp_high: 183000
+    currency: GBP
+  - region: Southampton
+    base_low: 110000
+    base_high: 136000
+    stock_low: 18000
+    stock_high: 33000
+    bonus_low: 12000
+    bonus_high: 19000
+    total_comp_low: 140000
+    total_comp_high: 188000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Blind
+  - Hired
+negotiation_dna_summary: "`Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `BaaS Platform Core` `Multi-Tenant Architecture` `Enterprise API Design` `Revenue-Critical Engineering` `Platform Product Builder`"
+---
 ### Engine SaaS Platform Engineer | Starling Bank Global Negotiation Guide
 
 ## SIGNATURE ROLE

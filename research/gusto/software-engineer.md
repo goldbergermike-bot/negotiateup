@@ -1,3 +1,48 @@
+---
+company: gusto
+company_display: Gusto
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 180000
+    stock_low: 100000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 250000
+    currency: USD
+  - region: Denver
+    base_low: 130000
+    base_high: 165000
+    stock_low: 85000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 225000
+    currency: USD
+  - region: Toronto
+    base_low: 130000
+    base_high: 165000
+    stock_low: 75000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 215000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto SWE II = Google L3 = Meta E3 = Stripe L2
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity | AI-Powered Payroll Platform Expansion"
+---
 ### Software Engineer | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity | AI-Powered Payroll Platform Expansion

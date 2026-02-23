@@ -1,3 +1,50 @@
+---
+company: huggingface-enterprise
+company_display: Hugging Face Enterprise
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 205000
+    stock_low: 110000
+    stock_high: 200000
+    bonus_pct: 5
+    total_comp_low: 200000
+    total_comp_high: 273000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 200000
+    stock_low: 110000
+    stock_high: 200000
+    bonus_pct: 5
+    total_comp_low: 195000
+    total_comp_high: 266000
+    currency: USD
+  - region: Paris
+    base_low: 132000
+    base_high: 175000
+    stock_low: 94000
+    stock_high: 170000
+    bonus_pct: 5
+    total_comp_low: 170000
+    total_comp_high: 232000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: HF Enterprise Product Designer = Google L4 UX Designer = GitHub Product Designer = Figma Product Designer = Meta Product Designer IC4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Growth-Stage Equity | Open-Source AI Platform Leader | 2026 Focus: Enterprise AI Platform Experience Design"
+---
 ### Product Designer | Hugging Face Enterprise Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Growth-Stage Equity | Open-Source AI Platform Leader | 2026 Focus: Enterprise AI Platform Experience Design

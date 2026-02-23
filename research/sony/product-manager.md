@@ -1,3 +1,59 @@
+---
+company: sony
+company_display: Sony
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / San Diego (US)
+    base_low: 145000
+    base_high: 210000
+    stock_low: 50000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 315000
+    currency: USD
+  - region: Bay Area (US)
+    base_low: 140000
+    base_high: 205000
+    stock_low: 45000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 305000
+    currency: USD
+  - region: Tokyo (HQ)
+    base_low: 9000000
+    base_high: 15000000
+    stock_low: 3000000
+    stock_high: 8000000
+    bonus_pct: 10
+    total_comp_low: 12000000
+    total_comp_high: 20000000
+    currency: JPY
+  - region: London
+    base_low: 88000
+    base_high: 142000
+    stock_low: 30000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 112000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "PM at Sony (IC4-IC5) = L5-L6 PM at Google, IC5-IC6 PM at Meta, Sr PM at Microsoft Xbox"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$110B market cap with PM opportunities across PlayStation (100M+ PSN users), entertainment platforms (Crunchyroll, Sony LIV), and semiconductor products + US PM comp competitive with gaming industry + Sony stock RSUs | Sony PMs define product strategy at the intersection of technology and entertainment | **ENTERTAINMENT PRODUCT PREMIUM**"
+---
 ### Product Manager | Sony Global Negotiation Guide
 
 **Negotiation DNA:** $110B market cap with PM opportunities across PlayStation (100M+ PSN users), entertainment platforms (Crunchyroll, Sony LIV), and semiconductor products + US PM comp competitive with gaming industry + Sony stock RSUs | Sony PMs define product strategy at the intersection of technology and entertainment | **ENTERTAINMENT PRODUCT PREMIUM**

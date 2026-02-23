@@ -1,3 +1,59 @@
+---
+company: darktrace
+company_display: Darktrace
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge UK
+    base_low: 75000
+    base_high: 100000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_low: 7500
+    bonus_high: 15000
+    signing_bonus_low: 5000
+    signing_bonus_high: 12000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: London
+    base_low: 85000
+    base_high: 115000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 8500
+    bonus_high: 17250
+    signing_bonus_low: 7000
+    signing_bonus_high: 15000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: San Francisco
+    base_low: 170000
+    base_high: 220000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 17000
+    bonus_high: 33000
+    signing_bonus_low: 15000
+    signing_bonus_high: 35000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Senior Software Engineer at Darktrace maps to L5 at Google, E5 at Meta, SDE III at Amazon, and 63 at Microsoft."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Senior Software Engineer | Darktrace (LSE: DARK) | IC Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco"
+---
 ### Senior Software Engineer | Darktrace Global Negotiation Guide
 
 **Negotiation DNA:** Senior Software Engineer | Darktrace (LSE: DARK) | IC Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco

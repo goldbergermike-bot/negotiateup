@@ -1,3 +1,52 @@
+---
+company: shift4
+company_display: Shift4
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Center Valley PA
+    base_low: 155000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 240000
+    total_comp_high: 380000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 235000
+    stock_low: 90000
+    stock_high: 190000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 290000
+    total_comp_high: 465000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 155000
+    stock_low: 50000
+    stock_high: 115000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 177000
+    total_comp_high: 295000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Shift4 | Google | Meta | Stripe | Toast | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FOUR` `Stablecoin Settlement` `Security Engineering` `PCI-DSS` `Payments Security` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Blockchain Security` `Finaro` `Compliance` `Threat Modeling`"
+---
 ### Security Engineer | Shift4 Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FOUR` `Stablecoin Settlement` `Security Engineering` `PCI-DSS` `Payments Security` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Blockchain Security` `Finaro` `Compliance` `Threat Modeling`

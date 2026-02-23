@@ -1,3 +1,39 @@
+---
+company: flexport
+company_display: Flexport
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 200000
+    stock_low: 65000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+  - region: Remote US
+    base_low: 132000
+    base_high: 188000
+    stock_low: 55000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Flexport PD (IC2-IC3) = project44 PD = FourKites PD = Maersk Digital PD = Google L3-L4 UX Logistics
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Freight Forwarding + Supply Chain Tech | $8B Valuation | Global Logistics Platform | **LOGISTICS UX PREMIUM**"
+---
 ### Product Designer | Flexport Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Freight Forwarding + Supply Chain Tech | $8B Valuation | Global Logistics Platform | **LOGISTICS UX PREMIUM**

@@ -1,3 +1,49 @@
+---
+company: l3harris
+company_display: L3Harris
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Melbourne, FL"
+    base_low: 100000
+    base_high: 145000
+    stock_low: 15000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 118000
+    total_comp_high: 180000
+    currency: USD
+  - region: "Salt Lake City, UT"
+    base_low: 95000
+    base_high: 140000
+    stock_low: 15000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 113000
+    total_comp_high: 175000
+    currency: USD
+  - region: "Rochester, NY"
+    base_low: 95000
+    base_high: 140000
+    stock_low: 14000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 112000
+    total_comp_high: 172000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: L3Harris Product Designer = Raytheon UX = Northrop HMI Designer -- defense UI/UX is a distinct discipline from consumer design
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Electronics Interface Design | Standard 40-45 Hour Culture"
+---
 ### Product Designer | L3Harris Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Electronics Interface Design | Standard 40-45 Hour Culture

@@ -1,3 +1,48 @@
+---
+company: stripe
+company_display: Stripe
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 245000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 15
+    total_comp_low: 272000
+    total_comp_high: 382000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 245000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 15
+    total_comp_low: 272000
+    total_comp_high: 382000
+    currency: USD
+  - region: Remote US
+    base_low: 182000
+    base_high: 228000
+    stock_low: 175000
+    stock_high: 308000
+    bonus_pct: 15
+    total_comp_low: 252000
+    total_comp_high: 355000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stripe DS (IC3-IC4) = Adyen DS = Block/Square DS = PayPal/Braintree DS = Checkout.com DS = Google L4-L5 DS Payments
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | **TRUST ORCHESTRATOR PREMIUM**"
+---
 ### Data Scientist | Stripe Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | **TRUST ORCHESTRATOR PREMIUM**

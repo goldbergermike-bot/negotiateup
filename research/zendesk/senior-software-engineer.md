@@ -1,3 +1,48 @@
+---
+company: zendesk
+company_display: Zendesk
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 330000
+    currency: USD
+  - region: Remote US / Other US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 295000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 150000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Senior Software Engineers at Zendesk own critical subsystems of the CX platform that serves 100,000+ businesses — driving the AI-first transformation that will determine the company's exit trajectory under Hellman & Friedman ownership."
+---
 ### Senior Software Engineer — Zendesk Salary Negotiation Guide
 
 **Negotiation DNA**: Senior Software Engineers at Zendesk own critical subsystems of the CX platform that serves 100,000+ businesses — driving the AI-first transformation that will determine the company's exit trajectory under Hellman & Friedman ownership.

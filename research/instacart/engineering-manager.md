@@ -1,3 +1,48 @@
+---
+company: instacart
+company_display: Instacart
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 255000
+    stock_low: 100000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 378000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 250000
+    stock_low: 95000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 370000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 232000
+    stock_low: 85000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Instacart Engineering Manager (M1) = Google EM L5–L6 = Meta M1 = DoorDash EM = Uber EM = Amazon SDM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU Equity + Bonus | Instant Commerce & Grocery Tech | 4x Engineering Velocity | Post-IPO Growth | Management Scope Premium"
+---
 ### Engineering Manager | Instacart Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU Equity + Bonus | Instant Commerce & Grocery Tech | 4x Engineering Velocity | Post-IPO Growth | Management Scope Premium

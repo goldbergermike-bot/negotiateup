@@ -1,3 +1,49 @@
+---
+company: t-mobile
+company_display: T-Mobile
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue / Seattle
+    base_low: 140000
+    base_high: 200000
+    stock_low: 52000
+    stock_high: 162000
+    bonus_pct: 12
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: USD
+  - region: NYC / San Francisco
+    base_low: 145000
+    base_high: 205000
+    stock_low: 58000
+    stock_high: 168000
+    bonus_pct: 12
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+  - region: Dallas / Denver
+    base_low: 132000
+    base_high: 190000
+    stock_low: 45000
+    stock_high: 148000
+    bonus_pct: 12
+    total_comp_low: 165000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: T-Mobile Security Engineer (L4-L6) = Google L3-L5 Security = Meta E3-E5 Security = Amazon Security Engineer II-III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$250B 5G Leader | Critical Telecom Infrastructure Security | Consumer Data + Network Protection"
+---
 ### Security Engineer | T-Mobile Global Negotiation Guide
 
 **Negotiation DNA:** $250B 5G Leader | Critical Telecom Infrastructure Security | Consumer Data + Network Protection

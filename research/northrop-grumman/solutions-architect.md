@@ -1,3 +1,49 @@
+---
+company: northrop-grumman
+company_display: Northrop Grumman
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Falls Church, VA"
+    base_low: 130000
+    base_high: 182000
+    stock_low: 30000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 248000
+    currency: USD
+  - region: "Redondo Beach, CA"
+    base_low: 135000
+    base_high: 188000
+    stock_low: 30000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 163000
+    total_comp_high: 254000
+    currency: USD
+  - region: "Huntsville, AL"
+    base_low: 122000
+    base_high: 172000
+    stock_low: 28000
+    stock_high: 87000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Northrop SA = L3Harris SA = Lockheed SA -- customer-facing technical roles with space/defense domain complexity
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense + Customer-Facing Premium | $75B Market Cap | Space/Defense Systems Architecture | Standard 40-45 Hour Culture"
+---
 ### Solutions Architect | Northrop Grumman Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense + Customer-Facing Premium | $75B Market Cap | Space/Defense Systems Architecture | Standard 40-45 Hour Culture

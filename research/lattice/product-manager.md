@@ -1,3 +1,39 @@
+---
+company: lattice
+company_display: Lattice
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 152000
+    base_high: 210000
+    stock_low: 68000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 322000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 198000
+    stock_low: 58000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 298000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lattice PM (PM1-PM2) = Culture Amp PM = 15Five PM = Workday PM = Google L4-L5 PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | People Management Platform | $3B Valuation | San Francisco | **HR PRODUCT PREMIUM**"
+---
 ### Product Manager | Lattice Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | People Management Platform | $3B Valuation | San Francisco | **HR PRODUCT PREMIUM**

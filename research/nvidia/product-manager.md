@@ -1,3 +1,48 @@
+---
+company: nvidia
+company_display: Nvidia
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 198000
+    base_high: 248000
+    stock_low: 208000
+    stock_high: 368000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 375000
+    currency: USD
+  - region: Seattle
+    base_low: 195000
+    base_high: 245000
+    stock_low: 208000
+    stock_high: 368000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 372000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 238000
+    stock_low: 208000
+    stock_high: 368000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: NVIDIA PM (PM2-PM3) = Google L5 PM = Meta PM = Apple PM = AMD Sr. Product Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule"
+---
 ### Product Manager | NVIDIA Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule

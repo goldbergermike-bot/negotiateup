@@ -1,3 +1,48 @@
+---
+company: thunes
+company_display: Thunes
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 120000
+    base_high: 175000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: SGD
+  - region: ":gb: London (GBP)"
+    base_low: 75000
+    base_high: 110000
+    stock_low: 40000
+    stock_high: 75000
+    bonus_pct: null
+    total_comp_low: 115000
+    total_comp_high: 185000
+    currency: GBP
+  - region: ":us: New York (USD)"
+    base_low: 140000
+    base_high: 200000
+    stock_low: 75000
+    stock_high: 145000
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a data science compensation framework spanning Singapore, London, and New York markets."
+---
 ### Data Scientist — Thunes Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a data science compensation framework spanning Singapore, London, and New York markets.

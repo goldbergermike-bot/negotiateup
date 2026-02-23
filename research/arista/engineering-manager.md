@@ -1,3 +1,48 @@
+---
+company: arista
+company_display: Arista Networks
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 228000
+    base_high: 282000
+    stock_low: 302000
+    stock_high: 532000
+    bonus_pct: 15
+    total_comp_low: 348000
+    total_comp_high: 488000
+    currency: USD
+  - region: Vancouver (BC)
+    base_low: 218000
+    base_high: 268000
+    stock_low: 285000
+    stock_high: 502000
+    bonus_pct: 15
+    total_comp_low: 332000
+    total_comp_high: 465000
+    currency: CAD
+  - region: Remote US
+    base_low: 222000
+    base_high: 275000
+    stock_low: 302000
+    stock_high: 532000
+    bonus_pct: 15
+    total_comp_low: 342000
+    total_comp_high: 482000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Arista EM (M1) = Cisco EM = Juniper EM = Google L6 EM Network = Meta M1 Network
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density"
+---
 ### Engineering Manager | Arista Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density

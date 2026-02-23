@@ -1,3 +1,52 @@
+---
+company: fiserv
+company_display: Fiserv
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brookfield WI
+    base_low: 130000
+    base_high: 175000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 14000
+    bonus_high: 26000
+    total_comp_low: 204000
+    total_comp_high: 331000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 253000
+    total_comp_high: 397000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 120000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 9000
+    bonus_high: 18000
+    total_comp_low: 134000
+    total_comp_high: 218000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Fiserv | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Infrastructure` `SRE/DevOps`"
+---
 ### DevOps Engineer | Fiserv Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Infrastructure` `SRE/DevOps`

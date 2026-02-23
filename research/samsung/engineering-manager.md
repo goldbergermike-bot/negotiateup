@@ -1,3 +1,68 @@
+---
+company: samsung
+company_display: Samsung
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / San Jose (US R&D)"
+    base_low: 175000
+    base_high: 245000
+    stock_low: 100000
+    stock_high: 250000
+    bonus_pct: 20
+    total_comp_low: 270000
+    total_comp_high: 420000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 165000
+    base_high: 230000
+    stock_low: 85000
+    stock_high: 220000
+    bonus_pct: 20
+    total_comp_low: 250000
+    total_comp_high: 385000
+    currency: USD
+  - region: Seoul (HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (R&D Campus)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 170000
+    stock_low: 50000
+    stock_high: 130000
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 250000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at Samsung (CL4+) = M1-M2 at Google, M1-M2 at Meta, SDM at Amazon, EM at Apple"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B conglomerate with 50,000+ engineers needing strong technical leadership + US R&D offices grant significant autonomy to EMs + Korean management track offers executive-level profit sharing | Samsung EMs lead teams building products for 1B+ users | **LEADERSHIP SCALE PREMIUM**"
+---
 ### Engineering Manager | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B conglomerate with 50,000+ engineers needing strong technical leadership + US R&D offices grant significant autonomy to EMs + Korean management track offers executive-level profit sharing | Samsung EMs lead teams building products for 1B+ users | **LEADERSHIP SCALE PREMIUM**

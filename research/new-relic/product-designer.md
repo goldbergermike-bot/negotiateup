@@ -1,3 +1,56 @@
+---
+company: new-relic
+company_display: New Relic
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 25000
+    total_comp_low: 185000
+    total_comp_high: 250000
+    currency: USD
+  - region: Portland
+    base_low: 130000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 8000
+    signing_bonus_high: 18000
+    total_comp_low: 165000
+    total_comp_high: 225000
+    currency: USD
+  - region: London
+    base_low: 80000
+    base_high: 115000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 6000
+    signing_bonus_high: 14000
+    total_comp_low: 100000
+    total_comp_high: 145000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Product Designer at New Relic maps to IC4/IC5 (mid-senior designer) across the industry. Equivalent titles include UX Designer (Amazon), Product Designer (Meta/Google), and Senior Designer (Datadog/Figma)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Product Designer | New Relic (Private — TPG/Francisco Partners) | Design Track | Options/4yr Vesting | Observability Platform"
+---
 ### Product Designer | New Relic Global Negotiation Guide
 
 **Negotiation DNA:** Product Designer | New Relic (Private — TPG/Francisco Partners) | Design Track | Options/4yr Vesting | Observability Platform

@@ -1,3 +1,49 @@
+---
+company: asml
+company_display: Asml
+role: euv-lithography-platform-engineer
+role_display: EUV Lithography Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 118000
+    base_high: 142000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_pct: 15
+    total_comp_low: 118000
+    total_comp_high: 168000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 185000
+    base_high: 260000
+    stock_low: 70000
+    stock_high: 105000
+    bonus_pct: 18
+    total_comp_low: 275000
+    total_comp_high: 385000
+    currency: USD
+  - region: San Jose
+    base_low: 195000
+    base_high: 270000
+    stock_low: 75000
+    stock_high: 110000
+    bonus_pct: 18
+    total_comp_low: 285000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML EUV Lithography Platform Engineer maps to Google L5–L6 Systems Engineer, Meta E5–E6 Infrastructure, Apple ICT4–ICT5, Microsoft Principal SDE 64–66, TSMC Senior/Principal Process Integration Engineer. Note: this mapping is approximate — no other company has a truly equivalent role, as no other company builds EUV lithography systems."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "SIGNATURE ROLE | Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +25-35% EUV Monopoly Premium"
+---
 ### EUV Lithography Platform Engineer | ASML Global Negotiation Guide
 
 **Negotiation DNA:** SIGNATURE ROLE | Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +25-35% EUV Monopoly Premium

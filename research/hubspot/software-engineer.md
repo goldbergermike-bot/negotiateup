@@ -1,3 +1,49 @@
+---
+company: hubspot
+company_display: Hubspot
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Cambridge, MA (HQ)"
+    base_low: 142000
+    base_high: 175000
+    stock_low: 95000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 218000
+    currency: USD
+  - region: "Dublin, Ireland"
+    base_low: 85000
+    base_high: 114000
+    stock_low: 52000
+    stock_high: 99000
+    bonus_pct: 10
+    total_comp_low: 99000
+    total_comp_high: 142000
+    currency: EUR
+  - region: "London, UK"
+    base_low: 92000
+    base_high: 123000
+    stock_low: 57000
+    stock_high: 107000
+    bonus_pct: 10
+    total_comp_low: 107000
+    total_comp_high: 153000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Balanced Comp (Base + RSU + 10-15% Bonus) | \"Grow Better\" Remote-First Culture | Breeze AI Copilot Integration | M&A Optionality"
+---
 ### Software Engineer | HubSpot Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp (Base + RSU + 10-15% Bonus) | "Grow Better" Remote-First Culture | Breeze AI Copilot Integration | M&A Optionality

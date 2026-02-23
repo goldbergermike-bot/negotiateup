@@ -1,3 +1,53 @@
+---
+company: bill-com
+company_display: Bill.com
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 165000
+    base_high: 215000
+    stock_low: 110000
+    stock_high: 210000
+    bonus_low: 16000
+    bonus_high: 32000
+    total_comp_low: 291000
+    total_comp_high: 457000
+    currency: USD
+  - region: Houston TX
+    base_low: 145000
+    base_high: 190000
+    stock_low: 85000
+    stock_high: 170000
+    bonus_low: 13000
+    bonus_high: 26000
+    total_comp_low: 243000
+    total_comp_high: 386000
+    currency: USD
+  - region: Salt Lake City UT
+    base_low: 138000
+    base_high: 182000
+    stock_low: 78000
+    stock_high: 155000
+    bonus_low: 12000
+    bonus_high: 24000
+    total_comp_low: 228000
+    total_comp_high: 361000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| BILL | Google | Meta | Stripe | PayPal | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: BILL` `Agentic AP` `Security Engineer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Financial Security` `Compliance`"
+---
 ### Security Engineer | Bill.com Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: BILL` `Agentic AP` `Security Engineer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Financial Security` `Compliance`

@@ -1,3 +1,49 @@
+---
+company: genentech
+company_display: Genentech
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: South San Francisco
+    base_low: 155000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 220000
+    total_comp_high: 345000
+    currency: USD
+  - region: Bay Area Remote
+    base_low: 145000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 205000
+    total_comp_high: 330000
+    currency: USD
+  - region: Other US
+    base_low: 140000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Genentech TPM = Google L4-L5 TPM = Moderna TPM = Illumina TPM (comparable TC)
+data_sources:
+  - Levels.fyi
+  - Hired
+negotiation_dna_summary: "Roche Subsidiary / Bay Area Biotech Premium / RSU + Bonus / R&D Program Execution"
+---
 ### Technical Program Manager | Genentech Global Negotiation Guide
 
 **Negotiation DNA:** Roche Subsidiary / Bay Area Biotech Premium / RSU + Bonus / R&D Program Execution

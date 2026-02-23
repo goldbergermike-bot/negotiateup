@@ -1,3 +1,48 @@
+---
+company: mercury
+company_display: Mercury
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 215000
+    stock_low: 165000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 298000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 210000
+    stock_low: 160000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 290000
+    currency: USD
+  - region: Remote (US)
+    base_low: 155000
+    base_high: 198000
+    stock_low: 145000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Mercury Security (Mid) = Google L4 Security = Meta E4 Security = Stripe L3 Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure"
+---
 ### Security Engineer | Mercury Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure

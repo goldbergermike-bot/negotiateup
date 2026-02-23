@@ -1,3 +1,51 @@
+---
+company: intercontinental-exchange
+company_display: Intercontinental Exchange
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta (HQ)
+    base_low: 148000
+    base_high: 198000
+    stock_low: 145000
+    stock_high: 245000
+    bonus_low: 28000
+    bonus_high: 45000
+    total_comp_low: 212000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York
+    base_low: 166000
+    base_high: 222000
+    stock_low: 162000
+    stock_high: 274000
+    bonus_low: 31000
+    bonus_high: 50000
+    total_comp_low: 237000
+    total_comp_high: 342000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 158000
+    stock_low: 116000
+    stock_high: 196000
+    bonus_low: 22000
+    bonus_high: 36000
+    total_comp_low: 170000
+    total_comp_high: 244000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Financial Infrastructure Security` `Regulatory Compliance` `Critical National Infrastructure Protection`"
+---
 ### Security Engineer | Intercontinental Exchange (ICE) Global Negotiation Guide
 
 **Negotiation DNA:** `Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Financial Infrastructure Security` `Regulatory Compliance` `Critical National Infrastructure Protection`

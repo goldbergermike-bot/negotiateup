@@ -1,3 +1,55 @@
+---
+company: tenable
+company_display: Tenable
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Columbia MD
+    base_low: 120000
+    base_high: 150000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 20000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Austin
+    base_low: 115000
+    base_high: 145000
+    stock_low: 35000
+    stock_high: 75000
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 20000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 70000
+    base_high: 90000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: 10
+    signing_bonus_low: 5000
+    signing_bonus_high: 12000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Software Engineer at Tenable maps to IC2/L3 equivalent at peer cybersecurity companies (CrowdStrike, Palo Alto Networks, Rapid7) and mid-level SWE at FAANG-tier companies."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London"
+---
 ### Software Engineer | Tenable Global Negotiation Guide
 
 **Negotiation DNA:** Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London

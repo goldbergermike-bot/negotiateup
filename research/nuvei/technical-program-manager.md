@@ -1,3 +1,52 @@
+---
+company: nuvei
+company_display: Nuvei
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montreal
+    base_low: 125000
+    base_high: 175000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 175000
+    total_comp_high: 273000
+    currency: CAD
+  - region: New York
+    base_low: 160000
+    base_high: 225000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 225000
+    total_comp_high: 353000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 130000
+    stock_low: 22000
+    stock_high: 48000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 122000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Nuvei | Google | Meta | Stripe | Adyen | Global Payments |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Program Execution` `Cross-Functional` `Montreal HQ`"
+---
 ### Technical Program Manager | Nuvei Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Program Execution` `Cross-Functional` `Montreal HQ`

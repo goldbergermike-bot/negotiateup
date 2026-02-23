@@ -1,3 +1,52 @@
+---
+company: doordash
+company_display: DoorDash
+role: local-commerce-platform-engineer
+role_display: Local Commerce Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 228000
+    base_high: 285000
+    stock_low: 298000
+    stock_high: 522000
+    bonus_pct: 15
+    total_comp_low: 296000
+    total_comp_high: 412000
+    currency: USD
+  - region: New York City
+    base_low: 228000
+    base_high: 285000
+    stock_low: 298000
+    stock_high: 522000
+    bonus_pct: 15
+    total_comp_low: 296000
+    total_comp_high: 412000
+    currency: USD
+  - region: Sydney
+    base_low: 188000
+    base_high: 235000
+    stock_low: 194000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 242000
+    total_comp_high: 338000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: DoorDash Local Commerce Platform Eng (Senior) = Google L4-L5 Platform = Uber Senior Platform = Shopify Senior Platform
+data_sources:
+  - DoorDash Local Commerce Platform — Multi-Vertical Architecture 2026
+  - DoorDash $1T+ Local Commerce TAM — Investor Presentation 2026
+  - DoorDash DashPass Subscription Platform — Recurring Revenue Infrastructure
+  - "DoorDash ML-Powered Logistics — Autonomous Dispatch & Route Optimization"
+  - "AI Premium — 15-25% for Autonomous Local Commerce Platform Development"
+negotiation_dna_summary: "Equity-Heavy + Competitive Base + Bonus | **SIGNATURE ROLE** | **+15–25% AI PREMIUM**"
+---
 ### Local Commerce Platform Engineer | DoorDash Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base + Bonus | **SIGNATURE ROLE** | **+15–25% AI PREMIUM**

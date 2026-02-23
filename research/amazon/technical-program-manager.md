@@ -1,3 +1,66 @@
+---
+company: amazon
+company_display: Amazon
+role: technical-program-manager
+role_display: Technical Program Manager (TPM)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 150000
+    base_high: 185000
+    stock_low: 200000
+    stock_high: 550000
+    bonus_pct: null
+    signing_bonus_low: 55000
+    signing_bonus_high: 110000
+    total_comp_low: 280000
+    total_comp_high: 460000
+    currency: USD
+  - region: Bay Area
+    base_low: 155000
+    base_high: 185000
+    stock_low: 215000
+    stock_high: 575000
+    bonus_pct: null
+    signing_bonus_low: 60000
+    signing_bonus_high: 115000
+    total_comp_low: 290000
+    total_comp_high: 475000
+    currency: USD
+  - region: NYC
+    base_low: 155000
+    base_high: 185000
+    stock_low: 210000
+    stock_high: 565000
+    bonus_pct: null
+    signing_bonus_low: 55000
+    signing_bonus_high: 110000
+    total_comp_low: 285000
+    total_comp_high: 465000
+    currency: USD
+  - region: Arlington VA
+    base_low: 148000
+    base_high: 180000
+    stock_low: 190000
+    stock_high: 520000
+    bonus_pct: null
+    signing_bonus_low: 50000
+    signing_bonus_high: 100000
+    total_comp_low: 265000
+    total_comp_high: 435000
+    currency: USD
+level_mapping:
+  internal: TPM
+  raw: Amazon TPM L6 = Google TPM L5 = Meta TPM IC5 = Apple TPM ICT4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Back-Loaded RSU Vesting / Signing Bonus Bridge | Amazon's Signature Program Management Role"
+---
 ### Technical Program Manager (TPM) | Amazon Global Negotiation Guide
 
 **Negotiation DNA:** Back-Loaded RSU Vesting / Signing Bonus Bridge | Amazon's Signature Program Management Role

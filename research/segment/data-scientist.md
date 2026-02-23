@@ -1,3 +1,48 @@
+---
+company: segment
+company_display: Segment
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 210000
+    stock_low: 120000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 295000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 205000
+    stock_low: 115000
+    stock_high: 205000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 285000
+    currency: USD
+  - region: London
+    base_low: 122000
+    base_high: 152000
+    stock_low: 82000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Segment DS = Google L4 DS = Meta E4 DS = mParticle Senior DS = Amplitude DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Twilio RSU + Performance Bonus | AI Customer Intelligence Models 2026"
+---
 ### Data Scientist | Segment Global Negotiation Guide
 
 **Negotiation DNA:** Twilio RSU + Performance Bonus | AI Customer Intelligence Models 2026

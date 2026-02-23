@@ -1,3 +1,53 @@
+---
+company: ubs
+company_display: UBS
+role: migration-platform-engineer
+role_display: Migration Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 265000
+    base_high: 365000
+    stock_low: 72000
+    stock_high: 120000
+    bonus_low: 55000
+    bonus_high: 90000
+    total_comp_low: 392000
+    total_comp_high: 575000
+    currency: USD
+  - region: Zurich (HQ)
+    base_low: 233000
+    base_high: 321000
+    stock_low: 63000
+    stock_high: 106000
+    bonus_low: 48000
+    bonus_high: 79000
+    total_comp_low: 345000
+    total_comp_high: 506000
+    currency: CHF
+  - region: London
+    base_low: 212000
+    base_high: 292000
+    stock_low: 58000
+    stock_high: 96000
+    bonus_low: 44000
+    bonus_high: 72000
+    total_comp_low: 314000
+    total_comp_high: 460000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Migration Platform Ownership` `Decommissioning Automation` `Integration Toolchain` `Cross-Bank Platform Engineering` `Savings Acceleration Engine`"
+---
 ### Migration Platform Engineer | UBS Global Negotiation Guide
 
 **SIGNATURE ROLE** — This is the defining engineering role of UBS's Credit Suisse integration. Migration Platform Engineers are the architects and builders of the tooling, frameworks, and platforms that power the largest banking technology merger in history.

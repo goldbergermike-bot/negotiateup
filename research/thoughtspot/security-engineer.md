@@ -1,3 +1,40 @@
+---
+company: thoughtspot
+company_display: Thoughtspot
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale HQ
+    base_low: 160000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: ThoughtSpot Senior Security Eng = Tableau Senior Security Eng = Salesforce Security Eng
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private Equity-Backed | AI-Powered Analytics Pioneer | Liquidity Risk Premium Required"
+---
 ### Security Engineer | ThoughtSpot Global Negotiation Guide
 
 **Negotiation DNA:** Private Equity-Backed | AI-Powered Analytics Pioneer | Liquidity Risk Premium Required

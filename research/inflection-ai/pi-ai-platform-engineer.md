@@ -1,3 +1,53 @@
+---
+company: inflection-ai
+company_display: Inflection AI
+role: pi-ai-platform-engineer
+role_display: Pi AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 220000
+    base_high: 305000
+    stock_low: 180000
+    stock_high: 430000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 270000
+    total_comp_high: 418000
+    currency: USD
+  - region: Seattle
+    base_low: 213000
+    base_high: 296000
+    stock_low: 180000
+    stock_high: 430000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 262000
+    total_comp_high: 407000
+    currency: USD
+  - region: Remote US
+    base_low: 198000
+    base_high: 275000
+    stock_low: 162000
+    stock_high: 387000
+    bonus_low: 18000
+    bonus_high: 36000
+    total_comp_low: 243000
+    total_comp_high: 376000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Inflection Pi Platform Engineer = Microsoft L64-L65 = Google L5-L6 = Meta E5-E6 = OpenAI Research Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | **SIGNATURE ROLE** | **+15-30% ML PREMIUM** | Pi AI Assistant"
+---
 ### Pi AI Platform Engineer | Inflection AI Global Negotiation Guide
 
 **Negotiation DNA:** Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | **SIGNATURE ROLE** | **+15-30% ML PREMIUM** | Pi AI Assistant

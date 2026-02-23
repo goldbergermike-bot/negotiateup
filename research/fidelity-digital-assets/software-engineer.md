@@ -1,3 +1,51 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 145000
+    base_high: 178000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_low: 28000
+    bonus_high: 42000
+    total_comp_low: 205000
+    total_comp_high: 288000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 192000
+    stock_low: 130000
+    stock_high: 215000
+    bonus_low: 32000
+    bonus_high: 48000
+    total_comp_low: 222000
+    total_comp_high: 312000
+    currency: USD
+  - region: Remote US
+    base_low: 132000
+    base_high: 162000
+    stock_low: 110000
+    stock_high: 180000
+    bonus_low: 25000
+    bonus_high: 38000
+    total_comp_low: 188000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#BlockchainEngineering` `#DigitalAssets` `#FIDD`"
+---
 ### Software Engineer | Fidelity Digital Assets Global Negotiation Guide
 
 **Negotiation DNA:** `#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#BlockchainEngineering` `#DigitalAssets` `#FIDD`

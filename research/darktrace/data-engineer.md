@@ -1,3 +1,58 @@
+---
+company: darktrace
+company_display: Darktrace
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge UK
+    base_low: 60000
+    base_high: 90000
+    stock_low: 20000
+    stock_high: 45000
+    bonus_low: 6000
+    bonus_high: 13500
+    signing_bonus_low: 3000
+    signing_bonus_high: 8000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: London
+    base_low: 70000
+    base_high: 105000
+    stock_low: 25000
+    stock_high: 60000
+    bonus_low: 7000
+    bonus_high: 15750
+    signing_bonus_low: 5000
+    signing_bonus_high: 12000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: San Francisco
+    base_low: 150000
+    base_high: 205000
+    stock_low: 50000
+    stock_high: 120000
+    bonus_low: 15000
+    bonus_high: 30750
+    signing_bonus_low: 10000
+    signing_bonus_high: 25000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Engineer at Darktrace maps to L4–L5 Data Engineer at Google, IC4–IC5 Data Engineer at Meta, Data Engineer II–III at Amazon, and 61–63 DE at Microsoft."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Data Engineer | Darktrace (LSE: DARK) | IC Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco"
+---
 ### Data Engineer | Darktrace Global Negotiation Guide
 
 **Negotiation DNA:** Data Engineer | Darktrace (LSE: DARK) | IC Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco

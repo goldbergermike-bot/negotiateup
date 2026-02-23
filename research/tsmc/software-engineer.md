@@ -1,3 +1,49 @@
+---
+company: tsmc
+company_display: TSMC
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Phoenix AZ
+    base_low: 115000
+    base_high: 148000
+    stock_low: 30000
+    stock_high: 50000
+    bonus_pct: 15
+    total_comp_low: 152000
+    total_comp_high: 212000
+    currency: USD
+  - region: San Jose
+    base_low: 125000
+    base_high: 160000
+    stock_low: 35000
+    stock_high: 55000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 228000
+    currency: USD
+  - region: Hsinchu Taiwan
+    base_low: null
+    base_high: null
+    stock_low: 20000
+    stock_high: 35000
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: TSMC Software Engineer = Intel Foundry SWE (Grade 6–7) = Samsung Foundry SWE = GlobalFoundries SWE = Applied Materials Software Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone"
+---
 ### Software Engineer | TSMC Global Negotiation Guide
 
 **Negotiation DNA:** Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone

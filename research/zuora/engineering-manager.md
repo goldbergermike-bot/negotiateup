@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 185000
+    base_high: 258000
+    stock_low: 80000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 385000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 162000
+    base_high: 228000
+    stock_low: 60000
+    stock_high: 175000
+    bonus_pct: 12
+    total_comp_low: 205000
+    total_comp_high: 335000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 82000
+    base_high: 125000
+    stock_low: 32000
+    stock_high: 78000
+    bonus_pct: 12
+    total_comp_low: 108000
+    total_comp_high: 172000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 3500000
+    base_high: 6200000
+    stock_low: 1600000
+    stock_high: 4000000
+    bonus_pct: 12
+    total_comp_low: 4500000
+    total_comp_high: 8200000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 142000
+    base_high: 205000
+    stock_low: 48000
+    stock_high: 118000
+    bonus_pct: 12
+    total_comp_low: 172000
+    total_comp_high: 272000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora EM ~ Chargebee EM/Director | Recurly Director | Stripe EM | Salesforce EM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Subscription platform engineering leader | Billing system team builder & delivery driver | **LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Subscription platform engineering leader | Billing system team builder & delivery driver | **LEADERSHIP PREMIUM**

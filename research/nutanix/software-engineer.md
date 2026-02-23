@@ -1,3 +1,48 @@
+---
+company: nutanix
+company_display: Nutanix
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 370000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 348000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2000000
+    total_comp_high: 9800000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Software Engineers at Nutanix build the hybrid multi-cloud and hyperconverged infrastructure (HCI) platform that simplifies enterprise data center operations, eliminating complex legacy infrastructure and enabling seamless cloud operations."
+---
 ### Software Engineer — Nutanix Salary Negotiation Guide
 
 **Negotiation DNA**: Software Engineers at Nutanix build the hybrid multi-cloud and hyperconverged infrastructure (HCI) platform that simplifies enterprise data center operations, eliminating complex legacy infrastructure and enabling seamless cloud operations.

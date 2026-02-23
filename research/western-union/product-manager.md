@@ -1,3 +1,52 @@
+---
+company: western-union
+company_display: Western Union
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver CO
+    base_low: 140000
+    base_high: 180000
+    stock_low: 50000
+    stock_high: 90000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 210000
+    total_comp_high: 310000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 205000
+    stock_low: 60000
+    stock_high: 110000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 245000
+    total_comp_high: 365000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 120000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 134000
+    total_comp_high: 208000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Western Union | Google | Meta | Stripe | JPMorgan | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: WU` `USDPT` `Product Manager` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Stablecoin Product Strategy`"
+---
 ### Product Manager | Western Union Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: WU` `USDPT` `Product Manager` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Stablecoin Product Strategy`

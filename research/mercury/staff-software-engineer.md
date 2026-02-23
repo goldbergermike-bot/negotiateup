@@ -1,3 +1,49 @@
+---
+company: mercury
+company_display: Mercury
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 230000
+    base_high: 275000
+    stock_low: 330000
+    stock_high: 500000
+    bonus_pct: 10
+    total_comp_low: 318000
+    total_comp_high: 415000
+    currency: USD
+  - region: New York
+    base_low: 225000
+    base_high: 270000
+    stock_low: 320000
+    stock_high: 480000
+    bonus_pct: 10
+    total_comp_low: 310000
+    total_comp_high: 405000
+    currency: USD
+  - region: Remote (US)
+    base_low: 210000
+    base_high: 255000
+    stock_low: 290000
+    stock_high: 440000
+    bonus_pct: 10
+    total_comp_low: 288000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Mercury SWE (Staff) = Google L5 = Meta E5 = Stripe L4
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure"
+---
 ### Staff Software Engineer | Mercury Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure

@@ -1,3 +1,49 @@
+---
+company: coreweave
+company_display: Coreweave
+role: gpu-cloud-infrastructure-engineer
+role_display: GPU Cloud Infrastructure Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Roseland NJ
+    base_low: 232000
+    base_high: 290000
+    stock_low: 345000
+    stock_high: 605000
+    bonus_pct: null
+    total_comp_low: 318000
+    total_comp_high: 441000
+    currency: USD
+  - region: Remote US
+    base_low: 223000
+    base_high: 281000
+    stock_low: 345000
+    stock_high: 605000
+    bonus_pct: null
+    total_comp_low: 309000
+    total_comp_high: 432000
+    currency: USD
+  - region: London
+    base_low: 175000
+    base_high: 218000
+    stock_low: 260000
+    stock_high: 456000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 332000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: CoreWeave GPU Cloud Infrastructure Engineer = Google L5 Systems Engineer = AWS Principal Infrastructure Engineer = Meta E5 Infrastructure Engineer = NVIDIA Senior Infrastructure Engineer = Apple ICT4 Systems Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium | **SIGNATURE ROLE** | **+20-30% HPC PREMIUM**"
+---
 ### GPU Cloud Infrastructure Engineer | CoreWeave Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium | **SIGNATURE ROLE** | **+20-30% HPC PREMIUM**

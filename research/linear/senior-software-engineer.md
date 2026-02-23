@@ -1,3 +1,50 @@
+---
+company: linear
+company_display: Linear
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 250000
+    stock_low: 200000
+    stock_high: 400000
+    bonus_pct: 5
+    total_comp_low: 295000
+    total_comp_high: 445000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 250000
+    stock_low: 200000
+    stock_high: 400000
+    bonus_pct: 5
+    total_comp_low: 295000
+    total_comp_high: 445000
+    currency: USD
+  - region: London
+    base_low: 148000
+    base_high: 190000
+    stock_low: 152000
+    stock_high: 304000
+    bonus_pct: 5
+    total_comp_low: 224000
+    total_comp_high: 339000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Linear Senior SWE = Google L5 = Meta E5 = Notion Senior Engineer = Figma Senior Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strong Base + Significant Pre-IPO Equity | Project Management Reimagined | 2026 Focus: AI-Native Project Intelligence"
+---
 ### Senior Software Engineer | Linear Global Negotiation Guide
 
 **Negotiation DNA:** Strong Base + Significant Pre-IPO Equity | Project Management Reimagined | 2026 Focus: AI-Native Project Intelligence

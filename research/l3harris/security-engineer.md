@@ -1,3 +1,49 @@
+---
+company: l3harris
+company_display: L3Harris
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Melbourne, FL"
+    base_low: 115000
+    base_high: 165000
+    stock_low: 24000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 218000
+    currency: USD
+  - region: "Salt Lake City, UT"
+    base_low: 110000
+    base_high: 160000
+    stock_low: 24000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 133000
+    total_comp_high: 213000
+    currency: USD
+  - region: "Rochester, NY"
+    base_low: 110000
+    base_high: 160000
+    stock_low: 22000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 131000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: L3Harris Security Eng = Raytheon Cyber Eng = Northrop Security Eng -- defense security is distinct from commercial cybersecurity
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense Compensation + Clearance Premium | $45B Market Cap | Defense Security/CMMC/Classified Systems | Standard 40-45 Hour Culture"
+---
 ### Security Engineer | L3Harris Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense Compensation + Clearance Premium | $45B Market Cap | Defense Security/CMMC/Classified Systems | Standard 40-45 Hour Culture

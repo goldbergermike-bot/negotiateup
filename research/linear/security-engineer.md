@@ -1,3 +1,50 @@
+---
+company: linear
+company_display: Linear
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 235000
+    stock_low: 140000
+    stock_high: 280000
+    bonus_pct: 5
+    total_comp_low: 248000
+    total_comp_high: 370000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 235000
+    stock_low: 140000
+    stock_high: 280000
+    bonus_pct: 5
+    total_comp_low: 248000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: 137000
+    base_high: 179000
+    stock_low: 107000
+    stock_high: 213000
+    bonus_pct: 5
+    total_comp_low: 189000
+    total_comp_high: 282000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Linear Security Engineer = Google L4-L5 Security Engineer = Meta E4-E5 Security Engineer = Notion Security Engineer = Asana Security Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Security-Premium Base + Pre-IPO Equity | Project Management Reimagined | 2026 Focus: AI Feature Security & Enterprise Trust"
+---
 ### Security Engineer | Linear Global Negotiation Guide
 
 **Negotiation DNA:** Security-Premium Base + Pre-IPO Equity | Project Management Reimagined | 2026 Focus: AI Feature Security & Enterprise Trust

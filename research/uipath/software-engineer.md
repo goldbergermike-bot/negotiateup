@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 140000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 270000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 122000
+    base_high: 172000
+    stock_low: 38000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 232000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 35000
+    base_high: 60000
+    stock_low: 12000
+    stock_high: 35000
+    bonus_pct: 10
+    total_comp_low: 42000
+    total_comp_high: 78000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 58000
+    base_high: 92000
+    stock_low: 20000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 72000
+    total_comp_high: 122000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 1600000
+    base_high: 3200000
+    stock_low: 700000
+    stock_high: 2200000
+    bonus_pct: 10
+    total_comp_low: 2200000
+    total_comp_high: 4200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath IC1/IC2 ~ Microsoft 59/61 | Google L3/L4 | Automation Anywhere SWE/Senior | Salesforce MTS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Automation platform builder | RPA & enterprise automation development | **ENTERPRISE AUTOMATION PREMIUM**"
+---
 ### Software Engineer | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** Automation platform builder | RPA & enterprise automation development | **ENTERPRISE AUTOMATION PREMIUM**

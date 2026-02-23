@@ -1,3 +1,48 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 75000
+    base_high: 102000
+    stock_low: 85000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 96000
+    total_comp_high: 143000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 78000
+    stock_high: 152000
+    bonus_pct: null
+    total_comp_low: 89000
+    total_comp_high: 132000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 85000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 89000
+    total_comp_high: 133000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Mistral Solutions Architect = Google Cloud Solutions Architect Paris = AWS Solutions Architect (Senior) = DeepMind Applied Engineer. Google Cloud SA Paris total comp ranges €100K-€160K. Enterprise AI architecture roles with regulatory compliance expertise command a 10-15% premium."
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium"
+---
 ### Solutions Architect | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium

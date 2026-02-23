@@ -1,3 +1,48 @@
+---
+company: snowflake-ai
+company_display: Snowflake AI
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bozeman
+    base_low: 170000
+    base_high: 210000
+    stock_low: 185000
+    stock_high: 298000
+    bonus_pct: null
+    total_comp_low: 216000
+    total_comp_high: 285000
+    currency: USD
+  - region: Seattle
+    base_low: 164000
+    base_high: 204000
+    stock_low: 178000
+    stock_high: 285000
+    bonus_pct: null
+    total_comp_low: 208000
+    total_comp_high: 275000
+    currency: USD
+  - region: Warsaw
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snowflake DevOps = Google L3-L4 SRE = Meta Production Engineer E3-E4 = Amazon L4-L5 SDE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Cortex AI Platform Pivot | CEO-Led AI Transformation | TOP-OF-MARKET Initial Grants"
+---
 ### DevOps Engineer | Snowflake AI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Cortex AI Platform Pivot | CEO-Led AI Transformation | TOP-OF-MARKET Initial Grants

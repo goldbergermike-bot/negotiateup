@@ -1,3 +1,51 @@
+---
+company: interactive-brokers
+company_display: Interactive Brokers
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Greenwich, CT (HQ)"
+    base_low: 147000
+    base_high: 205000
+    stock_low: 36000
+    stock_high: 60000
+    bonus_low: 25000
+    bonus_high: 37000
+    total_comp_low: 208000
+    total_comp_high: 302000
+    currency: USD
+  - region: New York
+    base_low: 154000
+    base_high: 215000
+    stock_low: 38000
+    stock_high: 63000
+    bonus_low: 26000
+    bonus_high: 39000
+    total_comp_low: 218000
+    total_comp_high: 317000
+    currency: USD
+  - region: London
+    base_low: 109000
+    base_high: 152000
+    stock_low: 27000
+    stock_high: 44000
+    bonus_low: 18000
+    bonus_high: 27000
+    total_comp_low: 154000
+    total_comp_high: 223000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Multi-Asset Platform Architecture` `API Integration Design` `Enterprise Client Solutions`"
+---
 ### Solutions Architect | Interactive Brokers Global Negotiation Guide
 
 **Negotiation DNA:** `ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Multi-Asset Platform Architecture` `API Integration Design` `Enterprise Client Solutions`

@@ -1,3 +1,52 @@
+---
+company: mastercard
+company_display: Mastercard
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Purchase NY
+    base_low: 200000
+    base_high: 255000
+    stock_low: 200000
+    stock_high: 350000
+    bonus_low: 40000
+    bonus_high: 65000
+    total_comp_low: 440000
+    total_comp_high: 670000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 265000
+    stock_low: 220000
+    stock_high: 380000
+    bonus_low: 42000
+    bonus_high: 68000
+    total_comp_low: 472000
+    total_comp_high: 713000
+    currency: USD
+  - region: London
+    base_low: 135000
+    base_high: 175000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_low: 24000
+    bonus_high: 38000
+    total_comp_low: 279000
+    total_comp_high: 413000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Mastercard | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `Staff IC` `Payments Architecture` `Biometric Authentication` `Platform Leadership`"
+---
 ### Staff Software Engineer | Mastercard Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `Staff IC` `Payments Architecture` `Biometric Authentication` `Platform Leadership`

@@ -1,3 +1,53 @@
+---
+company: airbase
+company_display: Airbase
+role: interoperability-platform-engineer
+role_display: Interoperability Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 250000
+    stock_low: 80000
+    stock_high: 180000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 285000
+    total_comp_high: 470000
+    currency: USD
+  - region: Bangalore
+    base_low: 3500000
+    base_high: 6000000
+    stock_low: 2000000
+    stock_high: 4500000
+    bonus_low: 500000
+    bonus_high: 1000000
+    total_comp_low: 6000000
+    total_comp_high: 11500000
+    currency: INR
+  - region: New York
+    base_low: 190000
+    base_high: 255000
+    stock_low: 80000
+    stock_high: 180000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 290000
+    total_comp_high: 475000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Airbase | Google | Meta | Stripe | Bill.com | Coupa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Platform Engineering` `API Architecture` `Oracle/SAP Integration` `Enterprise Middleware` `Financial Data Exchange`"
+---
 ### Interoperability Platform Engineer | Airbase Global Negotiation Guide
 
 **SIGNATURE ROLE — This guide is written at 2x length to reflect the strategic importance of the Interoperability Platform Engineer to Airbase's 2026 trajectory.**

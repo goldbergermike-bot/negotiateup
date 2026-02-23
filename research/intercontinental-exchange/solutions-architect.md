@@ -1,3 +1,51 @@
+---
+company: intercontinental-exchange
+company_display: Intercontinental Exchange
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta (HQ)
+    base_low: 145000
+    base_high: 195000
+    stock_low: 140000
+    stock_high: 240000
+    bonus_low: 28000
+    bonus_high: 45000
+    total_comp_low: 208000
+    total_comp_high: 302000
+    currency: USD
+  - region: New York
+    base_low: 162000
+    base_high: 218000
+    stock_low: 157000
+    stock_high: 269000
+    bonus_low: 31000
+    bonus_high: 50000
+    total_comp_low: 233000
+    total_comp_high: 338000
+    currency: USD
+  - region: London
+    base_low: 116000
+    base_high: 156000
+    stock_low: 112000
+    stock_high: 192000
+    bonus_low: 22000
+    bonus_high: 36000
+    total_comp_low: 166000
+    total_comp_high: 242000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Enterprise Architecture` `Client Integration` `Cross-Platform System Design`"
+---
 ### Solutions Architect | Intercontinental Exchange (ICE) Global Negotiation Guide
 
 **Negotiation DNA:** `Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Enterprise Architecture` `Client Integration` `Cross-Platform System Design`

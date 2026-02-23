@@ -1,3 +1,52 @@
+---
+company: ally-financial
+company_display: Ally Financial
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Detroit, MI (HQ)"
+    base_low: 118000
+    base_high: 156000
+    stock_low: 25000
+    stock_high: 46000
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 168000
+    total_comp_high: 242000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 124000
+    base_high: 164000
+    stock_low: 26000
+    stock_high: 48000
+    bonus_low: 26000
+    bonus_high: 42000
+    total_comp_low: 176000
+    total_comp_high: 254000
+    currency: USD
+  - region: New York
+    base_low: 139000
+    base_high: 184000
+    stock_low: 30000
+    stock_high: 54000
+    bonus_low: 29000
+    bonus_high: 47000
+    total_comp_low: 198000
+    total_comp_high: 286000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "`Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Data Pipeline Architecture` `Financial Data Governance` `Real-Time Streaming`"
+---
 ### Data Engineer | Ally Financial Global Negotiation Guide
 
 **Negotiation DNA:** `Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Data Pipeline Architecture` `Financial Data Governance` `Real-Time Streaming`

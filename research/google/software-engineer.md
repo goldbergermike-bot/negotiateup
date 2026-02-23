@@ -1,3 +1,80 @@
+---
+company: google
+company_display: Google
+role: software-engineer
+role_display: Software Engineer (L3-L4)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 152000
+    base_high: 215000
+    stock_low: 110000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 340000
+    currency: USD
+  - region: New York City
+    base_low: 148000
+    base_high: 210000
+    stock_low: 105000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 330000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 145000
+    base_high: 205000
+    stock_low: 100000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 135000
+    stock_low: 60000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 110000
+    total_comp_high: 215000
+    currency: GBP
+  - region: Zurich
+    base_low: 120000
+    base_high: 190000
+    stock_low: 90000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 160000
+    total_comp_high: 280000
+    currency: CHF
+  - region: Bangalore
+    base_low: 2000000
+    base_high: 3800000
+    stock_low: 1500000
+    stock_high: 4000000
+    bonus_pct: 15
+    total_comp_low: 3000000
+    total_comp_high: 5800000
+    currency: INR
+level_mapping:
+  internal: L3-L4
+  raw: "SWE L3 at Google = E3 at Meta, L59-L60 at Microsoft, SDE I at Amazon, ICT2 at Apple | SWE L4 at Google = E4 at Meta, L61-L62 at Microsoft, SDE II at Amazon, ICT3 at Apple"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+  - Reddit
+negotiation_dna_summary: "Elite hiring bar + Competitive base + substantial RSU grants even at junior levels + 15% target bonus | Google SWE is the most coveted engineering credential globally | **CAREER LAUNCHPAD PREMIUM**"
+---
 ### Software Engineer (L3-L4) | Google Global Negotiation Guide
 
 **Negotiation DNA:** Elite hiring bar + Competitive base + substantial RSU grants even at junior levels + 15% target bonus | Google SWE is the most coveted engineering credential globally | **CAREER LAUNCHPAD PREMIUM**

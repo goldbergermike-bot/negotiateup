@@ -1,3 +1,50 @@
+---
+company: warner-bros-discovery
+company_display: Warner Bros. Discovery
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Los Angeles
+    base_low: 160000
+    base_high: 215000
+    stock_low: 55000
+    stock_high: 165000
+    bonus_pct: 12
+    total_comp_low: 205000
+    total_comp_high: 320000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 150000
+    base_high: 205000
+    stock_low: 48000
+    stock_high: 150000
+    bonus_pct: 12
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+  - region: London (UK)
+    base_low: 118000
+    base_high: 160000
+    stock_low: 38000
+    stock_high: 118000
+    bonus_pct: 12
+    total_comp_low: 155000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: WBD EM (M1-M2) = Google L5-L6 Manager = Meta E5-E6 Manager = Amazon L6-L7 Manager = Netflix EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$25B Media Company | Streaming Team Leadership | Max / HBO / Discovery Technical Teams"
+---
 ### Engineering Manager | Warner Bros Discovery Global Negotiation Guide
 
 **Negotiation DNA:** $25B Media Company | Streaming Team Leadership | Max / HBO / Discovery Technical Teams

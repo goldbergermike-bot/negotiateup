@@ -1,3 +1,49 @@
+---
+company: samsara
+company_display: Samsara
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 148000
+    base_high: 178000
+    stock_low: 75000
+    stock_high: 140000
+    bonus_pct: 8
+    total_comp_low: 212000
+    total_comp_high: 245000
+    currency: USD
+  - region: Atlanta
+    base_low: 125000
+    base_high: 152000
+    stock_low: 62000
+    stock_high: 115000
+    bonus_pct: 8
+    total_comp_low: 175000
+    total_comp_high: 205000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 165000
+    stock_low: 68000
+    stock_high: 125000
+    bonus_pct: 8
+    total_comp_low: 190000
+    total_comp_high: 222000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Samsara Data Engineer = Google L4/L5 Data Engineer = Meta Data Engineer = Amazon Data Engineer = Snowflake Data Engineer"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Industrial IoT & AI Platform | GAAP Profitable | Super Bowl AI Coach | +8% Data Infrastructure Premium"
+---
 ### Data Engineer | Samsara Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Industrial IoT & AI Platform | GAAP Profitable | Super Bowl AI Coach | +8% Data Infrastructure Premium

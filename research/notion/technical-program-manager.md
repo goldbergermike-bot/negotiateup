@@ -1,3 +1,48 @@
+---
+company: notion
+company_display: Notion
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 238000
+    stock_low: 195000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 278000
+    total_comp_high: 388000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 233000
+    stock_low: 190000
+    stock_high: 330000
+    bonus_pct: 10
+    total_comp_low: 270000
+    total_comp_high: 378000
+    currency: USD
+  - region: London
+    base_low: 122000
+    base_high: 158000
+    stock_low: 128000
+    stock_high: 225000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 255000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Notion TPM (L4-L5) = Google TPM L5-L6 = Meta TPM E5-E6 = Figma TPM = Stripe TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI Workspace Program Execution | 100M+ Users | **NOTION AI PREMIUM**"
+---
 ### Technical Program Manager | Notion Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI Workspace Program Execution | 100M+ Users | **NOTION AI PREMIUM**

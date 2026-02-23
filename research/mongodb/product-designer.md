@@ -1,3 +1,48 @@
+---
+company: mongodb
+company_display: Mongodb
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 145000
+    base_high: 178000
+    stock_low: 110000
+    stock_high: 185000
+    bonus_pct: null
+    total_comp_low: 173000
+    total_comp_high: 225000
+    currency: USD
+  - region: Dublin
+    base_low: 58000
+    base_high: 75000
+    stock_low: 45000
+    stock_high: 75000
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 94000
+    currency: EUR
+  - region: Austin
+    base_low: 135000
+    base_high: 168000
+    stock_low: 100000
+    stock_high: 170000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: MongoDB Senior Designer = Google L4 UX = Elastic Senior Designer = Confluent Senior Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + No Bonus | \"Battle for the AI Data Layer\" | Voyage AI Acquisition Premium"
+---
 ### Product Designer | MongoDB Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + No Bonus | "Battle for the AI Data Layer" | Voyage AI Acquisition Premium

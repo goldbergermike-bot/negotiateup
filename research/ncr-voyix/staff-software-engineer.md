@@ -1,3 +1,53 @@
+---
+company: ncr-voyix
+company_display: NCR Voyix
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 180000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 285000
+    total_comp_high: 415000
+    currency: USD
+  - region: New York NY
+    base_low: 200000
+    base_high: 250000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_low: 30000
+    bonus_high: 50000
+    total_comp_low: 330000
+    total_comp_high: 480000
+    currency: USD
+  - region: London UK
+    base_low: 125000
+    base_high: 160000
+    stock_low: 55000
+    stock_high: 105000
+    bonus_low: 18000
+    bonus_high: 30000
+    total_comp_low: 198000
+    total_comp_high: 295000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| NCR Voyix | Google | Meta | Stripe | Fiserv | Block |"
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Comparably
+negotiation_dna_summary: "`NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Staff IC` `RSU/4yr` `Architecture Leadership`"
+---
 ### Staff Software Engineer | NCR Voyix Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Staff IC` `RSU/4yr` `Architecture Leadership`

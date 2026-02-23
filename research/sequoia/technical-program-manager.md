@@ -1,3 +1,52 @@
+---
+company: sequoia
+company_display: Sequoia
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 180000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_low: 115000
+    bonus_high: 165000
+    total_comp_low: 333000
+    total_comp_high: 448000
+    currency: USD
+  - region: San Francisco
+    base_low: 172000
+    base_high: 218000
+    stock_low: null
+    stock_high: null
+    bonus_low: 108000
+    bonus_high: 158000
+    total_comp_low: 315000
+    total_comp_high: 428000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 128000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_low: 78000
+    bonus_high: 115000
+    total_comp_low: 230000
+    total_comp_high: 318000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - LinkedIn
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Base $170K-$225K` | `Carry/Bonus $105K-$165K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`"
+---
 ### Technical Program Manager | Sequoia Global Negotiation Guide
 
 **Negotiation DNA:** `Base $170K-$225K` | `Carry/Bonus $105K-$165K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`

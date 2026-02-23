@@ -1,3 +1,48 @@
+---
+company: servicenow
+company_display: Servicenow
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara (USD)
+    base_low: 185000
+    base_high: 240000
+    stock_low: 210000
+    stock_high: 370000
+    bonus_pct: 10
+    total_comp_low: 243000
+    total_comp_high: 340000
+    currency: USD
+  - region: San Diego (USD)
+    base_low: 170000
+    base_high: 222000
+    stock_low: 185000
+    stock_high: 330000
+    bonus_pct: 10
+    total_comp_low: 223000
+    total_comp_high: 313000
+    currency: USD
+  - region: London (GBP £)
+    base_low: 120000
+    base_high: 156000
+    stock_low: 137000
+    stock_high: 241000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 222000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ServiceNow Senior Security Eng = Google L4 Security = CrowdStrike Senior Eng = Okta Senior Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform | **+10–20% AI SECURITY PREMIUM**"
+---
 ### Security Engineer | ServiceNow Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform | **+10–20% AI SECURITY PREMIUM**

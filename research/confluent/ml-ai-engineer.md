@@ -1,3 +1,48 @@
+---
+company: confluent
+company_display: Confluent
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 188000
+    base_high: 232000
+    stock_low: 220000
+    stock_high: 365000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 348000
+    currency: USD
+  - region: London
+    base_low: 82000
+    base_high: 105000
+    stock_low: 90000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 108000
+    total_comp_high: 152000
+    currency: GBP
+  - region: Bangalore
+    base_low: 5200000
+    base_high: 7800000
+    stock_low: 4200000
+    stock_high: 6800000
+    bonus_pct: 10
+    total_comp_low: 6500000
+    total_comp_high: 10200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Confluent Senior ML Eng = Google L4 ML = Databricks Senior ML = MongoDB Senior ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy | **+15–25% AGENTIC AI PREMIUM**"
+---
 ### ML/AI Engineer | Confluent Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy | **+15–25% AGENTIC AI PREMIUM**

@@ -1,3 +1,53 @@
+---
+company: bill-com
+company_display: Bill.com
+role: revenue-cycle-platform-engineer
+role_display: Revenue-Cycle Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 185000
+    base_high: 245000
+    stock_low: 160000
+    stock_high: 320000
+    bonus_low: 25000
+    bonus_high: 55000
+    total_comp_low: 370000
+    total_comp_high: 620000
+    currency: USD
+  - region: Houston TX
+    base_low: 160000
+    base_high: 215000
+    stock_low: 125000
+    stock_high: 260000
+    bonus_low: 20000
+    bonus_high: 44000
+    total_comp_low: 305000
+    total_comp_high: 519000
+    currency: USD
+  - region: Salt Lake City UT
+    base_low: 152000
+    base_high: 205000
+    stock_low: 115000
+    stock_high: 240000
+    bonus_low: 18000
+    bonus_high: 40000
+    total_comp_low: 285000
+    total_comp_high: 485000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| BILL | Google | Meta | Stripe | PayPal | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: BILL` `Agentic AP` `Revenue-Cycle Platform Engineer` `SIGNATURE ROLE` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Platform Engineering` `Financial Automation` `Agentic Systems` `Full-Stack Revenue Platform`"
+---
 ### Revenue-Cycle Platform Engineer | Bill.com Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: BILL` `Agentic AP` `Revenue-Cycle Platform Engineer` `SIGNATURE ROLE` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Platform Engineering` `Financial Automation` `Agentic Systems` `Full-Stack Revenue Platform`

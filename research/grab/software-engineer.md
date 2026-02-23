@@ -1,3 +1,68 @@
+---
+company: grab
+company_display: Grab
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 100000
+    base_high: 160000
+    stock_low: 30000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 220000
+    currency: USD
+  - region: Seattle / Bay Area (US)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+  - region: Jakarta
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Bangalore
+    base_low: 2200000
+    base_high: 4500000
+    stock_low: 800000
+    stock_high: 2500000
+    bonus_pct: 10
+    total_comp_low: 3000000
+    total_comp_high: 5500000
+    currency: INR
+  - region: "Beijing (R&D)"
+    base_low: 350000
+    base_high: 600000
+    stock_low: 100000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 440000
+    total_comp_high: 820000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "Software Engineer at Grab (L4-L6) = L3-L4 at Google, IC3-IC4 at Meta, SDE I-II at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$14B market cap as SE Asia's #1 super-app + Singapore HQ with competitive tech comp + NASDAQ-listed RSUs + Rides, food, payments, fintech in 8 countries | Grab SWEs build products used by 40M+ monthly transacting users across Southeast Asia | **SE ASIAN SUPER-APP PREMIUM**"
+---
 ### Software Engineer | Grab Global Negotiation Guide
 
 **Negotiation DNA:** $14B market cap as SE Asia's #1 super-app + Singapore HQ with competitive tech comp + NASDAQ-listed RSUs + Rides, food, payments, fintech in 8 countries | Grab SWEs build products used by 40M+ monthly transacting users across Southeast Asia | **SE ASIAN SUPER-APP PREMIUM**

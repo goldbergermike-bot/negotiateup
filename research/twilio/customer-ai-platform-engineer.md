@@ -1,3 +1,49 @@
+---
+company: twilio
+company_display: Twilio
+role: customer-ai-platform-engineer
+role_display: Customer AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Francisco, CA (HQ)"
+    base_low: 180000
+    base_high: 245000
+    stock_low: 180000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 415000
+    currency: USD
+  - region: "Denver, CO"
+    base_low: 165000
+    base_high: 225000
+    stock_low: 150000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 375000
+    currency: USD
+  - region: "London, UK"
+    base_low: 115000
+    base_high: 165000
+    stock_low: 110000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 300000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Twilio ML3+ (Customer AI Platform Engineer) = Google L4-L5 ML Platform = Meta E4-E5 AI Infra = Anthropic IC3 = OpenAI IC3
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Twilio-unique AI platform role premium | CustomerAI contextual communications as 2026 strategic bet"
+---
 ### Customer AI Platform Engineer | Twilio Global Negotiation Guide
 
 **Negotiation DNA:** Twilio-unique AI platform role premium | CustomerAI contextual communications as 2026 strategic bet

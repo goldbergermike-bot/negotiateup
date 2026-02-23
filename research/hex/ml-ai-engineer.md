@@ -1,3 +1,50 @@
+---
+company: hex
+company_display: Hex
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 190000
+    base_high: 250000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_pct: 5
+    total_comp_low: 260000
+    total_comp_high: 380000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 245000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_pct: 5
+    total_comp_low: 255000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: 144000
+    base_high: 190000
+    stock_low: 120000
+    stock_high: 225000
+    bonus_pct: 5
+    total_comp_low: 196000
+    total_comp_high: 288000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Hex ML/AI Engineer = Google L4-L5 ML Engineer = Meta ML Engineer IC4-5 = Databricks ML Engineer = OpenAI Software Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity + AI Premium | Data Analytics Platform Pioneer | 2026 Focus: AI-Native Analytics Engine"
+---
 ### ML/AI Engineer | Hex Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity + AI Premium | Data Analytics Platform Pioneer | 2026 Focus: AI-Native Analytics Engine

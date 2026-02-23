@@ -1,3 +1,39 @@
+---
+company: nuro
+company_display: Nuro
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View / Bay Area
+    base_low: 165000
+    base_high: 232000
+    stock_low: 110000
+    stock_high: 315000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 398000
+    currency: USD
+  - region: Remote US
+    base_low: 152000
+    base_high: 215000
+    stock_low: 95000
+    stock_high: 285000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Nuro TPM (TPM2-TPM3) = Waymo TPM = Aurora TPM = Zoox TPM = Google L4-L5 TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AV PROGRAM MANAGEMENT PREMIUM**"
+---
 ### Technical Program Manager | Nuro Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AV PROGRAM MANAGEMENT PREMIUM**

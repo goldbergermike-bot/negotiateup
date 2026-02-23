@@ -1,3 +1,39 @@
+---
+company: epic-systems
+company_display: Epic Systems
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Verona WI
+    base_low: 125000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 195000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 115000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 185000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Epic Data Scientist = UHG DS (lower TC) = Optum DS (lower TC) = Tempus DS (lower TC)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: Private Company / No Public Equity / Bonus-Only Variable / Clinical Analytics
+---
 ### Data Scientist | Epic Systems Global Negotiation Guide
 
 **Negotiation DNA:** Private Company / No Public Equity / Bonus-Only Variable / Clinical Analytics

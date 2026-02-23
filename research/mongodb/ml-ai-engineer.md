@@ -1,3 +1,48 @@
+---
+company: mongodb
+company_display: Mongodb
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 190000
+    base_high: 235000
+    stock_low: 230000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 248000
+    total_comp_high: 330000
+    currency: USD
+  - region: Dublin
+    base_low: 82000
+    base_high: 108000
+    stock_low: 95000
+    stock_high: 155000
+    bonus_pct: null
+    total_comp_low: 106000
+    total_comp_high: 147000
+    currency: EUR
+  - region: Austin
+    base_low: 180000
+    base_high: 225000
+    stock_low: 210000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 233000
+    total_comp_high: 312000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: MongoDB Senior ML Eng = Google L4 ML = Elastic Senior ML (ESRE) = Snowflake Senior ML (Cortex)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + No Bonus | \"Battle for the AI Data Layer\" | **+20–35% AGENTIC AI PREMIUM** | Voyage AI Acquisition Premium"
+---
 ### ML/AI Engineer | MongoDB Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + No Bonus | "Battle for the AI Data Layer" | **+20–35% AGENTIC AI PREMIUM** | Voyage AI Acquisition Premium

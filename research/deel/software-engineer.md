@@ -1,3 +1,39 @@
+---
+company: deel
+company_display: Deel
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 215000
+    stock_low: 80000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 340000
+    currency: USD
+  - region: Remote US
+    base_low: 142000
+    base_high: 200000
+    stock_low: 68000
+    stock_high: 208000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 312000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Deel SWE (IC2-IC3) = Remote.com SWE = Rippling SWE = Papaya Global SWE = Google L3-L4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Global Payroll and Compliance | $12B Valuation | San Francisco | **GLOBAL EMPLOYMENT PLATFORM PREMIUM**"
+---
 ### Software Engineer | Deel Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Global Payroll and Compliance | $12B Valuation | San Francisco | **GLOBAL EMPLOYMENT PLATFORM PREMIUM**

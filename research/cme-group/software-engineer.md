@@ -1,3 +1,51 @@
+---
+company: cme-group
+company_display: CME Group
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 125000
+    base_high: 165000
+    stock_low: 30000
+    stock_high: 55000
+    bonus_low: 17000
+    bonus_high: 28000
+    total_comp_low: 172000
+    total_comp_high: 248000
+    currency: USD
+  - region: New York
+    base_low: 135000
+    base_high: 178000
+    stock_low: 33000
+    stock_high: 60000
+    bonus_low: 19000
+    bonus_high: 30000
+    total_comp_low: 187000
+    total_comp_high: 268000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 130000
+    stock_low: 24000
+    stock_high: 43000
+    bonus_low: 13000
+    bonus_high: 22000
+    total_comp_low: 135000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Low-Latency Systems` `Exchange Infrastructure` `Market Data Pipelines`"
+---
 ### Software Engineer | CME Group Global Negotiation Guide
 
 **Negotiation DNA:** `Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Low-Latency Systems` `Exchange Infrastructure` `Market Data Pipelines`

@@ -1,3 +1,40 @@
+---
+company: launchdarkly
+company_display: LaunchDarkly
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland HQ
+    base_low: 150000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: LaunchDarkly Senior SA = GitLab SA = Optimizely SA = Datadog SA
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($3B Valuation) | Feature Management Platform | Category Creator | Liquidity Risk"
+---
 ### Solutions Architect | LaunchDarkly Global Negotiation Guide
 
 **Negotiation DNA:** Private ($3B Valuation) | Feature Management Platform | Category Creator | Liquidity Risk

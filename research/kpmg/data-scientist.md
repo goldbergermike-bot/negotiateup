@@ -1,3 +1,48 @@
+---
+company: kpmg
+company_display: KPMG
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 120000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 232000
+    currency: USD
+  - region: Chicago
+    base_low: 115000
+    base_high: 160000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 127000
+    total_comp_high: 217000
+    currency: USD
+  - region: London
+    base_low: 78000
+    base_high: 115000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 86000
+    total_comp_high: 156000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: KPMG Senior Associate / Manager (DS) = Google L4 DS = Deloitte Manager (DS) = PwC Manager (DS)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (10-20%) + Limited Equity at Senior Levels | Lighthouse Analytics Premium"
+---
 ### Data Scientist | KPMG Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (10-20%) + Limited Equity at Senior Levels | Lighthouse Analytics Premium

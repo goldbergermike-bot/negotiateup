@@ -1,3 +1,49 @@
+---
+company: together-ai
+company_display: Together AI
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 130000
+    base_high: 170000
+    stock_low: 30000
+    stock_high: 52000
+    bonus_pct: 8
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+  - region: Seattle
+    base_low: 124000
+    base_high: 162000
+    stock_low: 28000
+    stock_high: 49000
+    bonus_pct: 8
+    total_comp_low: 147000
+    total_comp_high: 204000
+    currency: USD
+  - region: Remote US
+    base_low: 117000
+    base_high: 153000
+    stock_low: 27000
+    stock_high: 46000
+    bonus_pct: 8
+    total_comp_low: 140000
+    total_comp_high: 193000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Together AI Product Designer ≈ Google UX L4–L5 · Meta Product Designer IC4 · Anthropic Designer · Amazon UX Designer III · Apple HI Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +15% Kernel Innovation Premium"
+---
 ### Product Designer | Together AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +15% Kernel Innovation Premium

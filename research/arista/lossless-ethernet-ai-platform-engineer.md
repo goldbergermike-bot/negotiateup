@@ -1,3 +1,52 @@
+---
+company: arista
+company_display: Arista Networks
+role: lossless-ethernet-ai-platform-engineer
+role_display: Lossless Ethernet AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 242000
+    base_high: 302000
+    stock_low: 342000
+    stock_high: 602000
+    bonus_pct: 15
+    total_comp_low: 378000
+    total_comp_high: 535000
+    currency: USD
+  - region: Vancouver (BC)
+    base_low: 228000
+    base_high: 285000
+    stock_low: 322000
+    stock_high: 568000
+    bonus_pct: 15
+    total_comp_low: 358000
+    total_comp_high: 508000
+    currency: CAD
+  - region: Remote US
+    base_low: 235000
+    base_high: 295000
+    stock_low: 342000
+    stock_high: 602000
+    bonus_pct: 15
+    total_comp_low: 372000
+    total_comp_high: 528000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Arista Lossless Ethernet Platform Eng (IC3-IC4) = NVIDIA InfiniBand Eng = Cisco AI Networking Eng = Juniper Mist Platform Eng = Google AI Network Eng = No true peer — Arista owns the Ethernet-for-AI market
+data_sources:
+  - Arista 800G R4 — Lossless Ethernet AI Platform Architecture
+  - Arista vs NVIDIA InfiniBand — AI Data Center Networking Displacement
+  - Arista Lossless Ethernet Platform Eng — Signature Role Comp 2026
+  - Arista Stock Performance — InfiniBand Displacement Appreciation
+  - "Arista RoCE & Adaptive Routing — AI Networking Innovation"
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density | **SIGNATURE ROLE** | **+25–35% AI NETWORKING PREMIUM**"
+---
 ### Lossless Ethernet AI Platform Engineer | Arista Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density | **SIGNATURE ROLE** | **+25–35% AI NETWORKING PREMIUM**

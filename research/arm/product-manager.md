@@ -1,3 +1,48 @@
+---
+company: arm
+company_display: Arm
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 148000
+    base_high: 195000
+    stock_low: 195000
+    stock_high: 315000
+    bonus_pct: 15
+    total_comp_low: 218000
+    total_comp_high: 302000
+    currency: USD
+  - region: Austin
+    base_low: 132000
+    base_high: 175000
+    stock_low: 175000
+    stock_high: 282000
+    bonus_pct: 15
+    total_comp_low: 196000
+    total_comp_high: 272000
+    currency: USD
+  - region: Cambridge UK
+    base_low: 52000
+    base_high: 72000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 75000
+    total_comp_high: 112000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ARM Product Manager = NVIDIA Product Manager = Intel Product Manager (Grade 7-8) = Google L5 PM
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages"
+---
 ### Product Manager | ARM Global Negotiation Guide
 
 **Negotiation DNA:** Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages

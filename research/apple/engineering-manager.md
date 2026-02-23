@@ -1,3 +1,51 @@
+---
+company: apple
+company_display: Apple
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 225000
+    base_high: 320000
+    stock_low: 300000
+    stock_high: 700000
+    bonus_pct: 10
+    total_comp_low: 400000
+    total_comp_high: 600000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 210000
+    base_high: 300000
+    stock_low: 260000
+    stock_high: 620000
+    bonus_pct: 10
+    total_comp_low: 365000
+    total_comp_high: 555000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 220000
+    base_high: 310000
+    stock_low: 280000
+    stock_high: 660000
+    bonus_pct: 10
+    total_comp_low: 385000
+    total_comp_high: 575000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple EM (ICT4 equivalent) = Google M1/L6, Meta M1/E6, Amazon L6 (Manager) | Apple Senior EM (ICT5 equivalent) = Google M2/L7, Meta M2/E7, Amazon L7 (Sr. Manager)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "Premium management base + large RSU grants reflecting organizational leverage | Apple positions EMs as critical leaders owning product delivery and team health | **LEADERSHIP PREMIUM: EMs at Apple own both technical direction and people outcomes with significant autonomy**"
+---
 ### Engineering Manager | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Premium management base + large RSU grants reflecting organizational leverage | Apple positions EMs as critical leaders owning product delivery and team health | **LEADERSHIP PREMIUM: EMs at Apple own both technical direction and people outcomes with significant autonomy**

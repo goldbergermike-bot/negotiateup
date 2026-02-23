@@ -1,3 +1,51 @@
+---
+company: intercontinental-exchange
+company_display: Intercontinental Exchange
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta (HQ)
+    base_low: 135000
+    base_high: 185000
+    stock_low: 140000
+    stock_high: 235000
+    bonus_low: 25000
+    bonus_high: 42000
+    total_comp_low: 198000
+    total_comp_high: 288000
+    currency: USD
+  - region: New York
+    base_low: 151000
+    base_high: 207000
+    stock_low: 157000
+    stock_high: 263000
+    bonus_low: 28000
+    bonus_high: 47000
+    total_comp_low: 222000
+    total_comp_high: 323000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 148000
+    stock_low: 112000
+    stock_high: 188000
+    bonus_low: 20000
+    bonus_high: 34000
+    total_comp_low: 158000
+    total_comp_high: 230000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Market Microstructure Analytics` `Commodity Pricing Models` `Risk Quantification`"
+---
 ### Data Scientist | Intercontinental Exchange (ICE) Global Negotiation Guide
 
 **Negotiation DNA:** `Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Market Microstructure Analytics` `Commodity Pricing Models` `Risk Quantification`

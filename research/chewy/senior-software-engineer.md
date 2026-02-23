@@ -1,3 +1,51 @@
+---
+company: chewy
+company_display: Chewy
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Plantation FL
+    base_low: 145000
+    base_high: 192000
+    stock_low: 35000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 272000
+    currency: USD
+  - region: Boston
+    base_low: 157000
+    base_high: 210000
+    stock_low: 38000
+    stock_high: 61000
+    bonus_pct: 10
+    total_comp_low: 211000
+    total_comp_high: 298000
+    currency: USD
+  - region: Remote US
+    base_low: 138000
+    base_high: 182000
+    stock_low: 33000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chewy Senior Software Engineer = Google L5 = Amazon SDE II–III = Meta E5 = Microsoft Senior SDE 62–63 = Apple ICT4
+data_sources:
+  - "Chewy 84% Autoship Penetration — Q4 2024 Earnings Report, Recurring Revenue Model"
+  - "Chewy Pet Health Expansion — Chewy Health, Telehealth, Insurance, Pharmacy Announcements"
+  - "Chewy 10-K Annual Filing — $12B+ Revenue, 20M+ Active Customers"
+  - Pet Humanization Trend — APPA $150B+ US Pet Industry Spending Report
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium"
+---
 ### Senior Software Engineer | Chewy Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium

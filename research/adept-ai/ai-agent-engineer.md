@@ -1,3 +1,50 @@
+---
+company: adept-ai
+company_display: Adept AI
+role: ai-agent-engineer
+role_display: AI Agent Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 290000
+    stock_low: 150000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 248000
+    total_comp_high: 385000
+    currency: USD
+  - region: Seattle
+    base_low: 204000
+    base_high: 281000
+    stock_low: 150000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 242000
+    total_comp_high: 376000
+    currency: USD
+  - region: Remote US
+    base_low: 189000
+    base_high: 261000
+    stock_low: 135000
+    stock_high: 342000
+    bonus_pct: null
+    total_comp_low: 223000
+    total_comp_high: 347000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Adept AI Agent Engineer = Google L5-L6 Research Engineer = Amazon Applied Scientist III-IV = Meta AI Research Scientist IC5-IC6
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | **SIGNATURE ROLE** | **+15-30% ML PREMIUM** | AI Agents Pioneer"
+---
 ### AI Agent Engineer | Adept AI Global Negotiation Guide
 
 **Negotiation DNA:** Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | **SIGNATURE ROLE** | **+15-30% ML PREMIUM** | AI Agents Pioneer

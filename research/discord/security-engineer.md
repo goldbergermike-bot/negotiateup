@@ -1,3 +1,48 @@
+---
+company: discord
+company_display: Discord
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 222000
+    stock_low: 105000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 295000
+    currency: USD
+  - region: New York
+    base_low: 168000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 282000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 200000
+    stock_low: 92000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Discord Security Engineer = Google Security Engineer L4-L5 = Meta Security Engineer (IC4-IC5) = Amazon Security Engineer III = Apple Security Engineer 3 = Stripe Security Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Security & Trust Premium | Pre-IPO Compliance Critical"
+---
 ### Security Engineer | Discord Global Negotiation Guide
 
 **Negotiation DNA:** Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Security & Trust Premium | Pre-IPO Compliance Critical

@@ -1,3 +1,39 @@
+---
+company: compass
+company_display: Compass
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 148000
+    base_high: 205000
+    stock_low: 48000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 285000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 192000
+    stock_low: 40000
+    stock_high: 142000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Compass SA (IC3-IC4) = Zillow SA = Redfin SA = Opendoor SA = Google L4-L5 SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **REAL ESTATE INTEGRATION PREMIUM**"
+---
 ### Solutions Architect | Compass Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **REAL ESTATE INTEGRATION PREMIUM**

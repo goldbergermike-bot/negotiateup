@@ -1,3 +1,48 @@
+---
+company: plaid-identity
+company_display: Plaid Identity
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 220000
+    base_high: 270000
+    stock_low: 280000
+    stock_high: 440000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 400000
+    currency: USD
+  - region: New York
+    base_low: 215000
+    base_high: 265000
+    stock_low: 270000
+    stock_high: 420000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 390000
+    currency: USD
+  - region: London
+    base_low: 140000
+    base_high: 175000
+    stock_low: 140000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 275000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Plaid EM (M1) = Google L5 EM = Meta M1 = Stripe EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure"
+---
 ### Engineering Manager | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure

@@ -1,3 +1,48 @@
+---
+company: lyft
+company_display: Lyft
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 130000
+    base_high: 165000
+    stock_low: 85000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 222000
+    currency: USD
+  - region: New York
+    base_low: 124000
+    base_high: 158000
+    stock_low: 80000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 154000
+    total_comp_high: 212000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 145000
+    stock_low: 70000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 192000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lyft Product Designer (T5-T6) = Google L4-L5 UX Designer = Uber Design II-Senior = Meta Product Designer (IC4-IC5) = Apple UX Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Rideshare & Mobility Platform | BENTELER/HOLON AV-Hybrid Strategy | AV-Orchestration Premium | 4-Year Vest w/ 1-Year Cliff"
+---
 ### Product Designer | Lyft Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Rideshare & Mobility Platform | BENTELER/HOLON AV-Hybrid Strategy | AV-Orchestration Premium | 4-Year Vest w/ 1-Year Cliff

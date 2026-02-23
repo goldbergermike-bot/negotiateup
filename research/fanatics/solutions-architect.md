@@ -1,3 +1,39 @@
+---
+company: fanatics
+company_display: Fanatics
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC
+    base_low: 140000
+    base_high: 195000
+    stock_low: 60000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 173000
+    total_comp_high: 288000
+    currency: USD
+  - region: Jacksonville FL (HQ)
+    base_low: 130000
+    base_high: 185000
+    stock_low: 55000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Fanatics Solutions Architect = Google Solutions Architect L4-L5 = Amazon Solutions Architect = Shopify Solutions Architect
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Private $31B Valuation | Growth Equity | Sports Commerce Monopoly | Pre-IPO Upside"
+---
 ### Solutions Architect | Fanatics Global Negotiation Guide
 
 **Negotiation DNA:** Private $31B Valuation | Growth Equity | Sports Commerce Monopoly | Pre-IPO Upside

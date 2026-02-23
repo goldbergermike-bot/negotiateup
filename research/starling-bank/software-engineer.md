@@ -1,3 +1,51 @@
+---
+company: starling-bank
+company_display: Starling Bank
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 55000
+    base_high: 68000
+    stock_low: 8000
+    stock_high: 15000
+    bonus_low: 5000
+    bonus_high: 8000
+    total_comp_low: 68000
+    total_comp_high: 91000
+    currency: GBP
+  - region: Cardiff
+    base_low: 47000
+    base_high: 58000
+    stock_low: 7000
+    stock_high: 13000
+    bonus_low: 4000
+    bonus_high: 7000
+    total_comp_low: 58000
+    total_comp_high: 78000
+    currency: GBP
+  - region: Southampton
+    base_low: 48000
+    base_high: 60000
+    stock_low: 7000
+    stock_high: 13000
+    bonus_low: 4000
+    bonus_high: 7000
+    total_comp_low: 59000
+    total_comp_high: 80000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Cloud-Native` `Microservices` `Java/Kotlin`"
+---
 ### Software Engineer | Starling Bank Global Negotiation Guide
 
 **Negotiation DNA:** `Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Cloud-Native` `Microservices` `Java/Kotlin`

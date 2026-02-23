@@ -1,3 +1,70 @@
+---
+company: google
+company_display: Google
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 175000
+    base_high: 265000
+    stock_low: 180000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 460000
+    currency: USD
+  - region: New York City
+    base_low: 170000
+    base_high: 260000
+    stock_low: 170000
+    stock_high: 460000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 445000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 165000
+    base_high: 250000
+    stock_low: 165000
+    stock_high: 440000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 430000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 180000
+    stock_low: 110000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 170000
+    total_comp_high: 325000
+    currency: GBP
+  - region: Zurich
+    base_low: 155000
+    base_high: 240000
+    stock_low: 150000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 400000
+    currency: CHF
+level_mapping:
+  internal: null
+  raw: "Security Engineer at Google (L4-L5) = Security Engineer at Meta (E4-E5), Security Engineer at Microsoft (L62-L64), Security Engineer at Amazon (L5-L6), Security Researcher at Apple (ICT3-ICT5), Staff Security at CrowdStrike/Palo Alto Networks"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Project Zero elite reputation + World's largest attack surface defense + Premium RSU grants for security talent | Google security is the industry gold standard | **CRITICAL INFRASTRUCTURE PREMIUM**"
+---
 ### Security Engineer | Google Global Negotiation Guide
 
 **Negotiation DNA:** Project Zero elite reputation + World's largest attack surface defense + Premium RSU grants for security talent | Google security is the industry gold standard | **CRITICAL INFRASTRUCTURE PREMIUM**

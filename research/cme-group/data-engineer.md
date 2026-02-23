@@ -1,3 +1,51 @@
+---
+company: cme-group
+company_display: CME Group
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 140000
+    base_high: 190000
+    stock_low: 35000
+    stock_high: 62000
+    bonus_low: 23000
+    bonus_high: 36000
+    total_comp_low: 198000
+    total_comp_high: 288000
+    currency: USD
+  - region: New York
+    base_low: 151000
+    base_high: 205000
+    stock_low: 38000
+    stock_high: 67000
+    bonus_low: 25000
+    bonus_high: 39000
+    total_comp_low: 214000
+    total_comp_high: 311000
+    currency: USD
+  - region: London
+    base_low: 109000
+    base_high: 148000
+    stock_low: 27000
+    stock_high: 48000
+    bonus_low: 18000
+    bonus_high: 28000
+    total_comp_low: 154000
+    total_comp_high: 224000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Data Pipeline Architecture` `Streaming Infrastructure` `Market Data Systems`"
+---
 ### Data Engineer | CME Group Global Negotiation Guide
 
 **Negotiation DNA:** `Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Data Pipeline Architecture` `Streaming Infrastructure` `Market Data Systems`

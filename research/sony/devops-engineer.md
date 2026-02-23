@@ -1,3 +1,59 @@
+---
+company: sony
+company_display: Sony
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / San Diego (US)
+    base_low: 135000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 285000
+    currency: USD
+  - region: Bay Area (US)
+    base_low: 130000
+    base_high: 190000
+    stock_low: 40000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 270000
+    currency: USD
+  - region: Tokyo (HQ)
+    base_low: 8000000
+    base_high: 13000000
+    stock_low: 2500000
+    stock_high: 7000000
+    bonus_pct: 10
+    total_comp_low: 10500000
+    total_comp_high: 18000000
+    currency: JPY
+  - region: London
+    base_low: 82000
+    base_high: 132000
+    stock_low: 27000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 104000
+    total_comp_high: 180000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at Sony (IC2-IC4) = L3-L5 SRE at Google, IC3-IC5 PE at Meta, SysDE at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$110B market cap with PSN infrastructure serving 100M+ gamers + Game launch events requiring massive scaling + Cloud gaming infrastructure for PS Plus Premium + US comp competitive in gaming | Sony DevOps engineers manage infrastructure for the world's #1 console platform | **GAMING INFRASTRUCTURE PREMIUM**"
+---
 ### DevOps Engineer | Sony Global Negotiation Guide
 
 **Negotiation DNA:** $110B market cap with PSN infrastructure serving 100M+ gamers + Game launch events requiring massive scaling + Cloud gaming infrastructure for PS Plus Premium + US comp competitive in gaming | Sony DevOps engineers manage infrastructure for the world's #1 console platform | **GAMING INFRASTRUCTURE PREMIUM**

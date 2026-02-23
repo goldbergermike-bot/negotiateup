@@ -1,3 +1,50 @@
+---
+company: apple
+company_display: Apple
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 160000
+    base_high: 250000
+    stock_low: 130000
+    stock_high: 400000
+    bonus_pct: 5
+    total_comp_low: 225000
+    total_comp_high: 400000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 150000
+    base_high: 235000
+    stock_low: 110000
+    stock_high: 350000
+    bonus_pct: 5
+    total_comp_low: 205000
+    total_comp_high: 370000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 155000
+    base_high: 245000
+    stock_low: 120000
+    stock_high: 380000
+    bonus_pct: 5
+    total_comp_low: 215000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple ICT2 (Designer) = Google L3, Meta IC3 (Design), Figma IC3 | Apple ICT3 (Designer) = Google L4, Meta IC4 (Design), Figma IC4 | Apple ICT4 (Senior Designer) = Google L5, Meta IC5 (Design), Figma IC5"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Design-premium base + meaningful RSU grants at the world's most design-centric tech company | Apple positions designers as the core creative force shaping products used by billions | **DESIGN DNA PREMIUM: Apple's design-led culture means designers have outsized influence and compensation reflects this**"
+---
 ### Product Designer | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Design-premium base + meaningful RSU grants at the world's most design-centric tech company | Apple positions designers as the core creative force shaping products used by billions | **DESIGN DNA PREMIUM: Apple's design-led culture means designers have outsized influence and compensation reflects this**

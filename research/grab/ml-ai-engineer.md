@@ -1,3 +1,59 @@
+---
+company: grab
+company_display: Grab
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 120000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 290000
+    currency: USD
+  - region: Seattle / Bay Area (US)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 70000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 350000
+    currency: USD
+  - region: "Beijing (R&D)"
+    base_low: 420000
+    base_high: 740000
+    stock_low: 160000
+    stock_high: 420000
+    bonus_pct: 10
+    total_comp_low: 580000
+    total_comp_high: 1050000
+    currency: CNY
+  - region: Bangalore
+    base_low: 2800000
+    base_high: 5500000
+    stock_low: 1200000
+    stock_high: 3500000
+    bonus_pct: 10
+    total_comp_low: 3800000
+    total_comp_high: 7300000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Grab (L5-L7) = L4-L5 at Google, IC4-IC5 at Meta, ML Engineer at Uber/DoorDash"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$14B super-app with ML powering dispatch, pricing, fraud detection, and recommendations + Unique multi-service training data across rides, food, payments + Singapore AI comp + NASDAQ RSUs | Grab ML engineers optimize the algorithms driving SE Asia's largest marketplace | **MARKETPLACE ML PREMIUM**"
+---
 ### ML/AI Engineer | Grab Global Negotiation Guide
 
 **Negotiation DNA:** $14B super-app with ML powering dispatch, pricing, fraud detection, and recommendations + Unique multi-service training data across rides, food, payments + Singapore AI comp + NASDAQ RSUs | Grab ML engineers optimize the algorithms driving SE Asia's largest marketplace | **MARKETPLACE ML PREMIUM**

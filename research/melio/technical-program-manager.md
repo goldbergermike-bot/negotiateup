@@ -1,3 +1,54 @@
+---
+company: melio
+company_display: Melio
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 160000
+    base_high: 205000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 215000
+    total_comp_high: 315000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 195000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 197000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Melio | Google | Meta | Stripe | Bill.com | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Crunchbase
+  - LinkedIn
+negotiation_dna_summary: "`Private` `Agent Mel` `B2B Payments` `SMB Fintech` `Series D+` `Options` `Growth-Stage` `Cross-Functional` `Delivery Excellence`"
+---
 ### Technical Program Manager | Melio Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Agent Mel` `B2B Payments` `SMB Fintech` `Series D+` `Options` `Growth-Stage` `Cross-Functional` `Delivery Excellence`

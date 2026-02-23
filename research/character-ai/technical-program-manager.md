@@ -1,3 +1,50 @@
+---
+company: character-ai
+company_display: Character AI
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park / Bay Area
+    base_low: 180000
+    base_high: 245000
+    stock_low: 125000
+    stock_high: 340000
+    bonus_pct: null
+    total_comp_low: 211000
+    total_comp_high: 330000
+    currency: USD
+  - region: New York City
+    base_low: 180000
+    base_high: 245000
+    stock_low: 125000
+    stock_high: 340000
+    bonus_pct: null
+    total_comp_low: 211000
+    total_comp_high: 330000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 221000
+    stock_low: 113000
+    stock_high: 306000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 297000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Character AI TPM = Google L4-L5 TPM = Meta TPM IC4-IC5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Top-Tier AI Comp + Pre-IPO Equity | $5B+ Valuation (Google Partnership) | Menlo Park | Conversational AI Program Delivery"
+---
 ### Technical Program Manager | Character AI Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier AI Comp + Pre-IPO Equity | $5B+ Valuation (Google Partnership) | Menlo Park | Conversational AI Program Delivery

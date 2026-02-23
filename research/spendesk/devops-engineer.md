@@ -1,3 +1,53 @@
+---
+company: spendesk
+company_display: Spendesk
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 58000
+    base_high: 85000
+    stock_low: 20000
+    stock_high: 50000
+    bonus_low: 5000
+    bonus_high: 12000
+    total_comp_low: 83000
+    total_comp_high: 147000
+    currency: EUR
+  - region: London
+    base_low: 62000
+    base_high: 90000
+    stock_low: 18000
+    stock_high: 45000
+    bonus_low: 5000
+    bonus_high: 12000
+    total_comp_low: 85000
+    total_comp_high: 147000
+    currency: GBP
+  - region: Berlin
+    base_low: 60000
+    base_high: 87000
+    stock_low: 19000
+    stock_high: 48000
+    bonus_low: 5000
+    bonus_high: 10000
+    total_comp_low: 84000
+    total_comp_high: 145000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Spendesk | Google | Meta | Stripe | Pleo | Brex |"
+data_sources:
+  - Crunchbase
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `DevOps` `Infrastructure` `SRE`"
+---
 ### DevOps Engineer | Spendesk Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `DevOps` `Infrastructure` `SRE`

@@ -1,3 +1,52 @@
+---
+company: mastercard
+company_display: Mastercard
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Purchase NY
+    base_low: 155000
+    base_high: 200000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 280000
+    total_comp_high: 425000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 210000
+    stock_low: 110000
+    stock_high: 200000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 298000
+    total_comp_high: 458000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 130000
+    stock_low: 60000
+    stock_high: 110000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 170000
+    total_comp_high: 268000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Mastercard | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `Payments Product Strategy` `Biometric Authentication` `Platform PM`"
+---
 ### Product Manager | Mastercard Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `Payments Product Strategy` `Biometric Authentication` `Platform PM`

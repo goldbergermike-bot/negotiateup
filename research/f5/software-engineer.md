@@ -1,3 +1,55 @@
+---
+company: f5
+company_display: F5
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 120000
+    base_high: 150000
+    stock_low: 95000
+    stock_high: 175000
+    bonus_pct: 8
+    signing_bonus_low: 15000
+    signing_bonus_high: 35000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Jose
+    base_low: 128000
+    base_high: 158000
+    stock_low: 100000
+    stock_high: 185000
+    bonus_pct: 8
+    signing_bonus_low: 15000
+    signing_bonus_high: 35000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 68000
+    base_high: 88000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_pct: 8
+    signing_bonus_low: 8000
+    signing_bonus_high: 20000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "- F5 Software Engineer (E3) = Google L3–L4 / Meta E3–E4 / Microsoft SDE 59–60 / Amazon SDE I–II"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support"
+---
 ### Software Engineer | F5 Global Negotiation Guide
 
 **Negotiation DNA:** F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support

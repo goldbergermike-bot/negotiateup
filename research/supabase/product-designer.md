@@ -1,3 +1,50 @@
+---
+company: supabase
+company_display: Supabase
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 200000
+    stock_low: 100000
+    stock_high: 210000
+    bonus_pct: 5
+    total_comp_low: 205000
+    total_comp_high: 290000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 190000
+    stock_low: 100000
+    stock_high: 210000
+    bonus_pct: 5
+    total_comp_low: 193000
+    total_comp_high: 275000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 152000
+    stock_low: 76000
+    stock_high: 160000
+    bonus_pct: 5
+    total_comp_low: 156000
+    total_comp_high: 221000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Supabase Product Designer = Google L4 UX Designer = Meta IC4 Product Designer = PlanetScale Product Designer = MongoDB Product Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Design-Premium Base + Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Powered Developer Dashboard UX"
+---
 ### Product Designer | Supabase Global Negotiation Guide
 
 **Negotiation DNA:** Design-Premium Base + Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Powered Developer Dashboard UX

@@ -1,3 +1,67 @@
+---
+company: docusign
+company_display: Docusign
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 165000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 190000
+    bonus_pct: 12
+    total_comp_low: 210000
+    total_comp_high: 325000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 58000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 280000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 78000
+    base_high: 118000
+    stock_low: 35000
+    stock_high: 82000
+    bonus_pct: 10
+    total_comp_low: 105000
+    total_comp_high: 168000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2500000
+    base_high: 4600000
+    stock_low: 1200000
+    stock_high: 3400000
+    bonus_pct: 10
+    total_comp_low: 3400000
+    total_comp_high: 6200000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 128000
+    base_high: 182000
+    stock_low: 48000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign IC3/IC4 (Security) ~ Salesforce Senior/Lead Security | Okta Senior/Staff Security | CrowdStrike Senior/Staff | Google L5/L6 Security"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Agreement security & digital trust specialist | Legal document protection & compliance | **SECURITY PREMIUM**"
+---
 ### Security Engineer | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** Agreement security & digital trust specialist | Legal document protection & compliance | **SECURITY PREMIUM**

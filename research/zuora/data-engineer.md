@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 135000
+    base_high: 185000
+    stock_low: 45000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 245000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 118000
+    base_high: 165000
+    stock_low: 35000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 212000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 60000
+    base_high: 92000
+    stock_low: 18000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 72000
+    total_comp_high: 118000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 1800000
+    base_high: 3400000
+    stock_low: 700000
+    stock_high: 2200000
+    bonus_pct: 10
+    total_comp_low: 2200000
+    total_comp_high: 4400000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 105000
+    base_high: 150000
+    stock_low: 28000
+    stock_high: 70000
+    bonus_pct: 10
+    total_comp_low: 122000
+    total_comp_high: 185000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora IC2/IC3 ~ Chargebee Senior | Recurly Senior | Stripe IC3 | Salesforce MTS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Subscription data pipeline architect | Revenue analytics & billing data infrastructure | **DATA PLATFORM PREMIUM**"
+---
 ### Data Engineer | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Subscription data pipeline architect | Revenue analytics & billing data infrastructure | **DATA PLATFORM PREMIUM**

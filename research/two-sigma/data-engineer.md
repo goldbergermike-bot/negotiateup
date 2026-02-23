@@ -1,3 +1,43 @@
+---
+company: two-sigma
+company_display: Two Sigma
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 185000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_low: 185000
+    bonus_high: 520000
+    total_comp_low: 370000
+    total_comp_high: 780000
+    currency: USD
+  - region: Houston
+    base_low: 170000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_low: 170000
+    bonus_high: 480000
+    total_comp_low: 340000
+    total_comp_high: 720000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Engineer at Two Sigma = L5-L6 at Google, E5-E6 at Meta, SDE III-Senior at Amazon, no equivalent at traditional banks"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-200%+ | Two Sigma data infrastructure directly powers alpha generation | **ELITE QUANT DATA PREMIUM**"
+---
 ### Data Engineer | Two Sigma Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-200%+ | Two Sigma data infrastructure directly powers alpha generation | **ELITE QUANT DATA PREMIUM**

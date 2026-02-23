@@ -1,3 +1,51 @@
+---
+company: kraken
+company_display: Kraken
+role: ipo-readiness-platform-engineer
+role_display: IPO Readiness Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 275000
+    base_high: 345000
+    stock_low: 560000
+    stock_high: 920000
+    bonus_low: 45000
+    bonus_high: 75000
+    total_comp_low: 448000
+    total_comp_high: 638000
+    currency: USD
+  - region: New York
+    base_low: 268000
+    base_high: 338000
+    stock_low: 540000
+    stock_high: 895000
+    bonus_low: 42000
+    bonus_high: 72000
+    total_comp_low: 435000
+    total_comp_high: 622000
+    currency: USD
+  - region: Remote US
+    base_low: 248000
+    base_high: 315000
+    stock_low: 500000
+    stock_high: 830000
+    bonus_low: 38000
+    bonus_high: 65000
+    total_comp_low: 375000
+    total_comp_high: 528000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Platform Engineering Track | +25-35% IPO Readiness Premium"
+---
 ### IPO Readiness Platform Engineer | Kraken Global Negotiation Guide
 
 **SIGNATURE ROLE**

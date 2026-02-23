@@ -1,3 +1,49 @@
+---
+company: tsmc
+company_display: TSMC
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Phoenix AZ
+    base_low: 142000
+    base_high: 185000
+    stock_low: 35000
+    stock_high: 58000
+    bonus_pct: 15
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: USD
+  - region: San Jose
+    base_low: 155000
+    base_high: 200000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 290000
+    currency: USD
+  - region: Hsinchu Taiwan
+    base_low: null
+    base_high: null
+    stock_low: 25000
+    stock_high: 45000
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: TSMC Security Engineer = Intel Foundry Security Engineer = Samsung Foundry Cybersecurity Engineer = Applied Materials Security Engineer = Lockheed Martin Cybersecurity Engineer = Raytheon Security Engineer (cleared)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone"
+---
 ### Security Engineer | TSMC Global Negotiation Guide
 
 **Negotiation DNA:** Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone

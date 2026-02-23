@@ -1,3 +1,48 @@
+---
+company: github
+company_display: Github
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 150000
+    base_high: 190000
+    stock_low: 130000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 270000
+    currency: USD
+  - region: Seattle
+    base_low: 145000
+    base_high: 185000
+    stock_low: 125000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 260000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 130000
+    stock_low: 80000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: GitHub Designer = Microsoft Designer (L61-L63) = Google UX L4-L5 = Meta Product Designer IC4-IC5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Microsoft RSU + Bonus | AI-Native Developer Experience Design"
+---
 ### Product Designer | GitHub Global Negotiation Guide
 
 **Negotiation DNA:** Base + Microsoft RSU + Bonus | AI-Native Developer Experience Design

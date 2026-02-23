@@ -1,3 +1,48 @@
+---
+company: pinterest
+company_display: Pinterest
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 230000
+    base_high: 280000
+    stock_low: 320000
+    stock_high: 560000
+    bonus_pct: 12
+    total_comp_low: 320000
+    total_comp_high: 445000
+    currency: USD
+  - region: New York
+    base_low: 220000
+    base_high: 270000
+    stock_low: 300000
+    stock_high: 530000
+    bonus_pct: 12
+    total_comp_low: 305000
+    total_comp_high: 425000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 250000
+    stock_low: 270000
+    stock_high: 480000
+    bonus_pct: 12
+    total_comp_low: 280000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Pinterest Staff Software Engineer (L6) = Google L6 Staff = Meta E6 = Amazon Principal SDE = Apple ICT5 = Microsoft Principal SDE (65–66)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Staff-Level IC Premium | Architecture & Technical Strategy | Standard 4-year vest with 1-year cliff"
+---
 ### Staff Software Engineer | Pinterest Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Staff-Level IC Premium | Architecture & Technical Strategy | Standard 4-year vest with 1-year cliff

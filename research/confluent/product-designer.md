@@ -1,3 +1,48 @@
+---
+company: confluent
+company_display: Confluent
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 145000
+    base_high: 178000
+    stock_low: 105000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 225000
+    currency: USD
+  - region: London
+    base_low: 60000
+    base_high: 78000
+    stock_low: 42000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 72000
+    total_comp_high: 98000
+    currency: GBP
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 4800000
+    stock_low: 2000000
+    stock_high: 3500000
+    bonus_pct: 10
+    total_comp_low: 3800000
+    total_comp_high: 6200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Confluent Senior Designer = Google L4 UX = Databricks Senior Designer = MongoDB Senior Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy"
+---
 ### Product Designer | Confluent Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy

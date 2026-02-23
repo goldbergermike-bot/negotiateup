@@ -1,3 +1,48 @@
+---
+company: wise
+company_display: Wise
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 75000
+    base_high: 110000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_pct: null
+    total_comp_low: 110000
+    total_comp_high: 180000
+    currency: GBP
+  - region: Tallinn (EUR)
+    base_low: 58000
+    base_high: 85000
+    stock_low: 26000
+    stock_high: 52000
+    bonus_pct: null
+    total_comp_low: 84000
+    total_comp_high: 137000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 100000
+    base_high: 145000
+    stock_low: 45000
+    stock_high: 85000
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 230000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a solutions architecture compensation framework spanning London, Tallinn, and Singapore markets. As a Solutions Architect at Wise, you design the integration architecture that connects Wise Platform API with partner banks, enterprises, and financial institutions — you are the technical bridge between Wise's mid-market infrastructure and the p"
+---
 ### Solutions Architect — Wise Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a solutions architecture compensation framework spanning London, Tallinn, and Singapore markets. As a Solutions Architect at Wise, you design the integration architecture that connects Wise Platform API with partner banks, enterprises, and financial institutions — you are the technical bridge between Wise's mid-market infrastructure and the partners who embed it, directly enabling Platform Integrity at the enterprise level.

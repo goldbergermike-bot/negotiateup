@@ -1,3 +1,52 @@
+---
+company: interactive-brokers
+company_display: Interactive Brokers
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Greenwich, CT (HQ)"
+    base_low: 112000
+    base_high: 155000
+    stock_low: 27000
+    stock_high: 44000
+    bonus_low: 19000
+    bonus_high: 29000
+    total_comp_low: 158000
+    total_comp_high: 228000
+    currency: USD
+  - region: New York
+    base_low: 118000
+    base_high: 163000
+    stock_low: 28000
+    stock_high: 46000
+    bonus_low: 20000
+    bonus_high: 30000
+    total_comp_low: 166000
+    total_comp_high: 239000
+    currency: USD
+  - region: London
+    base_low: 83000
+    base_high: 115000
+    stock_low: 20000
+    stock_high: 33000
+    bonus_low: 14000
+    bonus_high: 21000
+    total_comp_low: 117000
+    total_comp_high: 169000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "`ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Trading UX` `Multi-Asset Interface Design` `Self-Service Platform Design`"
+---
 ### Product Designer | Interactive Brokers Global Negotiation Guide
 
 **Negotiation DNA:** `ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Trading UX` `Multi-Asset Interface Design` `Self-Service Platform Design`

@@ -1,3 +1,48 @@
+---
+company: riot-games
+company_display: Riot Games
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 175000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 260000
+    total_comp_high: 400000
+    currency: USD
+  - region: Seattle
+    base_low: 170000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 252000
+    total_comp_high: 390000
+    currency: USD
+  - region: Dublin
+    base_low: 68000
+    base_high: 105000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 90000
+    total_comp_high: 142000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Riot ML Engineer (P4) = Google L4-L5 ML = Meta E4-E5 ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity Profit-Sharing + Premium Bonus | Player-First Gaming Culture | **+10–20% AI PREMIUM**"
+---
 ### ML/AI Engineer | Riot Games Global Negotiation Guide
 
 **Negotiation DNA:** Equity Profit-Sharing + Premium Bonus | Player-First Gaming Culture | **+10–20% AI PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: confluent
+company_display: Confluent
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 150000
+    base_high: 185000
+    stock_low: 110000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 235000
+    currency: USD
+  - region: London
+    base_low: 62000
+    base_high: 80000
+    stock_low: 45000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 75000
+    total_comp_high: 102000
+    currency: GBP
+  - region: Bangalore
+    base_low: 3200000
+    base_high: 5200000
+    stock_low: 2200000
+    stock_high: 3800000
+    bonus_pct: 10
+    total_comp_low: 4200000
+    total_comp_high: 6800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Confluent SWE = Google L3 = Meta E3 = Databricks SWE = Elastic SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy"
+---
 ### Software Engineer | Confluent Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy

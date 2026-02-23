@@ -1,3 +1,48 @@
+---
+company: oracle
+company_display: Oracle
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 155000
+    base_high: 192000
+    stock_low: 105000
+    stock_high: 185000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 248000
+    currency: USD
+  - region: Seattle
+    base_low: 165000
+    base_high: 205000
+    stock_low: 115000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 265000
+    currency: USD
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 4800000
+    stock_low: 1000000
+    stock_high: 2000000
+    bonus_pct: null
+    total_comp_low: 3500000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Oracle Senior TPM = Google L4 TPM = AWS Senior TPM = Meta IC4 TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Sign-On Bonus Culture | OCI \"Stargate\" AI Infrastructure Pivot | $500B JV Premium"
+---
 ### Technical Program Manager | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Sign-On Bonus Culture | OCI "Stargate" AI Infrastructure Pivot | $500B JV Premium

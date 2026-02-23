@@ -1,3 +1,48 @@
+---
+company: freshworks
+company_display: Freshworks
+role: freddy-ai-engineer
+role_display: Freddy AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 350000
+    currency: USD
+  - region: India
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 40000
+    total_comp_high: 150000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 52000
+    total_comp_high: 155000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "The Freddy AI Engineer is Freshworks' most strategically critical hire — the specialist who builds and evolves the AI platform that powers intelligent features across every product in the $5B integrated SaaS suite, differentiating Freshworks against Zendesk, ServiceNow, and Salesforce."
+---
 ### Freddy AI Engineer — Freshworks Salary Negotiation Guide
 
 **Negotiation DNA**: The Freddy AI Engineer is Freshworks' most strategically critical hire — the specialist who builds and evolves the AI platform that powers intelligent features across every product in the $5B integrated SaaS suite, differentiating Freshworks against Zendesk, ServiceNow, and Salesforce.

@@ -1,3 +1,50 @@
+---
+company: glean
+company_display: Glean
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 175000
+    base_high: 240000
+    stock_low: 115000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 204000
+    total_comp_high: 318000
+    currency: USD
+  - region: New York City
+    base_low: 175000
+    base_high: 240000
+    stock_low: 115000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 204000
+    total_comp_high: 318000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 216000
+    stock_low: 104000
+    stock_high: 279000
+    bonus_pct: null
+    total_comp_low: 184000
+    total_comp_high: 286000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Glean Security Engineer = Google L4-L5 Security = Meta Security IC4-IC5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strong Growth-Stage Comp + Pre-IPO Equity | $4.6B Valuation | Palo Alto | Enterprise Data Security"
+---
 ### Security Engineer | Glean Global Negotiation Guide
 
 **Negotiation DNA:** Strong Growth-Stage Comp + Pre-IPO Equity | $4.6B Valuation | Palo Alto | Enterprise Data Security

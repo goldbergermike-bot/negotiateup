@@ -1,3 +1,50 @@
+---
+company: disney
+company_display: Disney
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Burbank / Los Angeles
+    base_low: 160000
+    base_high: 220000
+    stock_low: 70000
+    stock_high: 195000
+    bonus_pct: 12
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: USD
+  - region: San Francisco / Seattle
+    base_low: 165000
+    base_high: 225000
+    stock_low: 75000
+    stock_high: 205000
+    bonus_pct: 12
+    total_comp_low: 225000
+    total_comp_high: 360000
+    currency: USD
+  - region: London (UK)
+    base_low: 120000
+    base_high: 165000
+    stock_low: 50000
+    stock_high: 145000
+    bonus_pct: 12
+    total_comp_low: 170000
+    total_comp_high: 270000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Disney Senior SWE (IC4) = Google L5 = Meta E5 = Amazon SDE III = Microsoft 63 = Apple ICT4 = Netflix Senior SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B Entertainment-Tech Empire | Senior Technical Ownership | Disney+ / Parks / ESPN Architecture"
+---
 ### Senior Software Engineer | Disney Global Negotiation Guide
 
 **Negotiation DNA:** $200B Entertainment-Tech Empire | Senior Technical Ownership | Disney+ / Parks / ESPN Architecture

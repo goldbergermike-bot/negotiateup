@@ -1,3 +1,50 @@
+---
+company: nubank
+company_display: Nubank
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (US HQ)
+    base_low: 115000
+    base_high: 155000
+    stock_low: 80000
+    stock_high: 180000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 155000
+    total_comp_high: 225000
+    currency: USD
+  - region: São Paulo (Global HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Berlin
+    base_low: 96000
+    base_high: 129000
+    stock_low: 67000
+    stock_high: 150000
+    bonus_low: 13000
+    bonus_high: 21000
+    total_comp_low: 176000
+    total_comp_high: 300000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`US Charter` `Founding US Team` `$783M Quarterly Profit` `Public Equity (NYSE: NU)` `100M+ Customers` `UX/UI` `Design Systems` `Consumer Finance` `Accessibility` `Localization`"
+---
 ### Product Designer | Nubank Global Negotiation Guide
 
 **Negotiation DNA:** `US Charter` `Founding US Team` `$783M Quarterly Profit` `Public Equity (NYSE: NU)` `100M+ Customers` `UX/UI` `Design Systems` `Consumer Finance` `Accessibility` `Localization`

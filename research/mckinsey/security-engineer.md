@@ -1,3 +1,48 @@
+---
+company: mckinsey
+company_display: Mckinsey
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 165000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 206000
+    total_comp_high: 305000
+    currency: USD
+  - region: Chicago
+    base_low: 155000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 194000
+    total_comp_high: 283000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 145000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 138000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: McKinsey Security Engineer = Google L4 Security Engineer = Amazon Security Engineer II = Palo Alto Networks Staff SecEng
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (25-45%) | No Equity | Client Confidentiality Critical"
+---
 ### Security Engineer | McKinsey Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (25-45%) | No Equity | Client Confidentiality Critical

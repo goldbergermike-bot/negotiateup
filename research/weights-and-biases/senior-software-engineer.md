@@ -1,3 +1,50 @@
+---
+company: weights-and-biases
+company_display: "Weights & Biases"
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 255000
+    stock_low: 190000
+    stock_high: 340000
+    bonus_pct: 5
+    total_comp_low: 268000
+    total_comp_high: 405000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 250000
+    stock_low: 190000
+    stock_high: 340000
+    bonus_pct: 5
+    total_comp_low: 263000
+    total_comp_high: 398000
+    currency: USD
+  - region: London
+    base_low: 152000
+    base_high: 194000
+    stock_low: 143000
+    stock_high: 255000
+    bonus_pct: 5
+    total_comp_low: 203000
+    total_comp_high: 305000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "W&B Senior SWE = Google L5 = Meta E5 = Databricks Senior SWE = Datadog Senior SWE = Snowflake Senior SWE"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity | MLOps Platform Leader | 2026 Focus: Full-Stack AI Platform Engineering"
+---
 ### Senior Software Engineer | Weights & Biases Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity | MLOps Platform Leader | 2026 Focus: Full-Stack AI Platform Engineering

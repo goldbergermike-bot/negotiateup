@@ -1,3 +1,39 @@
+---
+company: palo-alto-networks
+company_display: Palo Alto Networks
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 176000
+    total_comp_high: 396000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 88000
+    total_comp_high: 193000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "As a Security Engineer at Palo Alto Networks, you are both the builder and the subject-matter expert of the Platformization strategy — your deep security expertise drives Security Consolidation credibility and product quality."
+---
 ### Security Engineer — Palo Alto Networks Salary Negotiation Guide
 
 **Negotiation DNA**: As a Security Engineer at Palo Alto Networks, you are both the builder and the subject-matter expert of the Platformization strategy — your deep security expertise drives Security Consolidation credibility and product quality.

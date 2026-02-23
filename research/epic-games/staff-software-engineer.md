@@ -1,3 +1,49 @@
+---
+company: epic-games
+company_display: Epic Games
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 200000
+    base_high: 265000
+    stock_low: 180000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 330000
+    total_comp_high: 530000
+    currency: USD
+  - region: Seattle
+    base_low: 210000
+    base_high: 275000
+    stock_low: 200000
+    stock_high: 420000
+    bonus_pct: 15
+    total_comp_low: 350000
+    total_comp_high: 555000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 125000
+    stock_low: 50000
+    stock_high: 95000
+    bonus_pct: 15
+    total_comp_low: 145000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic Staff SWE = Google L5-L6 = Meta E5-E6 = Valve Principal Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue"
+---
 ### Staff Software Engineer | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue

@@ -1,3 +1,48 @@
+---
+company: broadcom
+company_display: Broadcom
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose (USD)
+    base_low: 148000
+    base_high: 195000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 192000
+    total_comp_high: 285000
+    currency: USD
+  - region: Singapore (SGD S$)
+    base_low: 122000
+    base_high: 162000
+    stock_low: 115000
+    stock_high: 215000
+    bonus_pct: 15
+    total_comp_low: 158000
+    total_comp_high: 238000
+    currency: SGD
+  - region: London (GBP £)
+    base_low: 90000
+    base_high: 128000
+    stock_low: 84000
+    stock_high: 158000
+    bonus_pct: 15
+    total_comp_low: 118000
+    total_comp_high: 188000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Broadcom Technical Program Manager = VMware Senior TPM = Google L5 TPM = NVIDIA Technical Program Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp"
+---
 ### Technical Program Manager | Broadcom Global Negotiation Guide
 
 **Negotiation DNA:** Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp

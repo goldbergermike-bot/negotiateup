@@ -1,3 +1,49 @@
+---
+company: zillow
+company_display: Zillow
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 142000
+    base_high: 185000
+    stock_low: 145000
+    stock_high: 235000
+    bonus_pct: 15
+    total_comp_low: 188000
+    total_comp_high: 258000
+    currency: USD
+  - region: San Francisco
+    base_low: 153000
+    base_high: 200000
+    stock_low: 157000
+    stock_high: 254000
+    bonus_pct: 15
+    total_comp_low: 203000
+    total_comp_high: 278000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 167000
+    stock_low: 131000
+    stock_high: 212000
+    bonus_pct: 15
+    total_comp_low: 169000
+    total_comp_high: 232000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zillow Data Engineer = Google Data Engineer L4–L5 = Redfin Data Engineer = Opendoor Data Engineer = Amazon Data Engineer = Databricks Data Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep"
+---
 ### Data Engineer | Zillow Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep

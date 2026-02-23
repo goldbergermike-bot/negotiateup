@@ -1,3 +1,50 @@
+---
+company: figma
+company_display: Figma
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 225000
+    stock_low: 160000
+    stock_high: 290000
+    bonus_pct: 5
+    total_comp_low: 245000
+    total_comp_high: 365000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 225000
+    stock_low: 160000
+    stock_high: 290000
+    bonus_pct: 5
+    total_comp_low: 245000
+    total_comp_high: 365000
+    currency: USD
+  - region: London
+    base_low: 133000
+    base_high: 171000
+    stock_low: 122000
+    stock_high: 221000
+    bonus_pct: 5
+    total_comp_low: 186000
+    total_comp_high: 278000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Figma Data Scientist = Google L4 DS = Meta E4 DS = Adobe Data Scientist = Canva Data Scientist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Strong Equity | Design Platform Pioneer | 2026 Focus: AI-Driven Design Behavior Intelligence"
+---
 ### Data Scientist | Figma Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Strong Equity | Design Platform Pioneer | 2026 Focus: AI-Driven Design Behavior Intelligence

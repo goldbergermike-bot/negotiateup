@@ -1,3 +1,40 @@
+---
+company: launchdarkly
+company_display: LaunchDarkly
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland HQ
+    base_low: 145000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 290000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 185000
+    stock_low: 40000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: LaunchDarkly SWE = GitLab SWE = Google L3 = Optimizely SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($3B Valuation) | Feature Management Platform | Category Creator | Liquidity Risk"
+---
 ### Software Engineer | LaunchDarkly Global Negotiation Guide
 
 **Negotiation DNA:** Private ($3B Valuation) | Feature Management Platform | Category Creator | Liquidity Risk

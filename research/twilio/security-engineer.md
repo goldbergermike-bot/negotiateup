@@ -1,3 +1,49 @@
+---
+company: twilio
+company_display: Twilio
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Francisco, CA (HQ)"
+    base_low: 160000
+    base_high: 215000
+    stock_low: 130000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 335000
+    currency: USD
+  - region: "Denver, CO"
+    base_low: 145000
+    base_high: 200000
+    stock_low: 110000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 305000
+    currency: USD
+  - region: "London, UK"
+    base_low: 105000
+    base_high: 145000
+    stock_low: 85000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Twilio S2 (Security Engineer) = Google L3 Security = Meta E3 Security = CrowdStrike IC2 = Palo Alto IC2
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Communications security & compliance premium | CustomerAI data protection driving 2026 priorities"
+---
 ### Security Engineer | Twilio Global Negotiation Guide
 
 **Negotiation DNA:** Communications security & compliance premium | CustomerAI data protection driving 2026 priorities

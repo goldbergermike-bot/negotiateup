@@ -1,3 +1,48 @@
+---
+company: cloudflare-workers
+company_display: Cloudflare Workers
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 182000
+    base_high: 228000
+    stock_low: 165000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 358000
+    currency: USD
+  - region: Austin
+    base_low: 172000
+    base_high: 218000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 342000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 152000
+    stock_low: 108000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 235000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Cloudflare SA (L4-L5) = Google Cloud SA L5-L6 = AWS SA = Fastly SA = Akamai SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NYSE: NET) + Bonus | Enterprise Edge AI Deployment | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**"
+---
 ### Solutions Architect | Cloudflare Workers Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NYSE: NET) + Bonus | Enterprise Edge AI Deployment | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**

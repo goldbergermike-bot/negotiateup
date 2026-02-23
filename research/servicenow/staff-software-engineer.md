@@ -1,3 +1,48 @@
+---
+company: servicenow
+company_display: Servicenow
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara (USD)
+    base_low: 230000
+    base_high: 275000
+    stock_low: 360000
+    stock_high: 560000
+    bonus_pct: 15
+    total_comp_low: 355000
+    total_comp_high: 460000
+    currency: USD
+  - region: San Diego (USD)
+    base_low: 210000
+    base_high: 255000
+    stock_low: 320000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 320000
+    total_comp_high: 418000
+    currency: USD
+  - region: London (GBP £)
+    base_low: 150000
+    base_high: 180000
+    stock_low: 235000
+    stock_high: 365000
+    bonus_pct: 15
+    total_comp_low: 232000
+    total_comp_high: 300000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ServiceNow Staff / Principal = Google L5 = Meta E5 = Salesforce PMTS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform"
+---
 ### Staff Software Engineer | ServiceNow Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform

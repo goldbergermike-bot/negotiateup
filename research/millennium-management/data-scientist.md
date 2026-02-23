@@ -1,3 +1,50 @@
+---
+company: millennium-management
+company_display: Millennium Management
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 215000
+    base_high: 285000
+    stock_low: null
+    stock_high: null
+    bonus_low: 120000
+    bonus_high: 195000
+    total_comp_low: 415000
+    total_comp_high: 605000
+    currency: USD
+  - region: Miami
+    base_low: 200000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_low: 110000
+    bonus_high: 180000
+    total_comp_low: 380000
+    total_comp_high: 555000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 165000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_low: 90000
+    bonus_high: 148000
+    total_comp_low: 313000
+    total_comp_high: 458000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Alpha Research` `Signal Generation` `Quantitative Analysis` `Direct Attribution`"
+---
 ### Data Scientist | Millennium Management Global Negotiation Guide
 
 **Negotiation DNA:** `Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Alpha Research` `Signal Generation` `Quantitative Analysis` `Direct Attribution`

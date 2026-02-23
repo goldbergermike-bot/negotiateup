@@ -1,3 +1,40 @@
+---
+company: thoughtspot
+company_display: Thoughtspot
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale HQ
+    base_low: 160000
+    base_high: 220000
+    stock_low: 75000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 330000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 205000
+    stock_low: 65000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: ThoughtSpot PM = Tableau PM = Google L5 PM = Salesforce PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private Equity-Backed | AI-Powered Analytics Pioneer | Liquidity Risk Premium Required"
+---
 ### Product Manager | ThoughtSpot Global Negotiation Guide
 
 **Negotiation DNA:** Private Equity-Backed | AI-Powered Analytics Pioneer | Liquidity Risk Premium Required

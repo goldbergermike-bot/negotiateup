@@ -1,3 +1,51 @@
+---
+company: plaid-identity
+company_display: Plaid Identity
+role: identity-verification-platform-engineer
+role_display: Identity Verification Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 260000
+    stock_low: 280000
+    stock_high: 460000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 385000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 255000
+    stock_low: 270000
+    stock_high: 440000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 375000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 165000
+    stock_low: 140000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 265000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Plaid Identity Eng (Senior) = Google L4-L5 Platform = Stripe L3-L4 = Persona Senior Platform
+data_sources:
+  - Plaid Identity Verification Platform — 100M+ Annual Verifications
+  - "Plaid Pre-IPO Valuation & Equity Benchmarks 2026"
+  - Identity Verification Platform Engineering — Market Comp Report 2026
+  - "Biometric ML & Computer Vision Talent Premium"
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | **SIGNATURE ROLE** | **+15–30% IDENTITY AI PREMIUM**"
+---
 ### Identity Verification Platform Engineer | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | **SIGNATURE ROLE** | **+15–30% IDENTITY AI PREMIUM**

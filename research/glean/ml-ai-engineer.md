@@ -1,3 +1,50 @@
+---
+company: glean
+company_display: Glean
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 200000
+    base_high: 285000
+    stock_low: 165000
+    stock_high: 415000
+    bonus_pct: null
+    total_comp_low: 241000
+    total_comp_high: 389000
+    currency: USD
+  - region: New York City
+    base_low: 200000
+    base_high: 285000
+    stock_low: 165000
+    stock_high: 415000
+    bonus_pct: null
+    total_comp_low: 241000
+    total_comp_high: 389000
+    currency: USD
+  - region: Remote US
+    base_low: 180000
+    base_high: 257000
+    stock_low: 149000
+    stock_high: 374000
+    bonus_pct: null
+    total_comp_low: 217000
+    total_comp_high: 350000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Glean ML/AI Engineer = Google L4-L6 ML Engineer = Meta ML IC4-IC6 = Elasticsearch Senior ML Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strong Growth-Stage Comp + Pre-IPO Equity | $4.6B Valuation | Palo Alto | **+15-30% ML PREMIUM** | Enterprise AI Search"
+---
 ### ML/AI Engineer | Glean Global Negotiation Guide
 
 **Negotiation DNA:** Strong Growth-Stage Comp + Pre-IPO Equity | $4.6B Valuation | Palo Alto | **+15-30% ML PREMIUM** | Enterprise AI Search

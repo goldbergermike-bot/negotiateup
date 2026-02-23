@@ -1,3 +1,51 @@
+---
+company: fidelity
+company_display: Fidelity
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 112000
+    base_high: 148000
+    stock_low: 20000
+    stock_high: 35000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 152000
+    total_comp_high: 218000
+    currency: USD
+  - region: "Durham, NC"
+    base_low: 101000
+    base_high: 133000
+    stock_low: 18000
+    stock_high: 32000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 137000
+    total_comp_high: 197000
+    currency: USD
+  - region: "Dallas, TX"
+    base_low: 103000
+    base_high: 136000
+    stock_low: 18000
+    stock_high: 32000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 139000
+    total_comp_high: 200000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `UX/UI Design` `Compliance-First Design` `Financial Product Design`"
+---
 ### Product Designer | Fidelity Investments Global Negotiation Guide
 
 **Negotiation DNA:** `Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `UX/UI Design` `Compliance-First Design` `Financial Product Design`

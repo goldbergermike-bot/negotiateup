@@ -1,3 +1,50 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 172000
+    base_high: 222000
+    stock_low: 140000
+    stock_high: 255000
+    bonus_pct: 10
+    total_comp_low: 233000
+    total_comp_high: 335000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 162000
+    base_high: 212000
+    stock_low: 128000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 315000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 131000
+    base_high: 169000
+    stock_low: 106000
+    stock_high: 194000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 255000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic PM = Google L5 PM = Meta IC5 PM = CrowdStrike Senior PM = Splunk Senior PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity"
+---
 ### Product Manager | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity

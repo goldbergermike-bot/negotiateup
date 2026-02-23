@@ -1,3 +1,49 @@
+---
+company: nium
+company_display: Nium
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 130000
+    base_high: 195000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 345000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 175000
+    base_high: 245000
+    stock_low: 90000
+    stock_high: 190000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 435000
+    currency: SGD
+  - region: London (GBP)
+    base_low: 80000
+    base_high: 125000
+    stock_low: 45000
+    stock_high: 85000
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a technical program management compensation framework spanning Singapore, San Francisco, and London markets. As a Technical Program Manager at Nium, you are the execution engine behind the Reimagined Infrastructure — coordinating multi-team programs, managing dependencies across payment systems, and ensuring that complex cross-border infrastructure projects ship on time and within re"
+---
 ### Technical Program Manager — Nium Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a technical program management compensation framework spanning Singapore, San Francisco, and London markets. As a Technical Program Manager at Nium, you are the execution engine behind the Reimagined Infrastructure — coordinating multi-team programs, managing dependencies across payment systems, and ensuring that complex cross-border infrastructure projects ship on time and within regulatory constraints.

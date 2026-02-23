@@ -1,3 +1,50 @@
+---
+company: huggingface-enterprise
+company_display: Hugging Face Enterprise
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 235000
+    stock_low: 140000
+    stock_high: 255000
+    bonus_pct: 5
+    total_comp_low: 235000
+    total_comp_high: 330000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 230000
+    stock_low: 140000
+    stock_high: 255000
+    bonus_pct: 5
+    total_comp_low: 230000
+    total_comp_high: 323000
+    currency: USD
+  - region: Paris
+    base_low: 153000
+    base_high: 200000
+    stock_low: 119000
+    stock_high: 217000
+    bonus_pct: 5
+    total_comp_low: 200000
+    total_comp_high: 281000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: HF Enterprise Security Engineer = Google L4-L5 Security Engineer = GitHub Security Engineer = Databricks Security Engineer = Meta Security Engineer IC4-5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Growth-Stage Equity | Open-Source AI Platform Leader | 2026 Focus: Model Supply Chain Security & Enterprise Compliance"
+---
 ### Security Engineer | Hugging Face Enterprise Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Growth-Stage Equity | Open-Source AI Platform Leader | 2026 Focus: Model Supply Chain Security & Enterprise Compliance

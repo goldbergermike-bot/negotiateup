@@ -1,3 +1,48 @@
+---
+company: thunes
+company_display: Thunes
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 90000
+    base_high: 130000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 210000
+    currency: SGD
+  - region: ":gb: London (GBP)"
+    base_low: 55000
+    base_high: 80000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: null
+    total_comp_low: 80000
+    total_comp_high: 130000
+    currency: GBP
+  - region: ":us: New York (USD)"
+    base_low: 110000
+    base_high: 155000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a software engineering compensation framework spanning Singapore, London, and New York markets."
+---
 ### Software Engineer — Thunes Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a software engineering compensation framework spanning Singapore, London, and New York markets.

@@ -1,3 +1,52 @@
+---
+company: nuvei
+company_display: Nuvei
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montreal
+    base_low: 110000
+    base_high: 155000
+    stock_low: 28000
+    stock_high: 60000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 150000
+    total_comp_high: 237000
+    currency: CAD
+  - region: New York
+    base_low: 140000
+    base_high: 200000
+    stock_low: 35000
+    stock_high: 75000
+    bonus_low: 16000
+    bonus_high: 32000
+    total_comp_low: 191000
+    total_comp_high: 307000
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 110000
+    stock_low: 16000
+    stock_high: 38000
+    bonus_low: 9000
+    bonus_high: 16000
+    total_comp_low: 100000
+    total_comp_high: 164000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Nuvei | Google | Meta | Stripe | Adyen | Global Payments |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Infrastructure` `SRE` `Montreal HQ`"
+---
 ### DevOps Engineer | Nuvei Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Infrastructure` `SRE` `Montreal HQ`

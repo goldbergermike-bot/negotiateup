@@ -1,3 +1,48 @@
+---
+company: nutanix
+company_display: Nutanix
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 233000
+    total_comp_high: 480000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 218000
+    total_comp_high: 450000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 4200000
+    total_comp_high: 14500000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Engineering Managers at Nutanix lead teams building the hybrid multi-cloud and HCI platform, driving delivery of distributed storage, virtualization, and cloud management capabilities for enterprise customers."
+---
 ### Engineering Manager — Nutanix Salary Negotiation Guide
 
 **Negotiation DNA**: Engineering Managers at Nutanix lead teams building the hybrid multi-cloud and HCI platform, driving delivery of distributed storage, virtualization, and cloud management capabilities for enterprise customers.

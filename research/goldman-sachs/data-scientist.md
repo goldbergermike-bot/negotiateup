@@ -1,3 +1,53 @@
+---
+company: goldman-sachs
+company_display: Goldman Sachs
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 148000
+    base_high: 205000
+    stock_low: 45000
+    stock_high: 72000
+    bonus_low: 32000
+    bonus_high: 48000
+    total_comp_low: 225000
+    total_comp_high: 325000
+    currency: USD
+  - region: London
+    base_low: 112000
+    base_high: 155000
+    stock_low: 34000
+    stock_high: 55000
+    bonus_low: 24000
+    bonus_high: 36000
+    total_comp_low: 170000
+    total_comp_high: 246000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 3600000
+    base_high: 5200000
+    stock_low: 1400000
+    stock_high: 2200000
+    bonus_low: 800000
+    bonus_high: 1400000
+    total_comp_low: 5800000
+    total_comp_high: 8800000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: "`Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Quantitative Analytics` `Alpha Signal Discovery` `Statistical Modeling`"
+---
 ### Data Scientist | Goldman Sachs Global Negotiation Guide
 
 **Negotiation DNA:** `Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Quantitative Analytics` `Alpha Signal Discovery` `Statistical Modeling`

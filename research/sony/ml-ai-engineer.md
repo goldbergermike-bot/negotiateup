@@ -1,3 +1,59 @@
+---
+company: sony
+company_display: Sony
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / San Diego (US)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 55000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 325000
+    currency: USD
+  - region: Bay Area (US)
+    base_low: 145000
+    base_high: 210000
+    stock_low: 50000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 315000
+    currency: USD
+  - region: Tokyo (HQ / Sony AI)
+    base_low: 10000000
+    base_high: 17000000
+    stock_low: 3000000
+    stock_high: 9000000
+    bonus_pct: 10
+    total_comp_low: 13000000
+    total_comp_high: 23000000
+    currency: JPY
+  - region: London
+    base_low: 90000
+    base_high: 148000
+    stock_low: 35000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Sony (IC3-IC5) = L4-L5 at Google, IC4-IC5 at Meta, ML Engineer at Microsoft/EA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$110B market cap investing in AI across gaming (game AI, NPC behavior), entertainment (content recommendation, VFX), and semiconductors (image sensor AI) + Sony AI research lab producing top-tier publications + US AI comp competitive with industry | Sony AI engineers work at the intersection of AI and entertainment | **ENTERTAINMENT AI PREMIUM**"
+---
 ### ML/AI Engineer | Sony Global Negotiation Guide
 
 **Negotiation DNA:** $110B market cap investing in AI across gaming (game AI, NPC behavior), entertainment (content recommendation, VFX), and semiconductors (image sensor AI) + Sony AI research lab producing top-tier publications + US AI comp competitive with industry | Sony AI engineers work at the intersection of AI and entertainment | **ENTERTAINMENT AI PREMIUM**

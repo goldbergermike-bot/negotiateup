@@ -1,3 +1,54 @@
+---
+company: spendesk
+company_display: Spendesk
+role: compliance-sovereignty-platform-engineer
+role_display: Compliance Sovereignty Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 80000
+    base_high: 125000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_low: 10000
+    bonus_high: 25000
+    total_comp_low: 140000
+    total_comp_high: 300000
+    currency: EUR
+  - region: London
+    base_low: 82000
+    base_high: 130000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_low: 10000
+    bonus_high: 25000
+    total_comp_low: 137000
+    total_comp_high: 285000
+    currency: GBP
+  - region: Berlin
+    base_low: 82000
+    base_high: 127000
+    stock_low: 48000
+    stock_high: 140000
+    bonus_low: 10000
+    bonus_high: 22000
+    total_comp_low: 140000
+    total_comp_high: 289000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Spendesk | Google | Meta | Stripe | Pleo | Brex |"
+data_sources:
+  - Crunchbase
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `Platform Engineering` `Regulatory Infrastructure` `EU Compliance Leadership` `Signature Role`"
+---
 ### Compliance Sovereignty Platform Engineer | Spendesk Global Negotiation Guide
 
 > **SIGNATURE ROLE** — This is the defining role of Spendesk's 2026 strategic vision. The Compliance Sovereignty Platform Engineer is the engineer who builds the technical foundation that makes Spendesk the unchallenged leader in European spend management compliance.

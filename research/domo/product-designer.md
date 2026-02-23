@@ -1,3 +1,40 @@
+---
+company: domo
+company_display: Domo
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: American Fork UT HQ
+    base_low: 105000
+    base_high: 145000
+    stock_low: 20000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 185000
+    currency: USD
+  - region: Remote US
+    base_low: 100000
+    base_high: 140000
+    stock_low: 18000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 175000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Domo Senior Designer = Sisense Senior Designer = Looker Designer (comp-adjusted)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Small-Cap Public ($700M Market Cap) | BI Platform | Utah-Based Value | Smaller Company Comp"
+---
 ### Product Designer | Domo Global Negotiation Guide
 
 **Negotiation DNA:** Small-Cap Public ($700M Market Cap) | BI Platform | Utah-Based Value | Smaller Company Comp

@@ -1,3 +1,39 @@
+---
+company: faire
+company_display: Faire
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 305000
+    currency: USD
+  - region: Remote US
+    base_low: 138000
+    base_high: 192000
+    stock_low: 65000
+    stock_high: 188000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 288000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Faire Software Engineer = Google L3 = Meta E3 = Shopify SWE = Amazon SDE-I
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Startup Comp | Private $12B Valuation | B2B Wholesale Pioneer | Pre-IPO Upside"
+---
 ### Software Engineer | Faire Global Negotiation Guide
 
 **Negotiation DNA:** Strong Startup Comp | Private $12B Valuation | B2B Wholesale Pioneer | Pre-IPO Upside

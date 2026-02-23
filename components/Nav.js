@@ -39,6 +39,9 @@ export default function Nav() {
           <a href="/report" className="text-muted text-sm font-medium hover:text-ink transition-colors">
             Free Report
           </a>
+          <a href="/companies" className="text-muted text-sm font-medium hover:text-ink transition-colors">
+            Companies
+          </a>
           <a href="/blog" className="text-muted text-sm font-medium hover:text-ink transition-colors">
             Blog
           </a>
@@ -74,6 +77,9 @@ export default function Nav() {
           </a>
           <a href="/report" onClick={() => setMenuOpen(false)} className="block text-muted text-sm font-medium hover:text-ink py-2">
             Free Salary Report
+          </a>
+          <a href="/companies" onClick={() => setMenuOpen(false)} className="block text-muted text-sm font-medium hover:text-ink py-2">
+            Companies
           </a>
           <a href="/blog" onClick={() => setMenuOpen(false)} className="block text-muted text-sm font-medium hover:text-ink py-2">
             Blog

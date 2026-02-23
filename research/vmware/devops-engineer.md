@@ -1,3 +1,48 @@
+---
+company: vmware
+company_display: Vmware
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 158000
+    total_comp_high: 380000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 358000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2000000
+    total_comp_high: 9800000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "DevOps Engineers at VMware build the CI/CD pipelines, infrastructure automation, and internal platform services that enable development and delivery of the world's leading enterprise virtualization and cloud infrastructure products."
+---
 ### DevOps Engineer — VMware (Broadcom) Salary Negotiation Guide
 
 **Negotiation DNA**: DevOps Engineers at VMware build the CI/CD pipelines, infrastructure automation, and internal platform services that enable development and delivery of the world's leading enterprise virtualization and cloud infrastructure products.

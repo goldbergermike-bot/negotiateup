@@ -1,3 +1,52 @@
+---
+company: toast
+company_display: Toast
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston MA
+    base_low: 165000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 205000
+    total_comp_high: 300000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 225000
+    stock_low: 90000
+    stock_high: 180000
+    bonus_low: 22000
+    bonus_high: 45000
+    total_comp_low: 220000
+    total_comp_high: 325000
+    currency: USD
+  - region: San Francisco
+    base_low: 185000
+    base_high: 240000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 235000
+    total_comp_high: 355000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Toast | Google | Meta | Stripe | Block | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: TOST` `Toast IQ` `Solutions Architect` `Restaurant Tech` `Hospitality Intelligence` `Enterprise` `Integration` `Restaurant OS` `Payments`"
+---
 ### Solutions Architect | Toast Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: TOST` `Toast IQ` `Solutions Architect` `Restaurant Tech` `Hospitality Intelligence` `Enterprise` `Integration` `Restaurant OS` `Payments`

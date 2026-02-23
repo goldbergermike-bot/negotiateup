@@ -1,3 +1,48 @@
+---
+company: boku
+company_display: Boku
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 65000
+    base_high: 100000
+    stock_low: 20000
+    stock_high: 55000
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 155000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 320000
+    currency: USD
+  - region: Mumbai (INR)
+    base_low: 1800000
+    base_high: 3500000
+    stock_low: 600000
+    stock_high: 1500000
+    bonus_pct: null
+    total_comp_low: 2400000
+    total_comp_high: 5000000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a DevOps Engineer compensation framework spanning London, San Francisco, and Mumbai markets."
+---
 ### DevOps Engineer — Boku Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a DevOps Engineer compensation framework spanning London, San Francisco, and Mumbai markets.

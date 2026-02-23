@@ -1,3 +1,52 @@
+---
+company: adyen
+company_display: Adyen
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 85000
+    base_high: 120000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 8000
+    bonus_high: 15000
+    total_comp_low: 133000
+    total_comp_high: 215000
+    currency: EUR
+  - region: San Francisco
+    base_low: 130000
+    base_high: 175000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 202000
+    total_comp_high: 317000
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 110000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_low: 7000
+    bonus_high: 14000
+    total_comp_low: 117000
+    total_comp_high: 194000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Adyen | Google | Meta | Stripe | Visa | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `IC Track`"
+---
 ### Software Engineer | Adyen Global Negotiation Guide
 
 **Negotiation DNA:** `AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `IC Track`

@@ -1,3 +1,50 @@
+---
+company: wells-fargo
+company_display: Wells Fargo
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 150000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 205000
+    total_comp_high: 330000
+    currency: USD
+  - region: New York City
+    base_low: 148000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 200000
+    total_comp_high: 320000
+    currency: USD
+  - region: Charlotte
+    base_low: 135000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 182000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Manager at WF (SVP/Director) = L5-L6 at Google, IC5-IC6 at Meta, Sr PM-Principal PM at Amazon, Director PM at Capital One, SVP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$225B market cap bank + PM drives product rebuilding for 70M+ customers + SF HQ tech market rates + Transformation = greenfield product opportunities | Wells Fargo PMs shape the bank's digital future | **PRODUCT TRANSFORMATION PREMIUM**"
+---
 ### Product Manager | Wells Fargo Global Negotiation Guide
 
 **Negotiation DNA:** $225B market cap bank + PM drives product rebuilding for 70M+ customers + SF HQ tech market rates + Transformation = greenfield product opportunities | Wells Fargo PMs shape the bank's digital future | **PRODUCT TRANSFORMATION PREMIUM**

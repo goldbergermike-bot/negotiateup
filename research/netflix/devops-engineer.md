@@ -1,3 +1,48 @@
+---
+company: netflix
+company_display: Netflix
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 215000
+    base_high: 268000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 268000
+    currency: USD
+  - region: San Francisco
+    base_low: 221000
+    base_high: 276000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 221000
+    total_comp_high: 276000
+    currency: USD
+  - region: London
+    base_low: 164000
+    base_high: 204000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 164000
+    total_comp_high: 204000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Netflix DevOps = Google SRE/DevOps L4-L5 = Meta Production Engineer (IC4-IC5) = Amazon Systems Engineer = Microsoft SRE 62-64
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture"
+---
 ### DevOps Engineer | Netflix Global Negotiation Guide
 
 **Negotiation DNA:** All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture

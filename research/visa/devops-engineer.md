@@ -1,3 +1,54 @@
+---
+company: visa
+company_display: Visa
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Foster City
+    base_low: 155000
+    base_high: 210000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 295000
+    total_comp_high: 468000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 225000
+    stock_low: 130000
+    stock_high: 235000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 317000
+    total_comp_high: 502000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 128000
+    stock_low: 65000
+    stock_high: 125000
+    bonus_low: 13000
+    bonus_high: 24000
+    total_comp_low: 168000
+    total_comp_high: 277000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Visa | Google | Meta | Stripe | JPMorgan | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Infrastructure` `Site Reliability` `VisaNet` `4B+ Cards` `200+ Countries` `CI/CD` `Zero-Downtime` `Cloud Infrastructure`"
+---
 ### DevOps Engineer | Visa Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Infrastructure` `Site Reliability` `VisaNet` `4B+ Cards` `200+ Countries` `CI/CD` `Zero-Downtime` `Cloud Infrastructure`

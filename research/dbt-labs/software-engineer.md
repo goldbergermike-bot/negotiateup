@@ -1,3 +1,48 @@
+---
+company: dbt-labs
+company_display: dbt Labs
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / Remote-US
+    base_low: 148000
+    base_high: 180000
+    stock_low: 88000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 238000
+    currency: USD
+  - region: San Francisco
+    base_low: 158000
+    base_high: 192000
+    stock_low: 98000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 255000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 132000
+    stock_low: 62000
+    stock_high: 112000
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: dbt Labs SWE = Google L3-L4 = Snowflake SWE = Databricks SWE = Meta E3-E4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Forward + Bonus | Analytics Engineering Platform Development 2026"
+---
 ### Software Engineer | dbt Labs Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Forward + Bonus | Analytics Engineering Platform Development 2026

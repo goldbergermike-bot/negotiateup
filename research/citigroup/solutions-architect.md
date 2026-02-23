@@ -1,3 +1,50 @@
+---
+company: citigroup
+company_display: Citigroup
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 155000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 210000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 148000
+    total_comp_high: 250000
+    currency: GBP
+  - region: Singapore
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Citi (SVP/Director) = L5-L6 at Google, E5-E6 at Meta, Principal SA at Amazon, Principal Architect at Capital One, SVP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$130B market cap global bank + Architecture across 160+ country operations + NYC HQ competitive hiring + Architecture critical to transformation | Citi SAs design global-scale banking platforms | **GLOBAL ARCHITECTURE PREMIUM**"
+---
 ### Solutions Architect | Citigroup Global Negotiation Guide
 
 **Negotiation DNA:** $130B market cap global bank + Architecture across 160+ country operations + NYC HQ competitive hiring + Architecture critical to transformation | Citi SAs design global-scale banking platforms | **GLOBAL ARCHITECTURE PREMIUM**

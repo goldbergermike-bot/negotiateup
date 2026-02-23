@@ -1,3 +1,53 @@
+---
+company: spendesk
+company_display: Spendesk
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 52000
+    base_high: 78000
+    stock_low: 15000
+    stock_high: 40000
+    bonus_low: 4000
+    bonus_high: 10000
+    total_comp_low: 71000
+    total_comp_high: 128000
+    currency: EUR
+  - region: London
+    base_low: 55000
+    base_high: 82000
+    stock_low: 12000
+    stock_high: 35000
+    bonus_low: 4000
+    bonus_high: 10000
+    total_comp_low: 71000
+    total_comp_high: 127000
+    currency: GBP
+  - region: Berlin
+    base_low: 54000
+    base_high: 80000
+    stock_low: 14000
+    stock_high: 38000
+    bonus_low: 4000
+    bonus_high: 9000
+    total_comp_low: 72000
+    total_comp_high: 127000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Spendesk | Google | Meta | Stripe | Pleo | Brex |"
+data_sources:
+  - Crunchbase
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `Design` `UX/UI`"
+---
 ### Product Designer | Spendesk Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `Design` `UX/UI`

@@ -1,3 +1,68 @@
+---
+company: samsung
+company_display: Samsung
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / San Jose (US R&D)"
+    base_low: 155000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 350000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 320000
+    currency: USD
+  - region: Seoul (HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (R&D Campus)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 150000
+    stock_low: 40000
+    stock_high: 100000
+    bonus_pct: 15
+    total_comp_low: 130000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Senior Software Engineer at Samsung (CL3-CL4) = L4-L5 at Google, IC4-IC5 at Meta, SDE II-Senior at Amazon, E4-E5 at Apple"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B conglomerate with aggressive US R&D expansion + Senior-level comp increasingly competitive with Big Tech + Korean profit-sharing bonuses boost TC significantly | Samsung targets experienced engineers to lead Galaxy AI, One UI, and semiconductor software initiatives | **EXPERIENCE PREMIUM**"
+---
 ### Senior Software Engineer | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B conglomerate with aggressive US R&D expansion + Senior-level comp increasingly competitive with Big Tech + Korean profit-sharing bonuses boost TC significantly | Samsung targets experienced engineers to lead Galaxy AI, One UI, and semiconductor software initiatives | **EXPERIENCE PREMIUM**

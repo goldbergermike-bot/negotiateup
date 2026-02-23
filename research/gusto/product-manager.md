@@ -1,3 +1,48 @@
+---
+company: gusto
+company_display: Gusto
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 200000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 310000
+    currency: USD
+  - region: Denver
+    base_low: 145000
+    base_high: 180000
+    stock_low: 100000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 270000
+    currency: USD
+  - region: Toronto
+    base_low: 155000
+    base_high: 190000
+    stock_low: 90000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 265000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto PM = Google L5 PM = Meta IC5 PM = Stripe PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Forward / Equity Upside | Embedded Payroll & AI Product Strategy"
+---
 ### Product Manager | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Base-Forward / Equity Upside | Embedded Payroll & AI Product Strategy

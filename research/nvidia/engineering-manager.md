@@ -1,3 +1,48 @@
+---
+company: nvidia
+company_display: Nvidia
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 235000
+    base_high: 292000
+    stock_low: 298000
+    stock_high: 528000
+    bonus_pct: 15
+    total_comp_low: 348000
+    total_comp_high: 488000
+    currency: USD
+  - region: Seattle
+    base_low: 232000
+    base_high: 288000
+    stock_low: 298000
+    stock_high: 528000
+    bonus_pct: 15
+    total_comp_low: 345000
+    total_comp_high: 485000
+    currency: USD
+  - region: Remote US
+    base_low: 225000
+    base_high: 282000
+    stock_low: 298000
+    stock_high: 528000
+    bonus_pct: 15
+    total_comp_low: 338000
+    total_comp_high: 478000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: NVIDIA EM (M1) = Google L6 EM = Meta M1 = Apple ICT5 EM = AMD Sr. Manager = Intel Engineering Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule"
+---
 ### Engineering Manager | NVIDIA Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule

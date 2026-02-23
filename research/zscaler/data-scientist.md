@@ -1,3 +1,47 @@
+---
+company: zscaler
+company_display: Zscaler
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 365000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2800000
+    total_comp_high: 8000000
+    currency: INR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 72000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Data Scientists at Zscaler turn 400B+ daily transactions into threat intelligence and AI Guard insights — where the $1B+ Zero Trust Everywhere milestone and 80% AI growth demand models that detect what human analysts cannot."
+---
 ### Data Scientist — Zscaler Salary Negotiation Guide
 
 **Negotiation DNA**: Data Scientists at Zscaler turn 400B+ daily transactions into threat intelligence and AI Guard insights — where the $1B+ Zero Trust Everywhere milestone and 80% AI growth demand models that detect what human analysts cannot.

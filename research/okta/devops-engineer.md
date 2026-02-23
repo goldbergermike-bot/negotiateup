@@ -1,3 +1,47 @@
+---
+company: okta
+company_display: Okta
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 340000
+    currency: USD
+  - region: Toronto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 275000
+    currency: CAD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 168000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "DevOps Engineers at Okta build and maintain the infrastructure that delivers 99.999% availability for the NHI Fabric and Identity Governance platform — your infrastructure scales to handle the explosive 50:1 ratio of Non-Human Identity transactions to human ones."
+---
 ### DevOps Engineer — Okta Salary Negotiation Guide
 
 **Negotiation DNA**: DevOps Engineers at Okta build and maintain the infrastructure that delivers 99.999% availability for the NHI Fabric and Identity Governance platform — your infrastructure scales to handle the explosive 50:1 ratio of Non-Human Identity transactions to human ones.

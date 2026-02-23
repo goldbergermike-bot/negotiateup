@@ -1,3 +1,67 @@
+---
+company: zoom
+company_display: Zoom
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 160000
+    base_high: 225000
+    stock_low: 90000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 335000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 290000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 78000
+    base_high: 118000
+    stock_low: 35000
+    stock_high: 82000
+    bonus_pct: 10
+    total_comp_low: 105000
+    total_comp_high: 168000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2500000
+    base_high: 4800000
+    stock_low: 1400000
+    stock_high: 3500000
+    bonus_pct: 10
+    total_comp_low: 3500000
+    total_comp_high: 6500000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 120000
+    base_high: 180000
+    stock_low: 50000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom IC2/IC3 (DS) ~ Google L4/L5 DS | Microsoft 61/62 DS | Meta E4/E5 DS | Salesforce Senior/Lead DS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Communication analytics & engagement intelligence specialist | Meeting insights & platform optimization | **ANALYTICS PREMIUM**"
+---
 ### Data Scientist | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** Communication analytics & engagement intelligence specialist | Meeting insights & platform optimization | **ANALYTICS PREMIUM**

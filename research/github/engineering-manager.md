@@ -1,3 +1,50 @@
+---
+company: github
+company_display: Github
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 240000
+    stock_low: 220000
+    stock_high: 360000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 420000
+    currency: USD
+  - region: Seattle
+    base_low: 190000
+    base_high: 235000
+    stock_low: 210000
+    stock_high: 350000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 410000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 165000
+    stock_low: 140000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 290000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: GitHub EM = Microsoft Engineering Manager (L63-L65) = Google EM L5-L6 = Meta M1 = Stripe EM
+data_sources:
+  - Levels.fyi
+  - Hired
+  - LinkedIn
+negotiation_dna_summary: "Base + Microsoft RSU + Bonus | Copilot Team Scaling & AI Delivery"
+---
 ### Engineering Manager | GitHub Global Negotiation Guide
 
 **Negotiation DNA:** Base + Microsoft RSU + Bonus | Copilot Team Scaling & AI Delivery

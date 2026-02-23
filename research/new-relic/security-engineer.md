@@ -1,3 +1,56 @@
+---
+company: new-relic
+company_display: New Relic
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 215000
+    total_comp_high: 305000
+    currency: USD
+  - region: Portland
+    base_low: 148000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 12000
+    signing_bonus_high: 22000
+    total_comp_low: 192000
+    total_comp_high: 272000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 135000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 8000
+    signing_bonus_high: 16000
+    total_comp_low: 118000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Security Engineer at New Relic maps to L4/L5 (mid-senior) across the industry. Equivalent titles include Security Engineer (Amazon/Google), Security Software Engineer (Meta), AppSec Engineer (Datadog), and Information Security Engineer (Splunk)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Security Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | Observability Platform"
+---
 ### Security Engineer | New Relic Global Negotiation Guide
 
 **Negotiation DNA:** Security Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | Observability Platform

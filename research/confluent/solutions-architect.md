@@ -1,3 +1,48 @@
+---
+company: confluent
+company_display: Confluent
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 168000
+    base_high: 210000
+    stock_low: 155000
+    stock_high: 258000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 278000
+    currency: USD
+  - region: London
+    base_low: 72000
+    base_high: 92000
+    stock_low: 62000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 85000
+    total_comp_high: 118000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4200000
+    base_high: 6200000
+    stock_low: 3000000
+    stock_high: 5000000
+    bonus_pct: 10
+    total_comp_low: 5000000
+    total_comp_high: 7800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Confluent Senior SA = Google Customer Engineer = Databricks Senior SA = MongoDB Senior SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy"
+---
 ### Solutions Architect | Confluent Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy

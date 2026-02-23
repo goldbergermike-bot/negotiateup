@@ -1,3 +1,52 @@
+---
+company: block
+company_display: Block (Square)
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 220000
+    base_high: 280000
+    stock_low: 280000
+    stock_high: 450000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 340000
+    total_comp_high: 530000
+    currency: USD
+  - region: New York
+    base_low: 215000
+    base_high: 275000
+    stock_low: 260000
+    stock_high: 430000
+    bonus_low: 28000
+    bonus_high: 50000
+    total_comp_low: 330000
+    total_comp_high: 515000
+    currency: USD
+  - region: London
+    base_low: 135000
+    base_high: 175000
+    stock_low: 170000
+    stock_high: 280000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 230000
+    total_comp_high: 350000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Block | Google | Meta | Stripe | PayPal | Coinbase |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `M1-M2 Equivalent` `People Leader` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Post-Restructuring Leadership`"
+---
 ### Engineering Manager | Block Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `M1-M2 Equivalent` `People Leader` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Post-Restructuring Leadership`

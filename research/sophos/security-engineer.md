@@ -1,3 +1,48 @@
+---
+company: sophos
+company_display: Sophos
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US Remote
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 330000
+    currency: USD
+  - region: Abingdon UK
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 52000
+    total_comp_high: 138000
+    currency: GBP
+  - region: Vancouver
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 113000
+    total_comp_high: 275000
+    currency: CAD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Security Engineers at Sophos secure the infrastructure and products of a global cybersecurity leader, maintaining the security posture expected of a company that protects over 500,000 organizations from cyber threats."
+---
 ### Security Engineer — Sophos Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at Sophos secure the infrastructure and products of a global cybersecurity leader, maintaining the security posture expected of a company that protects over 500,000 organizations from cyber threats.

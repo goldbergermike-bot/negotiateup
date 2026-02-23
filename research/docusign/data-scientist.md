@@ -1,3 +1,67 @@
+---
+company: docusign
+company_display: Docusign
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 80000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 310000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 135000
+    base_high: 190000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 270000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 75000
+    base_high: 115000
+    stock_low: 32000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 100000
+    total_comp_high: 160000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2400000
+    base_high: 4500000
+    stock_low: 1200000
+    stock_high: 3200000
+    bonus_pct: 10
+    total_comp_low: 3200000
+    total_comp_high: 6000000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 125000
+    base_high: 180000
+    stock_low: 48000
+    stock_high: 108000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 240000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign IC3/IC4 (DS) ~ Salesforce Senior/Lead DS | Adobe Senior/Staff DS | ServiceNow Senior/Staff DS | Google L4/L5 DS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Agreement analytics & contract intelligence specialist | IAM predictive modeling | **ANALYTICS PREMIUM**"
+---
 ### Data Scientist | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** Agreement analytics & contract intelligence specialist | IAM predictive modeling | **ANALYTICS PREMIUM**

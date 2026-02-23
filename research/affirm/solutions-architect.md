@@ -1,3 +1,48 @@
+---
+company: affirm
+company_display: Affirm
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 215000
+    stock_low: 148000
+    stock_high: 262000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 318000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 222000
+    stock_low: 148000
+    stock_high: 262000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 325000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 205000
+    stock_low: 148000
+    stock_high: 262000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Affirm SA (SA2-SA3) = Klarna SA = Block SA = Stripe SA = Google L5 SA = PayPal SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Apple Pay In-Store Launch | Revenue Velocity Architect | 47% Transaction Growth | **BNPL COMMERCE PIONEER**"
+---
 ### Solutions Architect | Affirm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Apple Pay In-Store Launch | Revenue Velocity Architect | 47% Transaction Growth | **BNPL COMMERCE PIONEER**

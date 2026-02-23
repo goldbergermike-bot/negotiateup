@@ -1,3 +1,51 @@
+---
+company: etrade
+company_display: Etrade
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 220000
+    base_high: 285000
+    stock_low: null
+    stock_high: null
+    bonus_low: 53000
+    bonus_high: 87000
+    total_comp_low: 348000
+    total_comp_high: 502000
+    currency: USD
+  - region: "Jersey City, NJ"
+    base_low: 209000
+    base_high: 271000
+    stock_low: null
+    stock_high: null
+    bonus_low: 50000
+    bonus_high: 83000
+    total_comp_low: 331000
+    total_comp_high: 477000
+    currency: USD
+  - region: "Alpharetta, GA"
+    base_low: 187000
+    base_high: 242000
+    stock_low: null
+    stock_high: null
+    bonus_low: 45000
+    bonus_high: 74000
+    total_comp_low: 296000
+    total_comp_high: 427000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Architecture` `Technical Strategy` `Platform Leadership`"
+---
 ### Staff Software Engineer | E*TRADE (Morgan Stanley) Global Negotiation Guide
 
 **Negotiation DNA:** `Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Architecture` `Technical Strategy` `Platform Leadership`

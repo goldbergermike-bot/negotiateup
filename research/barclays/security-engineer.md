@@ -1,3 +1,49 @@
+---
+company: barclays
+company_display: Barclays
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 140000
+    base_high: 198000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+  - region: London (HQ)
+    base_low: 95000
+    base_high: 142000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 128000
+    total_comp_high: 222000
+    currency: GBP
+  - region: Glasgow
+    base_low: 75000
+    base_high: 112000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 100000
+    total_comp_high: 168000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Security Engineer at Barclays (VP/SVP) = L4-L5 at Google, E4-E5 at Meta, SecEng II-Senior at Amazon, VP/SVP at BofA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GBP35B market cap UK bank + Security across UK/US banking infrastructure + London/NYC dual hub + UK banks are top cyber targets | Barclays security spans UK and global threat landscapes | **UK BANKING SECURITY PREMIUM**"
+---
 ### Security Engineer | Barclays Global Negotiation Guide
 
 **Negotiation DNA:** GBP35B market cap UK bank + Security across UK/US banking infrastructure + London/NYC dual hub + UK banks are top cyber targets | Barclays security spans UK and global threat landscapes | **UK BANKING SECURITY PREMIUM**

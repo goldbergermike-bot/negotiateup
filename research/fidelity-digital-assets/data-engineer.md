@@ -1,3 +1,52 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 175000
+    base_high: 225000
+    stock_low: 155000
+    stock_high: 285000
+    bonus_low: 40000
+    bonus_high: 65000
+    total_comp_low: 235000
+    total_comp_high: 332000
+    currency: USD
+  - region: New York
+    base_low: 188000
+    base_high: 242000
+    stock_low: 170000
+    stock_high: 310000
+    bonus_low: 45000
+    bonus_high: 72000
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 205000
+    stock_low: 140000
+    stock_high: 258000
+    bonus_low: 36000
+    bonus_high: 58000
+    total_comp_low: 208000
+    total_comp_high: 292000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#DataEngineering` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#OnChainData`"
+---
 ### Data Engineer | Fidelity Digital Assets Global Negotiation Guide
 
 **Negotiation DNA:** `#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#DataEngineering` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#OnChainData`

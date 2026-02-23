@@ -1,3 +1,49 @@
+---
+company: payerve
+company_display: Payerve
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dubai
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Riyadh
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Remote MENA
+    base_low: 92000
+    base_high: 135000
+    stock_low: 27000
+    stock_high: 58000
+    bonus_low: 10000
+    bonus_high: 19000
+    total_comp_low: 129000
+    total_comp_high: 212000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Payerve | Google | Meta | Stripe | Checkout.com | Thunes |"
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "`Private` `MENA Facilitator` `Payment Infrastructure` `Dubai HQ` `Growth-Stage Fintech` `Options Equity` `Cross-Functional Delivery` `Program Execution`"
+---
 ### Technical Program Manager | Payerve Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `MENA Facilitator` `Payment Infrastructure` `Dubai HQ` `Growth-Stage Fintech` `Options Equity` `Cross-Functional Delivery` `Program Execution`

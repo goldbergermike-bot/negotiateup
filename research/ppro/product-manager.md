@@ -1,3 +1,48 @@
+---
+company: ppro
+company_display: Ppro
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 80000
+    base_high: 115000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_pct: null
+    total_comp_low: 110000
+    total_comp_high: 175000
+    currency: GBP
+  - region: Munich (EUR)
+    base_low: 85000
+    base_high: 120000
+    stock_low: 28000
+    stock_high: 58000
+    bonus_pct: null
+    total_comp_low: 113000
+    total_comp_high: 178000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 110000
+    base_high: 155000
+    stock_low: 40000
+    stock_high: 75000
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 230000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a product management compensation framework spanning London, Munich, and Singapore markets."
+---
 ### Product Manager — PPRO Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a product management compensation framework spanning London, Munich, and Singapore markets.

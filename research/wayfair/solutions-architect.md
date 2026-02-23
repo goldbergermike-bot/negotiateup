@@ -1,3 +1,48 @@
+---
+company: wayfair
+company_display: Wayfair
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 135000
+    base_high: 178000
+    stock_low: 40000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 235000
+    currency: USD
+  - region: New York
+    base_low: 142000
+    base_high: 187000
+    stock_low: 42000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 181000
+    total_comp_high: 247000
+    currency: USD
+  - region: Remote US
+    base_low: 122000
+    base_high: 160000
+    stock_low: 34000
+    stock_high: 53000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 212000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Wayfair Solutions Architect = Google Solutions Architect L5-L6 = Amazon Solutions Architect (Sr.) = Microsoft Solutions Architect = Salesforce Technical Architect
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Architecture & Integration Premium"
+---
 ### Solutions Architect | Wayfair Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Architecture & Integration Premium

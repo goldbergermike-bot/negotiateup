@@ -1,3 +1,53 @@
+---
+company: inflection-ai
+company_display: Inflection AI
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 230000
+    base_high: 295000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 280000
+    total_comp_high: 403000
+    currency: USD
+  - region: Seattle
+    base_low: 223000
+    base_high: 286000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 273000
+    total_comp_high: 393000
+    currency: USD
+  - region: Remote US
+    base_low: 207000
+    base_high: 266000
+    stock_low: 180000
+    stock_high: 405000
+    bonus_low: 23000
+    bonus_high: 41000
+    total_comp_low: 252000
+    total_comp_high: 363000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Inflection Staff SWE = Microsoft L65-L66 = Google L6 = Meta E6
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | Technical Leadership"
+---
 ### Staff Software Engineer | Inflection AI Global Negotiation Guide
 
 **Negotiation DNA:** Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | Technical Leadership

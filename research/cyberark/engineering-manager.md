@@ -1,3 +1,46 @@
+---
+company: cyberark
+company_display: Cyberark
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newton MA
+    base_low: 180000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 50000
+    total_comp_low: 330000
+    total_comp_high: 490000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 140000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 18000
+    signing_bonus_high: 38000
+    total_comp_low: 205000
+    total_comp_high: 320000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at CyberArk maps to M1–M2 in the Palo Alto Networks management ladder, people manager leading a team of 6–12 engineers within the Identity Security business unit."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+  - Blind
+negotiation_dna_summary: "CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London"
+---
 ### Engineering Manager | CyberArk Global Negotiation Guide
 
 **Negotiation DNA:** CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London

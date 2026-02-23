@@ -1,3 +1,45 @@
+---
+company: cyberark
+company_display: Cyberark
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newton MA
+    base_low: 140000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 15000
+    signing_bonus_high: 35000
+    total_comp_low: 235000
+    total_comp_high: 365000
+    currency: USD
+  - region: London
+    base_low: 78000
+    base_high: 110000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 11000
+    signing_bonus_high: 26000
+    total_comp_low: 143000
+    total_comp_high: 238000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Security Engineer at CyberArk maps to E3–E5 in the Palo Alto Networks security engineering ladder, IC contributor within the Identity Security product security team."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London"
+---
 ### Security Engineer | CyberArk Global Negotiation Guide
 
 **Negotiation DNA:** CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London

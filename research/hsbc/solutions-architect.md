@@ -1,3 +1,50 @@
+---
+company: hsbc
+company_display: HSBC
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 100000
+    base_high: 138000
+    stock_low: 42000
+    stock_high: 62000
+    bonus_low: 20000
+    bonus_high: 31000
+    total_comp_low: 160000
+    total_comp_high: 230000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 795000
+    base_high: 1100000
+    stock_low: 420000
+    stock_high: 615000
+    bonus_low: 385000
+    bonus_high: 585000
+    total_comp_low: 1600000
+    total_comp_high: 2300000
+    currency: HKD
+  - region: Singapore
+    base_low: 173000
+    base_high: 239000
+    stock_low: 73000
+    stock_high: 107000
+    bonus_low: 35000
+    bonus_high: 53000
+    total_comp_low: 277000
+    total_comp_high: 398000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Enterprise Architecture` `Cloud Strategy` `Cross-Platform Integration`"
+---
 ### Solutions Architect | HSBC Global Negotiation Guide
 
 **Negotiation DNA:** `Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Enterprise Architecture` `Cloud Strategy` `Cross-Platform Integration`

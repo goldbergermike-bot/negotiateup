@@ -1,3 +1,30 @@
+---
+company: target
+company_display: Target
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 120000
+    base_high: 170000
+    stock_low: 32000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 230000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target PM = Google PM L4-L5 = Amazon PM = Walmart PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage"
+---
 ### Product Manager | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage

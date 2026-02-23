@@ -1,3 +1,50 @@
+---
+company: perplexity
+company_display: Perplexity
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 218000
+    base_high: 272000
+    stock_low: 325000
+    stock_high: 565000
+    bonus_pct: null
+    total_comp_low: 299000
+    total_comp_high: 413000
+    currency: USD
+  - region: New York
+    base_low: 225000
+    base_high: 286000
+    stock_low: 325000
+    stock_high: 565000
+    bonus_pct: null
+    total_comp_low: 306000
+    total_comp_high: 427000
+    currency: USD
+  - region: Remote US
+    base_low: 196000
+    base_high: 245000
+    stock_low: 325000
+    stock_high: 565000
+    bonus_pct: null
+    total_comp_low: 277000
+    total_comp_high: 386000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Perplexity ML/AI Engineer = Google ML Engineer L5-L6 = OpenAI Research Engineer = Anthropic ML Engineer = Meta ML Engineer (E5-E6)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift | **+20-35% AGENTIC AI PREMIUM**"
+---
 ### ML/AI Engineer | Perplexity Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift | **+20-35% AGENTIC AI PREMIUM**

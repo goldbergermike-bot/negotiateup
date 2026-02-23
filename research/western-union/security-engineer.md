@@ -1,3 +1,52 @@
+---
+company: western-union
+company_display: Western Union
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver CO
+    base_low: 150000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 90000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 218000
+    total_comp_high: 320000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 220000
+    stock_low: 60000
+    stock_high: 110000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 252000
+    total_comp_high: 372000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 130000
+    stock_low: 35000
+    stock_high: 60000
+    bonus_low: 12000
+    bonus_high: 24000
+    total_comp_low: 145000
+    total_comp_high: 214000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Western Union | Google | Meta | Stripe | JPMorgan | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: WU` `USDPT` `Security Engineer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Financial Security` `Blockchain Security`"
+---
 ### Security Engineer | Western Union Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: WU` `USDPT` `Security Engineer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Financial Security` `Blockchain Security`

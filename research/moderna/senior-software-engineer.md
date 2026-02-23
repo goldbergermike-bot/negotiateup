@@ -1,3 +1,48 @@
+---
+company: moderna
+company_display: Moderna
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge MA
+    base_low: 160000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 330000
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 310000
+    currency: USD
+  - region: Other US
+    base_low: 145000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Moderna Senior SWE = Google L4 = Genentech Senior = BioNTech Senior
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: mRNA Pioneer / Post-COVID Growth / RSU + Bonus / Senior IC Track
+---
 ### Senior Software Engineer | Moderna Global Negotiation Guide
 
 **Negotiation DNA:** mRNA Pioneer / Post-COVID Growth / RSU + Bonus / Senior IC Track

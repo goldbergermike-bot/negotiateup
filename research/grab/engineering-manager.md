@@ -1,3 +1,50 @@
+---
+company: grab
+company_display: Grab
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 150000
+    base_high: 230000
+    stock_low: 70000
+    stock_high: 180000
+    bonus_pct: 12
+    total_comp_low: 210000
+    total_comp_high: 360000
+    currency: USD
+  - region: Seattle / Bay Area (US)
+    base_low: 175000
+    base_high: 245000
+    stock_low: 90000
+    stock_high: 230000
+    bonus_pct: 12
+    total_comp_low: 255000
+    total_comp_high: 400000
+    currency: USD
+  - region: Jakarta
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "EM at Grab (L7+) = M1-M2 at Google, M1-M2 at Meta, SDM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$14B super-app with growing engineering teams across Singapore, Jakarta, Bangalore, and Beijing + EMs manage cross-country teams building rides, food, payments, and fintech + Competitive Singapore management comp | Grab EMs lead teams at the heart of SE Asia's digital transformation | **REGIONAL LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Grab Global Negotiation Guide
 
 **Negotiation DNA:** $14B super-app with growing engineering teams across Singapore, Jakarta, Bangalore, and Beijing + EMs manage cross-country teams building rides, food, payments, and fintech + Competitive Singapore management comp | Grab EMs lead teams at the heart of SE Asia's digital transformation | **REGIONAL LEADERSHIP PREMIUM**

@@ -1,3 +1,50 @@
+---
+company: hex
+company_display: Hex
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 230000
+    base_high: 290000
+    stock_low: 280000
+    stock_high: 480000
+    bonus_pct: 10
+    total_comp_low: 340000
+    total_comp_high: 520000
+    currency: USD
+  - region: New York
+    base_low: 225000
+    base_high: 285000
+    stock_low: 280000
+    stock_high: 480000
+    bonus_pct: 10
+    total_comp_low: 335000
+    total_comp_high: 510000
+    currency: USD
+  - region: London
+    base_low: 175000
+    base_high: 220000
+    stock_low: 210000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 395000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Hex Staff SWE = Google L6 = Meta E6 = Databricks Staff SWE = Snowflake Principal SWE = Figma Staff Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Top-Tier Base + Significant Growth-Stage Equity | Data Analytics Platform Pioneer | 2026 Focus: AI-Native Notebook Architecture"
+---
 ### Staff Software Engineer | Hex Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier Base + Significant Growth-Stage Equity | Data Analytics Platform Pioneer | 2026 Focus: AI-Native Notebook Architecture

@@ -1,3 +1,48 @@
+---
+company: box
+company_display: Box
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 158000
+    base_high: 198000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 248000
+    currency: USD
+  - region: New York
+    base_low: 163000
+    base_high: 208000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 191000
+    total_comp_high: 260000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 145000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 181000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Box Solutions Architect = Google Cloud Customer Engineer = AWS Solutions Architect = Microsoft Azure Solutions Architect
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management"
+---
 ### Solutions Architect | Box Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management

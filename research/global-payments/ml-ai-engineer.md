@@ -1,3 +1,53 @@
+---
+company: global-payments
+company_display: Global Payments
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 150000
+    base_high: 200000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 250000
+    total_comp_high: 395000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 230000
+    stock_low: 100000
+    stock_high: 210000
+    bonus_low: 25000
+    bonus_high: 42000
+    total_comp_low: 295000
+    total_comp_high: 482000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 140000
+    stock_low: 55000
+    stock_high: 115000
+    bonus_low: 13000
+    bonus_high: 24000
+    total_comp_low: 166000
+    total_comp_high: 279000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Global Payments | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Machine Learning` `Transaction Intelligence`"
+---
 ### ML/AI Engineer | Global Payments Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Machine Learning` `Transaction Intelligence`

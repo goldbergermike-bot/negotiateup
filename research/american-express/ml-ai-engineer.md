@@ -1,3 +1,49 @@
+---
+company: american-express
+company_display: American Express
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 150000
+    base_high: 205000
+    stock_low: 75000
+    stock_high: 195000
+    bonus_pct: 15
+    total_comp_low: 198000
+    total_comp_high: 325000
+    currency: USD
+  - region: Phoenix
+    base_low: 138000
+    base_high: 190000
+    stock_low: 65000
+    stock_high: 175000
+    bonus_pct: 15
+    total_comp_low: 182000
+    total_comp_high: 298000
+    currency: USD
+  - region: San Francisco
+    base_low: 148000
+    base_high: 202000
+    stock_low: 72000
+    stock_high: 190000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at AmEx (Senior/Principal) = L4-L5 at Google, E4-E5 at Meta, Applied Scientist at Amazon, VP/SVP at BofA, Senior ML at Capital One"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$190B market cap premium brand + ML powers fraud detection, personalization, and credit decisioning + NYC HQ + Strong tech comp | AmEx ML has massive P&L impact through the closed-loop network | **CLOSED-LOOP ML PREMIUM**"
+---
 ### ML/AI Engineer | American Express Global Negotiation Guide
 
 **Negotiation DNA:** $190B market cap premium brand + ML powers fraud detection, personalization, and credit decisioning + NYC HQ + Strong tech comp | AmEx ML has massive P&L impact through the closed-loop network | **CLOSED-LOOP ML PREMIUM**

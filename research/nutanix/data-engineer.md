@@ -1,3 +1,48 @@
+---
+company: nutanix
+company_display: Nutanix
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 158000
+    total_comp_high: 365000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 343000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2000000
+    total_comp_high: 9500000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Data Engineers at Nutanix build the telemetry, analytics, and data infrastructure that processes operational data from thousands of enterprise HCI deployments, powering product analytics, customer success, and AI-driven infrastructure optimization."
+---
 ### Data Engineer — Nutanix Salary Negotiation Guide
 
 **Negotiation DNA**: Data Engineers at Nutanix build the telemetry, analytics, and data infrastructure that processes operational data from thousands of enterprise HCI deployments, powering product analytics, customer success, and AI-driven infrastructure optimization.

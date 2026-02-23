@@ -1,3 +1,39 @@
+---
+company: epic-systems
+company_display: Epic Systems
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Verona WI
+    base_low: 125000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 205000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 115000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 195000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Epic Security Engineer = UHG Security (lower TC) = Cerner/Oracle Security (lower TC)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: Private Company / No Public Equity / Bonus-Only Variable / PHI Security
+---
 ### Security Engineer | Epic Systems Global Negotiation Guide
 
 **Negotiation DNA:** Private Company / No Public Equity / Bonus-Only Variable / PHI Security

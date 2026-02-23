@@ -1,3 +1,48 @@
+---
+company: datadog
+company_display: Datadog
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 380000
+    currency: USD
+  - region: Paris
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 58000
+    total_comp_high: 145000
+    currency: EUR
+  - region: Dublin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 62000
+    total_comp_high: 150000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Product Managers at Datadog define the roadmap for LLM Observability and shape the AI Nervous System vision — turning blowout growth into product strategy that captures the AI monitoring market.
+---
 ### Product Manager — Datadog Salary Negotiation Guide
 
 **Negotiation DNA**: Product Managers at Datadog define the roadmap for LLM Observability and shape the AI Nervous System vision — turning blowout growth into product strategy that captures the AI monitoring market.

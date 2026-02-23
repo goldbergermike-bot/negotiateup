@@ -1,3 +1,39 @@
+---
+company: remote-com
+company_display: Remote.com
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Bay Area
+    base_low: 145000
+    base_high: 202000
+    stock_low: 55000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote US
+    base_low: 132000
+    base_high: 188000
+    stock_low: 48000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 272000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Remote.com DS (IC2-IC3) = Deel DS = Rippling DS = Google L3-L4 DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Global Employment Platform | $3B Valuation | Remote-First | **GLOBAL WORKFORCE ANALYTICS PREMIUM**"
+---
 ### Data Scientist | Remote.com Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Global Employment Platform | $3B Valuation | Remote-First | **GLOBAL WORKFORCE ANALYTICS PREMIUM**

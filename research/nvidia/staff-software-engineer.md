@@ -1,3 +1,48 @@
+---
+company: nvidia
+company_display: Nvidia
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 262000
+    base_high: 325000
+    stock_low: 382000
+    stock_high: 672000
+    bonus_pct: 15
+    total_comp_low: 432000
+    total_comp_high: 608000
+    currency: USD
+  - region: Seattle
+    base_low: 258000
+    base_high: 322000
+    stock_low: 382000
+    stock_high: 672000
+    bonus_pct: 15
+    total_comp_low: 428000
+    total_comp_high: 605000
+    currency: USD
+  - region: Remote US
+    base_low: 252000
+    base_high: 315000
+    stock_low: 382000
+    stock_high: 672000
+    bonus_pct: 15
+    total_comp_low: 422000
+    total_comp_high: 598000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: NVIDIA Staff SWE (IC4) = Google L6 = Meta E6 = Apple ICT5 = AMD Distinguished Engineer = Intel Principal
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule"
+---
 ### Staff Software Engineer | NVIDIA Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule

@@ -1,3 +1,49 @@
+---
+company: atlassian
+company_display: Atlassian
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 155000
+    base_high: 210000
+    stock_low: 110000
+    stock_high: 228000
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 323000
+    currency: AUD
+  - region: San Francisco
+    base_low: 140000
+    base_high: 172000
+    stock_low: 100000
+    stock_high: 175000
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 215000
+    currency: USD
+  - region: Amsterdam
+    base_low: 85000
+    base_high: 115000
+    stock_low: 70000
+    stock_high: 125000
+    bonus_pct: null
+    total_comp_low: 115000
+    total_comp_high: 165000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P2 SWE = Google L3 = Meta E3 = Microsoft 60 = Datadog Mid SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage"
+---
 ### Software Engineer | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage

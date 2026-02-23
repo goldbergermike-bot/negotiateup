@@ -1,3 +1,67 @@
+---
+company: zoom
+company_display: Zoom
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 172000
+    base_high: 242000
+    stock_low: 90000
+    stock_high: 225000
+    bonus_pct: 12
+    total_comp_low: 232000
+    total_comp_high: 370000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 68000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 315000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 85000
+    base_high: 128000
+    stock_low: 38000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 185000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 1500000
+    stock_high: 3800000
+    bonus_pct: 10
+    total_comp_low: 4000000
+    total_comp_high: 7200000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 128000
+    base_high: 192000
+    stock_low: 55000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom SA (IC3/IC4) ~ Microsoft CSA/Principal CSA | Cisco Collaboration SA | RingCentral Principal SA | AWS Senior/Principal SA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "UCaaS platform integration specialist | Enterprise communication deployment expert | **ARCHITECTURE PREMIUM**"
+---
 ### Solutions Architect | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** UCaaS platform integration specialist | Enterprise communication deployment expert | **ARCHITECTURE PREMIUM**

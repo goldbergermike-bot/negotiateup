@@ -1,3 +1,48 @@
+---
+company: etsy
+company_display: Etsy
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brooklyn
+    base_low: 148000
+    base_high: 188000
+    stock_low: 65000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: USD
+  - region: San Francisco
+    base_low: 155000
+    base_high: 195000
+    stock_low: 65000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: USD
+  - region: Remote US
+    base_low: 142000
+    base_high: 178000
+    stock_low: 65000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 222000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Etsy Product Designer (D3) = Google L4 UX = Meta IC4 Design = Amazon UX Designer II = Shopify Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction"
+---
 ### Product Designer | Etsy Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction

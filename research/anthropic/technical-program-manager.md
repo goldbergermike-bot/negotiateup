@@ -1,3 +1,50 @@
+---
+company: anthropic
+company_display: Anthropic
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 258000
+    stock_low: 215000
+    stock_high: 375000
+    bonus_pct: null
+    total_comp_low: 259000
+    total_comp_high: 352000
+    currency: USD
+  - region: Seattle
+    base_low: 199000
+    base_high: 245000
+    stock_low: 215000
+    stock_high: 375000
+    bonus_pct: null
+    total_comp_low: 253000
+    total_comp_high: 339000
+    currency: USD
+  - region: London
+    base_low: 156000
+    base_high: 196000
+    stock_low: 163000
+    stock_high: 285000
+    bonus_pct: null
+    total_comp_low: 197000
+    total_comp_high: 268000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anthropic TPM = Google L5 TPM = Meta TPM IC5 = Amazon Senior TPM = Microsoft Senior TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium"
+---
 ### Technical Program Manager | Anthropic Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium

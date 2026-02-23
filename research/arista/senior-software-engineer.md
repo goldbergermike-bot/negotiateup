@@ -1,3 +1,48 @@
+---
+company: arista
+company_display: Arista Networks
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 212000
+    base_high: 265000
+    stock_low: 252000
+    stock_high: 445000
+    bonus_pct: 10
+    total_comp_low: 318000
+    total_comp_high: 445000
+    currency: USD
+  - region: Vancouver (BC)
+    base_low: 202000
+    base_high: 252000
+    stock_low: 238000
+    stock_high: 418000
+    bonus_pct: 10
+    total_comp_low: 302000
+    total_comp_high: 425000
+    currency: CAD
+  - region: Remote US
+    base_low: 205000
+    base_high: 258000
+    stock_low: 252000
+    stock_high: 445000
+    bonus_pct: 10
+    total_comp_low: 312000
+    total_comp_high: 438000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Arista Sr. SWE (IC3) = Cisco Sr. SWE = Juniper Sr. SWE = Google L5 Network = Meta Sr. Network Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density"
+---
 ### Senior Software Engineer | Arista Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density

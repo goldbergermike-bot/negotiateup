@@ -1,3 +1,46 @@
+---
+company: microsoft
+company_display: Microsoft
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: SWE I (New Grad)
+    base_low: 120000
+    base_high: 145000
+    stock_low: 60000
+    stock_high: 100000
+    bonus_pct: 10
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 150000
+    total_comp_high: 200000
+    currency: USD
+  - region: SWE II
+    base_low: 140000
+    base_high: 170000
+    stock_low: 90000
+    stock_high: 160000
+    bonus_pct: 10
+    signing_bonus_low: 20000
+    signing_bonus_high: 35000
+    total_comp_low: 185000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+  - Hired
+negotiation_dna_summary: null
+---
 # Software Engineer - Microsoft Negotiation Guide
 
 ## Role Overview

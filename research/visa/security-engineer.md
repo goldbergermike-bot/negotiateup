@@ -1,3 +1,52 @@
+---
+company: visa
+company_display: Visa
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Foster City
+    base_low: 175000
+    base_high: 240000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_low: 28000
+    bonus_high: 52000
+    total_comp_low: 353000
+    total_comp_high: 572000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 255000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 375000
+    total_comp_high: 610000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 148000
+    stock_low: 85000
+    stock_high: 160000
+    bonus_low: 18000
+    bonus_high: 34000
+    total_comp_low: 208000
+    total_comp_high: 342000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Visa | Google | Meta | Stripe | JPMorgan | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Security` `Trust Infrastructure` `4B+ Cards` `200+ Countries` `PCI-DSS` `Cryptography` `Zero Trust` `Threat Modeling`"
+---
 ### Security Engineer | Visa Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Security` `Trust Infrastructure` `4B+ Cards` `200+ Countries` `PCI-DSS` `Cryptography` `Zero Trust` `Threat Modeling`

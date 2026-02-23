@@ -1,3 +1,48 @@
+---
+company: thunes
+company_display: Thunes
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 130000
+    base_high: 195000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 335000
+    currency: SGD
+  - region: ":gb: London (GBP)"
+    base_low: 80000
+    base_high: 125000
+    stock_low: 45000
+    stock_high: 85000
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 210000
+    currency: GBP
+  - region: ":us: New York (USD)"
+    base_low: 150000
+    base_high: 215000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 375000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into an ML/AI engineering compensation framework spanning Singapore, London, and New York markets."
+---
 ### ML/AI Engineer — Thunes Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into an ML/AI engineering compensation framework spanning Singapore, London, and New York markets.

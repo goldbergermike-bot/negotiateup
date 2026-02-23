@@ -1,3 +1,49 @@
+---
+company: hubspot
+company_display: Hubspot
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Cambridge, MA (HQ)"
+    base_low: 152000
+    base_high: 192000
+    stock_low: 128000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 248000
+    currency: USD
+  - region: "Dublin, Ireland"
+    base_low: 91000
+    base_high: 125000
+    stock_low: 70000
+    stock_high: 131000
+    bonus_pct: 10
+    total_comp_low: 111000
+    total_comp_high: 161000
+    currency: EUR
+  - region: "London, UK"
+    base_low: 99000
+    base_high: 134000
+    stock_low: 77000
+    stock_high: 142000
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 174000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Balanced Comp (Base + RSU + 10-15% Bonus) | \"Grow Better\" Remote-First Culture | Breeze AI Copilot Integration | M&A Optionality"
+---
 ### Technical Program Manager | HubSpot Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp (Base + RSU + 10-15% Bonus) | "Grow Better" Remote-First Culture | Breeze AI Copilot Integration | M&A Optionality

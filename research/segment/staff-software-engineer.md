@@ -1,3 +1,48 @@
+---
+company: segment
+company_display: Segment
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 258000
+    stock_low: 190000
+    stock_high: 360000
+    bonus_pct: 12
+    total_comp_low: 320000
+    total_comp_high: 435000
+    currency: USD
+  - region: New York
+    base_low: 208000
+    base_high: 252000
+    stock_low: 182000
+    stock_high: 345000
+    bonus_pct: 12
+    total_comp_low: 310000
+    total_comp_high: 420000
+    currency: USD
+  - region: London
+    base_low: 155000
+    base_high: 188000
+    stock_low: 132000
+    stock_high: 252000
+    bonus_pct: 12
+    total_comp_low: 228000
+    total_comp_high: 318000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Segment Staff = Google L6 = Meta E6 = Twilio Staff = Snowflake Staff
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Premium Twilio RSU + Impact Bonus | AI-Native CDP Architecture Leadership 2026"
+---
 ### Staff Software Engineer | Segment Global Negotiation Guide
 
 **Negotiation DNA:** Premium Twilio RSU + Impact Bonus | AI-Native CDP Architecture Leadership 2026

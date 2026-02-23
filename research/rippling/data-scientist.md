@@ -1,3 +1,48 @@
+---
+company: rippling
+company_display: Rippling
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 172000
+    base_high: 225000
+    stock_low: 160000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 348000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 222000
+    stock_low: 158000
+    stock_high: 292000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 342000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 212000
+    stock_low: 148000
+    stock_high: 272000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rippling Data Scientist = Gusto Data Scientist = Workday Data Scientist = Google L4 DS = Meta IC4 DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **WORKFORCE INTELLIGENCE PREMIUM**"
+---
 ### Data Scientist | Rippling Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **WORKFORCE INTELLIGENCE PREMIUM**

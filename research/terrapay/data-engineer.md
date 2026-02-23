@@ -1,3 +1,52 @@
+---
+company: terrapay
+company_display: Terrapay
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam (EUR)
+    base_low: 72000
+    base_high: 105000
+    stock_low: 42000
+    stock_high: 95000
+    bonus_pct: null
+    total_comp_low: 114000
+    total_comp_high: 200000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 88000
+    base_high: 130000
+    stock_low: 52000
+    stock_high: 115000
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 245000
+    currency: SGD
+  - region: New York (USD)
+    base_low: 130000
+    base_high: 182000
+    stock_low: 68000
+    stock_high: 148000
+    bonus_pct: null
+    total_comp_low: 198000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - "TerraPay MilX Creator Payout Launch — Jan 28, 2026 — Data Infrastructure"
+  - "TerraPay Global Payments Highway — 7.5B+ Accounts, 130+ Countries"
+  - TerraPay Botim Super-App Partnership — Consumer-Scale Data
+  - Thunes / Nium / Wise Data Engineering Compensation
+  - "TerraPay Private Valuation & DE-Level Options Data"
+  - Cross-Border Payments Data Engineering Talent Market
+negotiation_dna_summary: "This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a data engineering compensation framework spanning Amsterdam, Singapore, and New York markets."
+---
 ### Data Engineer — TerraPay Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a data engineering compensation framework spanning Amsterdam, Singapore, and New York markets.

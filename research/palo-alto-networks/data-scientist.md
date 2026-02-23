@@ -1,3 +1,39 @@
+---
+company: palo-alto-networks
+company_display: Palo Alto Networks
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 385000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "As a Data Scientist at Palo Alto Networks, your models and analyses power the AI-driven Security Consolidation platform — your work is the intelligence layer of the Platformization strategy."
+---
 ### Data Scientist — Palo Alto Networks Salary Negotiation Guide
 
 **Negotiation DNA**: As a Data Scientist at Palo Alto Networks, your models and analyses power the AI-driven Security Consolidation platform — your work is the intelligence layer of the Platformization strategy.

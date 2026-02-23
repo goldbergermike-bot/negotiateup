@@ -1,3 +1,48 @@
+---
+company: workday
+company_display: Workday
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pleasanton
+    base_low: 178000
+    base_high: 218000
+    stock_low: 180000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 298000
+    currency: USD
+  - region: Dublin
+    base_low: 109000
+    base_high: 138000
+    stock_low: 99000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 140000
+    total_comp_high: 188000
+    currency: EUR
+  - region: London
+    base_low: 117000
+    base_high: 151000
+    stock_low: 108000
+    stock_high: 195000
+    bonus_pct: 15
+    total_comp_low: 152000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Workday Security Eng (P3) = Google Security L4 = Meta Security E4 = Salesforce Security Eng = AWS Security Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity"
+---
 ### Security Engineer | Workday Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity

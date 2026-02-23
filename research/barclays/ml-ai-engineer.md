@@ -1,3 +1,49 @@
+---
+company: barclays
+company_display: Barclays
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 148000
+    base_high: 208000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 200000
+    total_comp_high: 335000
+    currency: USD
+  - region: London (HQ)
+    base_low: 100000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 138000
+    total_comp_high: 242000
+    currency: GBP
+  - region: Glasgow
+    base_low: 80000
+    base_high: 120000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 108000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Barclays (VP/SVP) = L4-L5 at Google, E4-E5 at Meta, Applied Scientist at Amazon, VP/SVP at BofA, VP/ED at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GBP35B market cap UK bank + AI across trading, credit risk, and consumer banking + London/NYC dual hub + Competitive in quant/tech | Barclays ML spans UK banking and global markets | **UK AI PREMIUM**"
+---
 ### ML/AI Engineer | Barclays Global Negotiation Guide
 
 **Negotiation DNA:** GBP35B market cap UK bank + AI across trading, credit risk, and consumer banking + London/NYC dual hub + Competitive in quant/tech | Barclays ML spans UK banking and global markets | **UK AI PREMIUM**

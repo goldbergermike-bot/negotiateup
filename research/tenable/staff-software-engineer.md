@@ -1,3 +1,55 @@
+---
+company: tenable
+company_display: Tenable
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Columbia MD
+    base_low: 190000
+    base_high: 235000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 50000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Austin
+    base_low: 185000
+    base_high: 230000
+    stock_low: 140000
+    stock_high: 270000
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 50000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 155000
+    stock_low: 95000
+    stock_high: 175000
+    bonus_pct: 15
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Staff Software Engineer at Tenable maps to IC4/L5 equivalent at peer cybersecurity companies (CrowdStrike Staff Engineer, Palo Alto Networks Principal SDE) and L6 at FAANG-tier companies (Google L6, Meta E6)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London"
+---
 ### Staff Software Engineer | Tenable Global Negotiation Guide
 
 **Negotiation DNA:** Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London

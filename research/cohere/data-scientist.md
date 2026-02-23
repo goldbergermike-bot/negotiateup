@@ -1,3 +1,49 @@
+---
+company: cohere
+company_display: Cohere
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 135000
+    base_high: 172000
+    stock_low: 135000
+    stock_high: 242000
+    bonus_pct: null
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: CAD
+  - region: San Francisco
+    base_low: 162000
+    base_high: 205000
+    stock_low: 135000
+    stock_high: 242000
+    bonus_pct: null
+    total_comp_low: 196000
+    total_comp_high: 266000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 150000
+    stock_low: 135000
+    stock_high: 242000
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 218000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Cohere Data Scientist = Google L4 Data Scientist (Toronto) = Meta Data Scientist IC4 = Amazon Applied Scientist L5 = Shopify Senior Data Scientist. In the Toronto market, Cohere competes with Google Brain evaluation teams, Meta FAIR, RBC Capital Markets quant teams, and Shopify's data science org. The enterprise AI evaluation specialization is a premium niche."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty"
+---
 ### Data Scientist | Cohere Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty

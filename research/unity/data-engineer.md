@@ -1,3 +1,48 @@
+---
+company: unity
+company_display: Unity
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 280000
+    currency: USD
+  - region: Austin
+    base_low: 125000
+    base_high: 178000
+    stock_low: 48000
+    stock_high: 142000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 248000
+    currency: USD
+  - region: Copenhagen
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Unity Data Engineer (L3-L4) = Google L3-L4 DE = Meta E3-E4 DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: RSU + Bonus / Post-IPO Comp Stabilizing
+---
 ### Data Engineer | Unity Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Post-IPO Comp Stabilizing

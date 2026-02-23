@@ -1,3 +1,50 @@
+---
+company: wells-fargo
+company_display: Wells Fargo
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 130000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 238000
+    currency: USD
+  - region: New York City
+    base_low: 128000
+    base_high: 168000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 162000
+    total_comp_high: 232000
+    currency: USD
+  - region: Charlotte
+    base_low: 118000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 148000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SWE at WF (AVP/VP) = L3-L4 at Google, E3-E4 at Meta, SDE I-II at Amazon, Mid at Capital One, Analyst/Associate at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$225B market cap bank + Entry/mid-level talent pipeline priority + SF HQ competing with Big Tech for grads + Rebuilding creates growth opportunities | Wells Fargo invests in developing engineering talent | **REBUILDING OPPORTUNITY COMP**"
+---
 ### Software Engineer | Wells Fargo Global Negotiation Guide
 
 **Negotiation DNA:** $225B market cap bank + Entry/mid-level talent pipeline priority + SF HQ competing with Big Tech for grads + Rebuilding creates growth opportunities | Wells Fargo invests in developing engineering talent | **REBUILDING OPPORTUNITY COMP**

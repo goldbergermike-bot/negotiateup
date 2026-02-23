@@ -1,3 +1,39 @@
+---
+company: anduril
+company_display: Anduril
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Costa Mesa, CA"
+    base_low: 150000
+    base_high: 210000
+    stock_low: 90000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 350000
+    currency: USD
+  - region: "Seattle, WA"
+    base_low: 150000
+    base_high: 210000
+    stock_low: 90000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 350000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Anduril DE = Google L4 DE = Palantir DE -- with real-time sensor data and classified environments
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense Sensor Data/Lattice Infrastructure | High-Intensity Culture"
+---
 ### Data Engineer | Anduril Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense Sensor Data/Lattice Infrastructure | High-Intensity Culture

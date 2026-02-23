@@ -1,3 +1,48 @@
+---
+company: amplitude
+company_display: Amplitude
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 150000
+    base_high: 185000
+    stock_low: 100000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 238000
+    currency: USD
+  - region: New York
+    base_low: 145000
+    base_high: 180000
+    stock_low: 95000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 230000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 115000
+    stock_low: 50000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 105000
+    total_comp_high: 148000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Amplitude SWE (Mid) = Google L3 = Meta E3 = Mixpanel L3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Based / Public Company | AI-Powered Product Analytics"
+---
 ### Software Engineer | Amplitude Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Based / Public Company | AI-Powered Product Analytics

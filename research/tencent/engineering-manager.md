@@ -1,3 +1,68 @@
+---
+company: tencent
+company_display: Tencent
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Palo Alto / Los Angeles (US R&D)"
+    base_low: 195000
+    base_high: 270000
+    stock_low: 130000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 490000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 190000
+    base_high: 260000
+    stock_low: 125000
+    stock_high: 310000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 475000
+    currency: USD
+  - region: Shenzhen (HQ)
+    base_low: 650000
+    base_high: 1100000
+    stock_low: 350000
+    stock_high: 800000
+    bonus_pct: 25
+    total_comp_low: 1100000
+    total_comp_high: 2000000
+    currency: CNY
+  - region: Beijing
+    base_low: 620000
+    base_high: 1050000
+    stock_low: 330000
+    stock_high: 750000
+    bonus_pct: 25
+    total_comp_low: 1000000
+    total_comp_high: 1900000
+    currency: CNY
+  - region: Singapore
+    base_low: 160000
+    base_high: 240000
+    stock_low: 90000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at Tencent (T11+) = M1-M2 at Google, M1-M2 at Meta, SDM at Amazon, EM at Apple"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$450B company with US R&D teams needing FAANG-caliber management + Gaming + WeChat + Cloud divisions all competing for EM talent + Compensation designed to match Google/Meta M1-M2 | Tencent EMs lead teams building products for billions of users | **LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Tencent Global Negotiation Guide
 
 **Negotiation DNA:** $450B company with US R&D teams needing FAANG-caliber management + Gaming + WeChat + Cloud divisions all competing for EM talent + Compensation designed to match Google/Meta M1-M2 | Tencent EMs lead teams building products for billions of users | **LEADERSHIP PREMIUM**

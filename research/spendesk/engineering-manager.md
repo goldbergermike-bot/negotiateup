@@ -1,3 +1,54 @@
+---
+company: spendesk
+company_display: Spendesk
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 80000
+    base_high: 115000
+    stock_low: 40000
+    stock_high: 100000
+    bonus_low: 10000
+    bonus_high: 22000
+    total_comp_low: 130000
+    total_comp_high: 237000
+    currency: EUR
+  - region: London
+    base_low: 82000
+    base_high: 118000
+    stock_low: 35000
+    stock_high: 90000
+    bonus_low: 10000
+    bonus_high: 22000
+    total_comp_low: 127000
+    total_comp_high: 230000
+    currency: GBP
+  - region: Berlin
+    base_low: 82000
+    base_high: 116000
+    stock_low: 38000
+    stock_high: 95000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 130000
+    total_comp_high: 231000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Spendesk | Google | Meta | Stripe | Pleo | Brex |"
+data_sources:
+  - Crunchbase
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `People Leadership` `Engineering Management`"
+---
 ### Engineering Manager | Spendesk Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `People Leadership` `Engineering Management`

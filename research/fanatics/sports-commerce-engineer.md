@@ -1,3 +1,39 @@
+---
+company: fanatics
+company_display: Fanatics
+role: sports-commerce-engineer
+role_display: Sports Commerce Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC
+    base_low: 158000
+    base_high: 218000
+    stock_low: 85000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 348000
+    currency: USD
+  - region: Jacksonville FL (HQ)
+    base_low: 148000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Fanatics Sports Commerce Engineer (Senior) = Amazon E-Commerce SWE (Senior) = Google L4 = Shopify Senior SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Private $31B Valuation | Growth Equity | **SIGNATURE ROLE** | **+5-15% SPORTS PLATFORM PREMIUM** | Sports Commerce Monopoly"
+---
 ### Sports Commerce Engineer | Fanatics Global Negotiation Guide
 
 **Negotiation DNA:** Private $31B Valuation | Growth Equity | **SIGNATURE ROLE** | **+5-15% SPORTS PLATFORM PREMIUM** | Sports Commerce Monopoly

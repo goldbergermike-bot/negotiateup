@@ -1,3 +1,48 @@
+---
+company: linode
+company_display: Linode
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 298000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 280000
+    currency: USD
+  - region: Cambridge MA
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 208000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Senior Software Engineers at Linode own critical subsystems within the Akamai Connected Cloud platform, driving architectural decisions for distributed cloud compute, storage, and Kubernetes across Akamai's 4,000+ global edge locations."
+---
 ### Senior Software Engineer — Linode (Akamai Cloud) Salary Negotiation Guide
 
 **Negotiation DNA**: Senior Software Engineers at Linode own critical subsystems within the Akamai Connected Cloud platform, driving architectural decisions for distributed cloud compute, storage, and Kubernetes across Akamai's 4,000+ global edge locations.

@@ -1,3 +1,49 @@
+---
+company: thunes
+company_display: Thunes
+role: standards-bearer-platform-engineer
+role_display: Standards-Bearer Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 170000
+    base_high: 250000
+    stock_low: 120000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 290000
+    total_comp_high: 510000
+    currency: SGD
+  - region: ":gb: London (GBP)"
+    base_low: 105000
+    base_high: 155000
+    stock_low: 75000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 315000
+    currency: GBP
+  - region: ":us: New York (USD)"
+    base_low: 195000
+    base_high: 275000
+    stock_low: 140000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 335000
+    total_comp_high: 575000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a platform engineering compensation framework spanning Singapore, London, and New York markets. The Standards-Bearer Platform Engineer is the role that most directly embodies Thunes' core value proposition: being the bridge between legacy banking infrastructure and modern real-time payment networks. Every other role at Thunes depends on the platform this engineer builds."
+---
 ### Standards-Bearer Platform Engineer — Thunes Salary Negotiation Guide
 
 # SIGNATURE ROLE

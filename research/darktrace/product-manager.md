@@ -1,3 +1,58 @@
+---
+company: darktrace
+company_display: Darktrace
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge UK
+    base_low: 70000
+    base_high: 100000
+    stock_low: 25000
+    stock_high: 60000
+    bonus_low: 10500
+    bonus_high: 20000
+    signing_bonus_low: 5000
+    signing_bonus_high: 12000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: London
+    base_low: 80000
+    base_high: 115000
+    stock_low: 35000
+    stock_high: 80000
+    bonus_low: 12000
+    bonus_high: 23000
+    signing_bonus_low: 7000
+    signing_bonus_high: 15000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: San Francisco
+    base_low: 160000
+    base_high: 220000
+    stock_low: 70000
+    stock_high: 160000
+    bonus_low: 24000
+    bonus_high: 44000
+    signing_bonus_low: 15000
+    signing_bonus_high: 35000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Manager at Darktrace maps to L5 PM at Google, IC5 PM at Meta, Sr. PM at Amazon, and 63 PM at Microsoft."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Manager | Darktrace (LSE: DARK) | Product Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco"
+---
 ### Product Manager | Darktrace Global Negotiation Guide
 
 **Negotiation DNA:** Product Manager | Darktrace (LSE: DARK) | Product Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco

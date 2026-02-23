@@ -1,3 +1,48 @@
+---
+company: dlocal
+company_display: Dlocal
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montevideo (UYU)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: São Paulo (BRL)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York (USD)
+    base_low: 200000
+    base_high: 270000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 300000
+    total_comp_high: 470000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes dLocal's Asia Priority strategy, translating the Jan 2026 Asia Strategic Pivot and Feb 11 JPM Bull Case into an engineering management compensation framework spanning Montevideo, São Paulo, and New York markets. Engineering Managers are the operational leaders who will build and scale the teams delivering dLocal's Asia expansion."
+---
 ### Engineering Manager — dLocal Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes dLocal's Asia Priority strategy, translating the Jan 2026 Asia Strategic Pivot and Feb 11 JPM Bull Case into an engineering management compensation framework spanning Montevideo, São Paulo, and New York markets. Engineering Managers are the operational leaders who will build and scale the teams delivering dLocal's Asia expansion.

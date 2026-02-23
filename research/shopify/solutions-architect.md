@@ -1,3 +1,48 @@
+---
+company: shopify
+company_display: Shopify
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 168000
+    base_high: 215000
+    stock_low: 148000
+    stock_high: 265000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 322000
+    currency: CAD
+  - region: San Francisco
+    base_low: 185000
+    base_high: 235000
+    stock_low: 165000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 358000
+    currency: USD
+  - region: Remote US/Canada
+    base_low: 175000
+    base_high: 222000
+    stock_low: 155000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 338000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shopify SA (L6-L8) = Google Cloud SA = AWS SA = Salesforce SA = Stripe SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Enterprise Commerce Architecture | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**"
+---
 ### Solutions Architect | Shopify Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Enterprise Commerce Architecture | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**

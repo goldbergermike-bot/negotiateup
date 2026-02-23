@@ -1,3 +1,54 @@
+---
+company: visa
+company_display: Visa
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Foster City
+    base_low: 170000
+    base_high: 230000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_low: 28000
+    bonus_high: 55000
+    total_comp_low: 348000
+    total_comp_high: 565000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 245000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_low: 30000
+    bonus_high: 60000
+    total_comp_low: 370000
+    total_comp_high: 605000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 140000
+    stock_low: 85000
+    stock_high: 160000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 203000
+    total_comp_high: 335000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Visa | Google | Meta | Stripe | JPMorgan | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Infrastructure` `Product Strategy` `4B+ Cards` `200+ Countries` `AI Commerce` `Platform Product`"
+---
 ### Product Manager | Visa Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Infrastructure` `Product Strategy` `4B+ Cards` `200+ Countries` `AI Commerce` `Platform Product`

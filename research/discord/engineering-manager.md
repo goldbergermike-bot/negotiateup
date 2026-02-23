@@ -1,3 +1,48 @@
+---
+company: discord
+company_display: Discord
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 228000
+    base_high: 285000
+    stock_low: 150000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 285000
+    total_comp_high: 392000
+    currency: USD
+  - region: New York
+    base_low: 220000
+    base_high: 275000
+    stock_low: 142000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 378000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 258000
+    stock_low: 130000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 352000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Discord Engineering Manager = Google L6 Manager = Meta M1 = Amazon SDM = Apple EM2 = Stripe EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | People Leadership Premium"
+---
 ### Engineering Manager | Discord Global Negotiation Guide
 
 **Negotiation DNA:** Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | People Leadership Premium

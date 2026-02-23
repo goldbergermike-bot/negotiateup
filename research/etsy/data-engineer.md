@@ -1,3 +1,48 @@
+---
+company: etsy
+company_display: Etsy
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brooklyn
+    base_low: 165000
+    base_high: 208000
+    stock_low: 88000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 258000
+    currency: USD
+  - region: San Francisco
+    base_low: 172000
+    base_high: 215000
+    stock_low: 88000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 265000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 198000
+    stock_low: 88000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Etsy Data Eng (E2-E3) = Google L4 DE = Meta DE = Amazon DE II = Shopify DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction"
+---
 ### Data Engineer | Etsy Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction

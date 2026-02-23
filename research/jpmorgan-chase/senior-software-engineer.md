@@ -1,3 +1,53 @@
+---
+company: jpmorgan-chase
+company_display: JPMorgan Chase
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 170000
+    base_high: 225000
+    stock_low: 50000
+    stock_high: 85000
+    bonus_low: 35000
+    bonus_high: 55000
+    total_comp_low: 255000
+    total_comp_high: 365000
+    currency: USD
+  - region: London
+    base_low: 139000
+    base_high: 185000
+    stock_low: 41000
+    stock_high: 70000
+    bonus_low: 29000
+    bonus_high: 45000
+    total_comp_low: 209000
+    total_comp_high: 299000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 3540000
+    base_high: 4690000
+    stock_low: 1040000
+    stock_high: 1770000
+    bonus_low: 730000
+    bonus_high: 1150000
+    total_comp_low: 5310000
+    total_comp_high: 7610000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `System Design Leadership` `Cross-Team Architecture` `Production Ownership`"
+---
 ### Senior Software Engineer | JPMorgan Chase Global Negotiation Guide
 
 **Negotiation DNA:** `Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `System Design Leadership` `Cross-Team Architecture` `Production Ownership`

@@ -1,3 +1,52 @@
+---
+company: amd
+company_display: AMD
+role: ai-compute-platform-engineer
+role_display: AI Compute Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 228000
+    base_high: 282000
+    stock_low: 202000
+    stock_high: 358000
+    bonus_pct: 15
+    total_comp_low: 302000
+    total_comp_high: 422000
+    currency: USD
+  - region: Austin
+    base_low: 222000
+    base_high: 275000
+    stock_low: 202000
+    stock_high: 358000
+    bonus_pct: 15
+    total_comp_low: 295000
+    total_comp_high: 415000
+    currency: USD
+  - region: Remote US
+    base_low: 215000
+    base_high: 268000
+    stock_low: 202000
+    stock_high: 358000
+    bonus_pct: 15
+    total_comp_low: 288000
+    total_comp_high: 408000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: AMD AI Compute Platform Eng (PMTS) = NVIDIA CUDA Platform Eng = Intel oneAPI Eng = Google TPU Platform Eng
+data_sources:
+  - "AMD AI-Native Workflow — 30% Productivity Premium"
+  - AMD AI Compute Platform — Signature Initiative 2026
+  - AMD ROCm vs NVIDIA CUDA — AI Platform Competition
+  - AMD $5B+ AI Revenue — Platform Engineering Impact
+  - AMD MI300X/MI400 — Full-Stack AI Compute Architecture
+negotiation_dna_summary: "Equity-Heavy + Bonus | Semiconductor & AI Compute | AI-Native Workflow | **SIGNATURE ROLE** | **+30% AI PRODUCTIVITY PREMIUM** | **+25–35% AI COMPUTE PREMIUM**"
+---
 ### AI Compute Platform Engineer | AMD Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Semiconductor & AI Compute | AI-Native Workflow | **SIGNATURE ROLE** | **+30% AI PRODUCTIVITY PREMIUM** | **+25–35% AI COMPUTE PREMIUM**

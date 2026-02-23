@@ -1,3 +1,52 @@
+---
+company: fiserv
+company_display: Fiserv
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brookfield WI
+    base_low: 120000
+    base_high: 165000
+    stock_low: 50000
+    stock_high: 110000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 182000
+    total_comp_high: 297000
+    currency: USD
+  - region: New York
+    base_low: 145000
+    base_high: 195000
+    stock_low: 65000
+    stock_high: 140000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 225000
+    total_comp_high: 363000
+    currency: USD
+  - region: London
+    base_low: 80000
+    base_high: 115000
+    stock_low: 30000
+    stock_high: 70000
+    bonus_low: 8000
+    bonus_high: 16000
+    total_comp_low: 118000
+    total_comp_high: 201000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Fiserv | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Design Track` `UX/UI`"
+---
 ### Product Designer | Fiserv Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Design Track` `UX/UI`

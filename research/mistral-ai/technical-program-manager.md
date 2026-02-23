@@ -1,3 +1,48 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 70000
+    base_high: 95000
+    stock_low: 80000
+    stock_high: 155000
+    bonus_pct: null
+    total_comp_low: 90000
+    total_comp_high: 134000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 74000
+    stock_high: 143000
+    bonus_pct: null
+    total_comp_low: 83000
+    total_comp_high: 124000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 80000
+    stock_high: 155000
+    bonus_pct: null
+    total_comp_low: 83000
+    total_comp_high: 125000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Mistral TPM = Google TPM L4 Paris = Meta TPM IC5 = DeepMind Program Manager = Anthropic TPM. Google TPM Paris total comp ranges €100K-€155K. AI model release coordination experience commands a 10-15% premium over general TPM roles."
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium"
+---
 ### Technical Program Manager | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium

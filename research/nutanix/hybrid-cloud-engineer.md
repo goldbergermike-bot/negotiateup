@@ -1,3 +1,48 @@
+---
+company: nutanix
+company_display: Nutanix
+role: hybrid-cloud-engineer
+role_display: Hybrid Cloud Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 375000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 353000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2200000
+    total_comp_high: 10000000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Hybrid Cloud Engineers at Nutanix build the core platform that enables seamless workload management across on-premises data centers and public clouds — the defining technology of Nutanix's hybrid multi-cloud strategy encompassing AHV virtualization, distributed storage, Nutanix Cloud Clusters (NC2), and the Nutanix Cloud Platform."
+---
 ### Hybrid Cloud Engineer — Nutanix Salary Negotiation Guide
 
 **Negotiation DNA**: Hybrid Cloud Engineers at Nutanix build the core platform that enables seamless workload management across on-premises data centers and public clouds — the defining technology of Nutanix's hybrid multi-cloud strategy encompassing AHV virtualization, distributed storage, Nutanix Cloud Clusters (NC2), and the Nutanix Cloud Platform.

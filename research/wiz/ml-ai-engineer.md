@@ -1,3 +1,38 @@
+---
+company: wiz
+company_display: Wiz
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 435000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 84000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "As an ML/AI Engineer at the $32B Hyperscaler Multicloud security leader, you build the machine learning models and AI systems that transform cloud security from reactive scanning to predictive, intelligent protection — powered by Google's world-class AI infrastructure under the Alphabet umbrella."
+---
 ### ML/AI Engineer — Wiz (Google) Salary Negotiation Guide
 
 **Negotiation DNA**: As an ML/AI Engineer at the $32B Hyperscaler Multicloud security leader, you build the machine learning models and AI systems that transform cloud security from reactive scanning to predictive, intelligent protection — powered by Google's world-class AI infrastructure under the Alphabet umbrella.

@@ -1,3 +1,53 @@
+---
+company: paypal
+company_display: Paypal
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 155000
+    base_high: 215000
+    stock_low: 115000
+    stock_high: 230000
+    bonus_low: 16000
+    bonus_high: 32000
+    total_comp_low: 286000
+    total_comp_high: 477000
+    currency: USD
+  - region: New York NY
+    base_low: 150000
+    base_high: 210000
+    stock_low: 110000
+    stock_high: 220000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 275000
+    total_comp_high: 460000
+    currency: USD
+  - region: London UK
+    base_low: 90000
+    base_high: 130000
+    stock_low: 58000
+    stock_high: 115000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 158000
+    total_comp_high: 265000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| PayPal | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: PYPL` `Data Engineer` `IC3-IC4` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Data Platform` `ETL/ELT` `Transaction Data` `Venmo` `PYUSD`"
+---
 ### Data Engineer | PayPal Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: PYPL` `Data Engineer` `IC3-IC4` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Data Platform` `ETL/ELT` `Transaction Data` `Venmo` `PYUSD`

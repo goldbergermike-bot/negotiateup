@@ -1,3 +1,30 @@
+---
+company: cruise
+company_display: Cruise
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 140000
+    base_high: 195000
+    stock_low: 80000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cruise Product Designer = Google UX Designer L3-L4 = Waymo Product Designer = Meta Product Designer (IC3-IC4) = Apple Design
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "GM Subsidiary Comp | Competitive Bay Area RSUs | Autonomous Vehicle Pioneer | San Francisco Premium"
+---
 ### Product Designer | Cruise Global Negotiation Guide
 
 **Negotiation DNA:** GM Subsidiary Comp | Competitive Bay Area RSUs | Autonomous Vehicle Pioneer | San Francisco Premium

@@ -1,3 +1,79 @@
+---
+company: google
+company_display: Google
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 175000
+    base_high: 270000
+    stock_low: 170000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 460000
+    currency: USD
+  - region: New York City
+    base_low: 170000
+    base_high: 265000
+    stock_low: 160000
+    stock_high: 460000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 445000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 165000
+    base_high: 255000
+    stock_low: 155000
+    stock_high: 440000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 425000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 180000
+    stock_low: 105000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 325000
+    currency: GBP
+  - region: Zurich
+    base_low: 155000
+    base_high: 245000
+    stock_low: 145000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 405000
+    currency: CHF
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 2500000
+    stock_high: 6000000
+    bonus_pct: 15
+    total_comp_low: 4500000
+    total_comp_high: 8500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "TPM at Google (L4-L6) = TPM at Meta (E4-E6), TPM at Microsoft (L62-L65), TPM at Amazon (L5-L7), TPM at Apple (ICT3-ICT5), Program Manager at Netflix (Senior-Staff)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Cross-functional execution authority + Strong RSU grants on par with SWE levels + 15% bonus with multiplier | Google TPMs drive the most complex programs in tech | **EXECUTION LEADERSHIP PREMIUM**"
+---
 ### Technical Program Manager | Google Global Negotiation Guide
 
 **Negotiation DNA:** Cross-functional execution authority + Strong RSU grants on par with SWE levels + 15% bonus with multiplier | Google TPMs drive the most complex programs in tech | **EXECUTION LEADERSHIP PREMIUM**

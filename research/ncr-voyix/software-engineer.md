@@ -1,3 +1,52 @@
+---
+company: ncr-voyix
+company_display: NCR Voyix
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 105000
+    base_high: 135000
+    stock_low: 20000
+    stock_high: 40000
+    bonus_low: 8000
+    bonus_high: 15000
+    total_comp_low: 133000
+    total_comp_high: 190000
+    currency: USD
+  - region: New York NY
+    base_low: 120000
+    base_high: 155000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 155000
+    total_comp_high: 223000
+    currency: USD
+  - region: London UK
+    base_low: 70000
+    base_high: 92000
+    stock_low: 14000
+    stock_high: 28000
+    bonus_low: 6000
+    bonus_high: 10000
+    total_comp_low: 90000
+    total_comp_high: 130000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| NCR Voyix | Google | Meta | Stripe | Fiserv | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `Microservices` `Modernization Inflection` `Atlanta Hub` `Mid-Level IC` `RSU/4yr`"
+---
 ### Software Engineer | NCR Voyix Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `Microservices` `Modernization Inflection` `Atlanta Hub` `Mid-Level IC` `RSU/4yr`

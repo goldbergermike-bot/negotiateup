@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 225000
+    base_high: 285000
+    stock_low: 400000
+    stock_high: 700000
+    bonus_pct: null
+    total_comp_low: 325000
+    total_comp_high: 460000
+    currency: USD
+  - region: Seattle
+    base_low: 218000
+    base_high: 275000
+    stock_low: 400000
+    stock_high: 700000
+    bonus_pct: null
+    total_comp_low: 318000
+    total_comp_high: 450000
+    currency: USD
+  - region: London
+    base_low: 155000
+    base_high: 198000
+    stock_low: 290000
+    stock_high: 510000
+    bonus_pct: null
+    total_comp_low: 228000
+    total_comp_high: 325000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI Senior SWE (L5) = Google L5 SWE = Meta E5 = Anthropic Senior SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)"
+---
 ### Senior Software Engineer | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)

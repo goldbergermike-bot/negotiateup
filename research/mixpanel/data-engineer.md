@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 198000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 270000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 192000
+    stock_low: 95000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 258000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 145000
+    stock_low: 70000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 192000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel DE = Google L3-L4 = Snowflake DE = Databricks DE = Amplitude DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive Equity + Bonus | AI-Powered Product Analytics Expansion 2026"
+---
 ### Data Engineer | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Equity + Bonus | AI-Powered Product Analytics Expansion 2026

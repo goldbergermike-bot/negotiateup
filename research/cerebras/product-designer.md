@@ -1,3 +1,51 @@
+---
+company: cerebras
+company_display: Cerebras
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 152000
+    base_high: 192000
+    stock_low: 112000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 255000
+    currency: USD
+  - region: San Diego
+    base_low: 148000
+    base_high: 188000
+    stock_low: 112000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+  - region: Remote US
+    base_low: 142000
+    base_high: 182000
+    stock_low: 112000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cerebras Product Designer (D2-D3) = Google L4 UX = NVIDIA Designer = Meta Product Designer = Groq Designer
+data_sources:
+  - Cerebras Q2 2026 IPO Timeline — Enterprise UX Readiness
+  - Cerebras $10B OpenAI Deal — Product Design Maturity
+  - Cerebras Developer Experience — Wafer-Scale UX Innovation
+  - Cerebras Design Comp — Private Market 2025
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal"
+---
 ### Product Designer | Cerebras Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal

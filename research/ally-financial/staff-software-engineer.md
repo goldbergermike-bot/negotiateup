@@ -1,3 +1,52 @@
+---
+company: ally-financial
+company_display: Ally Financial
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Detroit, MI (HQ)"
+    base_low: 198000
+    base_high: 265000
+    stock_low: 55000
+    stock_high: 95000
+    bonus_low: 45000
+    bonus_high: 72000
+    total_comp_low: 298000
+    total_comp_high: 432000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 208000
+    base_high: 278000
+    stock_low: 58000
+    stock_high: 100000
+    bonus_low: 47000
+    bonus_high: 76000
+    total_comp_low: 313000
+    total_comp_high: 454000
+    currency: USD
+  - region: New York
+    base_low: 234000
+    base_high: 313000
+    stock_low: 65000
+    stock_high: 112000
+    bonus_low: 53000
+    bonus_high: 85000
+    total_comp_low: 352000
+    total_comp_high: 510000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "`Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Cross-Org Architecture` `Platform Strategy` `Technical Vision`"
+---
 ### Staff Software Engineer | Ally Financial Global Negotiation Guide
 
 **Negotiation DNA:** `Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Cross-Org Architecture` `Platform Strategy` `Technical Vision`

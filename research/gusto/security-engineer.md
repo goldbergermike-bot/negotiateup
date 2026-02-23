@@ -1,3 +1,48 @@
+---
+company: gusto
+company_display: Gusto
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 210000
+    stock_low: 130000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 315000
+    currency: USD
+  - region: Denver
+    base_low: 150000
+    base_high: 190000
+    stock_low: 110000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 280000
+    currency: USD
+  - region: Toronto
+    base_low: 160000
+    base_high: 195000
+    stock_low: 100000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 275000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto Security Engineer = Google L4 Security = Meta E4 Security = Stripe Security Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Premium Base / Strong Equity | Financial Data Protection & SOC 2 Compliance"
+---
 ### Security Engineer | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base / Strong Equity | Financial Data Protection & SOC 2 Compliance

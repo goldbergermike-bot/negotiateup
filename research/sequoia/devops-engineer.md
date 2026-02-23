@@ -1,3 +1,52 @@
+---
+company: sequoia
+company_display: Sequoia
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 165000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_low: 105000
+    bonus_high: 155000
+    total_comp_low: 305000
+    total_comp_high: 415000
+    currency: USD
+  - region: San Francisco
+    base_low: 158000
+    base_high: 198000
+    stock_low: null
+    stock_high: null
+    bonus_low: 98000
+    bonus_high: 148000
+    total_comp_low: 288000
+    total_comp_high: 396000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 118000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_low: 68000
+    bonus_high: 108000
+    total_comp_low: 208000
+    total_comp_high: 293000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - LinkedIn
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Base $155K-$205K` | `Carry/Bonus $95K-$155K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`"
+---
 ### DevOps Engineer | Sequoia Global Negotiation Guide
 
 **Negotiation DNA:** `Base $155K-$205K` | `Carry/Bonus $95K-$155K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`

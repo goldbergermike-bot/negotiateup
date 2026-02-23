@@ -1,3 +1,48 @@
+---
+company: checkout-com
+company_display: Checkout Com
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 70000
+    base_high: 110000
+    stock_low: 30000
+    stock_high: 70000
+    bonus_pct: null
+    total_comp_low: 100000
+    total_comp_high: 180000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 105000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York (USD)
+    base_low: 140000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into a product design compensation framework spanning London, San Francisco, and New York markets."
+---
 ### Product Designer — Checkout.com Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into a product design compensation framework spanning London, San Francisco, and New York markets.

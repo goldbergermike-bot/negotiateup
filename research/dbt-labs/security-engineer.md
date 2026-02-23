@@ -1,3 +1,48 @@
+---
+company: dbt-labs
+company_display: dbt Labs
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / Remote-US
+    base_low: 168000
+    base_high: 202000
+    stock_low: 108000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 272000
+    currency: USD
+  - region: San Francisco
+    base_low: 178000
+    base_high: 215000
+    stock_low: 118000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 290000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 150000
+    stock_low: 75000
+    stock_high: 138000
+    bonus_pct: 10
+    total_comp_low: 152000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: dbt Labs SecEng = Google L4 Security = Snowflake SecEng = Databricks Security = Datadog SecEng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive Equity + Compliance Bonus | AI Data Governance & Security 2026"
+---
 ### Security Engineer | dbt Labs Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Equity + Compliance Bonus | AI Data Governance & Security 2026

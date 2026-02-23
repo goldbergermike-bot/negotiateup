@@ -1,3 +1,48 @@
+---
+company: asana
+company_display: Asana
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 310000
+    currency: USD
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 300000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 48000
+    total_comp_high: 140000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Designers at Asana craft the user experience for the work management platform where design quality is a core competitive differentiator — Asana is known for having the most polished, delightful UX in the category."
+---
 ### Product Designer — Asana Salary Negotiation Guide
 
 **Negotiation DNA**: Product Designers at Asana craft the user experience for the work management platform where design quality is a core competitive differentiator — Asana is known for having the most polished, delightful UX in the category.

@@ -1,3 +1,49 @@
+---
+company: take-two-interactive
+company_display: Take-Two Interactive
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 200000
+    base_high: 260000
+    stock_low: 120000
+    stock_high: 280000
+    bonus_pct: 20
+    total_comp_low: 290000
+    total_comp_high: 440000
+    currency: USD
+  - region: San Diego (Rockstar)
+    base_low: 185000
+    base_high: 248000
+    stock_low: 110000
+    stock_high: 260000
+    bonus_pct: 20
+    total_comp_low: 275000
+    total_comp_high: 420000
+    currency: USD
+  - region: Bangalore
+    base_low: 3500000
+    base_high: 5800000
+    stock_low: 1800000
+    stock_high: 4000000
+    bonus_pct: 15
+    total_comp_low: 5800000
+    total_comp_high: 10500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Take-Two EM = Google L5-L6 Manager = Meta M1-M2 = EA EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "RSU + Premium Bonus | GTA + NBA 2K Revenue Machine"
+---
 ### Engineering Manager | Take-Two Interactive Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Premium Bonus | GTA + NBA 2K Revenue Machine

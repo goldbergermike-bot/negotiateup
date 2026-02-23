@@ -1,3 +1,49 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 75000
+    base_high: 100000
+    stock_low: 100000
+    stock_high: 190000
+    bonus_pct: null
+    total_comp_low: 100000
+    total_comp_high: 148000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 92000
+    stock_high: 175000
+    bonus_pct: null
+    total_comp_low: 92000
+    total_comp_high: 136000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 100000
+    stock_high: 190000
+    bonus_pct: null
+    total_comp_low: 93000
+    total_comp_high: 138000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Mistral Data Scientist = Google Data Scientist L3-L4 Paris = Meta FAIR Research Scientist (Data) = DeepMind Research Analyst. Google Data Scientist Paris total comp ranges €95K-€160K. LLM evaluation specialists command a 15-20% premium over general data science roles."
+data_sources:
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium"
+---
 ### Data Scientist | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium

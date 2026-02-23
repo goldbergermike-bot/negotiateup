@@ -1,3 +1,48 @@
+---
+company: snowflake-ai
+company_display: Snowflake AI
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bozeman
+    base_low: 208000
+    base_high: 262000
+    stock_low: 285000
+    stock_high: 458000
+    bonus_pct: null
+    total_comp_low: 280000
+    total_comp_high: 378000
+    currency: USD
+  - region: Seattle
+    base_low: 202000
+    base_high: 255000
+    stock_low: 268000
+    stock_high: 438000
+    bonus_pct: null
+    total_comp_low: 270000
+    total_comp_high: 368000
+    currency: USD
+  - region: Warsaw
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snowflake SSE = Google L4-L5 = Meta E4-E5 = Databricks SSE = Amazon L5-L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Cortex AI Platform Pivot | CEO-Led AI Transformation | TOP-OF-MARKET Initial Grants"
+---
 ### Senior Software Engineer | Snowflake AI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Cortex AI Platform Pivot | CEO-Led AI Transformation | TOP-OF-MARKET Initial Grants

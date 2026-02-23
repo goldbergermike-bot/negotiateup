@@ -1,3 +1,40 @@
+---
+company: c3-ai
+company_display: C3.ai
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City HQ
+    base_low: 150000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 190000
+    stock_low: 45000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: C3.ai Senior DE = Palantir DE = Databricks DE = Google L4 DE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Public ($4B Market Cap) | Enterprise AI Platform | Tom Siebel-Led | Volatile Stock"
+---
 ### Data Engineer | C3.ai Global Negotiation Guide
 
 **Negotiation DNA:** Public ($4B Market Cap) | Enterprise AI Platform | Tom Siebel-Led | Volatile Stock

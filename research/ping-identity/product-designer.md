@@ -1,3 +1,48 @@
+---
+company: ping-identity
+company_display: Ping Identity
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver
+    base_low: 132000
+    base_high: 168000
+    stock_low: 35000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+  - region: Austin
+    base_low: 128000
+    base_high: 162000
+    stock_low: 35000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 208000
+    currency: USD
+  - region: Remote US
+    base_low: 125000
+    base_high: 158000
+    stock_low: 35000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ping Identity Designer (D2-D3) = Okta Designer = CyberArk Designer = SailPoint Designer = ForgeRock Designer = Microsoft Identity Designer (L60-L62)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY PLATFORM BONUS**"
+---
 ### Product Designer | Ping Identity Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY PLATFORM BONUS**

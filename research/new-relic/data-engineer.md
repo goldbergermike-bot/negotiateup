@@ -1,3 +1,56 @@
+---
+company: new-relic
+company_display: New Relic
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 12000
+    signing_bonus_high: 28000
+    total_comp_low: 200000
+    total_comp_high: 285000
+    currency: USD
+  - region: Portland
+    base_low: 140000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 20000
+    total_comp_low: 180000
+    total_comp_high: 255000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 125000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 7000
+    signing_bonus_high: 15000
+    total_comp_low: 110000
+    total_comp_high: 165000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Data Engineer at New Relic maps to L4/L5 (mid-senior) across the industry. Equivalent titles include Data Engineer (Amazon/Google), Software Engineer - Data (Meta), Data Platform Engineer (Datadog), and Analytics Engineer (Snowflake/Databricks)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Data Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | Observability Platform"
+---
 ### Data Engineer | New Relic Global Negotiation Guide
 
 **Negotiation DNA:** Data Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | Observability Platform

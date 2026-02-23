@@ -1,3 +1,50 @@
+---
+company: match-group
+company_display: Match Group
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas
+    base_low: 122000
+    base_high: 163000
+    stock_low: 28000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 222000
+    currency: USD
+  - region: New York
+    base_low: 134000
+    base_high: 179000
+    stock_low: 31000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 244000
+    currency: USD
+  - region: Los Angeles
+    base_low: 122000
+    base_high: 163000
+    stock_low: 28000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 222000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Match Group Technical Program Manager = Google L5 TPM = Meta TPM (IC5) = Amazon Sr. TPM = Microsoft Sr. PM 62/63 = Apple TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)"
+---
 ### Technical Program Manager | Match Group Global Negotiation Guide
 
 **Negotiation DNA:** Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)

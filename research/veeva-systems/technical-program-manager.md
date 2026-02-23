@@ -1,3 +1,48 @@
+---
+company: veeva-systems
+company_display: Veeva Systems
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Pleasanton
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 370000
+    currency: USD
+  - region: Boston / East Coast
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 335000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 162000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Technical Program Managers at Veeva Systems orchestrate the most complex engineering programs in life sciences technology — from the Vault platform migration to cross-product regulatory compliance initiatives that impact every pharmaceutical customer.
+---
 ### Technical Program Manager — Veeva Systems Salary Negotiation Guide
 
 **Negotiation DNA**: Technical Program Managers at Veeva Systems orchestrate the most complex engineering programs in life sciences technology — from the Vault platform migration to cross-product regulatory compliance initiatives that impact every pharmaceutical customer.

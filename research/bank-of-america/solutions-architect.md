@@ -1,3 +1,50 @@
+---
+company: bank-of-america
+company_display: Bank of America
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte (HQ)
+    base_low: 150000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 200000
+    total_comp_high: 320000
+    currency: USD
+  - region: New York City
+    base_low: 160000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 218000
+    total_comp_high: 345000
+    currency: USD
+  - region: San Francisco
+    base_low: 155000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 210000
+    total_comp_high: 335000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at BofA (SVP/Director) = L5-L6 at Google, E5-E6 at Meta, Principal SA at Amazon, Principal Architect at Capital One, SVP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$340B market cap bank + Enterprise architecture across all business lines + Charlotte HQ cost advantage + Architecture critical to cloud migration | BofA SAs drive transformation strategy | **ENTERPRISE ARCHITECTURE PREMIUM**"
+---
 ### Solutions Architect | Bank of America Global Negotiation Guide
 
 **Negotiation DNA:** $340B market cap bank + Enterprise architecture across all business lines + Charlotte HQ cost advantage + Architecture critical to cloud migration | BofA SAs drive transformation strategy | **ENTERPRISE ARCHITECTURE PREMIUM**

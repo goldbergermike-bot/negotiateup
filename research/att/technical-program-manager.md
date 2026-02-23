@@ -1,3 +1,50 @@
+---
+company: att
+company_display: "AT&T"
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas / Austin
+    base_low: 125000
+    base_high: 178000
+    stock_low: 28000
+    stock_high: 108000
+    bonus_pct: 12
+    total_comp_low: 150000
+    total_comp_high: 248000
+    currency: USD
+  - region: NYC / New Jersey
+    base_low: 132000
+    base_high: 188000
+    stock_low: 32000
+    stock_high: 118000
+    bonus_pct: 12
+    total_comp_low: 160000
+    total_comp_high: 265000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 120000
+    base_high: 172000
+    stock_low: 25000
+    stock_high: 100000
+    bonus_pct: 12
+    total_comp_low: 142000
+    total_comp_high: 235000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "AT&T TPM (L4-L6) = Google L4-L6 TPM = Meta E4-E6 TPM = Amazon TPM L5-L7 = Verizon TPM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$155B Legacy Telecom Modernizing | Cross-Organization Program Delivery | Network Modernization + Enterprise Programs"
+---
 ### Technical Program Manager | AT&T Global Negotiation Guide
 
 **Negotiation DNA:** $155B Legacy Telecom Modernizing | Cross-Organization Program Delivery | Network Modernization + Enterprise Programs

@@ -1,3 +1,49 @@
+---
+company: brex-ai
+company_display: Brex AI
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 235000
+    base_high: 280000
+    stock_low: 350000
+    stock_high: 530000
+    bonus_pct: 10
+    total_comp_low: 335000
+    total_comp_high: 430000
+    currency: USD
+  - region: New York
+    base_low: 230000
+    base_high: 275000
+    stock_low: 340000
+    stock_high: 510000
+    bonus_pct: 10
+    total_comp_low: 325000
+    total_comp_high: 420000
+    currency: USD
+  - region: Remote (US)
+    base_low: 215000
+    base_high: 258000
+    stock_low: 310000
+    stock_high: 465000
+    bonus_pct: 10
+    total_comp_low: 302000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex SWE (Staff) = Google L5 = Meta E5 = Stripe L4
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity-Heavy / Late-Stage Private | AI-Powered Spend Management"
+---
 ### Staff Software Engineer | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Late-Stage Private | AI-Powered Spend Management

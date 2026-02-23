@@ -1,3 +1,53 @@
+---
+company: shift4
+company_display: Shift4
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Center Valley PA
+    base_low: 140000
+    base_high: 185000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 265000
+    total_comp_high: 425000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 140000
+    stock_low: 45000
+    stock_high: 100000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 162000
+    total_comp_high: 265000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Shift4 | Google | Meta | Stripe | Toast | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "`NYSE: FOUR` `Stablecoin Settlement` `Data Science` `Payments Analytics` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Fraud Detection` `Transaction Intelligence` `Merchant Insights`"
+---
 ### Data Scientist | Shift4 Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FOUR` `Stablecoin Settlement` `Data Science` `Payments Analytics` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Fraud Detection` `Transaction Intelligence` `Merchant Insights`

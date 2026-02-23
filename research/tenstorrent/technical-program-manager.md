@@ -1,3 +1,48 @@
+---
+company: tenstorrent
+company_display: Tenstorrent
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 128000
+    base_high: 168000
+    stock_low: 42000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 272000
+    currency: CAD
+  - region: Austin
+    base_low: 122000
+    base_high: 162000
+    stock_low: 36000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 248000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 155000
+    stock_low: 34000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Tenstorrent TPM ~ Google L5 TPM | Meta TPM5 | Apple TPM IC4 | AMD Program Manager II | Intel Program Manager III | Qualcomm Senior TPM"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "[Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | Cross-Functional Execution Premium"
+---
 ### Technical Program Manager | Tenstorrent Global Negotiation Guide
 
 **Negotiation DNA:** [Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | Cross-Functional Execution Premium

@@ -1,3 +1,48 @@
+---
+company: moderna
+company_display: Moderna
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge MA
+    base_low: 150000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 320000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+  - region: Other US
+    base_low: 135000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Moderna Security = Genentech Security = Google L4 Security = BioNTech Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: mRNA Pioneer / Post-COVID Growth / RSU + Bonus / IP and Clinical Data Protection
+---
 ### Security Engineer | Moderna Global Negotiation Guide
 
 **Negotiation DNA:** mRNA Pioneer / Post-COVID Growth / RSU + Bonus / IP and Clinical Data Protection

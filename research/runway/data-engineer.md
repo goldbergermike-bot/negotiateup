@@ -1,3 +1,50 @@
+---
+company: runway
+company_display: Runway
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 155000
+    base_high: 210000
+    stock_low: 90000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 178000
+    total_comp_high: 275000
+    currency: USD
+  - region: San Francisco
+    base_low: 155000
+    base_high: 210000
+    stock_low: 90000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 178000
+    total_comp_high: 275000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 189000
+    stock_low: 81000
+    stock_high: 234000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Runway Data Engineer = Google L3-L4 Data Engineer = Meta Data Engineer IC3-IC4 = Amazon Data Engineer II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | Creative AI Data Infrastructure"
+---
 ### Data Engineer | Runway Global Negotiation Guide
 
 **Negotiation DNA:** Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | Creative AI Data Infrastructure

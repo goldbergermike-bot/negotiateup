@@ -1,3 +1,40 @@
+---
+company: planetscale
+company_display: Planetscale
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco HQ
+    base_low: 165000
+    base_high: 230000
+    stock_low: 85000
+    stock_high: 235000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 350000
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 215000
+    stock_low: 75000
+    stock_high: 215000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: PlanetScale Senior DS = CockroachDB DS = MongoDB DS = Google L4 DS
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($1.2B Valuation) | Serverless MySQL Platform (Vitess-based) | Open-Source Foundation | Higher Risk/Reward"
+---
 ### Data Scientist | PlanetScale Global Negotiation Guide
 
 **Negotiation DNA:** Private ($1.2B Valuation) | Serverless MySQL Platform (Vitess-based) | Open-Source Foundation | Higher Risk/Reward

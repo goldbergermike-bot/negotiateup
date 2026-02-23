@@ -1,3 +1,40 @@
+---
+company: cockroach-labs
+company_display: Cockroach Labs
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC HQ
+    base_low: 165000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 230000
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 210000
+    stock_low: 70000
+    stock_high: 210000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cockroach Labs Senior DE = MongoDB DE = Google L4 DE = PlanetScale DE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($5B Valuation) | Distributed SQL Database (CockroachDB) | NYC HQ | High Engineering Bar"
+---
 ### Data Engineer | Cockroach Labs Global Negotiation Guide
 
 **Negotiation DNA:** Private ($5B Valuation) | Distributed SQL Database (CockroachDB) | NYC HQ | High Engineering Bar

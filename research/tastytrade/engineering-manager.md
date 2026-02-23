@@ -1,3 +1,53 @@
+---
+company: tastytrade
+company_display: Tastytrade
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 178000
+    base_high: 242000
+    stock_low: null
+    stock_high: null
+    bonus_low: 32000
+    bonus_high: 54000
+    total_comp_low: 248000
+    total_comp_high: 358000
+    currency: USD
+  - region: New York
+    base_low: 196000
+    base_high: 266000
+    stock_low: null
+    stock_high: null
+    bonus_low: 35000
+    bonus_high: 59000
+    total_comp_low: 273000
+    total_comp_high: 393000
+    currency: USD
+  - region: London
+    base_low: 136000
+    base_high: 185000
+    stock_low: 29000
+    stock_high: 47000
+    bonus_low: 24000
+    bonus_high: 41000
+    total_comp_low: 189000
+    total_comp_high: 273000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - LinkedIn
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Derivatives Team Leadership` `Cross-Functional Platform Delivery` `IG Integration Program`"
+---
 ### Engineering Manager | Tastytrade Global Negotiation Guide
 
 **Negotiation DNA:** `Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Derivatives Team Leadership` `Cross-Functional Platform Delivery` `IG Integration Program`

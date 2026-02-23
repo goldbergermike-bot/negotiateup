@@ -1,3 +1,48 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: frontier-model-research-engineer
+role_display: Frontier Model Research Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 115000
+    base_high: 155000
+    stock_low: 300000
+    stock_high: 550000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 293000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 277000
+    stock_high: 507000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 270000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 300000
+    stock_high: 550000
+    bonus_pct: null
+    total_comp_low: 179000
+    total_comp_high: 277000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Mistral Frontier Model Research Engineer = Google Brain/DeepMind Research Scientist L5-L6 = Meta FAIR Research Scientist = OpenAI Research Engineer = Anthropic Research Scientist. Google Research Scientist L5-L6 Paris total comp ranges €250K-€400K+; DeepMind Research Scientist London ranges £220K-£380K+; OpenAI Research Engineer SF ranges $350K-$600K+. Mistral must match the upper bound of European ranges and offer equity upside that competes with US lab liquid comp.
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium | **SIGNATURE ROLE** | **+25-40% AGENTIC AI PREMIUM**"
+---
 ### Frontier Model Research Engineer | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium | **SIGNATURE ROLE** | **+25-40% AGENTIC AI PREMIUM**

@@ -1,3 +1,50 @@
+---
+company: bank-of-america
+company_display: Bank of America
+role: erica-ai-platform-engineer
+role_display: Erica AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte (HQ)
+    base_low: 155000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 210000
+    total_comp_high: 340000
+    currency: USD
+  - region: New York City
+    base_low: 165000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 225000
+    total_comp_high: 365000
+    currency: USD
+  - region: San Francisco
+    base_low: 160000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 215000
+    total_comp_high: 355000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Erica AI Platform Engineer at BofA (VP/SVP) = L5-L6 at Google, E5-E6 at Meta, Senior/Staff at Amazon, Senior/Principal at Capital One, VP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Flagship AI assistant powering 19M+ users + $340B market cap bank + Charlotte HQ cost arbitrage + Strategic digital transformation priority | BofA pays premium for Erica platform talent | **STRATEGIC AI PREMIUM**"
+---
 ### Erica AI Platform Engineer | Bank of America Global Negotiation Guide
 
 **Negotiation DNA:** Flagship AI assistant powering 19M+ users + $340B market cap bank + Charlotte HQ cost arbitrage + Strategic digital transformation priority | BofA pays premium for Erica platform talent | **STRATEGIC AI PREMIUM**

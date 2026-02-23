@@ -1,3 +1,50 @@
+---
+company: optum
+company_display: Optum
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Eden Prairie MN
+    base_low: 135000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 265000
+    currency: USD
+  - region: Dallas TX
+    base_low: 130000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 255000
+    currency: USD
+  - region: Remote US
+    base_low: 125000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Optum T3-T4 SWE = Google L3 = Meta E3 = UHG SWE + 15-25% comp premium"
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: UHG Tech/Analytics Subsidiary / Higher Comp Than Parent / Tech-Company Culture
+---
 ### Software Engineer | Optum Global Negotiation Guide
 
 **Negotiation DNA:** UHG Tech/Analytics Subsidiary / Higher Comp Than Parent / Tech-Company Culture

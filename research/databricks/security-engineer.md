@@ -1,3 +1,48 @@
+---
+company: databricks
+company_display: Databricks
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 248000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 382000
+    currency: USD
+  - region: New York
+    base_low: 202000
+    base_high: 255000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 388000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 242000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 375000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Databricks Security (IC3-IC4) = Snowflake Security = Google Security L4-L5 = Meta Security (E4-E5) = Amazon SecEng L5-L6 = Microsoft Security 62-63
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Security Engineer | Databricks Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**

@@ -1,3 +1,48 @@
+---
+company: amplitude
+company_display: Amplitude
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 255000
+    stock_low: 200000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 375000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 250000
+    stock_low: 195000
+    stock_high: 328000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 365000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 165000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 168000
+    total_comp_high: 238000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Amplitude EM (M1) = Google L5 EM = Meta M1 = Mixpanel EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Based / Public Company | AI-Powered Product Analytics"
+---
 ### Engineering Manager | Amplitude Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Based / Public Company | AI-Powered Product Analytics

@@ -1,3 +1,39 @@
+---
+company: zipline
+company_display: Zipline
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: South San Francisco / Bay Area
+    base_low: 205000
+    base_high: 268000
+    stock_low: 180000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 325000
+    total_comp_high: 498000
+    currency: USD
+  - region: Remote US
+    base_low: 192000
+    base_high: 252000
+    stock_low: 160000
+    stock_high: 350000
+    bonus_pct: 15
+    total_comp_low: 298000
+    total_comp_high: 462000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zipline Staff SWE (IC5) = Wing Staff SWE = Amazon Prime Air Staff SWE = Google L5-L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Drone Delivery (Medical Supplies) | $4.2B Valuation | South San Francisco | **DRONE DELIVERY PREMIUM**"
+---
 ### Staff Software Engineer | Zipline Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Drone Delivery (Medical Supplies) | $4.2B Valuation | South San Francisco | **DRONE DELIVERY PREMIUM**

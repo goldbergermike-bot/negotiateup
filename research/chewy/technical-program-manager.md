@@ -1,3 +1,51 @@
+---
+company: chewy
+company_display: Chewy
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Plantation FL
+    base_low: 118000
+    base_high: 155000
+    stock_low: 26000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 218000
+    currency: USD
+  - region: Boston
+    base_low: 127000
+    base_high: 169000
+    stock_low: 28000
+    stock_high: 46000
+    bonus_pct: 10
+    total_comp_low: 171000
+    total_comp_high: 238000
+    currency: USD
+  - region: Remote US
+    base_low: 112000
+    base_high: 147000
+    stock_low: 25000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 207000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chewy Technical Program Manager = Google TPM L5 = Amazon TPM L5–L6 = Meta TPM IC5 = Microsoft TPM 62–63 = Apple TPM ICT4
+data_sources:
+  - "Chewy 84% Autoship Penetration — Q4 2024 Earnings Report, Recurring Revenue Model"
+  - "Chewy Pet Health Expansion — Chewy Health, Telehealth, Insurance, Pharmacy Announcements"
+  - "Chewy 10-K Annual Filing — $12B+ Revenue, 20M+ Active Customers"
+  - Pet Humanization Trend — APPA $150B+ US Pet Industry Spending Report
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium"
+---
 ### Technical Program Manager | Chewy Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium

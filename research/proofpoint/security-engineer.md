@@ -1,3 +1,48 @@
+---
+company: proofpoint
+company_display: Proofpoint
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 158000
+    total_comp_high: 365000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 340000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 72000
+    total_comp_high: 162000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Security Engineers at Proofpoint secure the platform that secures the world — protecting the infrastructure and products that defend over 80% of Fortune 100 companies from email-borne threats, while building the internal security posture expected of a $12.1B cybersecurity leader."
+---
 ### Security Engineer — Proofpoint Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at Proofpoint secure the platform that secures the world — protecting the infrastructure and products that defend over 80% of Fortune 100 companies from email-borne threats, while building the internal security posture expected of a $12.1B cybersecurity leader.

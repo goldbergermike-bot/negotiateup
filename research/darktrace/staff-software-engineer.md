@@ -1,3 +1,59 @@
+---
+company: darktrace
+company_display: Darktrace
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge UK
+    base_low: 100000
+    base_high: 135000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 15000
+    bonus_high: 27000
+    signing_bonus_low: 10000
+    signing_bonus_high: 20000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: London
+    base_low: 115000
+    base_high: 150000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 17250
+    bonus_high: 30000
+    signing_bonus_low: 12000
+    signing_bonus_high: 25000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: San Francisco
+    base_low: 220000
+    base_high: 280000
+    stock_low: 160000
+    stock_high: 320000
+    bonus_low: 33000
+    bonus_high: 56000
+    signing_bonus_low: 25000
+    signing_bonus_high: 50000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Staff Software Engineer at Darktrace maps to L6 at Google, E6 at Meta, Principal SDE at Amazon, and 65–66 at Microsoft."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Staff Software Engineer | Darktrace (LSE: DARK) | IC Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco"
+---
 ### Staff Software Engineer | Darktrace Global Negotiation Guide
 
 **Negotiation DNA:** Staff Software Engineer | Darktrace (LSE: DARK) | IC Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco

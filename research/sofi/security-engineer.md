@@ -1,3 +1,48 @@
+---
+company: sofi
+company_display: SoFi
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 198000
+    stock_low: 150000
+    stock_high: 275000
+    bonus_pct: 12
+    total_comp_low: 212000
+    total_comp_high: 298000
+    currency: USD
+  - region: New York / Salt Lake City
+    base_low: 142000
+    base_high: 182000
+    stock_low: 130000
+    stock_high: 245000
+    bonus_pct: 12
+    total_comp_low: 192000
+    total_comp_high: 272000
+    currency: USD
+  - region: Remote US
+    base_low: 132000
+    base_high: 170000
+    stock_low: 112000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 250000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$212K-$298K TC (SF)` | `LTV Accelerator` | `Financial Security Specialist` | `NASDAQ: SOFI`"
+---
 ### Security Engineer | SoFi Global Negotiation Guide
 
 **Negotiation DNA:** `$212K-$298K TC (SF)` | `LTV Accelerator` | `Financial Security Specialist` | `NASDAQ: SOFI`

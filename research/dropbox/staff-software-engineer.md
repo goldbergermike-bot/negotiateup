@@ -1,3 +1,48 @@
+---
+company: dropbox
+company_display: Dropbox
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 225000
+    base_high: 282000
+    stock_low: 260000
+    stock_high: 430000
+    bonus_pct: 10
+    total_comp_low: 345000
+    total_comp_high: 490000
+    currency: USD
+  - region: Seattle
+    base_low: 220000
+    base_high: 275000
+    stock_low: 252000
+    stock_high: 418000
+    bonus_pct: 10
+    total_comp_low: 338000
+    total_comp_high: 478000
+    currency: USD
+  - region: Remote US
+    base_low: 210000
+    base_high: 265000
+    stock_low: 240000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 320000
+    total_comp_high: 458000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Dropbox Staff SWE (IC5-IC6) = Google SWE L6-L7 = Meta SWE E6-E7 = Box Staff = Elastic Staff
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NASDAQ: DBX) + Bonus | Dash AI Architecture Leadership | $8B+ Market Cap | 700M+ Users | **DASH AI PREMIUM**"
+---
 ### Staff Software Engineer | Dropbox Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NASDAQ: DBX) + Bonus | Dash AI Architecture Leadership | $8B+ Market Cap | 700M+ Users | **DASH AI PREMIUM**

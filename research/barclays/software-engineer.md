@@ -1,3 +1,49 @@
+---
+company: barclays
+company_display: Barclays
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 128000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 160000
+    total_comp_high: 228000
+    currency: USD
+  - region: London (HQ)
+    base_low: 58000
+    base_high: 95000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 75000
+    total_comp_high: 130000
+    currency: GBP
+  - region: Glasgow
+    base_low: 45000
+    base_high: 75000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 58000
+    total_comp_high: 102000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "SWE at Barclays (AVP/VP) = L3-L4 at Google, E3-E4 at Meta, SDE I-II at Amazon, AVP/VP at BofA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GBP35B market cap UK bank + Entry/mid-level with UK/US exposure + London/NYC/Glasgow hubs + Structured development | Barclays SWEs gain UK and global banking experience | **UK BANK TECH COMP**"
+---
 ### Software Engineer | Barclays Global Negotiation Guide
 
 **Negotiation DNA:** GBP35B market cap UK bank + Entry/mid-level with UK/US exposure + London/NYC/Glasgow hubs + Structured development | Barclays SWEs gain UK and global banking experience | **UK BANK TECH COMP**

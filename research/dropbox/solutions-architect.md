@@ -1,3 +1,48 @@
+---
+company: dropbox
+company_display: Dropbox
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 225000
+    stock_low: 148000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 330000
+    currency: USD
+  - region: Seattle
+    base_low: 172000
+    base_high: 220000
+    stock_low: 142000
+    stock_high: 252000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 322000
+    currency: USD
+  - region: Remote US
+    base_low: 165000
+    base_high: 210000
+    stock_low: 135000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Dropbox SA (IC4-IC5) = Google Cloud SA L5-L6 = AWS SA = Box SA = Elastic SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NASDAQ: DBX) + Bonus | Enterprise Dash AI Deployment | $8B+ Market Cap | 700M+ Users | **DASH AI PREMIUM**"
+---
 ### Solutions Architect | Dropbox Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NASDAQ: DBX) + Bonus | Enterprise Dash AI Deployment | $8B+ Market Cap | 700M+ Users | **DASH AI PREMIUM**

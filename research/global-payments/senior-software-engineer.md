@@ -1,3 +1,53 @@
+---
+company: global-payments
+company_display: Global Payments
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 145000
+    base_high: 190000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 243000
+    total_comp_high: 382000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 287000
+    total_comp_high: 453000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 130000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 162000
+    total_comp_high: 262000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Global Payments | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Fintech Infrastructure` `Senior IC Track`"
+---
 ### Senior Software Engineer | Global Payments Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Fintech Infrastructure` `Senior IC Track`

@@ -1,3 +1,48 @@
+---
+company: ramp
+company_display: Ramp
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 170000
+    base_high: 208000
+    stock_low: 118000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 275000
+    currency: USD
+  - region: San Francisco
+    base_low: 168000
+    base_high: 205000
+    stock_low: 112000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 268000
+    currency: USD
+  - region: Remote US
+    base_low: 165000
+    base_high: 198000
+    stock_low: 112000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ramp SWE (IC2-IC3) = Brex SWE = Google L3-L4 = Meta E3-E4 = Stripe L2-L3 = Square IC2-IC3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **EVERY FEATURE YOU BUILD SAVES CUSTOMERS MORE THAN IT COSTS**"
+---
 ### Software Engineer | Ramp Global Negotiation Guide
 
 **Negotiation DNA:** Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **EVERY FEATURE YOU BUILD SAVES CUSTOMERS MORE THAN IT COSTS**

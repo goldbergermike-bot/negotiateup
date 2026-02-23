@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 130000
+    base_high: 180000
+    stock_low: 40000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 235000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 115000
+    base_high: 158000
+    stock_low: 32000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 202000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 55000
+    base_high: 85000
+    stock_low: 15000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 65000
+    total_comp_high: 108000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 1400000
+    base_high: 2800000
+    stock_low: 600000
+    stock_high: 1800000
+    bonus_pct: 10
+    total_comp_low: 1800000
+    total_comp_high: 3800000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 98000
+    base_high: 142000
+    stock_low: 25000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 175000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora IC1/IC2 ~ Chargebee SWE/Senior | Recurly SWE/Senior | Stripe IC2/IC3 | Salesforce MTS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Subscription platform builder | Billing & revenue management development | **FINTECH PREMIUM**"
+---
 ### Software Engineer | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Subscription platform builder | Billing & revenue management development | **FINTECH PREMIUM**

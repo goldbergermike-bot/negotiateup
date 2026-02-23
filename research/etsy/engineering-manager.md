@@ -1,3 +1,48 @@
+---
+company: etsy
+company_display: Etsy
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brooklyn
+    base_low: 212000
+    base_high: 262000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 388000
+    currency: USD
+  - region: San Francisco
+    base_low: 218000
+    base_high: 268000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 398000
+    currency: USD
+  - region: Remote US
+    base_low: 202000
+    base_high: 252000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 378000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Etsy EM (M1) = Google L5 EM = Meta M1 = Amazon SDM = Shopify EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction"
+---
 ### Engineering Manager | Etsy Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction

@@ -1,3 +1,52 @@
+---
+company: robinhood
+company_display: Robinhood
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Menlo Park, CA (HQ)"
+    base_low: 240000
+    base_high: 305000
+    stock_low: null
+    stock_high: null
+    bonus_low: 32000
+    bonus_high: 53000
+    total_comp_low: 372000
+    total_comp_high: 538000
+    currency: USD
+  - region: New York
+    base_low: 240000
+    base_high: 305000
+    stock_low: null
+    stock_high: null
+    bonus_low: 32000
+    bonus_high: 53000
+    total_comp_low: 372000
+    total_comp_high: 538000
+    currency: USD
+  - region: London
+    base_low: 182000
+    base_high: 231000
+    stock_low: 302000
+    stock_high: 545000
+    bonus_low: 24000
+    bonus_high: 40000
+    total_comp_low: 282000
+    total_comp_high: 407000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `Technical Strategy Owner` `Platform Architecture` `Cross-Domain Leadership`"
+---
 ### Staff Software Engineer | Robinhood Global Negotiation Guide
 
 **Negotiation DNA:** `Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `Technical Strategy Owner` `Platform Architecture` `Cross-Domain Leadership`

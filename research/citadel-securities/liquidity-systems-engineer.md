@@ -1,3 +1,51 @@
+---
+company: citadel-securities
+company_display: Citadel Securities
+role: liquidity-systems-engineer
+role_display: Liquidity Systems Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 325000
+    base_high: 450000
+    stock_low: null
+    stock_high: null
+    bonus_low: 400000
+    bonus_high: 600000
+    total_comp_low: 725000
+    total_comp_high: 1050000
+    currency: USD
+  - region: New York
+    base_low: 345000
+    base_high: 475000
+    stock_low: null
+    stock_high: null
+    bonus_low: 420000
+    bonus_high: 630000
+    total_comp_low: 765000
+    total_comp_high: 1100000
+    currency: USD
+  - region: London
+    base_low: 260000
+    base_high: 360000
+    stock_low: null
+    stock_high: null
+    bonus_low: 320000
+    bonus_high: 480000
+    total_comp_low: 580000
+    total_comp_high: 840000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `+25-35% Liquidity Systems Premium` `Ultra-Low-Latency` `25% US Equity Volume` `Private Firm Premium` `Order Routing` `Matching Engine` `Market Making Infrastructure` `SIGNATURE ROLE`"
+---
 ### Liquidity Systems Engineer | Citadel Securities Global Negotiation Guide
 
 **SIGNATURE ROLE** | **+25-35% Liquidity Systems Premium**

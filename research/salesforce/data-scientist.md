@@ -1,3 +1,48 @@
+---
+company: salesforce
+company_display: Salesforce
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 225000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 315000
+    currency: USD
+  - region: Indianapolis
+    base_low: 155000
+    base_high: 200000
+    stock_low: 170000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 198000
+    total_comp_high: 278000
+    currency: USD
+  - region: Hyderabad
+    base_low: 3000000
+    base_high: 5000000
+    stock_low: 1800000
+    stock_high: 3800000
+    bonus_pct: null
+    total_comp_low: 4800000
+    total_comp_high: 8800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Salesforce Senior Data Scientist = Google L4 DS = Meta IC4 DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Agentforce Consumption Inflection"
+---
 ### Data Scientist | Salesforce Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Agentforce Consumption Inflection

@@ -1,3 +1,48 @@
+---
+company: netflix
+company_display: Netflix
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 330000
+    base_high: 415000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 330000
+    total_comp_high: 415000
+    currency: USD
+  - region: San Francisco
+    base_low: 340000
+    base_high: 427000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 340000
+    total_comp_high: 427000
+    currency: USD
+  - region: London
+    base_low: 252000
+    base_high: 316000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 252000
+    total_comp_high: 316000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Netflix Staff SWE = Google L6 = Meta E6 = Apple ICT5 = Amazon Principal SDE = Microsoft 65-66
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture"
+---
 ### Staff Software Engineer | Netflix Global Negotiation Guide
 
 **Negotiation DNA:** All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture

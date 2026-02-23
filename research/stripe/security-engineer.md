@@ -1,3 +1,48 @@
+---
+company: stripe
+company_display: Stripe
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 202000
+    base_high: 255000
+    stock_low: 198000
+    stock_high: 348000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 398000
+    currency: USD
+  - region: New York
+    base_low: 202000
+    base_high: 255000
+    stock_low: 198000
+    stock_high: 348000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 398000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 238000
+    stock_low: 185000
+    stock_high: 325000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 372000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stripe Security (IC3-IC4) = Adyen Security = Block/Square Security = PayPal/Braintree Security = Checkout.com Security = Google L4-L5 Security Payments
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | **TRUST ORCHESTRATOR PREMIUM**"
+---
 ### Security Engineer | Stripe Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | **TRUST ORCHESTRATOR PREMIUM**

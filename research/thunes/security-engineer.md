@@ -1,3 +1,48 @@
+---
+company: thunes
+company_display: Thunes
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 125000
+    base_high: 180000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: SGD
+  - region: ":gb: London (GBP)"
+    base_low: 75000
+    base_high: 115000
+    stock_low: 38000
+    stock_high: 75000
+    bonus_pct: null
+    total_comp_low: 113000
+    total_comp_high: 190000
+    currency: GBP
+  - region: ":us: New York (USD)"
+    base_low: 140000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a security engineering compensation framework spanning Singapore, London, and New York markets."
+---
 ### Security Engineer — Thunes Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a security engineering compensation framework spanning Singapore, London, and New York markets.

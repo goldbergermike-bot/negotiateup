@@ -1,3 +1,48 @@
+---
+company: workday
+company_display: Workday
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pleasanton
+    base_low: 168000
+    base_high: 208000
+    stock_low: 160000
+    stock_high: 268000
+    bonus_pct: 15
+    total_comp_low: 212000
+    total_comp_high: 278000
+    currency: USD
+  - region: Dublin
+    base_low: 103000
+    base_high: 132000
+    stock_low: 88000
+    stock_high: 161000
+    bonus_pct: 15
+    total_comp_low: 130000
+    total_comp_high: 175000
+    currency: EUR
+  - region: London
+    base_low: 110000
+    base_high: 144000
+    stock_low: 96000
+    stock_high: 174000
+    bonus_pct: 15
+    total_comp_low: 140000
+    total_comp_high: 192000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Workday DevOps (P3) = Google SRE L4 = Meta Production Eng E4 = Salesforce DevOps = Snowflake DevOps
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity"
+---
 ### DevOps Engineer | Workday Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity

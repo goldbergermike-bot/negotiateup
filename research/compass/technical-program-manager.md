@@ -1,3 +1,39 @@
+---
+company: compass
+company_display: Compass
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 148000
+    base_high: 205000
+    stock_low: 48000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 282000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 192000
+    stock_low: 40000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 260000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Compass TPM (TPM2-TPM3) = Zillow TPM = Redfin TPM = Opendoor TPM = Google L4-L5 TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **PROPTECH PROGRAM PREMIUM**"
+---
 ### Technical Program Manager | Compass Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **PROPTECH PROGRAM PREMIUM**

@@ -1,3 +1,53 @@
+---
+company: inflection-ai
+company_display: Inflection AI
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 160000
+    base_high: 225000
+    stock_low: 95000
+    stock_high: 275000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 184000
+    total_comp_high: 297000
+    currency: USD
+  - region: Seattle
+    base_low: 155000
+    base_high: 218000
+    stock_low: 95000
+    stock_high: 275000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 179000
+    total_comp_high: 288000
+    currency: USD
+  - region: Remote US
+    base_low: 144000
+    base_high: 203000
+    stock_low: 86000
+    stock_high: 248000
+    bonus_low: 13000
+    bonus_high: 25000
+    total_comp_low: 165000
+    total_comp_high: 267000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Inflection Product Designer = Microsoft L62-L63 Designer = Google L4-L5 UX Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | Empathetic AI UX"
+---
 ### Product Designer | Inflection AI Global Negotiation Guide
 
 **Negotiation DNA:** Microsoft-Level Comp + Equity | Microsoft Acquired Team | Palo Alto | Empathetic AI UX

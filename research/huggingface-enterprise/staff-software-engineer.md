@@ -1,3 +1,50 @@
+---
+company: huggingface-enterprise
+company_display: Hugging Face Enterprise
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 245000
+    base_high: 305000
+    stock_low: 320000
+    stock_high: 520000
+    bonus_pct: 10
+    total_comp_low: 380000
+    total_comp_high: 560000
+    currency: USD
+  - region: New York
+    base_low: 240000
+    base_high: 300000
+    stock_low: 320000
+    stock_high: 520000
+    bonus_pct: 10
+    total_comp_low: 375000
+    total_comp_high: 553000
+    currency: USD
+  - region: Paris
+    base_low: 209000
+    base_high: 260000
+    stock_low: 272000
+    stock_high: 442000
+    bonus_pct: 10
+    total_comp_low: 323000
+    total_comp_high: 478000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: HF Enterprise Staff SWE = Google L6 = Meta E6 = Databricks Staff SWE = OpenAI Staff SWE = Anthropic Staff SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Top-Tier Base + Significant Growth-Stage Equity | Open-Source AI Platform Leader | 2026 Focus: Platform Architecture for Enterprise Scale"
+---
 ### Staff Software Engineer | Hugging Face Enterprise Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier Base + Significant Growth-Stage Equity | Open-Source AI Platform Leader | 2026 Focus: Platform Architecture for Enterprise Scale

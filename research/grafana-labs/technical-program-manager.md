@@ -1,3 +1,50 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 172000
+    base_high: 222000
+    stock_low: 130000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 315000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 162000
+    base_high: 212000
+    stock_low: 118000
+    stock_high: 217000
+    bonus_pct: 10
+    total_comp_low: 213000
+    total_comp_high: 295000
+    currency: USD
+  - region: London / Berlin
+    base_low: 131000
+    base_high: 169000
+    stock_low: 98000
+    stock_high: 179000
+    bonus_pct: 10
+    total_comp_low: 174000
+    total_comp_high: 240000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs TPM = Google L5 TPM = Meta IC5 TPM = Datadog Senior TPM = Elastic Senior TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside"
+---
 ### Technical Program Manager | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside

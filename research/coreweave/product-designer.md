@@ -1,3 +1,50 @@
+---
+company: coreweave
+company_display: Coreweave
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Roseland NJ
+    base_low: 160000
+    base_high: 202000
+    stock_low: 130000
+    stock_high: 232000
+    bonus_pct: null
+    total_comp_low: 193000
+    total_comp_high: 260000
+    currency: USD
+  - region: Remote US
+    base_low: 153000
+    base_high: 195000
+    stock_low: 130000
+    stock_high: 232000
+    bonus_pct: null
+    total_comp_low: 186000
+    total_comp_high: 253000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 152000
+    stock_low: 98000
+    stock_high: 175000
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 196000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: CoreWeave Product Designer = Google L4 UX Designer = AWS UX Designer = Meta E4 Product Designer = Apple Design ICT3
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium"
+---
 ### Product Designer | CoreWeave Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium

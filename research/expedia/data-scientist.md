@@ -1,3 +1,48 @@
+---
+company: expedia
+company_display: Expedia
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 148000
+    base_high: 195000
+    stock_low: 100000
+    stock_high: 168000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 268000
+    currency: USD
+  - region: Austin
+    base_low: 135000
+    base_high: 178000
+    stock_low: 88000
+    stock_high: 148000
+    bonus_pct: 15
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 142000
+    stock_low: 75000
+    stock_high: 126000
+    bonus_pct: 15
+    total_comp_low: 142000
+    total_comp_high: 196000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Expedia Data Scientist = Google Data Scientist L4/L5 = Booking.com Data Scientist = Airbnb Data Scientist = Amazon Research Scientist = Microsoft Data & Applied Scientist 62/63"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | Data-Rich Travel Platform"
+---
 ### Data Scientist | Expedia Global Negotiation Guide
 
 **Negotiation DNA:** Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | Data-Rich Travel Platform

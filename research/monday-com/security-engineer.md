@@ -1,3 +1,48 @@
+---
+company: monday-com
+company_display: Monday.com
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 355000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 308000
+    currency: USD
+  - region: London / Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 152000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Security Engineers at Monday.com protect the $12B Work OS platform that millions of teams — including enterprise customers — trust with their work data, where enterprise security capabilities are the gateway to upmarket growth."
+---
 ### Security Engineer — Monday.com Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at Monday.com protect the $12B Work OS platform that millions of teams — including enterprise customers — trust with their work data, where enterprise security capabilities are the gateway to upmarket growth.

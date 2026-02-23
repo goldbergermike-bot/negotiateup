@@ -1,3 +1,51 @@
+---
+company: ally-financial
+company_display: Ally Financial
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Detroit, MI (HQ)"
+    base_low: 165000
+    base_high: 222000
+    stock_low: 40000
+    stock_high: 68000
+    bonus_low: 33000
+    bonus_high: 58000
+    total_comp_low: 238000
+    total_comp_high: 348000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 173000
+    base_high: 233000
+    stock_low: 42000
+    stock_high: 71000
+    bonus_low: 35000
+    bonus_high: 61000
+    total_comp_low: 250000
+    total_comp_high: 365000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 262000
+    stock_low: 47000
+    stock_high: 80000
+    bonus_low: 39000
+    bonus_high: 68000
+    total_comp_low: 281000
+    total_comp_high: 410000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Machine Learning Systems` `Fair Lending AI` `Model Production Infrastructure`"
+---
 ### ML/AI Engineer | Ally Financial Global Negotiation Guide
 
 **Negotiation DNA:** `Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Machine Learning Systems` `Fair Lending AI` `Model Production Infrastructure`

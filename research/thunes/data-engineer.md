@@ -1,3 +1,48 @@
+---
+company: thunes
+company_display: Thunes
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 115000
+    base_high: 170000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 280000
+    currency: SGD
+  - region: ":gb: London (GBP)"
+    base_low: 68000
+    base_high: 108000
+    stock_low: 35000
+    stock_high: 65000
+    bonus_pct: null
+    total_comp_low: 103000
+    total_comp_high: 173000
+    currency: GBP
+  - region: ":us: New York (USD)"
+    base_low: 130000
+    base_high: 190000
+    stock_low: 60000
+    stock_high: 125000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 315000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a data engineering compensation framework spanning Singapore, London, and New York markets."
+---
 ### Data Engineer — Thunes Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a data engineering compensation framework spanning Singapore, London, and New York markets.

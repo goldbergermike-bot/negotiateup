@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 115000
+    base_high: 155000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 177000
+    total_comp_high: 277000
+    currency: USD
+  - region: New York
+    base_low: 140000
+    base_high: 180000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_low: 16000
+    bonus_high: 28000
+    total_comp_low: 226000
+    total_comp_high: 348000
+    currency: USD
+  - region: London
+    base_low: 80000
+    base_high: 110000
+    stock_low: 35000
+    stock_high: 75000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 125000
+    total_comp_high: 203000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Design Track` `UX/UI`"
+---
 ### Product Designer | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Design Track` `UX/UI`

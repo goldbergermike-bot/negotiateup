@@ -1,3 +1,48 @@
+---
+company: genentech
+company_display: Genentech
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: South San Francisco
+    base_low: 145000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+  - region: Bay Area Remote
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: USD
+  - region: Other US
+    base_low: 130000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Genentech SWE = Google L3-L4 = Meta E3-E4 = Illumina SWE (higher TC)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Roche Subsidiary / Bay Area Biotech Premium / RSU + Bonus / R&D-Driven Culture"
+---
 ### Software Engineer | Genentech Global Negotiation Guide
 
 **Negotiation DNA:** Roche Subsidiary / Bay Area Biotech Premium / RSU + Bonus / R&D-Driven Culture

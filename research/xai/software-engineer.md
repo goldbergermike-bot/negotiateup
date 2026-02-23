@@ -1,3 +1,48 @@
+---
+company: xai
+company_display: xAI
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 228000
+    stock_low: 275000
+    stock_high: 465000
+    bonus_pct: null
+    total_comp_low: 258000
+    total_comp_high: 352000
+    currency: USD
+  - region: Palo Alto
+    base_low: 185000
+    base_high: 228000
+    stock_low: 275000
+    stock_high: 465000
+    bonus_pct: null
+    total_comp_low: 258000
+    total_comp_high: 352000
+    currency: USD
+  - region: Remote US
+    base_low: 172000
+    base_high: 215000
+    stock_low: 275000
+    stock_high: 465000
+    bonus_pct: null
+    total_comp_low: 241000
+    total_comp_high: 332000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: xAI SWE (L3-L4) = Google L3-L4 SWE = OpenAI SWE = Meta E3-E4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026)"
+---
 ### Software Engineer | xAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026)

@@ -1,3 +1,48 @@
+---
+company: chime
+company_display: Chime
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 238000
+    stock_low: 172000
+    stock_high: 238000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 322000
+    currency: USD
+  - region: Chicago
+    base_low: 195000
+    base_high: 225000
+    stock_low: 148000
+    stock_high: 218000
+    bonus_pct: 15
+    total_comp_low: 242000
+    total_comp_high: 298000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 218000
+    stock_low: 135000
+    stock_high: 208000
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chime Sr SWE (IC4) = Cash App Sr SWE = Google L5 = Meta E5 = Amazon SDE III = Revolut Sr SWE = SoFi Sr SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | **INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**"
+---
 ### Senior Software Engineer | Chime Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | **INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**

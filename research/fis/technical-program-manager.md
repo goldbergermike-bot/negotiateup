@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 145000
+    base_high: 190000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 235000
+    total_comp_high: 375000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 220000
+    stock_low: 90000
+    stock_high: 200000
+    bonus_low: 26000
+    bonus_high: 42000
+    total_comp_low: 286000
+    total_comp_high: 462000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 135000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 165000
+    total_comp_high: 263000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Program Management` `Cross-Functional Delivery`"
+---
 ### Technical Program Manager | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Program Management` `Cross-Functional Delivery`

@@ -1,3 +1,38 @@
+---
+company: sentinelone
+company_display: SentinelOne
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 345000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 168000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "You orchestrate the cross-functional delivery of the Autonomous Defense platform — your program execution ensures Purple AI and the Singularity ecosystem ship on time, on scope, and at the quality bar that enterprise security demands."
+---
 ### Technical Program Manager — SentinelOne Salary Negotiation Guide
 
 **Negotiation DNA**: You orchestrate the cross-functional delivery of the Autonomous Defense platform — your program execution ensures Purple AI and the Singularity ecosystem ship on time, on scope, and at the quality bar that enterprise security demands.

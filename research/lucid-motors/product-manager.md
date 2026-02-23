@@ -1,3 +1,30 @@
+---
+company: lucid-motors
+company_display: Lucid Motors
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newark CA (HQ)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 65000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 292000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lucid Product Manager = Google PM L4-L5 = Tesla PM = Amazon PM = Meta PM (IC4-IC5)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive but Volatile Equity (LCID) | Luxury EV Leader | Saudi Backing | Bay Area Location"
+---
 ### Product Manager | Lucid Motors Global Negotiation Guide
 
 **Negotiation DNA:** Competitive but Volatile Equity (LCID) | Luxury EV Leader | Saudi Backing | Bay Area Location

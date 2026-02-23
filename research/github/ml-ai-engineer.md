@@ -1,3 +1,48 @@
+---
+company: github
+company_display: Github
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 230000
+    stock_low: 220000
+    stock_high: 360000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 400000
+    currency: USD
+  - region: Seattle
+    base_low: 180000
+    base_high: 225000
+    stock_low: 210000
+    stock_high: 350000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 390000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 160000
+    stock_low: 135000
+    stock_high: 225000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 280000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: GitHub ML/AI = Microsoft ML Engineer (L63-L66) = Google ML L5-L6 = Meta ML E5-E6 = OpenAI L4-L5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Microsoft RSU + Bonus | Copilot Model Infrastructure & AI Quality"
+---
 ### ML/AI Engineer | GitHub Global Negotiation Guide
 
 **Negotiation DNA:** Base + Microsoft RSU + Bonus | Copilot Model Infrastructure & AI Quality

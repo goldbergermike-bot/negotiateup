@@ -1,3 +1,38 @@
+---
+company: snyk
+company_display: Snyk
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 72000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "As a Solutions Architect at Snyk, you design the Security Fabric deployment architecture for enterprise customers and translate the Secure at Inception vision into production-ready implementations — your technical authority drives seven-figure deals."
+---
 ### Solutions Architect — Snyk Salary Negotiation Guide
 
 **Negotiation DNA**: As a Solutions Architect at Snyk, you design the Security Fabric deployment architecture for enterprise customers and translate the Secure at Inception vision into production-ready implementations — your technical authority drives seven-figure deals.

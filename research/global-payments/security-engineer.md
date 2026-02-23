@@ -1,3 +1,53 @@
+---
+company: global-payments
+company_display: Global Payments
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 140000
+    base_high: 190000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 228000
+    total_comp_high: 362000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 180000
+    bonus_low: 22000
+    bonus_high: 40000
+    total_comp_low: 272000
+    total_comp_high: 435000
+    currency: USD
+  - region: London
+    base_low: 92000
+    base_high: 130000
+    stock_low: 48000
+    stock_high: 95000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 152000
+    total_comp_high: 247000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Global Payments | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `PCI-DSS` `Payment Security`"
+---
 ### Security Engineer | Global Payments Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `PCI-DSS` `Payment Security`

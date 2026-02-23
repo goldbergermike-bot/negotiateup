@@ -1,3 +1,50 @@
+---
+company: adept-ai
+company_display: Adept AI
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 215000
+    stock_low: 75000
+    stock_high: 230000
+    bonus_pct: null
+    total_comp_low: 174000
+    total_comp_high: 273000
+    currency: USD
+  - region: Seattle
+    base_low: 150000
+    base_high: 209000
+    stock_low: 75000
+    stock_high: 230000
+    bonus_pct: null
+    total_comp_low: 169000
+    total_comp_high: 267000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 194000
+    stock_low: 68000
+    stock_high: 207000
+    bonus_pct: null
+    total_comp_low: 157000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Adept Data Scientist = Amazon Applied Scientist I-II = Google L3-L4 Data Scientist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | Agent Performance Analytics"
+---
 ### Data Scientist | Adept AI Global Negotiation Guide
 
 **Negotiation DNA:** Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | Agent Performance Analytics

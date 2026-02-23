@@ -1,3 +1,53 @@
+---
+company: avidxchange
+company_display: Avidxchange
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte NC
+    base_low: 140000
+    base_high: 175000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 14000
+    bonus_high: 26000
+    total_comp_low: 204000
+    total_comp_high: 301000
+    currency: USD
+  - region: Atlanta GA
+    base_low: 145000
+    base_high: 180000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 15000
+    bonus_high: 27000
+    total_comp_low: 210000
+    total_comp_high: 307000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 170000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_low: 13000
+    bonus_high: 24000
+    total_comp_low: 193000
+    total_comp_high: 284000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| AvidXchange | Google | Meta | Stripe | Bill.com | PayPal |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: AVDX` `Purposeful AI` `Mid-Market AP Automation` `AvidPay Network` `Charlotte NC Hub` `RSU/4yr Vesting` `Enterprise Tier` `Knowledge Discovery` `Senior IC`"
+---
 ### Senior Software Engineer | AvidXchange Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: AVDX` `Purposeful AI` `Mid-Market AP Automation` `AvidPay Network` `Charlotte NC Hub` `RSU/4yr Vesting` `Enterprise Tier` `Knowledge Discovery` `Senior IC`

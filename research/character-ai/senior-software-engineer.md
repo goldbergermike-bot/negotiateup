@@ -1,3 +1,50 @@
+---
+company: character-ai
+company_display: Character AI
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park / Bay Area
+    base_low: 200000
+    base_high: 270000
+    stock_low: 160000
+    stock_high: 420000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 375000
+    currency: USD
+  - region: New York City
+    base_low: 200000
+    base_high: 270000
+    stock_low: 160000
+    stock_high: 420000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 375000
+    currency: USD
+  - region: Remote US
+    base_low: 180000
+    base_high: 243000
+    stock_low: 144000
+    stock_high: 378000
+    bonus_pct: null
+    total_comp_low: 216000
+    total_comp_high: 338000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Character AI Senior SWE = Google L5 = Meta E5 = Startup Staff SWE (impact)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Top-Tier AI Comp + Pre-IPO Equity | $5B+ Valuation (Google Partnership) | Menlo Park | Consumer AI at Scale"
+---
 ### Senior Software Engineer | Character AI Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier AI Comp + Pre-IPO Equity | $5B+ Valuation (Google Partnership) | Menlo Park | Consumer AI at Scale

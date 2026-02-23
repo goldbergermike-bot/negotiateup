@@ -1,3 +1,48 @@
+---
+company: nvidia
+company_display: Nvidia
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 185000
+    base_high: 232000
+    stock_low: 178000
+    stock_high: 312000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+  - region: Seattle
+    base_low: 182000
+    base_high: 228000
+    stock_low: 178000
+    stock_high: 312000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 222000
+    stock_low: 178000
+    stock_high: 312000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 338000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: NVIDIA SWE (IC1-IC2) = Google L3-L4 = Meta E3-E4 = Apple ICT2-ICT3 = AMD SMTS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule"
+---
 ### Software Engineer | NVIDIA Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule

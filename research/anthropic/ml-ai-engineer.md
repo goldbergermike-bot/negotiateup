@@ -1,3 +1,49 @@
+---
+company: anthropic
+company_display: Anthropic
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 265000
+    base_high: 335000
+    stock_low: 425000
+    stock_high: 750000
+    bonus_pct: null
+    total_comp_low: 371000
+    total_comp_high: 523000
+    currency: USD
+  - region: Seattle
+    base_low: 257000
+    base_high: 319000
+    stock_low: 425000
+    stock_high: 750000
+    bonus_pct: null
+    total_comp_low: 363000
+    total_comp_high: 507000
+    currency: USD
+  - region: London
+    base_low: 201000
+    base_high: 255000
+    stock_low: 323000
+    stock_high: 570000
+    bonus_pct: null
+    total_comp_low: 282000
+    total_comp_high: 398000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anthropic ML/AI Engineer = Google L5-L6 ML Engineer = Meta ML Engineer IC5-IC6 = OpenAI ML Engineer = Amazon Applied Scientist II-III
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium | **+20-35% AGENTIC AI PREMIUM**"
+---
 ### ML/AI Engineer | Anthropic Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium | **+20-35% AGENTIC AI PREMIUM**

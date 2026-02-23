@@ -1,3 +1,68 @@
+---
+company: sap
+company_display: Sap
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 200000
+    base_high: 280000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 430000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 180000
+    base_high: 255000
+    stock_low: 80000
+    stock_high: 230000
+    bonus_pct: 12
+    total_comp_low: 245000
+    total_comp_high: 385000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 110000
+    base_high: 165000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 12
+    total_comp_low: 160000
+    total_comp_high: 260000
+    currency: EUR
+  - region: UK (London)
+    base_low: 100000
+    base_high: 150000
+    stock_low: 48000
+    stock_high: 125000
+    bonus_pct: 12
+    total_comp_low: 142000
+    total_comp_high: 235000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 4200000
+    base_high: 7500000
+    stock_low: 2500000
+    stock_high: 5500000
+    bonus_pct: 12
+    total_comp_low: 5800000
+    total_comp_high: 10800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP T4 (Dev Architect) ~ Google L6 | Microsoft 65 | Amazon L7 Principal | Salesforce Principal | ServiceNow Staff"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Enterprise architecture leader | Cross-team technical authority & cloud platform visionary | **STAFF IC PREMIUM**"
+---
 ### Staff Software Engineer | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise architecture leader | Cross-team technical authority & cloud platform visionary | **STAFF IC PREMIUM**

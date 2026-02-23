@@ -1,3 +1,68 @@
+---
+company: zoom
+company_display: Zoom
+role: ai-companion-engineer
+role_display: AI Companion Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 180000
+    base_high: 245000
+    stock_low: 120000
+    stock_high: 270000
+    bonus_pct: 12
+    total_comp_low: 255000
+    total_comp_high: 385000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 330000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 85000
+    base_high: 130000
+    stock_low: 45000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 198000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2800000
+    base_high: 5500000
+    stock_low: 1500000
+    stock_high: 4200000
+    bonus_pct: 10
+    total_comp_low: 3800000
+    total_comp_high: 7800000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 130000
+    base_high: 195000
+    stock_low: 60000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom IC3/IC4 (AI) ~ Google L5/L6 MLE | Microsoft 63/64 AI | Meta E5/E6 MLE | Salesforce Einstein Senior/Lead"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Real-time AI & communication intelligence specialist | Zoom AI Companion & federated AI platform | **AI PREMIUM**"
+---
 ### AI Companion Engineer | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** Real-time AI & communication intelligence specialist | Zoom AI Companion & federated AI platform | **AI PREMIUM**

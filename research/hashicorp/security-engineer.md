@@ -1,3 +1,48 @@
+---
+company: hashicorp
+company_display: HashiCorp
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 368000
+    currency: USD
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 80000
+    total_comp_high: 188000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Security Engineers at HashiCorp are the domain experts building and hardening Vault — the cornerstone of IBM Software's Security by Default initiative — commanding a 10-15% premium for specialized cryptography, secrets management, and enterprise security expertise."
+---
 ### Security Engineer — HashiCorp (IBM) Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at HashiCorp are the domain experts building and hardening Vault — the cornerstone of IBM Software's Security by Default initiative — commanding a 10-15% premium for specialized cryptography, secrets management, and enterprise security expertise.

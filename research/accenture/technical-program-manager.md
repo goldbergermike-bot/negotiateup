@@ -1,3 +1,48 @@
+---
+company: accenture
+company_display: Accenture
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 130000
+    base_high: 180000
+    stock_low: 35000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 297000
+    currency: USD
+  - region: San Francisco
+    base_low: 135000
+    base_high: 185000
+    stock_low: 38000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 308000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 130000
+    stock_low: 18000
+    stock_high: 45000
+    bonus_pct: 10
+    total_comp_low: 117000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Accenture Consultant / Manager (TPM) = Google L4-L5 TPM = Amazon Senior TPM = Deloitte Manager TPM
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + RSU Grants + Bonus (10-15%) | Large-Scale Global Delivery"
+---
 ### Technical Program Manager | Accenture Global Negotiation Guide
 
 **Negotiation DNA:** Base + RSU Grants + Bonus (10-15%) | Large-Scale Global Delivery

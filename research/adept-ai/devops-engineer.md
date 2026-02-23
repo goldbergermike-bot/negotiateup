@@ -1,3 +1,50 @@
+---
+company: adept-ai
+company_display: Adept AI
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 215000
+    stock_low: 80000
+    stock_high: 235000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 274000
+    currency: USD
+  - region: Seattle
+    base_low: 155000
+    base_high: 209000
+    stock_low: 80000
+    stock_high: 235000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 268000
+    currency: USD
+  - region: Remote US
+    base_low: 144000
+    base_high: 194000
+    stock_low: 72000
+    stock_high: 212000
+    bonus_pct: null
+    total_comp_low: 162000
+    total_comp_high: 247000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Adept DevOps = Amazon SDE/DevOps II = Google L3-L4 SRE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | Agent Infrastructure"
+---
 ### DevOps Engineer | Adept AI Global Negotiation Guide
 
 **Negotiation DNA:** Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | Agent Infrastructure

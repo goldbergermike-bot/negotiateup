@@ -1,3 +1,51 @@
+---
+company: citadel-securities
+company_display: Citadel Securities
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 225000
+    base_high: 300000
+    stock_low: null
+    stock_high: null
+    bonus_low: 240000
+    bonus_high: 375000
+    total_comp_low: 465000
+    total_comp_high: 675000
+    currency: USD
+  - region: New York
+    base_low: 235000
+    base_high: 315000
+    stock_low: null
+    stock_high: null
+    bonus_low: 250000
+    bonus_high: 390000
+    total_comp_low: 485000
+    total_comp_high: 705000
+    currency: USD
+  - region: London
+    base_low: 180000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_low: 190000
+    bonus_high: 300000
+    total_comp_low: 370000
+    total_comp_high: 540000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Ultra-Low-Latency` `25% US Equity Volume` `Private Firm Premium` `Senior IC Track`"
+---
 ### Senior Software Engineer | Citadel Securities Global Negotiation Guide
 
 **Negotiation DNA:** `$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Ultra-Low-Latency` `25% US Equity Volume` `Private Firm Premium` `Senior IC Track`

@@ -1,3 +1,51 @@
+---
+company: jpmorgan-chase
+company_display: JPMorgan Chase
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 125000
+    base_high: 165000
+    stock_low: 40000
+    stock_high: 60000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 185000
+    total_comp_high: 265000
+    currency: USD
+  - region: London
+    base_low: 103000
+    base_high: 135000
+    stock_low: 33000
+    stock_high: 49000
+    bonus_low: 16000
+    bonus_high: 33000
+    total_comp_low: 152000
+    total_comp_high: 217000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 2600000
+    base_high: 3440000
+    stock_low: 830000
+    stock_high: 1250000
+    bonus_low: 420000
+    bonus_high: 830000
+    total_comp_low: 3850000
+    total_comp_high: 5520000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Full-Stack Development` `Platform Engineering` `Distributed Systems`"
+---
 ### Software Engineer | JPMorgan Chase Global Negotiation Guide
 
 **Negotiation DNA:** `Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Full-Stack Development` `Platform Engineering` `Distributed Systems`

@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 158000
+    base_high: 218000
+    stock_low: 68000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 310000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 138000
+    base_high: 195000
+    stock_low: 52000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 268000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 48000
+    base_high: 78000
+    stock_low: 18000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 60000
+    total_comp_high: 102000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 75000
+    base_high: 115000
+    stock_low: 30000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 98000
+    total_comp_high: 158000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2400000
+    base_high: 4500000
+    stock_low: 1000000
+    stock_high: 3200000
+    bonus_pct: 10
+    total_comp_low: 3000000
+    total_comp_high: 6000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath IC3/IC4 (Security) ~ Microsoft 63/64 Security | CrowdStrike Senior/Staff | Palo Alto Senior/Staff | Automation Anywhere Senior/Staff Security"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Automation platform security & bot credential protection specialist | Enterprise RPA security architecture | **SECURITY PREMIUM**"
+---
 ### Security Engineer | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** Automation platform security & bot credential protection specialist | Enterprise RPA security architecture | **SECURITY PREMIUM**

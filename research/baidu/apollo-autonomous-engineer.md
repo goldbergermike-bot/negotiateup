@@ -1,3 +1,68 @@
+---
+company: baidu
+company_display: Baidu
+role: apollo-autonomous-engineer
+role_display: Apollo Autonomous Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 170000
+    base_high: 235000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 365000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 165000
+    base_high: 230000
+    stock_low: 65000
+    stock_high: 190000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 350000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 500000
+    base_high: 900000
+    stock_low: 200000
+    stock_high: 600000
+    bonus_pct: 15
+    total_comp_low: 750000
+    total_comp_high: 1500000
+    currency: CNY
+  - region: Shanghai
+    base_low: 480000
+    base_high: 870000
+    stock_low: 190000
+    stock_high: 570000
+    bonus_pct: 15
+    total_comp_low: 720000
+    total_comp_high: 1450000
+    currency: CNY
+  - region: Singapore
+    base_low: 120000
+    base_high: 185000
+    stock_low: 50000
+    stock_high: 135000
+    bonus_pct: 15
+    total_comp_low: 160000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apollo Autonomous Engineer at Baidu (T5-T7) = L4-L6 at Waymo, equivalent Aurora/Cruise senior roles, L5-L6 at Google"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$40B market cap with Apollo as the world's most deployed autonomous driving platform + 5M+ cumulative autonomous rides delivered + Competitive US R&D comp for AV talent | Baidu Apollo engineers build the autonomous driving technology leading China's robotaxi market | **AUTONOMOUS VEHICLE PREMIUM**"
+---
 ### Apollo Autonomous Engineer | Baidu Global Negotiation Guide
 
 **Negotiation DNA:** $40B market cap with Apollo as the world's most deployed autonomous driving platform + 5M+ cumulative autonomous rides delivered + Competitive US R&D comp for AV talent | Baidu Apollo engineers build the autonomous driving technology leading China's robotaxi market | **AUTONOMOUS VEHICLE PREMIUM**

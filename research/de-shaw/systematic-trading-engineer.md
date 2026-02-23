@@ -1,3 +1,33 @@
+---
+company: de-shaw
+company_display: D.E. Shaw
+role: systematic-trading-engineer
+role_display: Systematic Trading Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 200000
+    base_high: 300000
+    stock_low: null
+    stock_high: null
+    bonus_low: 200000
+    bonus_high: 750000
+    total_comp_low: 400000
+    total_comp_high: 1050000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Systematic Trading Engineer at D.E. Shaw = L5-L8 at Google, E5-E8 at Meta, SDE III-Distinguished at Amazon, no equivalent at traditional banks"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp -- among highest in finance + Bonus 100-250%+ | D.E. Shaw is among the highest-paying employers in the world | **ELITE SYSTEMATIC TRADING PREMIUM**"
+---
 ### Systematic Trading Engineer | D.E. Shaw Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp -- among highest in finance + Bonus 100-250%+ | D.E. Shaw is among the highest-paying employers in the world | **ELITE SYSTEMATIC TRADING PREMIUM**

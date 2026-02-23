@@ -1,3 +1,50 @@
+---
+company: warner-bros-discovery
+company_display: Warner Bros. Discovery
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Los Angeles
+    base_low: 175000
+    base_high: 235000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 12
+    total_comp_low: 235000
+    total_comp_high: 370000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 165000
+    base_high: 225000
+    stock_low: 60000
+    stock_high: 185000
+    bonus_pct: 12
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: USD
+  - region: London (UK)
+    base_low: 130000
+    base_high: 175000
+    stock_low: 48000
+    stock_high: 145000
+    bonus_pct: 12
+    total_comp_low: 175000
+    total_comp_high: 275000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: WBD Staff SWE (L6) = Google L6 = Meta E6 = Amazon Principal SDE = Netflix Staff SWE = Comcast T6 = Disney IC5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$25B Media Company | Technical Strategy Owner | Platform Architecture Authority"
+---
 ### Staff Software Engineer | Warner Bros Discovery Global Negotiation Guide
 
 **Negotiation DNA:** $25B Media Company | Technical Strategy Owner | Platform Architecture Authority

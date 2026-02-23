@@ -1,3 +1,49 @@
+---
+company: qualcomm
+company_display: Qualcomm
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego
+    base_low: 210000
+    base_high: 270000
+    stock_low: 85000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 322000
+    total_comp_high: 448000
+    currency: USD
+  - region: Santa Clara
+    base_low: 225000
+    base_high: 292000
+    stock_low: 95000
+    stock_high: 155000
+    bonus_pct: 15
+    total_comp_low: 350000
+    total_comp_high: 488000
+    currency: USD
+  - region: Remote US
+    base_low: 190000
+    base_high: 245000
+    stock_low: 78000
+    stock_high: 125000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 405000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Qualcomm E7–E8 = Google L6 = Meta E6 = Apple ICT5 = Microsoft Principal SDE 64–65 = Amazon Principal SDE"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +15% AI/Agentic Premium"
+---
 ### Staff Software Engineer | Qualcomm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +15% AI/Agentic Premium

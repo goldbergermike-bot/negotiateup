@@ -1,3 +1,52 @@
+---
+company: interactive-brokers
+company_display: Interactive Brokers
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Greenwich, CT (HQ)"
+    base_low: 126000
+    base_high: 175000
+    stock_low: 30000
+    stock_high: 50000
+    bonus_low: 22000
+    bonus_high: 33000
+    total_comp_low: 178000
+    total_comp_high: 258000
+    currency: USD
+  - region: New York
+    base_low: 132000
+    base_high: 184000
+    stock_low: 32000
+    stock_high: 53000
+    bonus_low: 23000
+    bonus_high: 35000
+    total_comp_low: 187000
+    total_comp_high: 271000
+    currency: USD
+  - region: London
+    base_low: 93000
+    base_high: 130000
+    stock_low: 22000
+    stock_high: 37000
+    bonus_low: 16000
+    bonus_high: 24000
+    total_comp_low: 131000
+    total_comp_high: 191000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "`ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Infrastructure Automation` `Zero-Downtime Trading Systems` `Global Deployment Pipeline`"
+---
 ### DevOps Engineer | Interactive Brokers Global Negotiation Guide
 
 **Negotiation DNA:** `ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Infrastructure Automation` `Zero-Downtime Trading Systems` `Global Deployment Pipeline`

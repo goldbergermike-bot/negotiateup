@@ -1,3 +1,48 @@
+---
+company: palantir
+company_display: Palantir
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 162000
+    base_high: 200000
+    stock_low: 310000
+    stock_high: 510000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 328000
+    currency: USD
+  - region: New York City
+    base_low: 168000
+    base_high: 205000
+    stock_low: 318000
+    stock_high: 520000
+    bonus_pct: null
+    total_comp_low: 248000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 112000
+    stock_low: 155000
+    stock_high: 258000
+    bonus_pct: null
+    total_comp_low: 124000
+    total_comp_high: 177000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Palantir Senior ML Eng = Google L4 ML = Meta E4 ML — but with enterprise AI deployment and classified environment experience
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | **+25–40% AGENTIC AI PREMIUM** | 60+ Hour Culture"
+---
 ### ML/AI Engineer | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | **+25–40% AGENTIC AI PREMIUM** | 60+ Hour Culture

@@ -1,3 +1,67 @@
+---
+company: microsoft
+company_display: Microsoft
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: TPM I-II
+    base_low: 115000
+    base_high: 158000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 25000
+    total_comp_low: 140000
+    total_comp_high: 218000
+    currency: USD
+  - region: Senior TPM
+    base_low: 150000
+    base_high: 215000
+    stock_low: 110000
+    stock_high: 290000
+    bonus_pct: 15
+    signing_bonus_low: 20000
+    signing_bonus_high: 50000
+    total_comp_low: 220000
+    total_comp_high: 355000
+    currency: USD
+  - region: Principal TPM
+    base_low: 190000
+    base_high: 265000
+    stock_low: 230000
+    stock_high: 520000
+    bonus_pct: 20
+    signing_bonus_low: 40000
+    signing_bonus_high: 75000
+    total_comp_low: 325000
+    total_comp_high: 510000
+    currency: USD
+  - region: Partner / Director TPM
+    base_low: 255000
+    base_high: 345000
+    stock_low: 450000
+    stock_high: 1000000
+    bonus_pct: 25
+    signing_bonus_low: 60000
+    signing_bonus_high: 120000
+    total_comp_low: 490000
+    total_comp_high: 790000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: null
+---
 # Technical Program Manager - Microsoft Negotiation Guide
 
 ## Role Overview

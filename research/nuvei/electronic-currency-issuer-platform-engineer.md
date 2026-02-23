@@ -1,3 +1,52 @@
+---
+company: nuvei
+company_display: Nuvei
+role: electronic-currency-issuer-platform-engineer
+role_display: Electronic Currency Issuer Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montreal
+    base_low: 155000
+    base_high: 220000
+    stock_low: 55000
+    stock_high: 120000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 230000
+    total_comp_high: 380000
+    currency: CAD
+  - region: New York
+    base_low: 195000
+    base_high: 275000
+    stock_low: 65000
+    stock_high: 145000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 285000
+    total_comp_high: 470000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 155000
+    stock_low: 32000
+    stock_high: 72000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 152000
+    total_comp_high: 255000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Nuvei | Google | Meta | Stripe | Adyen | Global Payments |"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `e-Money License` `Currency Issuance` `Regulatory Platform` `Pay2All` `Crypto` `High-Risk Verticals` `Montreal HQ`"
+---
 ### Electronic Currency Issuer Platform Engineer | Nuvei Global Negotiation Guide
 
 ## SIGNATURE ROLE

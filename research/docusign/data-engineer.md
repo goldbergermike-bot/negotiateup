@@ -1,3 +1,68 @@
+---
+company: docusign
+company_display: Docusign
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 150000
+    base_high: 205000
+    stock_low: 70000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 290000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 130000
+    base_high: 180000
+    stock_low: 50000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 245000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 72000
+    base_high: 108000
+    stock_low: 30000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 95000
+    total_comp_high: 150000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2200000
+    base_high: 4000000
+    stock_low: 1000000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 3000000
+    total_comp_high: 5500000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 120000
+    base_high: 170000
+    stock_low: 40000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 225000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign IC2/IC3 ~ Snowflake IC3/IC4 | Databricks Senior/Staff | Salesforce MTS/LMTS | Google L4/L5"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "Agreement data pipeline architect | Contract data lake & analytics infrastructure | **DATA PLATFORM PREMIUM**"
+---
 ### Data Engineer | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** Agreement data pipeline architect | Contract data lake & analytics infrastructure | **DATA PLATFORM PREMIUM**

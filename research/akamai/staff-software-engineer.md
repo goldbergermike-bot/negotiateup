@@ -1,3 +1,50 @@
+---
+company: akamai
+company_display: Akamai
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge (MA)
+    base_low: 205000
+    base_high: 250000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 12
+    total_comp_low: 310000
+    total_comp_high: 418000
+    currency: USD
+  - region: San Francisco
+    base_low: 220000
+    base_high: 265000
+    stock_low: 165000
+    stock_high: 300000
+    bonus_pct: 12
+    total_comp_low: 335000
+    total_comp_high: 445000
+    currency: USD
+  - region: Remote US
+    base_low: 195000
+    base_high: 235000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_pct: 12
+    total_comp_low: 298000
+    total_comp_high: 400000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Akamai Staff SWE = Google L6 / Meta E6 / Amazon Principal SDE"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Staff-Level Strategic Premium"
+---
 ### Staff Software Engineer | Akamai Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Staff-Level Strategic Premium

@@ -1,3 +1,51 @@
+---
+company: starling-bank
+company_display: Starling Bank
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 52000
+    base_high: 65000
+    stock_low: 7000
+    stock_high: 14000
+    bonus_low: 5000
+    bonus_high: 9000
+    total_comp_low: 64000
+    total_comp_high: 88000
+    currency: GBP
+  - region: Cardiff
+    base_low: 44000
+    base_high: 55000
+    stock_low: 6000
+    stock_high: 12000
+    bonus_low: 4000
+    bonus_high: 8000
+    total_comp_low: 54000
+    total_comp_high: 75000
+    currency: GBP
+  - region: Southampton
+    base_low: 46000
+    base_high: 57000
+    stock_low: 6000
+    stock_high: 12000
+    bonus_low: 4000
+    bonus_high: 8000
+    total_comp_low: 56000
+    total_comp_high: 77000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Design Systems` `B2B UX` `Enterprise Platform`"
+---
 ### Product Designer | Starling Bank Global Negotiation Guide
 
 **Negotiation DNA:** `Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Design Systems` `B2B UX` `Enterprise Platform`

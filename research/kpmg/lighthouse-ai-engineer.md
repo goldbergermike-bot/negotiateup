@@ -1,3 +1,48 @@
+---
+company: kpmg
+company_display: KPMG
+role: lighthouse-ai-engineer
+role_display: Lighthouse AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 125000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 245000
+    currency: USD
+  - region: Chicago
+    base_low: 120000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 228000
+    currency: USD
+  - region: Bangalore
+    base_low: 1600000
+    base_high: 3200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 1800000
+    total_comp_high: 3800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: KPMG Senior Associate / Manager (Tech) = Google L3-L4 = Deloitte Consultant/Manager = PwC Senior Associate/Manager
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (10-20%) + Limited Equity at Senior Levels | **SIGNATURE ROLE** | **+10-20% DATA & AI PREMIUM**"
+---
 ### Lighthouse AI Engineer | KPMG Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (10-20%) + Limited Equity at Senior Levels | **SIGNATURE ROLE** | **+10-20% DATA & AI PREMIUM**

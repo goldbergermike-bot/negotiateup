@@ -1,3 +1,50 @@
+---
+company: coreweave
+company_display: Coreweave
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Roseland NJ
+    base_low: 182000
+    base_high: 228000
+    stock_low: 180000
+    stock_high: 318000
+    bonus_pct: null
+    total_comp_low: 227000
+    total_comp_high: 308000
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 220000
+    stock_low: 180000
+    stock_high: 318000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 300000
+    currency: USD
+  - region: London
+    base_low: 137000
+    base_high: 172000
+    stock_low: 136000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 171000
+    total_comp_high: 232000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: CoreWeave Data Scientist = Google L4 Data Scientist = AWS Data Scientist II = Meta E4 Data Scientist = Apple DS ICT3
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium"
+---
 ### Data Scientist | CoreWeave Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium

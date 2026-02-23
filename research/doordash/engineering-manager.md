@@ -1,3 +1,48 @@
+---
+company: doordash
+company_display: DoorDash
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 225000
+    base_high: 282000
+    stock_low: 285000
+    stock_high: 498000
+    bonus_pct: 15
+    total_comp_low: 296000
+    total_comp_high: 407000
+    currency: USD
+  - region: New York City
+    base_low: 225000
+    base_high: 282000
+    stock_low: 285000
+    stock_high: 498000
+    bonus_pct: 15
+    total_comp_low: 296000
+    total_comp_high: 407000
+    currency: USD
+  - region: Sydney
+    base_low: 185000
+    base_high: 232000
+    stock_low: 186000
+    stock_high: 324000
+    bonus_pct: 15
+    total_comp_low: 242000
+    total_comp_high: 332000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: DoorDash EM = Google L5 EM = Uber EM = Meta E5 EM = Instacart EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion"
+---
 ### Engineering Manager | DoorDash Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion

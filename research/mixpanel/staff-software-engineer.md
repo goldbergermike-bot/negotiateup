@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 255000
+    stock_low: 180000
+    stock_high: 340000
+    bonus_pct: 12
+    total_comp_low: 310000
+    total_comp_high: 420000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 248000
+    stock_low: 170000
+    stock_high: 325000
+    bonus_pct: 12
+    total_comp_low: 300000
+    total_comp_high: 405000
+    currency: USD
+  - region: London
+    base_low: 150000
+    base_high: 185000
+    stock_low: 125000
+    stock_high: 238000
+    bonus_pct: 12
+    total_comp_low: 220000
+    total_comp_high: 305000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel Staff = Google L6 = Meta E6 = Amplitude Principal = Snowflake Staff
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Premium Equity + Leadership Bonus | AI Analytics Platform Architecture 2026"
+---
 ### Staff Software Engineer | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Premium Equity + Leadership Bonus | AI Analytics Platform Architecture 2026

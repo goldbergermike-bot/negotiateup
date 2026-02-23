@@ -1,3 +1,48 @@
+---
+company: fivetran
+company_display: Fivetran
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland / Remote-US
+    base_low: 198000
+    base_high: 242000
+    stock_low: 155000
+    stock_high: 288000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 388000
+    currency: USD
+  - region: Denver
+    base_low: 192000
+    base_high: 235000
+    stock_low: 148000
+    stock_high: 275000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 375000
+    currency: USD
+  - region: London
+    base_low: 142000
+    base_high: 175000
+    stock_low: 108000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 198000
+    total_comp_high: 272000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Fivetran EM = Google L5-L6 EM = Snowflake EM = Databricks EM = Informatica Senior EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Premium Equity + Leadership Bonus | AI Pipeline Platform Team Leadership 2026"
+---
 ### Engineering Manager | Fivetran Global Negotiation Guide
 
 **Negotiation DNA:** Premium Equity + Leadership Bonus | AI Pipeline Platform Team Leadership 2026

@@ -1,3 +1,48 @@
+---
+company: linode
+company_display: Linode
+role: akamai-cloud-engineer
+role_display: Akamai Cloud Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 148000
+    total_comp_high: 333000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 133000
+    total_comp_high: 313000
+    currency: USD
+  - region: Cambridge MA
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 153000
+    total_comp_high: 343000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Akamai Cloud Engineers at Linode build the distributed cloud computing platform that combines Linode's cloud infrastructure with Akamai's massive global edge network — creating a uniquely distributed cloud alternative to centralized hyperscalers like AWS, Azure, and GCP."
+---
 ### Akamai Cloud Engineer — Linode (Akamai Cloud) Salary Negotiation Guide
 
 **Negotiation DNA**: Akamai Cloud Engineers at Linode build the distributed cloud computing platform that combines Linode's cloud infrastructure with Akamai's massive global edge network — creating a uniquely distributed cloud alternative to centralized hyperscalers like AWS, Azure, and GCP.

@@ -1,3 +1,48 @@
+---
+company: arm
+company_display: Arm
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 115000
+    base_high: 150000
+    stock_low: 135000
+    stock_high: 215000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 228000
+    currency: USD
+  - region: Austin
+    base_low: 103000
+    base_high: 135000
+    stock_low: 120000
+    stock_high: 192000
+    bonus_pct: 15
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: USD
+  - region: Cambridge UK
+    base_low: 38000
+    base_high: 52000
+    stock_low: 85000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 55000
+    total_comp_high: 78000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ARM Product Designer = NVIDIA Product Designer = Intel UX Designer (Grade 6-7) = Google L4 UX Designer
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages"
+---
 ### Product Designer | ARM Global Negotiation Guide
 
 **Negotiation DNA:** Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages

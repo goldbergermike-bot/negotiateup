@@ -1,3 +1,48 @@
+---
+company: uber
+company_display: Uber
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 262000
+    base_high: 328000
+    stock_low: 398000
+    stock_high: 688000
+    bonus_pct: 15
+    total_comp_low: 361000
+    total_comp_high: 498000
+    currency: USD
+  - region: New York
+    base_low: 272000
+    base_high: 340000
+    stock_low: 398000
+    stock_high: 688000
+    bonus_pct: 15
+    total_comp_low: 372000
+    total_comp_high: 510000
+    currency: USD
+  - region: Amsterdam
+    base_low: 112000
+    base_high: 145000
+    stock_low: 172000
+    stock_high: 298000
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 218000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Uber Staff SWE (L5b-L6) = Google L5 SWE = Lyft Staff = DoorDash Staff = Meta E5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)"
+---
 ### Staff Software Engineer | Uber Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)

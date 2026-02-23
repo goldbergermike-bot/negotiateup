@@ -1,3 +1,49 @@
+---
+company: tempus
+company_display: Tempus
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago IL
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 270000
+    currency: USD
+  - region: Bay Area CA
+    base_low: 150000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 285000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tempus SWE = Google L3-L4 = Flatiron Health SWE = Foundation Medicine SWE
+data_sources:
+  - Levels.fyi
+  - Hired
+negotiation_dna_summary: AI-Driven Precision Medicine / Growth-Stage / Equity Upside / Chicago HQ
+---
 ### Software Engineer | Tempus Global Negotiation Guide
 
 **Negotiation DNA:** AI-Driven Precision Medicine / Growth-Stage / Equity Upside / Chicago HQ

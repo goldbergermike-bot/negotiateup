@@ -1,3 +1,50 @@
+---
+company: atlassian
+company_display: Atlassian
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 190000
+    base_high: 268000
+    stock_low: 156000
+    stock_high: 312000
+    bonus_pct: null
+    total_comp_low: 245000
+    total_comp_high: 385000
+    currency: AUD
+  - region: San Francisco
+    base_low: 158000
+    base_high: 202000
+    stock_low: 142000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 275000
+    currency: USD
+  - region: Amsterdam
+    base_low: 92000
+    base_high: 132000
+    stock_low: 88000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 128000
+    total_comp_high: 198000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P3 Senior DevOps = Google L4 SRE = Meta E4 Production Eng = Microsoft 62 SRE = Datadog Senior Infra
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage"
+---
 ### DevOps Engineer | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage

@@ -1,3 +1,48 @@
+---
+company: booking
+company_display: Booking
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 78000
+    base_high: 105000
+    stock_low: 55000
+    stock_high: 95000
+    bonus_pct: 15
+    total_comp_low: 122000
+    total_comp_high: 178000
+    currency: EUR
+  - region: New York
+    base_low: 148000
+    base_high: 198000
+    stock_low: 80000
+    stock_high: 125000
+    bonus_pct: 15
+    total_comp_low: 212000
+    total_comp_high: 292000
+    currency: USD
+  - region: London
+    base_low: 72000
+    base_high: 95000
+    stock_low: 50000
+    stock_high: 85000
+    bonus_pct: 15
+    total_comp_low: 112000
+    total_comp_high: 165000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Booking.com DevOps Engineer = Google Site Reliability Engineer L4/L5 = Expedia DevOps Engineer = Airbnb Infrastructure Engineer = Meta Production Engineer = Amazon Systems Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions"
+---
 ### DevOps Engineer | Booking.com Global Negotiation Guide
 
 **Negotiation DNA:** Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions

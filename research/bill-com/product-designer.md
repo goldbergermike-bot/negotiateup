@@ -1,3 +1,53 @@
+---
+company: bill-com
+company_display: Bill.com
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 145000
+    base_high: 195000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 237000
+    total_comp_high: 380000
+    currency: USD
+  - region: Houston TX
+    base_low: 125000
+    base_high: 170000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 195000
+    total_comp_high: 320000
+    currency: USD
+  - region: Salt Lake City UT
+    base_low: 118000
+    base_high: 162000
+    stock_low: 55000
+    stock_high: 120000
+    bonus_low: 9000
+    bonus_high: 18000
+    total_comp_low: 182000
+    total_comp_high: 300000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| BILL | Google | Meta | Stripe | PayPal | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: BILL` `Agentic AP` `Product Designer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `UX/UI` `Financial Workflow Design`"
+---
 ### Product Designer | Bill.com Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: BILL` `Agentic AP` `Product Designer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `UX/UI` `Financial Workflow Design`

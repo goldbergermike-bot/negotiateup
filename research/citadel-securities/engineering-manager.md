@@ -1,3 +1,51 @@
+---
+company: citadel-securities
+company_display: Citadel Securities
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 250000
+    base_high: 350000
+    stock_low: null
+    stock_high: null
+    bonus_low: 325000
+    bonus_high: 475000
+    total_comp_low: 575000
+    total_comp_high: 825000
+    currency: USD
+  - region: New York
+    base_low: 265000
+    base_high: 365000
+    stock_low: null
+    stock_high: null
+    bonus_low: 340000
+    bonus_high: 495000
+    total_comp_low: 605000
+    total_comp_high: 860000
+    currency: USD
+  - region: London
+    base_low: 200000
+    base_high: 280000
+    stock_low: null
+    stock_high: null
+    bonus_low: 260000
+    bonus_high: 380000
+    total_comp_low: 460000
+    total_comp_high: 660000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `People Leadership` `Ultra-Low-Latency` `25% US Equity Volume` `Private Firm Premium`"
+---
 ### Engineering Manager | Citadel Securities Global Negotiation Guide
 
 **Negotiation DNA:** `$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `People Leadership` `Ultra-Low-Latency` `25% US Equity Volume` `Private Firm Premium`

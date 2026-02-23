@@ -1,3 +1,38 @@
+---
+company: snyk
+company_display: Snyk
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 340000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 165000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "As a Data Engineer at Snyk, you build the data infrastructure that powers the Security Fabric intelligence layer and enables the Secure at Inception framework with real-time vulnerability data pipelines — your pipelines are the nervous system of the platform."
+---
 ### Data Engineer — Snyk Salary Negotiation Guide
 
 **Negotiation DNA**: As a Data Engineer at Snyk, you build the data infrastructure that powers the Security Fabric intelligence layer and enables the Secure at Inception framework with real-time vulnerability data pipelines — your pipelines are the nervous system of the platform.

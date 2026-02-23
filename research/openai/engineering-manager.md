@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 265000
+    base_high: 332000
+    stock_low: 500000
+    stock_high: 875000
+    bonus_pct: null
+    total_comp_low: 390000
+    total_comp_high: 551000
+    currency: USD
+  - region: Seattle
+    base_low: 255000
+    base_high: 322000
+    stock_low: 500000
+    stock_high: 875000
+    bonus_pct: null
+    total_comp_low: 380000
+    total_comp_high: 541000
+    currency: USD
+  - region: London
+    base_low: 185000
+    base_high: 232000
+    stock_low: 365000
+    stock_high: 638000
+    bonus_pct: null
+    total_comp_low: 276000
+    total_comp_high: 392000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI EM = Google L5-L6 EM = Meta M1-M2 = Anthropic EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)"
+---
 ### Engineering Manager | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)

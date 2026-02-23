@@ -1,3 +1,53 @@
+---
+company: tastytrade
+company_display: Tastytrade
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 158000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_low: 27000
+    bonus_high: 41000
+    total_comp_low: 215000
+    total_comp_high: 308000
+    currency: USD
+  - region: New York
+    base_low: 174000
+    base_high: 237000
+    stock_low: null
+    stock_high: null
+    bonus_low: 30000
+    bonus_high: 45000
+    total_comp_low: 237000
+    total_comp_high: 339000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 164000
+    stock_low: 23000
+    stock_high: 40000
+    bonus_low: 21000
+    bonus_high: 31000
+    total_comp_low: 164000
+    total_comp_high: 235000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Hired
+negotiation_dna_summary: "`Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Vol Surface Engineering` `Multi-Leg Strategy Execution` `Low-Latency Systems`"
+---
 ### Senior Software Engineer | Tastytrade Global Negotiation Guide
 
 **Negotiation DNA:** `Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Vol Surface Engineering` `Multi-Leg Strategy Execution` `Low-Latency Systems`

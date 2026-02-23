@@ -1,3 +1,53 @@
+---
+company: airbase
+company_display: Airbase
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 215000
+    stock_low: 55000
+    stock_high: 115000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 235000
+    total_comp_high: 360000
+    currency: USD
+  - region: Bangalore
+    base_low: 2600000
+    base_high: 4400000
+    stock_low: 1400000
+    stock_high: 2800000
+    bonus_low: 300000
+    bonus_high: 700000
+    total_comp_low: 4300000
+    total_comp_high: 7900000
+    currency: INR
+  - region: New York
+    base_low: 170000
+    base_high: 220000
+    stock_low: 55000
+    stock_high: 115000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 240000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Airbase | Google | Meta | Stripe | Bill.com | Coupa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `AppSec` `Fintech Compliance` `SOC 2`"
+---
 ### Security Engineer | Airbase Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `AppSec` `Fintech Compliance` `SOC 2`

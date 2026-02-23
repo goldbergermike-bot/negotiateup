@@ -1,3 +1,49 @@
+---
+company: marvell
+company_display: Marvell
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 165000
+    base_high: 210000
+    stock_low: 130000
+    stock_high: 220000
+    bonus_pct: 12
+    total_comp_low: 225000
+    total_comp_high: 312000
+    currency: USD
+  - region: Boise
+    base_low: 148000
+    base_high: 189000
+    stock_low: 110000
+    stock_high: 190000
+    bonus_pct: 12
+    total_comp_low: 198000
+    total_comp_high: 275000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 200000
+    stock_low: 120000
+    stock_high: 205000
+    bonus_pct: 12
+    total_comp_low: 210000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Marvell T5 = Google L5 = Meta E5 = Apple ICT4 = Broadcom Grade 10 = AMD Senior MTS
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | +10% Senior Premium"
+---
 ### Senior Software Engineer | Marvell Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | +10% Senior Premium

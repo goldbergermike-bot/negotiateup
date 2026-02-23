@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 148000
+    base_high: 208000
+    stock_low: 52000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 275000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 130000
+    base_high: 185000
+    stock_low: 40000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 240000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 65000
+    base_high: 102000
+    stock_low: 20000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 80000
+    total_comp_high: 132000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 2200000
+    base_high: 4000000
+    stock_low: 1000000
+    stock_high: 2600000
+    bonus_pct: 10
+    total_comp_low: 2800000
+    total_comp_high: 5200000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 112000
+    base_high: 165000
+    stock_low: 35000
+    stock_high: 82000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora TPM (IC3/IC4) ~ Chargebee Senior/Lead TPM | Recurly Senior/Lead TPM | Stripe TPM | Salesforce Senior TPM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Subscription platform delivery orchestrator | Cross-functional billing program leader | **PROGRAM LEADERSHIP PREMIUM**"
+---
 ### Technical Program Manager | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Subscription platform delivery orchestrator | Cross-functional billing program leader | **PROGRAM LEADERSHIP PREMIUM**

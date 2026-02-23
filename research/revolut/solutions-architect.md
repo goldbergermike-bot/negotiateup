@@ -1,3 +1,48 @@
+---
+company: revolut
+company_display: Revolut
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":gb: London (GBP)"
+    base_low: 90000
+    base_high: 135000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 315000
+    currency: GBP
+  - region: ":lt: Vilnius (EUR)"
+    base_low: 65000
+    base_high: 100000
+    stock_low: 40000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 105000
+    total_comp_high: 220000
+    currency: EUR
+  - region: ":us: New York (USD)"
+    base_low: 160000
+    base_high: 230000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 510000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a solutions architecture compensation framework spanning London, Vilnius, and New York markets. Solutions Architects at Revolut design the technical blueprints that integrate Revolut's super-app ecosystem — payments, banking, crypto, trading, insurance — into a coherent, scalable platform capable of supporting the $9B revenue target and meeting the architectural standards required for a "
+---
 ### Solutions Architect — Revolut Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a solutions architecture compensation framework spanning London, Vilnius, and New York markets. Solutions Architects at Revolut design the technical blueprints that integrate Revolut's super-app ecosystem — payments, banking, crypto, trading, insurance — into a coherent, scalable platform capable of supporting the $9B revenue target and meeting the architectural standards required for a US IPO.

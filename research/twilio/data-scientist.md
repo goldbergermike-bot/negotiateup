@@ -1,3 +1,49 @@
+---
+company: twilio
+company_display: Twilio
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Francisco, CA (HQ)"
+    base_low: 155000
+    base_high: 210000
+    stock_low: 120000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 330000
+    currency: USD
+  - region: "Denver, CO"
+    base_low: 140000
+    base_high: 195000
+    stock_low: 100000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 295000
+    currency: USD
+  - region: "London, UK"
+    base_low: 100000
+    base_high: 140000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 230000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Twilio DS2 (Data Scientist) = Google L4 DS = Meta IC4 DS = Datadog DS2 = Salesforce DS2
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Customer intelligence modeling premium | CustomerAI predictive analytics powering 2026 growth"
+---
 ### Data Scientist | Twilio Global Negotiation Guide
 
 **Negotiation DNA:** Customer intelligence modeling premium | CustomerAI predictive analytics powering 2026 growth

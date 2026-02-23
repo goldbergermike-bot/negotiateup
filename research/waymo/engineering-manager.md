@@ -1,3 +1,39 @@
+---
+company: waymo
+company_display: Waymo
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View (HQ)
+    base_low: 210000
+    base_high: 275000
+    stock_low: 250000
+    stock_high: 600000
+    bonus_pct: 15
+    total_comp_low: 370000
+    total_comp_high: 580000
+    currency: USD
+  - region: San Francisco
+    base_low: 210000
+    base_high: 275000
+    stock_low: 250000
+    stock_high: 600000
+    bonus_pct: 15
+    total_comp_low: 370000
+    total_comp_high: 580000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Waymo Engineering Manager = Google EM L5-L6 = Meta M1-M2 = Apple EM2-EM3 = Amazon SDM II-III
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Google-Adjacent Comp | Alphabet RSUs (GOOGL) | Self-Driving Leader | Top-Tier Stability"
+---
 ### Engineering Manager | Waymo Global Negotiation Guide
 
 **Negotiation DNA:** Google-Adjacent Comp | Alphabet RSUs (GOOGL) | Self-Driving Leader | Top-Tier Stability

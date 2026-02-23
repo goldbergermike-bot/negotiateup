@@ -1,3 +1,53 @@
+---
+company: interactive-brokers
+company_display: Interactive Brokers
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Greenwich, CT (HQ)"
+    base_low: 185000
+    base_high: 265000
+    stock_low: 50000
+    stock_high: 78000
+    bonus_low: 33000
+    bonus_high: 49000
+    total_comp_low: 268000
+    total_comp_high: 392000
+    currency: USD
+  - region: New York
+    base_low: 194000
+    base_high: 278000
+    stock_low: 53000
+    stock_high: 82000
+    bonus_low: 35000
+    bonus_high: 51000
+    total_comp_low: 281000
+    total_comp_high: 412000
+    currency: USD
+  - region: London
+    base_low: 137000
+    base_high: 196000
+    stock_low: 37000
+    stock_high: 58000
+    bonus_low: 24000
+    bonus_high: 36000
+    total_comp_low: 198000
+    total_comp_high: 290000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Prediction Market Modeling` `Autonomous Trading Systems` `Real-Time ML Infrastructure`"
+---
 ### ML/AI Engineer | Interactive Brokers Global Negotiation Guide
 
 **Negotiation DNA:** `ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Prediction Market Modeling` `Autonomous Trading Systems` `Real-Time ML Infrastructure`

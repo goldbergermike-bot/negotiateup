@@ -1,3 +1,67 @@
+---
+company: sap
+company_display: Sap
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 65000
+    stock_high: 180000
+    bonus_pct: 12
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 135000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 90000
+    base_high: 135000
+    stock_low: 35000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 195000
+    currency: EUR
+  - region: UK (London)
+    base_low: 80000
+    base_high: 120000
+    stock_low: 30000
+    stock_high: 82000
+    bonus_pct: 10
+    total_comp_low: 105000
+    total_comp_high: 170000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 1500000
+    stock_high: 4000000
+    bonus_pct: 10
+    total_comp_low: 4000000
+    total_comp_high: 7500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP PM (T3/T4) ~ Google L5/L6 PM | Microsoft 63/64 PM | Amazon L6/L7 PMT | Salesforce Senior/Lead PM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Enterprise product strategy leader | Cloud ERP & platform product ownership | **PRODUCT LEADERSHIP PREMIUM**"
+---
 ### Product Manager | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise product strategy leader | Cloud ERP & platform product ownership | **PRODUCT LEADERSHIP PREMIUM**

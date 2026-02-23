@@ -1,3 +1,50 @@
+---
+company: atlassian
+company_display: Atlassian
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 195000
+    base_high: 268000
+    stock_low: 178000
+    stock_high: 330000
+    bonus_pct: null
+    total_comp_low: 274000
+    total_comp_high: 400000
+    currency: AUD
+  - region: San Francisco
+    base_low: 172000
+    base_high: 215000
+    stock_low: 150000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 305000
+    currency: USD
+  - region: Amsterdam
+    base_low: 105000
+    base_high: 145000
+    stock_low: 100000
+    stock_high: 185000
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 220000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P3 Senior = Google L4 = Meta E4 = Microsoft 62-63 = Datadog Senior
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage"
+---
 ### Senior Software Engineer | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage

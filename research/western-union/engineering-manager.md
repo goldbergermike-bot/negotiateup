@@ -1,3 +1,52 @@
+---
+company: western-union
+company_display: Western Union
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver CO
+    base_low: 170000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 120000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 265000
+    total_comp_high: 385000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 245000
+    stock_low: 85000
+    stock_high: 150000
+    bonus_low: 30000
+    bonus_high: 60000
+    total_comp_low: 305000
+    total_comp_high: 455000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 145000
+    stock_low: 45000
+    stock_high: 80000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 173000
+    total_comp_high: 260000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Western Union | Google | Meta | Stripe | JPMorgan | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: WU` `USDPT` `Engineering Manager` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `People Leadership`"
+---
 ### Engineering Manager | Western Union Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: WU` `USDPT` `Engineering Manager` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `People Leadership`

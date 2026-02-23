@@ -1,3 +1,30 @@
+---
+company: target
+company_display: Target
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 110000
+    base_high: 158000
+    stock_low: 25000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 128000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target Data Engineer = Google Data Engineer L3 = Amazon Data Engineer II = Walmart Data Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage"
+---
 ### Data Engineer | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage

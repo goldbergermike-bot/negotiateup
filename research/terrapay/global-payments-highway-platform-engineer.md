@@ -1,3 +1,56 @@
+---
+company: terrapay
+company_display: Terrapay
+role: global-payments-highway-platform-engineer
+role_display: Global Payments Highway Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam (EUR)
+    base_low: 120000
+    base_high: 160000
+    stock_low: 120000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 420000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 145000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 300000
+    total_comp_high: 520000
+    currency: SGD
+  - region: New York (USD)
+    base_low: 210000
+    base_high: 280000
+    stock_low: 180000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 390000
+    total_comp_high: 660000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - "TerraPay MilX Creator Payout Launch — Jan 28, 2026 — Platform Architecture"
+  - "TerraPay Global Payments Highway — 7.5B+ Accounts, 130+ Countries — Core Platform"
+  - TerraPay Botim Super-App Partnership — Consumer-Scale Platform Integration
+  - "TerraPay Three-Protocol Interoperability — Wallets, Banks, Mobile Money"
+  - "TerraPay Network Effect — Metcalfe's Law Applied to Payment Corridors"
+  - Stripe / Adyen / AWS / Visa Platform Engineer Compensation
+  - "TerraPay Private Valuation & SIGNATURE ROLE Options Data — Pre-IPO"
+  - Cross-Border Payments Platform Engineering Talent Market — Zero Supply
+  - MilX Creator Economy Payout Market — Global TAM Analysis
+  - Super-App Payments Integration — Botim Case Study
+negotiation_dna_summary: "Options-Heavy | Global Payments Highway Interoperability | 7.5B+ Accounts | 130+ Countries | +20-30% Interoperability Premium | **SIGNATURE ROLE**"
+---
 ### Global Payments Highway Platform Engineer — TerraPay Salary Negotiation Guide
 
 **Negotiation DNA:** Options-Heavy | Global Payments Highway Interoperability | 7.5B+ Accounts | 130+ Countries | +20-30% Interoperability Premium | **SIGNATURE ROLE**

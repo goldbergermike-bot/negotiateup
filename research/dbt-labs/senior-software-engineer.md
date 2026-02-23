@@ -1,3 +1,48 @@
+---
+company: dbt-labs
+company_display: dbt Labs
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / Remote-US
+    base_low: 182000
+    base_high: 220000
+    stock_low: 140000
+    stock_high: 252000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 330000
+    currency: USD
+  - region: San Francisco
+    base_low: 192000
+    base_high: 232000
+    stock_low: 152000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 350000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 165000
+    stock_low: 98000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 242000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: dbt Labs Senior SWE = Google L5 = Snowflake Senior = Databricks Senior = Meta E5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity + Bonus | Semantic Layer & AI Platform Architecture 2026"
+---
 ### Senior Software Engineer | dbt Labs Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity + Bonus | Semantic Layer & AI Platform Architecture 2026

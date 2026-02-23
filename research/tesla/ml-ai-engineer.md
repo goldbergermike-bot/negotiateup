@@ -1,3 +1,48 @@
+---
+company: tesla
+company_display: Tesla
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin (HQ)
+    base_low: 160000
+    base_high: 240000
+    stock_low: 180000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 430000
+    currency: USD
+  - region: Palo Alto
+    base_low: 170000
+    base_high: 250000
+    stock_low: 195000
+    stock_high: 470000
+    bonus_pct: null
+    total_comp_low: 275000
+    total_comp_high: 450000
+    currency: USD
+  - region: Fremont
+    base_low: 165000
+    base_high: 245000
+    stock_low: 188000
+    stock_high: 460000
+    bonus_pct: null
+    total_comp_low: 268000
+    total_comp_high: 440000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tesla ML/AI Engineer (Senior) = Google L4 ML = Meta E4 ML = OpenAI Senior = Waymo Senior ML Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy / No Cash Bonus | Mission-Driven Culture | **+15-25% AI PREMIUM** | Stock Volatility Risk"
+---
 ### ML/AI Engineer | Tesla Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy / No Cash Bonus | Mission-Driven Culture | **+15-25% AI PREMIUM** | Stock Volatility Risk

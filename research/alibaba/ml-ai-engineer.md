@@ -1,3 +1,68 @@
+---
+company: alibaba
+company_display: Alibaba
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 170000
+    base_high: 240000
+    stock_low: 95000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 400000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 165000
+    base_high: 235000
+    stock_low: 90000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 390000
+    currency: USD
+  - region: Hangzhou (HQ)
+    base_low: 500000
+    base_high: 950000
+    stock_low: 230000
+    stock_high: 650000
+    bonus_pct: 15
+    total_comp_low: 780000
+    total_comp_high: 1600000
+    currency: CNY
+  - region: Beijing
+    base_low: 480000
+    base_high: 920000
+    stock_low: 220000
+    stock_high: 620000
+    bonus_pct: 15
+    total_comp_low: 750000
+    total_comp_high: 1550000
+    currency: CNY
+  - region: Singapore
+    base_low: 130000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Alibaba (P6-P8) = L4-L5 at Google Brain, IC4-IC5 at Meta FAIR, Research Engineer at OpenAI/Anthropic"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B market cap investing heavily in Tongyi Qianwen (LLM) + DAMO Academy producing top-tier AI research + Recommendation/search AI driving $1T+ GMV + US AI comp competitive with frontier labs | Alibaba AI engineers deploy models at unprecedented e-commerce scale | **AI DEPLOYMENT SCALE PREMIUM**"
+---
 ### ML/AI Engineer | Alibaba Global Negotiation Guide
 
 **Negotiation DNA:** $200B market cap investing heavily in Tongyi Qianwen (LLM) + DAMO Academy producing top-tier AI research + Recommendation/search AI driving $1T+ GMV + US AI comp competitive with frontier labs | Alibaba AI engineers deploy models at unprecedented e-commerce scale | **AI DEPLOYMENT SCALE PREMIUM**

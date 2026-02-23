@@ -1,3 +1,68 @@
+---
+company: baidu
+company_display: Baidu
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 165000
+    base_high: 230000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 360000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 160000
+    base_high: 225000
+    stock_low: 65000
+    stock_high: 190000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 500000
+    base_high: 880000
+    stock_low: 200000
+    stock_high: 550000
+    bonus_pct: 15
+    total_comp_low: 750000
+    total_comp_high: 1450000
+    currency: CNY
+  - region: Shanghai
+    base_low: 480000
+    base_high: 850000
+    stock_low: 190000
+    stock_high: 520000
+    bonus_pct: 15
+    total_comp_low: 720000
+    total_comp_high: 1400000
+    currency: CNY
+  - region: Singapore
+    base_low: 120000
+    base_high: 185000
+    stock_low: 50000
+    stock_high: 135000
+    bonus_pct: 15
+    total_comp_low: 160000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Senior SWE at Baidu (T6-T7) = L5 at Google, IC5 at Meta, SDE III at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$40B market cap with senior engineers leading search, ERNIE LLM, and Apollo AV development + US senior comp competitive with mid-tier tech + Beijing offers strong comp for AI/search talent | Senior engineers at Baidu architect systems serving 600M+ search users and the world's largest AV fleet | **AI LEADERSHIP PREMIUM**"
+---
 ### Senior Software Engineer | Baidu Global Negotiation Guide
 
 **Negotiation DNA:** $40B market cap with senior engineers leading search, ERNIE LLM, and Apollo AV development + US senior comp competitive with mid-tier tech + Beijing offers strong comp for AI/search talent | Senior engineers at Baidu architect systems serving 600M+ search users and the world's largest AV fleet | **AI LEADERSHIP PREMIUM**

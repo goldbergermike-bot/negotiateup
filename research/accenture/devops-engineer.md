@@ -1,3 +1,48 @@
+---
+company: accenture
+company_display: Accenture
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 115000
+    base_high: 160000
+    stock_low: 30000
+    stock_high: 70000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 254000
+    currency: USD
+  - region: San Francisco
+    base_low: 120000
+    base_high: 165000
+    stock_low: 35000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 151000
+    total_comp_high: 265000
+    currency: USD
+  - region: Bangalore
+    base_low: 1000000
+    base_high: 2200000
+    stock_low: 300000
+    stock_high: 700000
+    bonus_pct: 10
+    total_comp_low: 1400000
+    total_comp_high: 3200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Accenture Analyst / Senior Analyst (Cloud) = Google L3 SRE = Amazon SDE I (Infra) = Deloitte Consultant (Cloud)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + RSU Grants + Bonus (10-15%) | Cloud First Practice"
+---
 ### DevOps Engineer | Accenture Global Negotiation Guide
 
 **Negotiation DNA:** Base + RSU Grants + Bonus (10-15%) | Cloud First Practice

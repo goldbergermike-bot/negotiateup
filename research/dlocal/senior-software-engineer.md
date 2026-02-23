@@ -1,3 +1,48 @@
+---
+company: dlocal
+company_display: Dlocal
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montevideo (UYU)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: São Paulo (BRL)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York (USD)
+    base_low: 175000
+    base_high: 230000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes dLocal's Asia Priority strategy, translating the Jan 2026 Asia Strategic Pivot and Feb 11 JPM Bull Case into a senior software engineering compensation framework spanning Montevideo, São Paulo, and New York markets. Senior engineers are the execution backbone of dLocal's push into Asia — the largest emerging market opportunity in cross-border payments."
+---
 ### Senior Software Engineer — dLocal Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes dLocal's Asia Priority strategy, translating the Jan 2026 Asia Strategic Pivot and Feb 11 JPM Bull Case into a senior software engineering compensation framework spanning Montevideo, São Paulo, and New York markets. Senior engineers are the execution backbone of dLocal's push into Asia — the largest emerging market opportunity in cross-border payments.

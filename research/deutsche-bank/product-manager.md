@@ -1,3 +1,49 @@
+---
+company: deutsche-bank
+company_display: Deutsche Bank
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 148000
+    base_high: 208000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 200000
+    total_comp_high: 330000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 140000
+    total_comp_high: 238000
+    currency: GBP
+  - region: Frankfurt (HQ)
+    base_low: 88000
+    base_high: 132000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 118000
+    total_comp_high: 205000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "PM at DB (SVP/Director) = L5-L6 at Google, IC5-IC6 at Meta, Sr PM-Principal PM at Amazon, SVP/Director at BofA, SVP/ED at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "EUR30B market cap European bank + PM drives products across European and global markets + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB PMs shape international banking products | **EUROPEAN BANKING PM PREMIUM**"
+---
 ### Product Manager | Deutsche Bank Global Negotiation Guide
 
 **Negotiation DNA:** EUR30B market cap European bank + PM drives products across European and global markets + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB PMs shape international banking products | **EUROPEAN BANKING PM PREMIUM**

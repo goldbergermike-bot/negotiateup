@@ -1,3 +1,48 @@
+---
+company: notion
+company_display: Notion
+role: notion-ai-platform-engineer
+role_display: Notion AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 265000
+    stock_low: 260000
+    stock_high: 440000
+    bonus_pct: 10
+    total_comp_low: 330000
+    total_comp_high: 478000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 260000
+    stock_low: 255000
+    stock_high: 430000
+    bonus_pct: 10
+    total_comp_low: 322000
+    total_comp_high: 468000
+    currency: USD
+  - region: London
+    base_low: 138000
+    base_high: 178000
+    stock_low: 172000
+    stock_high: 292000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 318000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Notion AI Platform (L4-L5) = Google AI Platform L5-L6 = Meta AI Infra E5-E6 = OpenAI Platform = Anthropic Platform
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI Platform Infrastructure & LLM Orchestration | 100M+ Users | **NOTION AI PREMIUM**"
+---
 ### Notion AI Platform Engineer | Notion Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI Platform Infrastructure & LLM Orchestration | 100M+ Users | **NOTION AI PREMIUM**

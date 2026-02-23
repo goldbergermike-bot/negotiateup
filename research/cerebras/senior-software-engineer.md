@@ -1,3 +1,51 @@
+---
+company: cerebras
+company_display: Cerebras
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 208000
+    base_high: 258000
+    stock_low: 228000
+    stock_high: 402000
+    bonus_pct: 10
+    total_comp_low: 292000
+    total_comp_high: 412000
+    currency: USD
+  - region: San Diego
+    base_low: 205000
+    base_high: 255000
+    stock_low: 228000
+    stock_high: 402000
+    bonus_pct: 10
+    total_comp_low: 288000
+    total_comp_high: 408000
+    currency: USD
+  - region: Remote US
+    base_low: 198000
+    base_high: 248000
+    stock_low: 228000
+    stock_high: 402000
+    bonus_pct: 10
+    total_comp_low: 282000
+    total_comp_high: 402000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cerebras Sr. SWE (IC3) = Google L5 = NVIDIA IC3 = Meta E5 = Groq Sr. SWE
+data_sources:
+  - Cerebras Q2 2026 IPO Timeline — Senior Hire Pre-IPO Window
+  - Cerebras $10B OpenAI Deal — Technical Delivery Requirements
+  - Cerebras Wafer-Scale Compiler/Runtime — Senior Architecture
+  - Cerebras Sr. SWE Comp — Private Market 2025
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal"
+---
 ### Senior Software Engineer | Cerebras Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal

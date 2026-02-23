@@ -1,3 +1,52 @@
+---
+company: robinhood
+company_display: Robinhood
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Menlo Park, CA (HQ)"
+    base_low: 152000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 205000
+    total_comp_high: 295000
+    currency: USD
+  - region: New York
+    base_low: 152000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 205000
+    total_comp_high: 295000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 148000
+    stock_low: 120000
+    stock_high: 227000
+    bonus_low: 11000
+    bonus_high: 19000
+    total_comp_low: 155000
+    total_comp_high: 223000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `Cross-Functional Orchestration` `Regulatory Delivery` `Multi-Vertical Program Execution`"
+---
 ### Technical Program Manager | Robinhood Global Negotiation Guide
 
 **Negotiation DNA:** `Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `Cross-Functional Orchestration` `Regulatory Delivery` `Multi-Vertical Program Execution`

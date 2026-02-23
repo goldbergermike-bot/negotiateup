@@ -1,3 +1,47 @@
+---
+company: oracle
+company_display: Oracle
+role: devops-engineer
+role_display: DevOps / Platform Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 165000
+    base_high: 205000
+    stock_low: 130000
+    stock_high: 225000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 278000
+    currency: USD
+  - region: Seattle
+    base_low: 175000
+    base_high: 218000
+    stock_low: 142000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 295000
+    currency: USD
+  - region: Bangalore
+    base_low: 3200000
+    base_high: 5000000
+    stock_low: 1500000
+    stock_high: 2800000
+    bonus_pct: null
+    total_comp_low: 4000000
+    total_comp_high: 6200000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + **OUTSIZE SIGN-ON** | OCI \"Stargate\" AI Infrastructure Pivot | $500B JV Premium"
+---
 ### DevOps / Platform Engineer | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + **OUTSIZE SIGN-ON** | OCI "Stargate" AI Infrastructure Pivot | $500B JV Premium

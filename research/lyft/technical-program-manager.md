@@ -1,3 +1,48 @@
+---
+company: lyft
+company_display: Lyft
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 142000
+    base_high: 180000
+    stock_low: 98000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 245000
+    currency: USD
+  - region: New York
+    base_low: 135000
+    base_high: 172000
+    stock_low: 90000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: USD
+  - region: Remote US
+    base_low: 125000
+    base_high: 160000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 212000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lyft Technical Program Manager (T5-T6) = Google L5-L6 TPM = Uber TPM II-Senior = Meta TPM (IC5-IC6) = Apple Engineering Program Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Rideshare & Mobility Platform | BENTELER/HOLON AV-Hybrid Strategy | AV-Orchestration Premium | 4-Year Vest w/ 1-Year Cliff"
+---
 ### Technical Program Manager | Lyft Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Rideshare & Mobility Platform | BENTELER/HOLON AV-Hybrid Strategy | AV-Orchestration Premium | 4-Year Vest w/ 1-Year Cliff

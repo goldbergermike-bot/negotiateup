@@ -1,3 +1,52 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 75000
+    base_high: 102000
+    stock_low: 95000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 99000
+    total_comp_high: 147000
+    currency: EUR
+  - region: New York
+    base_low: 172000
+    base_high: 215000
+    stock_low: 165000
+    stock_high: 298000
+    bonus_pct: null
+    total_comp_low: 213000
+    total_comp_high: 290000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "HF Product Manager = Google L4–L5 PM (Paris) = Meta PM (IC5) = Mistral AI PM = Datadog Paris PM. Paris PM bands (€75K–€102K) compete with Google Paris PM (€85K–€120K base + RSUs) and Criteo PM (€70K–€95K base). HF PMs have significantly broader product scope than Big Tech PMs at equivalent levels — you own an entire product surface, not a feature within a product."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat"
+---
 ### Product Manager | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat

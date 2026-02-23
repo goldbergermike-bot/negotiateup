@@ -1,3 +1,52 @@
+---
+company: toast
+company_display: Toast
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston MA
+    base_low: 195000
+    base_high: 245000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 268000
+    total_comp_high: 385000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 260000
+    stock_low: 170000
+    stock_high: 310000
+    bonus_low: 35000
+    bonus_high: 60000
+    total_comp_low: 288000
+    total_comp_high: 418000
+    currency: USD
+  - region: San Francisco
+    base_low: 225000
+    base_high: 280000
+    stock_low: 190000
+    stock_high: 340000
+    bonus_low: 38000
+    bonus_high: 65000
+    total_comp_low: 310000
+    total_comp_high: 455000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Toast | Google | Meta | Stripe | Block | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: TOST` `Toast IQ` `Engineering Manager` `Restaurant Tech` `Hospitality Intelligence` `People Leadership` `Platform Engineering` `Payments`"
+---
 ### Engineering Manager | Toast Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: TOST` `Toast IQ` `Engineering Manager` `Restaurant Tech` `Hospitality Intelligence` `People Leadership` `Platform Engineering` `Payments`

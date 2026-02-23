@@ -1,3 +1,66 @@
+---
+company: amazon
+company_display: Amazon
+role: senior-software-engineer
+role_display: Senior Software Engineer (SDE III / L6)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 160000
+    base_high: 185000
+    stock_low: 250000
+    stock_high: 700000
+    bonus_pct: null
+    signing_bonus_low: 60000
+    signing_bonus_high: 120000
+    total_comp_low: 330000
+    total_comp_high: 520000
+    currency: USD
+  - region: Bay Area
+    base_low: 165000
+    base_high: 185000
+    stock_low: 270000
+    stock_high: 730000
+    bonus_pct: null
+    signing_bonus_low: 65000
+    signing_bonus_high: 130000
+    total_comp_low: 345000
+    total_comp_high: 540000
+    currency: USD
+  - region: NYC
+    base_low: 165000
+    base_high: 185000
+    stock_low: 260000
+    stock_high: 720000
+    bonus_pct: null
+    signing_bonus_low: 65000
+    signing_bonus_high: 125000
+    total_comp_low: 340000
+    total_comp_high: 535000
+    currency: USD
+  - region: Austin
+    base_low: 155000
+    base_high: 180000
+    stock_low: 230000
+    stock_high: 650000
+    bonus_pct: null
+    signing_bonus_low: 55000
+    signing_bonus_high: 110000
+    total_comp_low: 310000
+    total_comp_high: 490000
+    currency: USD
+level_mapping:
+  internal: SDE III / L6
+  raw: Amazon L6 Senior SDE = Google L5 Senior = Meta E5 Senior = Apple ICT4 = Netflix Senior
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Back-Loaded RSU Vesting / Signing Bonus Bridge | L6 is the Career Level"
+---
 ### Senior Software Engineer (SDE III / L6) | Amazon Global Negotiation Guide
 
 **Negotiation DNA:** Back-Loaded RSU Vesting / Signing Bonus Bridge | L6 is the Career Level

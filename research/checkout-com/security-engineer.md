@@ -1,3 +1,48 @@
+---
+company: checkout-com
+company_display: Checkout Com
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 85000
+    base_high: 130000
+    stock_low: 45000
+    stock_high: 95000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 225000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 175000
+    base_high: 235000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 375000
+    currency: USD
+  - region: New York (USD)
+    base_low: 170000
+    base_high: 230000
+    stock_low: 75000
+    stock_high: 135000
+    bonus_pct: null
+    total_comp_low: 245000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into a security engineering compensation framework spanning London, San Francisco, and New York markets."
+---
 ### Security Engineer — Checkout.com Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into a security engineering compensation framework spanning London, San Francisco, and New York markets.

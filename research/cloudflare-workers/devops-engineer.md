@@ -1,3 +1,48 @@
+---
+company: cloudflare-workers
+company_display: Cloudflare Workers
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 220000
+    stock_low: 162000
+    stock_high: 285000
+    bonus_pct: 10
+    total_comp_low: 250000
+    total_comp_high: 348000
+    currency: USD
+  - region: Austin
+    base_low: 165000
+    base_high: 210000
+    stock_low: 152000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 332000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 145000
+    stock_low: 108000
+    stock_high: 188000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 228000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Cloudflare DevOps (L3-L5) = Google SRE L4-L5 = Meta Production Engineer E4-E5 = Fastly DevOps = AWS DevOps
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NYSE: NET) + Bonus | Edge Infrastructure & AI Deployment | $30B+ Market Cap | 300+ Data Centers | **WORKERS AI PREMIUM**"
+---
 ### DevOps Engineer | Cloudflare Workers Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NYSE: NET) + Bonus | Edge Infrastructure & AI Deployment | $30B+ Market Cap | 300+ Data Centers | **WORKERS AI PREMIUM**

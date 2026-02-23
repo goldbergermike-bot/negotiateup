@@ -1,3 +1,48 @@
+---
+company: airwallex
+company_display: Airwallex
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Melbourne (AUD)
+    base_low: 160000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 365000
+    currency: AUD
+  - region: San Francisco (USD)
+    base_low: 195000
+    base_high: 255000
+    stock_low: 90000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 285000
+    total_comp_high: 435000
+    currency: USD
+  - region: London (GBP)
+    base_low: 95000
+    base_high: 135000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a solutions architecture compensation framework spanning Melbourne, San Francisco, and London markets. As a Solutions Architect at Airwallex, you design the integration patterns and technical solutions that connect enterprise clients to the cross-border payments platform — your architectures must satisfy both client requirements and multi-jurisdictional compliance"
+---
 ### Solutions Architect — Airwallex Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a solutions architecture compensation framework spanning Melbourne, San Francisco, and London markets. As a Solutions Architect at Airwallex, you design the integration patterns and technical solutions that connect enterprise clients to the cross-border payments platform — your architectures must satisfy both client requirements and multi-jurisdictional compliance mandates simultaneously.

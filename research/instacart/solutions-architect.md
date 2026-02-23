@@ -1,3 +1,48 @@
+---
+company: instacart
+company_display: Instacart
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 148000
+    base_high: 185000
+    stock_low: 62000
+    stock_high: 108000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 262000
+    currency: USD
+  - region: New York
+    base_low: 145000
+    base_high: 180000
+    stock_low: 58000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 256000
+    currency: USD
+  - region: Remote US
+    base_low: 132000
+    base_high: 168000
+    stock_low: 52000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Instacart Solutions Architect = Google Solutions Engineer L5 = AWS Solutions Architect = Salesforce Technical Architect = DoorDash Solutions Engineer = Shopify Solutions Architect
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU Equity + Bonus | Instant Commerce & Grocery Tech | 4x Engineering Velocity | Post-IPO Growth | Enterprise & Partner Premium"
+---
 ### Solutions Architect | Instacart Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU Equity + Bonus | Instant Commerce & Grocery Tech | 4x Engineering Velocity | Post-IPO Growth | Enterprise & Partner Premium

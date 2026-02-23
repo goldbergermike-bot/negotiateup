@@ -1,3 +1,48 @@
+---
+company: electronic-arts
+company_display: Electronic Arts
+role: ea-sports-fc-platform-engineer
+role_display: EA Sports FC Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 165000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 340000
+    currency: USD
+  - region: Orlando
+    base_low: 145000
+    base_high: 190000
+    stock_low: 100000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 300000
+    currency: USD
+  - region: Bucharest
+    base_low: 55000
+    base_high: 85000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 90000
+    total_comp_high: 145000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: EA ICT3 (Senior) = Google L4 = Meta E4 = Microsoft 63
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus / Sports-IP Premium | **SIGNATURE ROLE** | **+15–25% LIVE-SERVICE PLATFORM PREMIUM**"
+---
 ### EA Sports FC Platform Engineer | Electronic Arts Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Sports-IP Premium | **SIGNATURE ROLE** | **+15–25% LIVE-SERVICE PLATFORM PREMIUM**

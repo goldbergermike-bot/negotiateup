@@ -1,3 +1,49 @@
+---
+company: valve
+company_display: Valve
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue WA
+    base_low: 175000
+    base_high: 250000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 248000
+    total_comp_high: 435000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 160000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 228000
+    total_comp_high: 408000
+    currency: USD
+  - region: N/A — Valve is Bellevue-only
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Valve Data Scientist (no levels) ~ Google L4-L5 DS = Meta IC4-IC5 DS
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue"
+---
 ### Data Scientist | Valve Global Negotiation Guide
 
 **Negotiation DNA:** Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue

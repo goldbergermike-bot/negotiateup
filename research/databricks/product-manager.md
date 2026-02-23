@@ -1,3 +1,48 @@
+---
+company: databricks
+company_display: Databricks
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 245000
+    stock_low: 198000
+    stock_high: 348000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 388000
+    currency: USD
+  - region: New York
+    base_low: 202000
+    base_high: 252000
+    stock_low: 198000
+    stock_high: 348000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 395000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 238000
+    stock_low: 198000
+    stock_high: 348000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 382000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Databricks PM (PM2-PM3) = Snowflake PM = Google PM L5-L6 = Meta PM (IC5) = Amazon PM (L5-L6) = Microsoft PM2
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Product Manager | Databricks Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**

@@ -1,3 +1,48 @@
+---
+company: sophos
+company_display: Sophos
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US Remote
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 395000
+    currency: USD
+  - region: Abingdon UK
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 98000
+    total_comp_high: 168000
+    currency: GBP
+  - region: Vancouver
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 335000
+    currency: CAD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Staff Software Engineers at Sophos define the technical architecture across endpoint security, firewall, and cloud management products, setting cross-team direction for a platform protecting over 500,000 organizations and 100 million users."
+---
 ### Staff Software Engineer — Sophos Salary Negotiation Guide
 
 **Negotiation DNA**: Staff Software Engineers at Sophos define the technical architecture across endpoint security, firewall, and cloud management products, setting cross-team direction for a platform protecting over 500,000 organizations and 100 million users.

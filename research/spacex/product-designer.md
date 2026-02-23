@@ -1,3 +1,39 @@
+---
+company: spacex
+company_display: Spacex
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Hawthorne, CA"
+    base_low: 135000
+    base_high: 180000
+    stock_low: 80000
+    stock_high: 220000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 300000
+    currency: USD
+  - region: "Redmond, WA"
+    base_low: 135000
+    base_high: 180000
+    stock_low: 80000
+    stock_high: 220000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 300000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: SpaceX Product Designer = Google L4-L5 UX = Meta IC4-IC5 -- with broader scope and less design org support
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starlink Consumer/Enterprise Design | 60+ Hour Culture"
+---
 ### Product Designer | SpaceX Global Negotiation Guide
 
 **Negotiation DNA:** Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starlink Consumer/Enterprise Design | 60+ Hour Culture

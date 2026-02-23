@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 245000
+    stock_low: 245000
+    stock_high: 428000
+    bonus_pct: null
+    total_comp_low: 256000
+    total_comp_high: 352000
+    currency: USD
+  - region: Seattle
+    base_low: 188000
+    base_high: 238000
+    stock_low: 245000
+    stock_high: 428000
+    bonus_pct: null
+    total_comp_low: 249000
+    total_comp_high: 345000
+    currency: USD
+  - region: London
+    base_low: 135000
+    base_high: 172000
+    stock_low: 178000
+    stock_high: 312000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 250000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI TPM = Google L4-L5 TPM = Meta IC4-IC5 TPM = Anthropic TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)"
+---
 ### Technical Program Manager | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)

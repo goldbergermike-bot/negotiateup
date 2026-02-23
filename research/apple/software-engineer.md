@@ -1,3 +1,50 @@
+---
+company: apple
+company_display: Apple
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 145000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 220000
+    bonus_pct: 5
+    total_comp_low: 175000
+    total_comp_high: 295000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 135000
+    base_high: 195000
+    stock_low: 70000
+    stock_high: 195000
+    bonus_pct: 5
+    total_comp_low: 160000
+    total_comp_high: 270000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 140000
+    base_high: 200000
+    stock_low: 75000
+    stock_high: 210000
+    bonus_pct: 5
+    total_comp_low: 168000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple ICT2 = Google L3, Meta E3, Amazon L4 (SDE I) | Apple ICT3 = Google L4, Meta E4, Amazon L5 (SDE II)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive early-career base + solid RSU grants at ICT2-ICT3 levels | Apple positions SWEs as builders of the world's most used consumer technology | **GROWTH TRAJECTORY PREMIUM: Apple's level progression from ICT2 to ICT3 unlocks significant comp jumps within 2-3 years**"
+---
 ### Software Engineer | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Competitive early-career base + solid RSU grants at ICT2-ICT3 levels | Apple positions SWEs as builders of the world's most used consumer technology | **GROWTH TRAJECTORY PREMIUM: Apple's level progression from ICT2 to ICT3 unlocks significant comp jumps within 2-3 years**

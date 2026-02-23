@@ -1,3 +1,32 @@
+---
+company: de-shaw
+company_display: D.E. Shaw
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 175000
+    base_high: 248000
+    stock_low: null
+    stock_high: null
+    bonus_low: 140000
+    bonus_high: 372000
+    total_comp_low: 315000
+    total_comp_high: 620000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at D.E. Shaw = L5-L6 at Google, E5-E6 at Meta, SDE III-Senior at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-150%+ | D.E. Shaw infrastructure supports trading operations worth billions | **ELITE QUANT INFRASTRUCTURE PREMIUM**"
+---
 ### DevOps Engineer | D.E. Shaw Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-150%+ | D.E. Shaw infrastructure supports trading operations worth billions | **ELITE QUANT INFRASTRUCTURE PREMIUM**

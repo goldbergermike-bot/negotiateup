@@ -1,3 +1,48 @@
+---
+company: chime
+company_display: Chime
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 192000
+    base_high: 222000
+    stock_low: 148000
+    stock_high: 208000
+    bonus_pct: 15
+    total_comp_low: 238000
+    total_comp_high: 292000
+    currency: USD
+  - region: Chicago
+    base_low: 182000
+    base_high: 212000
+    stock_low: 128000
+    stock_high: 188000
+    bonus_pct: 15
+    total_comp_low: 218000
+    total_comp_high: 268000
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 205000
+    stock_low: 118000
+    stock_high: 178000
+    bonus_pct: 15
+    total_comp_low: 208000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chime Security (IC3-IC4) = Cash App Security = Google Security L4-L5 = Meta Security Engineer (IC4-IC5) = Amazon Security Engineer II-III = SoFi Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | **INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**"
+---
 ### Security Engineer | Chime Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | **INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**

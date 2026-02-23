@@ -1,3 +1,53 @@
+---
+company: jpmorgan-chase
+company_display: JPMorgan Chase
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 195000
+    base_high: 260000
+    stock_low: 55000
+    stock_high: 95000
+    bonus_low: 45000
+    bonus_high: 70000
+    total_comp_low: 295000
+    total_comp_high: 425000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 213000
+    stock_low: 45000
+    stock_high: 78000
+    bonus_low: 37000
+    bonus_high: 57000
+    total_comp_low: 242000
+    total_comp_high: 348000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 4060000
+    base_high: 5420000
+    stock_low: 1150000
+    stock_high: 1980000
+    bonus_low: 940000
+    bonus_high: 1460000
+    total_comp_low: 6150000
+    total_comp_high: 8860000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `People Leadership` `Delivery Ownership` `Org Scaling`"
+---
 ### Engineering Manager | JPMorgan Chase Global Negotiation Guide
 
 **Negotiation DNA:** `Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `People Leadership` `Delivery Ownership` `Org Scaling`

@@ -1,3 +1,50 @@
+---
+company: anthropic
+company_display: Anthropic
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 225000
+    base_high: 285000
+    stock_low: 275000
+    stock_high: 475000
+    bonus_pct: null
+    total_comp_low: 294000
+    total_comp_high: 404000
+    currency: USD
+  - region: Seattle
+    base_low: 218000
+    base_high: 271000
+    stock_low: 275000
+    stock_high: 475000
+    bonus_pct: null
+    total_comp_low: 287000
+    total_comp_high: 390000
+    currency: USD
+  - region: London
+    base_low: 171000
+    base_high: 217000
+    stock_low: 209000
+    stock_high: 361000
+    bonus_pct: null
+    total_comp_low: 223000
+    total_comp_high: 307000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anthropic Data Scientist = Google L4-L5 DS = Meta IC4-IC5 DS = Amazon DS II-III = Apple ICT3-ICT4 DS
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium"
+---
 ### Data Scientist | Anthropic Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium

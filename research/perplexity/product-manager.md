@@ -1,3 +1,50 @@
+---
+company: perplexity
+company_display: Perplexity
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 245000
+    stock_low: 225000
+    stock_high: 395000
+    bonus_pct: null
+    total_comp_low: 251000
+    total_comp_high: 344000
+    currency: USD
+  - region: New York
+    base_low: 201000
+    base_high: 257000
+    stock_low: 225000
+    stock_high: 395000
+    bonus_pct: null
+    total_comp_low: 257000
+    total_comp_high: 356000
+    currency: USD
+  - region: Remote US
+    base_low: 176000
+    base_high: 220000
+    stock_low: 225000
+    stock_high: 395000
+    bonus_pct: null
+    total_comp_low: 232000
+    total_comp_high: 319000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Perplexity PM = Google L5 PM = Anthropic PM = Meta PM (IC5) = OpenAI PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift"
+---
 ### Product Manager | Perplexity Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift

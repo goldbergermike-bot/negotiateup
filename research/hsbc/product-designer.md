@@ -1,3 +1,50 @@
+---
+company: hsbc
+company_display: HSBC
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 78000
+    base_high: 108000
+    stock_low: 28000
+    stock_high: 42000
+    bonus_low: 15000
+    bonus_high: 26000
+    total_comp_low: 121000
+    total_comp_high: 176000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 620000
+    base_high: 858000
+    stock_low: 280000
+    stock_high: 420000
+    bonus_low: 310000
+    bonus_high: 480000
+    total_comp_low: 1210000
+    total_comp_high: 1760000
+    currency: HKD
+  - region: Singapore
+    base_low: 135000
+    base_high: 186000
+    stock_low: 49000
+    stock_high: 73000
+    bonus_low: 26000
+    bonus_high: 44000
+    total_comp_low: 209000
+    total_comp_high: 304000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `UX Strategy` `Design Systems` `Cross-Cultural Design`"
+---
 ### Product Designer | HSBC Global Negotiation Guide
 
 **Negotiation DNA:** `Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `UX Strategy` `Design Systems` `Cross-Cultural Design`

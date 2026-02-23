@@ -1,3 +1,53 @@
+---
+company: intel
+company_display: Intel
+role: foundry-platform-engineer
+role_display: Foundry Platform Engineer (SIGNATURE ROLE)
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 185000
+    base_high: 245000
+    stock_low: 95000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 368000
+    currency: USD
+  - region: Portland
+    base_low: 175000
+    base_high: 232000
+    stock_low: 85000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 345000
+    currency: USD
+  - region: Phoenix
+    base_low: 165000
+    base_high: 218000
+    stock_low: 75000
+    stock_high: 135000
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: SIGNATURE ROLE
+  raw: Intel Foundry Platform Engineer (Grade 8-10) = TSMC Advanced Process Engineer = Samsung Foundry Platform Engineer = GlobalFoundries Senior Platform Engineer (no true equivalent at Google/NVIDIA — this is a uniquely semiconductor-foundry role)
+data_sources:
+  - Intel IDM 2.0 Foundry Pivot — $100B+ Fab Investment
+  - Intel CHIPS Act Funding — National Security Infrastructure
+  - Intel Foundry Services — Platform and PDK Development
+  - Intel 18A Process Node — Foundry Technology Roadmap
+  - Semiconductor Foundry Talent Scarcity — Industry Analysis
+  - TSMC Foundry Platform — Competitive Benchmark
+negotiation_dna_summary: "Base + INTC RSUs (4yr vest) + Bonus (15-20%) + Foundry Premium (+20-30%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages"
+---
 ### Foundry Platform Engineer (SIGNATURE ROLE) | Intel Global Negotiation Guide
 
 **Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (15-20%) + Foundry Premium (+20-30%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages

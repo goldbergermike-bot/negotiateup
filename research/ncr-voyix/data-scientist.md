@@ -1,3 +1,52 @@
+---
+company: ncr-voyix
+company_display: NCR Voyix
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 130000
+    base_high: 170000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 172000
+    total_comp_high: 260000
+    currency: USD
+  - region: New York NY
+    base_low: 150000
+    base_high: 195000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 205000
+    total_comp_high: 305000
+    currency: USD
+  - region: London UK
+    base_low: 85000
+    base_high: 115000
+    stock_low: 22000
+    stock_high: 45000
+    bonus_low: 8000
+    bonus_high: 18000
+    total_comp_low: 115000
+    total_comp_high: 178000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| NCR Voyix | Google | Meta | Stripe | Fiserv | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Data Science IC` `RSU/4yr` `Commerce Analytics`"
+---
 ### Data Scientist | NCR Voyix Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Data Science IC` `RSU/4yr` `Commerce Analytics`

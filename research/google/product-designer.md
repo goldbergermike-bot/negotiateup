@@ -1,3 +1,70 @@
+---
+company: google
+company_display: Google
+role: product-designer
+role_display: Product Designer (UX Engineer/Designer)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 155000
+    base_high: 235000
+    stock_low: 130000
+    stock_high: 350000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 390000
+    currency: USD
+  - region: New York City
+    base_low: 150000
+    base_high: 230000
+    stock_low: 125000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 380000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 145000
+    base_high: 220000
+    stock_low: 120000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 360000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 155000
+    stock_low: 80000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 135000
+    total_comp_high: 260000
+    currency: GBP
+  - region: Singapore
+    base_low: 130000
+    base_high: 210000
+    stock_low: 100000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: UX Engineer/Designer
+  raw: "Product Designer at Google (L4-L5) = Product Designer at Meta (IC4-IC5), Designer II-Senior at Apple, UX Designer at Microsoft (L62-L63), Senior-Staff Designer at Netflix, Product Designer at Figma/Airbnb (Mid-Senior)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Material Design system creator + Billions-of-users product impact + Strong RSU grants for design talent | Google design shapes global UX standards | **DESIGN AT SCALE PREMIUM**"
+---
 ### Product Designer (UX Engineer/Designer) | Google Global Negotiation Guide
 
 **Negotiation DNA:** Material Design system creator + Billions-of-users product impact + Strong RSU grants for design talent | Google design shapes global UX standards | **DESIGN AT SCALE PREMIUM**

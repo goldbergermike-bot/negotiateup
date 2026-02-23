@@ -1,3 +1,50 @@
+---
+company: figma
+company_display: Figma
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 230000
+    base_high: 290000
+    stock_low: 350000
+    stock_high: 600000
+    bonus_pct: 10
+    total_comp_low: 400000
+    total_comp_high: 590000
+    currency: USD
+  - region: New York
+    base_low: 230000
+    base_high: 290000
+    stock_low: 350000
+    stock_high: 600000
+    bonus_pct: 10
+    total_comp_low: 400000
+    total_comp_high: 590000
+    currency: USD
+  - region: London
+    base_low: 175000
+    base_high: 221000
+    stock_low: 266000
+    stock_high: 456000
+    bonus_pct: 10
+    total_comp_low: 304000
+    total_comp_high: 449000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Figma EM = Google M1 = Meta M1 = Adobe Engineering Manager = Canva Engineering Manager
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Leadership-Premium Base + Significant Equity | Design Platform Pioneer | 2026 Focus: Scaling AI-Native Design Engineering Teams"
+---
 ### Engineering Manager | Figma Global Negotiation Guide
 
 **Negotiation DNA:** Leadership-Premium Base + Significant Equity | Design Platform Pioneer | 2026 Focus: Scaling AI-Native Design Engineering Teams

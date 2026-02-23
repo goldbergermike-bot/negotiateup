@@ -1,3 +1,51 @@
+---
+company: cme-group
+company_display: CME Group
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 150000
+    base_high: 205000
+    stock_low: 38000
+    stock_high: 68000
+    bonus_low: 27000
+    bonus_high: 39000
+    total_comp_low: 215000
+    total_comp_high: 312000
+    currency: USD
+  - region: New York
+    base_low: 162000
+    base_high: 221000
+    stock_low: 41000
+    stock_high: 73000
+    bonus_low: 29000
+    bonus_high: 42000
+    total_comp_low: 232000
+    total_comp_high: 336000
+    currency: USD
+  - region: London
+    base_low: 117000
+    base_high: 159000
+    stock_low: 30000
+    stock_high: 53000
+    bonus_low: 21000
+    bonus_high: 30000
+    total_comp_low: 168000
+    total_comp_high: 242000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Exchange Security` `Data Protection` `Regulatory Compliance`"
+---
 ### Security Engineer | CME Group Global Negotiation Guide
 
 **Negotiation DNA:** `Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Exchange Security` `Data Protection` `Regulatory Compliance`

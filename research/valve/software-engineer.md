@@ -1,3 +1,50 @@
+---
+company: valve
+company_display: Valve
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue WA
+    base_low: 160000
+    base_high: 230000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 400000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 148000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 375000
+    currency: USD
+  - region: N/A — Valve is Bellevue-only
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Valve SWE (no levels) ~ Google L4-L5 = Meta E4-E5 = Most companies' Senior-Staff level"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue"
+---
 ### Software Engineer | Valve Global Negotiation Guide
 
 **Negotiation DNA:** Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue

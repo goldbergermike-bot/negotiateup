@@ -1,3 +1,53 @@
+---
+company: avidxchange
+company_display: Avidxchange
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte NC
+    base_low: 165000
+    base_high: 200000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 270000
+    total_comp_high: 390000
+    currency: USD
+  - region: Atlanta GA
+    base_low: 170000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_low: 26000
+    bonus_high: 41000
+    total_comp_low: 276000
+    total_comp_high: 396000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 195000
+    stock_low: 70000
+    stock_high: 130000
+    bonus_low: 23000
+    bonus_high: 37000
+    total_comp_low: 253000
+    total_comp_high: 362000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| AvidXchange | Google | Meta | Stripe | Bill.com | PayPal |"
+data_sources:
+  - Levels.fyi
+  - LinkedIn
+  - Glassdoor
+negotiation_dna_summary: "`NASDAQ: AVDX` `Purposeful AI` `Mid-Market AP Automation` `AvidPay Network` `Charlotte NC Hub` `RSU/4yr Vesting` `Enterprise Tier` `Knowledge Discovery` `People Leadership` `Delivery Ownership`"
+---
 ### Engineering Manager | AvidXchange Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: AVDX` `Purposeful AI` `Mid-Market AP Automation` `AvidPay Network` `Charlotte NC Hub` `RSU/4yr Vesting` `Enterprise Tier` `Knowledge Discovery` `People Leadership` `Delivery Ownership`

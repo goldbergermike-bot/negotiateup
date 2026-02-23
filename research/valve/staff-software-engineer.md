@@ -1,3 +1,49 @@
+---
+company: valve
+company_display: Valve
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue WA
+    base_low: 215000
+    base_high: 300000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 350000
+    total_comp_high: 600000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 200000
+    base_high: 280000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 325000
+    total_comp_high: 560000
+    currency: USD
+  - region: N/A — Valve is Bellevue-only
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Valve Staff SWE (no levels) ~ Google L6 = Meta E6 = Principal at most companies
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue"
+---
 ### Staff Software Engineer | Valve Global Negotiation Guide
 
 **Negotiation DNA:** Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue

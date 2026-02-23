@@ -1,3 +1,49 @@
+---
+company: t-mobile
+company_display: T-Mobile
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue / Seattle
+    base_low: 150000
+    base_high: 215000
+    stock_low: 62000
+    stock_high: 185000
+    bonus_pct: 12
+    total_comp_low: 200000
+    total_comp_high: 335000
+    currency: USD
+  - region: NYC / San Francisco
+    base_low: 155000
+    base_high: 220000
+    stock_low: 68000
+    stock_high: 192000
+    bonus_pct: 12
+    total_comp_low: 210000
+    total_comp_high: 350000
+    currency: USD
+  - region: Dallas / Denver
+    base_low: 142000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 168000
+    bonus_pct: 12
+    total_comp_low: 185000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: T-Mobile ML/AI Engineer (L5-L7) = Google L4-L6 ML = Meta E4-E6 ML = Amazon Applied Scientist II-III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$250B 5G Leader | AI-Powered Network + Customer Intelligence | **+10-20% AI PREMIUM**"
+---
 ### ML/AI Engineer | T-Mobile Global Negotiation Guide
 
 **Negotiation DNA:** $250B 5G Leader | AI-Powered Network + Customer Intelligence | **+10-20% AI PREMIUM**

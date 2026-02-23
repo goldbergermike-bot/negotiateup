@@ -1,3 +1,48 @@
+---
+company: tesla
+company_display: Tesla
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin (HQ)
+    base_low: 190000
+    base_high: 260000
+    stock_low: 250000
+    stock_high: 550000
+    bonus_pct: null
+    total_comp_low: 310000
+    total_comp_high: 480000
+    currency: USD
+  - region: Palo Alto
+    base_low: 200000
+    base_high: 268000
+    stock_low: 270000
+    stock_high: 575000
+    bonus_pct: null
+    total_comp_low: 330000
+    total_comp_high: 505000
+    currency: USD
+  - region: Fremont
+    base_low: 195000
+    base_high: 265000
+    stock_low: 260000
+    stock_high: 560000
+    bonus_pct: null
+    total_comp_low: 320000
+    total_comp_high: 490000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tesla Staff Software Engineer = Google L5/L6 = Meta E5/E6 = Apple ICT4/ICT5 = Amazon L6/L7
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk"
+---
 ### Staff Software Engineer | Tesla Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk

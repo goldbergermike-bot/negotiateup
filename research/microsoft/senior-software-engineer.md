@@ -1,3 +1,45 @@
+---
+company: microsoft
+company_display: Microsoft
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Senior SWE
+    base_low: 155000
+    base_high: 195000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 45000
+    total_comp_low: 230000
+    total_comp_high: 315000
+    currency: USD
+  - region: Senior SWE (High)
+    base_low: 175000
+    base_high: 220000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: 15
+    signing_bonus_low: 30000
+    signing_bonus_high: 55000
+    total_comp_low: 280000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: null
+---
 # Senior Software Engineer - Microsoft Negotiation Guide
 
 ## Role Overview

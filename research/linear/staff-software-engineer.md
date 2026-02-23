@@ -1,3 +1,49 @@
+---
+company: linear
+company_display: Linear
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 245000
+    base_high: 305000
+    stock_low: 380000
+    stock_high: 650000
+    bonus_pct: 10
+    total_comp_low: 400000
+    total_comp_high: 585000
+    currency: USD
+  - region: New York
+    base_low: 245000
+    base_high: 305000
+    stock_low: 380000
+    stock_high: 650000
+    bonus_pct: 10
+    total_comp_low: 400000
+    total_comp_high: 585000
+    currency: USD
+  - region: London
+    base_low: 186000
+    base_high: 232000
+    stock_low: 289000
+    stock_high: 494000
+    bonus_pct: 10
+    total_comp_low: 304000
+    total_comp_high: 445000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Linear Staff SWE = Google L6 = Meta E6 = Notion Staff Engineer = Figma Staff Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "High Base + Major Pre-IPO Equity | Project Management Reimagined | 2026 Focus: AI-Native Project Platform Architecture"
+---
 ### Staff Software Engineer | Linear Global Negotiation Guide
 
 **Negotiation DNA:** High Base + Major Pre-IPO Equity | Project Management Reimagined | 2026 Focus: AI-Native Project Platform Architecture

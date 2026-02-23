@@ -1,3 +1,48 @@
+---
+company: amplitude
+company_display: Amplitude
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 195000
+    stock_low: 115000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 262000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 190000
+    stock_low: 110000
+    stock_high: 188000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 255000
+    currency: USD
+  - region: London
+    base_low: 92000
+    base_high: 125000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 162000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Amplitude DS (Mid) = Google L4 DS = Meta IC4 DS = Mixpanel Data Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Based / Public Company | AI-Powered Product Analytics"
+---
 ### Data Scientist | Amplitude Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Based / Public Company | AI-Powered Product Analytics

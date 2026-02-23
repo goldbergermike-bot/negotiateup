@@ -1,3 +1,48 @@
+---
+company: klarna
+company_display: Klarna
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York
+    base_low: 148000
+    base_high: 185000
+    stock_low: 88000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: USD
+  - region: Remote EU
+    base_low: 55000
+    base_high: 72000
+    stock_low: 28000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 60000
+    total_comp_high: 88000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Klarna Designer (D2-D3) = Stripe Designer = Adyen Designer = Block Designer = Google L4 Payments Design = PayPal Design
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER**"
+---
 ### Product Designer | Klarna Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER**

@@ -1,3 +1,48 @@
+---
+company: amd
+company_display: AMD
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 178000
+    base_high: 222000
+    stock_low: 108000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 288000
+    currency: USD
+  - region: Austin
+    base_low: 172000
+    base_high: 215000
+    stock_low: 108000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 282000
+    currency: USD
+  - region: Remote US
+    base_low: 165000
+    base_high: 208000
+    stock_low: 108000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: AMD Data Scientist (SMTS) = NVIDIA DS = Intel DS = Google L4 DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Semiconductor & AI Compute | AI-Native Workflow | **+30% AI PRODUCTIVITY PREMIUM**"
+---
 ### Data Scientist | AMD Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Semiconductor & AI Compute | AI-Native Workflow | **+30% AI PRODUCTIVITY PREMIUM**

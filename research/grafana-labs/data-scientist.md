@@ -1,3 +1,50 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 168000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 5
+    total_comp_low: 208000
+    total_comp_high: 290000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 158000
+    base_high: 205000
+    stock_low: 108000
+    stock_high: 185000
+    bonus_pct: 5
+    total_comp_low: 195000
+    total_comp_high: 273000
+    currency: USD
+  - region: London / Berlin
+    base_low: 128000
+    base_high: 164000
+    stock_low: 90000
+    stock_high: 152000
+    bonus_pct: 5
+    total_comp_low: 158000
+    total_comp_high: 221000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs Data Scientist = Google L4 DS = Meta E4 DS = Datadog DS II = Elastic IC3 Data Scientist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside"
+---
 ### Data Scientist | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside

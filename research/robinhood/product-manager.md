@@ -1,3 +1,52 @@
+---
+company: robinhood
+company_display: Robinhood
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Menlo Park, CA (HQ)"
+    base_low: 162000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_low: 18000
+    bonus_high: 30000
+    total_comp_low: 225000
+    total_comp_high: 325000
+    currency: USD
+  - region: New York
+    base_low: 162000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_low: 18000
+    bonus_high: 30000
+    total_comp_low: 225000
+    total_comp_high: 325000
+    currency: USD
+  - region: London
+    base_low: 122000
+    base_high: 159000
+    stock_low: 142000
+    stock_high: 263000
+    bonus_low: 14000
+    bonus_high: 23000
+    total_comp_low: 170000
+    total_comp_high: 246000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `Product Strategy` `Gold Subscription Growth` `Multi-Vertical Roadmap`"
+---
 ### Product Manager | Robinhood Global Negotiation Guide
 
 **Negotiation DNA:** `Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `Product Strategy` `Gold Subscription Growth` `Multi-Vertical Roadmap`

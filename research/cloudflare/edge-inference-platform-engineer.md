@@ -1,3 +1,48 @@
+---
+company: cloudflare
+company_display: Cloudflare
+role: edge-inference-platform-engineer
+role_display: Edge Inference Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 460000
+    currency: USD
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 425000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 86000
+    total_comp_high: 215000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Edge Inference Platform Engineers at Cloudflare are the architects of the AI Inference serving layer that powers Edge Sovereignty across the world's largest distributed network — the single most commercially valuable engineering role at the company."
+---
 ### Edge Inference Platform Engineer — Cloudflare Salary Negotiation Guide
 
 **Negotiation DNA**: Edge Inference Platform Engineers at Cloudflare are the architects of the AI Inference serving layer that powers Edge Sovereignty across the world's largest distributed network — the single most commercially valuable engineering role at the company.

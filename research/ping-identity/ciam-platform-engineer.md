@@ -1,3 +1,48 @@
+---
+company: ping-identity
+company_display: Ping Identity
+role: ciam-platform-engineer
+role_display: CIAM Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver
+    base_low: 208000
+    base_high: 262000
+    stock_low: 92000
+    stock_high: 162000
+    bonus_pct: 15
+    total_comp_low: 272000
+    total_comp_high: 385000
+    currency: USD
+  - region: Austin
+    base_low: 202000
+    base_high: 255000
+    stock_low: 92000
+    stock_high: 162000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 378000
+    currency: USD
+  - region: Remote US
+    base_low: 195000
+    base_high: 248000
+    stock_low: 92000
+    stock_high: 162000
+    bonus_pct: 15
+    total_comp_low: 258000
+    total_comp_high: 368000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ping Identity CIAM Platform (IC4-IC5) = Okta Sr/Staff Platform Engineer = Auth0 Platform Engineer = Microsoft Entra ID Platform Engineer (L63-L65) = CyberArk CIAM Engineer = ForgeRock CIAM Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **+20-30% CIAM COMPLEXITY PREMIUM** | **SIGNATURE ROLE**"
+---
 ### CIAM Platform Engineer | Ping Identity Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **+20-30% CIAM COMPLEXITY PREMIUM** | **SIGNATURE ROLE**

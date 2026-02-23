@@ -1,3 +1,53 @@
+---
+company: goldman-sachs
+company_display: Goldman Sachs
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 200000
+    base_high: 275000
+    stock_low: 65000
+    stock_high: 105000
+    bonus_low: 43000
+    bonus_high: 65000
+    total_comp_low: 308000
+    total_comp_high: 445000
+    currency: USD
+  - region: London
+    base_low: 152000
+    base_high: 208000
+    stock_low: 49000
+    stock_high: 80000
+    bonus_low: 33000
+    bonus_high: 49000
+    total_comp_low: 234000
+    total_comp_high: 337000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 5000000
+    base_high: 7200000
+    stock_low: 1800000
+    stock_high: 3000000
+    bonus_low: 1200000
+    bonus_high: 1800000
+    total_comp_low: 8000000
+    total_comp_high: 12000000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: "`Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Vice President / Executive Director` `People Leadership` `Engineering Org Scaling`"
+---
 ### Engineering Manager | Goldman Sachs Global Negotiation Guide
 
 **Negotiation DNA:** `Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Vice President / Executive Director` `People Leadership` `Engineering Org Scaling`

@@ -1,3 +1,50 @@
+---
+company: hex
+company_display: Hex
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 205000
+    stock_low: 110000
+    stock_high: 200000
+    bonus_pct: 5
+    total_comp_low: 200000
+    total_comp_high: 275000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 200000
+    stock_low: 110000
+    stock_high: 200000
+    bonus_pct: 5
+    total_comp_low: 195000
+    total_comp_high: 268000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 155000
+    stock_low: 82000
+    stock_high: 150000
+    bonus_pct: 5
+    total_comp_low: 150000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Hex Data Engineer = Google L4 Data Engineer = Snowflake Data Engineer II = Databricks Data Engineer = dbt Labs Senior Analytics Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Growth-Stage Equity | Data Analytics Platform Pioneer | 2026 Focus: Warehouse-Native AI Integrations"
+---
 ### Data Engineer | Hex Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Growth-Stage Equity | Data Analytics Platform Pioneer | 2026 Focus: Warehouse-Native AI Integrations

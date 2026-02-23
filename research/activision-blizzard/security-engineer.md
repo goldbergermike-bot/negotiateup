@@ -1,3 +1,48 @@
+---
+company: activision-blizzard
+company_display: Activision Blizzard
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine / Santa Monica
+    base_low: 165000
+    base_high: 225000
+    stock_low: 90000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 340000
+    currency: USD
+  - region: Austin
+    base_low: 145000
+    base_high: 200000
+    stock_low: 75000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 298000
+    currency: USD
+  - region: Hyderabad
+    base_low: 2600000
+    base_high: 4800000
+    stock_low: 1600000
+    stock_high: 3500000
+    bonus_pct: 10
+    total_comp_low: 4600000
+    total_comp_high: 8800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Activision/MS Security Level 62-64 = Google L4-L5 Security = Amazon L6 Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine"
+---
 ### Security Engineer | Activision Blizzard (Microsoft/Xbox) Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine

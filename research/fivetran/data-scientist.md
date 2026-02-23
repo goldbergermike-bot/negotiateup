@@ -1,3 +1,48 @@
+---
+company: fivetran
+company_display: Fivetran
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland / Remote-US
+    base_low: 168000
+    base_high: 205000
+    stock_low: 115000
+    stock_high: 208000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 285000
+    currency: USD
+  - region: Denver
+    base_low: 162000
+    base_high: 198000
+    stock_low: 108000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 272000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 150000
+    stock_low: 80000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Fivetran DS = Google L4 DS = Snowflake DS = Databricks DS = Monte Carlo DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity + Performance Bonus | AI Pipeline Intelligence & Data Quality 2026"
+---
 ### Data Scientist | Fivetran Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity + Performance Bonus | AI Pipeline Intelligence & Data Quality 2026

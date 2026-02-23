@@ -1,3 +1,56 @@
+---
+company: new-relic
+company_display: New Relic
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 130000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 20000
+    total_comp_low: 160000
+    total_comp_high: 210000
+    currency: USD
+  - region: Portland
+    base_low: 115000
+    base_high: 148000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 8000
+    signing_bonus_high: 15000
+    total_comp_low: 140000
+    total_comp_high: 185000
+    currency: USD
+  - region: London
+    base_low: 70000
+    base_high: 95000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 5000
+    signing_bonus_high: 12000
+    total_comp_low: 85000
+    total_comp_high: 120000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Software Engineer at New Relic maps to L3/L4 (junior–mid) in the industry. Equivalent titles include SDE I/II (Amazon), E3/E4 (Meta), L3/L4 (Google), and SWE (Datadog/Dynatrace competitors)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Software Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | Observability Platform"
+---
 ### Software Engineer | New Relic Global Negotiation Guide
 
 **Negotiation DNA:** Software Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | Observability Platform

@@ -1,3 +1,30 @@
+---
+company: lucid-motors
+company_display: Lucid Motors
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newark CA (HQ)
+    base_low: 135000
+    base_high: 188000
+    stock_low: 55000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lucid Data Engineer = Google Data Engineer L3-L4 = Tesla Data Engineer = Rivian Data Engineer = Amazon Data Engineer II
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive but Volatile Equity (LCID) | Luxury EV Leader | Saudi Backing | Bay Area Location"
+---
 ### Data Engineer | Lucid Motors Global Negotiation Guide
 
 **Negotiation DNA:** Competitive but Volatile Equity (LCID) | Luxury EV Leader | Saudi Backing | Bay Area Location

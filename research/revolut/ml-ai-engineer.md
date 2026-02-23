@@ -1,3 +1,48 @@
+---
+company: revolut
+company_display: Revolut
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":gb: London (GBP)"
+    base_low: 80000
+    base_high: 130000
+    stock_low: 50000
+    stock_high: 170000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 300000
+    currency: GBP
+  - region: ":lt: Vilnius (EUR)"
+    base_low: 55000
+    base_high: 95000
+    stock_low: 35000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 90000
+    total_comp_high: 215000
+    currency: EUR
+  - region: ":us: New York (USD)"
+    base_low: 150000
+    base_high: 220000
+    stock_low: 90000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 500000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into an ML/AI engineering compensation framework spanning London, Vilnius, and New York markets. ML/AI Engineers at Revolut build the intelligent systems that automate fraud detection, power credit decisioning, drive personalization at scale, and enable the AI-first operational model that differentiates Revolut from legacy banks. You are building the machine intelligence layer of a $75B super"
+---
 ### ML/AI Engineer — Revolut Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into an ML/AI engineering compensation framework spanning London, Vilnius, and New York markets. ML/AI Engineers at Revolut build the intelligent systems that automate fraud detection, power credit decisioning, drive personalization at scale, and enable the AI-first operational model that differentiates Revolut from legacy banks. You are building the machine intelligence layer of a $75B super-app — and the models you deploy directly impact the $3.5B profit trajectory heading into a historic US IPO.

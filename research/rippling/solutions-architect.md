@@ -1,3 +1,48 @@
+---
+company: rippling
+company_display: Rippling
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 172000
+    base_high: 225000
+    stock_low: 155000
+    stock_high: 292000
+    bonus_pct: 12
+    total_comp_low: 242000
+    total_comp_high: 358000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 222000
+    stock_low: 152000
+    stock_high: 285000
+    bonus_pct: 12
+    total_comp_low: 238000
+    total_comp_high: 352000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 212000
+    stock_low: 142000
+    stock_high: 268000
+    bonus_pct: 12
+    total_comp_low: 225000
+    total_comp_high: 332000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rippling Solutions Architect = Gusto SA = Workday SA = ADP SA = Google L4-L5 SA = Salesforce SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **ENTERPRISE INTEGRATION PREMIUM**"
+---
 ### Solutions Architect | Rippling Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **ENTERPRISE INTEGRATION PREMIUM**

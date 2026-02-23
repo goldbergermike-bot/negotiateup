@@ -1,3 +1,48 @@
+---
+company: expedia
+company_display: Expedia
+role: one-key-travel-ai-engineer
+role_display: One Key Travel AI Engineer (SIGNATURE ROLE)
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 192000
+    base_high: 260000
+    stock_low: 168000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 365000
+    currency: USD
+  - region: Austin
+    base_low: 174000
+    base_high: 235000
+    stock_low: 148000
+    stock_high: 248000
+    bonus_pct: 15
+    total_comp_low: 236000
+    total_comp_high: 328000
+    currency: USD
+  - region: London
+    base_low: 140000
+    base_high: 190000
+    stock_low: 126000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: GBP
+level_mapping:
+  internal: SIGNATURE ROLE
+  raw: "Expedia One Key Travel AI Engineer = Google Senior ML Engineer L5/L6 = Booking.com Senior ML Engineer = Airbnb Senior ML Engineer = Amazon Applied Scientist III = Microsoft Senior ML Engineer 64/65 (Note: This is a signature role with no direct equivalent — the cross-brand unified loyalty AI specialization is unique to Expedia Group)"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | +20-30% AI Premium | One Key Personalization AI | Cross-Brand Recommendation Engines | Travel Intent Understanding | Dynamic Pricing Optimization | Unified Loyalty AI"
+---
 ### One Key Travel AI Engineer (SIGNATURE ROLE) | Expedia Global Negotiation Guide
 
 **Negotiation DNA:** Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | +20-30% AI Premium | One Key Personalization AI | Cross-Brand Recommendation Engines | Travel Intent Understanding | Dynamic Pricing Optimization | Unified Loyalty AI

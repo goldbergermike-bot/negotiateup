@@ -1,3 +1,52 @@
+---
+company: coinbase
+company_display: Coinbase
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 245000
+    stock_low: 300000
+    stock_high: 560000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 302000
+    total_comp_high: 425000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 240000
+    stock_low: 285000
+    stock_high: 540000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 295000
+    total_comp_high: 418000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 220000
+    stock_low: 260000
+    stock_high: 490000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 275000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "`Everything Exchange` · `$2B Buyback` · `COIN` · `IC5` · `Multi-Asset Architecture` · `System Design Authority` · `RSU/4yr Vest`"
+---
 ### Senior Software Engineer | Coinbase Global Negotiation Guide
 
 **Negotiation DNA:** `Everything Exchange` · `$2B Buyback` · `COIN` · `IC5` · `Multi-Asset Architecture` · `System Design Authority` · `RSU/4yr Vest`

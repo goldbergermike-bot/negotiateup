@@ -1,3 +1,48 @@
+---
+company: klarna
+company_display: Klarna
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 225000
+    stock_low: 122000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote EU
+    base_low: 68000
+    base_high: 88000
+    stock_low: 42000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 78000
+    total_comp_high: 115000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Klarna SA (SA2-SA3) = Stripe SA = Adyen SA = Block SA = Google L5 Payments SA = PayPal SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER**"
+---
 ### Solutions Architect | Klarna Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER**

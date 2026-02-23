@@ -1,3 +1,52 @@
+---
+company: stripe
+company_display: Stripe
+role: agentic-commerce-platform-engineer
+role_display: Agentic Commerce Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 248000
+    base_high: 312000
+    stock_low: 348000
+    stock_high: 615000
+    bonus_pct: 15
+    total_comp_low: 398000
+    total_comp_high: 562000
+    currency: USD
+  - region: New York
+    base_low: 248000
+    base_high: 312000
+    stock_low: 348000
+    stock_high: 615000
+    bonus_pct: 15
+    total_comp_low: 398000
+    total_comp_high: 562000
+    currency: USD
+  - region: Remote US
+    base_low: 232000
+    base_high: 292000
+    stock_low: 325000
+    stock_high: 575000
+    bonus_pct: 15
+    total_comp_low: 372000
+    total_comp_high: 528000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Stripe Agentic Commerce Platform Engineer = No Direct Equivalent (First-of-Kind Role) > Adyen Sr/Staff SWE > Block/Square Sr/Staff SWE > PayPal/Braintree Sr/Staff SWE > Google L5-L6 Payments"
+data_sources:
+  - Stripe Agentic Commerce Suite — NRF 2026 Launch — Signature Platform Initiative
+  - Stripe Agentic Commerce Platform Engineer Comp
+  - Stripe $100B+ Valuation — $1T+ Payment Volume — Agentic Commerce Premium
+  - Stripe vs Adyen/Block/PayPal/Google — Agentic Commerce Talent War
+  - Identity Liability Problem — AI Agent Autonomous Transaction Trust
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | +25–35% Agentic Commerce Premium | **SIGNATURE TRUST ORCHESTRATOR ROLE**"
+---
 ### Agentic Commerce Platform Engineer | Stripe Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | +25–35% Agentic Commerce Premium | **SIGNATURE TRUST ORCHESTRATOR ROLE**

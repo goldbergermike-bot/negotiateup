@@ -1,3 +1,51 @@
+---
+company: cme-group
+company_display: CME Group
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 115000
+    base_high: 155000
+    stock_low: 28000
+    stock_high: 48000
+    bonus_low: 19000
+    bonus_high: 29000
+    total_comp_low: 162000
+    total_comp_high: 232000
+    currency: USD
+  - region: New York
+    base_low: 124000
+    base_high: 167000
+    stock_low: 30000
+    stock_high: 52000
+    bonus_low: 21000
+    bonus_high: 31000
+    total_comp_low: 175000
+    total_comp_high: 250000
+    currency: USD
+  - region: London
+    base_low: 89000
+    base_high: 120000
+    stock_low: 22000
+    stock_high: 37000
+    bonus_low: 15000
+    bonus_high: 22000
+    total_comp_low: 126000
+    total_comp_high: 179000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Data Visualization` `Financial UX` `Developer Experience`"
+---
 ### Product Designer | CME Group Global Negotiation Guide
 
 **Negotiation DNA:** `Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Data Visualization` `Financial UX` `Developer Experience`

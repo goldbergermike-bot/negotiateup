@@ -1,3 +1,48 @@
+---
+company: snowflake-ai
+company_display: Snowflake AI
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bozeman
+    base_low: 195000
+    base_high: 252000
+    stock_low: 265000
+    stock_high: 425000
+    bonus_pct: null
+    total_comp_low: 262000
+    total_comp_high: 358000
+    currency: USD
+  - region: Seattle
+    base_low: 188000
+    base_high: 245000
+    stock_low: 252000
+    stock_high: 408000
+    bonus_pct: null
+    total_comp_low: 252000
+    total_comp_high: 347000
+    currency: USD
+  - region: Warsaw
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snowflake PM = Google L5 PM = Meta IC5 PM = Databricks PM = Amazon L6 PMT
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Cortex AI Platform Pivot | CEO-Led AI Transformation | TOP-OF-MARKET Initial Grants"
+---
 ### Product Manager | Snowflake AI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Cortex AI Platform Pivot | CEO-Led AI Transformation | TOP-OF-MARKET Initial Grants

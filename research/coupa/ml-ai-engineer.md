@@ -1,3 +1,53 @@
+---
+company: coupa
+company_display: Coupa
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 175000
+    base_high: 225000
+    stock_low: 60000
+    stock_high: 140000
+    bonus_low: 22000
+    bonus_high: 40000
+    total_comp_low: 257000
+    total_comp_high: 405000
+    currency: USD
+  - region: New York NY
+    base_low: 170000
+    base_high: 220000
+    stock_low: 55000
+    stock_high: 130000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 245000
+    total_comp_high: 388000
+    currency: USD
+  - region: London UK
+    base_low: 115000
+    base_high: 150000
+    stock_low: 38000
+    stock_high: 85000
+    bonus_low: 14000
+    bonus_high: 26000
+    total_comp_low: 167000
+    total_comp_high: 261000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Coupa | Google | Meta | Stripe | SAP | Oracle |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `Machine Learning` `Community Intelligence` `Autonomous Systems`"
+---
 ### ML/AI Engineer | Coupa Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `Machine Learning` `Community Intelligence` `Autonomous Systems`

@@ -1,3 +1,53 @@
+---
+company: coupa
+company_display: Coupa
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 135000
+    base_high: 165000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 12000
+    bonus_high: 20000
+    total_comp_low: 187000
+    total_comp_high: 265000
+    currency: USD
+  - region: New York NY
+    base_low: 130000
+    base_high: 160000
+    stock_low: 35000
+    stock_high: 75000
+    bonus_low: 12000
+    bonus_high: 18000
+    total_comp_low: 177000
+    total_comp_high: 253000
+    currency: USD
+  - region: London UK
+    base_low: 85000
+    base_high: 110000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_low: 8000
+    bonus_high: 14000
+    total_comp_low: 118000
+    total_comp_high: 174000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Coupa | Google | Meta | Stripe | SAP | Oracle |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform`"
+---
 ### Software Engineer | Coupa Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform`

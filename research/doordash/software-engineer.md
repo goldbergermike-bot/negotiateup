@@ -1,3 +1,48 @@
+---
+company: doordash
+company_display: DoorDash
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 205000
+    stock_low: 145000
+    stock_high: 248000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 273000
+    currency: USD
+  - region: New York City
+    base_low: 165000
+    base_high: 205000
+    stock_low: 145000
+    stock_high: 248000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 273000
+    currency: USD
+  - region: Sydney
+    base_low: 135000
+    base_high: 168000
+    stock_low: 95000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 163000
+    total_comp_high: 215000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: DoorDash SWE = Google L3-L4 = Uber SWE = Instacart SWE = Meta E3-E4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion"
+---
 ### Software Engineer | DoorDash Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion

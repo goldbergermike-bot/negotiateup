@@ -1,3 +1,51 @@
+---
+company: charles-schwab
+company_display: Charles Schwab
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westlake, TX (HQ)"
+    base_low: 178000
+    base_high: 245000
+    stock_low: 55000
+    stock_high: 90000
+    bonus_low: 29000
+    bonus_high: 47000
+    total_comp_low: 262000
+    total_comp_high: 382000
+    currency: USD
+  - region: San Francisco
+    base_low: 196000
+    base_high: 270000
+    stock_low: 61000
+    stock_high: 99000
+    bonus_low: 32000
+    bonus_high: 52000
+    total_comp_low: 288000
+    total_comp_high: 420000
+    currency: USD
+  - region: Denver
+    base_low: 187000
+    base_high: 257000
+    stock_low: 58000
+    stock_high: 95000
+    bonus_low: 30000
+    bonus_high: 49000
+    total_comp_low: 275000
+    total_comp_high: 401000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Advisor-Augmenting AI` `Schwab Intelligent Portfolios` `Responsible AI` `Human-in-the-Loop ML`"
+---
 ### ML/AI Engineer | Charles Schwab Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Advisor-Augmenting AI` `Schwab Intelligent Portfolios` `Responsible AI` `Human-in-the-Loop ML`

@@ -1,3 +1,43 @@
+---
+company: two-sigma
+company_display: Two Sigma
+role: quantitative-research-engineer
+role_display: Quantitative Research Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 200000
+    base_high: 300000
+    stock_low: null
+    stock_high: null
+    bonus_low: 200000
+    bonus_high: 600000
+    total_comp_low: 400000
+    total_comp_high: 900000
+    currency: USD
+  - region: Houston
+    base_low: 185000
+    base_high: 275000
+    stock_low: null
+    stock_high: null
+    bonus_low: 185000
+    bonus_high: 550000
+    total_comp_low: 370000
+    total_comp_high: 825000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Quantitative Research Engineer at Two Sigma = L5-L7 at Google, E5-E7 at Meta, SDE III-Principal at Amazon, no equivalent at traditional banks"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp -- top of market for quant/tech + Bonus 100-200%+ of base | Two Sigma is among the highest-paying employers in the world for quantitative talent | **ELITE QUANT PREMIUM**"
+---
 ### Quantitative Research Engineer | Two Sigma Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp -- top of market for quant/tech + Bonus 100-200%+ of base | Two Sigma is among the highest-paying employers in the world for quantitative talent | **ELITE QUANT PREMIUM**

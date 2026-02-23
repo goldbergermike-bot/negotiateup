@@ -1,3 +1,48 @@
+---
+company: epic-games
+company_display: Epic Games
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 165000
+    base_high: 230000
+    stock_low: 100000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 375000
+    currency: USD
+  - region: Seattle
+    base_low: 175000
+    base_high: 240000
+    stock_low: 110000
+    stock_high: 270000
+    bonus_pct: 15
+    total_comp_low: 255000
+    total_comp_high: 395000
+    currency: USD
+  - region: London
+    base_low: 65000
+    base_high: 105000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_pct: 15
+    total_comp_low: 100000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic ML Engineer = Google L4-L5 ML = Meta E4-E5 ML = NVIDIA ML Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue | **+10–20% AI PREMIUM**"
+---
 ### ML/AI Engineer | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue | **+10–20% AI PREMIUM**

@@ -1,3 +1,54 @@
+---
+company: tpg
+company_display: Tpg
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 228000
+    base_high: 295000
+    stock_low: 220000
+    stock_high: 345000
+    bonus_low: 48000
+    bonus_high: 78000
+    total_comp_low: 498000
+    total_comp_high: 575000
+    currency: USD
+  - region: "Fort Worth, TX"
+    base_low: 195000
+    base_high: 252000
+    stock_low: 178000
+    stock_high: 280000
+    bonus_low: 38000
+    bonus_high: 62000
+    total_comp_low: 398000
+    total_comp_high: 472000
+    currency: USD
+  - region: New York
+    base_low: 222000
+    base_high: 288000
+    stock_low: 210000
+    stock_high: 332000
+    bonus_low: 45000
+    bonus_high: 75000
+    total_comp_low: 480000
+    total_comp_high: 558000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "`Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `+15-25% AI Premium` `Model Development` `Production ML Systems` `Revenue-Driving AI Builder`"
+---
 ### ML/AI Engineer | TPG Global Negotiation Guide
 
 **Negotiation DNA:** `Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `+15-25% AI Premium` `Model Development` `Production ML Systems` `Revenue-Driving AI Builder`

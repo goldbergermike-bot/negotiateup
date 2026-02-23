@@ -1,3 +1,48 @@
+---
+company: oracle
+company_display: Oracle
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 165000
+    base_high: 205000
+    stock_low: 130000
+    stock_high: 230000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 270000
+    currency: USD
+  - region: Seattle
+    base_low: 178000
+    base_high: 218000
+    stock_low: 145000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 218000
+    total_comp_high: 290000
+    currency: USD
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 4800000
+    stock_low: 1500000
+    stock_high: 2800000
+    bonus_pct: null
+    total_comp_low: 3800000
+    total_comp_high: 5800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Oracle IC4 Senior SWE = Google L4 = Meta E4 = AWS SDE-II
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Sign-On Bonus Culture | OCI \"Stargate\" AI Infrastructure Pivot | $500B JV Premium"
+---
 ### Senior Software Engineer | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Sign-On Bonus Culture | OCI "Stargate" AI Infrastructure Pivot | $500B JV Premium

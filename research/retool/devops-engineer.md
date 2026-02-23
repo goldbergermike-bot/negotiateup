@@ -1,3 +1,48 @@
+---
+company: retool
+company_display: Retool
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 212000
+    stock_low: 135000
+    stock_high: 242000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 308000
+    currency: USD
+  - region: New York
+    base_low: 163000
+    base_high: 208000
+    stock_low: 130000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 300000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 140000
+    stock_low: 88000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 142000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Retool DevOps (L3-L5) = Google SRE L4-L5 = Meta Production Engineer E4-E5 = Vercel DevOps = Render DevOps
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | Platform Infrastructure & AI Deployment | 30K+ Companies | **RETOOL AI PREMIUM**"
+---
 ### DevOps Engineer | Retool Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | Platform Infrastructure & AI Deployment | 30K+ Companies | **RETOOL AI PREMIUM**

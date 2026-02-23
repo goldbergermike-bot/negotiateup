@@ -1,3 +1,48 @@
+---
+company: fivetran
+company_display: Fivetran
+role: ai-data-pipeline-engineer
+role_display: AI Data Pipeline Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland / Remote-US
+    base_low: 188000
+    base_high: 232000
+    stock_low: 155000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 272000
+    total_comp_high: 375000
+    currency: USD
+  - region: Denver
+    base_low: 182000
+    base_high: 225000
+    stock_low: 148000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 362000
+    currency: USD
+  - region: London
+    base_low: 135000
+    base_high: 168000
+    stock_low: 108000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 258000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Fivetran AI Pipeline Eng = Google L5 ML = Snowflake AI Platform Eng = Databricks ML Eng = No direct equivalent at most companies
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Top-Tier Equity + Signing Bonus | AI-Automated Connector Generation Core 2026"
+---
 ### AI Data Pipeline Engineer | Fivetran Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier Equity + Signing Bonus | AI-Automated Connector Generation Core 2026

@@ -1,3 +1,50 @@
+---
+company: weights-and-biases
+company_display: "Weights & Biases"
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 230000
+    stock_low: 150000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 350000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 225000
+    stock_low: 150000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 243000
+    total_comp_high: 343000
+    currency: USD
+  - region: London
+    base_low: 137000
+    base_high: 175000
+    stock_low: 113000
+    stock_high: 203000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 265000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "W&B PM = Google L5 PM = Meta PM IC5 = Databricks PM = Datadog PM = Snowflake PM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity | MLOps Platform Leader | 2026 Focus: AI Development Lifecycle Product Strategy"
+---
 ### Product Manager | Weights & Biases Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity | MLOps Platform Leader | 2026 Focus: AI Development Lifecycle Product Strategy

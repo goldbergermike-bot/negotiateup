@@ -1,3 +1,39 @@
+---
+company: aurora-innovation
+company_display: Aurora Innovation
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pittsburgh (HQ)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 85000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: USD
+  - region: Bay Area
+    base_low: 165000
+    base_high: 228000
+    stock_low: 95000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Aurora ML/AI Engineer = Google ML Engineer L4-L5 = Waymo ML Engineer = Meta ML Engineer (IC4-IC5) = Tesla ML Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Comp | AUR Equity (Pre-Maturity) | **+5-15% ML PREMIUM** | Self-Driving Trucks Pioneer | Pittsburgh Advantage"
+---
 ### ML/AI Engineer | Aurora Innovation Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Comp | AUR Equity (Pre-Maturity) | **+5-15% ML PREMIUM** | Self-Driving Trucks Pioneer | Pittsburgh Advantage

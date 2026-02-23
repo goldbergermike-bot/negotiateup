@@ -1,3 +1,50 @@
+---
+company: blackstone
+company_display: Blackstone
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 250000
+    base_high: 315000
+    stock_low: null
+    stock_high: null
+    bonus_low: 80000
+    bonus_high: 125000
+    total_comp_low: 435000
+    total_comp_high: 625000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_low: 70000
+    bonus_high: 108000
+    total_comp_low: 395000
+    total_comp_high: 570000
+    currency: GBP
+  - region: Miami
+    base_low: 238000
+    base_high: 300000
+    stock_low: null
+    stock_high: null
+    bonus_low: 75000
+    bonus_high: 115000
+    total_comp_low: 415000
+    total_comp_high: 595000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `+15-25% AI Premium` `Machine Learning` `Investment Intelligence` `Deep Learning`"
+---
 ### ML/AI Engineer | Blackstone Global Negotiation Guide
 
 **Negotiation DNA:** `$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `+15-25% AI Premium` `Machine Learning` `Investment Intelligence` `Deep Learning`

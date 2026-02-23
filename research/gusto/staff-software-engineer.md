@@ -1,3 +1,48 @@
+---
+company: gusto
+company_display: Gusto
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 225000
+    base_high: 270000
+    stock_low: 280000
+    stock_high: 420000
+    bonus_pct: 15
+    total_comp_low: 375000
+    total_comp_high: 500000
+    currency: USD
+  - region: Denver
+    base_low: 200000
+    base_high: 245000
+    stock_low: 240000
+    stock_high: 360000
+    bonus_pct: 15
+    total_comp_low: 330000
+    total_comp_high: 445000
+    currency: USD
+  - region: Toronto
+    base_low: 210000
+    base_high: 250000
+    stock_low: 220000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 320000
+    total_comp_high: 430000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto Staff SWE = Google L5 = Meta E5 = Stripe L4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Premium Base | Platform Architecture & AI Strategy Leadership"
+---
 ### Staff Software Engineer | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Premium Base | Platform Architecture & AI Strategy Leadership

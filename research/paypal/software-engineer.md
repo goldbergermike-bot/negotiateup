@@ -1,3 +1,53 @@
+---
+company: paypal
+company_display: Paypal
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 130000
+    base_high: 175000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 222000
+    total_comp_high: 337000
+    currency: USD
+  - region: New York NY
+    base_low: 125000
+    base_high: 170000
+    stock_low: 75000
+    stock_high: 135000
+    bonus_low: 11000
+    bonus_high: 20000
+    total_comp_low: 211000
+    total_comp_high: 325000
+    currency: USD
+  - region: London UK
+    base_low: 75000
+    base_high: 105000
+    stock_low: 40000
+    stock_high: 70000
+    bonus_low: 8000
+    bonus_high: 14000
+    total_comp_low: 123000
+    total_comp_high: 189000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| PayPal | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: PYPL` `Software Engineer` `IC2-IC3` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Payments Infrastructure` `Full-Stack` `Venmo` `PYUSD`"
+---
 ### Software Engineer | PayPal Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: PYPL` `Software Engineer` `IC2-IC3` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Payments Infrastructure` `Full-Stack` `Venmo` `PYUSD`

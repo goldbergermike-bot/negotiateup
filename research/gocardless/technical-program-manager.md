@@ -1,3 +1,52 @@
+---
+company: gocardless
+company_display: Gocardless
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 80000
+    base_high: 115000
+    stock_low: 20000
+    stock_high: 50000
+    bonus_low: 8000
+    bonus_high: 15000
+    total_comp_low: 108000
+    total_comp_high: 180000
+    currency: GBP
+  - region: San Francisco
+    base_low: 155000
+    base_high: 210000
+    stock_low: 35000
+    stock_high: 75000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 205000
+    total_comp_high: 313000
+    currency: USD
+  - region: Melbourne
+    base_low: 130000
+    base_high: 175000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_low: 12000
+    bonus_high: 20000
+    total_comp_low: 167000
+    total_comp_high: 250000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: "| GoCardless | Google | Meta | Stripe | Wise | Adyen |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `Cross-Functional` `Program Delivery` `Regulatory`"
+---
 ### Technical Program Manager | GoCardless Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `Cross-Functional` `Program Delivery` `Regulatory`

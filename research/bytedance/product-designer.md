@@ -1,3 +1,68 @@
+---
+company: bytedance
+company_display: Bytedance
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Mountain View (US)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 80000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 360000
+    currency: USD
+  - region: New York City / Los Angeles (US)
+    base_low: 145000
+    base_high: 210000
+    stock_low: 75000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 350000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 400000
+    base_high: 720000
+    stock_low: 160000
+    stock_high: 450000
+    bonus_pct: 20
+    total_comp_low: 600000
+    total_comp_high: 1200000
+    currency: CNY
+  - region: Shanghai
+    base_low: 380000
+    base_high: 690000
+    stock_low: 150000
+    stock_high: 430000
+    bonus_pct: 20
+    total_comp_low: 570000
+    total_comp_high: 1150000
+    currency: CNY
+  - region: Singapore
+    base_low: 110000
+    base_high: 175000
+    stock_low: 50000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 150000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Designer at ByteDance (1-2 to 2-2) = L4-L5 at Google, IC4-IC5 at Meta, ICT3-ICT4 at Apple"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Private $225B+ with TikTok defining the UX of short-form video globally + CapCut becoming world's leading video editor + FAANG-competitive US design comp | ByteDance designers shape interaction patterns used by 1.5B+ people | **CULTURAL IMPACT DESIGN PREMIUM**"
+---
 ### Product Designer | ByteDance Global Negotiation Guide
 
 **Negotiation DNA:** Private $225B+ with TikTok defining the UX of short-form video globally + CapCut becoming world's leading video editor + FAANG-competitive US design comp | ByteDance designers shape interaction patterns used by 1.5B+ people | **CULTURAL IMPACT DESIGN PREMIUM**

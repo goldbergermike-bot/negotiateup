@@ -1,3 +1,50 @@
+---
+company: comcast
+company_display: Comcast
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / NYC
+    base_low: 180000
+    base_high: 250000
+    stock_low: 100000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 425000
+    currency: USD
+  - region: Denver / Seattle
+    base_low: 175000
+    base_high: 245000
+    stock_low: 90000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 410000
+    currency: USD
+  - region: London (UK)
+    base_low: 135000
+    base_high: 185000
+    stock_low: 70000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 320000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Comcast Staff SWE (T6) = Google L6 = Meta E6 = Amazon Principal SDE = Microsoft 65-66 = Apple ICT5 = Netflix Senior+ SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$170B Media-Tech Conglomerate | Technical Strategy Owner | Cross-Organization Architecture"
+---
 ### Staff Software Engineer | Comcast Global Negotiation Guide
 
 **Negotiation DNA:** $170B Media-Tech Conglomerate | Technical Strategy Owner | Cross-Organization Architecture

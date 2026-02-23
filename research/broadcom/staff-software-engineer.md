@@ -1,3 +1,48 @@
+---
+company: broadcom
+company_display: Broadcom
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose (USD)
+    base_low: 200000
+    base_high: 260000
+    stock_low: 280000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 408000
+    currency: USD
+  - region: Singapore (SGD S$)
+    base_low: 168000
+    base_high: 218000
+    stock_low: 230000
+    stock_high: 395000
+    bonus_pct: 15
+    total_comp_low: 226000
+    total_comp_high: 340000
+    currency: SGD
+  - region: London (GBP £)
+    base_low: 128000
+    base_high: 172000
+    stock_low: 168000
+    stock_high: 290000
+    bonus_pct: 15
+    total_comp_low: 172000
+    total_comp_high: 265000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Broadcom Staff Software Engineer (IC5-IC6) = VMware Principal Engineer = Google L6-L7 = NVIDIA Staff/Principal Engineer = Microsoft Principal SDE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp"
+---
 ### Staff Software Engineer | Broadcom Global Negotiation Guide
 
 **Negotiation DNA:** Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp

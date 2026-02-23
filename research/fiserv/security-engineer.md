@@ -1,3 +1,52 @@
+---
+company: fiserv
+company_display: Fiserv
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brookfield WI
+    base_low: 145000
+    base_high: 195000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 243000
+    total_comp_high: 400000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 230000
+    stock_low: 100000
+    stock_high: 210000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 292000
+    total_comp_high: 482000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 140000
+    stock_low: 50000
+    stock_high: 105000
+    bonus_low: 12000
+    bonus_high: 24000
+    total_comp_low: 157000
+    total_comp_high: 269000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Fiserv | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Security & Compliance` `AppSec/InfraSec`"
+---
 ### Security Engineer | Fiserv Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Security & Compliance` `AppSec/InfraSec`

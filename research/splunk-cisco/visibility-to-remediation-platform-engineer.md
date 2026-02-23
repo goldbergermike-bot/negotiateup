@@ -1,3 +1,47 @@
+---
+company: splunk-cisco
+company_display: Splunk (Cisco)
+role: visibility-to-remediation-platform-engineer
+role_display: Visibility-to-Remediation Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 400000
+    currency: USD
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 390000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "The Visibility-to-Remediation Platform Engineer is Splunk (Cisco)'s signature role — the engineer who owns the end-to-end autonomous pipeline from detection through remediation, powered by AgenticOps. This role commands the highest compensation premiums in the Splunk organization because it sits at the exact intersection of Cisco's $28B acquisition thesis."
+---
 ### Visibility-to-Remediation Platform Engineer — Splunk (Cisco) Salary Negotiation Guide
 
 **Negotiation DNA**: The Visibility-to-Remediation Platform Engineer is Splunk (Cisco)'s signature role — the engineer who owns the end-to-end autonomous pipeline from detection through remediation, powered by AgenticOps. This role commands the highest compensation premiums in the Splunk organization because it sits at the exact intersection of Cisco's $28B acquisition thesis.

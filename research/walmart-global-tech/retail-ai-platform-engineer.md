@@ -1,3 +1,39 @@
+---
+company: walmart-global-tech
+company_display: Walmart Global Tech
+role: retail-ai-platform-engineer
+role_display: Retail AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bentonville AR (HQ)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 310000
+    currency: USD
+  - region: Bay Area (Sunnyvale)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 80000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Walmart Retail AI Platform Engineer (Senior) = Google ML Platform Engineer L4-L5 = Amazon Applied Scientist II-III = Meta ML Engineer (IC4-IC5)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | **SIGNATURE ROLE** | **+5-15% AI PLATFORM PREMIUM** | $600B+ Retail Giant"
+---
 ### Retail AI Platform Engineer | Walmart Global Tech Global Negotiation Guide
 
 **Negotiation DNA:** Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | **SIGNATURE ROLE** | **+5-15% AI PLATFORM PREMIUM** | $600B+ Retail Giant

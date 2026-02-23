@@ -1,3 +1,48 @@
+---
+company: arista
+company_display: Arista Networks
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 218000
+    base_high: 272000
+    stock_low: 258000
+    stock_high: 455000
+    bonus_pct: 15
+    total_comp_low: 312000
+    total_comp_high: 438000
+    currency: USD
+  - region: Vancouver (BC)
+    base_low: 208000
+    base_high: 258000
+    stock_low: 242000
+    stock_high: 428000
+    bonus_pct: 15
+    total_comp_low: 298000
+    total_comp_high: 415000
+    currency: CAD
+  - region: Remote US
+    base_low: 212000
+    base_high: 265000
+    stock_low: 258000
+    stock_high: 455000
+    bonus_pct: 15
+    total_comp_low: 308000
+    total_comp_high: 432000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Arista ML/AI Eng (IC3-IC4) = Cisco ML Eng = Juniper Mist ML = Google L5-L6 ML Network = AWS ML Network
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density | **+15–25% AI PREMIUM**"
+---
 ### ML/AI Engineer | Arista Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density | **+15–25% AI PREMIUM**

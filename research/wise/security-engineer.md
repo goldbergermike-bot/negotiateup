@@ -1,3 +1,48 @@
+---
+company: wise
+company_display: Wise
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 70000
+    base_high: 105000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_pct: null
+    total_comp_low: 100000
+    total_comp_high: 170000
+    currency: GBP
+  - region: Tallinn (EUR)
+    base_low: 54000
+    base_high: 80000
+    stock_low: 22000
+    stock_high: 48000
+    bonus_pct: null
+    total_comp_low: 76000
+    total_comp_high: 128000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 92000
+    base_high: 138000
+    stock_low: 38000
+    stock_high: 78000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 216000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a security engineering compensation framework spanning London, Tallinn, and Singapore markets. As a Security Engineer at Wise, you are the guardian of Platform Integrity — protecting the trust of 16+ million customers, billions in monthly transaction volume, and the Wise Platform API's enterprise partner ecosystem from threat actors, complian"
+---
 ### Security Engineer — Wise Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a security engineering compensation framework spanning London, Tallinn, and Singapore markets. As a Security Engineer at Wise, you are the guardian of Platform Integrity — protecting the trust of 16+ million customers, billions in monthly transaction volume, and the Wise Platform API's enterprise partner ecosystem from threat actors, compliance violations, and security incidents.

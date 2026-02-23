@@ -1,3 +1,48 @@
+---
+company: ppro
+company_display: Ppro
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 55000
+    base_high: 75000
+    stock_low: 20000
+    stock_high: 40000
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 115000
+    currency: GBP
+  - region: Munich (EUR)
+    base_low: 58000
+    base_high: 78000
+    stock_low: 18000
+    stock_high: 38000
+    bonus_pct: null
+    total_comp_low: 76000
+    total_comp_high: 116000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 72000
+    base_high: 100000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: null
+    total_comp_low: 97000
+    total_comp_high: 150000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a software engineering compensation framework spanning London, Munich, and Singapore markets."
+---
 ### Software Engineer — PPRO Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a software engineering compensation framework spanning London, Munich, and Singapore markets.

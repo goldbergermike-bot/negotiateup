@@ -1,3 +1,56 @@
+---
+company: netskope
+company_display: Netskope
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 165000
+    base_high: 205000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_pct: 12
+    signing_bonus_low: 18000
+    signing_bonus_high: 35000
+    total_comp_low: 220000
+    total_comp_high: 310000
+    currency: USD
+  - region: London
+    base_low: 82000
+    base_high: 110000
+    stock_low: 72000
+    stock_high: 145000
+    bonus_pct: 12
+    signing_bonus_low: 10000
+    signing_bonus_high: 20000
+    total_comp_low: 115000
+    total_comp_high: 165000
+    currency: GBP
+  - region: Bangalore
+    base_low: 2800000
+    base_high: 4200000
+    stock_low: 2000000
+    stock_high: 4200000
+    bonus_pct: 12
+    signing_bonus_low: 350000
+    signing_bonus_high: 800000
+    total_comp_low: 3700000
+    total_comp_high: 6000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Data Scientist (IC3) | Netskope Data Science Band 3 | Equivalent: Google L4 DS, Meta IC4 DS, Palo Alto Networks DS3"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Post-IPO Cloud Security | UZTNA Threat Analytics | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation"
+---
 ### Data Scientist | Netskope Global Negotiation Guide
 
 **Negotiation DNA:** Post-IPO Cloud Security | UZTNA Threat Analytics | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation

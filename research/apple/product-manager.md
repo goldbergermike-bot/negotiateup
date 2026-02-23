@@ -1,3 +1,50 @@
+---
+company: apple
+company_display: Apple
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 175000
+    base_high: 270000
+    stock_low: 180000
+    stock_high: 500000
+    bonus_pct: 10
+    total_comp_low: 280000
+    total_comp_high: 480000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 165000
+    base_high: 255000
+    stock_low: 160000
+    stock_high: 450000
+    bonus_pct: 10
+    total_comp_low: 260000
+    total_comp_high: 445000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 170000
+    base_high: 265000
+    stock_low: 170000
+    stock_high: 475000
+    bonus_pct: 10
+    total_comp_low: 270000
+    total_comp_high: 460000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple PM (ICT3 equivalent) = Google L5 PM, Meta IC5 PM, Amazon L5 PM | Apple Senior PM (ICT4 equivalent) = Google L6 PM, Meta IC6 PM, Amazon L6 PM | Apple Principal PM (ICT5 equivalent) = Google L7 PM, Meta IC7 PM, Amazon L7 PM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive PM base + substantial RSU grants at a company where PMs have a unique role | Apple positions product management differently than peers: technical PMs drive execution while design and engineering own vision | **STRATEGIC EXECUTION PREMIUM: Apple PMs who bridge engineering and business drive multi-billion dollar product lines**"
+---
 ### Product Manager | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Competitive PM base + substantial RSU grants at a company where PMs have a unique role | Apple positions product management differently than peers: technical PMs drive execution while design and engineering own vision | **STRATEGIC EXECUTION PREMIUM: Apple PMs who bridge engineering and business drive multi-billion dollar product lines**

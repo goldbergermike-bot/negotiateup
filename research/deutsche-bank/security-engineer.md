@@ -1,3 +1,49 @@
+---
+company: deutsche-bank
+company_display: Deutsche Bank
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 142000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 192000
+    total_comp_high: 315000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 145000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 132000
+    total_comp_high: 228000
+    currency: GBP
+  - region: Frankfurt (HQ)
+    base_low: 85000
+    base_high: 128000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 114000
+    total_comp_high: 198000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Security Engineer at DB (VP/SVP) = L4-L5 at Google, E4-E5 at Meta, SecEng II-Senior at Amazon, VP/SVP at BofA, VP/ED at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "EUR30B market cap European bank + Security across EU/US/Asia banking infrastructure + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB security spans European and global threat landscapes | **EUROPEAN BANKING SECURITY PREMIUM**"
+---
 ### Security Engineer | Deutsche Bank Global Negotiation Guide
 
 **Negotiation DNA:** EUR30B market cap European bank + Security across EU/US/Asia banking infrastructure + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB security spans European and global threat landscapes | **EUROPEAN BANKING SECURITY PREMIUM**

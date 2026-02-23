@@ -1,3 +1,40 @@
+---
+company: midjourney
+company_display: Midjourney
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 405000
+    currency: USD
+  - region: Remote US
+    base_low: 167000
+    base_high: 230000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Midjourney Solutions Architect = Google Customer Engineer L5 = AWS Solutions Architect III = Databricks Senior SA
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Premium Comp + Profit Sharing | Self-Funded & Profitable | San Francisco | Small Elite Team | API & Enterprise"
+---
 ### Solutions Architect | Midjourney Global Negotiation Guide
 
 **Negotiation DNA:** Premium Comp + Profit Sharing | Self-Funded & Profitable | San Francisco | Small Elite Team | API & Enterprise

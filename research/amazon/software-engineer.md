@@ -1,3 +1,89 @@
+---
+company: amazon
+company_display: Amazon
+role: software-engineer
+role_display: Software Engineer (SDE I-II / L4-L5)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 120000
+    base_high: 160000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: null
+    signing_bonus_low: 40000
+    signing_bonus_high: 80000
+    total_comp_low: 170000
+    total_comp_high: 280000
+    currency: USD
+  - region: Bay Area
+    base_low: 125000
+    base_high: 165000
+    stock_low: 85000
+    stock_high: 210000
+    bonus_pct: null
+    signing_bonus_low: 42000
+    signing_bonus_high: 85000
+    total_comp_low: 178000
+    total_comp_high: 290000
+    currency: USD
+  - region: Seattle
+    base_low: 140000
+    base_high: 180000
+    stock_low: 120000
+    stock_high: 350000
+    bonus_pct: null
+    signing_bonus_low: 50000
+    signing_bonus_high: 100000
+    total_comp_low: 220000
+    total_comp_high: 370000
+    currency: USD
+  - region: Bay Area
+    base_low: 145000
+    base_high: 180000
+    stock_low: 130000
+    stock_high: 370000
+    bonus_pct: null
+    signing_bonus_low: 55000
+    signing_bonus_high: 105000
+    total_comp_low: 230000
+    total_comp_high: 380000
+    currency: USD
+  - region: NYC
+    base_low: 145000
+    base_high: 180000
+    stock_low: 125000
+    stock_high: 360000
+    bonus_pct: null
+    signing_bonus_low: 50000
+    signing_bonus_high: 100000
+    total_comp_low: 225000
+    total_comp_high: 375000
+    currency: USD
+  - region: Austin
+    base_low: 135000
+    base_high: 175000
+    stock_low: 110000
+    stock_high: 320000
+    bonus_pct: null
+    signing_bonus_low: 45000
+    signing_bonus_high: 90000
+    total_comp_low: 205000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: SDE I-II / L4-L5
+  raw: "- Amazon L4 SDE I = Google L3 = Meta E3 = Apple ICT2"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Back-Loaded RSU Vesting / Signing Bonus Bridge | Volume Hire with Wide Comp Bands"
+---
 ### Software Engineer (SDE I-II / L4-L5) | Amazon Global Negotiation Guide
 
 **Negotiation DNA:** Back-Loaded RSU Vesting / Signing Bonus Bridge | Volume Hire with Wide Comp Bands

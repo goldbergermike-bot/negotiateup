@@ -1,3 +1,68 @@
+---
+company: tencent
+company_display: Tencent
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Palo Alto / Los Angeles (US R&D)"
+    base_low: 165000
+    base_high: 230000
+    stock_low: 90000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 365000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 160000
+    base_high: 225000
+    stock_low: 85000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 355000
+    currency: USD
+  - region: Shenzhen (HQ)
+    base_low: 440000
+    base_high: 800000
+    stock_low: 170000
+    stock_high: 490000
+    bonus_pct: 20
+    total_comp_low: 660000
+    total_comp_high: 1300000
+    currency: CNY
+  - region: Beijing
+    base_low: 420000
+    base_high: 770000
+    stock_low: 160000
+    stock_high: 470000
+    bonus_pct: 20
+    total_comp_low: 630000
+    total_comp_high: 1250000
+    currency: CNY
+  - region: Singapore
+    base_low: 120000
+    base_high: 180000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Scientist at Tencent (T8-T10) = L4-L5 at Google, IC4-IC5 at Meta, DS Senior at Amazon, equivalent Netflix/Spotify"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$450B market cap with unparalleled user behavior data from WeChat (1.3B MAU) + gaming analytics for world's largest portfolio + advertising optimization driving $15B+ ad revenue | Tencent data scientists work with datasets no other company possesses | **UNIQUE DATA ACCESS PREMIUM**"
+---
 ### Data Scientist | Tencent Global Negotiation Guide
 
 **Negotiation DNA:** $450B market cap with unparalleled user behavior data from WeChat (1.3B MAU) + gaming analytics for world's largest portfolio + advertising optimization driving $15B+ ad revenue | Tencent data scientists work with datasets no other company possesses | **UNIQUE DATA ACCESS PREMIUM**

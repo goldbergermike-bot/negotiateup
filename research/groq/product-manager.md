@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 165000
+    base_high: 210000
+    stock_low: 35000
+    stock_high: 65000
+    bonus_pct: 8
+    total_comp_low: 212000
+    total_comp_high: 292000
+    currency: USD
+  - region: San Diego
+    base_low: 152000
+    base_high: 195000
+    stock_low: 30000
+    stock_high: 58000
+    bonus_pct: 8
+    total_comp_low: 195000
+    total_comp_high: 272000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 185000
+    stock_low: 28000
+    stock_high: 52000
+    bonus_pct: 8
+    total_comp_low: 182000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq PM ≈ Google L5 PM · Meta PM (IC5) · Amazon Sr. PMT · Apple Product Manager · Cerebras PM · NVIDIA Product Manager
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Product Strategy Premium"
+---
 ### Product Manager | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Product Strategy Premium

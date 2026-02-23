@@ -1,3 +1,51 @@
+---
+company: andreessen-horowitz
+company_display: Andreessen Horowitz
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 275000
+    base_high: 365000
+    stock_low: null
+    stock_high: null
+    bonus_low: 203000
+    bonus_high: 327000
+    total_comp_low: 478000
+    total_comp_high: 692000
+    currency: USD
+  - region: San Francisco
+    base_low: 268000
+    base_high: 358000
+    stock_low: null
+    stock_high: null
+    bonus_low: 197000
+    bonus_high: 318000
+    total_comp_low: 465000
+    total_comp_high: 676000
+    currency: USD
+  - region: New York
+    base_low: 260000
+    base_high: 348000
+    stock_low: null
+    stock_high: null
+    bonus_low: 190000
+    bonus_high: 310000
+    total_comp_low: 450000
+    total_comp_high: 658000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Senior Carry Eligible` `$42B+ AUM` `+15-25% AI Premium` `Machine Learning Infrastructure` `Investment Intelligence AI` `Thesis-Core Role`"
+---
 ### ML/AI Engineer | Andreessen Horowitz Global Negotiation Guide
 
 **Negotiation DNA:** `$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Senior Carry Eligible` `$42B+ AUM` `+15-25% AI Premium` `Machine Learning Infrastructure` `Investment Intelligence AI` `Thesis-Core Role`

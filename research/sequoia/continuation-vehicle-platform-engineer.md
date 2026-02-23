@@ -1,3 +1,50 @@
+---
+company: sequoia
+company_display: Sequoia
+role: continuation-vehicle-platform-engineer
+role_display: Continuation Vehicle Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 340000
+    base_high: 425000
+    stock_low: null
+    stock_high: null
+    bonus_low: 285000
+    bonus_high: 405000
+    total_comp_low: 720000
+    total_comp_high: 955000
+    currency: USD
+  - region: San Francisco
+    base_low: 325000
+    base_high: 410000
+    stock_low: null
+    stock_high: null
+    bonus_low: 270000
+    bonus_high: 385000
+    total_comp_low: 680000
+    total_comp_high: 910000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 245000
+    base_high: 315000
+    stock_low: null
+    stock_high: null
+    bonus_low: 195000
+    bonus_high: 285000
+    total_comp_low: 502000
+    total_comp_high: 685000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`Base $310K-$425K` | `Carry/Bonus $265K-$405K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `+25-35% CV Platform Premium` | `Permanent Capital Structure` | `Elite VC Platform` | `SIGNATURE ROLE`"
+---
 ### Continuation Vehicle Platform Engineer | Sequoia Global Negotiation Guide
 
 **SIGNATURE ROLE** | **+25-35% CV Platform Premium**

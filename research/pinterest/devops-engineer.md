@@ -1,3 +1,48 @@
+---
+company: pinterest
+company_display: Pinterest
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 198000
+    stock_low: 130000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 268000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 192000
+    stock_low: 122000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 258000
+    currency: USD
+  - region: Remote US
+    base_low: 142000
+    base_high: 178000
+    stock_low: 108000
+    stock_high: 205000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Pinterest DevOps Engineer (L4–L5) = Google SRE L4–L5 = Meta Production Engineer (IC4–IC5) = Amazon Systems Engineer II–III = Apple DevOps Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Infrastructure & Reliability Premium | Standard 4-year vest with 1-year cliff"
+---
 ### DevOps Engineer | Pinterest Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Infrastructure & Reliability Premium | Standard 4-year vest with 1-year cliff

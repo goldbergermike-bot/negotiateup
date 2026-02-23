@@ -1,3 +1,48 @@
+---
+company: activision-blizzard
+company_display: Activision Blizzard
+role: warzone-platform-engineer
+role_display: Warzone Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine / Santa Monica
+    base_low: 175000
+    base_high: 230000
+    stock_low: 140000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 400000
+    currency: USD
+  - region: Austin
+    base_low: 155000
+    base_high: 205000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 350000
+    currency: USD
+  - region: Hyderabad
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 2000000
+    stock_high: 4500000
+    bonus_pct: 10
+    total_comp_low: 5500000
+    total_comp_high: 10500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Activision/MS Level 63-64 = Google L4-L5 = Meta E4-E5 = Amazon L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus / Microsoft Comp Bands | **SIGNATURE ROLE** | **+15–25% LIVE-SERVICE PLATFORM PREMIUM**"
+---
 ### Warzone Platform Engineer | Activision Blizzard (Microsoft/Xbox) Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Microsoft Comp Bands | **SIGNATURE ROLE** | **+15–25% LIVE-SERVICE PLATFORM PREMIUM**

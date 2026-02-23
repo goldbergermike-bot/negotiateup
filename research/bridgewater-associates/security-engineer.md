@@ -1,3 +1,42 @@
+---
+company: bridgewater-associates
+company_display: Bridgewater Associates
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westport, CT (HQ)"
+    base_low: 165000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_low: 66000
+    bonus_high: 188000
+    total_comp_low: 231000
+    total_comp_high: 423000
+    currency: USD
+  - region: New York City
+    base_low: 173000
+    base_high: 247000
+    stock_low: null
+    stock_high: null
+    bonus_low: 69000
+    bonus_high: 198000
+    total_comp_low: 242000
+    total_comp_high: 445000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Security Engineer at Bridgewater = L4/L5 Security Engineer at Google, E4/E5 Security Engineer at Meta, Security Engineer II/Senior at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Protecting $150B in assets and proprietary investment strategies from cyber threats | Security failures at a hedge fund have existential consequences | **ELITE HEDGE FUND PREMIUM**"
+---
 ### Security Engineer | Bridgewater Associates Global Negotiation Guide
 
 **Negotiation DNA:** ~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Protecting $150B in assets and proprietary investment strategies from cyber threats | Security failures at a hedge fund have existential consequences | **ELITE HEDGE FUND PREMIUM**

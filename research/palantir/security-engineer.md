@@ -1,3 +1,48 @@
+---
+company: palantir
+company_display: Palantir
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 158000
+    base_high: 195000
+    stock_low: 260000
+    stock_high: 430000
+    bonus_pct: null
+    total_comp_low: 223000
+    total_comp_high: 303000
+    currency: USD
+  - region: New York City
+    base_low: 162000
+    base_high: 200000
+    stock_low: 268000
+    stock_high: 440000
+    bonus_pct: null
+    total_comp_low: 229000
+    total_comp_high: 310000
+    currency: USD
+  - region: London
+    base_low: 82000
+    base_high: 108000
+    stock_low: 130000
+    stock_high: 218000
+    bonus_pct: null
+    total_comp_low: 115000
+    total_comp_high: 163000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Palantir Senior Security Eng = Google L4 Security = CrowdStrike Senior Eng — but with classified environment + security clearance requirements
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture"
+---
 ### Security Engineer | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture

@@ -1,3 +1,47 @@
+---
+company: fortinet
+company_display: Fortinet
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 335000
+    currency: USD
+  - region: Ottawa
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 115000
+    total_comp_high: 255000
+    currency: CAD
+  - region: Sophia Antipolis
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 132000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "DevOps Engineers at Fortinet power the CI/CD infrastructure behind the Security Fabric — with the Rule of 45 sustained and Sovereign-SASE requiring multi-region deployment automation, your pipelines are the delivery backbone of 40% growth."
+---
 ### DevOps Engineer — Fortinet Salary Negotiation Guide
 
 **Negotiation DNA**: DevOps Engineers at Fortinet power the CI/CD infrastructure behind the Security Fabric — with the Rule of 45 sustained and Sovereign-SASE requiring multi-region deployment automation, your pipelines are the delivery backbone of 40% growth.

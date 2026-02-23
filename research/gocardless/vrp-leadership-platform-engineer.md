@@ -1,3 +1,53 @@
+---
+company: gocardless
+company_display: Gocardless
+role: vrp-leadership-platform-engineer
+role_display: VRP Leadership Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 110000
+    base_high: 150000
+    stock_low: 55000
+    stock_high: 120000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: GBP
+  - region: San Francisco
+    base_low: 210000
+    base_high: 275000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 315000
+    total_comp_high: 480000
+    currency: USD
+  - region: Melbourne
+    base_low: 175000
+    base_high: 230000
+    stock_low: 60000
+    stock_high: 110000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 255000
+    total_comp_high: 375000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: "| GoCardless | Google | Meta | Stripe | Wise | Adyen |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `Platform Engineering` `Variable Recurring Payments` `Payment Scheme Design` `Regulatory Infrastructure` `SIGNATURE ROLE`"
+---
 ### VRP Leadership Platform Engineer | GoCardless Global Negotiation Guide
 
 <!-- SIGNATURE ROLE — 2x length guide for GoCardless's most strategically critical engineering position -->

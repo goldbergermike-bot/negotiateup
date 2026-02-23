@@ -1,3 +1,53 @@
+---
+company: fiserv
+company_display: Fiserv
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brookfield WI
+    base_low: 140000
+    base_high: 190000
+    stock_low: 80000
+    stock_high: 180000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 240000
+    total_comp_high: 410000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 225000
+    stock_low: 100000
+    stock_high: 220000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 290000
+    total_comp_high: 495000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 135000
+    stock_low: 50000
+    stock_high: 110000
+    bonus_low: 14000
+    bonus_high: 30000
+    total_comp_low: 159000
+    total_comp_high: 275000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Fiserv | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Product Track` `PM`"
+---
 ### Product Manager | Fiserv Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Product Track` `PM`

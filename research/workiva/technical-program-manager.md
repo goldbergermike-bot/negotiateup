@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 122000
+    base_high: 172000
+    stock_low: 35000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 225000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 138000
+    base_high: 192000
+    stock_low: 45000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 258000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 58000
+    base_high: 90000
+    stock_low: 16000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 68000
+    total_comp_high: 115000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 102000
+    base_high: 145000
+    stock_low: 26000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 118000
+    total_comp_high: 185000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 2000000
+    base_high: 3800000
+    stock_low: 800000
+    stock_high: 2400000
+    bonus_pct: 10
+    total_comp_low: 2600000
+    total_comp_high: 4800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva TPM (IC3/IC4) ~ Intuit Senior/Lead TPM | ServiceNow Senior/Lead TPM | Oracle Senior TPM | Domo Senior/Lead TPM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Compliance platform delivery orchestrator | Cross-functional GRC program leader | **PROGRAM LEADERSHIP PREMIUM**"
+---
 ### Technical Program Manager | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** Compliance platform delivery orchestrator | Cross-functional GRC program leader | **PROGRAM LEADERSHIP PREMIUM**

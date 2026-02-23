@@ -1,3 +1,51 @@
+---
+company: charles-schwab
+company_display: Charles Schwab
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westlake, TX (HQ)"
+    base_low: 120000
+    base_high: 158000
+    stock_low: 30000
+    stock_high: 55000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 165000
+    total_comp_high: 238000
+    currency: USD
+  - region: San Francisco
+    base_low: 132000
+    base_high: 174000
+    stock_low: 33000
+    stock_high: 61000
+    bonus_low: 17000
+    bonus_high: 28000
+    total_comp_low: 182000
+    total_comp_high: 262000
+    currency: USD
+  - region: Denver
+    base_low: 126000
+    base_high: 166000
+    stock_low: 32000
+    stock_high: 58000
+    bonus_low: 16000
+    bonus_high: 26000
+    total_comp_low: 173000
+    total_comp_high: 250000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `TD Ameritrade Integration` `Schwab Intelligent Portfolios` `Full-Stack Platform`"
+---
 ### Software Engineer | Charles Schwab Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `TD Ameritrade Integration` `Schwab Intelligent Portfolios` `Full-Stack Platform`

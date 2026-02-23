@@ -1,3 +1,30 @@
+---
+company: target
+company_display: Target
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 122000
+    base_high: 175000
+    stock_low: 35000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 235000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target ML Engineer = Google ML Engineer L3-L4 = Amazon Applied Scientist = Walmart ML Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage"
+---
 ### ML/AI Engineer | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage

@@ -1,3 +1,50 @@
+---
+company: warner-bros-discovery
+company_display: Warner Bros. Discovery
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Los Angeles
+    base_low: 135000
+    base_high: 185000
+    stock_low: 35000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 255000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 128000
+    base_high: 175000
+    stock_low: 30000
+    stock_high: 108000
+    bonus_pct: 10
+    total_comp_low: 152000
+    total_comp_high: 238000
+    currency: USD
+  - region: London (UK)
+    base_low: 100000
+    base_high: 138000
+    stock_low: 24000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 192000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: WBD TPM (L4-L6) = Google L4-L6 TPM = Meta E4-E6 TPM = Amazon TPM L5-L7 = Netflix TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$25B Media Company | Cross-Organization Program Delivery | Max Platform + Content Integration"
+---
 ### Technical Program Manager | Warner Bros Discovery Global Negotiation Guide
 
 **Negotiation DNA:** $25B Media Company | Cross-Organization Program Delivery | Max Platform + Content Integration

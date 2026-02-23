@@ -1,3 +1,49 @@
+---
+company: att
+company_display: "AT&T"
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas / Austin
+    base_low: 132000
+    base_high: 190000
+    stock_low: 32000
+    stock_high: 120000
+    bonus_pct: 12
+    total_comp_low: 158000
+    total_comp_high: 258000
+    currency: USD
+  - region: NYC / New Jersey
+    base_low: 140000
+    base_high: 200000
+    stock_low: 38000
+    stock_high: 130000
+    bonus_pct: 12
+    total_comp_low: 170000
+    total_comp_high: 275000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 128000
+    base_high: 185000
+    stock_low: 30000
+    stock_high: 112000
+    bonus_pct: 12
+    total_comp_low: 152000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "AT&T ML/AI Engineer (L4-L6) = Google L4-L6 ML = Meta E4-E6 ML = Amazon Applied Scientist II-III = Verizon L4-L6"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$155B Legacy Telecom Modernizing | AI-Powered Network + Customer Intelligence | **+10-18% AI PREMIUM**"
+---
 ### ML/AI Engineer | AT&T Global Negotiation Guide
 
 **Negotiation DNA:** $155B Legacy Telecom Modernizing | AI-Powered Network + Customer Intelligence | **+10-18% AI PREMIUM**

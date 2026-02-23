@@ -1,3 +1,52 @@
+---
+company: block
+company_display: Block (Square)
+role: lean-elite-platform-engineer
+role_display: Lean Elite Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 260000
+    base_high: 330000
+    stock_low: 400000
+    stock_high: 650000
+    bonus_low: 40000
+    bonus_high: 70000
+    total_comp_low: 440000
+    total_comp_high: 680000
+    currency: USD
+  - region: New York
+    base_low: 255000
+    base_high: 325000
+    stock_low: 380000
+    stock_high: 620000
+    bonus_low: 38000
+    bonus_high: 65000
+    total_comp_low: 430000
+    total_comp_high: 660000
+    currency: USD
+  - region: London
+    base_low: 162000
+    base_high: 205000
+    stock_low: 250000
+    stock_high: 400000
+    bonus_low: 25000
+    bonus_high: 44000
+    total_comp_low: 295000
+    total_comp_high: 450000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Block | Google | Meta | Stripe | PayPal | Coinbase |"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`NYSE: XYZ` `Agentic Foundation` `Lean Elite` `SIGNATURE ROLE` `RSU/4yr` `Square` `Cash App` `L6-L7 Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Platform Architecture` `Agent Orchestration` `Foundation Layer` `Post-Restructuring Core`"
+---
 ### Lean Elite Platform Engineer | Block Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: XYZ` `Agentic Foundation` `Lean Elite` `SIGNATURE ROLE` `RSU/4yr` `Square` `Cash App` `L6-L7 Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Platform Architecture` `Agent Orchestration` `Foundation Layer` `Post-Restructuring Core`

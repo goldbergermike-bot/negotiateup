@@ -1,3 +1,54 @@
+---
+company: blackrock
+company_display: Blackrock
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 178000
+    base_high: 232000
+    stock_low: null
+    stock_high: null
+    bonus_low: 48000
+    bonus_high: 78000
+    total_comp_low: 228000
+    total_comp_high: 318000
+    currency: USD
+  - region: San Francisco
+    base_low: 188000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_low: 52000
+    bonus_high: 82000
+    total_comp_low: 240000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: 127000
+    base_high: 165000
+    stock_low: 142000
+    stock_high: 248000
+    bonus_low: 34000
+    bonus_high: 55000
+    total_comp_low: 303000
+    total_comp_high: 468000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "`$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Technical Program Manager` `Program Leadership` `Director-Level`"
+---
 ### Technical Program Manager | BlackRock Global Negotiation Guide
 
 **Negotiation DNA:** `$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Technical Program Manager` `Program Leadership` `Director-Level`

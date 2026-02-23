@@ -1,3 +1,52 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 65000
+    base_high: 88000
+    stock_low: 70000
+    stock_high: 135000
+    bonus_pct: null
+    total_comp_low: 83000
+    total_comp_high: 122000
+    currency: EUR
+  - region: New York
+    base_low: 158000
+    base_high: 198000
+    stock_low: 125000
+    stock_high: 228000
+    bonus_pct: null
+    total_comp_low: 189000
+    total_comp_high: 255000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: HF DevOps Engineer = Google SRE L3–L4 (Paris) = Meta Production Engineer (E4) = Datadog Paris DevOps/SRE = OVHcloud Senior DevOps. Paris DevOps bands (€65K–€88K) compete with Google Paris SRE (€70K–€95K base + RSUs) and Datadog Paris DevOps (€65K–€90K base). HF DevOps engineers manage infrastructure at a scale comparable to much larger companies — the Hub serves millions of requests daily with a relatively small infra team.
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat"
+---
 ### DevOps Engineer | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat

@@ -1,3 +1,49 @@
+---
+company: american-express
+company_display: American Express
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 170000
+    base_high: 232000
+    stock_low: 100000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 385000
+    currency: USD
+  - region: Phoenix
+    base_low: 155000
+    base_high: 212000
+    stock_low: 85000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 212000
+    total_comp_high: 348000
+    currency: USD
+  - region: San Francisco
+    base_low: 165000
+    base_high: 228000
+    stock_low: 95000
+    stock_high: 252000
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 375000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "EM at AmEx (Director/VP) = L6-L7 at Google, M1-M2 at Meta, SDM-Principal SDM at Amazon, SVP/Director at BofA, Director at Capital One"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$190B market cap premium brand + EMs build tech-forward culture at premium financial brand + NYC HQ + Strong comp with meaningful RSUs | AmEx EMs lead teams that drive membership value | **PREMIUM BRAND EM PREMIUM**"
+---
 ### Engineering Manager | American Express Global Negotiation Guide
 
 **Negotiation DNA:** $190B market cap premium brand + EMs build tech-forward culture at premium financial brand + NYC HQ + Strong comp with meaningful RSUs | AmEx EMs lead teams that drive membership value | **PREMIUM BRAND EM PREMIUM**

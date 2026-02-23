@@ -1,3 +1,43 @@
+---
+company: two-sigma
+company_display: Two Sigma
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 190000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_low: 190000
+    bonus_high: 530000
+    total_comp_low: 380000
+    total_comp_high: 795000
+    currency: USD
+  - region: Houston
+    base_low: 175000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_low: 175000
+    bonus_high: 490000
+    total_comp_low: 350000
+    total_comp_high: 735000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Senior SWE at Two Sigma = L5-L6 at Google, E5-E6 at Meta, SDE III-Senior at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-200%+ | Two Sigma senior SWEs build systems that directly power investment strategies | **ELITE QUANT SWE PREMIUM**"
+---
 ### Senior Software Engineer | Two Sigma Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-200%+ | Two Sigma senior SWEs build systems that directly power investment strategies | **ELITE QUANT SWE PREMIUM**

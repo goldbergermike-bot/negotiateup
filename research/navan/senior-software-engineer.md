@@ -1,3 +1,54 @@
+---
+company: navan
+company_display: Navan
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 240000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 260000
+    total_comp_high: 390000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 235000
+    stock_low: 55000
+    stock_high: 115000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 249000
+    total_comp_high: 378000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 150000
+    stock_low: 38000
+    stock_high: 75000
+    bonus_low: 9000
+    bonus_high: 18000
+    total_comp_low: 157000
+    total_comp_high: 243000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Navan | Google | Meta | Stripe | Brex | Airbnb |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Crunchbase
+negotiation_dna_summary: "`Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect`"
+---
 ### Senior Software Engineer | Navan Global Negotiation Guide
 
 **Negotiation DNA:** `Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect`

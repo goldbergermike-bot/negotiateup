@@ -1,3 +1,49 @@
+---
+company: coreweave
+company_display: Coreweave
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Roseland NJ
+    base_low: 210000
+    base_high: 262000
+    stock_low: 295000
+    stock_high: 518000
+    bonus_pct: null
+    total_comp_low: 284000
+    total_comp_high: 392000
+    currency: USD
+  - region: Remote US
+    base_low: 202000
+    base_high: 254000
+    stock_low: 295000
+    stock_high: 518000
+    bonus_pct: null
+    total_comp_low: 276000
+    total_comp_high: 384000
+    currency: USD
+  - region: London
+    base_low: 158000
+    base_high: 197000
+    stock_low: 222000
+    stock_high: 390000
+    bonus_pct: null
+    total_comp_low: 214000
+    total_comp_high: 295000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: CoreWeave ML/AI Engineer = Google L4-L5 ML Engineer = AWS ML Engineer III = Meta E4-E5 ML Engineer = NVIDIA ML Engineer = Apple ML ICT3-ICT4
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium | **+20-30% HPC PREMIUM**"
+---
 ### ML/AI Engineer | CoreWeave Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium | **+20-30% HPC PREMIUM**

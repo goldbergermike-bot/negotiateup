@@ -1,3 +1,50 @@
+---
+company: millennium-management
+company_display: Millennium Management
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 185000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_low: 95000
+    bonus_high: 155000
+    total_comp_low: 340000
+    total_comp_high: 490000
+    currency: USD
+  - region: Miami
+    base_low: 175000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_low: 85000
+    bonus_high: 140000
+    total_comp_low: 310000
+    total_comp_high: 450000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 140000
+    base_high: 182000
+    stock_low: null
+    stock_high: null
+    bonus_low: 72000
+    bonus_high: 118000
+    total_comp_low: 257000
+    total_comp_high: 372000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Cross-Pod Coordination` `Program Delivery` `Technology Governance` `Direct Attribution`"
+---
 ### Technical Program Manager | Millennium Management Global Negotiation Guide
 
 **Negotiation DNA:** `Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Cross-Pod Coordination` `Program Delivery` `Technology Governance` `Direct Attribution`

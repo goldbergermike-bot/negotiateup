@@ -1,3 +1,49 @@
+---
+company: checkout-com
+company_display: Checkout Com
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 90000
+    base_high: 135000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 245000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 180000
+    base_high: 230000
+    stock_low: 85000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 380000
+    currency: USD
+  - region: New York (USD)
+    base_low: 175000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into a senior engineering compensation framework spanning London, San Francisco, and New York markets."
+---
 ### Senior Software Engineer — Checkout.com Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into a senior engineering compensation framework spanning London, San Francisco, and New York markets.

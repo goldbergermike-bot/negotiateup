@@ -1,3 +1,43 @@
+---
+company: bridgewater-associates
+company_display: Bridgewater Associates
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westport, CT (HQ)"
+    base_low: 185000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_low: 111000
+    bonus_high: 338000
+    total_comp_low: 296000
+    total_comp_high: 598000
+    currency: USD
+  - region: New York City
+    base_low: 194000
+    base_high: 273000
+    stock_low: null
+    stock_high: null
+    bonus_low: 116000
+    bonus_high: 355000
+    total_comp_low: 310000
+    total_comp_high: 628000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Bridgewater = L5 ML Engineer at Google, E5 ML Engineer at Meta, Applied Scientist II/III at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Machine learning and AI applied to systematic investment strategies at massive scale | Cutting-edge ML with direct alpha generation impact | **ELITE HEDGE FUND PREMIUM**"
+---
 ### ML/AI Engineer | Bridgewater Associates Global Negotiation Guide
 
 **Negotiation DNA:** ~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Machine learning and AI applied to systematic investment strategies at massive scale | Cutting-edge ML with direct alpha generation impact | **ELITE HEDGE FUND PREMIUM**

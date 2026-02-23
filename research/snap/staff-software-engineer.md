@@ -1,3 +1,49 @@
+---
+company: snap
+company_display: Snap
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 225000
+    base_high: 285000
+    stock_low: 320000
+    stock_high: 520000
+    bonus_pct: 12
+    total_comp_low: 308000
+    total_comp_high: 428000
+    currency: USD
+  - region: San Francisco
+    base_low: 238000
+    base_high: 300000
+    stock_low: 340000
+    stock_high: 550000
+    bonus_pct: 12
+    total_comp_low: 328000
+    total_comp_high: 455000
+    currency: USD
+  - region: New York
+    base_low: 235000
+    base_high: 295000
+    stock_low: 332000
+    stock_high: 540000
+    bonus_pct: 12
+    total_comp_low: 322000
+    total_comp_high: 448000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snap Staff Software Engineer (L6) = Google L6 Staff SWE = Meta E6 Staff = Apple ICT5 = Amazon Principal SDE = Microsoft Principal (65-66)
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | Staff-Level Technical Leadership Premium"
+---
 ### Staff Software Engineer | Snap Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | Staff-Level Technical Leadership Premium

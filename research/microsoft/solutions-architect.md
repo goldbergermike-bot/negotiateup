@@ -1,3 +1,67 @@
+---
+company: microsoft
+company_display: Microsoft
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Solutions Architect I-II
+    base_low: 115000
+    base_high: 160000
+    stock_low: 45000
+    stock_high: 120000
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 25000
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+  - region: Senior Solutions Architect
+    base_low: 150000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: 15
+    signing_bonus_low: 20000
+    signing_bonus_high: 45000
+    total_comp_low: 220000
+    total_comp_high: 350000
+    currency: USD
+  - region: Principal Solutions Architect
+    base_low: 190000
+    base_high: 265000
+    stock_low: 220000
+    stock_high: 500000
+    bonus_pct: 20
+    signing_bonus_low: 35000
+    signing_bonus_high: 75000
+    total_comp_low: 320000
+    total_comp_high: 500000
+    currency: USD
+  - region: Distinguished / Partner SA
+    base_low: 250000
+    base_high: 340000
+    stock_low: 420000
+    stock_high: 1000000
+    bonus_pct: 25
+    signing_bonus_low: 50000
+    signing_bonus_high: 100000
+    total_comp_low: 470000
+    total_comp_high: 770000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: null
+---
 # Solutions Architect - Microsoft Negotiation Guide
 
 ## Role Overview

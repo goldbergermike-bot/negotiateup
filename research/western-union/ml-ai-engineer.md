@@ -1,3 +1,52 @@
+---
+company: western-union
+company_display: Western Union
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver CO
+    base_low: 155000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_low: 18000
+    bonus_high: 38000
+    total_comp_low: 228000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 230000
+    stock_low: 65000
+    stock_high: 120000
+    bonus_low: 22000
+    bonus_high: 48000
+    total_comp_low: 262000
+    total_comp_high: 398000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 135000
+    stock_low: 38000
+    stock_high: 65000
+    bonus_low: 12000
+    bonus_high: 28000
+    total_comp_low: 150000
+    total_comp_high: 228000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Western Union | Google | Meta | Stripe | JPMorgan | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: WU` `USDPT` `ML/AI Engineer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Machine Learning` `Hyderabad AI Hub`"
+---
 ### ML/AI Engineer | Western Union Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: WU` `USDPT` `ML/AI Engineer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Machine Learning` `Hyderabad AI Hub`

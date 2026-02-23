@@ -1,3 +1,50 @@
+---
+company: coreweave
+company_display: Coreweave
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Roseland NJ
+    base_low: 200000
+    base_high: 248000
+    stock_low: 245000
+    stock_high: 428000
+    bonus_pct: null
+    total_comp_low: 261000
+    total_comp_high: 355000
+    currency: USD
+  - region: Remote US
+    base_low: 192000
+    base_high: 240000
+    stock_low: 245000
+    stock_high: 428000
+    bonus_pct: null
+    total_comp_low: 253000
+    total_comp_high: 347000
+    currency: USD
+  - region: London
+    base_low: 150000
+    base_high: 187000
+    stock_low: 185000
+    stock_high: 322000
+    bonus_pct: null
+    total_comp_low: 196000
+    total_comp_high: 268000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: CoreWeave Senior SWE = Google L4 = AWS Senior SWE = Meta E4 = Apple ICT3 = Microsoft 63
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium"
+---
 ### Senior Software Engineer | CoreWeave Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium

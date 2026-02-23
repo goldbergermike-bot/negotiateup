@@ -1,3 +1,48 @@
+---
+company: square
+company_display: Square
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 228000
+    stock_low: 165000
+    stock_high: 292000
+    bonus_pct: 12
+    total_comp_low: 245000
+    total_comp_high: 342000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 228000
+    stock_low: 165000
+    stock_high: 292000
+    bonus_pct: 12
+    total_comp_low: 245000
+    total_comp_high: 342000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 215000
+    stock_low: 155000
+    stock_high: 272000
+    bonus_pct: 12
+    total_comp_low: 228000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Square SecEng (IC2-IC4) = Stripe SecEng = Shopify SecEng = Toast SecEng = Google L3-L5 Security Commerce
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Block RSUs) + Bonus | AI-Powered Commerce Tools | $45B+ Market Cap | 56M+ Sellers | **COMMERCE AI PREMIUM**"
+---
 ### Security Engineer | Square Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Block RSUs) + Bonus | AI-Powered Commerce Tools | $45B+ Market Cap | 56M+ Sellers | **COMMERCE AI PREMIUM**

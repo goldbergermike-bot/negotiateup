@@ -1,3 +1,68 @@
+---
+company: alibaba
+company_display: Alibaba
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 160000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 215000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 350000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 75000
+    stock_high: 205000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 340000
+    currency: USD
+  - region: Hangzhou (HQ)
+    base_low: 420000
+    base_high: 770000
+    stock_low: 170000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 640000
+    total_comp_high: 1300000
+    currency: CNY
+  - region: Beijing
+    base_low: 400000
+    base_high: 740000
+    stock_low: 160000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 610000
+    total_comp_high: 1250000
+    currency: CNY
+  - region: Singapore
+    base_low: 115000
+    base_high: 175000
+    stock_low: 50000
+    stock_high: 135000
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Scientist at Alibaba (P6-P7) = L4-L5 at Google, IC4-IC5 at Meta, DS Senior at Amazon, equivalent Netflix/Spotify"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B market cap with unparalleled e-commerce behavioral data + Search/recommendation optimization driving $1T+ GMV + Competitive US comp for analytics talent | Alibaba data scientists optimize the world's largest online commerce ecosystem | **COMMERCE ANALYTICS PREMIUM**"
+---
 ### Data Scientist | Alibaba Global Negotiation Guide
 
 **Negotiation DNA:** $200B market cap with unparalleled e-commerce behavioral data + Search/recommendation optimization driving $1T+ GMV + Competitive US comp for analytics talent | Alibaba data scientists optimize the world's largest online commerce ecosystem | **COMMERCE ANALYTICS PREMIUM**

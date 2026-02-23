@@ -1,3 +1,48 @@
+---
+company: dlocal
+company_display: Dlocal
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montevideo (UYU)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: São Paulo (BRL)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York (USD)
+    base_low: 230000
+    base_high: 300000
+    stock_low: 130000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 360000
+    total_comp_high: 550000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes dLocal's Asia Priority strategy, translating the Jan 2026 Asia Strategic Pivot and Feb 11 JPM Bull Case into a staff-level engineering compensation framework spanning Montevideo, São Paulo, and New York markets. Staff engineers are the strategic technical leaders who will define dLocal's architecture for Asia's massive emerging market payment opportunity."
+---
 ### Staff Software Engineer — dLocal Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes dLocal's Asia Priority strategy, translating the Jan 2026 Asia Strategic Pivot and Feb 11 JPM Bull Case into a staff-level engineering compensation framework spanning Montevideo, São Paulo, and New York markets. Staff engineers are the strategic technical leaders who will define dLocal's architecture for Asia's massive emerging market payment opportunity.

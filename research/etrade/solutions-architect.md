@@ -1,3 +1,51 @@
+---
+company: etrade
+company_display: Etrade
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 148000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_low: 26000
+    bonus_high: 48000
+    total_comp_low: 212000
+    total_comp_high: 308000
+    currency: USD
+  - region: "Jersey City, NJ"
+    base_low: 141000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_low: 25000
+    bonus_high: 46000
+    total_comp_low: 201000
+    total_comp_high: 293000
+    currency: USD
+  - region: "Alpharetta, GA"
+    base_low: 126000
+    base_high: 166000
+    stock_low: null
+    stock_high: null
+    bonus_low: 22000
+    bonus_high: 41000
+    total_comp_low: 180000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Enterprise Architecture` `System Integration` `Cross-Platform Design`"
+---
 ### Solutions Architect | E*TRADE (Morgan Stanley) Global Negotiation Guide
 
 **Negotiation DNA:** `Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Enterprise Architecture` `System Integration` `Cross-Platform Design`

@@ -1,3 +1,52 @@
+---
+company: sequoia
+company_display: Sequoia
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 210000
+    base_high: 268000
+    stock_low: null
+    stock_high: null
+    bonus_low: 150000
+    bonus_high: 220000
+    total_comp_low: 412000
+    total_comp_high: 555000
+    currency: USD
+  - region: San Francisco
+    base_low: 205000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_low: 140000
+    bonus_high: 210000
+    total_comp_low: 393000
+    total_comp_high: 532000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 150000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_low: 100000
+    bonus_high: 155000
+    total_comp_low: 282000
+    total_comp_high: 398000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - LinkedIn
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Base $200K-$268K` | `Carry/Bonus $140K-$220K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`"
+---
 ### Data Scientist | Sequoia Global Negotiation Guide
 
 **Negotiation DNA:** `Base $200K-$268K` | `Carry/Bonus $140K-$220K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`

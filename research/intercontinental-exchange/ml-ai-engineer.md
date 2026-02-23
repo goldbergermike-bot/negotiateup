@@ -1,3 +1,51 @@
+---
+company: intercontinental-exchange
+company_display: Intercontinental Exchange
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta (HQ)
+    base_low: 180000
+    base_high: 252000
+    stock_low: 200000
+    stock_high: 340000
+    bonus_low: 38000
+    bonus_high: 60000
+    total_comp_low: 268000
+    total_comp_high: 392000
+    currency: USD
+  - region: New York
+    base_low: 202000
+    base_high: 282000
+    stock_low: 224000
+    stock_high: 381000
+    bonus_low: 43000
+    bonus_high: 67000
+    total_comp_low: 300000
+    total_comp_high: 439000
+    currency: USD
+  - region: London
+    base_low: 144000
+    base_high: 202000
+    stock_low: 160000
+    stock_high: 272000
+    bonus_low: 30000
+    bonus_high: 48000
+    total_comp_low: 214000
+    total_comp_high: 314000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Market Intelligence AI` `Document Understanding` `Predictive Analytics at Scale`"
+---
 ### ML/AI Engineer | Intercontinental Exchange (ICE) Global Negotiation Guide
 
 **Negotiation DNA:** `Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Market Intelligence AI` `Document Understanding` `Predictive Analytics at Scale`

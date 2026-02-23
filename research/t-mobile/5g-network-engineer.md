@@ -1,3 +1,50 @@
+---
+company: t-mobile
+company_display: T-Mobile
+role: 5g-network-engineer
+role_display: 5G Network Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue / Seattle
+    base_low: 160000
+    base_high: 220000
+    stock_low: 75000
+    stock_high: 190000
+    bonus_pct: 12
+    total_comp_low: 220000
+    total_comp_high: 345000
+    currency: USD
+  - region: NYC / San Francisco
+    base_low: 165000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 12
+    total_comp_low: 230000
+    total_comp_high: 360000
+    currency: USD
+  - region: Dallas / Denver
+    base_low: 150000
+    base_high: 210000
+    stock_low: 65000
+    stock_high: 175000
+    bonus_pct: 12
+    total_comp_low: 200000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: T-Mobile 5G Network Engineer (Senior) = Ericsson Senior RAN Engineer = Nokia Senior Network Architect = Qualcomm Senior Systems Engineer = Verizon Senior Network Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$250B 5G Leader | America's Largest 5G Network | **SIGNATURE ROLE** | **+15-20% 5G PREMIUM**"
+---
 ### 5G Network Engineer | T-Mobile Global Negotiation Guide
 
 **Negotiation DNA:** $250B 5G Leader | America's Largest 5G Network | **SIGNATURE ROLE** | **+15-20% 5G PREMIUM**

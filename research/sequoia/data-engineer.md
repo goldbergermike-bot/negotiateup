@@ -1,3 +1,52 @@
+---
+company: sequoia
+company_display: Sequoia
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 185000
+    base_high: 232000
+    stock_low: null
+    stock_high: null
+    bonus_low: 120000
+    bonus_high: 178000
+    total_comp_low: 347000
+    total_comp_high: 468000
+    currency: USD
+  - region: San Francisco
+    base_low: 178000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_low: 115000
+    bonus_high: 170000
+    total_comp_low: 331000
+    total_comp_high: 450000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 132000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_low: 82000
+    bonus_high: 125000
+    total_comp_low: 240000
+    total_comp_high: 335000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - LinkedIn
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Base $175K-$232K` | `Carry/Bonus $115K-$178K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`"
+---
 ### Data Engineer | Sequoia Global Negotiation Guide
 
 **Negotiation DNA:** `Base $175K-$232K` | `Carry/Bonus $115K-$178K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`

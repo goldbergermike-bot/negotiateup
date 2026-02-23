@@ -1,3 +1,50 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 158000
+    base_high: 202000
+    stock_low: 105000
+    stock_high: 185000
+    bonus_pct: 5
+    total_comp_low: 192000
+    total_comp_high: 270000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 148000
+    base_high: 192000
+    stock_low: 95000
+    stock_high: 170000
+    bonus_pct: 5
+    total_comp_low: 180000
+    total_comp_high: 255000
+    currency: USD
+  - region: London / Berlin
+    base_low: 120000
+    base_high: 154000
+    stock_low: 78000
+    stock_high: 140000
+    bonus_pct: 5
+    total_comp_low: 146000
+    total_comp_high: 206000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs DevOps Engineer = Google L4 SRE = Meta E4 Production Engineer = Datadog SRE II = Elastic IC3 SRE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside"
+---
 ### DevOps Engineer | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside

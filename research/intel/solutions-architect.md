@@ -1,3 +1,48 @@
+---
+company: intel
+company_display: Intel
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 135000
+    base_high: 175000
+    stock_low: 52000
+    stock_high: 95000
+    bonus_pct: 12
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+  - region: Portland
+    base_low: 126000
+    base_high: 165000
+    stock_low: 45000
+    stock_high: 85000
+    bonus_pct: 12
+    total_comp_low: 170000
+    total_comp_high: 235000
+    currency: USD
+  - region: Phoenix
+    base_low: 118000
+    base_high: 155000
+    stock_low: 40000
+    stock_high: 75000
+    bonus_pct: 12
+    total_comp_low: 158000
+    total_comp_high: 218000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Intel Solutions Architect (Grade 7-9) = AMD Solutions Architect = NVIDIA Solutions Architect = Google L5 Solutions Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + INTC RSUs (4yr vest) + Bonus (12-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages"
+---
 ### Solutions Architect | Intel Global Negotiation Guide
 
 **Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (12-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages

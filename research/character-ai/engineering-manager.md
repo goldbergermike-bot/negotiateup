@@ -1,3 +1,50 @@
+---
+company: character-ai
+company_display: Character AI
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park / Bay Area
+    base_low: 225000
+    base_high: 300000
+    stock_low: 200000
+    stock_high: 480000
+    bonus_pct: null
+    total_comp_low: 275000
+    total_comp_high: 420000
+    currency: USD
+  - region: New York City
+    base_low: 225000
+    base_high: 300000
+    stock_low: 200000
+    stock_high: 480000
+    bonus_pct: null
+    total_comp_low: 275000
+    total_comp_high: 420000
+    currency: USD
+  - region: Remote US
+    base_low: 203000
+    base_high: 270000
+    stock_low: 180000
+    stock_high: 432000
+    bonus_pct: null
+    total_comp_low: 248000
+    total_comp_high: 378000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Character AI EM = Google M1-M2 = Meta M1-M2 = Startup VP Engineering scope
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Top-Tier AI Comp + Pre-IPO Equity | $5B+ Valuation (Google Partnership) | Menlo Park | Consumer AI Leadership"
+---
 ### Engineering Manager | Character AI Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier AI Comp + Pre-IPO Equity | $5B+ Valuation (Google Partnership) | Menlo Park | Consumer AI Leadership

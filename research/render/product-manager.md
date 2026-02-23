@@ -1,3 +1,39 @@
+---
+company: render
+company_display: Render
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 413000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 393000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Managers at Render own the strategy and roadmap for the modern cloud platform — defining what gets built, prioritizing features across web services, databases, networking, and developer tools, and driving the product vision that positions Render as the modern alternative to Heroku and legacy cloud providers."
+---
 ### Product Manager — Render Salary Negotiation Guide
 
 **Negotiation DNA**: Product Managers at Render own the strategy and roadmap for the modern cloud platform — defining what gets built, prioritizing features across web services, databases, networking, and developer tools, and driving the product vision that positions Render as the modern alternative to Heroku and legacy cloud providers.

@@ -1,3 +1,46 @@
+---
+company: cyberark
+company_display: Cyberark
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newton MA
+    base_low: 195000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 30000
+    signing_bonus_high: 60000
+    total_comp_low: 400000
+    total_comp_high: 580000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 22000
+    signing_bonus_high: 45000
+    total_comp_low: 255000
+    total_comp_high: 390000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Staff Software Engineer at CyberArk maps to E6 (Staff) in the Palo Alto Networks engineering ladder, senior IC with org-wide architectural influence within the Identity Security business unit."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+  - Blind
+negotiation_dna_summary: "CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London"
+---
 ### Staff Software Engineer | CyberArk Global Negotiation Guide
 
 **Negotiation DNA:** CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London

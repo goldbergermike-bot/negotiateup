@@ -1,3 +1,68 @@
+---
+company: samsung
+company_display: Samsung
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / San Jose (US)
+    base_low: 150000
+    base_high: 210000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 140000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 295000
+    currency: USD
+  - region: Seoul (HQ / Samsung SDS)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (R&D Campus)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 140000
+    stock_low: 35000
+    stock_high: 90000
+    bonus_pct: 15
+    total_comp_low: 120000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Samsung (CL3-CL4) = L5-L6 at Google Cloud SA, equivalent AWS SA, Principal SA at Microsoft, SA at VMware"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B conglomerate with enterprise B2B solutions (Knox, SmartThings Business, Samsung SDS) + Partner ecosystem spanning carriers, enterprises, and governments + Technical pre-sales directly driving $B+ enterprise revenue | Samsung SAs bridge hardware ecosystem and enterprise software needs | **ENTERPRISE SOLUTIONS PREMIUM**"
+---
 ### Solutions Architect | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B conglomerate with enterprise B2B solutions (Knox, SmartThings Business, Samsung SDS) + Partner ecosystem spanning carriers, enterprises, and governments + Technical pre-sales directly driving $B+ enterprise revenue | Samsung SAs bridge hardware ecosystem and enterprise software needs | **ENTERPRISE SOLUTIONS PREMIUM**

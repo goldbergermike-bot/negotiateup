@@ -1,3 +1,56 @@
+---
+company: netskope
+company_display: Netskope
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 180000
+    base_high: 230000
+    stock_low: 160000
+    stock_high: 320000
+    bonus_pct: 12
+    signing_bonus_low: 25000
+    signing_bonus_high: 50000
+    total_comp_low: 260000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 130000
+    stock_low: 95000
+    stock_high: 190000
+    bonus_pct: 12
+    signing_bonus_low: 15000
+    signing_bonus_high: 28000
+    total_comp_low: 140000
+    total_comp_high: 200000
+    currency: GBP
+  - region: Bangalore
+    base_low: 3200000
+    base_high: 5000000
+    stock_low: 2800000
+    stock_high: 5500000
+    bonus_pct: 12
+    signing_bonus_low: 500000
+    signing_bonus_high: 1200000
+    total_comp_low: 4800000
+    total_comp_high: 8000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer (IC3–IC4) | Netskope ML Engineering Band 3–4 | Equivalent: Google L4–L5 ML, Meta IC4–IC5 ML, Palo Alto Networks ML3–ML4"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Post-IPO Cloud Security | UZTNA Machine Learning & AI | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation"
+---
 ### ML/AI Engineer | Netskope Global Negotiation Guide
 
 **Negotiation DNA:** Post-IPO Cloud Security | UZTNA Machine Learning & AI | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation

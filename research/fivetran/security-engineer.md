@@ -1,3 +1,48 @@
+---
+company: fivetran
+company_display: Fivetran
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland / Remote-US
+    base_low: 168000
+    base_high: 205000
+    stock_low: 105000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 278000
+    currency: USD
+  - region: Denver
+    base_low: 162000
+    base_high: 198000
+    stock_low: 98000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 265000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 150000
+    stock_low: 72000
+    stock_high: 132000
+    bonus_pct: 10
+    total_comp_low: 152000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Fivetran SecEng = Google L4 Security = Snowflake SecEng = Databricks Security = Datadog SecEng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive Equity + Compliance Bonus | Data Pipeline Security & AI Governance 2026"
+---
 ### Security Engineer | Fivetran Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Equity + Compliance Bonus | Data Pipeline Security & AI Governance 2026

@@ -1,3 +1,39 @@
+---
+company: recorded-future
+company_display: Recorded Future
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Somerville/Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 148000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Technical Program Managers at Recorded Future orchestrate cross-functional programs spanning intelligence collection, NLP/AI analysis, platform infrastructure, and product delivery — coordinating between US and Sweden engineering teams under Mastercard ownership."
+---
 ### Technical Program Manager — Recorded Future Salary Negotiation Guide
 
 **Negotiation DNA**: Technical Program Managers at Recorded Future orchestrate cross-functional programs spanning intelligence collection, NLP/AI analysis, platform infrastructure, and product delivery — coordinating between US and Sweden engineering teams under Mastercard ownership.

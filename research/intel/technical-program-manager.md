@@ -1,3 +1,48 @@
+---
+company: intel
+company_display: Intel
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 128000
+    base_high: 168000
+    stock_low: 48000
+    stock_high: 85000
+    bonus_pct: 12
+    total_comp_low: 172000
+    total_comp_high: 238000
+    currency: USD
+  - region: Portland
+    base_low: 120000
+    base_high: 158000
+    stock_low: 42000
+    stock_high: 75000
+    bonus_pct: 12
+    total_comp_low: 160000
+    total_comp_high: 222000
+    currency: USD
+  - region: Phoenix
+    base_low: 112000
+    base_high: 148000
+    stock_low: 36000
+    stock_high: 65000
+    bonus_pct: 12
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Intel Technical Program Manager (Grade 7-9) = AMD Technical Program Manager = NVIDIA Technical Program Manager = Google L5 Technical Program Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + INTC RSUs (4yr vest) + Bonus (12-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages"
+---
 ### Technical Program Manager | Intel Global Negotiation Guide
 
 **Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (12-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages

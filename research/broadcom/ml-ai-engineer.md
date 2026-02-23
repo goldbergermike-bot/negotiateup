@@ -1,3 +1,48 @@
+---
+company: broadcom
+company_display: Broadcom
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose (USD)
+    base_low: 185000
+    base_high: 245000
+    stock_low: 240000
+    stock_high: 410000
+    bonus_pct: 15
+    total_comp_low: 258000
+    total_comp_high: 365000
+    currency: USD
+  - region: Singapore (SGD S$)
+    base_low: 152000
+    base_high: 202000
+    stock_low: 198000
+    stock_high: 338000
+    bonus_pct: 15
+    total_comp_low: 212000
+    total_comp_high: 302000
+    currency: SGD
+  - region: London (GBP £)
+    base_low: 118000
+    base_high: 162000
+    stock_low: 145000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 162000
+    total_comp_high: 245000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Broadcom ML/AI Engineer = VMware Senior ML Engineer = Google L5 ML Engineer = NVIDIA ML Engineer (CUDA/TensorRT)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + AVGO RSUs (4yr vest) + 15-20% Bonus + AI Infrastructure Premium (+15-25%) | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp"
+---
 ### ML/AI Engineer | Broadcom Global Negotiation Guide
 
 **Negotiation DNA:** Base + AVGO RSUs (4yr vest) + 15-20% Bonus + AI Infrastructure Premium (+15-25%) | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp

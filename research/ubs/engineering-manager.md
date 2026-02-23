@@ -1,3 +1,53 @@
+---
+company: ubs
+company_display: UBS
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 195000
+    base_high: 265000
+    stock_low: 48000
+    stock_high: 80000
+    bonus_low: 35000
+    bonus_high: 53000
+    total_comp_low: 278000
+    total_comp_high: 398000
+    currency: USD
+  - region: Zurich (HQ)
+    base_low: 172000
+    base_high: 233000
+    stock_low: 42000
+    stock_high: 70000
+    bonus_low: 31000
+    bonus_high: 47000
+    total_comp_low: 245000
+    total_comp_high: 350000
+    currency: CHF
+  - region: London
+    base_low: 156000
+    base_high: 212000
+    stock_low: 38000
+    stock_high: 64000
+    bonus_low: 28000
+    bonus_high: 42000
+    total_comp_low: 222000
+    total_comp_high: 318000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Team Leadership` `Migration Delivery` `Org Scaling`"
+---
 ### Engineering Manager | UBS Global Negotiation Guide
 
 **Negotiation DNA:** `CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Team Leadership` `Migration Delivery` `Org Scaling`

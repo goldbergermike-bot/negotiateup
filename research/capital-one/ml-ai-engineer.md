@@ -1,3 +1,50 @@
+---
+company: capital-one
+company_display: Capital One
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: McLean VA (HQ)
+    base_low: 160000
+    base_high: 218000
+    stock_low: 95000
+    stock_high: 245000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 355000
+    currency: USD
+  - region: New York City
+    base_low: 172000
+    base_high: 228000
+    stock_low: 105000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 380000
+    currency: USD
+  - region: San Francisco
+    base_low: 168000
+    base_high: 225000
+    stock_low: 100000
+    stock_high: 255000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 370000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Capital One (Senior/Principal) = L4-L5 at Google, E4-E5 at Meta, Applied Scientist at Amazon, VP/SVP at BofA/JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$68B market cap TECH-FIRST bank + ML is the core business engine + McLean VA HQ + Comp competitive with Big Tech ML teams | Capital One ML engineers build models that ARE the business | **ML-FIRST BANKING PREMIUM**"
+---
 ### ML/AI Engineer | Capital One Global Negotiation Guide
 
 **Negotiation DNA:** $68B market cap TECH-FIRST bank + ML is the core business engine + McLean VA HQ + Comp competitive with Big Tech ML teams | Capital One ML engineers build models that ARE the business | **ML-FIRST BANKING PREMIUM**

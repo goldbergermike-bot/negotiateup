@@ -1,3 +1,48 @@
+---
+company: deloitte
+company_display: Deloitte
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 130000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 143000
+    total_comp_high: 251000
+    currency: USD
+  - region: Chicago
+    base_low: 120000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 234000
+    currency: USD
+  - region: Hyderabad
+    base_low: 1800000
+    base_high: 3500000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 2000000
+    total_comp_high: 4200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Deloitte Senior Consultant / Manager (AI) = Google L4 ML Engineer = Meta E4 ML = Accenture Consultant (AI)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (10-20%) + Limited Equity at Senior Levels | AI & Cognitive Practice"
+---
 ### ML/AI Engineer | Deloitte Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (10-20%) + Limited Equity at Senior Levels | AI & Cognitive Practice

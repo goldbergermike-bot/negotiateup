@@ -1,3 +1,54 @@
+---
+company: visa
+company_display: Visa
+role: trusted-agent-platform-engineer
+role_display: Trusted Agent Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Foster City
+    base_low: 200000
+    base_high: 280000
+    stock_low: 200000
+    stock_high: 400000
+    bonus_low: 35000
+    bonus_high: 70000
+    total_comp_low: 435000
+    total_comp_high: 750000
+    currency: USD
+  - region: New York
+    base_low: 215000
+    base_high: 300000
+    stock_low: 220000
+    stock_high: 430000
+    bonus_low: 38000
+    bonus_high: 75000
+    total_comp_low: 473000
+    total_comp_high: 805000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 170000
+    stock_low: 115000
+    stock_high: 230000
+    bonus_low: 22000
+    bonus_high: 44000
+    total_comp_low: 257000
+    total_comp_high: 444000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Visa | Google | Meta | Stripe | JPMorgan | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `SIGNATURE ROLE` `Payments Infrastructure` `AI Commerce Platform` `4B+ Cards` `200+ Countries` `Agent Credential Systems` `Trust Architecture` `VisaNet` `Protocol Engineering` `Greenfield Platform`"
+---
 ### Trusted Agent Platform Engineer | Visa Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `SIGNATURE ROLE` `Payments Infrastructure` `AI Commerce Platform` `4B+ Cards` `200+ Countries` `Agent Credential Systems` `Trust Architecture` `VisaNet` `Protocol Engineering` `Greenfield Platform`

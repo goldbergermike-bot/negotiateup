@@ -1,3 +1,54 @@
+---
+company: tpg
+company_display: Tpg
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 175000
+    base_high: 225000
+    stock_low: 140000
+    stock_high: 230000
+    bonus_low: 35000
+    bonus_high: 58000
+    total_comp_low: 350000
+    total_comp_high: 428000
+    currency: USD
+  - region: "Fort Worth, TX"
+    base_low: 148000
+    base_high: 192000
+    stock_low: 112000
+    stock_high: 185000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 298000
+    total_comp_high: 358000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 218000
+    stock_low: 132000
+    stock_high: 220000
+    bonus_low: 33000
+    bonus_high: 55000
+    total_comp_low: 338000
+    total_comp_high: 415000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "`Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Product-Led Growth` `Revenue Strategy` `Portfolio Product Vision` `CRO/CGO Mindset`"
+---
 ### Product Manager | TPG Global Negotiation Guide
 
 **Negotiation DNA:** `Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Product-Led Growth` `Revenue Strategy` `Portfolio Product Vision` `CRO/CGO Mindset`

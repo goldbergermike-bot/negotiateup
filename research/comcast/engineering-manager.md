@@ -1,3 +1,50 @@
+---
+company: comcast
+company_display: Comcast
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / NYC
+    base_low: 165000
+    base_high: 230000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 370000
+    currency: USD
+  - region: Denver / Seattle
+    base_low: 160000
+    base_high: 225000
+    stock_low: 65000
+    stock_high: 190000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 355000
+    currency: USD
+  - region: London (UK)
+    base_low: 125000
+    base_high: 170000
+    stock_low: 50000
+    stock_high: 145000
+    bonus_pct: 15
+    total_comp_low: 170000
+    total_comp_high: 275000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Comcast EM (M1-M2) = Google L5-L6 Manager = Meta E5-E6 Manager = Amazon L6-L7 Manager = Microsoft 63-65 Manager
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$170B Media-Tech Conglomerate | Multi-Team Technical Leadership | Business-Critical Platform Ownership"
+---
 ### Engineering Manager | Comcast Global Negotiation Guide
 
 **Negotiation DNA:** $170B Media-Tech Conglomerate | Multi-Team Technical Leadership | Business-Critical Platform Ownership

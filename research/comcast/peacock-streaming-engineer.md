@@ -1,3 +1,50 @@
+---
+company: comcast
+company_display: Comcast
+role: peacock-streaming-engineer
+role_display: Peacock Streaming Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / NYC
+    base_low: 155000
+    base_high: 210000
+    stock_low: 60000
+    stock_high: 170000
+    bonus_pct: 12
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: USD
+  - region: Denver / Seattle
+    base_low: 150000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 160000
+    bonus_pct: 12
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+  - region: London (UK)
+    base_low: 115000
+    base_high: 155000
+    stock_low: 40000
+    stock_high: 120000
+    bonus_pct: 12
+    total_comp_low: 155000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Comcast Peacock Streaming Engineer (Senior) = Google L4-L5 = Meta E4-E5 = Netflix Senior SWE = Amazon SDE II-III = Disney Streaming Senior Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "NBCUniversal Streaming Platform | Peacock Growth Engine | **SIGNATURE ROLE** | **+15-20% STREAMING PREMIUM**"
+---
 ### Peacock Streaming Engineer | Comcast Global Negotiation Guide
 
 **Negotiation DNA:** NBCUniversal Streaming Platform | Peacock Growth Engine | **SIGNATURE ROLE** | **+15-20% STREAMING PREMIUM**

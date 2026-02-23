@@ -1,3 +1,50 @@
+---
+company: stability-ai
+company_display: Stability AI
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 110000
+    base_high: 165000
+    stock_low: 85000
+    stock_high: 265000
+    bonus_pct: null
+    total_comp_low: 131000
+    total_comp_high: 231000
+    currency: GBP
+  - region: San Francisco
+    base_low: 185000
+    base_high: 255000
+    stock_low: 90000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 208000
+    total_comp_high: 325000
+    currency: USD
+  - region: Remote US
+    base_low: 167000
+    base_high: 230000
+    stock_low: 81000
+    stock_high: 252000
+    bonus_pct: null
+    total_comp_low: 187000
+    total_comp_high: 293000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stability AI EM = Google M1-M2 = UK EM Director-level (scope)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | Open-Source AI Leadership"
+---
 ### Engineering Manager | Stability AI Global Negotiation Guide
 
 **Negotiation DNA:** Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | Open-Source AI Leadership

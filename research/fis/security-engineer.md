@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 140000
+    base_high: 185000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_low: 16000
+    bonus_high: 30000
+    total_comp_low: 226000
+    total_comp_high: 355000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 180000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 277000
+    total_comp_high: 433000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 135000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 14000
+    bonus_high: 24000
+    total_comp_low: 159000
+    total_comp_high: 259000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Cybersecurity` `AppSec` `Compliance`"
+---
 ### Security Engineer | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Cybersecurity` `AppSec` `Compliance`

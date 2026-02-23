@@ -1,3 +1,48 @@
+---
+company: segment
+company_display: Segment
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 172000
+    base_high: 208000
+    stock_low: 105000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 288000
+    currency: USD
+  - region: New York
+    base_low: 168000
+    base_high: 202000
+    stock_low: 100000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 278000
+    currency: USD
+  - region: London
+    base_low: 122000
+    base_high: 152000
+    stock_low: 72000
+    stock_high: 132000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Segment SecEng = Google L4 Security = Twilio Security Eng = Salesforce SecEng = Datadog SecEng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Twilio RSU + Compliance Bonus | Customer Data Privacy & AI Security 2026"
+---
 ### Security Engineer | Segment Global Negotiation Guide
 
 **Negotiation DNA:** Twilio RSU + Compliance Bonus | Customer Data Privacy & AI Security 2026

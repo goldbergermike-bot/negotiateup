@@ -1,3 +1,50 @@
+---
+company: apple
+company_display: Apple
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 175000
+    base_high: 265000
+    stock_low: 180000
+    stock_high: 520000
+    bonus_pct: 5
+    total_comp_low: 260000
+    total_comp_high: 460000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 165000
+    base_high: 250000
+    stock_low: 160000
+    stock_high: 470000
+    bonus_pct: 5
+    total_comp_low: 240000
+    total_comp_high: 425000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 170000
+    base_high: 260000
+    stock_low: 170000
+    stock_high: 500000
+    bonus_pct: 5
+    total_comp_low: 250000
+    total_comp_high: 445000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple ICT3 = Google L4, Meta E4, OpenAI L3, Anthropic IC2 | Apple ICT4 = Google L5, Meta E5, OpenAI L4, Anthropic IC3 | Apple ICT5 = Google L6, Meta E6, OpenAI L5, Anthropic IC4"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium AI/ML base + aggressive RSU grants in the hottest talent market in tech | Apple positions ML engineers as the engine behind Apple Intelligence, Siri, Vision Pro, and on-device experiences | **AI TALENT WAR PREMIUM: +10-20% above standard SWE comp due to extreme market scarcity**"
+---
 ### ML/AI Engineer | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Premium AI/ML base + aggressive RSU grants in the hottest talent market in tech | Apple positions ML engineers as the engine behind Apple Intelligence, Siri, Vision Pro, and on-device experiences | **AI TALENT WAR PREMIUM: +10-20% above standard SWE comp due to extreme market scarcity**

@@ -1,3 +1,48 @@
+---
+company: discord
+company_display: Discord
+role: community-platform-ai-engineer
+role_display: Community Platform AI Engineer (SIGNATURE ROLE)
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 280000
+    stock_low: 148000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 372000
+    currency: USD
+  - region: New York
+    base_low: 208000
+    base_high: 270000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 358000
+    currency: USD
+  - region: Remote US
+    base_low: 195000
+    base_high: 252000
+    stock_low: 128000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 335000
+    currency: USD
+level_mapping:
+  internal: SIGNATURE ROLE
+  raw: Discord Community Platform AI Engineer = Google Staff ML Engineer (L6) = Meta ML Engineer (IC5-IC6) = Amazon Principal Applied Scientist = Apple Senior ML Engineer = OpenAI Research Engineer = Anthropic Safety Researcher + ML Engineer Hybrid
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | +15-25% AI Premium | Community AI + Moderation ML + Clyde Bot + Real-Time Content Understanding"
+---
 ### Community Platform AI Engineer (SIGNATURE ROLE) | Discord Global Negotiation Guide
 
 **Negotiation DNA:** Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | +15-25% AI Premium | Community AI + Moderation ML + Clyde Bot + Real-Time Content Understanding

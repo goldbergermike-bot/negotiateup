@@ -1,3 +1,49 @@
+---
+company: tenstorrent
+company_display: Tenstorrent
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 210000
+    base_high: 275000
+    stock_low: 85000
+    stock_high: 145000
+    bonus_pct: 12
+    total_comp_low: 332000
+    total_comp_high: 465000
+    currency: CAD
+  - region: Austin
+    base_low: 198000
+    base_high: 262000
+    stock_low: 68000
+    stock_high: 115000
+    bonus_pct: 12
+    total_comp_low: 305000
+    total_comp_high: 425000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 252000
+    stock_low: 65000
+    stock_high: 110000
+    bonus_pct: 12
+    total_comp_low: 292000
+    total_comp_high: 408000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Tenstorrent Staff SWE ~ Google L6 | Meta E6 | Apple ICT5 | AMD PMTS | Intel Principal Engineer | NVIDIA IC5"
+data_sources:
+  - Levels.fyi
+  - Crunchbase
+negotiation_dna_summary: "[Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | +20% Staff Premium"
+---
 ### Staff Software Engineer | Tenstorrent Global Negotiation Guide
 
 **Negotiation DNA:** [Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | +20% Staff Premium

@@ -1,3 +1,32 @@
+---
+company: de-shaw
+company_display: D.E. Shaw
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 230000
+    base_high: 325000
+    stock_low: null
+    stock_high: null
+    bonus_low: 230000
+    bonus_high: 812000
+    total_comp_low: 460000
+    total_comp_high: 1137000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "EM at D.E. Shaw = L7-L8 at Google, M2-D1 at Meta, Principal SDM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-250%+ | D.E. Shaw EMs lead teams of the world's top engineers | **ELITE QUANT EM PREMIUM**"
+---
 ### Engineering Manager | D.E. Shaw Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-250%+ | D.E. Shaw EMs lead teams of the world's top engineers | **ELITE QUANT EM PREMIUM**

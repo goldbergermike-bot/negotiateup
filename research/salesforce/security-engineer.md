@@ -1,3 +1,48 @@
+---
+company: salesforce
+company_display: Salesforce
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 190000
+    base_high: 240000
+    stock_low: 220000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 245000
+    total_comp_high: 335000
+    currency: USD
+  - region: Indianapolis
+    base_low: 170000
+    base_high: 215000
+    stock_low: 190000
+    stock_high: 330000
+    bonus_pct: null
+    total_comp_low: 218000
+    total_comp_high: 298000
+    currency: USD
+  - region: Hyderabad
+    base_low: 3500000
+    base_high: 5500000
+    stock_low: 2000000
+    stock_high: 3800000
+    bonus_pct: null
+    total_comp_low: 5500000
+    total_comp_high: 9300000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Salesforce Senior Security Eng = Google L4 Security = CrowdStrike Senior Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Agentforce Consumption Inflection"
+---
 ### Security Engineer | Salesforce Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Agentforce Consumption Inflection

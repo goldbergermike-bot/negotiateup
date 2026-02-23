@@ -1,3 +1,59 @@
+---
+company: baidu
+company_display: Baidu
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 150000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 310000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 145000
+    base_high: 205000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 400000
+    base_high: 720000
+    stock_low: 140000
+    stock_high: 410000
+    bonus_pct: 15
+    total_comp_low: 580000
+    total_comp_high: 1150000
+    currency: CNY
+  - region: Shanghai
+    base_low: 380000
+    base_high: 690000
+    stock_low: 130000
+    stock_high: 390000
+    bonus_pct: 15
+    total_comp_low: 550000
+    total_comp_high: 1100000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at Baidu (T4-T6) = L3-L5 SRE at Google, IC3-IC5 PE at Meta, SysDE at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$40B market cap operating search infrastructure for 600M+ users + Apollo AV cloud infrastructure + Baidu AI Cloud competing in China's cloud market + Competitive US R&D comp | Baidu DevOps engineers manage infrastructure spanning search, AI, and autonomous driving | **MULTI-PLATFORM INFRASTRUCTURE PREMIUM**"
+---
 ### DevOps Engineer | Baidu Global Negotiation Guide
 
 **Negotiation DNA:** $40B market cap operating search infrastructure for 600M+ users + Apollo AV cloud infrastructure + Baidu AI Cloud competing in China's cloud market + Competitive US R&D comp | Baidu DevOps engineers manage infrastructure spanning search, AI, and autonomous driving | **MULTI-PLATFORM INFRASTRUCTURE PREMIUM**

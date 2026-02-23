@@ -1,3 +1,49 @@
+---
+company: juniper
+company_display: Juniper
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 120000
+    base_high: 155000
+    stock_low: 30000
+    stock_high: 50000
+    bonus_pct: 8
+    total_comp_low: 168000
+    total_comp_high: 218000
+    currency: USD
+  - region: Westford (MA)
+    base_low: 110000
+    base_high: 142000
+    stock_low: 28000
+    stock_high: 45000
+    bonus_pct: 8
+    total_comp_low: 158000
+    total_comp_high: 200000
+    currency: USD
+  - region: Remote US
+    base_low: 105000
+    base_high: 138000
+    stock_low: 25000
+    stock_high: 42000
+    bonus_pct: 8
+    total_comp_low: 158000
+    total_comp_high: 195000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Juniper SWE (IC2) = Google L3–L4 | Meta E3–E4 | Amazon SDE I–II | Cisco Engineer–Sr. Engineer | HPE Individual Contributor 3–4"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | Networking Infrastructure Tier"
+---
 ### Software Engineer | Juniper Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | Networking Infrastructure Tier

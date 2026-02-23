@@ -1,3 +1,55 @@
+---
+company: f5
+company_display: F5
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 128000
+    base_high: 158000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: 8
+    signing_bonus_low: 12000
+    signing_bonus_high: 28000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Jose
+    base_low: 135000
+    base_high: 165000
+    stock_low: 108000
+    stock_high: 210000
+    bonus_pct: 8
+    signing_bonus_low: 12000
+    signing_bonus_high: 28000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 72000
+    base_high: 95000
+    stock_low: 58000
+    stock_high: 118000
+    bonus_pct: 8
+    signing_bonus_low: 7000
+    signing_bonus_high: 16000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "- F5 DevOps Engineer (E3–E5) = Google SRE/DevOps L4–L5 / Meta Production Engineer E4–E5 / Microsoft SDE/DevOps 60–63 / Amazon Systems Dev Engineer L4–L5"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support"
+---
 ### DevOps Engineer | F5 Global Negotiation Guide
 
 **Negotiation DNA:** F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support

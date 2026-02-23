@@ -1,3 +1,48 @@
+---
+company: airwallex
+company_display: Airwallex
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Melbourne (AUD)
+    base_low: 110000
+    base_high: 145000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 225000
+    currency: AUD
+  - region: San Francisco (USD)
+    base_low: 140000
+    base_high: 175000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 275000
+    currency: USD
+  - region: London (GBP)
+    base_low: 65000
+    base_high: 90000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_pct: null
+    total_comp_low: 90000
+    total_comp_high: 145000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a software engineering compensation framework spanning Melbourne, San Francisco, and London markets. As a Software Engineer at Airwallex, you are the foundational builder of cross-border payment infrastructure that processes billions in transaction volume across 150+ countries — your code is the compliance layer that regulators audit."
+---
 ### Software Engineer — Airwallex Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a software engineering compensation framework spanning Melbourne, San Francisco, and London markets. As a Software Engineer at Airwallex, you are the foundational builder of cross-border payment infrastructure that processes billions in transaction volume across 150+ countries — your code is the compliance layer that regulators audit.

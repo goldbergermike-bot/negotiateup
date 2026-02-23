@@ -1,3 +1,50 @@
+---
+company: sambanova
+company_display: Sambanova
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 170000
+    base_high: 220000
+    stock_low: 35000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 305000
+    currency: USD
+  - region: Austin
+    base_low: 152000
+    base_high: 198000
+    stock_low: 28000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 272000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 190000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SambaNova Senior SWE (L5) ~ Google L5 | Meta E5 | Amazon SDE III | Apple ICT4 | Microsoft 63–64"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +25% Agentic Orchestrator Premium"
+---
 ### Senior Software Engineer | SambaNova Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +25% Agentic Orchestrator Premium

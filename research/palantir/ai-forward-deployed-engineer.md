@@ -1,3 +1,54 @@
+---
+company: palantir
+company_display: Palantir
+role: ai-forward-deployed-engineer
+role_display: AI Forward Deployed Engineer (AI FDE)
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 155000
+    base_high: 195000
+    stock_low: 290000
+    stock_high: 480000
+    bonus_pct: null
+    total_comp_low: 228000
+    total_comp_high: 315000
+    currency: USD
+  - region: New York City
+    base_low: 160000
+    base_high: 200000
+    stock_low: 298000
+    stock_high: 490000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 323000
+    currency: USD
+  - region: London
+    base_low: 82000
+    base_high: 108000
+    stock_low: 145000
+    stock_high: 242000
+    bonus_pct: null
+    total_comp_low: 118000
+    total_comp_high: 168000
+    currency: GBP
+level_mapping:
+  internal: AI FDE
+  raw: "Palantir AI FDE (Senior) = No Direct Equivalent — Closest: Databricks Solutions Eng + Google Applied ML Eng + McKinsey Digital Consultant, combined"
+data_sources:
+  - Palantir AI FDE — Forward Deployed AI Engineering Model 2026
+  - "AIP Revenue — 137% US Commercial Growth, AI FDE as Delivery Mechanism"
+  - "Palantir 'N of 1' Positioning — No Direct Competitor, No Equivalent Role"
+  - Classified AI Deployment — Air-Gapped AI Agent Engineering
+  - "Agentic AI Premium — 25-40% for Enterprise AI Agent Deployment"
+  - "Rule of 40 at 127% — Stock Appreciation Thesis for Equity Comp"
+  - Hours-Adjusted Comp Framework — Palantir vs. FAANG Analysis
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | **SIGNATURE ROLE** | **+25–40% AGENTIC AI PREMIUM** | 60+ Hour Culture"
+---
 ### AI Forward Deployed Engineer (AI FDE) | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | **SIGNATURE ROLE** | **+25–40% AGENTIC AI PREMIUM** | 60+ Hour Culture

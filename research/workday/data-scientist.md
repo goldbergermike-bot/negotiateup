@@ -1,3 +1,48 @@
+---
+company: workday
+company_display: Workday
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pleasanton
+    base_low: 172000
+    base_high: 212000
+    stock_low: 170000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 218000
+    total_comp_high: 285000
+    currency: USD
+  - region: Dublin
+    base_low: 105000
+    base_high: 134000
+    stock_low: 94000
+    stock_high: 168000
+    bonus_pct: 15
+    total_comp_low: 135000
+    total_comp_high: 180000
+    currency: EUR
+  - region: London
+    base_low: 113000
+    base_high: 147000
+    stock_low: 102000
+    stock_high: 182000
+    bonus_pct: 15
+    total_comp_low: 145000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Workday Data Scientist (P3) = Google DS L4 = Meta DS IC4 = Salesforce Senior DS = Snowflake DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity"
+---
 ### Data Scientist | Workday Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity

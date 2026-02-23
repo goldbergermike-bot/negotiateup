@@ -1,3 +1,68 @@
+---
+company: tencent
+company_display: Tencent
+role: wechat-platform-engineer
+role_display: WeChat Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Palo Alto / Los Angeles (US R&D)"
+    base_low: 175000
+    base_high: 245000
+    stock_low: 100000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 410000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 170000
+    base_high: 235000
+    stock_low: 95000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 395000
+    currency: USD
+  - region: Shenzhen (HQ)
+    base_low: 500000
+    base_high: 900000
+    stock_low: 200000
+    stock_high: 600000
+    bonus_pct: 20
+    total_comp_low: 750000
+    total_comp_high: 1500000
+    currency: CNY
+  - region: Beijing
+    base_low: 480000
+    base_high: 850000
+    stock_low: 180000
+    stock_high: 550000
+    bonus_pct: 20
+    total_comp_low: 700000
+    total_comp_high: 1400000
+    currency: CNY
+  - region: Singapore
+    base_low: 130000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "WeChat Platform Engineer at Tencent (T9-T11) = L5-L6 at Google, IC5-IC6 at Meta, SDE III-Principal at Amazon, equivalent ByteDance 2-2 to 3-1"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$450B market cap with WeChat serving 1.3B MAU + World's most comprehensive super-app platform + Strong US R&D comp benchmarked against FAANG | WeChat engineers build the infrastructure powering China's digital economy | **SUPER-APP PLATFORM PREMIUM**"
+---
 ### WeChat Platform Engineer | Tencent Global Negotiation Guide
 
 **Negotiation DNA:** $450B market cap with WeChat serving 1.3B MAU + World's most comprehensive super-app platform + Strong US R&D comp benchmarked against FAANG | WeChat engineers build the infrastructure powering China's digital economy | **SUPER-APP PLATFORM PREMIUM**

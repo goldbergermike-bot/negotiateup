@@ -1,3 +1,49 @@
+---
+company: unity
+company_display: Unity
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 225000
+    stock_low: 70000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 325000
+    currency: USD
+  - region: Austin
+    base_low: 140000
+    base_high: 200000
+    stock_low: 56000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 183000
+    total_comp_high: 285000
+    currency: USD
+  - region: Copenhagen
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Unity SA (L4) = Google L4-L5 Solutions = AWS Solutions Architect III-IV
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: RSU + Bonus / Post-IPO Comp Stabilizing
+---
 ### Solutions Architect | Unity Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Post-IPO Comp Stabilizing

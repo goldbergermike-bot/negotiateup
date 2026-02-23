@@ -1,3 +1,53 @@
+---
+company: goldman-sachs
+company_display: Goldman Sachs
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 240000
+    base_high: 325000
+    stock_low: 85000
+    stock_high: 140000
+    bonus_low: 60000
+    bonus_high: 90000
+    total_comp_low: 385000
+    total_comp_high: 555000
+    currency: USD
+  - region: London
+    base_low: 182000
+    base_high: 246000
+    stock_low: 64000
+    stock_high: 106000
+    bonus_low: 45000
+    bonus_high: 68000
+    total_comp_low: 291000
+    total_comp_high: 420000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 6000000
+    base_high: 8500000
+    stock_low: 2500000
+    stock_high: 3800000
+    bonus_low: 1600000
+    bonus_high: 2500000
+    total_comp_low: 10100000
+    total_comp_high: 14800000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "`Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Managing Director Track` `Firm-Wide Architecture Authority` `Technical Fellow Pathway`"
+---
 ### Staff Software Engineer | Goldman Sachs Global Negotiation Guide
 
 **Negotiation DNA:** `Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Managing Director Track` `Firm-Wide Architecture Authority` `Technical Fellow Pathway`

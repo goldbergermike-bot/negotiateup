@@ -1,3 +1,52 @@
+---
+company: terrapay
+company_display: Terrapay
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam (EUR)
+    base_low: 90000
+    base_high: 125000
+    stock_low: 55000
+    stock_high: 130000
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 255000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 115000
+    base_high: 160000
+    stock_low: 68000
+    stock_high: 155000
+    bonus_pct: null
+    total_comp_low: 183000
+    total_comp_high: 315000
+    currency: SGD
+  - region: New York (USD)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 85000
+    stock_high: 195000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 405000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - "TerraPay MilX Creator Payout Launch — Jan 28, 2026 — Partner Integrations"
+  - "TerraPay Global Payments Highway — 7.5B+ Accounts, 130+ Countries"
+  - TerraPay Botim Super-App Partnership — Integration Architecture
+  - Thunes / Nium / Wise Solutions Architect Compensation
+  - "TerraPay Private Valuation & SA-Level Options Data"
+  - Cross-Border Payments Solutions Architecture Talent Market
+negotiation_dna_summary: "This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a solutions architecture compensation framework spanning Amsterdam, Singapore, and New York markets."
+---
 ### Solutions Architect — TerraPay Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a solutions architecture compensation framework spanning Amsterdam, Singapore, and New York markets.

@@ -1,3 +1,48 @@
+---
+company: airwallex
+company_display: Airwallex
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Melbourne (AUD)
+    base_low: 185000
+    base_high: 245000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 305000
+    total_comp_high: 485000
+    currency: AUD
+  - region: San Francisco (USD)
+    base_low: 220000
+    base_high: 280000
+    stock_low: 150000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 370000
+    total_comp_high: 580000
+    currency: USD
+  - region: London (GBP)
+    base_low: 115000
+    base_high: 155000
+    stock_low: 75000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 305000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into an engineering management compensation framework spanning Melbourne, San Francisco, and London markets. As an Engineering Manager at Airwallex, you lead teams whose output is directly audited by financial regulators — your leadership determines both velocity and compliance posture across critical payment systems."
+---
 ### Engineering Manager — Airwallex Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into an engineering management compensation framework spanning Melbourne, San Francisco, and London markets. As an Engineering Manager at Airwallex, you lead teams whose output is directly audited by financial regulators — your leadership determines both velocity and compliance posture across critical payment systems.

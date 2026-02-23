@@ -1,3 +1,48 @@
+---
+company: palantir
+company_display: Palantir
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 145000
+    base_high: 182000
+    stock_low: 210000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 198000
+    total_comp_high: 270000
+    currency: USD
+  - region: New York City
+    base_low: 150000
+    base_high: 188000
+    stock_low: 218000
+    stock_high: 360000
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 278000
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 98000
+    stock_low: 105000
+    stock_high: 178000
+    bonus_pct: null
+    total_comp_low: 101000
+    total_comp_high: 142000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Palantir Senior TPM = Google L4 TPM = Databricks Senior TPM — but with classified environment coordination
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture"
+---
 ### Technical Program Manager | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture

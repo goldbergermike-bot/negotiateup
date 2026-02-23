@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 200000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 280000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 195000
+    stock_low: 75000
+    stock_high: 142000
+    bonus_pct: 15
+    total_comp_low: 208000
+    total_comp_high: 270000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 148000
+    stock_low: 55000
+    stock_high: 105000
+    bonus_pct: 15
+    total_comp_low: 152000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel SA = Google Cloud SA = Snowflake SA = Amplitude Enterprise SA = Databricks SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Sales Incentive | AI Analytics Enterprise Implementation 2026"
+---
 ### Solutions Architect | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Sales Incentive | AI Analytics Enterprise Implementation 2026

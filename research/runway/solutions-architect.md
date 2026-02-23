@@ -1,3 +1,50 @@
+---
+company: runway
+company_display: Runway
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 165000
+    base_high: 225000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+  - region: San Francisco
+    base_low: 165000
+    base_high: 225000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote US
+    base_low: 149000
+    base_high: 203000
+    stock_low: 90000
+    stock_high: 252000
+    bonus_pct: null
+    total_comp_low: 171000
+    total_comp_high: 266000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Runway Solutions Architect = Google Customer Engineer L4-L5 = AWS Solutions Architect II-III = Databricks Solutions Architect
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | Enterprise Creative AI"
+---
 ### Solutions Architect | Runway Global Negotiation Guide
 
 **Negotiation DNA:** Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | Enterprise Creative AI

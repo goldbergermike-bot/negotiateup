@@ -1,3 +1,52 @@
+---
+company: western-union
+company_display: Western Union
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver CO
+    base_low: 145000
+    base_high: 185000
+    stock_low: 45000
+    stock_high: 85000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 208000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 55000
+    stock_high: 105000
+    bonus_low: 22000
+    bonus_high: 45000
+    total_comp_low: 242000
+    total_comp_high: 365000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 125000
+    stock_low: 30000
+    stock_high: 58000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 137000
+    total_comp_high: 208000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Western Union | Google | Meta | Stripe | JPMorgan | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: WU` `USDPT` `Technical Program Manager` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Cross-Functional Delivery`"
+---
 ### Technical Program Manager | Western Union Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: WU` `USDPT` `Technical Program Manager` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Cross-Functional Delivery`

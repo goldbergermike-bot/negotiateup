@@ -1,3 +1,39 @@
+---
+company: waymo
+company_display: Waymo
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View (HQ)
+    base_low: 195000
+    base_high: 260000
+    stock_low: 200000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 490000
+    currency: USD
+  - region: San Francisco
+    base_low: 195000
+    base_high: 260000
+    stock_low: 200000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 490000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Waymo Senior Software Engineer = Google L4 = Meta E4 = Apple ICT3 = Amazon SDE-II/III
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Google-Adjacent Comp | Alphabet RSUs (GOOGL) | Self-Driving Leader | Top-Tier Stability"
+---
 ### Senior Software Engineer | Waymo Global Negotiation Guide
 
 **Negotiation DNA:** Google-Adjacent Comp | Alphabet RSUs (GOOGL) | Self-Driving Leader | Top-Tier Stability

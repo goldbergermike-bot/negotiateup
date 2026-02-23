@@ -1,3 +1,51 @@
+---
+company: fidelity
+company_display: Fidelity
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 162000
+    base_high: 215000
+    stock_low: 30000
+    stock_high: 55000
+    bonus_low: 33000
+    bonus_high: 52000
+    total_comp_low: 225000
+    total_comp_high: 322000
+    currency: USD
+  - region: "Durham, NC"
+    base_low: 146000
+    base_high: 194000
+    stock_low: 27000
+    stock_high: 50000
+    bonus_low: 30000
+    bonus_high: 47000
+    total_comp_low: 203000
+    total_comp_high: 291000
+    currency: USD
+  - region: "Dallas, TX"
+    base_low: 149000
+    base_high: 198000
+    stock_low: 28000
+    stock_high: 51000
+    bonus_low: 30000
+    bonus_high: 48000
+    total_comp_low: 207000
+    total_comp_high: 297000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `System Design Leadership` `Compliance Automation` `Platform Architecture`"
+---
 ### Senior Software Engineer | Fidelity Investments Global Negotiation Guide
 
 **Negotiation DNA:** `Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `System Design Leadership` `Compliance Automation` `Platform Architecture`

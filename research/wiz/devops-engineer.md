@@ -1,3 +1,38 @@
+---
+company: wiz
+company_display: Wiz
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 375000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 77000
+    total_comp_high: 180000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "As a DevOps Engineer at the $32B Hyperscaler Multicloud security leader, you build and maintain the infrastructure and CI/CD pipelines that power the cloud security platform Google deemed worth the largest cybersecurity acquisition in history."
+---
 ### DevOps Engineer — Wiz (Google) Salary Negotiation Guide
 
 **Negotiation DNA**: As a DevOps Engineer at the $32B Hyperscaler Multicloud security leader, you build and maintain the infrastructure and CI/CD pipelines that power the cloud security platform Google deemed worth the largest cybersecurity acquisition in history.

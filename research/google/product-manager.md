@@ -1,3 +1,70 @@
+---
+company: google
+company_display: Google
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 190000
+    base_high: 295000
+    stock_low: 220000
+    stock_high: 620000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 560000
+    currency: USD
+  - region: New York City
+    base_low: 185000
+    base_high: 285000
+    stock_low: 210000
+    stock_high: 600000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 540000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 180000
+    base_high: 275000
+    stock_low: 200000
+    stock_high: 580000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 520000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 195000
+    stock_low: 140000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 370000
+    currency: GBP
+  - region: Zurich
+    base_low: 165000
+    base_high: 260000
+    stock_low: 180000
+    stock_high: 470000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 470000
+    currency: CHF
+level_mapping:
+  internal: null
+  raw: "Product Manager at Google (L5-L6) = PM at Meta (IC5-IC6), Senior PM at Amazon (L6-L7), PM at Apple (ICT4-ICT5), PM at Microsoft (L63-L65), Product Lead at Stripe/Airbnb (Senior-Staff)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "APM program alumni network + Billion-user product ownership + Large RSU grants with strong bonus multipliers | Google PM roles carry unmatched product scale | **PRODUCT SCALE PREMIUM**"
+---
 ### Product Manager | Google Global Negotiation Guide
 
 **Negotiation DNA:** APM program alumni network + Billion-user product ownership + Large RSU grants with strong bonus multipliers | Google PM roles carry unmatched product scale | **PRODUCT SCALE PREMIUM**

@@ -1,3 +1,49 @@
+---
+company: cohere
+company_display: Cohere
+role: enterprise-rag-platform-engineer
+role_display: Enterprise RAG Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 175000
+    base_high: 222000
+    stock_low: 275000
+    stock_high: 485000
+    bonus_pct: null
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: CAD
+  - region: San Francisco
+    base_low: 205000
+    base_high: 258000
+    stock_low: 275000
+    stock_high: 485000
+    bonus_pct: null
+    total_comp_low: 274000
+    total_comp_high: 379000
+    currency: USD
+  - region: London
+    base_low: 152000
+    base_high: 195000
+    stock_low: 275000
+    stock_high: 485000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 310000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Cohere Enterprise RAG Platform Engineer = Google L5 Infrastructure Engineer (Toronto) = Meta E5 ML Infrastructure = Anthropic Senior Infrastructure Engineer = Amazon Principal SDE (ML Platform). This is a Staff+ equivalent role that combines ML infrastructure, distributed systems, and enterprise deployment expertise. In the Toronto market, this role competes with the most senior infrastructure positions at Google Brain, Meta FAIR, and Databricks. The signature nature of this role at Cohere means it carries 15-25% more equity than comparable Staff infrastructure positions at other companies. No other company has this exact role — it is the embodiment of Cohere's enterprise strategy."
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty | **SIGNATURE ROLE** | **+20-35% AGENTIC AI PREMIUM**"
+---
 ### Enterprise RAG Platform Engineer | Cohere Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty | **SIGNATURE ROLE** | **+20-35% AGENTIC AI PREMIUM**

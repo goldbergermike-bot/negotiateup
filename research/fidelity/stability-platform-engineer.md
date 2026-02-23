@@ -1,3 +1,53 @@
+---
+company: fidelity
+company_display: Fidelity
+role: stability-platform-engineer
+role_display: Stability Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 245000
+    base_high: 335000
+    stock_low: 65000
+    stock_high: 110000
+    bonus_low: 65000
+    bonus_high: 103000
+    total_comp_low: 375000
+    total_comp_high: 548000
+    currency: USD
+  - region: "Durham, NC"
+    base_low: 221000
+    base_high: 302000
+    stock_low: 59000
+    stock_high: 99000
+    bonus_low: 59000
+    bonus_high: 93000
+    total_comp_low: 339000
+    total_comp_high: 494000
+    currency: USD
+  - region: "Dallas, TX"
+    base_low: 225000
+    base_high: 308000
+    stock_low: 60000
+    stock_high: 101000
+    bonus_low: 60000
+    bonus_high: 95000
+    total_comp_low: 345000
+    total_comp_high: 504000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Stablecoin Infrastructure` `Reserve Attestation Systems` `Cross-Chain Settlement` `Smart Contract Architecture` `Regulated Digital Rails`"
+---
 ### Stability Platform Engineer | Fidelity Investments Global Negotiation Guide
 
 **SIGNATURE ROLE**

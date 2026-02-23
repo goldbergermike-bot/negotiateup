@@ -1,3 +1,68 @@
+---
+company: docusign
+company_display: Docusign
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 210000
+    base_high: 290000
+    stock_low: 130000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 460000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 185000
+    base_high: 260000
+    stock_low: 100000
+    stock_high: 260000
+    bonus_pct: 12
+    total_comp_low: 260000
+    total_comp_high: 400000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 100000
+    base_high: 152000
+    stock_low: 55000
+    stock_high: 135000
+    bonus_pct: 12
+    total_comp_low: 145000
+    total_comp_high: 245000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 4200000
+    base_high: 7500000
+    stock_low: 2500000
+    stock_high: 5500000
+    bonus_pct: 12
+    total_comp_low: 5800000
+    total_comp_high: 10800000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 168000
+    base_high: 235000
+    stock_low: 78000
+    stock_high: 175000
+    bonus_pct: 12
+    total_comp_low: 218000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign IC4/IC5 ~ Salesforce PMTS/Distinguished | Adobe Staff/Principal | ServiceNow Staff/Principal | Google L6/L7 | Microsoft 65/66"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Agreement platform architecture leader | Cross-system technical authority & IAM visionary | **STAFF IC PREMIUM**"
+---
 ### Staff Software Engineer | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** Agreement platform architecture leader | Cross-system technical authority & IAM visionary | **STAFF IC PREMIUM**

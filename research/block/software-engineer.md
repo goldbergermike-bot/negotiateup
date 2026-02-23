@@ -1,3 +1,52 @@
+---
+company: block
+company_display: Block (Square)
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 185000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+  - region: New York
+    base_low: 140000
+    base_high: 180000
+    stock_low: 110000
+    stock_high: 190000
+    bonus_low: 14000
+    bonus_high: 24000
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 110000
+    stock_low: 70000
+    stock_high: 120000
+    bonus_low: 8000
+    bonus_high: 15000
+    total_comp_low: 115000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Block | Google | Meta | Stripe | PayPal | Coinbase |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L4-Equivalent` `IC` `Fintech` `Bitcoin Treasury`"
+---
 ### Software Engineer | Block Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L4-Equivalent` `IC` `Fintech` `Bitcoin Treasury`

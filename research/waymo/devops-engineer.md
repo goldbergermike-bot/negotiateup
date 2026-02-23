@@ -1,3 +1,39 @@
+---
+company: waymo
+company_display: Waymo
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View (HQ)
+    base_low: 165000
+    base_high: 225000
+    stock_low: 135000
+    stock_high: 360000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 400000
+    currency: USD
+  - region: San Francisco
+    base_low: 165000
+    base_high: 225000
+    stock_low: 135000
+    stock_high: 360000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 400000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Waymo DevOps Engineer = Google SRE L3-L4 = Meta Production Engineer (IC3-IC4) = Amazon Systems Engineer = Apple SRE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Google-Adjacent Comp | Alphabet RSUs (GOOGL) | Self-Driving Leader | Top-Tier Stability"
+---
 ### DevOps Engineer | Waymo Global Negotiation Guide
 
 **Negotiation DNA:** Google-Adjacent Comp | Alphabet RSUs (GOOGL) | Self-Driving Leader | Top-Tier Stability

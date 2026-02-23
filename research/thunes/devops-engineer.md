@@ -1,3 +1,48 @@
+---
+company: thunes
+company_display: Thunes
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 110000
+    base_high: 165000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 275000
+    currency: SGD
+  - region: ":gb: London (GBP)"
+    base_low: 65000
+    base_high: 105000
+    stock_low: 35000
+    stock_high: 65000
+    bonus_pct: null
+    total_comp_low: 100000
+    total_comp_high: 170000
+    currency: GBP
+  - region: ":us: New York (USD)"
+    base_low: 125000
+    base_high: 185000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a DevOps engineering compensation framework spanning Singapore, London, and New York markets."
+---
 ### DevOps Engineer — Thunes Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a DevOps engineering compensation framework spanning Singapore, London, and New York markets.

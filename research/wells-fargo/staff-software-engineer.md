@@ -1,3 +1,50 @@
+---
+company: wells-fargo
+company_display: Wells Fargo
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 170000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 240000
+    total_comp_high: 385000
+    currency: USD
+  - region: New York City
+    base_low: 168000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 235000
+    total_comp_high: 375000
+    currency: USD
+  - region: Charlotte
+    base_low: 155000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 215000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Staff SWE at WF (SVP/Director) = L6 at Google, E6 at Meta, Principal at Amazon, Principal Engineer at Capital One, SVP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$225B market cap bank + Staff-level sets technical direction for transformation + SF HQ tech market rates + SVP/Director with strong bonus and equity | Wells Fargo Staff SWEs are transformation anchors | **TRANSFORMATION TECHNICAL LEADERSHIP PREMIUM**"
+---
 ### Staff Software Engineer | Wells Fargo Global Negotiation Guide
 
 **Negotiation DNA:** $225B market cap bank + Staff-level sets technical direction for transformation + SF HQ tech market rates + SVP/Director with strong bonus and equity | Wells Fargo Staff SWEs are transformation anchors | **TRANSFORMATION TECHNICAL LEADERSHIP PREMIUM**

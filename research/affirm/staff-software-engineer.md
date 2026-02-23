@@ -1,3 +1,48 @@
+---
+company: affirm
+company_display: Affirm
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 242000
+    base_high: 308000
+    stock_low: 282000
+    stock_high: 498000
+    bonus_pct: 15
+    total_comp_low: 375000
+    total_comp_high: 528000
+    currency: USD
+  - region: New York
+    base_low: 248000
+    base_high: 315000
+    stock_low: 282000
+    stock_high: 498000
+    bonus_pct: 15
+    total_comp_low: 382000
+    total_comp_high: 535000
+    currency: USD
+  - region: Remote US
+    base_low: 232000
+    base_high: 295000
+    stock_low: 282000
+    stock_high: 498000
+    bonus_pct: 15
+    total_comp_low: 362000
+    total_comp_high: 512000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Affirm Staff SWE (L5) = Klarna Staff SWE = Block Staff SWE = Stripe Staff SWE = Google L6 = Meta E6 = PayPal Staff SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Apple Pay In-Store Launch | Revenue Velocity Architect | 47% Transaction Growth | **BNPL COMMERCE PIONEER** | **+15–25% BNPL PLATFORM ARCHITECT PREMIUM**"
+---
 ### Staff Software Engineer | Affirm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Apple Pay In-Store Launch | Revenue Velocity Architect | 47% Transaction Growth | **BNPL COMMERCE PIONEER** | **+15–25% BNPL PLATFORM ARCHITECT PREMIUM**

@@ -1,3 +1,51 @@
+---
+company: adobe
+company_display: Adobe
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 178000
+    base_high: 218000
+    stock_low: 175000
+    stock_high: 295000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 305000
+    currency: USD
+  - region: London
+    base_low: 116000
+    base_high: 142000
+    stock_low: 105000
+    stock_high: 177000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 198000
+    currency: GBP
+  - region: Bangalore
+    base_low: 5300000
+    base_high: 6500000
+    stock_low: 4400000
+    stock_high: 8800000
+    bonus_pct: 10
+    total_comp_low: 6800000
+    total_comp_high: 9100000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)"
+---
 ### Senior Software Engineer | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)

@@ -1,3 +1,68 @@
+---
+company: docusign
+company_display: Docusign
+role: intelligent-agreement-engineer
+role_display: Intelligent Agreement Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 170000
+    base_high: 230000
+    stock_low: 100000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 340000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 150000
+    base_high: 205000
+    stock_low: 75000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 295000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 80000
+    base_high: 120000
+    stock_low: 40000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 110000
+    total_comp_high: 180000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2500000
+    base_high: 4800000
+    stock_low: 1200000
+    stock_high: 3500000
+    bonus_pct: 10
+    total_comp_low: 3500000
+    total_comp_high: 6500000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 130000
+    base_high: 185000
+    stock_low: 50000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 250000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign IC3/IC4 (IAM) ~ Salesforce LMTS/PMTS | Adobe Senior/Staff | ServiceNow Senior/Staff | Google L5/L6"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Agreement intelligence & CLM platform specialist | IAM & AI-powered contract analytics | **AGREEMENT AI PREMIUM**"
+---
 ### Intelligent Agreement Engineer | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** Agreement intelligence & CLM platform specialist | IAM & AI-powered contract analytics | **AGREEMENT AI PREMIUM**

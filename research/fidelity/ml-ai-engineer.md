@@ -1,3 +1,51 @@
+---
+company: fidelity
+company_display: Fidelity
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 178000
+    base_high: 245000
+    stock_low: 38000
+    stock_high: 65000
+    bonus_low: 39000
+    bonus_high: 65000
+    total_comp_low: 255000
+    total_comp_high: 375000
+    currency: USD
+  - region: "Durham, NC"
+    base_low: 160000
+    base_high: 221000
+    stock_low: 34000
+    stock_high: 59000
+    bonus_low: 35000
+    bonus_high: 59000
+    total_comp_low: 229000
+    total_comp_high: 339000
+    currency: USD
+  - region: "Dallas, TX"
+    base_low: 164000
+    base_high: 225000
+    stock_low: 35000
+    stock_high: 60000
+    bonus_low: 36000
+    bonus_high: 60000
+    total_comp_low: 235000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Machine Learning Systems` `AI-Driven Compliance` `Predictive Risk Modeling`"
+---
 ### ML/AI Engineer | Fidelity Investments Global Negotiation Guide
 
 **Negotiation DNA:** `Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Machine Learning Systems` `AI-Driven Compliance` `Predictive Risk Modeling`

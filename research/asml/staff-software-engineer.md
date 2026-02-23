@@ -1,3 +1,50 @@
+---
+company: asml
+company_display: Asml
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 112000
+    base_high: 135000
+    stock_low: 40000
+    stock_high: 75000
+    bonus_pct: 12
+    total_comp_low: 112000
+    total_comp_high: 158000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 200000
+    base_high: 275000
+    stock_low: 80000
+    stock_high: 130000
+    bonus_pct: 15
+    total_comp_low: 308000
+    total_comp_high: 432000
+    currency: USD
+  - region: San Jose
+    base_low: 215000
+    base_high: 290000
+    stock_low: 85000
+    stock_high: 135000
+    bonus_pct: 15
+    total_comp_low: 320000
+    total_comp_high: 432000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML Staff Software Engineer maps to Google L6, Meta E6, Apple ICT5, Microsoft Principal SDE 65–66, and TSMC Principal Engineer."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Staff Band"
+---
 ### Staff Software Engineer | ASML Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Staff Band

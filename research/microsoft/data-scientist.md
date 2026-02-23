@@ -1,3 +1,70 @@
+---
+company: microsoft
+company_display: Microsoft
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Data Scientist I-II
+    base_low: 115000
+    base_high: 160000
+    stock_low: 50000
+    stock_high: 140000
+    bonus_pct: 10
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 145000
+    total_comp_high: 230000
+    currency: USD
+  - region: Senior Data Scientist
+    base_low: 150000
+    base_high: 215000
+    stock_low: 110000
+    stock_high: 300000
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 50000
+    total_comp_low: 225000
+    total_comp_high: 365000
+    currency: USD
+  - region: Principal Data Scientist
+    base_low: 190000
+    base_high: 270000
+    stock_low: 230000
+    stock_high: 550000
+    bonus_pct: 20
+    signing_bonus_low: 40000
+    signing_bonus_high: 75000
+    total_comp_low: 335000
+    total_comp_high: 520000
+    currency: USD
+  - region: Partner Data Scientist
+    base_low: 250000
+    base_high: 340000
+    stock_low: 450000
+    stock_high: 1100000
+    bonus_pct: 25
+    signing_bonus_low: 60000
+    signing_bonus_high: 100000
+    total_comp_low: 500000
+    total_comp_high: 800000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+  - Payscale
+  - LinkedIn
+  - Hired
+negotiation_dna_summary: null
+---
 # Data Scientist - Microsoft Negotiation Guide
 
 ## Role Overview

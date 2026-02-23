@@ -1,3 +1,54 @@
+---
+company: blackrock
+company_display: Blackrock
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 195000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_low: 52000
+    bonus_high: 85000
+    total_comp_low: 252000
+    total_comp_high: 355000
+    currency: USD
+  - region: San Francisco
+    base_low: 206000
+    base_high: 269000
+    stock_low: null
+    stock_high: null
+    bonus_low: 56000
+    bonus_high: 90000
+    total_comp_low: 266000
+    total_comp_high: 374000
+    currency: USD
+  - region: London
+    base_low: 139000
+    base_high: 181000
+    stock_low: 162000
+    stock_high: 285000
+    bonus_low: 37000
+    bonus_high: 60000
+    total_comp_low: 338000
+    total_comp_high: 526000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "`$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Security Engineer` `IC Track` `VP/Director-Level`"
+---
 ### Security Engineer | BlackRock Global Negotiation Guide
 
 **Negotiation DNA:** `$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Security Engineer` `IC Track` `VP/Director-Level`

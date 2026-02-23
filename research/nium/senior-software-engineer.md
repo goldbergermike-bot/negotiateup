@@ -1,3 +1,51 @@
+---
+company: nium
+company_display: Nium
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 120000
+    base_high: 180000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 340000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 180000
+    base_high: 240000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 280000
+    total_comp_high: 440000
+    currency: USD
+  - region: London (GBP)
+    base_low: 80000
+    base_high: 120000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+  - Hired
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a senior software engineering compensation framework spanning Singapore, San Francisco, and London markets. As a Senior Software Engineer at Nium, you are the technical backbone of the Reimagined Infrastructure initiative — owning system design, mentoring engineers, and making architectural decisions that determine how billions of dollars flow across borders."
+---
 ### Senior Software Engineer — Nium Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a senior software engineering compensation framework spanning Singapore, San Francisco, and London markets. As a Senior Software Engineer at Nium, you are the technical backbone of the Reimagined Infrastructure initiative — owning system design, mentoring engineers, and making architectural decisions that determine how billions of dollars flow across borders.

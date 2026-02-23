@@ -1,3 +1,48 @@
+---
+company: retool
+company_display: Retool
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 212000
+    stock_low: 138000
+    stock_high: 248000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 315000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 208000
+    stock_low: 134000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 305000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 140000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Retool PD (L3-L5) = Google UX L4-L5 = Meta PD E4-E5 = Figma PD = Vercel PD
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI-Powered Developer Tools Design | 30K+ Companies | **RETOOL AI PREMIUM**"
+---
 ### Product Designer | Retool Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI-Powered Developer Tools Design | 30K+ Companies | **RETOOL AI PREMIUM**

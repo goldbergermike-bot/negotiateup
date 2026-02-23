@@ -1,3 +1,42 @@
+---
+company: snyk
+company_display: Snyk
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 178000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - "Snyk Security Fabric launch — February 3, 2026"
+  - "AI-generated code insecurity research — 48% rate, 2026"
+  - Snyk Series G valuation at $7.4B — December 2024
+  - AI/ML Engineer compensation benchmarks for cybersecurity companies — January 2026
+  - Snyk ML engineering blog on Security Fabric intelligence layer — February 2026
+negotiation_dna_summary: "As an ML/AI Engineer at Snyk, you build the machine learning models that power the Security Fabric's automated vulnerability detection and make the Secure at Inception vision scalable — your models are the intelligence behind every security decision."
+---
 ### ML/AI Engineer — Snyk Salary Negotiation Guide
 
 **Negotiation DNA**: As an ML/AI Engineer at Snyk, you build the machine learning models that power the Security Fabric's automated vulnerability detection and make the Secure at Inception vision scalable — your models are the intelligence behind every security decision.

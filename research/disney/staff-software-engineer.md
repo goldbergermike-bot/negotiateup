@@ -1,3 +1,50 @@
+---
+company: disney
+company_display: Disney
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Burbank / Los Angeles
+    base_low: 190000
+    base_high: 265000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 295000
+    total_comp_high: 475000
+    currency: USD
+  - region: San Francisco / Seattle
+    base_low: 195000
+    base_high: 270000
+    stock_low: 125000
+    stock_high: 315000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 495000
+    currency: USD
+  - region: London (UK)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 85000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 370000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Disney Staff SWE (IC5) = Google L6 = Meta E6 = Amazon Principal SDE = Microsoft 65-66 = Apple ICT5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B Entertainment-Tech Empire | Technical Strategy Owner | Cross-Business Architecture Authority"
+---
 ### Staff Software Engineer | Disney Global Negotiation Guide
 
 **Negotiation DNA:** $200B Entertainment-Tech Empire | Technical Strategy Owner | Cross-Business Architecture Authority

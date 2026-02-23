@@ -1,3 +1,58 @@
+---
+company: darktrace
+company_display: Darktrace
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge UK
+    base_low: 55000
+    base_high: 80000
+    stock_low: 15000
+    stock_high: 35000
+    bonus_low: 5500
+    bonus_high: 12000
+    signing_bonus_low: 3000
+    signing_bonus_high: 8000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: London
+    base_low: 65000
+    base_high: 95000
+    stock_low: 20000
+    stock_high: 50000
+    bonus_low: 6500
+    bonus_high: 14250
+    signing_bonus_low: 5000
+    signing_bonus_high: 10000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: San Francisco
+    base_low: 140000
+    base_high: 195000
+    stock_low: 40000
+    stock_high: 100000
+    bonus_low: 14000
+    bonus_high: 29250
+    signing_bonus_low: 10000
+    signing_bonus_high: 25000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Designer at Darktrace maps to L4–L5 UX at Google, IC4–IC5 Design at Meta, UX Designer II–III at Amazon, and 61–63 Designer at Microsoft."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Designer | Darktrace (LSE: DARK) | Design Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco"
+---
 ### Product Designer | Darktrace Global Negotiation Guide
 
 **Negotiation DNA:** Product Designer | Darktrace (LSE: DARK) | Design Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco

@@ -1,3 +1,48 @@
+---
+company: sophos
+company_display: Sophos
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US Remote
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 315000
+    currency: USD
+  - region: Abingdon UK
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 50000
+    total_comp_high: 130000
+    currency: GBP
+  - region: Vancouver
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 110000
+    total_comp_high: 265000
+    currency: CAD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Software Engineers at Sophos build the endpoint security, firewall, and managed detection and response products that protect over 500,000 organizations and 100 million users worldwide from advanced cyber threats."
+---
 ### Software Engineer — Sophos Salary Negotiation Guide
 
 **Negotiation DNA**: Software Engineers at Sophos build the endpoint security, firewall, and managed detection and response products that protect over 500,000 organizations and 100 million users worldwide from advanced cyber threats.

@@ -1,3 +1,48 @@
+---
+company: ebay
+company_display: Ebay
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 185000
+    base_high: 232000
+    stock_low: 118000
+    stock_high: 212000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York
+    base_low: 192000
+    base_high: 238000
+    stock_low: 118000
+    stock_high: 212000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 315000
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 222000
+    stock_low: 118000
+    stock_high: 212000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: eBay PM (IC3) = Google L5 PM = Meta IC5 PM = Amazon L5 PM = Etsy PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Global Marketplace & Payments | $2.5B Share Buyback | Trading Below Future Cash Flow Value"
+---
 ### Product Manager | eBay Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Global Marketplace & Payments | $2.5B Share Buyback | Trading Below Future Cash Flow Value

@@ -1,3 +1,87 @@
+---
+company: meta
+company_display: Meta
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Menlo Park / NYC)
+    base_low: 165000
+    base_high: 255000
+    stock_low: 180000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 480000
+    currency: USD
+  - region: US (Seattle / Austin)
+    base_low: 155000
+    base_high: 240000
+    stock_low: 165000
+    stock_high: 470000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 450000
+    currency: USD
+  - region: London (UK)
+    base_low: 135000
+    base_high: 210000
+    stock_low: 145000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 390000
+    currency: USD
+  - region: Canada (Toronto / Montreal)
+    base_low: 130000
+    base_high: 200000
+    stock_low: 135000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 370000
+    currency: USD
+  - region: Germany (Berlin / Hamburg)
+    base_low: 120000
+    base_high: 190000
+    stock_low: 125000
+    stock_high: 360000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 350000
+    currency: USD
+  - region: Singapore
+    base_low: 115000
+    base_high: 185000
+    stock_low: 120000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 335000
+    currency: USD
+  - region: India (Hyderabad / Bangalore)
+    base_low: 50000
+    base_high: 85000
+    stock_low: 55000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 80000
+    total_comp_high: 170000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "IC4 maps to Google L4 UX Designer / Amazon SDE L5 equivalent; IC5 (Senior) maps to Google L5 UX Designer / Amazon L6 equivalent; IC6 (Staff) maps to Google L6 UX Design Lead / Amazon L7 equivalent. Meta's design IC levels are comparable to engineering E-levels for compensation purposes."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Billion-User Experience Design | AI-Native Product Craft | **META DESIGN SCALE PREMIUM**"
+---
 ### Product Designer | Meta Global Negotiation Guide
 
 **Negotiation DNA:** Billion-User Experience Design | AI-Native Product Craft | **META DESIGN SCALE PREMIUM**

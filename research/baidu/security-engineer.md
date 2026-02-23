@@ -1,3 +1,50 @@
+---
+company: baidu
+company_display: Baidu
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 155000
+    base_high: 215000
+    stock_low: 60000
+    stock_high: 175000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 325000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 150000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 315000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 420000
+    base_high: 760000
+    stock_low: 150000
+    stock_high: 440000
+    bonus_pct: 15
+    total_comp_low: 610000
+    total_comp_high: 1200000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "Security Engineer at Baidu (T5-T7) = L4-L5 Security at Google, equivalent Waymo/Aurora security roles"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$40B market cap with search security for 600M+ users + Apollo AV safety-critical security + ERNIE AI safety and alignment + Competitive US security comp | Baidu security engineers protect AI and AV systems where security failures have physical consequences | **SAFETY-CRITICAL SECURITY PREMIUM**"
+---
 ### Security Engineer | Baidu Global Negotiation Guide
 
 **Negotiation DNA:** $40B market cap with search security for 600M+ users + Apollo AV safety-critical security + ERNIE AI safety and alignment + Competitive US security comp | Baidu security engineers protect AI and AV systems where security failures have physical consequences | **SAFETY-CRITICAL SECURITY PREMIUM**

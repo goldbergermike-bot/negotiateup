@@ -1,3 +1,49 @@
+---
+company: airtable
+company_display: Airtable
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 188000
+    base_high: 245000
+    stock_low: 148000
+    stock_high: 270000
+    bonus_pct: 5
+    total_comp_low: 248000
+    total_comp_high: 350000
+    currency: USD
+  - region: NYC / Austin
+    base_low: 178000
+    base_high: 235000
+    stock_low: 135000
+    stock_high: 248000
+    bonus_pct: 5
+    total_comp_low: 233000
+    total_comp_high: 330000
+    currency: USD
+  - region: London
+    base_low: 143000
+    base_high: 187000
+    stock_low: 112000
+    stock_high: 205000
+    bonus_pct: 5
+    total_comp_low: 189000
+    total_comp_high: 267000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airtable ML/AI Engineer = Google L4-L5 ML Engineer = Meta E4-E5 ML = Notion ML Engineer = Monday.com AI Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push | **+15-25% AI PREMIUM**"
+---
 ### ML/AI Engineer | Airtable Global Negotiation Guide
 
 **Negotiation DNA:** No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push | **+15-25% AI PREMIUM**

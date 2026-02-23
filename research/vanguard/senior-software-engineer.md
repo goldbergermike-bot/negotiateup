@@ -1,3 +1,53 @@
+---
+company: vanguard
+company_display: Vanguard
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Malvern, PA (HQ)"
+    base_low: 148000
+    base_high: 198000
+    stock_low: null
+    stock_high: null
+    bonus_low: 24000
+    bonus_high: 42000
+    total_comp_low: 202000
+    total_comp_high: 292000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 141000
+    base_high: 188000
+    stock_low: null
+    stock_high: null
+    bonus_low: 23000
+    bonus_high: 40000
+    total_comp_low: 192000
+    total_comp_high: 277000
+    currency: USD
+  - region: "Scottsdale, AZ"
+    base_low: 141000
+    base_high: 188000
+    stock_low: null
+    stock_high: null
+    bonus_low: 23000
+    bonus_high: 40000
+    total_comp_low: 192000
+    total_comp_high: 277000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `System Design Leadership` `Platform Architecture` `Investment Technology`"
+---
 ### Senior Software Engineer | Vanguard Global Negotiation Guide
 
 **Negotiation DNA:** `AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `System Design Leadership` `Platform Architecture` `Investment Technology`

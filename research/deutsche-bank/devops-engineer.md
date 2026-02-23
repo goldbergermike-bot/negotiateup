@@ -1,3 +1,50 @@
+---
+company: deutsche-bank
+company_display: Deutsche Bank
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 132000
+    base_high: 182000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 172000
+    total_comp_high: 270000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 128000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 118000
+    total_comp_high: 192000
+    currency: GBP
+  - region: Frankfurt (HQ)
+    base_low: 80000
+    base_high: 115000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 104000
+    total_comp_high: 168000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at DB (VP) = L4-L5 at Google, E4-E5 at Meta, SDE II-Senior at Amazon, VP at BofA, Senior DevOps at Capital One"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "EUR30B market cap European bank + Infrastructure modernization across global operations + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB DevOps spans European and US banking infrastructure | **EUROPEAN BANKING INFRASTRUCTURE PREMIUM**"
+---
 ### DevOps Engineer | Deutsche Bank Global Negotiation Guide
 
 **Negotiation DNA:** EUR30B market cap European bank + Infrastructure modernization across global operations + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB DevOps spans European and US banking infrastructure | **EUROPEAN BANKING INFRASTRUCTURE PREMIUM**

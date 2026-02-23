@@ -1,3 +1,49 @@
+---
+company: barclays
+company_display: Barclays
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 165000
+    base_high: 228000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 232000
+    total_comp_high: 378000
+    currency: USD
+  - region: London (HQ)
+    base_low: 112000
+    base_high: 162000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 158000
+    total_comp_high: 268000
+    currency: GBP
+  - region: Glasgow
+    base_low: 90000
+    base_high: 132000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 125000
+    total_comp_high: 208000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "EM at Barclays (SVP/Director) = L6-L7 at Google, M1-M2 at Meta, SDM at Amazon, SVP/Director at BofA, SVP/MD at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GBP35B market cap UK bank + Managing UK/US engineering teams + London/NYC dual hub + Competitive in quant/tech | Barclays EMs lead international banking engineering | **UK BANKING LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Barclays Global Negotiation Guide
 
 **Negotiation DNA:** GBP35B market cap UK bank + Managing UK/US engineering teams + London/NYC dual hub + Competitive in quant/tech | Barclays EMs lead international banking engineering | **UK BANKING LEADERSHIP PREMIUM**

@@ -1,3 +1,51 @@
+---
+company: renaissance-technologies
+company_display: Renaissance Technologies
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: East Setauket HQ (Long Island)
+    base_low: 270000
+    base_high: 325000
+    stock_low: null
+    stock_high: null
+    bonus_low: 90000
+    bonus_high: 165000
+    total_comp_low: 450000
+    total_comp_high: 650000
+    currency: USD
+  - region: New York City
+    base_low: 280000
+    base_high: 330000
+    stock_low: null
+    stock_high: null
+    bonus_low: 95000
+    bonus_high: 170000
+    total_comp_low: 465000
+    total_comp_high: 660000
+    currency: USD
+  - region: Remote US (Very Rare)
+    base_low: 255000
+    base_high: 305000
+    stock_low: null
+    stock_high: null
+    bonus_low: 75000
+    bonus_high: 140000
+    total_comp_low: 405000
+    total_comp_high: 575000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Medallion Fund` `Gold Standard` `Quant Pioneer` `Systems Architecture` `Cross-Functional Design` `Academic Culture` `Infrastructure Strategy`"
+---
 ### Solutions Architect | Renaissance Technologies Global Negotiation Guide
 
 **Negotiation DNA:** `Medallion Fund` `Gold Standard` `Quant Pioneer` `Systems Architecture` `Cross-Functional Design` `Academic Culture` `Infrastructure Strategy`

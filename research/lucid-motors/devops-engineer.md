@@ -1,3 +1,30 @@
+---
+company: lucid-motors
+company_display: Lucid Motors
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newark CA (HQ)
+    base_low: 132000
+    base_high: 185000
+    stock_low: 52000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lucid DevOps Engineer = Google SRE L3-L4 = Tesla DevOps = Rivian DevOps = Amazon Systems Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive but Volatile Equity (LCID) | Luxury EV Leader | Saudi Backing | Bay Area Location"
+---
 ### DevOps Engineer | Lucid Motors Global Negotiation Guide
 
 **Negotiation DNA:** Competitive but Volatile Equity (LCID) | Luxury EV Leader | Saudi Backing | Bay Area Location

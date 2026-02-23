@@ -1,3 +1,49 @@
+---
+company: micron
+company_display: Micron
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boise
+    base_low: 145000
+    base_high: 185000
+    stock_low: 50000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 308000
+    currency: USD
+  - region: San Jose
+    base_low: 168000
+    base_high: 215000
+    stock_low: 60000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 260000
+    total_comp_high: 360000
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 192000
+    stock_low: 52000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 318000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Micron Senior SWE (Band 7) maps to Google L5, Meta E5, Amazon SDE III"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +12% AI/Memory Premium"
+---
 ### Senior Software Engineer | Micron Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +12% AI/Memory Premium

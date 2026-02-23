@@ -1,3 +1,49 @@
+---
+company: zillow
+company_display: Zillow
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 128000
+    base_high: 168000
+    stock_low: 120000
+    stock_high: 195000
+    bonus_pct: 15
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: USD
+  - region: San Francisco
+    base_low: 138000
+    base_high: 181000
+    stock_low: 130000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 181000
+    total_comp_high: 250000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 151000
+    stock_low: 108000
+    stock_high: 176000
+    bonus_pct: 15
+    total_comp_low: 151000
+    total_comp_high: 209000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zillow Product Designer = Google UX Designer L4–L5 = Redfin Product Designer = Opendoor Product Designer = Amazon UX Designer = Meta Product Designer IC4–IC5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep"
+---
 ### Product Designer | Zillow Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep

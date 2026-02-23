@@ -1,3 +1,49 @@
+---
+company: vanta
+company_display: Vanta
+role: continuous-trust-platform-engineer
+role_display: Continuous Trust Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 380000
+    currency: USD
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 380000
+    currency: USD
+  - region: Dublin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 62000
+    total_comp_high: 155000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "The Continuous Trust Platform Engineer is Vanta's signature role — you are the architect of the always-on compliance engine that defines the company's product, competitive moat, and regulatory strategy as the EU AI Act enforcement deadline in August 2026 reshapes the global trust landscape."
+---
 ### Continuous Trust Platform Engineer — Vanta Salary Negotiation Guide
 
 **Negotiation DNA**: The Continuous Trust Platform Engineer is Vanta's signature role — you are the architect of the always-on compliance engine that defines the company's product, competitive moat, and regulatory strategy as the EU AI Act enforcement deadline in August 2026 reshapes the global trust landscape.

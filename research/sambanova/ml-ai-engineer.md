@@ -1,3 +1,50 @@
+---
+company: sambanova
+company_display: Sambanova
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 172000
+    base_high: 225000
+    stock_low: 35000
+    stock_high: 62000
+    bonus_pct: 12
+    total_comp_low: 225000
+    total_comp_high: 315000
+    currency: USD
+  - region: Austin
+    base_low: 155000
+    base_high: 202000
+    stock_low: 28000
+    stock_high: 52000
+    bonus_pct: 12
+    total_comp_low: 200000
+    total_comp_high: 280000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 195000
+    stock_low: 25000
+    stock_high: 48000
+    bonus_pct: 12
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SambaNova ML/AI Engineer ~ Google ML Engineer (L5–L6) | Meta ML Engineer (E5–E6) | Amazon Applied Scientist II–III | Apple ML Engineer | NVIDIA ML Engineer (Senior–Staff)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +15-25% AI Premium | +25% Agentic Orchestrator Premium"
+---
 ### ML/AI Engineer | SambaNova Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +15-25% AI Premium | +25% Agentic Orchestrator Premium

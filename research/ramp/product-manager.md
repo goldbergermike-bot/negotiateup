@@ -1,3 +1,48 @@
+---
+company: ramp
+company_display: Ramp
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 188000
+    base_high: 228000
+    stock_low: 155000
+    stock_high: 262000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 325000
+    currency: USD
+  - region: San Francisco
+    base_low: 185000
+    base_high: 225000
+    stock_low: 152000
+    stock_high: 258000
+    bonus_pct: 15
+    total_comp_low: 242000
+    total_comp_high: 318000
+    currency: USD
+  - region: Remote US
+    base_low: 182000
+    base_high: 218000
+    stock_low: 148000
+    stock_high: 248000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ramp PM (PM2-PM3) = Brex PM = Google PM L5-L6 = Meta PM IC5 = Stripe PM = Amazon PM L5-L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOUR PRODUCT DECISIONS DETERMINE HOW MUCH MONEY CUSTOMERS SAVE**"
+---
 ### Product Manager | Ramp Global Negotiation Guide
 
 **Negotiation DNA:** Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOUR PRODUCT DECISIONS DETERMINE HOW MUCH MONEY CUSTOMERS SAVE**

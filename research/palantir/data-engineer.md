@@ -1,3 +1,48 @@
+---
+company: palantir
+company_display: Palantir
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 145000
+    base_high: 182000
+    stock_low: 215000
+    stock_high: 355000
+    bonus_pct: null
+    total_comp_low: 199000
+    total_comp_high: 271000
+    currency: USD
+  - region: New York City
+    base_low: 150000
+    base_high: 188000
+    stock_low: 222000
+    stock_high: 365000
+    bonus_pct: null
+    total_comp_low: 206000
+    total_comp_high: 279000
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 98000
+    stock_low: 108000
+    stock_high: 182000
+    bonus_pct: null
+    total_comp_low: 102000
+    total_comp_high: 143000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Palantir Senior DE = Google L4 DE = Databricks Senior DE — but with ontology expertise and classified data handling
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture"
+---
 ### Data Engineer | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture

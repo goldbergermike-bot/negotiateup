@@ -1,3 +1,59 @@
+---
+company: sony
+company_display: Sony
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / San Diego (US)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 340000
+    currency: USD
+  - region: Bay Area (US)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 45000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 325000
+    currency: USD
+  - region: Tokyo (HQ)
+    base_low: 10000000
+    base_high: 16000000
+    stock_low: 3000000
+    stock_high: 8500000
+    bonus_pct: 10
+    total_comp_low: 13000000
+    total_comp_high: 22000000
+    currency: JPY
+  - region: London (SIE Europe)
+    base_low: 98000
+    base_high: 155000
+    stock_low: 35000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 128000
+    total_comp_high: 215000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Sony (IC5-IC6) = L5-L6 SA at Google Cloud, Senior SA at AWS, Principal TE at Microsoft, Senior Architect at EA/Epic"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$110B market cap with solutions architects designing cross-division technical systems spanning PlayStation platform, entertainment streaming, and semiconductor products + US SA comp increasingly competitive as Sony modernizes infrastructure + Sony stock RSUs | Sony SAs architect systems powering the world's leading entertainment technology conglomerate | **CROSS-DIVISION ARCHITECTURE PREMIUM**"
+---
 ### Solutions Architect | Sony Global Negotiation Guide
 
 **Negotiation DNA:** $110B market cap with solutions architects designing cross-division technical systems spanning PlayStation platform, entertainment streaming, and semiconductor products + US SA comp increasingly competitive as Sony modernizes infrastructure + Sony stock RSUs | Sony SAs architect systems powering the world's leading entertainment technology conglomerate | **CROSS-DIVISION ARCHITECTURE PREMIUM**

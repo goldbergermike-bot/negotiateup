@@ -1,3 +1,50 @@
+---
+company: asml
+company_display: Asml
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 78000
+    base_high: 92000
+    stock_low: 20000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 78000
+    total_comp_high: 108000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 140000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 75000
+    bonus_pct: 12
+    total_comp_low: 205000
+    total_comp_high: 285000
+    currency: USD
+  - region: San Jose
+    base_low: 150000
+    base_high: 205000
+    stock_low: 50000
+    stock_high: 78000
+    bonus_pct: 12
+    total_comp_low: 215000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML Product Manager maps to Google L5 PM, Meta PM IC5, Apple Product Manager, Microsoft PM 63–64, and TSMC Product Planning Manager."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% PM Band"
+---
 ### Product Manager | ASML Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% PM Band

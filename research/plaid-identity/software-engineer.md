@@ -1,3 +1,48 @@
+---
+company: plaid-identity
+company_display: Plaid Identity
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 195000
+    stock_low: 150000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 265000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 190000
+    stock_low: 145000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 258000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 125000
+    stock_low: 80000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Plaid E3 (Software Engineer) = Google L3 = Meta E3 = Stripe L2
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure"
+---
 ### Software Engineer | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure

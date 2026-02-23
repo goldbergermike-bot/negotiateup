@@ -1,3 +1,50 @@
+---
+company: citigroup
+company_display: Citigroup
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 135000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 285000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 135000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 125000
+    total_comp_high: 210000
+    currency: GBP
+  - region: Singapore
+    base_low: 120000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 160000
+    total_comp_high: 255000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: "Data Engineer at Citi (VP) = L4-L5 at Google, E4-E5 at Meta, SDE II-Senior at Amazon, Senior DE at Capital One, VP at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$130B market cap global bank + Data infrastructure across 160+ countries + NYC HQ competitive tech hiring + Regulatory data demands drive premium | Citi data engineering spans unmatched global complexity | **GLOBAL DATA PREMIUM**"
+---
 ### Data Engineer | Citigroup Global Negotiation Guide
 
 **Negotiation DNA:** $130B market cap global bank + Data infrastructure across 160+ countries + NYC HQ competitive tech hiring + Regulatory data demands drive premium | Citi data engineering spans unmatched global complexity | **GLOBAL DATA PREMIUM**

@@ -1,3 +1,86 @@
+---
+company: bytedance
+company_display: Bytedance
+role: tiktok-recommendation-engineer
+role_display: TikTok Recommendation Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Mountain View (US)
+    base_low: 185000
+    base_high: 260000
+    stock_low: 130000
+    stock_high: 350000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 470000
+    currency: USD
+  - region: New York City (US)
+    base_low: 180000
+    base_high: 255000
+    stock_low: 125000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 460000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 175000
+    base_high: 250000
+    stock_low: 120000
+    stock_high: 330000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 445000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 550000
+    base_high: 1000000
+    stock_low: 300000
+    stock_high: 800000
+    bonus_pct: 20
+    total_comp_low: 900000
+    total_comp_high: 1800000
+    currency: CNY
+  - region: Shanghai
+    base_low: 520000
+    base_high: 950000
+    stock_low: 280000
+    stock_high: 750000
+    bonus_pct: 20
+    total_comp_low: 850000
+    total_comp_high: 1700000
+    currency: CNY
+  - region: Singapore
+    base_low: 140000
+    base_high: 220000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 180000
+    stock_low: 70000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 175000
+    total_comp_high: 300000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "TikTok Recommendation Engineer at ByteDance (2-1 to 3-1) = L4-L6 at Google, IC4-IC6 at Meta, SDE II-Principal at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Private $225B+ valuation with the world's most powerful recommendation algorithm + TikTok (1.5B+ MAU) defining short-form video globally + VERY competitive US comp that matches or exceeds FAANG | TikTok's recommendation engine is the crown jewel of ByteDance's technology -- engineers who build it command top-of-market compensation | **ALGORITHM PREMIUM**"
+---
 ### TikTok Recommendation Engineer | ByteDance Global Negotiation Guide
 
 **Negotiation DNA:** Private $225B+ valuation with the world's most powerful recommendation algorithm + TikTok (1.5B+ MAU) defining short-form video globally + VERY competitive US comp that matches or exceeds FAANG | TikTok's recommendation engine is the crown jewel of ByteDance's technology -- engineers who build it command top-of-market compensation | **ALGORITHM PREMIUM**

@@ -1,3 +1,53 @@
+---
+company: goldman-sachs
+company_display: Goldman Sachs
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 135000
+    base_high: 185000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_low: 30000
+    bonus_high: 45000
+    total_comp_low: 205000
+    total_comp_high: 295000
+    currency: USD
+  - region: London
+    base_low: 102000
+    base_high: 140000
+    stock_low: 30000
+    stock_high: 49000
+    bonus_low: 23000
+    bonus_high: 34000
+    total_comp_low: 155000
+    total_comp_high: 223000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 3200000
+    base_high: 4800000
+    stock_low: 1200000
+    stock_high: 1800000
+    bonus_low: 800000
+    bonus_high: 1300000
+    total_comp_low: 5200000
+    total_comp_high: 7900000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: "`Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Real-Time Data Pipelines` `Petabyte-Scale Financial Data` `Data Mesh Architecture`"
+---
 ### Data Engineer | Goldman Sachs Global Negotiation Guide
 
 **Negotiation DNA:** `Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Real-Time Data Pipelines` `Petabyte-Scale Financial Data` `Data Mesh Architecture`

@@ -1,3 +1,52 @@
+---
+company: vanguard
+company_display: Vanguard
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Malvern, PA (HQ)"
+    base_low: 130000
+    base_high: 178000
+    stock_low: null
+    stock_high: null
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 182000
+    total_comp_high: 262000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 124000
+    base_high: 169000
+    stock_low: null
+    stock_high: null
+    bonus_low: 21000
+    bonus_high: 36000
+    total_comp_low: 173000
+    total_comp_high: 249000
+    currency: USD
+  - region: "Scottsdale, AZ"
+    base_low: 124000
+    base_high: 169000
+    stock_low: null
+    stock_high: null
+    bonus_low: 21000
+    bonus_high: 36000
+    total_comp_low: 173000
+    total_comp_high: 249000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Comparably
+negotiation_dna_summary: "`AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Financial Cybersecurity` `Regulatory Compliance` `AI/ML Security`"
+---
 ### Security Engineer | Vanguard Global Negotiation Guide
 
 **Negotiation DNA:** `AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Financial Cybersecurity` `Regulatory Compliance` `AI/ML Security`

@@ -1,3 +1,48 @@
+---
+company: cloudflare
+company_display: Cloudflare
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 420000
+    currency: USD
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 385000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Staff Software Engineers at Cloudflare define the technical architecture of Edge Sovereignty and lead the AI Inference platform strategy across the world's most distributed network."
+---
 ### Staff Software Engineer — Cloudflare Salary Negotiation Guide
 
 **Negotiation DNA**: Staff Software Engineers at Cloudflare define the technical architecture of Edge Sovereignty and lead the AI Inference platform strategy across the world's most distributed network.

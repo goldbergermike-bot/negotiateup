@@ -1,3 +1,48 @@
+---
+company: notion
+company_display: Notion
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 230000
+    stock_low: 200000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 280000
+    total_comp_high: 385000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 225000
+    stock_low: 195000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 272000
+    total_comp_high: 375000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 155000
+    stock_low: 130000
+    stock_high: 225000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 252000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Notion DE (L3-L5) = Google DE L4-L6 = Meta DE E4-E6 = Coda DE = Airtable DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI-Powered Connected Workspace | 100M+ Users | **NOTION AI PREMIUM**"
+---
 ### Data Engineer | Notion Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI-Powered Connected Workspace | 100M+ Users | **NOTION AI PREMIUM**

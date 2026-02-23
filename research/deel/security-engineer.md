@@ -1,3 +1,39 @@
+---
+company: deel
+company_display: Deel
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 228000
+    stock_low: 90000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 372000
+    currency: USD
+  - region: Remote US
+    base_low: 152000
+    base_high: 215000
+    stock_low: 78000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Deel Security (IC2-IC3) = Remote.com Security = Rippling Security = Google L3-L4 Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Global Payroll and Compliance | $12B Valuation | San Francisco | **GLOBAL EMPLOYMENT SECURITY PREMIUM**"
+---
 ### Security Engineer | Deel Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Global Payroll and Compliance | $12B Valuation | San Francisco | **GLOBAL EMPLOYMENT SECURITY PREMIUM**

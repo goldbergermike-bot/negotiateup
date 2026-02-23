@@ -1,3 +1,53 @@
+---
+company: spacex
+company_display: Spacex
+role: starship-flight-software-engineer
+role_display: Starship Flight Software Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Hawthorne, CA"
+    base_low: 155000
+    base_high: 205000
+    stock_low: 150000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 390000
+    currency: USD
+  - region: "Starbase, TX"
+    base_low: 145000
+    base_high: 195000
+    stock_low: 150000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 380000
+    currency: USD
+  - region: "Redmond, WA (Starlink)"
+    base_low: 155000
+    base_high: 205000
+    stock_low: 150000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 390000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SpaceX Starship FSW Engineer = Google L4-L5 = No Direct Equivalent -- closest: NASA JPL Flight Software + Google SRE criticality"
+data_sources:
+  - "SpaceX Starship Flight Software -- GNC & Autonomous Landing Systems 2026"
+  - SpaceX $180B+ Private Valuation -- Tender Offer History
+  - Starlink IPO Thesis -- $100B+ Standalone Valuation Estimates
+  - Flight-Critical Software Premium -- Real-Time C++ Aerospace Engineering
+  - SpaceX Launch Cadence -- 100+ Launches/Year Target
+  - Booster Catch System -- Autonomous GNC for Tower Landing
+negotiation_dna_summary: "Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starship/Falcon/Starlink | **SIGNATURE ROLE** | **+20-35% Flight-Critical Premium** | 60+ Hour Culture"
+---
 ### Starship Flight Software Engineer | SpaceX Global Negotiation Guide
 
 **Negotiation DNA:** Mission-Driven Equity + Intensity Premium | $180B+ Private Valuation | Starship/Falcon/Starlink | **SIGNATURE ROLE** | **+20-35% Flight-Critical Premium** | 60+ Hour Culture

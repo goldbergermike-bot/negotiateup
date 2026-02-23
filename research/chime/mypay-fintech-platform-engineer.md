@@ -1,3 +1,48 @@
+---
+company: chime
+company_display: Chime
+role: mypay-fintech-platform-engineer
+role_display: MyPay Fintech Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 238000
+    base_high: 272000
+    stock_low: 248000
+    stock_high: 348000
+    bonus_pct: 15
+    total_comp_low: 332000
+    total_comp_high: 408000
+    currency: USD
+  - region: Chicago
+    base_low: 225000
+    base_high: 258000
+    stock_low: 218000
+    stock_high: 318000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 378000
+    currency: USD
+  - region: Remote US
+    base_low: 215000
+    base_high: 248000
+    stock_low: 198000
+    stock_high: 298000
+    bonus_pct: 15
+    total_comp_low: 288000
+    total_comp_high: 362000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chime MyPay Platform Engineer = Cash App Payments Sr SWE + Premium = Stripe Sr SWE + Premium = Google L5-L6 Payments = Meta E5-E6 Payments = Amazon Sr SDE Payments + Premium
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | +20-30% MyPay Premium | **SIGNATURE ROLE — INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**"
+---
 ### MyPay Fintech Platform Engineer | Chime Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | +20-30% MyPay Premium | **SIGNATURE ROLE — INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**

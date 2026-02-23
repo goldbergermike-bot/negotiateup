@@ -1,3 +1,48 @@
+---
+company: brex
+company_display: Brex
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 162000
+    base_high: 205000
+    stock_low: 108000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: USD
+  - region: New York
+    base_low: 168000
+    base_high: 212000
+    stock_low: 108000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 275000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 198000
+    stock_low: 108000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 260000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex DE (IC2-IC3) = Ramp DE = Stripe DE = Google DE L3-L4 = Meta DE IC3-IC4 = Amazon L4-L5 DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**"
+---
 ### Data Engineer | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**

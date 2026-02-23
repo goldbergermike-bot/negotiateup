@@ -1,3 +1,52 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 88000
+    base_high: 120000
+    stock_low: 135000
+    stock_high: 255000
+    bonus_pct: null
+    total_comp_low: 122000
+    total_comp_high: 184000
+    currency: EUR
+  - region: New York
+    base_low: 195000
+    base_high: 248000
+    stock_low: 235000
+    stock_high: 418000
+    bonus_pct: null
+    total_comp_low: 254000
+    total_comp_high: 353000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "HF ML/AI Engineer = Google ML Engineer L4–L5 (Paris) = Meta FAIR Research Engineer (E5) = Mistral AI ML Engineer = DeepMind Research Engineer. Paris ML bands (€88K–€120K) compete with Google Paris ML Engineer (€95K–€135K base + RSUs) and Meta FAIR Paris (€90K–€125K base + RSUs). HF ML/AI Engineers have the unique advantage of building open-source tools that the entire industry uses — your work has 100x the reach of equivalent roles at closed-source companies. The Agentic AI Premium (20–35%) applies on top of base equity grants for candidates with agent-building experience."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat | **+20--35% AGENTIC AI PREMIUM**"
+---
 ### ML/AI Engineer | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat | **+20--35% AGENTIC AI PREMIUM**

@@ -1,3 +1,39 @@
+---
+company: palo-alto-networks
+company_display: Palo Alto Networks
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 345000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "As a Product Designer at Palo Alto Networks, you shape the user experience of the Platformization vision — designing unified Security Consolidation interfaces that make complex cybersecurity accessible."
+---
 ### Product Designer — Palo Alto Networks Salary Negotiation Guide
 
 **Negotiation DNA**: As a Product Designer at Palo Alto Networks, you shape the user experience of the Platformization vision — designing unified Security Consolidation interfaces that make complex cybersecurity accessible.

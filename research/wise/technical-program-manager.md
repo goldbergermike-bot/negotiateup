@@ -1,3 +1,48 @@
+---
+company: wise
+company_display: Wise
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 65000
+    base_high: 95000
+    stock_low: 28000
+    stock_high: 55000
+    bonus_pct: null
+    total_comp_low: 93000
+    total_comp_high: 150000
+    currency: GBP
+  - region: Tallinn (EUR)
+    base_low: 50000
+    base_high: 72000
+    stock_low: 20000
+    stock_high: 42000
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 114000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 85000
+    base_high: 125000
+    stock_low: 35000
+    stock_high: 65000
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 190000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a technical program management compensation framework spanning London, Tallinn, and Singapore markets. As a Technical Program Manager at Wise, you are the execution engine for Platform Integrity initiatives — coordinating engineering, product, compliance, and operations to ship the programs that sustain Wise's mid-market infrastructure and th"
+---
 ### Technical Program Manager — Wise Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a technical program management compensation framework spanning London, Tallinn, and Singapore markets. As a Technical Program Manager at Wise, you are the execution engine for Platform Integrity initiatives — coordinating engineering, product, compliance, and operations to ship the programs that sustain Wise's mid-market infrastructure and the Wise Platform API's enterprise growth.

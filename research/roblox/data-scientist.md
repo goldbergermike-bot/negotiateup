@@ -1,3 +1,48 @@
+---
+company: roblox
+company_display: Roblox
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo
+    base_low: 160000
+    base_high: 210000
+    stock_low: 145000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 288000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 205000
+    stock_low: 140000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 278000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 190000
+    stock_low: 125000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Roblox Data Scientist (IC2-IC5) = Google DS L3-L6 = Meta Data Scientist 4-7 = Amazon DS = Apple DS = Microsoft Data Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**"
+---
 ### Data Scientist | Roblox Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**

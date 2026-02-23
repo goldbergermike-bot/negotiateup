@@ -1,3 +1,53 @@
+---
+company: interactive-brokers
+company_display: Interactive Brokers
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Greenwich, CT (HQ)"
+    base_low: 140000
+    base_high: 195000
+    stock_low: 34000
+    stock_high: 58000
+    bonus_low: 24000
+    bonus_high: 35000
+    total_comp_low: 198000
+    total_comp_high: 288000
+    currency: USD
+  - region: New York
+    base_low: 147000
+    base_high: 205000
+    stock_low: 36000
+    stock_high: 61000
+    bonus_low: 25000
+    bonus_high: 37000
+    total_comp_low: 208000
+    total_comp_high: 302000
+    currency: USD
+  - region: London
+    base_low: 104000
+    base_high: 144000
+    stock_low: 25000
+    stock_high: 43000
+    bonus_low: 18000
+    bonus_high: 26000
+    total_comp_low: 147000
+    total_comp_high: 213000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Quantitative Modeling` `Risk Analytics` `Predictive Trading Systems`"
+---
 ### Data Scientist | Interactive Brokers Global Negotiation Guide
 
 **Negotiation DNA:** `ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Quantitative Modeling` `Risk Analytics` `Predictive Trading Systems`

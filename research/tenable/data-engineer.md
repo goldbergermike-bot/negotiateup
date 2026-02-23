@@ -1,3 +1,55 @@
+---
+company: tenable
+company_display: Tenable
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Columbia MD
+    base_low: 140000
+    base_high: 178000
+    stock_low: 65000
+    stock_high: 130000
+    bonus_pct: 10
+    signing_bonus_low: 12000
+    signing_bonus_high: 25000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Austin
+    base_low: 135000
+    base_high: 173000
+    stock_low: 60000
+    stock_high: 125000
+    bonus_pct: 10
+    signing_bonus_low: 12000
+    signing_bonus_high: 25000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 82000
+    base_high: 112000
+    stock_low: 40000
+    stock_high: 82000
+    bonus_pct: 10
+    signing_bonus_low: 7000
+    signing_bonus_high: 15000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Data Engineer at Tenable maps to IC2–IC3 Data/Platform Engineer at peer cybersecurity companies (CrowdStrike Data Engineer, Palo Alto Networks Data Platform Engineer) and L4 Data Engineer at FAANG-tier companies."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London"
+---
 ### Data Engineer | Tenable Global Negotiation Guide
 
 **Negotiation DNA:** Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London

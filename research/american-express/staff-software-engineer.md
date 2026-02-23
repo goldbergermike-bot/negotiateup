@@ -1,3 +1,49 @@
+---
+company: american-express
+company_display: American Express
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 175000
+    base_high: 230000
+    stock_low: 110000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 395000
+    currency: USD
+  - region: Phoenix
+    base_low: 160000
+    base_high: 212000
+    stock_low: 95000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 358000
+    currency: USD
+  - region: San Francisco
+    base_low: 172000
+    base_high: 228000
+    stock_low: 105000
+    stock_high: 272000
+    bonus_pct: 15
+    total_comp_low: 242000
+    total_comp_high: 388000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Staff SWE at AmEx (Principal/Distinguished) = L6 at Google, E6 at Meta, Principal at Amazon, SVP/Director at BofA, Principal Engineer at Capital One"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$190B market cap premium brand + Staff-level sets technical direction for payment network + NYC HQ + Strong RSU comp | AmEx Staff SWEs lead premium-grade technology strategy | **PREMIUM TECHNICAL LEADERSHIP PREMIUM**"
+---
 ### Staff Software Engineer | American Express Global Negotiation Guide
 
 **Negotiation DNA:** $190B market cap premium brand + Staff-level sets technical direction for payment network + NYC HQ + Strong RSU comp | AmEx Staff SWEs lead premium-grade technology strategy | **PREMIUM TECHNICAL LEADERSHIP PREMIUM**

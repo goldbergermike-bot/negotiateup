@@ -1,3 +1,49 @@
+---
+company: snowflake
+company_display: Snowflake
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bozeman
+    base_low: 250000
+    base_high: 290000
+    stock_low: 500000
+    stock_high: 800000
+    bonus_pct: null
+    total_comp_low: 375000
+    total_comp_high: 490000
+    currency: USD
+  - region: Seattle
+    base_low: 245000
+    base_high: 285000
+    stock_low: 475000
+    stock_high: 760000
+    bonus_pct: null
+    total_comp_low: 364000
+    total_comp_high: 475000
+    currency: USD
+  - region: Warsaw
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snowflake Staff / Senior Staff = Google L5 = Meta E5 = Databricks Staff
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity-Heavy / No Bonus | CEO-Led AI Platform Pivot | TOP-OF-MARKET Initial Grants"
+---
 ### Staff Software Engineer | Snowflake Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | CEO-Led AI Platform Pivot | TOP-OF-MARKET Initial Grants

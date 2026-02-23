@@ -1,3 +1,53 @@
+---
+company: navan
+company_display: Navan
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 140000
+    base_high: 185000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 190000
+    total_comp_high: 285000
+    currency: USD
+  - region: New York
+    base_low: 135000
+    base_high: 180000
+    stock_low: 38000
+    stock_high: 75000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 183000
+    total_comp_high: 273000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 115000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_low: 6000
+    bonus_high: 12000
+    total_comp_low: 116000
+    total_comp_high: 177000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Navan | Google | Meta | Stripe | Brex | Airbnb |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect`"
+---
 ### Software Engineer | Navan Global Negotiation Guide
 
 **Negotiation DNA:** `Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect`

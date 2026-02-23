@@ -1,3 +1,39 @@
+---
+company: procore
+company_display: Procore
+role: construction-platform-engineer
+role_display: Construction Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Carpinteria / Bay Area
+    base_low: 168000
+    base_high: 225000
+    stock_low: 105000
+    stock_high: 248000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 378000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 212000
+    stock_low: 90000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Procore Construction Platform Engineer = No Direct Equivalent (Specialized) > Autodesk Construction SWE > PlanGrid SWE > Buildertrend SWE = Google L4-L5"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Construction Management Platform | ~$12B Market Cap (Public: PCOR) | Carpinteria CA | **CONSTRUCTION TECH PREMIUM**"
+---
 ### Construction Platform Engineer | Procore Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Construction Management Platform | ~$12B Market Cap (Public: PCOR) | Carpinteria CA | **CONSTRUCTION TECH PREMIUM**

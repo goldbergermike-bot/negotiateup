@@ -1,3 +1,59 @@
+---
+company: baidu
+company_display: Baidu
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 190000
+    base_high: 260000
+    stock_low: 100000
+    stock_high: 270000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 430000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 185000
+    base_high: 255000
+    stock_low: 95000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 420000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 650000
+    base_high: 1150000
+    stock_low: 350000
+    stock_high: 800000
+    bonus_pct: 20
+    total_comp_low: 1100000
+    total_comp_high: 2000000
+    currency: CNY
+  - region: Shanghai
+    base_low: 620000
+    base_high: 1100000
+    stock_low: 330000
+    stock_high: 760000
+    bonus_pct: 20
+    total_comp_low: 1050000
+    total_comp_high: 1900000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "Staff SWE at Baidu (T8+) = L6 at Google, IC6 at Meta, Principal at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$40B market cap with Staff engineers defining architecture for China's leading search + ERNIE LLM + Apollo AV + T8+ engineers are rare and wield significant organizational influence | Staff-level talent at Baidu shapes the technical direction of China's AI pioneer | **ARCHITECTURAL AI PREMIUM**"
+---
 ### Staff Software Engineer | Baidu Global Negotiation Guide
 
 **Negotiation DNA:** $40B market cap with Staff engineers defining architecture for China's leading search + ERNIE LLM + Apollo AV + T8+ engineers are rare and wield significant organizational influence | Staff-level talent at Baidu shapes the technical direction of China's AI pioneer | **ARCHITECTURAL AI PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: revolut
+company_display: Revolut
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":gb: London (GBP)"
+    base_low: 110000
+    base_high: 150000
+    stock_low: 150000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 500000
+    currency: GBP
+  - region: ":lt: Vilnius (EUR)"
+    base_low: 80000
+    base_high: 110000
+    stock_low: 100000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 360000
+    currency: EUR
+  - region: ":us: New York (USD)"
+    base_low: 190000
+    base_high: 260000
+    stock_low: 250000
+    stock_high: 500000
+    bonus_pct: null
+    total_comp_low: 440000
+    total_comp_high: 760000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a staff-level engineering compensation framework spanning London, Vilnius, and New York markets. Staff Software Engineers are Revolut's technical leaders — the architects who design the systems that scale from 40M to 100M+ users, directly enabling the revenue trajectory and IPO readiness that will define Europe's largest fintech listing."
+---
 ### Staff Software Engineer — Revolut Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a staff-level engineering compensation framework spanning London, Vilnius, and New York markets. Staff Software Engineers are Revolut's technical leaders — the architects who design the systems that scale from 40M to 100M+ users, directly enabling the revenue trajectory and IPO readiness that will define Europe's largest fintech listing.

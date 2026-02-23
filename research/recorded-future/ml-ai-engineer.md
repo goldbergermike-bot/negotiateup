@@ -1,3 +1,39 @@
+---
+company: recorded-future
+company_display: Recorded Future
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Somerville/Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 158000
+    total_comp_high: 365000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "ML/AI Engineers at Recorded Future build the NLP, machine learning, and AI systems that transform billions of unstructured data points into structured threat intelligence — the core technology behind the world's largest intelligence platform."
+---
 ### ML/AI Engineer — Recorded Future Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at Recorded Future build the NLP, machine learning, and AI systems that transform billions of unstructured data points into structured threat intelligence — the core technology behind the world's largest intelligence platform.

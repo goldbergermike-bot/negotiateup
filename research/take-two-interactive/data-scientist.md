@@ -1,3 +1,49 @@
+---
+company: take-two-interactive
+company_display: Take-Two Interactive
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 145000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+  - region: San Diego (Rockstar)
+    base_low: 135000
+    base_high: 195000
+    stock_low: 48000
+    stock_high: 145000
+    bonus_pct: 15
+    total_comp_low: 178000
+    total_comp_high: 278000
+    currency: USD
+  - region: Bangalore
+    base_low: 2200000
+    base_high: 3800000
+    stock_low: 1000000
+    stock_high: 2500000
+    bonus_pct: 10
+    total_comp_low: 3500000
+    total_comp_high: 6700000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Take-Two Senior Data Scientist = Google L4 DS = EA Data Scientist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "RSU + Premium Bonus | GTA + NBA 2K Revenue Machine"
+---
 ### Data Scientist | Take-Two Interactive Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Premium Bonus | GTA + NBA 2K Revenue Machine

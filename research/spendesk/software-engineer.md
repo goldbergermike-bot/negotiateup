@@ -1,3 +1,53 @@
+---
+company: spendesk
+company_display: Spendesk
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 48000
+    base_high: 68000
+    stock_low: 15000
+    stock_high: 35000
+    bonus_low: 4000
+    bonus_high: 8000
+    total_comp_low: 67000
+    total_comp_high: 111000
+    currency: EUR
+  - region: London
+    base_low: 50000
+    base_high: 72000
+    stock_low: 12000
+    stock_high: 30000
+    bonus_low: 4000
+    bonus_high: 8000
+    total_comp_low: 66000
+    total_comp_high: 110000
+    currency: GBP
+  - region: Berlin
+    base_low: 50000
+    base_high: 70000
+    stock_low: 14000
+    stock_high: 32000
+    bonus_low: 4000
+    bonus_high: 7000
+    total_comp_low: 68000
+    total_comp_high: 109000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Spendesk | Google | Meta | Stripe | Pleo | Brex |"
+data_sources:
+  - Crunchbase
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options`"
+---
 ### Software Engineer | Spendesk Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options`

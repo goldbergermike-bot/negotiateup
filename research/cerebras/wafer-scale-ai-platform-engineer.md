@@ -1,3 +1,52 @@
+---
+company: cerebras
+company_display: Cerebras
+role: wafer-scale-ai-platform-engineer
+role_display: Wafer-Scale AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 248000
+    base_high: 308000
+    stock_low: 342000
+    stock_high: 602000
+    bonus_pct: 15
+    total_comp_low: 382000
+    total_comp_high: 538000
+    currency: USD
+  - region: San Diego
+    base_low: 245000
+    base_high: 305000
+    stock_low: 342000
+    stock_high: 602000
+    bonus_pct: 15
+    total_comp_low: 378000
+    total_comp_high: 535000
+    currency: USD
+  - region: Remote US
+    base_low: 238000
+    base_high: 298000
+    stock_low: 342000
+    stock_high: 602000
+    bonus_pct: 15
+    total_comp_low: 372000
+    total_comp_high: 528000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cerebras Wafer-Scale Platform Eng (IC3-IC4) = NVIDIA CUDA Platform Eng = AMD ROCm Platform Eng = Google TPU Platform Eng = No true equivalent — wafer-scale is singular
+data_sources:
+  - Cerebras Q2 2026 IPO Timeline — Platform as IPO Enabler
+  - Cerebras $10B OpenAI Deal — Platform Delivery Requirements
+  - "Cerebras Wafer-Scale Engine — 850,000-Core Platform Architecture"
+  - Cerebras vs NVIDIA CUDA — Platform Competition 2026
+  - Cerebras Wafer-Scale Platform Engineer — Signature Role Comp 2026
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal | **SIGNATURE ROLE** | **+25–35% WAFER-SCALE PREMIUM**"
+---
 ### Wafer-Scale AI Platform Engineer | Cerebras Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal | **SIGNATURE ROLE** | **+25–35% WAFER-SCALE PREMIUM**

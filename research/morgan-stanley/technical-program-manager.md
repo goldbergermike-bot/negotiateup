@@ -1,3 +1,53 @@
+---
+company: morgan-stanley
+company_display: Morgan Stanley
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 140000
+    base_high: 190000
+    stock_low: 34000
+    stock_high: 58000
+    bonus_low: 24000
+    bonus_high: 37000
+    total_comp_low: 198000
+    total_comp_high: 285000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 156000
+    stock_low: 28000
+    stock_high: 48000
+    bonus_low: 20000
+    bonus_high: 30000
+    total_comp_low: 162000
+    total_comp_high: 234000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 1090000
+    base_high: 1480000
+    stock_low: 265000
+    stock_high: 452000
+    bonus_low: 187000
+    bonus_high: 289000
+    total_comp_low: 1540000
+    total_comp_high: 2220000
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Cross-Functional AI Delivery` `Regulatory Program Execution` `Advisory Platform Launch`"
+---
 ### Technical Program Manager | Morgan Stanley Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Cross-Functional AI Delivery` `Regulatory Program Execution` `Advisory Platform Launch`

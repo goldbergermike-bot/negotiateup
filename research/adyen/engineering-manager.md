@@ -1,3 +1,52 @@
+---
+company: adyen
+company_display: Adyen
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 120000
+    base_high: 160000
+    stock_low: 90000
+    stock_high: 170000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 228000
+    total_comp_high: 365000
+    currency: EUR
+  - region: San Francisco
+    base_low: 185000
+    base_high: 250000
+    stock_low: 130000
+    stock_high: 260000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 340000
+    total_comp_high: 555000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 148000
+    stock_low: 78000
+    stock_high: 150000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 201000
+    total_comp_high: 328000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Adyen | Google | Meta | Stripe | Visa | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Management Track`"
+---
 ### Engineering Manager | Adyen Global Negotiation Guide
 
 **Negotiation DNA:** `AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Management Track`

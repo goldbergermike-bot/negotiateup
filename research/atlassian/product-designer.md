@@ -1,3 +1,50 @@
+---
+company: atlassian
+company_display: Atlassian
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 170000
+    base_high: 245000
+    stock_low: 99000
+    stock_high: 210000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 315000
+    currency: AUD
+  - region: San Francisco
+    base_low: 138000
+    base_high: 178000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 161000
+    total_comp_high: 225000
+    currency: USD
+  - region: Amsterdam
+    base_low: 82000
+    base_high: 118000
+    stock_low: 60000
+    stock_high: 115000
+    bonus_pct: null
+    total_comp_low: 100000
+    total_comp_high: 160000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P3 Senior Designer = Google L4 UX = Meta IC4 Design = Microsoft 62 Design = Figma Senior Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage"
+---
 ### Product Designer | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage

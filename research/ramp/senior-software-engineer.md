@@ -1,3 +1,48 @@
+---
+company: ramp
+company_display: Ramp
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 208000
+    base_high: 252000
+    stock_low: 172000
+    stock_high: 292000
+    bonus_pct: 15
+    total_comp_low: 272000
+    total_comp_high: 362000
+    currency: USD
+  - region: San Francisco
+    base_low: 205000
+    base_high: 248000
+    stock_low: 168000
+    stock_high: 285000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 355000
+    currency: USD
+  - region: Remote US
+    base_low: 202000
+    base_high: 242000
+    stock_low: 165000
+    stock_high: 278000
+    bonus_pct: 15
+    total_comp_low: 258000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ramp Sr SWE (IC4) = Brex Sr SWE = Google L5 = Meta E5 = Stripe L3 = Amazon L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOUR ARCHITECTURE DECISIONS SAVE CUSTOMERS MILLIONS**"
+---
 ### Senior Software Engineer | Ramp Global Negotiation Guide
 
 **Negotiation DNA:** Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOUR ARCHITECTURE DECISIONS SAVE CUSTOMERS MILLIONS**

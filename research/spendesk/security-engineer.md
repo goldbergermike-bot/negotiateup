@@ -1,3 +1,53 @@
+---
+company: spendesk
+company_display: Spendesk
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 65000
+    base_high: 95000
+    stock_low: 25000
+    stock_high: 65000
+    bonus_low: 8000
+    bonus_high: 16000
+    total_comp_low: 98000
+    total_comp_high: 176000
+    currency: EUR
+  - region: London
+    base_low: 68000
+    base_high: 100000
+    stock_low: 22000
+    stock_high: 55000
+    bonus_low: 8000
+    bonus_high: 16000
+    total_comp_low: 98000
+    total_comp_high: 171000
+    currency: GBP
+  - region: Berlin
+    base_low: 67000
+    base_high: 97000
+    stock_low: 24000
+    stock_high: 60000
+    bonus_low: 8000
+    bonus_high: 14000
+    total_comp_low: 99000
+    total_comp_high: 171000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Spendesk | Google | Meta | Stripe | Pleo | Brex |"
+data_sources:
+  - Crunchbase
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `Security` `InfoSec` `Financial Services Security`"
+---
 ### Security Engineer | Spendesk Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `Security` `InfoSec` `Financial Services Security`

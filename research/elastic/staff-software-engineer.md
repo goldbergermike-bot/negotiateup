@@ -1,3 +1,48 @@
+---
+company: elastic
+company_display: Elastic
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 222000
+    base_high: 268000
+    stock_low: 320000
+    stock_high: 510000
+    bonus_pct: 8
+    total_comp_low: 318000
+    total_comp_high: 408000
+    currency: USD
+  - region: Amsterdam
+    base_low: 92000
+    base_high: 115000
+    stock_low: 128000
+    stock_high: 208000
+    bonus_pct: 8
+    total_comp_low: 138000
+    total_comp_high: 185000
+    currency: EUR
+  - region: Bangalore
+    base_low: 5800000
+    base_high: 8200000
+    stock_low: 5000000
+    stock_high: 8200000
+    bonus_pct: 8
+    total_comp_low: 7800000
+    total_comp_high: 11800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Elastic Staff SWE = Google L5 = Meta E5 = MongoDB Staff SWE = Snowflake Staff SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Small Bonus | \"Battle for the AI Data Layer\" | ESRE Premium"
+---
 ### Staff Software Engineer | Elastic Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Small Bonus | "Battle for the AI Data Layer" | ESRE Premium

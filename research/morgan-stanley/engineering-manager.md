@@ -1,3 +1,53 @@
+---
+company: morgan-stanley
+company_display: Morgan Stanley
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 195000
+    base_high: 260000
+    stock_low: 55000
+    stock_high: 92000
+    bonus_low: 35000
+    bonus_high: 60000
+    total_comp_low: 285000
+    total_comp_high: 412000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 213000
+    stock_low: 45000
+    stock_high: 75000
+    bonus_low: 29000
+    bonus_high: 49000
+    total_comp_low: 234000
+    total_comp_high: 338000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 1520000
+    base_high: 2030000
+    stock_low: 429000
+    stock_high: 718000
+    bonus_low: 273000
+    bonus_high: 468000
+    total_comp_low: 2220000
+    total_comp_high: 3210000
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Team Leadership` `Advisory Platform Delivery` `Talent Retention Authority`"
+---
 ### Engineering Manager | Morgan Stanley Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Team Leadership` `Advisory Platform Delivery` `Talent Retention Authority`

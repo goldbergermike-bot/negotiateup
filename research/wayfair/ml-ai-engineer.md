@@ -1,3 +1,48 @@
+---
+company: wayfair
+company_display: Wayfair
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 168000
+    base_high: 228000
+    stock_low: 55000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York
+    base_low: 176000
+    base_high: 239000
+    stock_low: 58000
+    stock_high: 89000
+    bonus_pct: 10
+    total_comp_low: 229000
+    total_comp_high: 320000
+    currency: USD
+  - region: Remote US
+    base_low: 151000
+    base_high: 205000
+    stock_low: 46000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 196000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Wayfair ML/AI Engineer = Google ML Engineer L5 = Amazon Applied Scientist = Meta ML Engineer (E5) = Apple ML Engineer (ICT4-ICT5)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | +15-25% AI Premium"
+---
 ### ML/AI Engineer | Wayfair Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | +15-25% AI Premium

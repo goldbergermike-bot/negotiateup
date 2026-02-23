@@ -1,3 +1,48 @@
+---
+company: moderna
+company_display: Moderna
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge MA
+    base_low: 175000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 260000
+    total_comp_high: 385000
+    currency: USD
+  - region: Remote US
+    base_low: 165000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 240000
+    total_comp_high: 365000
+    currency: USD
+  - region: Other US
+    base_low: 160000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 230000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Moderna EM = Genentech EM = Google L5-L6 EM = BioNTech EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: mRNA Pioneer / Post-COVID Growth / RSU + Bonus / Technology Leadership
+---
 ### Engineering Manager | Moderna Global Negotiation Guide
 
 **Negotiation DNA:** mRNA Pioneer / Post-COVID Growth / RSU + Bonus / Technology Leadership

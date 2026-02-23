@@ -1,3 +1,49 @@
+---
+company: reddit
+company_display: Reddit
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 222000
+    stock_low: 102000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 278000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 228000
+    stock_low: 102000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 288000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 212000
+    stock_low: 102000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Reddit Solutions Architect (L5) = Google L4-L5 SA = Meta Solutions Eng = Amazon SA II = Microsoft 63 SA
+data_sources:
+  - Reddit
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth"
+---
 ### Solutions Architect | Reddit Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth

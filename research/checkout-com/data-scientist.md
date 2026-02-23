@@ -1,3 +1,48 @@
+---
+company: checkout-com
+company_display: Checkout Com
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 80000
+    base_high: 125000
+    stock_low: 40000
+    stock_high: 90000
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 215000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 165000
+    base_high: 225000
+    stock_low: 75000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 365000
+    currency: USD
+  - region: New York (USD)
+    base_low: 160000
+    base_high: 220000
+    stock_low: 70000
+    stock_high: 135000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 355000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into a data science compensation framework spanning London, San Francisco, and New York markets."
+---
 ### Data Scientist — Checkout.com Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into a data science compensation framework spanning London, San Francisco, and New York markets.

@@ -1,3 +1,48 @@
+---
+company: wayfair
+company_display: Wayfair
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 160000
+    base_high: 210000
+    stock_low: 45000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 282000
+    currency: USD
+  - region: New York
+    base_low: 168000
+    base_high: 220000
+    stock_low: 48000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 296000
+    currency: USD
+  - region: Remote US
+    base_low: 144000
+    base_high: 189000
+    stock_low: 38000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 254000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Wayfair Senior Software Engineer (L3-L4) = Google L5 = Amazon SDE II-III = Meta E5 = Apple ICT4-ICT5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Senior IC Premium"
+---
 ### Senior Software Engineer | Wayfair Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Senior IC Premium

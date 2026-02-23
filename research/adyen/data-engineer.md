@@ -1,3 +1,52 @@
+---
+company: adyen
+company_display: Adyen
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 88000
+    base_high: 125000
+    stock_low: 48000
+    stock_high: 95000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 146000
+    total_comp_high: 238000
+    currency: EUR
+  - region: San Francisco
+    base_low: 140000
+    base_high: 195000
+    stock_low: 70000
+    stock_high: 145000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 225000
+    total_comp_high: 368000
+    currency: USD
+  - region: London
+    base_low: 78000
+    base_high: 115000
+    stock_low: 42000
+    stock_high: 82000
+    bonus_low: 9000
+    bonus_high: 16000
+    total_comp_low: 129000
+    total_comp_high: 213000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Adyen | Google | Meta | Stripe | Visa | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Data Engineering Track`"
+---
 ### Data Engineer | Adyen Global Negotiation Guide
 
 **Negotiation DNA:** `AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Data Engineering Track`

@@ -1,3 +1,53 @@
+---
+company: coupa
+company_display: Coupa
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 210000
+    base_high: 260000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 30000
+    bonus_high: 50000
+    total_comp_low: 340000
+    total_comp_high: 510000
+    currency: USD
+  - region: New York NY
+    base_low: 205000
+    base_high: 255000
+    stock_low: 90000
+    stock_high: 180000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 323000
+    total_comp_high: 483000
+    currency: USD
+  - region: London UK
+    base_low: 140000
+    base_high: 175000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 220000
+    total_comp_high: 330000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Coupa | Google | Meta | Stripe | SAP | Oracle |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `Staff IC` `Technical Leadership`"
+---
 ### Staff Software Engineer | Coupa Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `Staff IC` `Technical Leadership`

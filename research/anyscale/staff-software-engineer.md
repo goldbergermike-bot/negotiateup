@@ -1,3 +1,50 @@
+---
+company: anyscale
+company_display: Anyscale
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 240000
+    base_high: 305000
+    stock_low: 310000
+    stock_high: 510000
+    bonus_pct: 10
+    total_comp_low: 370000
+    total_comp_high: 555000
+    currency: USD
+  - region: New York
+    base_low: 235000
+    base_high: 300000
+    stock_low: 310000
+    stock_high: 510000
+    bonus_pct: 10
+    total_comp_low: 365000
+    total_comp_high: 548000
+    currency: USD
+  - region: London
+    base_low: 182000
+    base_high: 232000
+    stock_low: 233000
+    stock_high: 383000
+    bonus_pct: 10
+    total_comp_low: 281000
+    total_comp_high: 422000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anyscale Staff SWE = Google L6 = Meta E6 = Databricks Staff SWE = AWS Principal SDE = Snowflake Principal SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Top-Tier Base + Significant Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: Next-Gen Distributed AI Platform Architecture"
+---
 ### Staff Software Engineer | Anyscale Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier Base + Significant Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: Next-Gen Distributed AI Platform Architecture

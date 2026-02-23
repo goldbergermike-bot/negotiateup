@@ -1,3 +1,48 @@
+---
+company: nium
+company_display: Nium
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 105000
+    base_high: 170000
+    stock_low: 55000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 290000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 160000
+    base_high: 225000
+    stock_low: 75000
+    stock_high: 170000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 395000
+    currency: USD
+  - region: London (GBP)
+    base_low: 70000
+    base_high: 115000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_pct: null
+    total_comp_low: 110000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a data engineering compensation framework spanning Singapore, San Francisco, and London markets. As a Data Engineer at Nium, you build the data infrastructure that powers everything from real-time fraud detection to payment routing optimization — constructing the pipelines, warehouses, and streaming systems that transform raw transaction data into the intelligence layer of programmab"
+---
 ### Data Engineer — Nium Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a data engineering compensation framework spanning Singapore, San Francisco, and London markets. As a Data Engineer at Nium, you build the data infrastructure that powers everything from real-time fraud detection to payment routing optimization — constructing the pipelines, warehouses, and streaming systems that transform raw transaction data into the intelligence layer of programmable money.

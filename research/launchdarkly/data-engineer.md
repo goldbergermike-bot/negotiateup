@@ -1,3 +1,40 @@
+---
+company: launchdarkly
+company_display: LaunchDarkly
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland HQ
+    base_low: 155000
+    base_high: 215000
+    stock_low: 60000
+    stock_high: 195000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 315000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 175000
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: LaunchDarkly Senior DE = GitLab DE = Google L4 DE = Datadog DE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($3B Valuation) | Feature Management Platform | Category Creator | Liquidity Risk"
+---
 ### Data Engineer | LaunchDarkly Global Negotiation Guide
 
 **Negotiation DNA:** Private ($3B Valuation) | Feature Management Platform | Category Creator | Liquidity Risk

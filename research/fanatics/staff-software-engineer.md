@@ -1,3 +1,39 @@
+---
+company: fanatics
+company_display: Fanatics
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC
+    base_low: 185000
+    base_high: 240000
+    stock_low: 140000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 270000
+    total_comp_high: 430000
+    currency: USD
+  - region: Jacksonville FL (HQ)
+    base_low: 175000
+    base_high: 228000
+    stock_low: 130000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 408000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Fanatics Staff SWE = Google L5 = Meta E5 = Amazon Principal SDE = Shopify Staff SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Private $31B Valuation | Growth Equity | Sports Commerce Monopoly | Pre-IPO Upside"
+---
 ### Staff Software Engineer | Fanatics Global Negotiation Guide
 
 **Negotiation DNA:** Private $31B Valuation | Growth Equity | Sports Commerce Monopoly | Pre-IPO Upside

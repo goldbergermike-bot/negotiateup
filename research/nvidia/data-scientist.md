@@ -1,3 +1,48 @@
+---
+company: nvidia
+company_display: Nvidia
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 195000
+    base_high: 245000
+    stock_low: 178000
+    stock_high: 318000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 355000
+    currency: USD
+  - region: Seattle
+    base_low: 192000
+    base_high: 242000
+    stock_low: 178000
+    stock_high: 318000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 352000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 235000
+    stock_low: 178000
+    stock_high: 318000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: NVIDIA Data Scientist (IC2-IC3) = Google L4-L5 DS = Meta DS = Apple DS = AMD Sr. Data Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule"
+---
 ### Data Scientist | NVIDIA Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule

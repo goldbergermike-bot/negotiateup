@@ -1,3 +1,50 @@
+---
+company: atlassian
+company_display: Atlassian
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 185000
+    base_high: 265000
+    stock_low: 143000
+    stock_high: 286000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 370000
+    currency: AUD
+  - region: San Francisco
+    base_low: 155000
+    base_high: 198000
+    stock_low: 130000
+    stock_high: 225000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 260000
+    currency: USD
+  - region: Amsterdam
+    base_low: 90000
+    base_high: 132000
+    stock_low: 82000
+    stock_high: 158000
+    bonus_pct: null
+    total_comp_low: 122000
+    total_comp_high: 192000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P4 Senior TPM = Google L5 TPM = Meta IC5 TPM = Microsoft 63-64 TPM = Amazon Senior TPgM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage"
+---
 ### Technical Program Manager | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage

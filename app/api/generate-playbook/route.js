@@ -5,6 +5,7 @@
 
 import { NextResponse } from 'next/server';
 import Anthropic from '@anthropic-ai/sdk';
+import mammoth from 'mammoth';
 import { getOfferPrompt, getRaisePrompt } from '../../../lib/prompts';
 import { generatePlaybookPDF } from '../../../lib/pdf-generator';
 import { sendPlaybookEmail } from '../../../lib/email';
@@ -118,8 +119,21 @@ async function extractTextFromFile(file) {
       return '[Image uploaded — unable to extract text from image in this version. Please paste offer details in the text fields above for best results.]';
     }
 
-    // For .doc/.docx — basic fallback
-    // In production, you'd use mammoth.js or similar
+    // For .docx files, use mammoth.js for proper text extraction
+    if (
+      filename.endsWith('.docx') ||
+      file.type === 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
+    ) {
+      try {
+        const result = await mammoth.extractRawText({ buffer });
+        return result.value;
+      } catch (mammothErr) {
+        console.error('Mammoth .docx extraction failed:', mammothErr);
+        return '';
+      }
+    }
+
+    // For other file types, attempt basic text decode as fallback
     return buffer.toString('utf-8').replace(/[^\x20-\x7E\n\r\t]/g, ' ').trim();
 
   } catch (err) {

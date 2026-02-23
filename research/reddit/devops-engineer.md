@@ -1,3 +1,49 @@
+---
+company: reddit
+company_display: Reddit
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 172000
+    base_high: 215000
+    stock_low: 95000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 268000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 222000
+    stock_low: 95000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 278000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 205000
+    stock_low: 95000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Reddit DevOps Eng (L4) = Google L4 SRE = Meta Production Eng = Amazon Systems Dev Eng II
+data_sources:
+  - Reddit
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth"
+---
 ### DevOps Engineer | Reddit Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth

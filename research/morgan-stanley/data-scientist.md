@@ -1,3 +1,53 @@
+---
+company: morgan-stanley
+company_display: Morgan Stanley
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 148000
+    base_high: 200000
+    stock_low: 35000
+    stock_high: 58000
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 208000
+    total_comp_high: 298000
+    currency: USD
+  - region: London
+    base_low: 121000
+    base_high: 164000
+    stock_low: 29000
+    stock_high: 48000
+    bonus_low: 21000
+    bonus_high: 33000
+    total_comp_low: 171000
+    total_comp_high: 244000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 1150000
+    base_high: 1560000
+    stock_low: 273000
+    stock_high: 452000
+    bonus_low: 195000
+    bonus_high: 312000
+    total_comp_low: 1620000
+    total_comp_high: 2320000
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Predictive Wealth Analytics` `Client Behavioral Modeling` `Advisory Intelligence`"
+---
 ### Data Scientist | Morgan Stanley Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Predictive Wealth Analytics` `Client Behavioral Modeling` `Advisory Intelligence`

@@ -1,3 +1,68 @@
+---
+company: samsung
+company_display: Samsung
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / San Jose (US R&D)"
+    base_low: 145000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 145000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 310000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 135000
+    base_high: 185000
+    stock_low: 45000
+    stock_high: 125000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 280000
+    currency: USD
+  - region: Seoul (HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (R&D Campus)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 80000
+    base_high: 130000
+    stock_low: 30000
+    stock_high: 80000
+    bonus_pct: 15
+    total_comp_low: 105000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Data Scientist at Samsung (CL2-CL3) = L3-L4 at Google, IC3-IC4 at Meta, DS II-Senior at Amazon, equivalent Netflix/Spotify"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B device ecosystem generating unique consumer + manufacturing datasets + Galaxy AI feature development driven by data science + Korean bonus structure adds 20-50% to base | Samsung data scientists unlock insights across mobile, semiconductor, and IoT at unprecedented scale | **CROSS-DOMAIN DATA PREMIUM**"
+---
 ### Data Scientist | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B device ecosystem generating unique consumer + manufacturing datasets + Galaxy AI feature development driven by data science + Korean bonus structure adds 20-50% to base | Samsung data scientists unlock insights across mobile, semiconductor, and IoT at unprecedented scale | **CROSS-DOMAIN DATA PREMIUM**

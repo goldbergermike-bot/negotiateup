@@ -1,3 +1,48 @@
+---
+company: wise
+company_display: Wise
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 65000
+    base_high: 95000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_pct: null
+    total_comp_low: 95000
+    total_comp_high: 155000
+    currency: GBP
+  - region: Tallinn (EUR)
+    base_low: 50000
+    base_high: 72000
+    stock_low: 22000
+    stock_high: 45000
+    bonus_pct: null
+    total_comp_low: 72000
+    total_comp_high: 117000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 85000
+    base_high: 125000
+    stock_low: 38000
+    stock_high: 70000
+    bonus_pct: null
+    total_comp_low: 123000
+    total_comp_high: 195000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a product management compensation framework spanning London, Tallinn, and Singapore markets. As a Product Manager at Wise, you own the roadmap for products that deliver on the Platform Integrity promise — building the features, flows, and experiences that sustain customer trust and power the Wise Platform API's enterprise adoption."
+---
 ### Product Manager — Wise Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a product management compensation framework spanning London, Tallinn, and Singapore markets. As a Product Manager at Wise, you own the roadmap for products that deliver on the Platform Integrity promise — building the features, flows, and experiences that sustain customer trust and power the Wise Platform API's enterprise adoption.

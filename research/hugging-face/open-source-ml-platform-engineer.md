@@ -1,3 +1,52 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: open-source-ml-platform-engineer
+role_display: Open Source ML Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 98000
+    base_high: 132000
+    stock_low: 165000
+    stock_high: 305000
+    bonus_pct: null
+    total_comp_low: 139000
+    total_comp_high: 208000
+    currency: EUR
+  - region: New York
+    base_low: 210000
+    base_high: 262000
+    stock_low: 275000
+    stock_high: 488000
+    bonus_pct: null
+    total_comp_low: 279000
+    total_comp_high: 384000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "HF Open Source ML Platform Engineer = Google L5+ Platform Engineer (Paris) = Meta FAIR Staff Research Engineer (E6) = Mistral AI Lead Platform Engineer = DeepMind Staff Research Engineer. This role sits between Senior and Staff in formal leveling but carries Staff-equivalent scope and impact due to the ecosystem-defining nature of the work. Paris bands (€98K–€132K base) compete with Google Paris L5 (€120K–€155K base + RSUs) and Meta FAIR Paris Staff (€115K–€145K base + RSUs). In NYC, the $210K–$262K base competes with Anthropic Staff ($280K–$330K base + equity) and OpenAI Platform Engineer ($270K–$320K base + equity). The equity differential — pre-IPO at $4.5B with realistic IPO path versus public-company RSUs — is the critical negotiation axis."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat | **SIGNATURE ROLE** | **+20--35% AGENTIC AI PREMIUM**"
+---
 ### Open Source ML Platform Engineer | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat | **SIGNATURE ROLE** | **+20--35% AGENTIC AI PREMIUM**

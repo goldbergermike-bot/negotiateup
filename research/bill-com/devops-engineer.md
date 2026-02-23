@@ -1,3 +1,53 @@
+---
+company: bill-com
+company_display: Bill.com
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 155000
+    base_high: 200000
+    stock_low: 90000
+    stock_high: 180000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 259000
+    total_comp_high: 408000
+    currency: USD
+  - region: Houston TX
+    base_low: 135000
+    base_high: 175000
+    stock_low: 70000
+    stock_high: 145000
+    bonus_low: 12000
+    bonus_high: 23000
+    total_comp_low: 217000
+    total_comp_high: 343000
+    currency: USD
+  - region: Salt Lake City UT
+    base_low: 128000
+    base_high: 168000
+    stock_low: 65000
+    stock_high: 135000
+    bonus_low: 11000
+    bonus_high: 21000
+    total_comp_low: 204000
+    total_comp_high: 324000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| BILL | Google | Meta | Stripe | PayPal | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: BILL` `Agentic AP` `DevOps Engineer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Platform Reliability` `Infrastructure`"
+---
 ### DevOps Engineer | Bill.com Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: BILL` `Agentic AP` `DevOps Engineer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Platform Reliability` `Infrastructure`

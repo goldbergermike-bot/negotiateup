@@ -1,3 +1,52 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 68000
+    base_high: 92000
+    stock_low: 72000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 86000
+    total_comp_high: 127000
+    currency: EUR
+  - region: New York
+    base_low: 162000
+    base_high: 205000
+    stock_low: 120000
+    stock_high: 222000
+    bonus_pct: null
+    total_comp_low: 192000
+    total_comp_high: 261000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "HF Solutions Architect = Google Cloud Solutions Architect L4 (Paris) = AWS Solutions Architect (Paris/NYC) = Databricks Solutions Architect = Datadog Paris Solutions Engineer. Paris SA bands (€68K–€92K) compete with Google Cloud Paris SA (€75K–€105K base + RSUs) and AWS Paris SA (€70K–€95K base). HF SAs have a unique advantage: they represent the dominant open-source ML platform, giving them credibility with technical buyers that proprietary vendors lack."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat"
+---
 ### Solutions Architect | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat

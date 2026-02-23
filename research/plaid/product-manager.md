@@ -1,3 +1,48 @@
+---
+company: plaid
+company_display: Plaid
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 225000
+    stock_low: 155000
+    stock_high: 272000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 332000
+    currency: USD
+  - region: New York
+    base_low: 172000
+    base_high: 218000
+    stock_low: 155000
+    stock_high: 272000
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 325000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 205000
+    stock_low: 155000
+    stock_high: 272000
+    bonus_pct: 15
+    total_comp_low: 218000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Plaid PM (PM2-PM3) = Stripe PM = Square PM = Google PM (L5-L6) = Meta PM (IC5) = MX Sr PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**"
+---
 ### Product Manager | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**

@@ -1,3 +1,50 @@
+---
+company: supabase
+company_display: Supabase
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 190000
+    base_high: 250000
+    stock_low: 180000
+    stock_high: 370000
+    bonus_pct: 5
+    total_comp_low: 280000
+    total_comp_high: 425000
+    currency: USD
+  - region: Remote US
+    base_low: 180000
+    base_high: 240000
+    stock_low: 180000
+    stock_high: 370000
+    bonus_pct: 5
+    total_comp_low: 268000
+    total_comp_high: 410000
+    currency: USD
+  - region: London
+    base_low: 145000
+    base_high: 190000
+    stock_low: 137000
+    stock_high: 281000
+    bonus_pct: 5
+    total_comp_low: 213000
+    total_comp_high: 323000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Supabase ML/AI Engineer = Google L4-L5 ML Engineer = Meta E4-E5 ML Engineer = Pinecone ML Engineer = Weaviate ML Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "AI-Premium Base + Meaningful Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: Postgres-Native AI & Vector Intelligence"
+---
 ### ML/AI Engineer | Supabase Global Negotiation Guide
 
 **Negotiation DNA:** AI-Premium Base + Meaningful Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: Postgres-Native AI & Vector Intelligence

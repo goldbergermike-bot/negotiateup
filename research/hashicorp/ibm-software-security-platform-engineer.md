@@ -1,3 +1,47 @@
+---
+company: hashicorp
+company_display: HashiCorp
+role: ibm-software-security-platform-engineer
+role_display: IBM Software Security Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 410000
+    currency: USD
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 158000
+    total_comp_high: 375000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "The IBM Software Security Platform Engineer is the apex role at HashiCorp — the engineer who architects and delivers the unified Security by Default platform spanning Vault, Terraform, and the entire IBM Software division. This role commands the highest premiums in IBM's infrastructure portfolio."
+---
 ### IBM Software Security Platform Engineer — HashiCorp (IBM) Salary Negotiation Guide
 
 **Negotiation DNA**: The IBM Software Security Platform Engineer is the apex role at HashiCorp — the engineer who architects and delivers the unified Security by Default platform spanning Vault, Terraform, and the entire IBM Software division. This role commands the highest premiums in IBM's infrastructure portfolio.

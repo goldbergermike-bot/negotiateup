@@ -1,3 +1,30 @@
+---
+company: cruise
+company_display: Cruise
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 175000
+    base_high: 235000
+    stock_low: 140000
+    stock_high: 370000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 425000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cruise Senior Software Engineer = Google L4 = Meta E4 = Waymo Senior SWE = Tesla Senior SWE = Apple ICT3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "GM Subsidiary Comp | Competitive Bay Area RSUs | Autonomous Vehicle Pioneer | San Francisco Premium"
+---
 ### Senior Software Engineer | Cruise Global Negotiation Guide
 
 **Negotiation DNA:** GM Subsidiary Comp | Competitive Bay Area RSUs | Autonomous Vehicle Pioneer | San Francisco Premium

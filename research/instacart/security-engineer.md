@@ -1,3 +1,48 @@
+---
+company: instacart
+company_display: Instacart
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 285000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 195000
+    stock_low: 65000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 278000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 180000
+    stock_low: 58000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Instacart Security Engineer = Google Security Engineer L4–L5 = Meta Security Engineer IC4–IC5 = DoorDash Security Engineer = Uber Security Engineer = Amazon Security Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU Equity + Bonus | Instant Commerce & Grocery Tech | 4x Engineering Velocity | Post-IPO Growth | Security & Compliance Premium"
+---
 ### Security Engineer | Instacart Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU Equity + Bonus | Instant Commerce & Grocery Tech | 4x Engineering Velocity | Post-IPO Growth | Security & Compliance Premium

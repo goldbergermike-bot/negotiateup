@@ -1,3 +1,49 @@
+---
+company: comcast
+company_display: Comcast
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / NYC
+    base_low: 140000
+    base_high: 200000
+    stock_low: 45000
+    stock_high: 145000
+    bonus_pct: 12
+    total_comp_low: 175000
+    total_comp_high: 290000
+    currency: USD
+  - region: Denver / Seattle
+    base_low: 135000
+    base_high: 195000
+    stock_low: 40000
+    stock_high: 135000
+    bonus_pct: 12
+    total_comp_low: 165000
+    total_comp_high: 275000
+    currency: USD
+  - region: London (UK)
+    base_low: 105000
+    base_high: 148000
+    stock_low: 30000
+    stock_high: 100000
+    bonus_pct: 12
+    total_comp_low: 130000
+    total_comp_high: 215000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Comcast Security Engineer (T3-T5) = Google L3-L5 Security Engineer = Meta E3-E5 Security Engineer = Amazon Security Engineer II-III = Microsoft 60-64
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$170B Media-Tech Conglomerate | Critical Infrastructure Protection | Consumer Data + Network Security"
+---
 ### Security Engineer | Comcast Global Negotiation Guide
 
 **Negotiation DNA:** $170B Media-Tech Conglomerate | Critical Infrastructure Protection | Consumer Data + Network Security

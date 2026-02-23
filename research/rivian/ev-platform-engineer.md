@@ -1,3 +1,39 @@
+---
+company: rivian
+company_display: Rivian
+role: ev-platform-engineer
+role_display: EV Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine (HQ)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 385000
+    currency: USD
+  - region: Palo Alto
+    base_low: 160000
+    base_high: 220000
+    stock_low: 130000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 230000
+    total_comp_high: 400000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rivian EV Platform Engineer (Senior) = Tesla Vehicle Software Engineer = Lucid Powertrain Engineer = Google L4 Embedded = Waymo Vehicle SW Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage EV Comp | Large Equity Grants (RIVN) | **SIGNATURE ROLE** | **+10-15% EV PLATFORM PREMIUM** | Mission-Driven Culture"
+---
 ### EV Platform Engineer | Rivian Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage EV Comp | Large Equity Grants (RIVN) | **SIGNATURE ROLE** | **+10-15% EV PLATFORM PREMIUM** | Mission-Driven Culture

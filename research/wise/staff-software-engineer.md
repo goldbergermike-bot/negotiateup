@@ -1,3 +1,49 @@
+---
+company: wise
+company_display: Wise
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 100000
+    base_high: 140000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 300000
+    currency: GBP
+  - region: Tallinn (EUR)
+    base_low: 78000
+    base_high: 110000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 138000
+    total_comp_high: 230000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 135000
+    base_high: 185000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 365000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a staff-level engineering compensation framework spanning London, Tallinn, and Singapore markets. As a Staff Software Engineer at Wise, you are a principal architect of the Platform Integrity systems that define Wise's competitive moat — the transparent, reliable, mid-market infrastructure that powers both the consumer product and the Wise Pl"
+---
 ### Staff Software Engineer — Wise Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a staff-level engineering compensation framework spanning London, Tallinn, and Singapore markets. As a Staff Software Engineer at Wise, you are a principal architect of the Platform Integrity systems that define Wise's competitive moat — the transparent, reliable, mid-market infrastructure that powers both the consumer product and the Wise Platform API.

@@ -1,3 +1,40 @@
+---
+company: alteryx
+company_display: Alteryx
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine HQ
+    base_low: 150000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 290000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 190000
+    stock_low: 45000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Alteryx Senior Security Eng = Dataiku Security Eng = Tableau Security Eng = Salesforce Security Eng
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium"
+---
 ### Security Engineer | Alteryx Global Negotiation Guide
 
 **Negotiation DNA:** Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium

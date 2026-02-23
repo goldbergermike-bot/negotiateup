@@ -1,3 +1,48 @@
+---
+company: databricks-unity
+company_display: Databricks Unity
+role: unity-catalog-platform-engineer
+role_display: Unity Catalog Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 248000
+    base_high: 312000
+    stock_low: 348000
+    stock_high: 612000
+    bonus_pct: 15
+    total_comp_low: 405000
+    total_comp_high: 572000
+    currency: USD
+  - region: New York
+    base_low: 255000
+    base_high: 318000
+    stock_low: 348000
+    stock_high: 612000
+    bonus_pct: 15
+    total_comp_low: 412000
+    total_comp_high: 578000
+    currency: USD
+  - region: London
+    base_low: 168000
+    base_high: 215000
+    stock_low: 232000
+    stock_high: 408000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 395000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Databricks Unity Catalog Platform Eng = Snowflake Core Platform = Google Infrastructure L5-L6 = Meta Infrastructure E5-E6 = Amazon Core Platform L6-L7 = Microsoft Core Platform 63-65
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "SIGNATURE ROLE | Pre-IPO Equity Play | +25-35% Unity Catalog Premium | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Unity Catalog Platform Engineer | Databricks Unity Global Negotiation Guide
 
 **Negotiation DNA:** SIGNATURE ROLE | Pre-IPO Equity Play | +25-35% Unity Catalog Premium | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**

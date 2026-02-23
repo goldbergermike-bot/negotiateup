@@ -1,3 +1,50 @@
+---
+company: figma
+company_display: Figma
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 240000
+    stock_low: 220000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 310000
+    total_comp_high: 460000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 240000
+    stock_low: 220000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 310000
+    total_comp_high: 460000
+    currency: USD
+  - region: London
+    base_low: 141000
+    base_high: 183000
+    stock_low: 167000
+    stock_high: 304000
+    bonus_pct: 10
+    total_comp_low: 236000
+    total_comp_high: 350000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Figma PM = Google L5 PM = Meta IC5 PM = Adobe Senior PM = Canva Product Manager
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strategy-Premium Base + Strong Equity | Design Platform Pioneer | 2026 Focus: AI-Native Design Product Strategy"
+---
 ### Product Manager | Figma Global Negotiation Guide
 
 **Negotiation DNA:** Strategy-Premium Base + Strong Equity | Design Platform Pioneer | 2026 Focus: AI-Native Design Product Strategy

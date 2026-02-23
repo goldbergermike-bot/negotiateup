@@ -1,3 +1,67 @@
+---
+company: docusign
+company_display: Docusign
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 170000
+    base_high: 235000
+    stock_low: 95000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 345000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 150000
+    base_high: 210000
+    stock_low: 70000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 300000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 80000
+    base_high: 122000
+    stock_low: 38000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 110000
+    total_comp_high: 182000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2800000
+    base_high: 5200000
+    stock_low: 1500000
+    stock_high: 3800000
+    bonus_pct: 10
+    total_comp_low: 3800000
+    total_comp_high: 7000000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 135000
+    base_high: 192000
+    stock_low: 55000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign IC3/IC4 (ML) ~ Salesforce MLE Senior/Lead | Adobe ML Senior/Staff | Google L5/L6 MLE | Microsoft 63/64 AI"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Document AI & agreement intelligence specialist | NLP & ML for contract understanding | **AI/ML PREMIUM**"
+---
 ### ML/AI Engineer | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** Document AI & agreement intelligence specialist | NLP & ML for contract understanding | **AI/ML PREMIUM**

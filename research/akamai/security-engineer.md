@@ -1,3 +1,50 @@
+---
+company: akamai
+company_display: Akamai
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge (MA)
+    base_low: 155000
+    base_high: 190000
+    stock_low: 70000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 275000
+    currency: USD
+  - region: San Francisco
+    base_low: 165000
+    base_high: 200000
+    stock_low: 75000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 178000
+    stock_low: 60000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 260000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Akamai Security Engineer = Google Security Engineer L4–L5 / Meta Security Engineer (IC4–IC5) / CrowdStrike Engineer (L5–L6)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Security Domain Premium"
+---
 ### Security Engineer | Akamai Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Security Domain Premium

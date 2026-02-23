@@ -1,3 +1,48 @@
+---
+company: booking
+company_display: Booking
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 95000
+    base_high: 128000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 225000
+    currency: EUR
+  - region: New York
+    base_low: 185000
+    base_high: 248000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 258000
+    total_comp_high: 358000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 118000
+    stock_low: 80000
+    stock_high: 130000
+    bonus_pct: 15
+    total_comp_low: 142000
+    total_comp_high: 208000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Booking.com Senior Software Engineer = Google L5 = Expedia SDE III = Airbnb Senior Software Engineer = Meta E5 = Amazon SDE III
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions"
+---
 ### Senior Software Engineer | Booking.com Global Negotiation Guide
 
 **Negotiation DNA:** Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions

@@ -1,3 +1,53 @@
+---
+company: global-payments
+company_display: Global Payments
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 130000
+    base_high: 175000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 14000
+    bonus_high: 26000
+    total_comp_low: 204000
+    total_comp_high: 321000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 200000
+    stock_low: 75000
+    stock_high: 155000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 243000
+    total_comp_high: 387000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 118000
+    stock_low: 40000
+    stock_high: 82000
+    bonus_low: 9000
+    bonus_high: 17000
+    total_comp_low: 134000
+    total_comp_high: 217000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Global Payments | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Infrastructure` `Platform Reliability`"
+---
 ### DevOps Engineer | Global Payments Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Infrastructure` `Platform Reliability`

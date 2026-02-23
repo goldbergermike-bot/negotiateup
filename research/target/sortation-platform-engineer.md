@@ -1,3 +1,39 @@
+---
+company: target
+company_display: Target
+role: sortation-platform-engineer
+role_display: Sortation Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 130000
+    base_high: 182000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 258000
+    currency: USD
+  - region: Bay Area / India
+    base_low: 140000
+    base_high: 195000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target Sortation Platform Engineer (Senior) = Amazon Fulfillment SWE = Google L4 = Walmart Supply Chain SWE = Meta E4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | **SIGNATURE ROLE** | **+5-10% SUPPLY CHAIN PREMIUM** | Minneapolis Advantage"
+---
 ### Sortation Platform Engineer | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | **SIGNATURE ROLE** | **+5-10% SUPPLY CHAIN PREMIUM** | Minneapolis Advantage

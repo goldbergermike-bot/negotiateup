@@ -1,3 +1,54 @@
+---
+company: blackrock
+company_display: Blackrock
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_low: 42000
+    bonus_high: 68000
+    total_comp_low: 215000
+    total_comp_high: 302000
+    currency: USD
+  - region: San Francisco
+    base_low: 175000
+    base_high: 227000
+    stock_low: null
+    stock_high: null
+    bonus_low: 45000
+    bonus_high: 72000
+    total_comp_low: 227000
+    total_comp_high: 318000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 153000
+    stock_low: 137000
+    stock_high: 242000
+    bonus_low: 30000
+    bonus_high: 48000
+    total_comp_low: 285000
+    total_comp_high: 443000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "`$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `DevOps Engineer` `IC Track` `VP-Level`"
+---
 ### DevOps Engineer | BlackRock Global Negotiation Guide
 
 **Negotiation DNA:** `$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `DevOps Engineer` `IC Track` `VP-Level`

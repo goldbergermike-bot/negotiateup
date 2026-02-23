@@ -1,3 +1,40 @@
+---
+company: launchdarkly
+company_display: LaunchDarkly
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland HQ
+    base_low: 200000
+    base_high: 250000
+    stock_low: 140000
+    stock_high: 320000
+    bonus_pct: null
+    total_comp_low: 290000
+    total_comp_high: 430000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 235000
+    stock_low: 120000
+    stock_high: 290000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 400000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: LaunchDarkly Staff SWE = GitLab Staff SWE = Google L5 = Datadog Staff SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($3B Valuation) | Feature Management Platform | Category Creator | Liquidity Risk"
+---
 ### Staff Software Engineer | LaunchDarkly Global Negotiation Guide
 
 **Negotiation DNA:** Private ($3B Valuation) | Feature Management Platform | Category Creator | Liquidity Risk

@@ -1,3 +1,48 @@
+---
+company: uber
+company_display: Uber
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 210000
+    stock_low: 138000
+    stock_high: 238000
+    bonus_pct: 10
+    total_comp_low: 204000
+    total_comp_high: 278000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 218000
+    stock_low: 138000
+    stock_high: 238000
+    bonus_pct: 10
+    total_comp_low: 211000
+    total_comp_high: 288000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 138000
+    stock_low: 72000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 178000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Uber Product Designer = Google L4 UX = Lyft Designer = DoorDash Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)"
+---
 ### Product Designer | Uber Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)

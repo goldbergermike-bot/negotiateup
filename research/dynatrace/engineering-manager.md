@@ -1,3 +1,48 @@
+---
+company: dynatrace
+company_display: Dynatrace
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Waltham MA
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 420000
+    currency: USD
+  - region: Detroit
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 380000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Engineering Manager | Dynatrace (NYSE: DT) | Davis AI Autonomous Remediation | $100M Log Consumption | RSU/4yr Vesting | Waltham MA + Detroit + London"
+---
 ### Engineering Manager | Dynatrace Global Negotiation Guide
 
 **Negotiation DNA**: Engineering Manager | Dynatrace (NYSE: DT) | Davis AI Autonomous Remediation | $100M Log Consumption | RSU/4yr Vesting | Waltham MA + Detroit + London

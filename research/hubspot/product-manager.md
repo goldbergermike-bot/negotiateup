@@ -1,3 +1,49 @@
+---
+company: hubspot
+company_display: Hubspot
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Cambridge, MA (HQ)"
+    base_low: 155000
+    base_high: 195000
+    stock_low: 140000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 258000
+    currency: USD
+  - region: "Dublin, Ireland"
+    base_low: 93000
+    base_high: 127000
+    stock_low: 77000
+    stock_high: 141000
+    bonus_pct: 10
+    total_comp_low: 117000
+    total_comp_high: 168000
+    currency: EUR
+  - region: "London, UK"
+    base_low: 101000
+    base_high: 137000
+    stock_low: 84000
+    stock_high: 153000
+    bonus_pct: 10
+    total_comp_low: 127000
+    total_comp_high: 181000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Balanced Comp (Base + RSU + 10-15% Bonus) | \"Grow Better\" Remote-First Culture | Breeze AI Copilot Integration | M&A Optionality"
+---
 ### Product Manager | HubSpot Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp (Base + RSU + 10-15% Bonus) | "Grow Better" Remote-First Culture | Breeze AI Copilot Integration | M&A Optionality

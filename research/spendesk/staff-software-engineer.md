@@ -1,3 +1,53 @@
+---
+company: spendesk
+company_display: Spendesk
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 85000
+    base_high: 120000
+    stock_low: 60000
+    stock_high: 140000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 155000
+    total_comp_high: 280000
+    currency: EUR
+  - region: London
+    base_low: 88000
+    base_high: 125000
+    stock_low: 50000
+    stock_high: 120000
+    bonus_low: 10000
+    bonus_high: 22000
+    total_comp_low: 148000
+    total_comp_high: 267000
+    currency: GBP
+  - region: Berlin
+    base_low: 88000
+    base_high: 122000
+    stock_low: 55000
+    stock_high: 130000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 153000
+    total_comp_high: 270000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Spendesk | Google | Meta | Stripe | Pleo | Brex |"
+data_sources:
+  - Crunchbase
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `Staff IC` `Technical Leadership`"
+---
 ### Staff Software Engineer | Spendesk Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `Staff IC` `Technical Leadership`

@@ -1,3 +1,48 @@
+---
+company: zillow
+company_display: Zillow
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 178000
+    base_high: 238000
+    stock_low: 220000
+    stock_high: 370000
+    bonus_pct: 15
+    total_comp_low: 242000
+    total_comp_high: 338000
+    currency: USD
+  - region: San Francisco
+    base_low: 192000
+    base_high: 257000
+    stock_low: 238000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 261000
+    total_comp_high: 365000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 214000
+    stock_low: 198000
+    stock_high: 333000
+    bonus_pct: 15
+    total_comp_low: 218000
+    total_comp_high: 304000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zillow ML/AI Engineer = Google ML Engineer L5–L6 = Redfin ML Engineer = Opendoor ML Engineer = Amazon Applied Scientist L5–L6 = Meta ML Engineer E5–E6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep"
+---
 ### ML/AI Engineer | Zillow Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep

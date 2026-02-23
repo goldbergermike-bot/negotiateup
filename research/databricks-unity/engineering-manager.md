@@ -1,3 +1,48 @@
+---
+company: databricks-unity
+company_display: Databricks Unity
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 238000
+    base_high: 298000
+    stock_low: 325000
+    stock_high: 545000
+    bonus_pct: 15
+    total_comp_low: 398000
+    total_comp_high: 555000
+    currency: USD
+  - region: New York
+    base_low: 245000
+    base_high: 305000
+    stock_low: 325000
+    stock_high: 545000
+    bonus_pct: 15
+    total_comp_low: 405000
+    total_comp_high: 562000
+    currency: USD
+  - region: London
+    base_low: 162000
+    base_high: 205000
+    stock_low: 215000
+    stock_high: 362000
+    bonus_pct: 15
+    total_comp_low: 272000
+    total_comp_high: 378000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Databricks EM (M1-M2) = Snowflake EM = Google EM L6 = Meta EM M1 = Amazon L7 Manager = Microsoft 66 Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Engineering Manager | Databricks Unity Global Negotiation Guide
 
 **Negotiation DNA:** Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**

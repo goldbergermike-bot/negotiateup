@@ -1,3 +1,39 @@
+---
+company: recorded-future
+company_display: Recorded Future
+role: intelligence-graph-engineer
+role_display: Intelligence Graph Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Somerville/Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 358000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 338000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Intelligence Graph Engineers at Recorded Future build and scale the intelligence graph — the massive knowledge graph connecting threat actors, malware, vulnerabilities, infrastructure, and targets — that powers the world's largest threat intelligence platform and serves as the analytical foundation for AI-driven intelligence delivery."
+---
 ### Intelligence Graph Engineer — Recorded Future Salary Negotiation Guide
 
 **Negotiation DNA**: Intelligence Graph Engineers at Recorded Future build and scale the intelligence graph — the massive knowledge graph connecting threat actors, malware, vulnerabilities, infrastructure, and targets — that powers the world's largest threat intelligence platform and serves as the analytical foundation for AI-driven intelligence delivery.

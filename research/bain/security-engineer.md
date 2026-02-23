@@ -1,3 +1,48 @@
+---
+company: bain
+company_display: Bain
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 165000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 206000
+    total_comp_high: 297000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 213000
+    total_comp_high: 305000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 145000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 138000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Bain Security Engineer = Google L4 Security = Amazon Security Engineer II = CrowdStrike Senior SecEng
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (25-45%) | No Equity | PE Data Confidentiality Critical"
+---
 ### Security Engineer | Bain Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (25-45%) | No Equity | PE Data Confidentiality Critical

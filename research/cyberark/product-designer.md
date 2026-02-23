@@ -1,3 +1,45 @@
+---
+company: cyberark
+company_display: Cyberark
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newton MA
+    base_low: 125000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 25000
+    total_comp_low: 200000
+    total_comp_high: 305000
+    currency: USD
+  - region: London
+    base_low: 68000
+    base_high: 95000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 8000
+    signing_bonus_high: 18000
+    total_comp_low: 120000
+    total_comp_high: 193000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Product Designer at CyberArk maps to D3–D4 in the Palo Alto Networks design organization, mid-to-senior IC designer within the Identity Security product design team."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London"
+---
 ### Product Designer | CyberArk Global Negotiation Guide
 
 **Negotiation DNA:** CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London

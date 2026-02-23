@@ -1,3 +1,55 @@
+---
+company: tenable
+company_display: Tenable
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Columbia MD
+    base_low: 160000
+    base_high: 210000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: 12
+    signing_bonus_low: 18000
+    signing_bonus_high: 40000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Austin
+    base_low: 155000
+    base_high: 205000
+    stock_low: 95000
+    stock_high: 190000
+    bonus_pct: 12
+    signing_bonus_low: 18000
+    signing_bonus_high: 40000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 135000
+    stock_low: 65000
+    stock_high: 125000
+    bonus_pct: 12
+    signing_bonus_low: 10000
+    signing_bonus_high: 24000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Tenable maps to IC3–IC4 Applied ML Engineer at peer cybersecurity companies (CrowdStrike ML Engineer, Palo Alto Networks Applied AI Engineer) and L5 ML Engineer at FAANG-tier companies (Google Brain, Meta FAIR)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London"
+---
 ### ML/AI Engineer | Tenable Global Negotiation Guide
 
 **Negotiation DNA:** Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London

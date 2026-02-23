@@ -1,3 +1,48 @@
+---
+company: ping-identity
+company_display: Ping Identity
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver
+    base_low: 162000
+    base_high: 205000
+    stock_low: 52000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 275000
+    currency: USD
+  - region: Austin
+    base_low: 155000
+    base_high: 198000
+    stock_low: 52000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: USD
+  - region: Remote US
+    base_low: 152000
+    base_high: 192000
+    stock_low: 52000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ping Identity DS (IC3-IC4) = Okta DS = CyberArk DS = SailPoint DS = ForgeRock DS = Microsoft Identity DS (L61-L63)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY ANALYTICS BONUS**"
+---
 ### Data Scientist | Ping Identity Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY ANALYTICS BONUS**

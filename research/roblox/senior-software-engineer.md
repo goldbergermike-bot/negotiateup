@@ -1,3 +1,48 @@
+---
+company: roblox
+company_display: Roblox
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo
+    base_low: 190000
+    base_high: 245000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 342000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 240000
+    stock_low: 170000
+    stock_high: 305000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 330000
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 225000
+    stock_low: 155000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Roblox Senior Software Engineer (IC4) = Google L5 = Meta E5 = Amazon SDE III = Apple ICT4 = Microsoft 63
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**"
+---
 ### Senior Software Engineer | Roblox Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: intel
+company_display: Intel
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 118000
+    base_high: 155000
+    stock_low: 40000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+  - region: Portland
+    base_low: 110000
+    base_high: 145000
+    stock_low: 35000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 142000
+    total_comp_high: 198000
+    currency: USD
+  - region: Phoenix
+    base_low: 102000
+    base_high: 135000
+    stock_low: 30000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 182000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Intel Product Designer (Grade 7-8) = AMD Product Designer = NVIDIA Product Designer = Google L4 UX Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + INTC RSUs (4yr vest) + Bonus (10-15%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages"
+---
 ### Product Designer | Intel Global Negotiation Guide
 
 **Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (10-15%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages

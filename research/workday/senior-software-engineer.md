@@ -1,3 +1,48 @@
+---
+company: workday
+company_display: Workday
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pleasanton
+    base_low: 188000
+    base_high: 228000
+    stock_low: 195000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 328000
+    currency: USD
+  - region: Dublin
+    base_low: 115000
+    base_high: 145000
+    stock_low: 107000
+    stock_high: 192000
+    bonus_pct: 15
+    total_comp_low: 152000
+    total_comp_high: 205000
+    currency: EUR
+  - region: London
+    base_low: 125000
+    base_high: 158000
+    stock_low: 117000
+    stock_high: 208000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 222000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Workday Senior SWE (P3) = Google L4 = Meta E4 = Salesforce Senior MTS = Snowflake Senior SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity"
+---
 ### Senior Software Engineer | Workday Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity

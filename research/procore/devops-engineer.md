@@ -1,3 +1,39 @@
+---
+company: procore
+company_display: Procore
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Carpinteria / Bay Area
+    base_low: 148000
+    base_high: 205000
+    stock_low: 62000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 305000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 192000
+    stock_low: 52000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Procore DevOps (IC2-IC3) = Autodesk Construction DevOps = Google L3-L4 SRE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Construction Management Platform | ~$12B Market Cap (Public: PCOR) | Carpinteria CA | **CONSTRUCTION RELIABILITY PREMIUM**"
+---
 ### DevOps Engineer | Procore Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Construction Management Platform | ~$12B Market Cap (Public: PCOR) | Carpinteria CA | **CONSTRUCTION RELIABILITY PREMIUM**

@@ -1,3 +1,43 @@
+---
+company: bridgewater-associates
+company_display: Bridgewater Associates
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westport, CT (HQ)"
+    base_low: 160000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_low: 80000
+    bonus_high: 220000
+    total_comp_low: 240000
+    total_comp_high: 440000
+    currency: USD
+  - region: New York City
+    base_low: 168000
+    base_high: 230000
+    stock_low: null
+    stock_high: null
+    bonus_low: 84000
+    bonus_high: 230000
+    total_comp_low: 252000
+    total_comp_high: 460000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Software Engineer at Bridgewater = L4 at Google, E4 at Meta, SDE II at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Technology powering systematic investment strategies | Private partnership with no public equity — comp is base + discretionary bonus | **ELITE HEDGE FUND PREMIUM**"
+---
 ### Software Engineer | Bridgewater Associates Global Negotiation Guide
 
 **Negotiation DNA:** ~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Technology powering systematic investment strategies | Private partnership with no public equity — comp is base + discretionary bonus | **ELITE HEDGE FUND PREMIUM**

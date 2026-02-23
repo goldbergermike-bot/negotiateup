@@ -1,3 +1,48 @@
+---
+company: broadcom
+company_display: Broadcom
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose (USD)
+    base_low: 155000
+    base_high: 205000
+    stock_low: 150000
+    stock_high: 275000
+    bonus_pct: 15
+    total_comp_low: 202000
+    total_comp_high: 298000
+    currency: USD
+  - region: Singapore (SGD S$)
+    base_low: 128000
+    base_high: 170000
+    stock_low: 122000
+    stock_high: 225000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 248000
+    currency: SGD
+  - region: London (GBP £)
+    base_low: 95000
+    base_high: 135000
+    stock_low: 90000
+    stock_high: 168000
+    bonus_pct: 15
+    total_comp_low: 122000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Broadcom Solutions Architect = VMware Principal Systems Engineer = Google L5 Customer Engineer = AWS Senior Solutions Architect
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp"
+---
 ### Solutions Architect | Broadcom Global Negotiation Guide
 
 **Negotiation DNA:** Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp

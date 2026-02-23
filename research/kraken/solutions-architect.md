@@ -1,3 +1,51 @@
+---
+company: kraken
+company_display: Kraken
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 232000
+    stock_low: 245000
+    stock_high: 420000
+    bonus_low: 25000
+    bonus_high: 42000
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 228000
+    stock_low: 235000
+    stock_high: 405000
+    bonus_low: 24000
+    bonus_high: 40000
+    total_comp_low: 250000
+    total_comp_high: 352000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 212000
+    stock_low: 218000
+    stock_high: 375000
+    bonus_low: 20000
+    bonus_high: 36000
+    total_comp_low: 218000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Architecture Track | Client-Facing"
+---
 ### Solutions Architect | Kraken Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Architecture Track | Client-Facing

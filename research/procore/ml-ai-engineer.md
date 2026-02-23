@@ -1,3 +1,39 @@
+---
+company: procore
+company_display: Procore
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Carpinteria / Bay Area
+    base_low: 158000
+    base_high: 218000
+    stock_low: 78000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 338000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 205000
+    stock_low: 65000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 312000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Procore ML/AI (IC2-IC4) = Autodesk Construction ML = Google L3-L5 ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Construction Management Platform | ~$12B Market Cap (Public: PCOR) | Carpinteria CA | **CONSTRUCTION AI PREMIUM**"
+---
 ### ML/AI Engineer | Procore Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Construction Management Platform | ~$12B Market Cap (Public: PCOR) | Carpinteria CA | **CONSTRUCTION AI PREMIUM**

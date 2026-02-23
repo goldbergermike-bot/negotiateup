@@ -1,3 +1,49 @@
+---
+company: bain
+company_display: Bain
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 210000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 273000
+    total_comp_high: 383000
+    currency: USD
+  - region: New York
+    base_low: 215000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 280000
+    total_comp_high: 398000
+    currency: USD
+  - region: London
+    base_low: 140000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 182000
+    total_comp_high: 270000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Bain Staff Software Engineer = Google L6-L7 = Meta E6-E7 = Amazon Principal SDE
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (30-50%) | No Equity | Principal-Level Technical Authority"
+---
 ### Staff Software Engineer | Bain Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (30-50%) | No Equity | Principal-Level Technical Authority

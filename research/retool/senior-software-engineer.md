@@ -1,3 +1,48 @@
+---
+company: retool
+company_display: Retool
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 235000
+    stock_low: 185000
+    stock_high: 330000
+    bonus_pct: 10
+    total_comp_low: 270000
+    total_comp_high: 380000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 230000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: 122000
+    base_high: 155000
+    stock_low: 120000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 250000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Retool SSE (L4-L5) = Google SWE L5-L6 = Meta SWE E5-E6 = Vercel SSE = Supabase SSE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI-Powered Internal Tools Platform | 30K+ Companies | **RETOOL AI PREMIUM**"
+---
 ### Senior Software Engineer | Retool Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI-Powered Internal Tools Platform | 30K+ Companies | **RETOOL AI PREMIUM**

@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: compliance-platform-engineer
+role_display: Compliance Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 130000
+    base_high: 180000
+    stock_low: 40000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 235000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 145000
+    base_high: 198000
+    stock_low: 50000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 265000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 62000
+    base_high: 95000
+    stock_low: 18000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 75000
+    total_comp_high: 122000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 110000
+    base_high: 155000
+    stock_low: 30000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 198000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 1800000
+    base_high: 3500000
+    stock_low: 800000
+    stock_high: 2200000
+    bonus_pct: 10
+    total_comp_low: 2400000
+    total_comp_high: 4500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva IC3/IC4 ~ Intuit Senior/Staff | ServiceNow Senior/Staff | Oracle Senior/Principal | Google L4/L5"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GRC & regulatory compliance platform specialist | Connected reporting & ESG data automation | **COMPLIANCE TECH PREMIUM**"
+---
 ### Compliance Platform Engineer | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** GRC & regulatory compliance platform specialist | Connected reporting & ESG data automation | **COMPLIANCE TECH PREMIUM**

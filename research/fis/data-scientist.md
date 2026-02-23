@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 135000
+    base_high: 175000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 16000
+    bonus_high: 28000
+    total_comp_low: 211000
+    total_comp_high: 333000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 180000
+    bonus_low: 22000
+    bonus_high: 36000
+    total_comp_low: 262000
+    total_comp_high: 421000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 125000
+    stock_low: 45000
+    stock_high: 95000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 147000
+    total_comp_high: 242000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Data & Analytics` `IC Track`"
+---
 ### Data Scientist | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Data & Analytics` `IC Track`

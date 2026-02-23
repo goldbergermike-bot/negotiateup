@@ -1,3 +1,48 @@
+---
+company: mercury
+company_display: Mercury
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 162000
+    base_high: 205000
+    stock_low: 145000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 285000
+    currency: USD
+  - region: New York
+    base_low: 158000
+    base_high: 200000
+    stock_low: 140000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 278000
+    currency: USD
+  - region: Remote (US)
+    base_low: 148000
+    base_high: 188000
+    stock_low: 125000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Mercury TPM = Google L4-L5 TPM = Meta TPM IC4-5 = Stripe Program Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure"
+---
 ### Technical Program Manager | Mercury Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure

@@ -1,3 +1,53 @@
+---
+company: paypal
+company_display: Paypal
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 165000
+    base_high: 230000
+    stock_low: 130000
+    stock_high: 260000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 315000
+    total_comp_high: 530000
+    currency: USD
+  - region: New York NY
+    base_low: 160000
+    base_high: 225000
+    stock_low: 125000
+    stock_high: 250000
+    bonus_low: 18000
+    bonus_high: 38000
+    total_comp_low: 303000
+    total_comp_high: 513000
+    currency: USD
+  - region: London UK
+    base_low: 95000
+    base_high: 140000
+    stock_low: 65000
+    stock_high: 130000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 172000
+    total_comp_high: 295000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| PayPal | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: PYPL` `Technical Program Manager` `TPM` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Cross-Functional Delivery` `Payments Programs` `Venmo` `PYUSD`"
+---
 ### Technical Program Manager | PayPal Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: PYPL` `Technical Program Manager` `TPM` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Cross-Functional Delivery` `Payments Programs` `Venmo` `PYUSD`

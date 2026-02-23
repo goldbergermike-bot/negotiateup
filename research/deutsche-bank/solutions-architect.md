@@ -1,3 +1,49 @@
+---
+company: deutsche-bank
+company_display: Deutsche Bank
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 152000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 205000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 152000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 142000
+    total_comp_high: 242000
+    currency: GBP
+  - region: Frankfurt (HQ)
+    base_low: 92000
+    base_high: 138000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 125000
+    total_comp_high: 215000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at DB (SVP/Director) = L5-L6 at Google, E5-E6 at Meta, Principal SA at Amazon, SVP/Director at BofA, SVP/ED at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "EUR30B market cap European bank + Architecture across EU/US/Asia banking operations + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB SAs design international banking architectures | **INTERNATIONAL ARCHITECTURE PREMIUM**"
+---
 ### Solutions Architect | Deutsche Bank Global Negotiation Guide
 
 **Negotiation DNA:** EUR30B market cap European bank + Architecture across EU/US/Asia banking operations + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB SAs design international banking architectures | **INTERNATIONAL ARCHITECTURE PREMIUM**

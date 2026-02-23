@@ -1,3 +1,39 @@
+---
+company: compass
+company_display: Compass
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 152000
+    base_high: 210000
+    stock_low: 58000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 305000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 198000
+    stock_low: 48000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Compass ML/AI (IC2-IC4) = Zillow ML/AI = Redfin ML = Opendoor ML = Google L3-L5 ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **REAL ESTATE ML PREMIUM**"
+---
 ### ML/AI Engineer | Compass Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Real Estate Technology Platform | ~$4B Market Cap (Public: COMP) | NYC | **REAL ESTATE ML PREMIUM**

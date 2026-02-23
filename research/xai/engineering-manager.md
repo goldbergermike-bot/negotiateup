@@ -1,3 +1,48 @@
+---
+company: xai
+company_display: xAI
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 262000
+    base_high: 328000
+    stock_low: 535000
+    stock_high: 932000
+    bonus_pct: null
+    total_comp_low: 397000
+    total_comp_high: 561000
+    currency: USD
+  - region: Palo Alto
+    base_low: 262000
+    base_high: 328000
+    stock_low: 535000
+    stock_high: 932000
+    bonus_pct: null
+    total_comp_low: 397000
+    total_comp_high: 561000
+    currency: USD
+  - region: Remote US
+    base_low: 248000
+    base_high: 312000
+    stock_low: 535000
+    stock_high: 932000
+    bonus_pct: null
+    total_comp_low: 382000
+    total_comp_high: 545000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: xAI EM = Google L5-L6 EM = OpenAI EM = Meta M1-M2
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026)"
+---
 ### Engineering Manager | xAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026)

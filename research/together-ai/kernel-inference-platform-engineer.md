@@ -1,3 +1,48 @@
+---
+company: together-ai
+company_display: Together AI
+role: kernel-inference-platform-engineer
+role_display: Kernel Inference Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 285000
+    stock_low: 75000
+    stock_high: 125000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 388000
+    currency: USD
+  - region: Seattle
+    base_low: 204000
+    base_high: 271000
+    stock_low: 71000
+    stock_high: 119000
+    bonus_pct: 15
+    total_comp_low: 261000
+    total_comp_high: 369000
+    currency: USD
+  - region: Remote US
+    base_low: 193000
+    base_high: 256000
+    stock_low: 68000
+    stock_high: 112000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 349000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Together AI Kernel Inference Platform Engineer ≈ Google L5–L7 Systems Engineer · Meta E5–E7 Infrastructure Engineer · NVIDIA Senior/Staff CUDA Engineer · OpenAI IC3–IC5 Infrastructure · Anthropic Senior/Staff Infrastructure Engineer · AMD Senior Kernel Developer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | SIGNATURE ROLE | +25-35% Kernel Premium"
+---
 ### Kernel Inference Platform Engineer | Together AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | SIGNATURE ROLE | +25-35% Kernel Premium

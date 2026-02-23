@@ -1,3 +1,39 @@
+---
+company: anduril
+company_display: Anduril
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Costa Mesa, CA"
+    base_low: 165000
+    base_high: 220000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 380000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 165000
+    base_high: 220000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Anduril SA = AWS Senior SA = Palantir FDE -- with military systems integration and classified environment deployment
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense Integration/Lattice Deployment | High-Intensity Culture"
+---
 ### Solutions Architect | Anduril Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense Integration/Lattice Deployment | High-Intensity Culture

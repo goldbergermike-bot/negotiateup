@@ -1,3 +1,39 @@
+---
+company: render
+company_display: Render
+role: cloud-platform-engineer
+role_display: Cloud Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 168000
+    total_comp_high: 398000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 153000
+    total_comp_high: 378000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Cloud Platform Engineers at Render are the core builders of the modern PaaS — designing and implementing the container orchestration, networking, build systems, and infrastructure automation that powers Render's zero-DevOps cloud hosting experience."
+---
 ### Cloud Platform Engineer — Render Salary Negotiation Guide
 
 **Negotiation DNA**: Cloud Platform Engineers at Render are the core builders of the modern PaaS — designing and implementing the container orchestration, networking, build systems, and infrastructure automation that powers Render's zero-DevOps cloud hosting experience.

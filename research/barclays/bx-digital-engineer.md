@@ -1,3 +1,50 @@
+---
+company: barclays
+company_display: Barclays
+role: bx-digital-engineer
+role_display: BX Digital Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 155000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 215000
+    total_comp_high: 355000
+    currency: USD
+  - region: London (HQ)
+    base_low: 105000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 148000
+    total_comp_high: 255000
+    currency: GBP
+  - region: Glasgow
+    base_low: 85000
+    base_high: 125000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 115000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "BX Digital Engineer at Barclays (VP/Director) = L5-L6 at Google, E5-E6 at Meta, SDE III-Senior at Amazon, VP/SVP at BofA, VP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "GBP35B market cap UK bank + BX is Barclays' digital innovation platform + London/NYC dual hub + Competitive in quant/tech | Barclays pays premium for BX digital platform talent | **DIGITAL INNOVATION PREMIUM**"
+---
 ### BX Digital Engineer | Barclays Global Negotiation Guide
 
 **Negotiation DNA:** GBP35B market cap UK bank + BX is Barclays' digital innovation platform + London/NYC dual hub + Competitive in quant/tech | Barclays pays premium for BX digital platform talent | **DIGITAL INNOVATION PREMIUM**

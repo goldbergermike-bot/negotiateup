@@ -1,3 +1,49 @@
+---
+company: take-two-interactive
+company_display: Take-Two Interactive
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 130000
+    base_high: 185000
+    stock_low: 40000
+    stock_high: 130000
+    bonus_pct: 15
+    total_comp_low: 168000
+    total_comp_high: 262000
+    currency: USD
+  - region: San Diego (Rockstar)
+    base_low: 120000
+    base_high: 175000
+    stock_low: 35000
+    stock_high: 120000
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 245000
+    currency: USD
+  - region: Bangalore
+    base_low: 1800000
+    base_high: 3200000
+    stock_low: 800000
+    stock_high: 2000000
+    bonus_pct: 10
+    total_comp_low: 2800000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Take-Two Designer = Google L4 UX = EA Designer II = Activision Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "RSU + Premium Bonus | GTA + NBA 2K Revenue Machine"
+---
 ### Product Designer | Take-Two Interactive Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Premium Bonus | GTA + NBA 2K Revenue Machine

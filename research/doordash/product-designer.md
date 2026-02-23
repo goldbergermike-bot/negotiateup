@@ -1,3 +1,48 @@
+---
+company: doordash
+company_display: DoorDash
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 162000
+    base_high: 202000
+    stock_low: 125000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 262000
+    currency: USD
+  - region: New York City
+    base_low: 162000
+    base_high: 202000
+    stock_low: 125000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 262000
+    currency: USD
+  - region: Sydney
+    base_low: 133000
+    base_high: 166000
+    stock_low: 82000
+    stock_high: 142000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 212000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: DoorDash Product Designer = Google L4 UX = Uber Product Designer = Meta IC4 Design = Instacart Senior Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion"
+---
 ### Product Designer | DoorDash Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion

@@ -1,3 +1,48 @@
+---
+company: doordash
+company_display: DoorDash
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 218000
+    stock_low: 148000
+    stock_high: 258000
+    bonus_pct: 10
+    total_comp_low: 213000
+    total_comp_high: 288000
+    currency: USD
+  - region: New York City
+    base_low: 175000
+    base_high: 218000
+    stock_low: 148000
+    stock_high: 258000
+    bonus_pct: 10
+    total_comp_low: 213000
+    total_comp_high: 288000
+    currency: USD
+  - region: Sydney
+    base_low: 144000
+    base_high: 180000
+    stock_low: 97000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 174000
+    total_comp_high: 234000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: DoorDash TPM = Google L4 TPM = Uber TPM = Meta IC5 TPM = Amazon TPM (L5)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion"
+---
 ### Technical Program Manager | DoorDash Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion

@@ -1,3 +1,49 @@
+---
+company: zillow
+company_display: Zillow
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 145000
+    base_high: 190000
+    stock_low: 148000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 192000
+    total_comp_high: 265000
+    currency: USD
+  - region: San Francisco
+    base_low: 157000
+    base_high: 205000
+    stock_low: 160000
+    stock_high: 259000
+    bonus_pct: 15
+    total_comp_low: 207000
+    total_comp_high: 286000
+    currency: USD
+  - region: Remote US
+    base_low: 131000
+    base_high: 171000
+    stock_low: 133000
+    stock_high: 216000
+    bonus_pct: 15
+    total_comp_low: 173000
+    total_comp_high: 239000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zillow Solutions Architect = Google Solutions Architect L5–L6 = Redfin Principal Engineer = Opendoor Solutions Architect = Amazon Solutions Architect = Microsoft Solutions Architect
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep"
+---
 ### Solutions Architect | Zillow Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep

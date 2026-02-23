@@ -1,3 +1,53 @@
+---
+company: moneygram
+company_display: Moneygram
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas TX
+    base_low: 115000
+    base_high: 145000
+    stock_low: 25000
+    stock_high: 45000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 150000
+    total_comp_high: 210000
+    currency: USD
+  - region: New York
+    base_low: 130000
+    base_high: 165000
+    stock_low: 30000
+    stock_high: 55000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 172000
+    total_comp_high: 245000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 110000
+    stock_low: 18000
+    stock_high: 35000
+    bonus_low: 8000
+    bonus_high: 16000
+    total_comp_low: 111000
+    total_comp_high: 161000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| MoneyGram | Google | Meta | Stripe | Western Union | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion`"
+---
 ### Software Engineer | MoneyGram Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion`

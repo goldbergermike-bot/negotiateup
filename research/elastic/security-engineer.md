@@ -1,3 +1,48 @@
+---
+company: elastic
+company_display: Elastic
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 218000
+    stock_low: 180000
+    stock_high: 300000
+    bonus_pct: 5
+    total_comp_low: 218000
+    total_comp_high: 292000
+    currency: USD
+  - region: Amsterdam
+    base_low: 75000
+    base_high: 98000
+    stock_low: 72000
+    stock_high: 120000
+    bonus_pct: 5
+    total_comp_low: 92000
+    total_comp_high: 128000
+    currency: EUR
+  - region: Bangalore
+    base_low: 4200000
+    base_high: 6200000
+    stock_low: 3200000
+    stock_high: 5200000
+    bonus_pct: 5
+    total_comp_low: 5200000
+    total_comp_high: 8000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Elastic Senior Security Eng = Google L4 Security = CrowdStrike Senior Eng = Datadog Senior Security Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Small Bonus | \"Battle for the AI Data Layer\" | ESRE Premium | Security Product Revenue"
+---
 ### Security Engineer | Elastic Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Small Bonus | "Battle for the AI Data Layer" | ESRE Premium | Security Product Revenue

@@ -1,3 +1,48 @@
+---
+company: wise
+company_display: Wise
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 90000
+    base_high: 130000
+    stock_low: 50000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 250000
+    currency: GBP
+  - region: Tallinn (EUR)
+    base_low: 70000
+    base_high: 100000
+    stock_low: 40000
+    stock_high: 90000
+    bonus_pct: null
+    total_comp_low: 110000
+    total_comp_high: 190000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 120000
+    base_high: 170000
+    stock_low: 65000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 310000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into an engineering management compensation framework spanning London, Tallinn, and Singapore markets. As an Engineering Manager at Wise, you lead the teams that build and sustain Platform Integrity — the systems architecture, team health, and delivery excellence that power Wise's transparent cross-border infrastructure and the Wise Platform API."
+---
 ### Engineering Manager — Wise Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into an engineering management compensation framework spanning London, Tallinn, and Singapore markets. As an Engineering Manager at Wise, you lead the teams that build and sustain Platform Integrity — the systems architecture, team health, and delivery excellence that power Wise's transparent cross-border infrastructure and the Wise Platform API.

@@ -1,3 +1,52 @@
+---
+company: uber
+company_display: Uber
+role: autonomous-mobility-platform-engineer
+role_display: Autonomous Mobility Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 235000
+    base_high: 295000
+    stock_low: 312000
+    stock_high: 545000
+    bonus_pct: 15
+    total_comp_low: 318000
+    total_comp_high: 440000
+    currency: USD
+  - region: New York
+    base_low: 242000
+    base_high: 305000
+    stock_low: 312000
+    stock_high: 545000
+    bonus_pct: 15
+    total_comp_low: 328000
+    total_comp_high: 452000
+    currency: USD
+  - region: London
+    base_low: 152000
+    base_high: 195000
+    stock_low: 165000
+    stock_high: 288000
+    bonus_pct: 15
+    total_comp_low: 202000
+    total_comp_high: 285000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Uber Autonomous Mobility Platform Eng (L5-L6) = Waymo Platform Eng = Cruise Platform Eng = Google L5 Autonomous Systems = Tesla Autopilot Platform Eng
+data_sources:
+  - "Uber Autonomous Mobility Platform — London & Munich Robotaxi 2026"
+  - Dual-Mode Dispatching — Autonomous + Human Vehicle Orchestration
+  - "AV Partner Integration — Waymo, Motional Multi-Provider Platform"
+  - "AI Premium — 15-25% for Autonomous Vehicle Platform Engineering"
+  - Uber Robotaxi Rider Experience — End-to-End Autonomous Ride Design
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026) | **SIGNATURE ROLE** | **+15–25% AI PREMIUM**"
+---
 ### Autonomous Mobility Platform Engineer | Uber Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026) | **SIGNATURE ROLE** | **+15–25% AI PREMIUM**

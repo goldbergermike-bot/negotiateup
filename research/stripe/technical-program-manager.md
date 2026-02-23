@@ -1,3 +1,48 @@
+---
+company: stripe
+company_display: Stripe
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 235000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 235000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+  - region: Remote US
+    base_low: 172000
+    base_high: 218000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stripe TPM (TPM2-TPM3) = Adyen TPM = Block/Square TPM = PayPal/Braintree TPM = Checkout.com TPM = Google L4-L5 TPM Payments
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | **TRUST ORCHESTRATOR PREMIUM**"
+---
 ### Technical Program Manager | Stripe Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | **TRUST ORCHESTRATOR PREMIUM**

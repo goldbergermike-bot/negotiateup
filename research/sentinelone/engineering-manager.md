@@ -1,3 +1,38 @@
+---
+company: sentinelone
+company_display: SentinelOne
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 380000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 190000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: You lead the engineering teams that deliver the Autonomous Defense vision — your organizational decisions determine how fast Purple AI and the Singularity platform ship to market.
+---
 ### Engineering Manager — SentinelOne Salary Negotiation Guide
 
 **Negotiation DNA**: You lead the engineering teams that deliver the Autonomous Defense vision — your organizational decisions determine how fast Purple AI and the Singularity platform ship to market.

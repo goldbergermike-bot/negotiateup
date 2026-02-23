@@ -1,3 +1,48 @@
+---
+company: deloitte
+company_display: Deloitte
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 160000
+    base_high: 210000
+    stock_low: 30000
+    stock_high: 80000
+    bonus_pct: 15
+    total_comp_low: 222000
+    total_comp_high: 343000
+    currency: USD
+  - region: Chicago
+    base_low: 150000
+    base_high: 195000
+    stock_low: 25000
+    stock_high: 70000
+    bonus_pct: 15
+    total_comp_low: 204000
+    total_comp_high: 314000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 150000
+    stock_low: 15000
+    stock_high: 45000
+    bonus_pct: 15
+    total_comp_low: 142000
+    total_comp_high: 233000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Deloitte Senior Manager / Director (Tech) = Google L5-L6 = Accenture Senior Manager = PwC Director
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (15-25%) + Equity Grants | Senior Manager / Director Level"
+---
 ### Staff Software Engineer | Deloitte Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (15-25%) + Equity Grants | Senior Manager / Director Level

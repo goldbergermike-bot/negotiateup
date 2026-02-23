@@ -1,3 +1,56 @@
+---
+company: netskope
+company_display: Netskope
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 140000
+    base_high: 175000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: 10
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 175000
+    total_comp_high: 240000
+    currency: USD
+  - region: London
+    base_low: 70000
+    base_high: 90000
+    stock_low: 50000
+    stock_high: 90000
+    bonus_pct: 10
+    signing_bonus_low: 8000
+    signing_bonus_high: 15000
+    total_comp_low: 90000
+    total_comp_high: 130000
+    currency: GBP
+  - region: Bangalore
+    base_low: 2200000
+    base_high: 3200000
+    stock_low: 1500000
+    stock_high: 3000000
+    bonus_pct: 10
+    signing_bonus_low: 300000
+    signing_bonus_high: 600000
+    total_comp_low: 3000000
+    total_comp_high: 4800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Software Engineer (IC2) | Netskope Engineering Band 2 | Equivalent: Google L3, Meta E3/E4, Palo Alto Networks IC2"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Post-IPO Cloud Security | UZTNA Platform Engineering | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation"
+---
 ### Software Engineer | Netskope Global Negotiation Guide
 
 **Negotiation DNA:** Post-IPO Cloud Security | UZTNA Platform Engineering | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation

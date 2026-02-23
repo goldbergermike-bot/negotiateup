@@ -1,3 +1,50 @@
+---
+company: supabase
+company_display: Supabase
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 250000
+    bonus_pct: 5
+    total_comp_low: 220000
+    total_comp_high: 325000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 205000
+    stock_low: 120000
+    stock_high: 250000
+    bonus_pct: 5
+    total_comp_low: 208000
+    total_comp_high: 310000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 164000
+    stock_low: 91000
+    stock_high: 190000
+    bonus_pct: 5
+    total_comp_low: 167000
+    total_comp_high: 247000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Supabase Data Scientist = Google L4 DS = Meta E4 DS = Snowflake Data Scientist = Databricks Data Scientist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Driven Product & Platform Intelligence"
+---
 ### Data Scientist | Supabase Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Driven Product & Platform Intelligence

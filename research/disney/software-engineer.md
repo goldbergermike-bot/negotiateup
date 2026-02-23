@@ -1,3 +1,51 @@
+---
+company: disney
+company_display: Disney
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Burbank / Los Angeles
+    base_low: 135000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 280000
+    currency: USD
+  - region: San Francisco / Seattle
+    base_low: 140000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: USD
+  - region: London (UK)
+    base_low: 100000
+    base_high: 145000
+    stock_low: 35000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Disney SWE (IC2-IC3) = Google L3-L4 = Meta E3-E4 = Amazon SDE I-II = Microsoft 59-62 = Apple ICT2-ICT3
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "$200B Entertainment-Tech Empire | Disney+ / Parks Tech / ESPN | Premium Entertainment Tech Comp"
+---
 ### Software Engineer | Disney Global Negotiation Guide
 
 **Negotiation DNA:** $200B Entertainment-Tech Empire | Disney+ / Parks Tech / ESPN | Premium Entertainment Tech Comp

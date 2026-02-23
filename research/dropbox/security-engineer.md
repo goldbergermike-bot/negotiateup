@@ -1,3 +1,48 @@
+---
+company: dropbox
+company_display: Dropbox
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 232000
+    stock_low: 158000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 345000
+    currency: USD
+  - region: Seattle
+    base_low: 180000
+    base_high: 228000
+    stock_low: 152000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: 170000
+    base_high: 218000
+    stock_low: 142000
+    stock_high: 255000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 318000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Dropbox SecEng (IC3-IC5) = Google SecEng L4-L5 = Meta SecEng E4-E5 = Box SecEng = 1Password SecEng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NASDAQ: DBX) + Bonus | Dash AI & Cloud Security | $8B+ Market Cap | 700M+ Users | **DASH AI PREMIUM**"
+---
 ### Security Engineer | Dropbox Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NASDAQ: DBX) + Bonus | Dash AI & Cloud Security | $8B+ Market Cap | 700M+ Users | **DASH AI PREMIUM**

@@ -1,3 +1,52 @@
+---
+company: avidxchange
+company_display: Avidxchange
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte NC
+    base_low: 140000
+    base_high: 175000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 17000
+    bonus_high: 30000
+    total_comp_low: 207000
+    total_comp_high: 305000
+    currency: USD
+  - region: Atlanta GA
+    base_low: 145000
+    base_high: 180000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 213000
+    total_comp_high: 312000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 170000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_low: 16000
+    bonus_high: 28000
+    total_comp_low: 196000
+    total_comp_high: 288000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| AvidXchange | Google | Meta | Stripe | Bill.com | PayPal |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NASDAQ: AVDX` `Purposeful AI` `Mid-Market AP Automation` `AvidPay Network` `Charlotte NC Hub` `RSU/4yr Vesting` `Enterprise Tier` `Knowledge Discovery` `Cross-Functional Delivery` `Program Execution`"
+---
 ### Technical Program Manager | AvidXchange Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: AVDX` `Purposeful AI` `Mid-Market AP Automation` `AvidPay Network` `Charlotte NC Hub` `RSU/4yr Vesting` `Enterprise Tier` `Knowledge Discovery` `Cross-Functional Delivery` `Program Execution`

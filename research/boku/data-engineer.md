@@ -1,3 +1,48 @@
+---
+company: boku
+company_display: Boku
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 60000
+    base_high: 95000
+    stock_low: 18000
+    stock_high: 50000
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 145000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 135000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 110000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 305000
+    currency: USD
+  - region: Mumbai (INR)
+    base_low: 1600000
+    base_high: 3200000
+    stock_low: 500000
+    stock_high: 1400000
+    bonus_pct: null
+    total_comp_low: 2100000
+    total_comp_high: 4600000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Data Engineer compensation framework spanning London, San Francisco, and Mumbai markets."
+---
 ### Data Engineer — Boku Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Data Engineer compensation framework spanning London, San Francisco, and Mumbai markets.

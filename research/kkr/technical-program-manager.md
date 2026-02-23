@@ -1,3 +1,50 @@
+---
+company: kkr
+company_display: KKR
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 162000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 282000
+    total_comp_high: 405000
+    currency: USD
+  - region: San Francisco
+    base_low: 168000
+    base_high: 212000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 290000
+    total_comp_high: 418000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 159000
+    stock_low: 101000
+    stock_high: 163000
+    bonus_low: 31000
+    bonus_high: 48000
+    total_comp_low: 257000
+    total_comp_high: 370000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#HighGrading` `#ValueCreation` `#OperationalAlpha` `#PortfolioProgramExecution` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#CrossPortfolioDelivery`"
+---
 ### Technical Program Manager | KKR Global Negotiation Guide
 
 **Negotiation DNA:** `#HighGrading` `#ValueCreation` `#OperationalAlpha` `#PortfolioProgramExecution` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#CrossPortfolioDelivery`

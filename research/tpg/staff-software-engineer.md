@@ -1,3 +1,56 @@
+---
+company: tpg
+company_display: Tpg
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 255000
+    base_high: 325000
+    stock_low: 320000
+    stock_high: 520000
+    bonus_low: 60000
+    bonus_high: 95000
+    total_comp_low: 635000
+    total_comp_high: 748000
+    currency: USD
+  - region: "Fort Worth, TX"
+    base_low: 220000
+    base_high: 280000
+    stock_low: 260000
+    stock_high: 420000
+    bonus_low: 48000
+    bonus_high: 78000
+    total_comp_low: 518000
+    total_comp_high: 618000
+    currency: USD
+  - region: New York
+    base_low: 248000
+    base_high: 315000
+    stock_low: 300000
+    stock_high: 500000
+    bonus_low: 55000
+    bonus_high: 90000
+    total_comp_low: 608000
+    total_comp_high: 725000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - H1B
+  - H1B Salary Data
+  - Comparably
+negotiation_dna_summary: "`Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `+15-25% Premium` `Technical Strategy` `Cross-Portfolio Architecture` `Revenue-Driving Principal IC`"
+---
 ### Staff Software Engineer | TPG Global Negotiation Guide
 
 **Negotiation DNA:** `Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `+15-25% Premium` `Technical Strategy` `Cross-Portfolio Architecture` `Revenue-Driving Principal IC`

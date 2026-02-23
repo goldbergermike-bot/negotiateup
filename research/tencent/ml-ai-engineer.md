@@ -1,3 +1,68 @@
+---
+company: tencent
+company_display: Tencent
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Palo Alto / Los Angeles (US R&D)"
+    base_low: 175000
+    base_high: 250000
+    stock_low: 110000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 420000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 170000
+    base_high: 245000
+    stock_low: 105000
+    stock_high: 270000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 410000
+    currency: USD
+  - region: Shenzhen (HQ)
+    base_low: 550000
+    base_high: 1000000
+    stock_low: 250000
+    stock_high: 700000
+    bonus_pct: 20
+    total_comp_low: 850000
+    total_comp_high: 1700000
+    currency: CNY
+  - region: Beijing
+    base_low: 520000
+    base_high: 950000
+    stock_low: 230000
+    stock_high: 650000
+    bonus_pct: 20
+    total_comp_low: 800000
+    total_comp_high: 1600000
+    currency: CNY
+  - region: Singapore
+    base_low: 140000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 175000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Tencent (T9-T11) = L4-L5 at Google Brain, IC4-IC5 at Meta FAIR, Research Engineer at OpenAI/Anthropic, equivalent ByteDance AI Lab"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$450B company investing billions in AI across gaming, WeChat, and cloud + Tencent AI Lab and WeChat AI among top Chinese AI research groups + US AI comp designed to compete with FAANG and frontier AI labs | Tencent AI engineers work on recommendation, NLP, computer vision, and generative AI at massive scale | **AI RESEARCH PREMIUM**"
+---
 ### ML/AI Engineer | Tencent Global Negotiation Guide
 
 **Negotiation DNA:** $450B company investing billions in AI across gaming, WeChat, and cloud + Tencent AI Lab and WeChat AI among top Chinese AI research groups + US AI comp designed to compete with FAANG and frontier AI labs | Tencent AI engineers work on recommendation, NLP, computer vision, and generative AI at massive scale | **AI RESEARCH PREMIUM**

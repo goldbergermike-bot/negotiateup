@@ -1,3 +1,50 @@
+---
+company: point72
+company_display: Point72
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stamford CT (HQ)
+    base_low: 210000
+    base_high: 285000
+    stock_low: null
+    stock_high: null
+    bonus_low: 190000
+    bonus_high: 300000
+    total_comp_low: 400000
+    total_comp_high: 585000
+    currency: USD
+  - region: New York
+    base_low: 220000
+    base_high: 295000
+    stock_low: null
+    stock_high: null
+    bonus_low: 200000
+    bonus_high: 310000
+    total_comp_low: 420000
+    total_comp_high: 605000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 355000
+    total_comp_high: 525000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`IAC Team` `Researcher Premium` `$466K+ L3` `Systematic Alpha Analytics` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`"
+---
 ### Data Scientist | Point72 Global Negotiation Guide
 
 **Negotiation DNA:** `IAC Team` `Researcher Premium` `$466K+ L3` `Systematic Alpha Analytics` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`

@@ -1,3 +1,59 @@
+---
+company: sony
+company_display: Sony
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / San Diego (US)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 45000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 325000
+    currency: USD
+  - region: Bay Area (US)
+    base_low: 145000
+    base_high: 210000
+    stock_low: 40000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 310000
+    currency: USD
+  - region: Tokyo (HQ)
+    base_low: 10000000
+    base_high: 15000000
+    stock_low: 3000000
+    stock_high: 8000000
+    bonus_pct: 10
+    total_comp_low: 13000000
+    total_comp_high: 20000000
+    currency: JPY
+  - region: London (SIE Europe)
+    base_low: 95000
+    base_high: 148000
+    stock_low: 30000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "TPM at Sony (IC4-IC5) = L5-L6 TPM at Google, IC5-IC6 TPM at Meta, Sr TPM at Amazon, Senior TPM at Microsoft Xbox"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$110B market cap with TPMs coordinating cross-functional programs across PlayStation launches, entertainment platform rollouts, and semiconductor product cycles + US TPM comp competitive with gaming industry + Sony stock RSUs | Sony TPMs orchestrate the most complex programs in entertainment technology | **ENTERTAINMENT PROGRAM PREMIUM**"
+---
 ### Technical Program Manager | Sony Global Negotiation Guide
 
 **Negotiation DNA:** $110B market cap with TPMs coordinating cross-functional programs across PlayStation launches, entertainment platform rollouts, and semiconductor product cycles + US TPM comp competitive with gaming industry + Sony stock RSUs | Sony TPMs orchestrate the most complex programs in entertainment technology | **ENTERTAINMENT PROGRAM PREMIUM**

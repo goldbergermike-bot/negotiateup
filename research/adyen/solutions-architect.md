@@ -1,3 +1,52 @@
+---
+company: adyen
+company_display: Adyen
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 100000
+    base_high: 140000
+    stock_low: 60000
+    stock_high: 115000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 172000
+    total_comp_high: 277000
+    currency: EUR
+  - region: San Francisco
+    base_low: 160000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 175000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 268000
+    total_comp_high: 422000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 128000
+    stock_low: 52000
+    stock_high: 100000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 152000
+    total_comp_high: 248000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Adyen | Google | Meta | Stripe | Visa | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Solutions Track`"
+---
 ### Solutions Architect | Adyen Global Negotiation Guide
 
 **Negotiation DNA:** `AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Solutions Track`

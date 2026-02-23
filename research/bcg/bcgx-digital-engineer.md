@@ -1,3 +1,48 @@
+---
+company: bcg
+company_display: BCG
+role: bcgx-digital-engineer
+role_display: BCG X Digital Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 185000
+    base_high: 250000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 241000
+    total_comp_high: 375000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 247000
+    total_comp_high: 390000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 156000
+    total_comp_high: 263000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: BCG X Senior Digital Engineer = Google L4-L5 = Meta E4-E5 = Palantir Senior FDE
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (25-50%) | **SIGNATURE ROLE** | **+15-25% DIGITAL/AI PREMIUM**"
+---
 ### BCG X Digital Engineer | BCG Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (25-50%) | **SIGNATURE ROLE** | **+15-25% DIGITAL/AI PREMIUM**

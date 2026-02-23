@@ -1,3 +1,48 @@
+---
+company: together-ai
+company_display: Together AI
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 235000
+    base_high: 310000
+    stock_low: 85000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 428000
+    currency: USD
+  - region: Seattle
+    base_low: 223000
+    base_high: 295000
+    stock_low: 81000
+    stock_high: 133000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 407000
+    currency: USD
+  - region: Remote US
+    base_low: 211000
+    base_high: 279000
+    stock_low: 76000
+    stock_high: 126000
+    bonus_pct: 15
+    total_comp_low: 274000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Together AI Staff SWE ≈ Google L6 · Meta E6 · OpenAI IC4 · Anthropic Staff SWE · Amazon Principal SDE · Apple ICT5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +25% Kernel Innovation Premium"
+---
 ### Staff Software Engineer | Together AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +25% Kernel Innovation Premium

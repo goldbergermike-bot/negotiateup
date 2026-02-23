@@ -1,3 +1,53 @@
+---
+company: pleo
+company_display: Pleo
+role: liquidity-expansion-platform-engineer
+role_display: Liquidity-Expansion Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Copenhagen
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 138000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_low: 12000
+    bonus_high: 18000
+    total_comp_low: 157000
+    total_comp_high: 246000
+    currency: GBP
+  - region: Berlin
+    base_low: 95000
+    base_high: 132000
+    stock_low: 42000
+    stock_high: 85000
+    bonus_low: 11000
+    bonus_high: 17000
+    total_comp_low: 148000
+    total_comp_high: 234000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Pleo | Google | Meta | Stripe | Spendesk | Brex |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Real-Time Yield` `Fintech` `Spend Management` `European Scale` `Pre-IPO` `Cash-Management Yield` `Liquidity-Expansion` `Platform Engineering` `Revenue Infrastructure` `Financial Systems` `SIGNATURE ROLE`"
+---
 ### Liquidity-Expansion Platform Engineer | Pleo Global Negotiation Guide
 
 > **SIGNATURE ROLE** — This is Pleo's most strategically critical engineering hire for 2026, sitting at the intersection of financial infrastructure, platform scalability, and revenue generation.

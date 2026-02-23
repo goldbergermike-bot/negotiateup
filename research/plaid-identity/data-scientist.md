@@ -1,3 +1,48 @@
+---
+company: plaid-identity
+company_display: Plaid Identity
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 205000
+    stock_low: 160000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 285000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 200000
+    stock_low: 155000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 278000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 135000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 128000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Plaid DS (Mid) = Google L4 DS = Meta IC4 DS = Stripe Data Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure"
+---
 ### Data Scientist | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure

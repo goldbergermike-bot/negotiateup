@@ -1,3 +1,48 @@
+---
+company: unitedhealth-group
+company_display: UnitedHealth Group
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minnetonka MN
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 180000
+    total_comp_high: 285000
+    currency: USD
+  - region: Dallas TX
+    base_low: 135000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 175000
+    total_comp_high: 275000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 165000
+    total_comp_high: 260000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: UHG Security Engineer = Google L4 Security = Optum T4-T5 Security = Palo Alto Networks Mid-Senior
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Health Insurance Giant / Bonus-Heavy Comp / RSU Growing | PHI/HIPAA Security Premium"
+---
 ### Security Engineer | UnitedHealth Group Global Negotiation Guide
 
 **Negotiation DNA:** Health Insurance Giant / Bonus-Heavy Comp / RSU Growing | PHI/HIPAA Security Premium

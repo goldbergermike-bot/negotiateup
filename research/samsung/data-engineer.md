@@ -1,3 +1,68 @@
+---
+company: samsung
+company_display: Samsung
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / San Jose (US R&D)"
+    base_low: 140000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 130000
+    base_high: 180000
+    stock_low: 40000
+    stock_high: 120000
+    bonus_pct: 15
+    total_comp_low: 170000
+    total_comp_high: 275000
+    currency: USD
+  - region: Seoul (HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (R&D Campus)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Bangalore
+    base_low: 2200000
+    base_high: 4500000
+    stock_low: 800000
+    stock_high: 2500000
+    bonus_pct: 15
+    total_comp_low: 3000000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Data Engineer at Samsung (CL2-CL3) = L3-L4 at Google, IC3-IC4 at Meta, DE II-Senior at Amazon, equivalent Snowflake/Databricks"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B conglomerate generating massive IoT/device telemetry data + Galaxy ecosystem analytics powering AI features + Korean HQ with competitive US R&D offices | Samsung's data infrastructure supports 1B+ connected devices globally | **DATA SCALE PREMIUM**"
+---
 ### Data Engineer | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B conglomerate generating massive IoT/device telemetry data + Galaxy ecosystem analytics powering AI features + Korean HQ with competitive US R&D offices | Samsung's data infrastructure supports 1B+ connected devices globally | **DATA SCALE PREMIUM**

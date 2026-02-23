@@ -1,3 +1,49 @@
+---
+company: airwallex
+company_display: Airwallex
+role: reliability-leads-platform-engineer
+role_display: Reliability Leads Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Melbourne (AUD)
+    base_low: 195000
+    base_high: 270000
+    stock_low: 150000
+    stock_high: 320000
+    bonus_pct: null
+    total_comp_low: 345000
+    total_comp_high: 590000
+    currency: AUD
+  - region: San Francisco (USD)
+    base_low: 240000
+    base_high: 310000
+    stock_low: 190000
+    stock_high: 400000
+    bonus_pct: null
+    total_comp_low: 430000
+    total_comp_high: 710000
+    currency: USD
+  - region: London (GBP)
+    base_low: 125000
+    base_high: 175000
+    stock_low: 95000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 375000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a Reliability Leads Platform Engineering compensation framework spanning Melbourne, San Francisco, and London markets. The Reliability Leads Platform Engineer is the apex technical role in Airwallex's compliance infrastructure — you architect, build, and operate the platform systems that ensure every transaction, every API call, and every regulatory report meets t"
+---
 ### Reliability Leads Platform Engineer — Airwallex Salary Negotiation Guide
 
 ## SIGNATURE ROLE

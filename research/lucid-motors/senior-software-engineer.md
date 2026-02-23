@@ -1,3 +1,30 @@
+---
+company: lucid-motors
+company_display: Lucid Motors
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newark CA (HQ)
+    base_low: 160000
+    base_high: 215000
+    stock_low: 85000
+    stock_high: 225000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lucid Senior Software Engineer = Google L4 = Meta E4 = Tesla Senior SWE = Rivian Senior SWE = Apple ICT3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive but Volatile Equity (LCID) | Luxury EV Leader | Saudi Backing | Bay Area Location"
+---
 ### Senior Software Engineer | Lucid Motors Global Negotiation Guide
 
 **Negotiation DNA:** Competitive but Volatile Equity (LCID) | Luxury EV Leader | Saudi Backing | Bay Area Location

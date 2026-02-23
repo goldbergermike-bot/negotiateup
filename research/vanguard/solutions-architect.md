@@ -1,3 +1,52 @@
+---
+company: vanguard
+company_display: Vanguard
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Malvern, PA (HQ)"
+    base_low: 132000
+    base_high: 182000
+    stock_low: null
+    stock_high: null
+    bonus_low: 24000
+    bonus_high: 38000
+    total_comp_low: 185000
+    total_comp_high: 268000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 125000
+    base_high: 173000
+    stock_low: null
+    stock_high: null
+    bonus_low: 23000
+    bonus_high: 36000
+    total_comp_low: 176000
+    total_comp_high: 255000
+    currency: USD
+  - region: "Scottsdale, AZ"
+    base_low: 125000
+    base_high: 173000
+    stock_low: null
+    stock_high: null
+    bonus_low: 23000
+    bonus_high: 36000
+    total_comp_low: 176000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Comparably
+negotiation_dna_summary: "`AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Enterprise Architecture` `Cloud Strategy` `Investment Platform Design`"
+---
 ### Solutions Architect | Vanguard Global Negotiation Guide
 
 **Negotiation DNA:** `AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Enterprise Architecture` `Cloud Strategy` `Investment Platform Design`

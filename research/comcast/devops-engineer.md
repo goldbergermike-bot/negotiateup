@@ -1,3 +1,50 @@
+---
+company: comcast
+company_display: Comcast
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / NYC
+    base_low: 130000
+    base_high: 185000
+    stock_low: 35000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 255000
+    currency: USD
+  - region: Denver / Seattle
+    base_low: 125000
+    base_high: 180000
+    stock_low: 30000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 240000
+    currency: USD
+  - region: London (UK)
+    base_low: 95000
+    base_high: 135000
+    stock_low: 22000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 190000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Comcast DevOps Engineer (T3-T5) = Google L3-L5 SRE = Amazon SDE II-III (Infrastructure) = Microsoft 60-63 = Meta E3-E5 Production Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$170B Media-Tech Conglomerate | Infrastructure at Massive Scale | Platform Reliability Across Xfinity + Peacock"
+---
 ### DevOps Engineer | Comcast Global Negotiation Guide
 
 **Negotiation DNA:** $170B Media-Tech Conglomerate | Infrastructure at Massive Scale | Platform Reliability Across Xfinity + Peacock

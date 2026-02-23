@@ -1,3 +1,48 @@
+---
+company: zillow
+company_display: Zillow
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 148000
+    base_high: 195000
+    stock_low: 160000
+    stock_high: 265000
+    bonus_pct: 15
+    total_comp_low: 198000
+    total_comp_high: 275000
+    currency: USD
+  - region: San Francisco
+    base_low: 160000
+    base_high: 210000
+    stock_low: 173000
+    stock_high: 286000
+    bonus_pct: 15
+    total_comp_low: 214000
+    total_comp_high: 296000
+    currency: USD
+  - region: Remote US
+    base_low: 133000
+    base_high: 176000
+    stock_low: 144000
+    stock_high: 239000
+    bonus_pct: 15
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zillow Data Scientist = Google Data Scientist L4–L5 = Redfin Data Scientist = Opendoor Data Scientist = Amazon Data Scientist L5–L6 = Meta Data Scientist IC4–IC5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep"
+---
 ### Data Scientist | Zillow Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep

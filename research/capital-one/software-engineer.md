@@ -1,3 +1,50 @@
+---
+company: capital-one
+company_display: Capital One
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: McLean VA (HQ)
+    base_low: 145000
+    base_high: 185000
+    stock_low: 60000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 265000
+    currency: USD
+  - region: New York City
+    base_low: 155000
+    base_high: 198000
+    stock_low: 70000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 290000
+    currency: USD
+  - region: San Francisco
+    base_low: 150000
+    base_high: 192000
+    stock_low: 65000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SWE at Capital One (Mid) = L4 at Google, E4 at Meta, SDE II at Amazon, AVP/VP at BofA/JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$68B market cap TECH-FIRST bank + Cloud-native engineering culture + McLean VA HQ + Comp competitive with Big Tech entry/mid SWE | Capital One SWE roles rival tech company positions | **TECH-FIRST SWE COMP**"
+---
 ### Software Engineer | Capital One Global Negotiation Guide
 
 **Negotiation DNA:** $68B market cap TECH-FIRST bank + Cloud-native engineering culture + McLean VA HQ + Comp competitive with Big Tech entry/mid SWE | Capital One SWE roles rival tech company positions | **TECH-FIRST SWE COMP**

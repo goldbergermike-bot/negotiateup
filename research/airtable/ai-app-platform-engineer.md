@@ -1,3 +1,49 @@
+---
+company: airtable
+company_display: Airtable
+role: ai-app-platform-engineer
+role_display: AI App Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 278000
+    stock_low: 230000
+    stock_high: 420000
+    bonus_pct: 10
+    total_comp_low: 315000
+    total_comp_high: 452000
+    currency: USD
+  - region: NYC / Austin
+    base_low: 203000
+    base_high: 263000
+    stock_low: 212000
+    stock_high: 387000
+    bonus_pct: 10
+    total_comp_low: 295000
+    total_comp_high: 422000
+    currency: USD
+  - region: London
+    base_low: 164000
+    base_high: 212000
+    stock_low: 175000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 344000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airtable AI App Platform Engineer = Google L5-L6 ML Platform = Meta E5-E6 AI Infra = Notion Staff AI Engineer = Microsoft Senior AI Platform Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push | **SIGNATURE ROLE** | **+20-30% AI PLATFORM PREMIUM**"
+---
 ### AI App Platform Engineer | Airtable Global Negotiation Guide
 
 **Negotiation DNA:** No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push | **SIGNATURE ROLE** | **+20-30% AI PLATFORM PREMIUM**

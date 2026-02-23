@@ -1,3 +1,50 @@
+---
+company: sambanova
+company_display: Sambanova
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 118000
+    base_high: 152000
+    stock_low: 22000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 152000
+    total_comp_high: 212000
+    currency: USD
+  - region: Austin
+    base_low: 105000
+    base_high: 135000
+    stock_low: 18000
+    stock_high: 34000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 188000
+    currency: USD
+  - region: Remote US
+    base_low: 100000
+    base_high: 130000
+    stock_low: 16000
+    stock_high: 30000
+    bonus_pct: 10
+    total_comp_low: 128000
+    total_comp_high: 178000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SambaNova Product Designer ~ Google UX Designer (L4–L5) | Meta Product Designer (IC4–IC5) | Amazon UX Designer (SDE II equiv.) | Apple Designer | Microsoft Designer (61–63)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +20% Agentic Orchestrator Premium"
+---
 ### Product Designer | SambaNova Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +20% Agentic Orchestrator Premium

@@ -1,3 +1,48 @@
+---
+company: cloudflare-workers
+company_display: Cloudflare Workers
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 188000
+    base_high: 238000
+    stock_low: 175000
+    stock_high: 308000
+    bonus_pct: 10
+    total_comp_low: 270000
+    total_comp_high: 378000
+    currency: USD
+  - region: Austin
+    base_low: 178000
+    base_high: 228000
+    stock_low: 165000
+    stock_high: 295000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 158000
+    stock_low: 115000
+    stock_high: 205000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Cloudflare SecEng (L3-L5) = Google SecEng L4-L5 = Meta SecEng E4-E5 = CrowdStrike SecEng = Palo Alto SecEng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NYSE: NET) + Bonus | Edge Security & AI Infrastructure Protection | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**"
+---
 ### Security Engineer | Cloudflare Workers Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NYSE: NET) + Bonus | Edge Security & AI Infrastructure Protection | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: proofpoint
+company_display: Proofpoint
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 320000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 295000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 95000
+    total_comp_high: 140000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Senior Software Engineers at Proofpoint own critical subsystems within the email security and threat protection platform, driving architectural decisions that impact how billions of messages are scanned, classified, and protected daily."
+---
 ### Senior Software Engineer — Proofpoint Salary Negotiation Guide
 
 **Negotiation DNA**: Senior Software Engineers at Proofpoint own critical subsystems within the email security and threat protection platform, driving architectural decisions that impact how billions of messages are scanned, classified, and protected daily.

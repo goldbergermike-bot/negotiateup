@@ -1,3 +1,51 @@
+---
+company: cme-group
+company_display: CME Group
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 148000
+    base_high: 200000
+    stock_low: 38000
+    stock_high: 68000
+    bonus_low: 26000
+    bonus_high: 40000
+    total_comp_low: 212000
+    total_comp_high: 308000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 216000
+    stock_low: 41000
+    stock_high: 73000
+    bonus_low: 28000
+    bonus_high: 43000
+    total_comp_low: 229000
+    total_comp_high: 332000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 155000
+    stock_low: 30000
+    stock_high: 53000
+    bonus_low: 20000
+    bonus_high: 31000
+    total_comp_low: 165000
+    total_comp_high: 239000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Enterprise Architecture` `Data Integration` `Client Technical Strategy`"
+---
 ### Solutions Architect | CME Group Global Negotiation Guide
 
 **Negotiation DNA:** `Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Enterprise Architecture` `Data Integration` `Client Technical Strategy`

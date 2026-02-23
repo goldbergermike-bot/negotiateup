@@ -1,3 +1,39 @@
+---
+company: faire
+company_display: Faire
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 85000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 338000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 205000
+    stock_low: 78000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 318000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Faire ML Engineer = Google ML Engineer L3-L4 = Shopify ML Engineer = Amazon Applied Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Startup Comp | Private $12B Valuation | **+5-10% ML PREMIUM** | B2B Wholesale Pioneer | Pre-IPO Upside"
+---
 ### ML/AI Engineer | Faire Global Negotiation Guide
 
 **Negotiation DNA:** Strong Startup Comp | Private $12B Valuation | **+5-10% ML PREMIUM** | B2B Wholesale Pioneer | Pre-IPO Upside

@@ -1,3 +1,49 @@
+---
+company: akamai
+company_display: Akamai
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge (MA)
+    base_low: 148000
+    base_high: 178000
+    stock_low: 60000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 258000
+    currency: USD
+  - region: San Francisco
+    base_low: 155000
+    base_high: 188000
+    stock_low: 65000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 275000
+    currency: USD
+  - region: Remote US
+    base_low: 138000
+    base_high: 168000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Akamai Solutions Architect = AWS SA (L6) / Google Cloud Customer Engineer (L5) / Azure Solutions Architect"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Client-Facing Premium"
+---
 ### Solutions Architect | Akamai Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Client-Facing Premium

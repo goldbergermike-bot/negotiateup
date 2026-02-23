@@ -1,3 +1,52 @@
+---
+company: hsbc
+company_display: HSBC
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 152000
+    base_high: 210000
+    stock_low: 72000
+    stock_high: 105000
+    bonus_low: 32000
+    bonus_high: 56000
+    total_comp_low: 256000
+    total_comp_high: 371000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 1210000
+    base_high: 1680000
+    stock_low: 720000
+    stock_high: 1050000
+    bonus_low: 630000
+    bonus_high: 980000
+    total_comp_low: 2560000
+    total_comp_high: 3710000
+    currency: HKD
+  - region: Singapore
+    base_low: 263000
+    base_high: 363000
+    stock_low: 124000
+    stock_high: 181000
+    bonus_low: 55000
+    bonus_high: 97000
+    total_comp_low: 443000
+    total_comp_high: 641000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Architecture Authority` `Cross-Org Technical Strategy` `Platform Vision`"
+---
 ### Staff Software Engineer | HSBC Global Negotiation Guide
 
 **Negotiation DNA:** `Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Architecture Authority` `Cross-Org Technical Strategy` `Platform Vision`

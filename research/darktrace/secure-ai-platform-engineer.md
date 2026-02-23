@@ -1,3 +1,59 @@
+---
+company: darktrace
+company_display: Darktrace
+role: secure-ai-platform-engineer
+role_display: Secure AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge UK
+    base_low: 85000
+    base_high: 130000
+    stock_low: 40000
+    stock_high: 100000
+    bonus_low: 12750
+    bonus_high: 26000
+    signing_bonus_low: 8000
+    signing_bonus_high: 18000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: London
+    base_low: 95000
+    base_high: 145000
+    stock_low: 55000
+    stock_high: 130000
+    bonus_low: 14250
+    bonus_high: 29000
+    signing_bonus_low: 10000
+    signing_bonus_high: 22000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: San Francisco
+    base_low: 185000
+    base_high: 260000
+    stock_low: 100000
+    stock_high: 260000
+    bonus_low: 27750
+    bonus_high: 52000
+    signing_bonus_low: 20000
+    signing_bonus_high: 45000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Secure AI Platform Engineer at Darktrace maps to L5–L6 at Google, E5–E6 at Meta, SDE III–Principal at Amazon, and 63–66 at Microsoft. The wide band reflects the fact that this is a new role — Darktrace is hiring across seniority levels, but the highest impact (and highest compensation) will go to candidates who can architect the platform, not just contribute to it."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Secure AI Platform Engineer | Darktrace (LSE: DARK) | IC Track | SECURE AI Product Line | Self-Learning AI Cybersecurity | Agentic Identity Defense | Cambridge & London & San Francisco"
+---
 ### Secure AI Platform Engineer | Darktrace Global Negotiation Guide
 
 **Negotiation DNA:** Secure AI Platform Engineer | Darktrace (LSE: DARK) | IC Track | SECURE AI Product Line | Self-Learning AI Cybersecurity | Agentic Identity Defense | Cambridge & London & San Francisco

@@ -1,3 +1,52 @@
+---
+company: vanguard
+company_display: Vanguard
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Malvern, PA (HQ)"
+    base_low: 120000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_low: 20000
+    bonus_high: 34000
+    total_comp_low: 168000
+    total_comp_high: 242000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 114000
+    base_high: 157000
+    stock_low: null
+    stock_high: null
+    bonus_low: 19000
+    bonus_high: 32000
+    total_comp_low: 160000
+    total_comp_high: 230000
+    currency: USD
+  - region: "Scottsdale, AZ"
+    base_low: 114000
+    base_high: 157000
+    stock_low: null
+    stock_high: null
+    bonus_low: 19000
+    bonus_high: 32000
+    total_comp_low: 160000
+    total_comp_high: 230000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Comparably
+negotiation_dna_summary: "`AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Cross-Functional Delivery` `Platform Program Execution` `Regulatory Coordination`"
+---
 ### Technical Program Manager | Vanguard Global Negotiation Guide
 
 **Negotiation DNA:** `AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Cross-Functional Delivery` `Platform Program Execution` `Regulatory Coordination`

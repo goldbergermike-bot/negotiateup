@@ -1,3 +1,68 @@
+---
+company: sea-group
+company_display: Sea Group
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 100000
+    base_high: 165000
+    stock_low: 35000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 235000
+    currency: USD
+  - region: Bay Area / Seattle (US)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 290000
+    currency: USD
+  - region: "Shenzhen (R&D)"
+    base_low: 350000
+    base_high: 620000
+    stock_low: 120000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 460000
+    total_comp_high: 880000
+    currency: CNY
+  - region: Jakarta
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Ho Chi Minh City
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Software Engineer at Sea Group (L4-L6) = L3-L4 at Google, IC3-IC4 at Meta, SDE I-II at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$35B market cap with three major business lines (Shopee, Garena, SeaMoney) + Growth-stage comp with aggressive RSU grants + Singapore HQ competing for talent with Grab, ByteDance, Google | Sea Group SWEs work across e-commerce, gaming, and fintech | **TRIPLE-PLATFORM PREMIUM**"
+---
 ### Software Engineer | Sea Group Global Negotiation Guide
 
 **Negotiation DNA:** $35B market cap with three major business lines (Shopee, Garena, SeaMoney) + Growth-stage comp with aggressive RSU grants + Singapore HQ competing for talent with Grab, ByteDance, Google | Sea Group SWEs work across e-commerce, gaming, and fintech | **TRIPLE-PLATFORM PREMIUM**

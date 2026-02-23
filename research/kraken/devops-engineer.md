@@ -1,3 +1,51 @@
+---
+company: kraken
+company_display: Kraken
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 210000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 232000
+    total_comp_high: 328000
+    currency: USD
+  - region: New York
+    base_low: 162000
+    base_high: 205000
+    stock_low: 190000
+    stock_high: 345000
+    bonus_low: 18000
+    bonus_high: 33000
+    total_comp_low: 225000
+    total_comp_high: 318000
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 190000
+    stock_low: 175000
+    stock_high: 320000
+    bonus_low: 16000
+    bonus_high: 28000
+    total_comp_low: 198000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Infrastructure Track"
+---
 ### DevOps Engineer | Kraken Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Infrastructure Track

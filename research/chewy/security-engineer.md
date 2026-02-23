@@ -1,3 +1,51 @@
+---
+company: chewy
+company_display: Chewy
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Plantation FL
+    base_low: 135000
+    base_high: 178000
+    stock_low: 32000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+  - region: Boston
+    base_low: 146000
+    base_high: 194000
+    stock_low: 35000
+    stock_high: 57000
+    bonus_pct: 10
+    total_comp_low: 197000
+    total_comp_high: 276000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 169000
+    stock_low: 30000
+    stock_high: 49000
+    bonus_pct: 10
+    total_comp_low: 173000
+    total_comp_high: 239000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chewy Security Engineer = Google Security Engineer L4–L5 = Amazon Security Engineer SDE II–III = Meta Security Engineer IC4–IC5 = Microsoft Security Engineer 62–64 = Apple Security Engineer ICT4
+data_sources:
+  - "Chewy 84% Autoship Penetration — Q4 2024 Earnings Report, Recurring Revenue Model"
+  - "Chewy Pet Health Expansion — Chewy Health, Telehealth, Insurance, Pharmacy Announcements"
+  - "Chewy 10-K Annual Filing — $12B+ Revenue, 20M+ Active Customers"
+  - HIPAA Compliance Requirements — HHS.gov Healthcare Security Standards
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium"
+---
 ### Security Engineer | Chewy Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium

@@ -1,3 +1,48 @@
+---
+company: databricks-unity
+company_display: Databricks Unity
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 262000
+    stock_low: 225000
+    stock_high: 395000
+    bonus_pct: 12
+    total_comp_low: 312000
+    total_comp_high: 435000
+    currency: USD
+  - region: New York
+    base_low: 212000
+    base_high: 268000
+    stock_low: 225000
+    stock_high: 395000
+    bonus_pct: 12
+    total_comp_low: 318000
+    total_comp_high: 442000
+    currency: USD
+  - region: London
+    base_low: 140000
+    base_high: 178000
+    stock_low: 148000
+    stock_high: 262000
+    bonus_pct: 12
+    total_comp_low: 212000
+    total_comp_high: 298000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Databricks ML/AI (L3-L4) = Snowflake ML = Google ML L4-L5 = Meta ML E4-E5 = Amazon ML L5-L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Unity Catalog + Mosaic AI | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**"
+---
 ### ML/AI Engineer | Databricks Unity Global Negotiation Guide
 
 **Negotiation DNA:** Unity Catalog + Mosaic AI | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**

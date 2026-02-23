@@ -1,3 +1,48 @@
+---
+company: cloudflare
+company_display: Cloudflare
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 158000
+    total_comp_high: 390000
+    currency: USD
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 77000
+    total_comp_high: 183000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Data Engineers at Cloudflare build the pipelines that process internet-scale telemetry from the Edge Sovereignty network and power the analytics behind AI Inference optimization across the global platform.
+---
 ### Data Engineer — Cloudflare Salary Negotiation Guide
 
 **Negotiation DNA**: Data Engineers at Cloudflare build the pipelines that process internet-scale telemetry from the Edge Sovereignty network and power the analytics behind AI Inference optimization across the global platform.

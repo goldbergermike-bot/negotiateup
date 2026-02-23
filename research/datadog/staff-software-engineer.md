@@ -1,3 +1,48 @@
+---
+company: datadog
+company_display: Datadog
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 400000
+    currency: USD
+  - region: Paris
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 150000
+    currency: EUR
+  - region: Dublin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 60000
+    total_comp_high: 155000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: Staff Software Engineers at Datadog set the technical direction for the AI Nervous System — defining the architecture of LLM Observability at a scale no competitor can match.
+---
 ### Staff Software Engineer — Datadog Salary Negotiation Guide
 
 **Negotiation DNA**: Staff Software Engineers at Datadog set the technical direction for the AI Nervous System — defining the architecture of LLM Observability at a scale no competitor can match.

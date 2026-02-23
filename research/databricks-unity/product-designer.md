@@ -1,3 +1,48 @@
+---
+company: databricks-unity
+company_display: Databricks Unity
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 172000
+    base_high: 222000
+    stock_low: 152000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 328000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 228000
+    stock_low: 152000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 152000
+    stock_low: 100000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 222000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Databricks Designer (L3-L4) = Snowflake Designer = Google UX L4 = Meta Designer IC5 = Amazon UX D2
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Product Designer | Databricks Unity Global Negotiation Guide
 
 **Negotiation DNA:** Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**

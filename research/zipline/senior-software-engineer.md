@@ -1,3 +1,39 @@
+---
+company: zipline
+company_display: Zipline
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: South San Francisco / Bay Area
+    base_low: 175000
+    base_high: 232000
+    stock_low: 110000
+    stock_high: 265000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 385000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 218000
+    stock_low: 95000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 358000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zipline Sr SWE (IC3-IC4) = Wing Sr SWE = Amazon Prime Air Sr SWE = Google L4-L5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Drone Delivery (Medical Supplies) | $4.2B Valuation | South San Francisco | **DRONE DELIVERY PREMIUM**"
+---
 ### Senior Software Engineer | Zipline Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Drone Delivery (Medical Supplies) | $4.2B Valuation | South San Francisco | **DRONE DELIVERY PREMIUM**

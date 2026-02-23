@@ -1,3 +1,53 @@
+---
+company: bill-com
+company_display: Bill.com
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 155000
+    base_high: 205000
+    stock_low: 95000
+    stock_high: 190000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 264000
+    total_comp_high: 423000
+    currency: USD
+  - region: Houston TX
+    base_low: 135000
+    base_high: 178000
+    stock_low: 75000
+    stock_high: 155000
+    bonus_low: 12000
+    bonus_high: 23000
+    total_comp_low: 222000
+    total_comp_high: 356000
+    currency: USD
+  - region: Salt Lake City UT
+    base_low: 128000
+    base_high: 170000
+    stock_low: 68000
+    stock_high: 142000
+    bonus_low: 11000
+    bonus_high: 21000
+    total_comp_low: 207000
+    total_comp_high: 333000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| BILL | Google | Meta | Stripe | PayPal | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: BILL` `Agentic AP` `Data Engineer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Data Infrastructure` `Financial Data Pipelines`"
+---
 ### Data Engineer | Bill.com Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: BILL` `Agentic AP` `Data Engineer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Data Infrastructure` `Financial Data Pipelines`

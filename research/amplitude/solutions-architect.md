@@ -1,3 +1,48 @@
+---
+company: amplitude
+company_display: Amplitude
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 202000
+    stock_low: 110000
+    stock_high: 192000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 272000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 198000
+    stock_low: 105000
+    stock_high: 185000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 265000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 130000
+    stock_low: 55000
+    stock_high: 98000
+    bonus_pct: 15
+    total_comp_low: 118000
+    total_comp_high: 165000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Amplitude SA = Google Customer Engineer = AWS Solutions Architect = Mixpanel Implementation Lead
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Based / Public Company | AI-Powered Product Analytics"
+---
 ### Solutions Architect | Amplitude Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Based / Public Company | AI-Powered Product Analytics

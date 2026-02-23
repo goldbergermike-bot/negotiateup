@@ -1,3 +1,39 @@
+---
+company: aurora-innovation
+company_display: Aurora Innovation
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pittsburgh (HQ)
+    base_low: 128000
+    base_high: 178000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 240000
+    currency: USD
+  - region: Bay Area
+    base_low: 138000
+    base_high: 190000
+    stock_low: 60000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Aurora Product Designer = Google UX Designer L3-L4 = Waymo Product Designer = Meta Product Designer (IC3-IC4) = Amazon UX Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage"
+---
 ### Product Designer | Aurora Innovation Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage

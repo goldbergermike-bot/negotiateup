@@ -1,3 +1,51 @@
+---
+company: cerebras
+company_display: Cerebras
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 228000
+    base_high: 282000
+    stock_low: 278000
+    stock_high: 492000
+    bonus_pct: 15
+    total_comp_low: 335000
+    total_comp_high: 468000
+    currency: USD
+  - region: San Diego
+    base_low: 225000
+    base_high: 278000
+    stock_low: 278000
+    stock_high: 492000
+    bonus_pct: 15
+    total_comp_low: 332000
+    total_comp_high: 465000
+    currency: USD
+  - region: Remote US
+    base_low: 218000
+    base_high: 272000
+    stock_low: 278000
+    stock_high: 492000
+    bonus_pct: 15
+    total_comp_low: 325000
+    total_comp_high: 458000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cerebras EM (M1) = Google L6 EM = NVIDIA EM = Meta M1 = Groq EM
+data_sources:
+  - Cerebras Q2 2026 IPO Timeline — EM Team Scaling
+  - Cerebras $10B OpenAI Deal — Delivery Milestone Execution
+  - Cerebras Engineering Organization — Pre-IPO Scale-Up
+  - Cerebras EM Comp — Private Market 2025
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal"
+---
 ### Engineering Manager | Cerebras Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal

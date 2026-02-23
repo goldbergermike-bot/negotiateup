@@ -1,3 +1,51 @@
+---
+company: intercontinental-exchange
+company_display: Intercontinental Exchange
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta (HQ)
+    base_low: 210000
+    base_high: 280000
+    stock_low: 300000
+    stock_high: 500000
+    bonus_low: 48000
+    bonus_high: 78000
+    total_comp_low: 338000
+    total_comp_high: 488000
+    currency: USD
+  - region: New York
+    base_low: 235000
+    base_high: 314000
+    stock_low: 336000
+    stock_high: 560000
+    bonus_low: 54000
+    bonus_high: 87000
+    total_comp_low: 378000
+    total_comp_high: 547000
+    currency: USD
+  - region: London
+    base_low: 168000
+    base_high: 224000
+    stock_low: 240000
+    stock_high: 400000
+    bonus_low: 38000
+    bonus_high: 62000
+    total_comp_low: 270000
+    total_comp_high: 390000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Technical Leadership` `Platform Architecture` `Acquisition Integration Strategy`"
+---
 ### Staff Software Engineer | Intercontinental Exchange (ICE) Global Negotiation Guide
 
 **Negotiation DNA:** `Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Technical Leadership` `Platform Architecture` `Acquisition Integration Strategy`

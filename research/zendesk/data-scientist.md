@@ -1,3 +1,48 @@
+---
+company: zendesk
+company_display: Zendesk
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 340000
+    currency: USD
+  - region: Remote US / Other US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 305000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 50000
+    total_comp_high: 152000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Data Scientists at Zendesk apply ML and statistical methods to one of the largest CX datasets in the world — driving AI model development and customer analytics that power the AI-first transformation under Hellman & Friedman ownership."
+---
 ### Data Scientist — Zendesk Salary Negotiation Guide
 
 **Negotiation DNA**: Data Scientists at Zendesk apply ML and statistical methods to one of the largest CX datasets in the world — driving AI model development and customer analytics that power the AI-first transformation under Hellman & Friedman ownership.

@@ -1,3 +1,50 @@
+---
+company: coreweave
+company_display: Coreweave
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Roseland NJ
+    base_low: 175000
+    base_high: 218000
+    stock_low: 165000
+    stock_high: 292000
+    bonus_pct: null
+    total_comp_low: 216000
+    total_comp_high: 291000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 211000
+    stock_low: 165000
+    stock_high: 292000
+    bonus_pct: null
+    total_comp_low: 209000
+    total_comp_high: 284000
+    currency: USD
+  - region: London
+    base_low: 132000
+    base_high: 164000
+    stock_low: 124000
+    stock_high: 220000
+    bonus_pct: null
+    total_comp_low: 163000
+    total_comp_high: 219000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: CoreWeave Data Engineer = Google L4 Data Engineer = AWS Data Engineer II = Meta E4 Data Engineer = Apple DE ICT3
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium"
+---
 ### Data Engineer | CoreWeave Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium

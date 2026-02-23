@@ -1,3 +1,49 @@
+---
+company: barclays
+company_display: Barclays
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 142000
+    base_high: 202000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 192000
+    total_comp_high: 320000
+    currency: USD
+  - region: London (HQ)
+    base_low: 98000
+    base_high: 148000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 132000
+    total_comp_high: 235000
+    currency: GBP
+  - region: Glasgow
+    base_low: 78000
+    base_high: 118000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 105000
+    total_comp_high: 178000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Data Scientist at Barclays (VP/SVP) = L4-L5 at Google, IC4-IC5 at Meta, Applied Scientist at Amazon, VP/SVP at BofA, VP/ED at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GBP35B market cap UK bank + Quant/DS across trading, risk, and consumer analytics + London/NYC dual hub + Competitive in quant/tech | Barclays DS spans UK banking and global markets | **UK QUANT ANALYTICS PREMIUM**"
+---
 ### Data Scientist | Barclays Global Negotiation Guide
 
 **Negotiation DNA:** GBP35B market cap UK bank + Quant/DS across trading, risk, and consumer analytics + London/NYC dual hub + Competitive in quant/tech | Barclays DS spans UK banking and global markets | **UK QUANT ANALYTICS PREMIUM**

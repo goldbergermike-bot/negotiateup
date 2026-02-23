@@ -1,3 +1,50 @@
+---
+company: kkr
+company_display: KKR
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 228000
+    base_high: 290000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 415000
+    total_comp_high: 598000
+    currency: USD
+  - region: San Francisco
+    base_low: 238000
+    base_high: 302000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 428000
+    total_comp_high: 618000
+    currency: USD
+  - region: London
+    base_low: 177000
+    base_high: 225000
+    stock_low: 170000
+    stock_high: 264000
+    bonus_low: 45000
+    bonus_high: 68000
+    total_comp_low: 392000
+    total_comp_high: 557000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#HighGrading` `#ValueCreation` `#OperationalAlpha` `#AIForAlpha` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#+15-25%AIPremium` `#PortfolioAI`"
+---
 ### ML/AI Engineer | KKR Global Negotiation Guide
 
 **Negotiation DNA:** `#HighGrading` `#ValueCreation` `#OperationalAlpha` `#AIForAlpha` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#+15-25%AIPremium` `#PortfolioAI`

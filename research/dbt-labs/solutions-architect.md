@@ -1,3 +1,48 @@
+---
+company: dbt-labs
+company_display: dbt Labs
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / Remote-US
+    base_low: 162000
+    base_high: 198000
+    stock_low: 88000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 275000
+    currency: USD
+  - region: San Francisco
+    base_low: 172000
+    base_high: 210000
+    stock_low: 98000
+    stock_high: 175000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 295000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 148000
+    stock_low: 62000
+    stock_high: 118000
+    bonus_pct: 15
+    total_comp_low: 148000
+    total_comp_high: 198000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: dbt Labs SA = Google Cloud SA = Snowflake SA = Databricks SA = Fivetran SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Customer Success Bonus | Semantic Layer Enterprise Implementation 2026"
+---
 ### Solutions Architect | dbt Labs Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Customer Success Bonus | Semantic Layer Enterprise Implementation 2026

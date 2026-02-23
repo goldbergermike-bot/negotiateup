@@ -1,3 +1,49 @@
+---
+company: cohere
+company_display: Cohere
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 145000
+    base_high: 185000
+    stock_low: 165000
+    stock_high: 295000
+    bonus_pct: null
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: CAD
+  - region: San Francisco
+    base_low: 172000
+    base_high: 215000
+    stock_low: 165000
+    stock_high: 295000
+    bonus_pct: null
+    total_comp_low: 213000
+    total_comp_high: 289000
+    currency: USD
+  - region: London
+    base_low: 128000
+    base_high: 162000
+    stock_low: 165000
+    stock_high: 295000
+    bonus_pct: null
+    total_comp_low: 168000
+    total_comp_high: 235000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Cohere PM = Google L5 PM (Toronto) = Meta PM (IC5) = Amazon Sr. PMT = Anthropic Product Manager. In the Toronto market, Cohere competes with Google PM, Shopify PM, and increasingly with Databricks and Scale AI for enterprise AI product talent. The pre-IPO equity at Cohere's $5.5B+ valuation is the key differentiator against public-company PM packages."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty"
+---
 ### Product Manager | Cohere Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty

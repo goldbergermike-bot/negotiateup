@@ -1,3 +1,48 @@
+---
+company: accenture
+company_display: Accenture
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 120000
+    base_high: 165000
+    stock_low: 30000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 265000
+    currency: USD
+  - region: San Francisco
+    base_low: 125000
+    base_high: 170000
+    stock_low: 35000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 156000
+    total_comp_high: 276000
+    currency: USD
+  - region: Bangalore
+    base_low: 1200000
+    base_high: 2400000
+    stock_low: 300000
+    stock_high: 800000
+    bonus_pct: 10
+    total_comp_low: 1600000
+    total_comp_high: 3600000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Accenture Analyst / Senior Analyst (Data) = Google L3 Data Engineer = Databricks Associate DE = Snowflake DE
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + RSU Grants + Bonus (10-15%) | Data & AI Practice"
+---
 ### Data Engineer | Accenture Global Negotiation Guide
 
 **Negotiation DNA:** Base + RSU Grants + Bonus (10-15%) | Data & AI Practice

@@ -1,3 +1,52 @@
+---
+company: ncr-voyix
+company_display: NCR Voyix
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 125000
+    base_high: 160000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 160000
+    total_comp_high: 235000
+    currency: USD
+  - region: New York NY
+    base_low: 140000
+    base_high: 180000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 182000
+    total_comp_high: 270000
+    currency: USD
+  - region: London UK
+    base_low: 82000
+    base_high: 108000
+    stock_low: 18000
+    stock_high: 38000
+    bonus_low: 7000
+    bonus_high: 15000
+    total_comp_low: 107000
+    total_comp_high: 161000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| NCR Voyix | Google | Meta | Stripe | Fiserv | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `DevOps/SRE IC` `RSU/4yr` `Platform Infrastructure`"
+---
 ### DevOps Engineer | NCR Voyix Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `DevOps/SRE IC` `RSU/4yr` `Platform Infrastructure`

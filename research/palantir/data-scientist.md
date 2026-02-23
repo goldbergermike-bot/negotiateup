@@ -1,3 +1,48 @@
+---
+company: palantir
+company_display: Palantir
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 148000
+    base_high: 185000
+    stock_low: 225000
+    stock_high: 375000
+    bonus_pct: null
+    total_comp_low: 204000
+    total_comp_high: 279000
+    currency: USD
+  - region: New York City
+    base_low: 152000
+    base_high: 190000
+    stock_low: 232000
+    stock_high: 385000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 286000
+    currency: USD
+  - region: London
+    base_low: 78000
+    base_high: 100000
+    stock_low: 112000
+    stock_high: 190000
+    bonus_pct: null
+    total_comp_low: 106000
+    total_comp_high: 148000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Palantir Senior DS = Google L4 DS = Meta IC4 DS — but with customer deployment and classified data access
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture"
+---
 ### Data Scientist | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture

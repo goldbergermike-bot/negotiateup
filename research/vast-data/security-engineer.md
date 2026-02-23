@@ -1,3 +1,50 @@
+---
+company: vast-data
+company_display: Vast Data
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 155000
+    base_high: 195000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_pct: 8
+    total_comp_low: 202000
+    total_comp_high: 282000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: 25000
+    stock_high: 52000
+    bonus_pct: 8
+    total_comp_low: 188000
+    total_comp_high: 262000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 185000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_pct: 8
+    total_comp_low: 192000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Vast Data Security Engineer = Google L4–L5 Security / Meta Security Engineer (IC4–IC5) / Amazon Security Engineer II–III / Microsoft Security Engineer 62–64 / Palo Alto Networks Senior Security Engineer"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Security & Compliance Premium"
+---
 ### Security Engineer | Vast Data Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Security & Compliance Premium

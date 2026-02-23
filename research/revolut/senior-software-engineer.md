@@ -1,3 +1,48 @@
+---
+company: revolut
+company_display: Revolut
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":gb: London (GBP)"
+    base_low: 80000
+    base_high: 115000
+    stock_low: 60000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 265000
+    currency: GBP
+  - region: ":lt: Vilnius (EUR)"
+    base_low: 55000
+    base_high: 85000
+    stock_low: 40000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 95000
+    total_comp_high: 185000
+    currency: EUR
+  - region: ":us: New York (USD)"
+    base_low: 150000
+    base_high: 200000
+    stock_low: 100000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 250000
+    total_comp_high: 450000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a senior engineering compensation framework spanning London, Vilnius, and New York markets. As a Senior Software Engineer, you are the technical backbone of Revolut's product velocity — the experienced builders who own systems, mentor teams, and ship the features that convert Revolut's 40M+ users into the $9B revenue machine heading toward its US IPO."
+---
 ### Senior Software Engineer — Revolut Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a senior engineering compensation framework spanning London, Vilnius, and New York markets. As a Senior Software Engineer, you are the technical backbone of Revolut's product velocity — the experienced builders who own systems, mentor teams, and ship the features that convert Revolut's 40M+ users into the $9B revenue machine heading toward its US IPO.

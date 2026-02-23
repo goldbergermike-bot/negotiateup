@@ -1,3 +1,39 @@
+---
+company: nuro
+company_display: Nuro
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View / Bay Area
+    base_low: 185000
+    base_high: 248000
+    stock_low: 150000
+    stock_high: 370000
+    bonus_pct: 10
+    total_comp_low: 278000
+    total_comp_high: 455000
+    currency: USD
+  - region: Remote US
+    base_low: 170000
+    base_high: 232000
+    stock_low: 130000
+    stock_high: 335000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 418000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Nuro Sr SWE (IC3-IC4) = Waymo Sr SWE = Aurora Sr SWE = Zoox Sr SWE = Google L4-L5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AUTONOMOUS VEHICLE PREMIUM**"
+---
 ### Senior Software Engineer | Nuro Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AUTONOMOUS VEHICLE PREMIUM**

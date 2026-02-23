@@ -1,3 +1,53 @@
+---
+company: tastytrade
+company_display: Tastytrade
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 218000
+    base_high: 298000
+    stock_low: null
+    stock_high: null
+    bonus_low: 40000
+    bonus_high: 62000
+    total_comp_low: 308000
+    total_comp_high: 445000
+    currency: USD
+  - region: New York
+    base_low: 240000
+    base_high: 328000
+    stock_low: null
+    stock_high: null
+    bonus_low: 44000
+    bonus_high: 68000
+    total_comp_low: 339000
+    total_comp_high: 490000
+    currency: USD
+  - region: London
+    base_low: 166000
+    base_high: 227000
+    stock_low: 38000
+    stock_high: 65000
+    bonus_low: 30000
+    bonus_high: 47000
+    total_comp_low: 234000
+    total_comp_high: 339000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Platform Architecture` `Risk Engine Design` `Cross-Asset Integration`"
+---
 ### Staff Software Engineer | Tastytrade Global Negotiation Guide
 
 **Negotiation DNA:** `Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Platform Architecture` `Risk Engine Design` `Cross-Asset Integration`

@@ -1,3 +1,48 @@
+---
+company: retool
+company_display: Retool
+role: ai-workflow-platform-engineer
+role_display: AI Workflow Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 252000
+    stock_low: 218000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 302000
+    total_comp_high: 428000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 248000
+    stock_low: 212000
+    stock_high: 370000
+    bonus_pct: 10
+    total_comp_low: 294000
+    total_comp_high: 418000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 168000
+    stock_low: 145000
+    stock_high: 252000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 282000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Retool AI Workflow (L4-L5) = Google AI Platform L5-L6 = Meta AI Infra E5-E6 = Temporal/Inngest AI = n8n/Zapier AI
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI Workflow Orchestration & Automation | 30K+ Companies | **RETOOL AI PREMIUM**"
+---
 ### AI Workflow Platform Engineer | Retool Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI Workflow Orchestration & Automation | 30K+ Companies | **RETOOL AI PREMIUM**

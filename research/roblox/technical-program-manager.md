@@ -1,3 +1,48 @@
+---
+company: roblox
+company_display: Roblox
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo
+    base_low: 150000
+    base_high: 195000
+    stock_low: 135000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 268000
+    currency: USD
+  - region: New York
+    base_low: 145000
+    base_high: 190000
+    stock_low: 130000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 258000
+    currency: USD
+  - region: Remote US
+    base_low: 138000
+    base_high: 178000
+    stock_low: 118000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Roblox Technical Program Manager (IC3-IC5) = Google TPM L4-L6 = Meta TPM = Amazon TPM = Apple TPM = Microsoft TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**"
+---
 ### Technical Program Manager | Roblox Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**

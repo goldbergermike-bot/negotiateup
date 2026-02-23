@@ -1,3 +1,53 @@
+---
+company: nuvei
+company_display: Nuvei
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montreal
+    base_low: 175000
+    base_high: 230000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 270000
+    total_comp_high: 415000
+    currency: CAD
+  - region: New York
+    base_low: 210000
+    base_high: 280000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 320000
+    total_comp_high: 495000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 165000
+    stock_low: 40000
+    stock_high: 85000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 178000
+    total_comp_high: 285000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Nuvei | Google | Meta | Stripe | Adyen | Global Payments |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Staff IC` `Architecture` `Montreal HQ`"
+---
 ### Staff Software Engineer | Nuvei Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Staff IC` `Architecture` `Montreal HQ`

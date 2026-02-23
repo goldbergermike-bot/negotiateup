@@ -1,3 +1,49 @@
+---
+company: northrop-grumman
+company_display: Northrop Grumman
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Falls Church, VA"
+    base_low: 115000
+    base_high: 165000
+    stock_low: 27000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 218000
+    currency: USD
+  - region: "Redondo Beach, CA"
+    base_low: 120000
+    base_high: 170000
+    stock_low: 27000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 143000
+    total_comp_high: 223000
+    currency: USD
+  - region: "Huntsville, AL"
+    base_low: 108000
+    base_high: 158000
+    stock_low: 25000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Northrop DS = L3Harris DS = Lockheed DS -- Northrop pays a space/intelligence domain premium
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense + Tech Premium | $75B Market Cap | Space/Defense Analytics | Standard 40-45 Hour Culture"
+---
 ### Data Scientist | Northrop Grumman Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense + Tech Premium | $75B Market Cap | Space/Defense Analytics | Standard 40-45 Hour Culture

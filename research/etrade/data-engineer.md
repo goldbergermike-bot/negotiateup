@@ -1,3 +1,51 @@
+---
+company: etrade
+company_display: Etrade
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 135000
+    base_high: 178000
+    stock_low: null
+    stock_high: null
+    bonus_low: 24000
+    bonus_high: 42000
+    total_comp_low: 192000
+    total_comp_high: 278000
+    currency: USD
+  - region: "Jersey City, NJ"
+    base_low: 128000
+    base_high: 169000
+    stock_low: null
+    stock_high: null
+    bonus_low: 23000
+    bonus_high: 40000
+    total_comp_low: 182000
+    total_comp_high: 264000
+    currency: USD
+  - region: "Alpharetta, GA"
+    base_low: 115000
+    base_high: 151000
+    stock_low: null
+    stock_high: null
+    bonus_low: 20000
+    bonus_high: 36000
+    total_comp_low: 163000
+    total_comp_high: 236000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Data Pipeline Architecture` `Real-Time Streaming` `Financial Data Infrastructure`"
+---
 ### Data Engineer | E*TRADE (Morgan Stanley) Global Negotiation Guide
 
 **Negotiation DNA:** `Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Data Pipeline Architecture` `Real-Time Streaming` `Financial Data Infrastructure`

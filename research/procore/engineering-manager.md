@@ -1,3 +1,39 @@
+---
+company: procore
+company_display: Procore
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Carpinteria / Bay Area
+    base_low: 192000
+    base_high: 252000
+    stock_low: 148000
+    stock_high: 322000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 435000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 238000
+    stock_low: 130000
+    stock_high: 295000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 405000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Procore EM (M1-M2) = Autodesk Construction EM = Google L5-L6 EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Construction Management Platform | ~$12B Market Cap (Public: PCOR) | Carpinteria CA | **CONSTRUCTION LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Procore Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Construction Management Platform | ~$12B Market Cap (Public: PCOR) | Carpinteria CA | **CONSTRUCTION LEADERSHIP PREMIUM**

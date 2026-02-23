@@ -1,3 +1,30 @@
+---
+company: lucid-motors
+company_display: Lucid Motors
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newark CA (HQ)
+    base_low: 185000
+    base_high: 240000
+    stock_low: 140000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 430000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lucid Staff Software Engineer = Google L5 = Meta E5 = Tesla Staff SWE = Apple ICT4 = Amazon Principal SDE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive but Volatile Equity (LCID) | Luxury EV Leader | Saudi Backing | Bay Area Location"
+---
 ### Staff Software Engineer | Lucid Motors Global Negotiation Guide
 
 **Negotiation DNA:** Competitive but Volatile Equity (LCID) | Luxury EV Leader | Saudi Backing | Bay Area Location

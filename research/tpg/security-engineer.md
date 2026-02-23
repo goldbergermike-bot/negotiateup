@@ -1,3 +1,54 @@
+---
+company: tpg
+company_display: Tpg
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 185000
+    base_high: 235000
+    stock_low: 125000
+    stock_high: 200000
+    bonus_low: 30000
+    bonus_high: 52000
+    total_comp_low: 340000
+    total_comp_high: 408000
+    currency: USD
+  - region: "Fort Worth, TX"
+    base_low: 158000
+    base_high: 198000
+    stock_low: 100000
+    stock_high: 160000
+    bonus_low: 25000
+    bonus_high: 42000
+    total_comp_low: 285000
+    total_comp_high: 342000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 228000
+    stock_low: 118000
+    stock_high: 192000
+    bonus_low: 28000
+    bonus_high: 50000
+    total_comp_low: 328000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "`Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `AI Security` `Regulatory Compliance` `Trust Infrastructure` `Revenue Protection`"
+---
 ### Security Engineer | TPG Global Negotiation Guide
 
 **Negotiation DNA:** `Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `AI Security` `Regulatory Compliance` `Trust Infrastructure` `Revenue Protection`

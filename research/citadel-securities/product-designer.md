@@ -1,3 +1,51 @@
+---
+company: citadel-securities
+company_display: Citadel Securities
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 150000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_low: 125000
+    bonus_high: 200000
+    total_comp_low: 275000
+    total_comp_high: 395000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_low: 130000
+    bonus_high: 210000
+    total_comp_low: 290000
+    total_comp_high: 415000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_low: 100000
+    bonus_high: 160000
+    total_comp_low: 220000
+    total_comp_high: 315000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Trading UX` `25% US Equity Volume` `Private Firm Premium` `Mission-Critical Design`"
+---
 ### Product Designer | Citadel Securities Global Negotiation Guide
 
 **Negotiation DNA:** `$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Trading UX` `25% US Equity Volume` `Private Firm Premium` `Mission-Critical Design`

@@ -1,3 +1,48 @@
+---
+company: fivetran
+company_display: Fivetran
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland / Remote-US
+    base_low: 152000
+    base_high: 185000
+    stock_low: 82000
+    stock_high: 152000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 245000
+    currency: USD
+  - region: Denver
+    base_low: 148000
+    base_high: 180000
+    stock_low: 78000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 235000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 135000
+    stock_low: 55000
+    stock_high: 108000
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 172000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Fivetran PD = Google L4 UX = Snowflake PD = Databricks Designer = Datadog PD
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Equity + Bonus | AI-Automated Pipeline UX Design 2026"
+---
 ### Product Designer | Fivetran Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Equity + Bonus | AI-Automated Pipeline UX Design 2026

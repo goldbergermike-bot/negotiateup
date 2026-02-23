@@ -1,3 +1,53 @@
+---
+company: jpmorgan-chase
+company_display: JPMorgan Chase
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 135000
+    base_high: 180000
+    stock_low: 35000
+    stock_high: 58000
+    bonus_low: 28000
+    bonus_high: 47000
+    total_comp_low: 198000
+    total_comp_high: 285000
+    currency: USD
+  - region: London
+    base_low: 111000
+    base_high: 148000
+    stock_low: 29000
+    stock_high: 48000
+    bonus_low: 23000
+    bonus_high: 39000
+    total_comp_low: 162000
+    total_comp_high: 234000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 2810000
+    base_high: 3750000
+    stock_low: 730000
+    stock_high: 1210000
+    bonus_low: 580000
+    bonus_high: 980000
+    total_comp_low: 4130000
+    total_comp_high: 5940000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Data Pipeline Architecture` `Real-Time Streaming` `Data Governance`"
+---
 ### Data Engineer | JPMorgan Chase Global Negotiation Guide
 
 **Negotiation DNA:** `Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Data Pipeline Architecture` `Real-Time Streaming` `Data Governance`

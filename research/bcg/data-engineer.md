@@ -1,3 +1,48 @@
+---
+company: bcg
+company_display: BCG
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 160000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 200000
+    total_comp_high: 300000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 206000
+    total_comp_high: 308000
+    currency: USD
+  - region: Bangalore
+    base_low: 2600000
+    base_high: 4200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 3300000
+    total_comp_high: 6300000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: BCG Data Engineer = Google L3-L4 Data Engineer = Databricks Senior DE = Snowflake DE
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (25-50%) | No Equity | BCG GAMMA Data Infrastructure"
+---
 ### Data Engineer | BCG Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (25-50%) | No Equity | BCG GAMMA Data Infrastructure

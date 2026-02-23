@@ -1,3 +1,48 @@
+---
+company: box
+company_display: Box
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 195000
+    base_high: 242000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 201000
+    base_high: 254000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 256000
+    total_comp_high: 354000
+    currency: USD
+  - region: London
+    base_low: 143000
+    base_high: 177000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 181000
+    total_comp_high: 247000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Box Staff SWE = Google L5 = Dropbox Staff = Microsoft Principal SDE = Meta E5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management"
+---
 ### Staff Software Engineer | Box Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management

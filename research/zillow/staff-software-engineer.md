@@ -1,3 +1,48 @@
+---
+company: zillow
+company_display: Zillow
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 215000
+    base_high: 275000
+    stock_low: 300000
+    stock_high: 520000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 425000
+    currency: USD
+  - region: San Francisco
+    base_low: 232000
+    base_high: 296000
+    stock_low: 324000
+    stock_high: 560000
+    bonus_pct: 15
+    total_comp_low: 329000
+    total_comp_high: 458000
+    currency: USD
+  - region: Remote US
+    base_low: 194000
+    base_high: 248000
+    stock_low: 270000
+    stock_high: 468000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 383000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zillow Staff Software Engineer (IC5) = Google L6 = Redfin Principal Engineer = Opendoor Staff Engineer = Amazon Principal SDE = Meta E6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep"
+---
 ### Staff Software Engineer | Zillow Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep

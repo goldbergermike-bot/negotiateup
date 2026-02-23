@@ -1,3 +1,55 @@
+---
+company: pagerduty
+company_display: Pagerduty
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 50000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Atlanta
+    base_low: 155000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 20000
+    signing_bonus_high: 40000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 140000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at PagerDuty maps to IC3-IC4 (L5-L6 equivalent at Google, E5-E6 at Meta, 63-64 at Microsoft). Typically 5-12 years of experience with strong applied ML, production model deployment, and ideally domain expertise in AIOps, anomaly detection, or time-series modeling."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge | +15-20% AI Premium"
+---
 ### ML/AI Engineer | PagerDuty Global Negotiation Guide
 
 **Negotiation DNA:** PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge | +15-20% AI Premium

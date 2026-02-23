@@ -1,3 +1,48 @@
+---
+company: ping-identity
+company_display: Ping Identity
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver
+    base_low: 152000
+    base_high: 192000
+    stock_low: 42000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+  - region: Austin
+    base_low: 148000
+    base_high: 185000
+    stock_low: 42000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: USD
+  - region: Remote US
+    base_low: 142000
+    base_high: 182000
+    stock_low: 42000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 235000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ping Identity DE (IC2-IC3) = Okta DE = CyberArk DE = SailPoint DE = ForgeRock DE = Microsoft Identity DE (L59-L61)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY DATA BONUS**"
+---
 ### Data Engineer | Ping Identity Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY DATA BONUS**

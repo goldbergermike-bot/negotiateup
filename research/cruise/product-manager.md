@@ -1,3 +1,30 @@
+---
+company: cruise
+company_display: Cruise
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 170000
+    base_high: 235000
+    stock_low: 130000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 410000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cruise Product Manager = Google PM L5-L6 = Waymo PM = Meta PM (IC5-IC6) = Amazon Senior PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "GM Subsidiary Comp | Competitive Bay Area RSUs | Autonomous Vehicle Pioneer | San Francisco Premium"
+---
 ### Product Manager | Cruise Global Negotiation Guide
 
 **Negotiation DNA:** GM Subsidiary Comp | Competitive Bay Area RSUs | Autonomous Vehicle Pioneer | San Francisco Premium

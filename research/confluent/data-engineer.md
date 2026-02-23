@@ -1,3 +1,48 @@
+---
+company: confluent
+company_display: Confluent
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 165000
+    base_high: 205000
+    stock_low: 160000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 275000
+    currency: USD
+  - region: London
+    base_low: 70000
+    base_high: 90000
+    stock_low: 65000
+    stock_high: 108000
+    bonus_pct: 10
+    total_comp_low: 85000
+    total_comp_high: 115000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4000000
+    base_high: 6200000
+    stock_low: 3000000
+    stock_high: 5000000
+    bonus_pct: 10
+    total_comp_low: 4800000
+    total_comp_high: 7800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Confluent Senior DE = Google L4 DE = Databricks Senior DE = MongoDB Senior DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy"
+---
 ### Data Engineer | Confluent Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy

@@ -1,3 +1,48 @@
+---
+company: mongodb
+company_display: Mongodb
+role: devops-engineer
+role_display: DevOps / Platform Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 170000
+    base_high: 210000
+    stock_low: 170000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 213000
+    total_comp_high: 280000
+    currency: USD
+  - region: Dublin
+    base_low: 72000
+    base_high: 92000
+    stock_low: 68000
+    stock_high: 115000
+    bonus_pct: null
+    total_comp_low: 90000
+    total_comp_high: 120000
+    currency: EUR
+  - region: Austin
+    base_low: 160000
+    base_high: 200000
+    stock_low: 155000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: MongoDB Senior Platform Eng = Google L4 SRE = Elastic Senior Platform Eng = Confluent Senior Platform Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + No Bonus | \"Battle for the AI Data Layer\" | Voyage AI Acquisition Premium"
+---
 ### DevOps / Platform Engineer | MongoDB Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + No Bonus | "Battle for the AI Data Layer" | Voyage AI Acquisition Premium

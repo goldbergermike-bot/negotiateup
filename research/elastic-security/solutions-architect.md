@@ -1,3 +1,50 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 168000
+    base_high: 218000
+    stock_low: 128000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 312000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 158000
+    base_high: 208000
+    stock_low: 116000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 292000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 128000
+    base_high: 166000
+    stock_low: 97000
+    stock_high: 173000
+    bonus_pct: 10
+    total_comp_low: 171000
+    total_comp_high: 238000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic SA = Google Cloud SA = AWS Senior SA = CrowdStrike Senior SA = Splunk SE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity"
+---
 ### Solutions Architect | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity

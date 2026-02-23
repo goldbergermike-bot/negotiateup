@@ -1,3 +1,50 @@
+---
+company: verizon
+company_display: Verizon
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / New Jersey
+    base_low: 145000
+    base_high: 200000
+    stock_low: 42000
+    stock_high: 138000
+    bonus_pct: 12
+    total_comp_low: 180000
+    total_comp_high: 280000
+    currency: USD
+  - region: Bay Area / Seattle
+    base_low: 150000
+    base_high: 208000
+    stock_low: 48000
+    stock_high: 148000
+    bonus_pct: 12
+    total_comp_low: 190000
+    total_comp_high: 298000
+    currency: USD
+  - region: Dallas / Atlanta
+    base_low: 138000
+    base_high: 190000
+    stock_low: 36000
+    stock_high: 125000
+    bonus_pct: 12
+    total_comp_low: 168000
+    total_comp_high: 260000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Verizon Senior SWE (L5) = Google L5 = Meta E5 = Amazon SDE III = T-Mobile L6 = AT&T Senior"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$175B Telecom Leader | Senior Technical Ownership | 5G Services + Enterprise Architecture"
+---
 ### Senior Software Engineer | Verizon Global Negotiation Guide
 
 **Negotiation DNA:** $175B Telecom Leader | Senior Technical Ownership | 5G Services + Enterprise Architecture

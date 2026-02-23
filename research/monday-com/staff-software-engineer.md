@@ -1,3 +1,48 @@
+---
+company: monday-com
+company_display: Monday.com
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 270000
+    total_comp_high: 470000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 410000
+    currency: USD
+  - region: London / Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 215000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Staff Software Engineers at Monday.com set the architectural direction for the $12B Work OS platform — defining technical strategy in a competitive Israeli tech company that demands both speed and scale.
+---
 ### Staff Software Engineer — Monday.com Salary Negotiation Guide
 
 **Negotiation DNA**: Staff Software Engineers at Monday.com set the architectural direction for the $12B Work OS platform — defining technical strategy in a competitive Israeli tech company that demands both speed and scale.

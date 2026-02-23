@@ -1,3 +1,48 @@
+---
+company: uber
+company_display: Uber
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 182000
+    base_high: 228000
+    stock_low: 158000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 226000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York
+    base_low: 188000
+    base_high: 235000
+    stock_low: 158000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 315000
+    currency: USD
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 4800000
+    stock_low: 1500000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 3500000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Uber Data Eng = Google L4 DE = Lyft DE = DoorDash DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)"
+---
 ### Data Engineer | Uber Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)

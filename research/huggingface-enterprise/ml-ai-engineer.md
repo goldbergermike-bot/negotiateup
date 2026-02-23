@@ -1,3 +1,50 @@
+---
+company: huggingface-enterprise
+company_display: Hugging Face Enterprise
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 260000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: 5
+    total_comp_low: 273000
+    total_comp_high: 405000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 255000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: 5
+    total_comp_low: 268000
+    total_comp_high: 398000
+    currency: USD
+  - region: Paris
+    base_low: 170000
+    base_high: 222000
+    stock_low: 153000
+    stock_high: 272000
+    bonus_pct: 5
+    total_comp_low: 232000
+    total_comp_high: 345000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: HF Enterprise ML/AI Engineer = Google L4-L5 ML Engineer = Meta ML Engineer IC4-5 = Databricks ML Engineer = OpenAI SWE = Anthropic SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity + AI Premium | Open-Source AI Platform Leader | 2026 Focus: Enterprise Model Optimization & AutoML"
+---
 ### ML/AI Engineer | Hugging Face Enterprise Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity + AI Premium | Open-Source AI Platform Leader | 2026 Focus: Enterprise Model Optimization & AutoML

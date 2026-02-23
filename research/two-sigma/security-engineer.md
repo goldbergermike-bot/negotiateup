@@ -1,3 +1,32 @@
+---
+company: two-sigma
+company_display: Two Sigma
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 180000
+    base_high: 250000
+    stock_low: null
+    stock_high: null
+    bonus_low: 144000
+    bonus_high: 375000
+    total_comp_low: 324000
+    total_comp_high: 625000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Security Engineer at Two Sigma = L5-L6 at Google, E5-E6 at Meta, Senior-Principal SecEng at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-150%+ | Two Sigma security protects proprietary trading strategies worth billions | **ELITE QUANT SECURITY PREMIUM**"
+---
 ### Security Engineer | Two Sigma Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-150%+ | Two Sigma security protects proprietary trading strategies worth billions | **ELITE QUANT SECURITY PREMIUM**

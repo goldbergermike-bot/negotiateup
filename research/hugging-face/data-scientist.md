@@ -1,3 +1,52 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 68000
+    base_high: 92000
+    stock_low: 75000
+    stock_high: 148000
+    bonus_pct: null
+    total_comp_low: 87000
+    total_comp_high: 129000
+    currency: EUR
+  - region: New York
+    base_low: 162000
+    base_high: 205000
+    stock_low: 135000
+    stock_high: 248000
+    bonus_pct: null
+    total_comp_low: 196000
+    total_comp_high: 267000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "HF Data Scientist = Google L3–L4 Data Scientist (Paris) = Meta Data Scientist (IC4–IC5) = Datadog Paris Data Scientist = Mistral AI Data Analyst. Paris DS bands (€68K–€92K) compete with Google Paris DS (€70K–€100K base + RSUs) and Criteo Data Scientist (€65K–€90K base). HF data scientists have broader scope — you're not analyzing one product vertical, you're analyzing the entire ML ecosystem's usage patterns."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat"
+---
 ### Data Scientist | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat

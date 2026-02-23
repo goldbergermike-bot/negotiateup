@@ -1,3 +1,49 @@
+---
+company: warner-bros-discovery
+company_display: Warner Bros. Discovery
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Los Angeles
+    base_low: 132000
+    base_high: 182000
+    stock_low: 32000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 250000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 125000
+    base_high: 172000
+    stock_low: 28000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 232000
+    currency: USD
+  - region: London (UK)
+    base_low: 96000
+    base_high: 135000
+    stock_low: 22000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: WBD Security Engineer (L3-L5) = Google L3-L5 Security = Meta E3-E5 Security = Amazon Security Engineer II-III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$25B Media Company | Content Protection + Consumer Data Security | HBO/Warner Bros IP Defense"
+---
 ### Security Engineer | Warner Bros Discovery Global Negotiation Guide
 
 **Negotiation DNA:** $25B Media Company | Content Protection + Consumer Data Security | HBO/Warner Bros IP Defense

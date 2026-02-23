@@ -1,3 +1,48 @@
+---
+company: retool
+company_display: Retool
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 262000
+    stock_low: 260000
+    stock_high: 430000
+    bonus_pct: 15
+    total_comp_low: 338000
+    total_comp_high: 475000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 258000
+    stock_low: 252000
+    stock_high: 418000
+    bonus_pct: 15
+    total_comp_low: 330000
+    total_comp_high: 462000
+    currency: USD
+  - region: London
+    base_low: 138000
+    base_high: 175000
+    stock_low: 170000
+    stock_high: 285000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 315000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Retool EM (M1-M2) = Google EM L6-L7 = Meta EM M1-M2 = Vercel EM = Supabase EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI-Powered Internal Tools Platform Leadership | 30K+ Companies | **RETOOL AI PREMIUM**"
+---
 ### Engineering Manager | Retool Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI-Powered Internal Tools Platform Leadership | 30K+ Companies | **RETOOL AI PREMIUM**

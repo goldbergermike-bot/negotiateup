@@ -1,3 +1,39 @@
+---
+company: remote-com
+company_display: Remote.com
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Bay Area
+    base_low: 135000
+    base_high: 188000
+    stock_low: 48000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 265000
+    currency: USD
+  - region: Remote US
+    base_low: 122000
+    base_high: 175000
+    stock_low: 40000
+    stock_high: 142000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Remote.com PD (IC2-IC3) = Deel PD = Rippling PD = Google L3-L4 UX
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Global Employment Platform | $3B Valuation | Remote-First | **GLOBAL EMPLOYMENT UX PREMIUM**"
+---
 ### Product Designer | Remote.com Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Global Employment Platform | $3B Valuation | Remote-First | **GLOBAL EMPLOYMENT UX PREMIUM**

@@ -1,3 +1,49 @@
+---
+company: reddit
+company_display: Reddit
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 198000
+    base_high: 248000
+    stock_low: 148000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 335000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 255000
+    stock_low: 148000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 238000
+    stock_low: 148000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 230000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Reddit Sr SWE (E5) = Google L4 = Meta E4 = Amazon SDE II = Microsoft 62-63
+data_sources:
+  - Reddit
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth"
+---
 ### Senior Software Engineer | Reddit Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth

@@ -1,3 +1,52 @@
+---
+company: andreessen-horowitz
+company_display: Andreessen Horowitz
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 178000
+    base_high: 232000
+    stock_low: null
+    stock_high: null
+    bonus_low: 120000
+    bonus_high: 196000
+    total_comp_low: 298000
+    total_comp_high: 428000
+    currency: USD
+  - region: San Francisco
+    base_low: 173000
+    base_high: 226000
+    stock_low: null
+    stock_high: null
+    bonus_low: 116000
+    bonus_high: 190000
+    total_comp_low: 289000
+    total_comp_high: 416000
+    currency: USD
+  - region: New York
+    base_low: 168000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_low: 112000
+    bonus_high: 184000
+    total_comp_low: 280000
+    total_comp_high: 404000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - LinkedIn
+  - Glassdoor
+negotiation_dna_summary: "`$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Platform Infrastructure` `Cloud Operations` `CI/CD Pipeline Architecture`"
+---
 ### DevOps Engineer | Andreessen Horowitz Global Negotiation Guide
 
 **Negotiation DNA:** `$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Platform Infrastructure` `Cloud Operations` `CI/CD Pipeline Architecture`

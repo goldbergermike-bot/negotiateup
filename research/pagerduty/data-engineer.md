@@ -1,3 +1,56 @@
+---
+company: pagerduty
+company_display: Pagerduty
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 18000
+    signing_bonus_high: 35000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Atlanta
+    base_low: 135000
+    base_high: 178000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 12000
+    signing_bonus_high: 28000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 82000
+    base_high: 118000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 22000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Data Engineer at PagerDuty maps to IC2-IC3 (L4-L5 equivalent at Google, E4-E5 at Meta, 60-63 at Microsoft). Typically 3-8 years of experience with strong skills in streaming data systems, data warehousing, and pipeline orchestration."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge"
+---
 ### Data Engineer | PagerDuty Global Negotiation Guide
 
 **Negotiation DNA:** PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge

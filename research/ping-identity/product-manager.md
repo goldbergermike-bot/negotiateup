@@ -1,3 +1,48 @@
+---
+company: ping-identity
+company_display: Ping Identity
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver
+    base_low: 165000
+    base_high: 208000
+    stock_low: 55000
+    stock_high: 98000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 282000
+    currency: USD
+  - region: Austin
+    base_low: 158000
+    base_high: 202000
+    stock_low: 55000
+    stock_high: 98000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 275000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 195000
+    stock_low: 55000
+    stock_high: 98000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ping Identity PM (PM2-PM3) = Okta PM = CyberArk PM = SailPoint PM = ForgeRock PM = Microsoft Identity PM (L62-L63)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY PLATFORM BONUS**"
+---
 ### Product Manager | Ping Identity Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY PLATFORM BONUS**

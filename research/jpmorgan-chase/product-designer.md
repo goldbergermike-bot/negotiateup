@@ -1,3 +1,53 @@
+---
+company: jpmorgan-chase
+company_display: JPMorgan Chase
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 120000
+    base_high: 160000
+    stock_low: 30000
+    stock_high: 50000
+    bonus_low: 25000
+    bonus_high: 38000
+    total_comp_low: 175000
+    total_comp_high: 248000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 131000
+    stock_low: 25000
+    stock_high: 41000
+    bonus_low: 21000
+    bonus_high: 31000
+    total_comp_low: 143000
+    total_comp_high: 203000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 2500000
+    base_high: 3330000
+    stock_low: 630000
+    stock_high: 1040000
+    bonus_low: 520000
+    bonus_high: 790000
+    total_comp_low: 3650000
+    total_comp_high: 5170000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `UX/UI Design` `Design Systems` `Financial Product Experience`"
+---
 ### Product Designer | JPMorgan Chase Global Negotiation Guide
 
 **Negotiation DNA:** `Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `UX/UI Design` `Design Systems` `Financial Product Experience`

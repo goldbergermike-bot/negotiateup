@@ -1,3 +1,52 @@
+---
+company: coinbase
+company_display: Coinbase
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 265000
+    base_high: 310000
+    stock_low: 500000
+    stock_high: 900000
+    bonus_low: 35000
+    bonus_high: 60000
+    total_comp_low: 425000
+    total_comp_high: 598000
+    currency: USD
+  - region: New York
+    base_low: 258000
+    base_high: 305000
+    stock_low: 480000
+    stock_high: 870000
+    bonus_low: 32000
+    bonus_high: 58000
+    total_comp_low: 415000
+    total_comp_high: 585000
+    currency: USD
+  - region: Remote US
+    base_low: 240000
+    base_high: 285000
+    stock_low: 440000
+    stock_high: 800000
+    bonus_low: 28000
+    bonus_high: 50000
+    total_comp_low: 390000
+    total_comp_high: 555000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "`Everything Exchange` · `$2B Buyback` · `COIN` · `IC6` · `+15-25% Premium` · `Cross-Team Architecture` · `Multi-Asset Platform` · `RSU/4yr Vest`"
+---
 ### Staff Software Engineer | Coinbase Global Negotiation Guide
 
 **Negotiation DNA:** `Everything Exchange` · `$2B Buyback` · `COIN` · `IC6` · `+15-25% Premium` · `Cross-Team Architecture` · `Multi-Asset Platform` · `RSU/4yr Vest`

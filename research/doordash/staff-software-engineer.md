@@ -1,3 +1,48 @@
+---
+company: doordash
+company_display: DoorDash
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 248000
+    base_high: 310000
+    stock_low: 365000
+    stock_high: 632000
+    bonus_pct: 15
+    total_comp_low: 339000
+    total_comp_high: 468000
+    currency: USD
+  - region: New York City
+    base_low: 248000
+    base_high: 310000
+    stock_low: 365000
+    stock_high: 632000
+    bonus_pct: 15
+    total_comp_low: 339000
+    total_comp_high: 468000
+    currency: USD
+  - region: Sydney
+    base_low: 205000
+    base_high: 255000
+    stock_low: 238000
+    stock_high: 412000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 385000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: DoorDash Staff SWE = Google L5 = Uber Staff SWE = Meta E5 = Instacart Staff SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion"
+---
 ### Staff Software Engineer | DoorDash Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion

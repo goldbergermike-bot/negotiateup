@@ -1,3 +1,49 @@
+---
+company: unitedhealth-group
+company_display: UnitedHealth Group
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minnetonka MN
+    base_low: 145000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+  - region: Dallas TX
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 185000
+    total_comp_high: 290000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: UHG ML/AI Engineer = Google L4 ML = Meta ML4 = Optum T4-T5 ML Engineer
+data_sources:
+  - Levels.fyi
+  - Hired
+negotiation_dna_summary: "Health Insurance Giant / Bonus-Heavy Comp / RSU Growing | **+10-20% AI/ML PREMIUM**"
+---
 ### ML/AI Engineer | UnitedHealth Group Global Negotiation Guide
 
 **Negotiation DNA:** Health Insurance Giant / Bonus-Heavy Comp / RSU Growing | **+10-20% AI/ML PREMIUM**

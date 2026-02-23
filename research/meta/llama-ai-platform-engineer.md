@@ -1,3 +1,87 @@
+---
+company: meta
+company_display: Meta
+role: llama-ai-platform-engineer
+role_display: Llama AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Menlo Park / NYC)
+    base_low: 220000
+    base_high: 310000
+    stock_low: 350000
+    stock_high: 800000
+    bonus_pct: 15
+    total_comp_low: 400000
+    total_comp_high: 650000
+    currency: USD
+  - region: US (Seattle / Austin)
+    base_low: 210000
+    base_high: 295000
+    stock_low: 330000
+    stock_high: 750000
+    bonus_pct: 15
+    total_comp_low: 380000
+    total_comp_high: 620000
+    currency: USD
+  - region: London (UK)
+    base_low: 175000
+    base_high: 255000
+    stock_low: 280000
+    stock_high: 650000
+    bonus_pct: 15
+    total_comp_low: 320000
+    total_comp_high: 540000
+    currency: USD
+  - region: Canada (Toronto / Montreal)
+    base_low: 170000
+    base_high: 245000
+    stock_low: 260000
+    stock_high: 620000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 510000
+    currency: USD
+  - region: Germany (Berlin / Hamburg)
+    base_low: 160000
+    base_high: 235000
+    stock_low: 250000
+    stock_high: 600000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 490000
+    currency: USD
+  - region: Singapore
+    base_low: 155000
+    base_high: 225000
+    stock_low: 240000
+    stock_high: 580000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 470000
+    currency: USD
+  - region: India (Hyderabad / Bangalore)
+    base_low: 65000
+    base_high: 110000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 120000
+    total_comp_high: 240000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "E5 (Senior) maps to Google L5 / Amazon L6 / Apple ICT4; E6 (Staff) maps to Google L6 / Amazon L7 / Apple ICT5. Most Llama AI Platform Engineers are hired at E5 or E6, with E7 reserved for technical leads overseeing major Llama model generations."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Open-Source AI Leadership | Foundation Model Infrastructure | **STRATEGIC AI PREMIUM**"
+---
 ### Llama AI Platform Engineer | Meta Global Negotiation Guide
 
 **Negotiation DNA:** Open-Source AI Leadership | Foundation Model Infrastructure | **STRATEGIC AI PREMIUM**

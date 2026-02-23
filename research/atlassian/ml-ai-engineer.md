@@ -1,3 +1,50 @@
+---
+company: atlassian
+company_display: Atlassian
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 222000
+    base_high: 298000
+    stock_low: 218000
+    stock_high: 385000
+    bonus_pct: null
+    total_comp_low: 295000
+    total_comp_high: 420000
+    currency: AUD
+  - region: San Francisco
+    base_low: 178000
+    base_high: 222000
+    stock_low: 195000
+    stock_high: 335000
+    bonus_pct: null
+    total_comp_low: 250000
+    total_comp_high: 345000
+    currency: USD
+  - region: Amsterdam
+    base_low: 115000
+    base_high: 158000
+    stock_low: 130000
+    stock_high: 230000
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 255000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P4 Senior ML Eng = Google L4 ML = Meta E4 ML = Microsoft 63 ML = Datadog Senior ML
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage | +15-25% Agentic AI Premium"
+---
 ### ML/AI Engineer | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage | +15-25% Agentic AI Premium

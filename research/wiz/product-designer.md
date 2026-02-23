@@ -1,3 +1,38 @@
+---
+company: wiz
+company_display: Wiz
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 72000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "As a Product Designer at the $32B Hyperscaler Multicloud security leader, you craft the user experience that makes the world's most complex cloud security platform accessible to every enterprise team."
+---
 ### Product Designer — Wiz (Google) Salary Negotiation Guide
 
 **Negotiation DNA**: As a Product Designer at the $32B Hyperscaler Multicloud security leader, you craft the user experience that makes the world's most complex cloud security platform accessible to every enterprise team.

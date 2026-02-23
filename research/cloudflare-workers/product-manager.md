@@ -1,3 +1,48 @@
+---
+company: cloudflare-workers
+company_display: Cloudflare Workers
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 192000
+    base_high: 245000
+    stock_low: 210000
+    stock_high: 368000
+    bonus_pct: 15
+    total_comp_low: 295000
+    total_comp_high: 418000
+    currency: USD
+  - region: Austin
+    base_low: 182000
+    base_high: 235000
+    stock_low: 200000
+    stock_high: 352000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 402000
+    currency: USD
+  - region: London
+    base_low: 128000
+    base_high: 162000
+    stock_low: 138000
+    stock_high: 242000
+    bonus_pct: 15
+    total_comp_low: 192000
+    total_comp_high: 275000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Cloudflare PM (L4-L6) = Google PM L5-L7 = Meta PM E5-E7 = Vercel PM = Fastly PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NYSE: NET) + Bonus | Edge AI & Developer Platform Strategy | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**"
+---
 ### Product Manager | Cloudflare Workers Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NYSE: NET) + Bonus | Edge AI & Developer Platform Strategy | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**

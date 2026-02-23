@@ -1,3 +1,49 @@
+---
+company: juniper
+company_display: Juniper
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 132000
+    base_high: 170000
+    stock_low: 25000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 238000
+    currency: USD
+  - region: Westford (MA)
+    base_low: 122000
+    base_high: 158000
+    stock_low: 22000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 220000
+    currency: USD
+  - region: Remote US
+    base_low: 118000
+    base_high: 155000
+    stock_low: 20000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Juniper TPM (TPM2–TPM3) = Google L5–L6 TPM | Meta TPM–Sr. TPM | Amazon Sr. TPM–Principal TPM | Cisco Program Manager–Sr. PM | HPE Program Manager (IC4–IC5)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | Cross-Functional Execution Premium"
+---
 ### Technical Program Manager | Juniper Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | Cross-Functional Execution Premium

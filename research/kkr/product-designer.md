@@ -1,3 +1,50 @@
+---
+company: kkr
+company_display: KKR
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 135000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 22
+    total_comp_low: 228000
+    total_comp_high: 328000
+    currency: USD
+  - region: San Francisco
+    base_low: 140000
+    base_high: 178000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 22
+    total_comp_low: 236000
+    total_comp_high: 340000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 132000
+    stock_low: 78000
+    stock_high: 128000
+    bonus_low: 23000
+    bonus_high: 37000
+    total_comp_low: 206000
+    total_comp_high: 297000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#HighGrading` `#ValueCreation` `#OperationalAlpha` `#DesignForAlpha` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#UXStrategy`"
+---
 ### Product Designer | KKR Global Negotiation Guide
 
 **Negotiation DNA:** `#HighGrading` `#ValueCreation` `#OperationalAlpha` `#DesignForAlpha` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#UXStrategy`

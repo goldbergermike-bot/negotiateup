@@ -1,3 +1,87 @@
+---
+company: meta
+company_display: Meta
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Menlo Park / NYC)
+    base_low: 190000
+    base_high: 300000
+    stock_low: 250000
+    stock_high: 700000
+    bonus_pct: 15
+    total_comp_low: 340000
+    total_comp_high: 600000
+    currency: USD
+  - region: US (Seattle / Austin)
+    base_low: 180000
+    base_high: 285000
+    stock_low: 235000
+    stock_high: 660000
+    bonus_pct: 15
+    total_comp_low: 320000
+    total_comp_high: 570000
+    currency: USD
+  - region: London (UK)
+    base_low: 160000
+    base_high: 250000
+    stock_low: 200000
+    stock_high: 560000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 500000
+    currency: USD
+  - region: Canada (Toronto / Montreal)
+    base_low: 150000
+    base_high: 235000
+    stock_low: 190000
+    stock_high: 530000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 475000
+    currency: USD
+  - region: Germany (Berlin / Hamburg)
+    base_low: 140000
+    base_high: 225000
+    stock_low: 175000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 450000
+    currency: USD
+  - region: Singapore
+    base_low: 135000
+    base_high: 215000
+    stock_low: 170000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 430000
+    currency: USD
+  - region: India (Hyderabad / Bangalore)
+    base_low: 60000
+    base_high: 105000
+    stock_low: 75000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 105000
+    total_comp_high: 225000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: IC4 (PM) maps to Google L4 PM / Amazon L5 PM-T; IC5 (Senior PM) maps to Google L5 PM / Amazon L6 PM-T; IC6 (Staff/Principal PM) maps to Google L6 PM / Amazon L7 PM-T. Director PM and VP PM roles exist above IC6.
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Cross-Functional Product Leadership | Billions-Scale Feature Strategy | **META PM IMPACT PREMIUM**"
+---
 ### Product Manager | Meta Global Negotiation Guide
 
 **Negotiation DNA:** Cross-Functional Product Leadership | Billions-Scale Feature Strategy | **META PM IMPACT PREMIUM**

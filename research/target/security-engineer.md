@@ -1,3 +1,30 @@
+---
+company: target
+company_display: Target
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 115000
+    base_high: 165000
+    stock_low: 30000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target Security Engineer = Google Security Engineer L3-L4 = Amazon Security Engineer = Walmart Security Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage"
+---
 ### Security Engineer | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage

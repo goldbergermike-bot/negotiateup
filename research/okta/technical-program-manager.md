@@ -1,3 +1,48 @@
+---
+company: okta
+company_display: Okta
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 335000
+    currency: USD
+  - region: Toronto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 272000
+    currency: CAD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 166000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "Technical Program Managers at Okta drive the cross-functional execution that delivers the NHI Fabric and Identity Governance platform — coordinating engineering, product, security, and design teams to ship Non-Human Identity governance capabilities before Microsoft Entra captures the market."
+---
 ### Technical Program Manager — Okta Salary Negotiation Guide
 
 **Negotiation DNA**: Technical Program Managers at Okta drive the cross-functional execution that delivers the NHI Fabric and Identity Governance platform — coordinating engineering, product, security, and design teams to ship Non-Human Identity governance capabilities before Microsoft Entra captures the market.

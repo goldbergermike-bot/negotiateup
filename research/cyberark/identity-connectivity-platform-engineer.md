@@ -1,3 +1,46 @@
+---
+company: cyberark
+company_display: Cyberark
+role: identity-connectivity-platform-engineer
+role_display: Identity-Connectivity Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newton MA
+    base_low: 160000
+    base_high: 210000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_pct: 12
+    signing_bonus_low: 20000
+    signing_bonus_high: 45000
+    total_comp_low: 340000
+    total_comp_high: 555000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 125000
+    stock_low: 38000
+    stock_high: 75000
+    bonus_pct: 12
+    signing_bonus_low: 15000
+    signing_bonus_high: 34000
+    total_comp_low: 215000
+    total_comp_high: 370000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Identity-Connectivity Platform Engineer at CyberArk maps to E4–E6 in the Palo Alto Networks engineering ladder, depending on experience. This is a high-impact IC role that spans mid-senior to staff-level scope within the Identity Security platform team. The most senior hires may receive Principal-level (E7) consideration for platform architecture ownership."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+  - Blind
+negotiation_dna_summary: "CyberArk (acquired by Palo Alto Networks) | Identity-First Connectivity Platform | Privileged Access Management & Identity Security | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London"
+---
 ### Identity-Connectivity Platform Engineer | CyberArk Global Negotiation Guide
 
 **Negotiation DNA:** CyberArk (acquired by Palo Alto Networks) | Identity-First Connectivity Platform | Privileged Access Management & Identity Security | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London

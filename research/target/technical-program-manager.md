@@ -1,3 +1,30 @@
+---
+company: target
+company_display: Target
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 115000
+    base_high: 165000
+    stock_low: 30000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target TPM = Google TPM L4 = Amazon TPM = Walmart TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage"
+---
 ### Technical Program Manager | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage

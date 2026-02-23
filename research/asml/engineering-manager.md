@@ -1,3 +1,50 @@
+---
+company: asml
+company_display: Asml
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 98000
+    base_high: 118000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_pct: 12
+    total_comp_low: 98000
+    total_comp_high: 138000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 175000
+    base_high: 245000
+    stock_low: 65000
+    stock_high: 100000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 365000
+    currency: USD
+  - region: San Jose
+    base_low: 185000
+    base_high: 255000
+    stock_low: 70000
+    stock_high: 105000
+    bonus_pct: 15
+    total_comp_low: 272000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML Engineering Manager maps to Google L6 Manager, Meta M1, Apple Engineering Manager, Microsoft SDE Manager 65–66, and TSMC Section Manager."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Manager Band"
+---
 ### Engineering Manager | ASML Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Manager Band

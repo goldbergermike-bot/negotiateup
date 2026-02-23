@@ -1,3 +1,48 @@
+---
+company: cloudflare-workers
+company_display: Cloudflare Workers
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 198000
+    base_high: 255000
+    stock_low: 215000
+    stock_high: 378000
+    bonus_pct: 10
+    total_comp_low: 310000
+    total_comp_high: 432000
+    currency: USD
+  - region: Austin
+    base_low: 188000
+    base_high: 245000
+    stock_low: 205000
+    stock_high: 362000
+    bonus_pct: 10
+    total_comp_low: 298000
+    total_comp_high: 418000
+    currency: USD
+  - region: London
+    base_low: 132000
+    base_high: 170000
+    stock_low: 142000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 288000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Cloudflare ML/AI (L3-L5) = Google ML L4-L6 = Meta ML E4-E6 = Fastly AI = AWS Inferentia ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NYSE: NET) + Bonus | Edge AI Inference & Model Optimization | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**"
+---
 ### ML/AI Engineer | Cloudflare Workers Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NYSE: NET) + Bonus | Edge AI Inference & Model Optimization | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**

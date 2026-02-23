@@ -1,3 +1,48 @@
+---
+company: stripe
+company_display: Stripe
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 225000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 342000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 225000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 342000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 212000
+    stock_low: 158000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stripe SWE (L2-L3) = Adyen SWE = Block/Square SWE = PayPal/Braintree SWE = Checkout.com SWE = Google L3-L4 Payments
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | **TRUST ORCHESTRATOR PREMIUM**"
+---
 ### Software Engineer | Stripe Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | **TRUST ORCHESTRATOR PREMIUM**

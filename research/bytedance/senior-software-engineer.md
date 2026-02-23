@@ -1,3 +1,86 @@
+---
+company: bytedance
+company_display: Bytedance
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Mountain View (US)
+    base_low: 185000
+    base_high: 255000
+    stock_low: 130000
+    stock_high: 350000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 470000
+    currency: USD
+  - region: New York City (US)
+    base_low: 180000
+    base_high: 250000
+    stock_low: 125000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 455000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 180000
+    base_high: 250000
+    stock_low: 125000
+    stock_high: 335000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 450000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 550000
+    base_high: 1000000
+    stock_low: 300000
+    stock_high: 750000
+    bonus_pct: 20
+    total_comp_low: 900000
+    total_comp_high: 1750000
+    currency: CNY
+  - region: Shanghai
+    base_low: 520000
+    base_high: 960000
+    stock_low: 280000
+    stock_high: 710000
+    bonus_pct: 20
+    total_comp_low: 850000
+    total_comp_high: 1700000
+    currency: CNY
+  - region: Singapore
+    base_low: 145000
+    base_high: 220000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 365000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 175000
+    stock_low: 65000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 285000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Senior Software Engineer at ByteDance (2-2) = L5 at Google, IC5 at Meta, SDE III at Amazon, Senior at Apple"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Private $225B+ with senior comp matching Google L5/Meta IC5 + TikTok platform at hyper-growth scale + RSU grants with pre-IPO upside potential | Senior engineers at ByteDance lead core platform systems for 1.5B+ TikTok users | **GROWTH-STAGE SENIOR PREMIUM**"
+---
 ### Senior Software Engineer | ByteDance Global Negotiation Guide
 
 **Negotiation DNA:** Private $225B+ with senior comp matching Google L5/Meta IC5 + TikTok platform at hyper-growth scale + RSU grants with pre-IPO upside potential | Senior engineers at ByteDance lead core platform systems for 1.5B+ TikTok users | **GROWTH-STAGE SENIOR PREMIUM**

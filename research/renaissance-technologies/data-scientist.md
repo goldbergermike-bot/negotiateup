@@ -1,3 +1,51 @@
+---
+company: renaissance-technologies
+company_display: Renaissance Technologies
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: East Setauket HQ (Long Island)
+    base_low: 290000
+    base_high: 350000
+    stock_low: null
+    stock_high: null
+    bonus_low: 125000
+    bonus_high: 225000
+    total_comp_low: 550000
+    total_comp_high: 800000
+    currency: USD
+  - region: New York City
+    base_low: 300000
+    base_high: 350000
+    stock_low: null
+    stock_high: null
+    bonus_low: 130000
+    bonus_high: 235000
+    total_comp_low: 565000
+    total_comp_high: 810000
+    currency: USD
+  - region: Remote US (Very Rare)
+    base_low: 275000
+    base_high: 330000
+    stock_low: null
+    stock_high: null
+    bonus_low: 110000
+    bonus_high: 195000
+    total_comp_low: 495000
+    total_comp_high: 710000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Medallion Fund` `Gold Standard` `Quant Pioneer` `Statistical Modeling` `Signal Research` `Academic Culture` `PhD-Driven`"
+---
 ### Data Scientist | Renaissance Technologies Global Negotiation Guide
 
 **Negotiation DNA:** `Medallion Fund` `Gold Standard` `Quant Pioneer` `Statistical Modeling` `Signal Research` `Academic Culture` `PhD-Driven`

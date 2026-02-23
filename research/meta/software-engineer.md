@@ -1,3 +1,87 @@
+---
+company: meta
+company_display: Meta
+role: software-engineer
+role_display: Software Engineer (E3/E4)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Menlo Park / NYC)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 370000
+    currency: USD
+  - region: US (Seattle / Austin)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 110000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 345000
+    currency: USD
+  - region: London (UK)
+    base_low: 125000
+    base_high: 175000
+    stock_low: 95000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 170000
+    total_comp_high: 295000
+    currency: USD
+  - region: Canada (Toronto / Montreal)
+    base_low: 120000
+    base_high: 170000
+    stock_low: 90000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 160000
+    total_comp_high: 280000
+    currency: USD
+  - region: Germany (Berlin / Hamburg)
+    base_low: 110000
+    base_high: 160000
+    stock_low: 80000
+    stock_high: 215000
+    bonus_pct: 15
+    total_comp_low: 145000
+    total_comp_high: 265000
+    currency: USD
+  - region: Singapore
+    base_low: 105000
+    base_high: 155000
+    stock_low: 75000
+    stock_high: 205000
+    bonus_pct: 15
+    total_comp_low: 140000
+    total_comp_high: 255000
+    currency: USD
+  - region: India (Hyderabad / Bangalore)
+    base_low: 40000
+    base_high: 70000
+    stock_low: 35000
+    stock_high: 110000
+    bonus_pct: 15
+    total_comp_low: 60000
+    total_comp_high: 130000
+    currency: USD
+level_mapping:
+  internal: E3/E4
+  raw: "E3 maps to Google L3 / Amazon L4 SDE I / Apple ICT2 / Microsoft Level 59-60; E4 maps to Google L4 / Amazon L5 SDE II / Apple ICT3 / Microsoft Level 61-62. E3 is entry-level; E4 is the \"expected\" level after 2-3 years at Meta or for experienced external hires."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "High-Growth Engineering Talent | Meta Bootcamp Fast-Track | **META EARLY CAREER PREMIUM**"
+---
 ### Software Engineer (E3/E4) | Meta Global Negotiation Guide
 
 **Negotiation DNA:** High-Growth Engineering Talent | Meta Bootcamp Fast-Track | **META EARLY CAREER PREMIUM**

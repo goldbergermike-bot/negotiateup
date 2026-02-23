@@ -1,3 +1,50 @@
+---
+company: sambanova
+company_display: Sambanova
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 135000
+    base_high: 172000
+    stock_low: 25000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: USD
+  - region: Austin
+    base_low: 120000
+    base_high: 155000
+    stock_low: 20000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 148000
+    stock_low: 18000
+    stock_high: 36000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SambaNova DevOps Engineer ~ Google SRE (L4–L5) | Meta Production Engineer (IC4–IC5) | Amazon Systems Engineer II–III | Apple DevOps | Microsoft DevOps (62–64)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +20% Agentic Orchestrator Premium"
+---
 ### DevOps Engineer | SambaNova Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | +20% Agentic Orchestrator Premium

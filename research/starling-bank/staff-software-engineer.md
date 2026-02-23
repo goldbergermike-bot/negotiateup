@@ -1,3 +1,52 @@
+---
+company: starling-bank
+company_display: Starling Bank
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 112000
+    base_high: 138000
+    stock_low: 18000
+    stock_high: 32000
+    bonus_low: 12000
+    bonus_high: 20000
+    total_comp_low: 142000
+    total_comp_high: 190000
+    currency: GBP
+  - region: Cardiff
+    base_low: 95000
+    base_high: 117000
+    stock_low: 15000
+    stock_high: 27000
+    bonus_low: 10000
+    bonus_high: 17000
+    total_comp_low: 120000
+    total_comp_high: 161000
+    currency: GBP
+  - region: Southampton
+    base_low: 99000
+    base_high: 121000
+    stock_low: 16000
+    stock_high: 28000
+    bonus_low: 11000
+    bonus_high: 18000
+    total_comp_low: 126000
+    total_comp_high: 167000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Architecture` `Cross-Team Impact` `Technical Strategy`"
+---
 ### Staff Software Engineer | Starling Bank Global Negotiation Guide
 
 **Negotiation DNA:** `Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Architecture` `Cross-Team Impact` `Technical Strategy`

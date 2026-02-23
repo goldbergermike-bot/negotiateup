@@ -1,3 +1,50 @@
+---
+company: figma
+company_display: Figma
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 220000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 5
+    total_comp_low: 235000
+    total_comp_high: 350000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 220000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 5
+    total_comp_low: 235000
+    total_comp_high: 350000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 168000
+    stock_low: 114000
+    stock_high: 213000
+    bonus_pct: 5
+    total_comp_low: 179000
+    total_comp_high: 266000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Figma Product Designer = Google L4 UX Designer = Meta IC4 Product Designer = Adobe Product Designer = Sketch Product Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Design-Premium Base + Strong Equity | Design Platform Pioneer | 2026 Focus: AI-Augmented Design Workflows"
+---
 ### Product Designer | Figma Global Negotiation Guide
 
 **Negotiation DNA:** Design-Premium Base + Strong Equity | Design Platform Pioneer | 2026 Focus: AI-Augmented Design Workflows

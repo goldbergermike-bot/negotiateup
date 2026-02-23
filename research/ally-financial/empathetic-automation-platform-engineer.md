@@ -1,3 +1,52 @@
+---
+company: ally-financial
+company_display: Ally Financial
+role: empathetic-automation-platform-engineer
+role_display: Empathetic Automation Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Detroit, MI (HQ)"
+    base_low: 228000
+    base_high: 318000
+    stock_low: 65000
+    stock_high: 108000
+    bonus_low: 55000
+    bonus_high: 82000
+    total_comp_low: 348000
+    total_comp_high: 508000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 239000
+    base_high: 334000
+    stock_low: 68000
+    stock_high: 113000
+    bonus_low: 58000
+    bonus_high: 86000
+    total_comp_low: 365000
+    total_comp_high: 533000
+    currency: USD
+  - region: New York
+    base_low: 269000
+    base_high: 375000
+    stock_low: 77000
+    stock_high: 127000
+    bonus_low: 65000
+    bonus_high: 97000
+    total_comp_low: 411000
+    total_comp_high: 599000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "`Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Platform Engineering` `Fairness-by-Design` `AI Ethics Infrastructure` `Algorithmic Accountability` `Human-Centered AI Systems`"
+---
 ### Empathetic Automation Platform Engineer | Ally Financial Global Negotiation Guide
 
 **SIGNATURE ROLE**

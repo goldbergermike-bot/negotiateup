@@ -1,3 +1,48 @@
+---
+company: netflix
+company_display: Netflix
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 220000
+    base_high: 278000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 278000
+    currency: USD
+  - region: San Francisco
+    base_low: 227000
+    base_high: 286000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 227000
+    total_comp_high: 286000
+    currency: USD
+  - region: London
+    base_low: 168000
+    base_high: 212000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 168000
+    total_comp_high: 212000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Netflix Data Scientist = Google L4-L5 DS = Meta IC4-IC5 DS = Apple Data Scientist = Amazon DS / Senior DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture"
+---
 ### Data Scientist | Netflix Global Negotiation Guide
 
 **Negotiation DNA:** All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture

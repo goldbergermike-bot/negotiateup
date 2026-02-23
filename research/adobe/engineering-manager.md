@@ -1,3 +1,51 @@
+---
+company: adobe
+company_display: Adobe
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 198000
+    base_high: 242000
+    stock_low: 248000
+    stock_high: 400000
+    bonus_pct: 12
+    total_comp_low: 282000
+    total_comp_high: 368000
+    currency: USD
+  - region: London
+    base_low: 129000
+    base_high: 157000
+    stock_low: 149000
+    stock_high: 240000
+    bonus_pct: 12
+    total_comp_low: 183000
+    total_comp_high: 239000
+    currency: GBP
+  - region: Bangalore
+    base_low: 5900000
+    base_high: 7200000
+    stock_low: 6200000
+    stock_high: 12000000
+    bonus_pct: 12
+    total_comp_low: 8500000
+    total_comp_high: 11000000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "Balanced Comp Model (Base + Equity + 12-18% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)"
+---
 ### Engineering Manager | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp Model (Base + Equity + 12-18% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)

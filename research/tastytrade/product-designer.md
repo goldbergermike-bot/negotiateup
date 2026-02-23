@@ -1,3 +1,52 @@
+---
+company: tastytrade
+company_display: Tastytrade
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 108000
+    base_high: 148000
+    stock_low: null
+    stock_high: null
+    bonus_low: 19000
+    bonus_high: 30000
+    total_comp_low: 145000
+    total_comp_high: 208000
+    currency: USD
+  - region: New York
+    base_low: 119000
+    base_high: 163000
+    stock_low: null
+    stock_high: null
+    bonus_low: 21000
+    bonus_high: 33000
+    total_comp_low: 160000
+    total_comp_high: 229000
+    currency: USD
+  - region: London
+    base_low: 82000
+    base_high: 113000
+    stock_low: 14000
+    stock_high: 23000
+    bonus_low: 14000
+    bonus_high: 23000
+    total_comp_low: 110000
+    total_comp_high: 159000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Derivatives UX` `Options Chain Visualization` `Trader-Centric Design`"
+---
 ### Product Designer | Tastytrade Global Negotiation Guide
 
 **Negotiation DNA:** `Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Derivatives UX` `Options Chain Visualization` `Trader-Centric Design`

@@ -1,3 +1,48 @@
+---
+company: mckinsey
+company_display: Mckinsey
+role: quantum-black-ai-engineer
+role_display: QuantumBlack AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 195000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 255000
+    total_comp_high: 390000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 160000
+    total_comp_high: 263000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4000000
+    base_high: 6500000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 5200000
+    total_comp_high: 9800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: McKinsey QuantumBlack Senior AI Engineer = Google L5 ML = Meta E5 ML = Palantir Forward Deployed Engineer
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus | **SIGNATURE ROLE** | **+15-25% ADVANCED AI PREMIUM**"
+---
 ### QuantumBlack AI Engineer | McKinsey Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus | **SIGNATURE ROLE** | **+15-25% ADVANCED AI PREMIUM**

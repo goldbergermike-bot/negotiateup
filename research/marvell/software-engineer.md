@@ -1,3 +1,49 @@
+---
+company: marvell
+company_display: Marvell
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 130000
+    base_high: 165000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 228000
+    currency: USD
+  - region: Boise
+    base_low: 115000
+    base_high: 148000
+    stock_low: 65000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 198000
+    currency: USD
+  - region: Remote US
+    base_low: 120000
+    base_high: 155000
+    stock_low: 70000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 212000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Marvell T3–T4 = Google L3–L4 = Meta E3–E4 = Apple ICT2–ICT3 = Broadcom Grade 8–9
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | Standard Band"
+---
 ### Software Engineer | Marvell Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | Standard Band

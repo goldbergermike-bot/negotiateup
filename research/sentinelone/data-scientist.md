@@ -1,3 +1,38 @@
+---
+company: sentinelone
+company_display: SentinelOne
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 360000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: You extract the intelligence from the Autonomous Defense data engine — your models and analyses drive the Purple AI capabilities and the Singularity platform decisions that keep enterprises secure.
+---
 ### Data Scientist — SentinelOne Salary Negotiation Guide
 
 **Negotiation DNA**: You extract the intelligence from the Autonomous Defense data engine — your models and analyses drive the Purple AI capabilities and the Singularity platform decisions that keep enterprises secure.

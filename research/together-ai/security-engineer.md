@@ -1,3 +1,50 @@
+---
+company: together-ai
+company_display: Together AI
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 218000
+    stock_low: 42000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 278000
+    currency: USD
+  - region: Seattle
+    base_low: 157000
+    base_high: 207000
+    stock_low: 40000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 264000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 196000
+    stock_low: 37000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 250000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Together AI Security Engineer ≈ Google Security Engineer L4–L5 · Meta Security Engineer IC4 · Amazon Security Engineer III · Anthropic Security Engineer · Apple IS&T Security"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +20% Kernel Innovation Premium"
+---
 ### Security Engineer | Together AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +20% Kernel Innovation Premium

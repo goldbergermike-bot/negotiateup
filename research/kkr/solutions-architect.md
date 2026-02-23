@@ -1,3 +1,50 @@
+---
+company: kkr
+company_display: KKR
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 175000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 24
+    total_comp_low: 312000
+    total_comp_high: 448000
+    currency: USD
+  - region: San Francisco
+    base_low: 182000
+    base_high: 228000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 24
+    total_comp_low: 322000
+    total_comp_high: 462000
+    currency: USD
+  - region: London
+    base_low: 136000
+    base_high: 170000
+    stock_low: 116000
+    stock_high: 186000
+    bonus_low: 33000
+    bonus_high: 50000
+    total_comp_low: 285000
+    total_comp_high: 406000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#HighGrading` `#ValueCreation` `#OperationalAlpha` `#PortfolioArchitecture` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#EnterpriseDesign`"
+---
 ### Solutions Architect | KKR Global Negotiation Guide
 
 **Negotiation DNA:** `#HighGrading` `#ValueCreation` `#OperationalAlpha` `#PortfolioArchitecture` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#EnterpriseDesign`

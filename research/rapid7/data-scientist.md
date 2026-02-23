@@ -1,3 +1,48 @@
+---
+company: rapid7
+company_display: Rapid7
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 148000
+    total_comp_high: 340000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 133000
+    total_comp_high: 318000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 65000
+    total_comp_high: 153000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Data Scientists at Rapid7 develop detection models, behavioral analytics, and intelligence frameworks that transform security telemetry into actionable insights across the Insight Platform's vulnerability management, SIEM, and cloud security products."
+---
 ### Data Scientist — Rapid7 Salary Negotiation Guide
 
 **Negotiation DNA**: Data Scientists at Rapid7 develop detection models, behavioral analytics, and intelligence frameworks that transform security telemetry into actionable insights across the Insight Platform's vulnerability management, SIEM, and cloud security products.

@@ -1,3 +1,49 @@
+---
+company: tsmc
+company_display: TSMC
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Phoenix AZ
+    base_low: 125000
+    base_high: 165000
+    stock_low: 28000
+    stock_high: 48000
+    bonus_pct: 15
+    total_comp_low: 168000
+    total_comp_high: 235000
+    currency: USD
+  - region: San Jose
+    base_low: 138000
+    base_high: 178000
+    stock_low: 32000
+    stock_high: 55000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 255000
+    currency: USD
+  - region: Hsinchu Taiwan
+    base_low: null
+    base_high: null
+    stock_low: 20000
+    stock_high: 38000
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: TSMC Technical Program Manager = Intel Foundry TPM = Samsung Foundry TPM = Applied Materials Senior PM = Google TPM = Amazon Senior TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone"
+---
 ### Technical Program Manager | TSMC Global Negotiation Guide
 
 **Negotiation DNA:** Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone

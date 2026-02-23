@@ -1,3 +1,48 @@
+---
+company: square
+company_display: Square
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 232000
+    base_high: 292000
+    stock_low: 298000
+    stock_high: 525000
+    bonus_pct: 15
+    total_comp_low: 368000
+    total_comp_high: 498000
+    currency: USD
+  - region: New York
+    base_low: 232000
+    base_high: 292000
+    stock_low: 298000
+    stock_high: 525000
+    bonus_pct: 15
+    total_comp_low: 368000
+    total_comp_high: 498000
+    currency: USD
+  - region: Remote US
+    base_low: 218000
+    base_high: 275000
+    stock_low: 278000
+    stock_high: 492000
+    bonus_pct: 15
+    total_comp_low: 345000
+    total_comp_high: 468000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Square Staff SWE (IC5) = Stripe IC4 = Shopify Staff SWE = Google L6 Commerce = Meta E6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Block RSUs) + Bonus | AI-Powered Commerce Tools | $45B+ Market Cap | 56M+ Sellers | +15–25% Staff Premium | **COMMERCE AI PREMIUM**"
+---
 ### Staff Software Engineer | Square Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Block RSUs) + Bonus | AI-Powered Commerce Tools | $45B+ Market Cap | 56M+ Sellers | +15–25% Staff Premium | **COMMERCE AI PREMIUM**

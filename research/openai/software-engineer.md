@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 225000
+    stock_low: 250000
+    stock_high: 425000
+    bonus_pct: null
+    total_comp_low: 243000
+    total_comp_high: 331000
+    currency: USD
+  - region: Seattle
+    base_low: 175000
+    base_high: 218000
+    stock_low: 250000
+    stock_high: 425000
+    bonus_pct: null
+    total_comp_low: 238000
+    total_comp_high: 324000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 155000
+    stock_low: 180000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 232000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI SWE (L3-L4) = Google L3-L4 SWE = Meta E3-E4 = Anthropic SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)"
+---
 ### Software Engineer | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)

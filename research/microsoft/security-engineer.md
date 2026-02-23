@@ -1,3 +1,67 @@
+---
+company: microsoft
+company_display: Microsoft
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Security Engineer I-II
+    base_low: 120000
+    base_high: 168000
+    stock_low: 55000
+    stock_high: 150000
+    bonus_pct: 10
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 150000
+    total_comp_high: 238000
+    currency: USD
+  - region: Senior Security Engineer
+    base_low: 155000
+    base_high: 218000
+    stock_low: 115000
+    stock_high: 310000
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 50000
+    total_comp_low: 228000
+    total_comp_high: 370000
+    currency: USD
+  - region: Principal Security Engineer
+    base_low: 195000
+    base_high: 275000
+    stock_low: 245000
+    stock_high: 560000
+    bonus_pct: 20
+    signing_bonus_low: 40000
+    signing_bonus_high: 80000
+    total_comp_low: 340000
+    total_comp_high: 530000
+    currency: USD
+  - region: Partner / Distinguished Security
+    base_low: 260000
+    base_high: 355000
+    stock_low: 480000
+    stock_high: 1100000
+    bonus_pct: 25
+    signing_bonus_low: 60000
+    signing_bonus_high: 120000
+    total_comp_low: 510000
+    total_comp_high: 820000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: null
+---
 # Security Engineer - Microsoft Negotiation Guide
 
 ## Role Overview

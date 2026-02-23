@@ -1,3 +1,40 @@
+---
+company: postman
+company_display: Postman
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco HQ
+    base_low: 150000
+    base_high: 210000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Postman Senior Designer = GitLab Senior Designer = Stripe Senior Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($5.6B Valuation) | API Development Platform | 30M+ Developer User Base | Liquidity Risk"
+---
 ### Product Designer | Postman Global Negotiation Guide
 
 **Negotiation DNA:** Private ($5.6B Valuation) | API Development Platform | 30M+ Developer User Base | Liquidity Risk

@@ -1,3 +1,48 @@
+---
+company: dropbox
+company_display: Dropbox
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 248000
+    stock_low: 175000
+    stock_high: 315000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 385000
+    currency: USD
+  - region: Seattle
+    base_low: 188000
+    base_high: 242000
+    stock_low: 168000
+    stock_high: 305000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 372000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 228000
+    stock_low: 158000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 352000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Dropbox ML/AI (IC4-IC6) = Google ML L5-L6 = Meta ML E5-E6 = OpenAI Research Eng = Elastic ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NASDAQ: DBX) + Bonus | Dash AI Core Intelligence | $8B+ Market Cap | 700M+ Users | **DASH AI PREMIUM**"
+---
 ### ML/AI Engineer | Dropbox Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NASDAQ: DBX) + Bonus | Dash AI Core Intelligence | $8B+ Market Cap | 700M+ Users | **DASH AI PREMIUM**

@@ -1,3 +1,42 @@
+---
+company: bridgewater-associates
+company_display: Bridgewater Associates
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westport, CT (HQ)"
+    base_low: 215000
+    base_high: 300000
+    stock_low: null
+    stock_high: null
+    bonus_low: 172000
+    bonus_high: 600000
+    total_comp_low: 387000
+    total_comp_high: 900000
+    currency: USD
+  - region: New York City
+    base_low: 225000
+    base_high: 315000
+    stock_low: null
+    stock_high: null
+    bonus_low: 180000
+    bonus_high: 630000
+    total_comp_low: 405000
+    total_comp_high: 945000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Staff Software Engineer at Bridgewater = L6/L7 at Google, E6/E7 at Meta, Principal SDE at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Principal-level technical leadership shaping investment technology strategy | Top-of-ladder IC role with outsized bonus potential | **ELITE HEDGE FUND PREMIUM**"
+---
 ### Staff Software Engineer | Bridgewater Associates Global Negotiation Guide
 
 **Negotiation DNA:** ~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Principal-level technical leadership shaping investment technology strategy | Top-of-ladder IC role with outsized bonus potential | **ELITE HEDGE FUND PREMIUM**

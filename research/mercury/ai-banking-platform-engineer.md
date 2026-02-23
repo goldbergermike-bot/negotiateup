@@ -1,3 +1,51 @@
+---
+company: mercury
+company_display: Mercury
+role: ai-banking-platform-engineer
+role_display: AI Banking Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 255000
+    stock_low: 260000
+    stock_high: 440000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 375000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 250000
+    stock_low: 250000
+    stock_high: 420000
+    bonus_pct: 10
+    total_comp_low: 260000
+    total_comp_high: 365000
+    currency: USD
+  - region: Remote (US)
+    base_low: 178000
+    base_high: 235000
+    stock_low: 230000
+    stock_high: 390000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Mercury AI Platform Eng (Senior) = Google L4-L5 ML Platform = Stripe L3-L4 ML Infra = Brex Senior AI
+data_sources:
+  - Mercury AI/ML Platform — Product Strategy 2026
+  - "Mercury Pre-IPO Valuation & Equity Benchmarks 2026"
+  - AI Banking Platform Engineering — Market Comp Report 2026
+  - "Regulated Financial AI — Model Governance & Compliance Trends"
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | **SIGNATURE ROLE** | **+15–30% AI BANKING PREMIUM**"
+---
 ### AI Banking Platform Engineer | Mercury Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | **SIGNATURE ROLE** | **+15–30% AI BANKING PREMIUM**

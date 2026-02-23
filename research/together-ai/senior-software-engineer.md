@@ -1,3 +1,49 @@
+---
+company: together-ai
+company_display: Together AI
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 245000
+    stock_low: 50000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 312000
+    currency: USD
+  - region: Seattle
+    base_low: 176000
+    base_high: 233000
+    stock_low: 47000
+    stock_high: 81000
+    bonus_pct: 10
+    total_comp_low: 211000
+    total_comp_high: 296000
+    currency: USD
+  - region: Remote US
+    base_low: 166000
+    base_high: 220000
+    stock_low: 44000
+    stock_high: 76000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Together AI Senior SWE ≈ Google L5 · Meta E5 · OpenAI IC3 · Anthropic Senior SWE · Amazon SDE III · Apple ICT4
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +20% Kernel Innovation Premium"
+---
 ### Senior Software Engineer | Together AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +20% Kernel Innovation Premium

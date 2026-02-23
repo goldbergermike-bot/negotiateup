@@ -1,3 +1,48 @@
+---
+company: bain
+company_display: Bain
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 140000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 175000
+    total_comp_high: 268000
+    currency: USD
+  - region: New York
+    base_low: 145000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 181000
+    total_comp_high: 276000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 130000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 113000
+    total_comp_high: 189000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Bain Product Designer = Google L4 UX = Meta IC4 Product Designer = Figma Senior Designer
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (25-45%) | No Equity | Analytics Product Design"
+---
 ### Product Designer | Bain Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (25-45%) | No Equity | Analytics Product Design

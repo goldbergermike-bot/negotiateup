@@ -1,3 +1,49 @@
+---
+company: payerve
+company_display: Payerve
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dubai
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Riyadh
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Remote MENA
+    base_low: 72000
+    base_high: 110000
+    stock_low: 18000
+    stock_high: 40000
+    bonus_low: 7000
+    bonus_high: 14000
+    total_comp_low: 97000
+    total_comp_high: 164000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Payerve | Google | Meta | Stripe | Checkout.com | Thunes |"
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "`Private` `MENA Facilitator` `Payment Infrastructure` `Dubai HQ` `Growth-Stage Fintech` `Options Equity` `UX/UI` `Design Systems`"
+---
 ### Product Designer | Payerve Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `MENA Facilitator` `Payment Infrastructure` `Dubai HQ` `Growth-Stage Fintech` `Options Equity` `UX/UI` `Design Systems`

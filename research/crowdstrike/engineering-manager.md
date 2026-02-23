@@ -1,3 +1,48 @@
+---
+company: crowdstrike
+company_display: CrowdStrike
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 360000
+    currency: USD
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 400000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: Engineering Managers at CrowdStrike lead the teams building the Agentic Security Platform and drive execution for the Orchestrators of the Agentic SOC initiative across the Falcon engineering organization.
+---
 ### Engineering Manager — CrowdStrike Salary Negotiation Guide
 
 **Negotiation DNA**: Engineering Managers at CrowdStrike lead the teams building the Agentic Security Platform and drive execution for the Orchestrators of the Agentic SOC initiative across the Falcon engineering organization.

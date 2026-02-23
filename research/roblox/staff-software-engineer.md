@@ -1,3 +1,48 @@
+---
+company: roblox
+company_display: Roblox
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo
+    base_low: 240000
+    base_high: 310000
+    stock_low: 280000
+    stock_high: 500000
+    bonus_pct: 10
+    total_comp_low: 328000
+    total_comp_high: 455000
+    currency: USD
+  - region: New York
+    base_low: 235000
+    base_high: 305000
+    stock_low: 265000
+    stock_high: 480000
+    bonus_pct: 10
+    total_comp_low: 318000
+    total_comp_high: 440000
+    currency: USD
+  - region: Remote US
+    base_low: 220000
+    base_high: 285000
+    stock_low: 240000
+    stock_high: 440000
+    bonus_pct: 10
+    total_comp_low: 298000
+    total_comp_high: 410000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Roblox Staff Software Engineer (IC5) = Google L6 = Meta E6 = Amazon Principal SDE = Apple ICT5 = Microsoft 65-66
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**"
+---
 ### Staff Software Engineer | Roblox Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**

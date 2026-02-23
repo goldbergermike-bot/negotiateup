@@ -1,3 +1,40 @@
+---
+company: postman
+company_display: Postman
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco HQ
+    base_low: 160000
+    base_high: 225000
+    stock_low: 75000
+    stock_high: 215000
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 210000
+    stock_low: 65000
+    stock_high: 195000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Postman Senior DS = GitLab DS = Google L4 DS = Stripe DS
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($5.6B Valuation) | API Development Platform | 30M+ Developer User Base | Liquidity Risk"
+---
 ### Data Scientist | Postman Global Negotiation Guide
 
 **Negotiation DNA:** Private ($5.6B Valuation) | API Development Platform | 30M+ Developer User Base | Liquidity Risk

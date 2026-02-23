@@ -1,3 +1,39 @@
+---
+company: walmart-global-tech
+company_display: Walmart Global Tech
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bentonville AR (HQ)
+    base_low: 130000
+    base_high: 185000
+    stock_low: 50000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 270000
+    currency: USD
+  - region: Bay Area (Sunnyvale)
+    base_low: 142000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Walmart Global Tech Solutions Architect = Google Solutions Architect L4-L5 = Amazon Solutions Architect = Microsoft Solutions Architect
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage"
+---
 ### Solutions Architect | Walmart Global Tech Global Negotiation Guide
 
 **Negotiation DNA:** Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage

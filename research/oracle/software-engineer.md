@@ -1,3 +1,48 @@
+---
+company: oracle
+company_display: Oracle
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 135000
+    base_high: 168000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 210000
+    currency: USD
+  - region: Seattle
+    base_low: 145000
+    base_high: 178000
+    stock_low: 90000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 168000
+    total_comp_high: 222000
+    currency: USD
+  - region: Bangalore
+    base_low: 1800000
+    base_high: 3200000
+    stock_low: 800000
+    stock_high: 1800000
+    bonus_pct: null
+    total_comp_low: 2200000
+    total_comp_high: 3800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Oracle IC3 SWE = Google L3 = Meta E3 = AWS SDE-I
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Sign-On Bonus Culture | OCI \"Stargate\" AI Infrastructure Pivot | $500B JV Premium"
+---
 ### Software Engineer | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Sign-On Bonus Culture | OCI "Stargate" AI Infrastructure Pivot | $500B JV Premium

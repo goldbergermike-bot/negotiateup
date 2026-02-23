@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 225000
+    stock_low: 130000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 330000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 218000
+    stock_low: 125000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 318000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 162000
+    stock_low: 90000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 230000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel Senior SWE = Google L5 = Meta E5 = Amplitude Staff Eng = Snowflake Senior
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity + Bonus | Full-Stack AI Analytics Platform 2026"
+---
 ### Senior Software Engineer | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity + Bonus | Full-Stack AI Analytics Platform 2026

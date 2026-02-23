@@ -1,3 +1,48 @@
+---
+company: mongodb
+company_display: Mongodb
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 165000
+    base_high: 205000
+    stock_low: 170000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 275000
+    currency: USD
+  - region: Dublin
+    base_low: 72000
+    base_high: 92000
+    stock_low: 68000
+    stock_high: 115000
+    bonus_pct: null
+    total_comp_low: 90000
+    total_comp_high: 120000
+    currency: EUR
+  - region: Austin
+    base_low: 155000
+    base_high: 195000
+    stock_low: 155000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 260000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: MongoDB PM = Google L4 PM = Elastic PM = Snowflake PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + No Bonus | \"Battle for the AI Data Layer\" | Voyage AI Acquisition Premium"
+---
 ### Product Manager | MongoDB Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + No Bonus | "Battle for the AI Data Layer" | Voyage AI Acquisition Premium

@@ -1,3 +1,40 @@
+---
+company: launchdarkly
+company_display: LaunchDarkly
+role: ml-ai-engineer
+role_display: ML / AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland HQ
+    base_low: 160000
+    base_high: 225000
+    stock_low: 70000
+    stock_high: 210000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 210000
+    stock_low: 60000
+    stock_high: 190000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: LaunchDarkly ML/AI Eng = GitLab ML Eng = Google L4 ML = Optimizely ML Eng
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($3B Valuation) | Feature Management Platform | **+10–20% AI PREMIUM** | Category Creator"
+---
 ### ML / AI Engineer | LaunchDarkly Global Negotiation Guide
 
 **Negotiation DNA:** Private ($3B Valuation) | Feature Management Platform | **+10–20% AI PREMIUM** | Category Creator

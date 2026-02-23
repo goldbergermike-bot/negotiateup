@@ -1,3 +1,50 @@
+---
+company: atlassian
+company_display: Atlassian
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 195000
+    base_high: 275000
+    stock_low: 154000
+    stock_high: 306000
+    bonus_pct: null
+    total_comp_low: 247000
+    total_comp_high: 381000
+    currency: AUD
+  - region: San Francisco
+    base_low: 155000
+    base_high: 198000
+    stock_low: 140000
+    stock_high: 235000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 270000
+    currency: USD
+  - region: Amsterdam
+    base_low: 95000
+    base_high: 135000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 200000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P3 PM = Google L4 PM = Meta IC4 PM = Microsoft 62 PM = Datadog PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage"
+---
 ### Product Manager | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage

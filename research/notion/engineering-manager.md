@@ -1,3 +1,48 @@
+---
+company: notion
+company_display: Notion
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 220000
+    base_high: 275000
+    stock_low: 300000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 375000
+    total_comp_high: 530000
+    currency: USD
+  - region: New York
+    base_low: 215000
+    base_high: 270000
+    stock_low: 290000
+    stock_high: 485000
+    bonus_pct: 15
+    total_comp_low: 365000
+    total_comp_high: 515000
+    currency: USD
+  - region: London
+    base_low: 145000
+    base_high: 185000
+    stock_low: 195000
+    stock_high: 330000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 352000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Notion EM (M1-M2) = Google EM L6-L7 = Meta EM M1-M2 = Figma EM = Coda EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI-Powered Workspace Engineering Leadership | 100M+ Users | **NOTION AI PREMIUM**"
+---
 ### Engineering Manager | Notion Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI-Powered Workspace Engineering Leadership | 100M+ Users | **NOTION AI PREMIUM**

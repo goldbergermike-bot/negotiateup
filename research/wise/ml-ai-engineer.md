@@ -1,3 +1,48 @@
+---
+company: wise
+company_display: Wise
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 80000
+    base_high: 120000
+    stock_low: 40000
+    stock_high: 85000
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 205000
+    currency: GBP
+  - region: Tallinn (EUR)
+    base_low: 62000
+    base_high: 92000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_pct: null
+    total_comp_low: 92000
+    total_comp_high: 157000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 105000
+    base_high: 160000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 260000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into an ML/AI engineering compensation framework spanning London, Tallinn, and Singapore markets. As an ML/AI Engineer at Wise, you build the intelligent layer of Platform Integrity — the fraud detection models, dynamic pricing algorithms, FX risk management systems, and customer intelligence that make Wise's mid-market infrastructure transparent,"
+---
 ### ML/AI Engineer — Wise Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into an ML/AI engineering compensation framework spanning London, Tallinn, and Singapore markets. As an ML/AI Engineer at Wise, you build the intelligent layer of Platform Integrity — the fraud detection models, dynamic pricing algorithms, FX risk management systems, and customer intelligence that make Wise's mid-market infrastructure transparent, efficient, and trustworthy at scale for the Wise Platform API ecosystem.

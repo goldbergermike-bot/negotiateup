@@ -1,3 +1,48 @@
+---
+company: ramp
+company_display: Ramp
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 162000
+    base_high: 198000
+    stock_low: 108000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 255000
+    currency: USD
+  - region: San Francisco
+    base_low: 160000
+    base_high: 195000
+    stock_low: 105000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 248000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 192000
+    stock_low: 102000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ramp DevOps (IC2-IC3) = Brex SRE = Google SRE L3-L4 = Meta Production Engineer E3-E4 = Stripe Infrastructure = Amazon SysDE L4-L5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOUR INFRASTRUCTURE RELIABILITY PROTECTS $35B+ IN FINANCIAL TRANSACTIONS**"
+---
 ### DevOps Engineer | Ramp Global Negotiation Guide
 
 **Negotiation DNA:** Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOUR INFRASTRUCTURE RELIABILITY PROTECTS $35B+ IN FINANCIAL TRANSACTIONS**

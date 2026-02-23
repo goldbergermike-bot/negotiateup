@@ -1,3 +1,49 @@
+---
+company: verizon
+company_display: Verizon
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / New Jersey
+    base_low: 132000
+    base_high: 190000
+    stock_low: 35000
+    stock_high: 125000
+    bonus_pct: 12
+    total_comp_low: 162000
+    total_comp_high: 262000
+    currency: USD
+  - region: Bay Area / Seattle
+    base_low: 138000
+    base_high: 198000
+    stock_low: 40000
+    stock_high: 132000
+    bonus_pct: 12
+    total_comp_low: 172000
+    total_comp_high: 278000
+    currency: USD
+  - region: Dallas / Atlanta
+    base_low: 125000
+    base_high: 180000
+    stock_low: 30000
+    stock_high: 112000
+    bonus_pct: 12
+    total_comp_low: 152000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Verizon Security Engineer (L3-L5) = Google L3-L5 Security = Meta E3-E5 Security = Amazon Security Engineer II-III = AT&T Security L3-L5"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$175B Telecom Leader | Critical National Infrastructure Security | Enterprise + Consumer Protection"
+---
 ### Security Engineer | Verizon Global Negotiation Guide
 
 **Negotiation DNA:** $175B Telecom Leader | Critical National Infrastructure Security | Enterprise + Consumer Protection

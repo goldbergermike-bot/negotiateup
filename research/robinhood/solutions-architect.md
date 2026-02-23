@@ -1,3 +1,52 @@
+---
+company: robinhood
+company_display: Robinhood
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Menlo Park, CA (HQ)"
+    base_low: 165000
+    base_high: 212000
+    stock_low: null
+    stock_high: null
+    bonus_low: 17000
+    bonus_high: 28000
+    total_comp_low: 225000
+    total_comp_high: 325000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 212000
+    stock_low: null
+    stock_high: null
+    bonus_low: 17000
+    bonus_high: 28000
+    total_comp_low: 225000
+    total_comp_high: 325000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 160000
+    stock_low: 136000
+    stock_high: 257000
+    bonus_low: 13000
+    bonus_high: 21000
+    total_comp_low: 170000
+    total_comp_high: 246000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `System Integration` `Multi-Vertical Architecture` `Partner Ecosystem Design`"
+---
 ### Solutions Architect | Robinhood Global Negotiation Guide
 
 **Negotiation DNA:** `Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `System Integration` `Multi-Vertical Architecture` `Partner Ecosystem Design`

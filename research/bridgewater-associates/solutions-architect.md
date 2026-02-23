@@ -1,3 +1,43 @@
+---
+company: bridgewater-associates
+company_display: Bridgewater Associates
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westport, CT (HQ)"
+    base_low: 175000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_low: 87500
+    bonus_high: 245000
+    total_comp_low: 262500
+    total_comp_high: 490000
+    currency: USD
+  - region: New York City
+    base_low: 184000
+    base_high: 257000
+    stock_low: null
+    stock_high: null
+    bonus_low: 92000
+    bonus_high: 257000
+    total_comp_low: 276000
+    total_comp_high: 514000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Bridgewater = L5/L6 Solutions Architect at Google Cloud, Senior Solutions Architect at AWS, Solutions Architect II at Microsoft"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Designing end-to-end technology solutions for systematic investment infrastructure | Bridging investment strategy needs with technical architecture | **ELITE HEDGE FUND PREMIUM**"
+---
 ### Solutions Architect | Bridgewater Associates Global Negotiation Guide
 
 **Negotiation DNA:** ~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Designing end-to-end technology solutions for systematic investment infrastructure | Bridging investment strategy needs with technical architecture | **ELITE HEDGE FUND PREMIUM**

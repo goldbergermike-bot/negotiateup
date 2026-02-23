@@ -1,3 +1,48 @@
+---
+company: activision-blizzard
+company_display: Activision Blizzard
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine / Santa Monica
+    base_low: 155000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 310000
+    currency: USD
+  - region: Austin
+    base_low: 135000
+    base_high: 185000
+    stock_low: 65000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 270000
+    currency: USD
+  - region: Hyderabad
+    base_low: 2400000
+    base_high: 4200000
+    stock_low: 1400000
+    stock_high: 3000000
+    bonus_pct: 10
+    total_comp_low: 4100000
+    total_comp_high: 7700000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Activision/MS DevOps Level 61-63 = Google L3-L4 SRE = Amazon L5-L6 SysDE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine"
+---
 ### DevOps Engineer | Activision Blizzard (Microsoft/Xbox) Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine

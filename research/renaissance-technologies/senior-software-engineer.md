@@ -1,3 +1,51 @@
+---
+company: renaissance-technologies
+company_display: Renaissance Technologies
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: East Setauket HQ (Long Island)
+    base_low: 300000
+    base_high: 350000
+    stock_low: null
+    stock_high: null
+    bonus_low: 150000
+    bonus_high: 275000
+    total_comp_low: 600000
+    total_comp_high: 875000
+    currency: USD
+  - region: New York City
+    base_low: 310000
+    base_high: 350000
+    stock_low: null
+    stock_high: null
+    bonus_low: 160000
+    bonus_high: 285000
+    total_comp_low: 620000
+    total_comp_high: 885000
+    currency: USD
+  - region: Remote US (Very Rare)
+    base_low: 285000
+    base_high: 330000
+    stock_low: null
+    stock_high: null
+    bonus_low: 130000
+    bonus_high: 240000
+    total_comp_low: 535000
+    total_comp_high: 780000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Medallion Fund` `Gold Standard` `Quant Pioneer` `High-Performance Computing` `Research Systems` `Academic Culture` `Senior IC`"
+---
 ### Senior Software Engineer | Renaissance Technologies Global Negotiation Guide
 
 **Negotiation DNA:** `Medallion Fund` `Gold Standard` `Quant Pioneer` `High-Performance Computing` `Research Systems` `Academic Culture` `Senior IC`

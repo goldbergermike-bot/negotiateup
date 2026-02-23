@@ -1,3 +1,48 @@
+---
+company: ebay
+company_display: Ebay
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 165000
+    base_high: 208000
+    stock_low: 82000
+    stock_high: 152000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 258000
+    currency: USD
+  - region: New York
+    base_low: 172000
+    base_high: 215000
+    stock_low: 82000
+    stock_high: 152000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 268000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 198000
+    stock_low: 82000
+    stock_high: 152000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: eBay TPM (IC2-IC3) = Google L4 TPM = Meta IC4 TPM = Amazon TPM II = Etsy TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Global Marketplace & Payments | $2.5B Share Buyback | Trading Below Future Cash Flow Value"
+---
 ### Technical Program Manager | eBay Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Global Marketplace & Payments | $2.5B Share Buyback | Trading Below Future Cash Flow Value

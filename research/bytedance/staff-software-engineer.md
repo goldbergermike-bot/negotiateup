@@ -1,3 +1,77 @@
+---
+company: bytedance
+company_display: Bytedance
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Mountain View (US)
+    base_low: 210000
+    base_high: 280000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: 15
+    total_comp_low: 380000
+    total_comp_high: 580000
+    currency: USD
+  - region: New York City (US)
+    base_low: 205000
+    base_high: 275000
+    stock_low: 195000
+    stock_high: 440000
+    bonus_pct: 15
+    total_comp_low: 370000
+    total_comp_high: 570000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 205000
+    base_high: 275000
+    stock_low: 190000
+    stock_high: 430000
+    bonus_pct: 15
+    total_comp_low: 365000
+    total_comp_high: 560000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 700000
+    base_high: 1300000
+    stock_low: 450000
+    stock_high: 1000000
+    bonus_pct: 25
+    total_comp_low: 1300000
+    total_comp_high: 2500000
+    currency: CNY
+  - region: Shanghai
+    base_low: 670000
+    base_high: 1250000
+    stock_low: 430000
+    stock_high: 950000
+    bonus_pct: 25
+    total_comp_low: 1200000
+    total_comp_high: 2400000
+    currency: CNY
+  - region: Singapore
+    base_low: 175000
+    base_high: 260000
+    stock_low: 120000
+    stock_high: 270000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 460000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Staff Software Engineer at ByteDance (3-1) = L6 at Google, IC6 at Meta, Principal at Amazon, ICT5-ICT6 at Apple"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Private $225B+ with Staff comp exceeding Google L6/Meta IC6 for top candidates + Architectural authority over TikTok, Douyin, Lark platforms + Pre-IPO equity with massive upside potential | Staff engineers at ByteDance define the technical direction of the world's fastest-growing tech company | **ARCHITECTURAL PREMIUM + IPO UPSIDE**"
+---
 ### Staff Software Engineer | ByteDance Global Negotiation Guide
 
 **Negotiation DNA:** Private $225B+ with Staff comp exceeding Google L6/Meta IC6 for top candidates + Architectural authority over TikTok, Douyin, Lark platforms + Pre-IPO equity with massive upside potential | Staff engineers at ByteDance define the technical direction of the world's fastest-growing tech company | **ARCHITECTURAL PREMIUM + IPO UPSIDE**

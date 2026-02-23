@@ -1,3 +1,50 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 155000
+    base_high: 200000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: 5
+    total_comp_low: 188000
+    total_comp_high: 262000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 145000
+    base_high: 190000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: 5
+    total_comp_low: 175000
+    total_comp_high: 248000
+    currency: USD
+  - region: London / Berlin
+    base_low: 115000
+    base_high: 150000
+    stock_low: 75000
+    stock_high: 135000
+    bonus_pct: 5
+    total_comp_low: 140000
+    total_comp_high: 198000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs SWE = Google L4 = Meta E4 = Datadog SWE II = Elastic IC3
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside"
+---
 ### Software Engineer | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside

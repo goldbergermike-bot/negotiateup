@@ -1,3 +1,54 @@
+---
+company: tpg
+company_display: Tpg
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 155000
+    base_high: 195000
+    stock_low: 120000
+    stock_high: 180000
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 300000
+    total_comp_high: 362000
+    currency: USD
+  - region: "Fort Worth, TX"
+    base_low: 130000
+    base_high: 165000
+    stock_low: 95000
+    stock_high: 145000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 252000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York
+    base_low: 148000
+    base_high: 188000
+    stock_low: 110000
+    stock_high: 170000
+    bonus_low: 25000
+    bonus_high: 38000
+    total_comp_low: 285000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "`Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Revenue-Driving IC` `Portfolio Value Creation`"
+---
 ### Software Engineer | TPG Global Negotiation Guide
 
 **Negotiation DNA:** `Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Revenue-Driving IC` `Portfolio Value Creation`

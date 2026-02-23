@@ -1,3 +1,53 @@
+---
+company: ramp
+company_display: Ramp
+role: price-intelligence-platform-engineer
+role_display: Price Intelligence Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 238000
+    base_high: 288000
+    stock_low: 268000
+    stock_high: 455000
+    bonus_pct: 15
+    total_comp_low: 358000
+    total_comp_high: 478000
+    currency: USD
+  - region: San Francisco
+    base_low: 235000
+    base_high: 285000
+    stock_low: 262000
+    stock_high: 448000
+    bonus_pct: 15
+    total_comp_low: 352000
+    total_comp_high: 472000
+    currency: USD
+  - region: Remote US
+    base_low: 228000
+    base_high: 278000
+    stock_low: 258000
+    stock_high: 438000
+    bonus_pct: 15
+    total_comp_low: 338000
+    total_comp_high: 462000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ramp Price Intelligence (Signature) = Brex Staff+ SWE = Google L5-L6 = Meta E5-E6 = Stripe L3-L4 = Coupa Sr/Staff Engineer
+data_sources:
+  - Ramp $13B+ Valuation — Corporate Card Growth 2025
+  - Ramp Rate Price Intelligence — Feb 2026 Launch — Signature Product
+  - Ramp Price Intelligence Comp — Premium Engineering Role 2025
+  - Ramp vs Coupa/SAP Concur — Procurement Intelligence Disruption
+  - Ramp ROI-Positive Thesis — Savings Exceed Platform Cost
+  - "Ramp AI-Driven Procurement — Vendor Benchmarking & Contract Analysis"
+negotiation_dna_summary: "Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | +20-30% Price Intelligence Premium | **YOU BUILD THE SYSTEM THAT IDENTIFIES SAVINGS BETTER THAN HUMANS — THE SIGNATURE ROLE AT RAMP**"
+---
 ### Price Intelligence Platform Engineer | Ramp Global Negotiation Guide
 
 **Negotiation DNA:** Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | +20-30% Price Intelligence Premium | **YOU BUILD THE SYSTEM THAT IDENTIFIES SAVINGS BETTER THAN HUMANS — THE SIGNATURE ROLE AT RAMP**

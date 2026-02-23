@@ -1,3 +1,49 @@
+---
+company: micron
+company_display: Micron
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boise
+    base_low: 102000
+    base_high: 135000
+    stock_low: 28000
+    stock_high: 48000
+    bonus_pct: 8
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+  - region: San Jose
+    base_low: 120000
+    base_high: 158000
+    stock_low: 35000
+    stock_high: 60000
+    bonus_pct: 8
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+  - region: Remote US
+    base_low: 106000
+    base_high: 140000
+    stock_low: 30000
+    stock_high: 50000
+    bonus_pct: 8
+    total_comp_low: 160000
+    total_comp_high: 222000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Micron Product Designer (Band 6–7) maps to Google UX L4–L5, Meta Product Designer IC4–IC5"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +8% AI/Memory Premium"
+---
 ### Product Designer | Micron Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +8% AI/Memory Premium

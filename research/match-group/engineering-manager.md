@@ -1,3 +1,51 @@
+---
+company: match-group
+company_display: Match Group
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas
+    base_low: 185000
+    base_high: 250000
+    stock_low: 45000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 204000
+    base_high: 275000
+    stock_low: 50000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 270000
+    total_comp_high: 372000
+    currency: USD
+  - region: Los Angeles
+    base_low: 185000
+    base_high: 250000
+    stock_low: 45000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 338000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Match Group Engineering Manager = Google L6 Manager = Meta M1 = Amazon SDM = Microsoft EM 65/66 = Apple Engineering Manager
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)"
+---
 ### Engineering Manager | Match Group Global Negotiation Guide
 
 **Negotiation DNA:** Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)

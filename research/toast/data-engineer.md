@@ -1,3 +1,52 @@
+---
+company: toast
+company_display: Toast
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston MA
+    base_low: 155000
+    base_high: 200000
+    stock_low: 75000
+    stock_high: 150000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 194000
+    total_comp_high: 278000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 85000
+    stock_high: 170000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 210000
+    total_comp_high: 305000
+    currency: USD
+  - region: San Francisco
+    base_low: 180000
+    base_high: 235000
+    stock_low: 95000
+    stock_high: 190000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 228000
+    total_comp_high: 338000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Toast | Google | Meta | Stripe | Block | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: TOST` `Toast IQ` `Data Engineer` `Restaurant Tech` `Hospitality Intelligence` `Data Pipelines` `ETL` `Analytics Infrastructure` `Restaurant OS`"
+---
 ### Data Engineer | Toast Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: TOST` `Toast IQ` `Data Engineer` `Restaurant Tech` `Hospitality Intelligence` `Data Pipelines` `ETL` `Analytics Infrastructure` `Restaurant OS`

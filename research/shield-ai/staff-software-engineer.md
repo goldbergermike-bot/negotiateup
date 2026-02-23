@@ -1,3 +1,39 @@
+---
+company: shield-ai
+company_display: Shield Ai
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Diego, CA"
+    base_low: 190000
+    base_high: 240000
+    stock_low: 150000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 250000
+    total_comp_high: 415000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 185000
+    base_high: 235000
+    stock_low: 150000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 245000
+    total_comp_high: 410000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shield AI Staff SWE = Google L6 = Anduril Staff SWE -- with more concentrated ownership and earlier-stage upside
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | AI-Powered Defense Drones | Startup Intensity"
+---
 ### Staff Software Engineer | Shield AI Global Negotiation Guide
 
 **Negotiation DNA:** Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | AI-Powered Defense Drones | Startup Intensity

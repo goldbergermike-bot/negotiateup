@@ -1,3 +1,30 @@
+---
+company: cruise
+company_display: Cruise
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 150000
+    base_high: 208000
+    stock_low: 90000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cruise DevOps Engineer = Google SRE L3-L4 = Waymo DevOps = Amazon Systems Engineer = Meta Production Engineer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "GM Subsidiary Comp | Competitive Bay Area RSUs | Autonomous Vehicle Pioneer | San Francisco Premium"
+---
 ### DevOps Engineer | Cruise Global Negotiation Guide
 
 **Negotiation DNA:** GM Subsidiary Comp | Competitive Bay Area RSUs | Autonomous Vehicle Pioneer | San Francisco Premium

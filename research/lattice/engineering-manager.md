@@ -1,3 +1,39 @@
+---
+company: lattice
+company_display: Lattice
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 188000
+    base_high: 248000
+    stock_low: 140000
+    stock_high: 310000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 418000
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 235000
+    stock_low: 122000
+    stock_high: 282000
+    bonus_pct: 15
+    total_comp_low: 252000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lattice EM (M1-M2) = Culture Amp EM = 15Five EM = Workday EM = Google L5-L6 EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | People Management Platform | $3B Valuation | San Francisco | **HR TECH LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Lattice Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | People Management Platform | $3B Valuation | San Francisco | **HR TECH LEADERSHIP PREMIUM**

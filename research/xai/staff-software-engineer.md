@@ -1,3 +1,48 @@
+---
+company: xai
+company_display: xAI
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 295000
+    base_high: 368000
+    stock_low: 685000
+    stock_high: 1200000
+    bonus_pct: null
+    total_comp_low: 476000
+    total_comp_high: 668000
+    currency: USD
+  - region: Palo Alto
+    base_low: 295000
+    base_high: 368000
+    stock_low: 685000
+    stock_high: 1200000
+    bonus_pct: null
+    total_comp_low: 476000
+    total_comp_high: 668000
+    currency: USD
+  - region: Remote US
+    base_low: 278000
+    base_high: 348000
+    stock_low: 685000
+    stock_high: 1200000
+    bonus_pct: null
+    total_comp_low: 449000
+    total_comp_high: 648000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: xAI Staff SWE (L6) = Google L6 SWE = OpenAI Staff SWE = Meta E6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026)"
+---
 ### Staff Software Engineer | xAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026)

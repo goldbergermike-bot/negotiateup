@@ -1,3 +1,39 @@
+---
+company: target
+company_display: Target
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 158000
+    base_high: 205000
+    stock_low: 65000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 315000
+    currency: USD
+  - region: Bay Area / India
+    base_low: 170000
+    base_high: 220000
+    stock_low: 78000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target Staff SWE = Google L5 = Meta E5 = Amazon Principal SDE = Walmart Global Tech Staff SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage"
+---
 ### Staff Software Engineer | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage

@@ -1,3 +1,59 @@
+---
+company: sony
+company_display: Sony
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / San Diego (US)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 48000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 300000
+    currency: USD
+  - region: Bay Area (US)
+    base_low: 135000
+    base_high: 195000
+    stock_low: 43000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 285000
+    currency: USD
+  - region: Tokyo (HQ)
+    base_low: 9000000
+    base_high: 14000000
+    stock_low: 2500000
+    stock_high: 7500000
+    bonus_pct: 10
+    total_comp_low: 11500000
+    total_comp_high: 19000000
+    currency: JPY
+  - region: London
+    base_low: 85000
+    base_high: 138000
+    stock_low: 28000
+    stock_high: 82000
+    bonus_pct: 10
+    total_comp_low: 108000
+    total_comp_high: 188000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Security Engineer at Sony (IC3-IC5) = L4-L5 Security at Google, equivalent Microsoft Xbox security, gaming/entertainment security roles"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$110B market cap with PlayStation anti-piracy/anti-cheat protecting billions in digital content + PSN account security for 100M+ users + Sony Pictures cybersecurity (post-2014 breach) + Entertainment IP protection | Sony security engineers protect one of the world's most valuable entertainment ecosystems | **ENTERTAINMENT SECURITY PREMIUM**"
+---
 ### Security Engineer | Sony Global Negotiation Guide
 
 **Negotiation DNA:** $110B market cap with PlayStation anti-piracy/anti-cheat protecting billions in digital content + PSN account security for 100M+ users + Sony Pictures cybersecurity (post-2014 breach) + Entertainment IP protection | Sony security engineers protect one of the world's most valuable entertainment ecosystems | **ENTERTAINMENT SECURITY PREMIUM**

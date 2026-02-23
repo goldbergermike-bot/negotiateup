@@ -1,3 +1,51 @@
+---
+company: fidelity
+company_display: Fidelity
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 178000
+    base_high: 238000
+    stock_low: 38000
+    stock_high: 65000
+    bonus_low: 42000
+    bonus_high: 69000
+    total_comp_low: 258000
+    total_comp_high: 372000
+    currency: USD
+  - region: "Durham, NC"
+    base_low: 160000
+    base_high: 214000
+    stock_low: 34000
+    stock_high: 59000
+    bonus_low: 38000
+    bonus_high: 62000
+    total_comp_low: 232000
+    total_comp_high: 335000
+    currency: USD
+  - region: "Dallas, TX"
+    base_low: 164000
+    base_high: 219000
+    stock_low: 35000
+    stock_high: 60000
+    bonus_low: 39000
+    bonus_high: 63000
+    total_comp_low: 238000
+    total_comp_high: 342000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Team Leadership` `Delivery Execution` `Organizational Scaling`"
+---
 ### Engineering Manager | Fidelity Investments Global Negotiation Guide
 
 **Negotiation DNA:** `Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Team Leadership` `Delivery Execution` `Organizational Scaling`

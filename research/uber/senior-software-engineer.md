@@ -1,3 +1,48 @@
+---
+company: uber
+company_display: Uber
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 208000
+    base_high: 260000
+    stock_low: 245000
+    stock_high: 422000
+    bonus_pct: 10
+    total_comp_low: 274000
+    total_comp_high: 375000
+    currency: USD
+  - region: New York
+    base_low: 215000
+    base_high: 268000
+    stock_low: 245000
+    stock_high: 422000
+    bonus_pct: 10
+    total_comp_low: 282000
+    total_comp_high: 385000
+    currency: USD
+  - region: Amsterdam
+    base_low: 85000
+    base_high: 110000
+    stock_low: 105000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 112000
+    total_comp_high: 155000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Uber Senior SWE (L5a) = Google L4 SWE = Lyft Senior = DoorDash Senior = Meta E4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)"
+---
 ### Senior Software Engineer | Uber Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)

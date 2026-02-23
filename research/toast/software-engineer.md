@@ -1,3 +1,52 @@
+---
+company: toast
+company_display: Toast
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston MA
+    base_low: 130000
+    base_high: 165000
+    stock_low: 50000
+    stock_high: 90000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 153000
+    total_comp_high: 228000
+    currency: USD
+  - region: New York
+    base_low: 140000
+    base_high: 175000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 164000
+    total_comp_high: 247000
+    currency: USD
+  - region: San Francisco
+    base_low: 150000
+    base_high: 185000
+    stock_low: 60000
+    stock_high: 110000
+    bonus_low: 14000
+    bonus_high: 25000
+    total_comp_low: 175000
+    total_comp_high: 261000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Toast | Google | Meta | Stripe | Block | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: TOST` `Toast IQ` `Software Engineer` `Restaurant Tech` `Hospitality Intelligence` `POS Platform` `Payments Infrastructure`"
+---
 ### Software Engineer | Toast Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: TOST` `Toast IQ` `Software Engineer` `Restaurant Tech` `Hospitality Intelligence` `POS Platform` `Payments Infrastructure`

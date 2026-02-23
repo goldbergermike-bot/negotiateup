@@ -1,3 +1,51 @@
+---
+company: adobe
+company_display: Adobe
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 162000
+    base_high: 200000
+    stock_low: 145000
+    stock_high: 245000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 265000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 130000
+    stock_low: 87000
+    stock_high: 147000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 172000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4900000
+    base_high: 6000000
+    stock_low: 3600000
+    stock_high: 7300000
+    bonus_pct: 10
+    total_comp_low: 6000000
+    total_comp_high: 7900000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)"
+---
 ### DevOps Engineer | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)

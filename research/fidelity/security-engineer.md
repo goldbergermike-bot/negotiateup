@@ -1,3 +1,51 @@
+---
+company: fidelity
+company_display: Fidelity
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 142000
+    base_high: 190000
+    stock_low: 27000
+    stock_high: 50000
+    bonus_low: 29000
+    bonus_high: 48000
+    total_comp_low: 198000
+    total_comp_high: 288000
+    currency: USD
+  - region: "Durham, NC"
+    base_low: 128000
+    base_high: 171000
+    stock_low: 24000
+    stock_high: 45000
+    bonus_low: 26000
+    bonus_high: 43000
+    total_comp_low: 178000
+    total_comp_high: 259000
+    currency: USD
+  - region: "Dallas, TX"
+    base_low: 131000
+    base_high: 175000
+    stock_low: 25000
+    stock_high: 46000
+    bonus_low: 27000
+    bonus_high: 44000
+    total_comp_low: 183000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Cybersecurity Architecture` `Digital Asset Security` `Regulatory Compliance Security`"
+---
 ### Security Engineer | Fidelity Investments Global Negotiation Guide
 
 **Negotiation DNA:** `Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Cybersecurity Architecture` `Digital Asset Security` `Regulatory Compliance Security`

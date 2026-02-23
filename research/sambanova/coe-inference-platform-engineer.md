@@ -1,3 +1,50 @@
+---
+company: sambanova
+company_display: Sambanova
+role: coe-inference-platform-engineer
+role_display: CoE Inference Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 198000
+    base_high: 262000
+    stock_low: 48000
+    stock_high: 85000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 378000
+    currency: USD
+  - region: Austin
+    base_low: 178000
+    base_high: 235000
+    stock_low: 40000
+    stock_high: 72000
+    bonus_pct: 15
+    total_comp_low: 242000
+    total_comp_high: 340000
+    currency: USD
+  - region: Remote US
+    base_low: 170000
+    base_high: 228000
+    stock_low: 36000
+    stock_high: 65000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SambaNova CoE Inference Platform Engineer ~ Google Staff SWE (L6) in Systems/ML | Meta E6 in AI Infrastructure | NVIDIA Senior/Staff Inference Engineer | Amazon Principal SDE in ML Infrastructure | No direct equivalent at most companies — this role is unique to SambaNova"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | SIGNATURE ROLE | +25-35% CoE Premium | +30% Agentic Orchestrator Premium"
+---
 ### CoE Inference Platform Engineer | SambaNova Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference Hardware | Composition of Experts Architecture | SIGNATURE ROLE | +25-35% CoE Premium | +30% Agentic Orchestrator Premium

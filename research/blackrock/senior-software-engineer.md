@@ -1,3 +1,54 @@
+---
+company: blackrock
+company_display: Blackrock
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 175000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_low: 48000
+    bonus_high: 78000
+    total_comp_low: 298000
+    total_comp_high: 418000
+    currency: USD
+  - region: San Francisco
+    base_low: 185000
+    base_high: 238000
+    stock_low: null
+    stock_high: null
+    bonus_low: 52000
+    bonus_high: 82000
+    total_comp_low: 315000
+    total_comp_high: 440000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 168000
+    stock_low: 142000
+    stock_high: 255000
+    bonus_low: 34000
+    bonus_high: 55000
+    total_comp_low: 306000
+    total_comp_high: 478000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "`$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Senior Software Engineer` `IC Track` `VP-Level`"
+---
 ### Senior Software Engineer | BlackRock Global Negotiation Guide
 
 **Negotiation DNA:** `$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Senior Software Engineer` `IC Track` `VP-Level`

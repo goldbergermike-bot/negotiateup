@@ -1,3 +1,52 @@
+---
+company: coinbase
+company_display: Coinbase
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 212000
+    stock_low: 155000
+    stock_high: 330000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 232000
+    total_comp_high: 325000
+    currency: USD
+  - region: New York
+    base_low: 174000
+    base_high: 208000
+    stock_low: 148000
+    stock_high: 318000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 226000
+    total_comp_high: 318000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 195000
+    stock_low: 135000
+    stock_high: 295000
+    bonus_low: 16000
+    bonus_high: 28000
+    total_comp_low: 212000
+    total_comp_high: 298000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "`Everything Exchange` · `$2B Buyback` · `COIN` · `IC4-IC5` · `Multi-Asset Data Infrastructure` · `Real-Time Pipeline Architecture` · `RSU/4yr Vest`"
+---
 ### Data Engineer | Coinbase Global Negotiation Guide
 
 **Negotiation DNA:** `Everything Exchange` · `$2B Buyback` · `COIN` · `IC4-IC5` · `Multi-Asset Data Infrastructure` · `Real-Time Pipeline Architecture` · `RSU/4yr Vest`

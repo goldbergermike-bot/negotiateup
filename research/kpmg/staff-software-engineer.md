@@ -1,3 +1,48 @@
+---
+company: kpmg
+company_display: KPMG
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 145000
+    base_high: 195000
+    stock_low: 15000
+    stock_high: 55000
+    bonus_pct: 15
+    total_comp_low: 186000
+    total_comp_high: 299000
+    currency: USD
+  - region: Chicago
+    base_low: 135000
+    base_high: 180000
+    stock_low: 12000
+    stock_high: 45000
+    bonus_pct: 15
+    total_comp_low: 170000
+    total_comp_high: 270000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 140000
+    stock_low: 8000
+    stock_high: 35000
+    bonus_pct: 15
+    total_comp_low: 123000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: KPMG Director / Managing Director = Google L5-L6 = Deloitte Senior Manager/Director = PwC Director
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (15-25%) + Equity Grants | Director / Managing Director Level"
+---
 ### Staff Software Engineer | KPMG Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (15-25%) + Equity Grants | Director / Managing Director Level

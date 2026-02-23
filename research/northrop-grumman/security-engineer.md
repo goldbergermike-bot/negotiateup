@@ -1,3 +1,49 @@
+---
+company: northrop-grumman
+company_display: Northrop Grumman
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Falls Church, VA"
+    base_low: 120000
+    base_high: 172000
+    stock_low: 28000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 228000
+    currency: USD
+  - region: "Redondo Beach, CA"
+    base_low: 125000
+    base_high: 178000
+    stock_low: 28000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 235000
+    currency: USD
+  - region: "Huntsville, AL"
+    base_low: 112000
+    base_high: 162000
+    stock_low: 26000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 218000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Northrop Security Eng = L3Harris Security Eng = Lockheed Cyber Eng -- Northrop's nuclear and space programs add unique security complexity"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense + Clearance Premium | $75B Market Cap | Space/Defense Cybersecurity | Standard 40-45 Hour Culture"
+---
 ### Security Engineer | Northrop Grumman Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense + Clearance Premium | $75B Market Cap | Space/Defense Cybersecurity | Standard 40-45 Hour Culture

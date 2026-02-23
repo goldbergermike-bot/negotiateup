@@ -1,3 +1,51 @@
+---
+company: payerve
+company_display: Payerve
+role: regional-scale-platform-engineer
+role_display: Regional Scale Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dubai
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Riyadh
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Remote MENA
+    base_low: 115000
+    base_high: 165000
+    stock_low: 42000
+    stock_high: 88000
+    bonus_low: 14000
+    bonus_high: 26000
+    total_comp_low: 171000
+    total_comp_high: 279000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Payerve | Google | Meta | Stripe | Checkout.com | Thunes |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "`Private` `MENA Facilitator` `Payment Infrastructure` `Dubai HQ` `Growth-Stage Fintech` `Options Equity` `Platform Engineering` `Regional Scale` `Multi-Jurisdiction` `Dubai Intelligent Automation` `Cross-Border Payments` `GCC Regulatory Architecture`"
+---
 ### Regional Scale Platform Engineer | Payerve Global Negotiation Guide
 
 **SIGNATURE ROLE**

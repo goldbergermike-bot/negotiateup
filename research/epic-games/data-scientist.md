@@ -1,3 +1,48 @@
+---
+company: epic-games
+company_display: Epic Games
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 150000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 195000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 325000
+    currency: USD
+  - region: Seattle
+    base_low: 160000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 345000
+    currency: USD
+  - region: London
+    base_low: 58000
+    base_high: 92000
+    stock_low: 24000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 87000
+    total_comp_high: 148000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic Senior Data Scientist = Google L4 DS = Meta IC4 DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue"
+---
 ### Data Scientist | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue

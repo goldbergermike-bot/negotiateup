@@ -1,3 +1,52 @@
+---
+company: mastercard
+company_display: Mastercard
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Purchase NY
+    base_low: 165000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 190000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 293000
+    total_comp_high: 453000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 225000
+    stock_low: 110000
+    stock_high: 210000
+    bonus_low: 30000
+    bonus_high: 52000
+    total_comp_low: 310000
+    total_comp_high: 487000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 145000
+    stock_low: 60000
+    stock_high: 110000
+    bonus_low: 18000
+    bonus_high: 30000
+    total_comp_low: 183000
+    total_comp_high: 285000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Mastercard | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `Enterprise Architecture` `Biometric Authentication` `Payment Network Integration` `Client-Facing Technical Leadership`"
+---
 ### Solutions Architect | Mastercard Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `Enterprise Architecture` `Biometric Authentication` `Payment Network Integration` `Client-Facing Technical Leadership`

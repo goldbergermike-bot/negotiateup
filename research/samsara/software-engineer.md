@@ -1,3 +1,49 @@
+---
+company: samsara
+company_display: Samsara
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 135000
+    base_high: 165000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_pct: 5
+    total_comp_low: 195000
+    total_comp_high: 225000
+    currency: USD
+  - region: Atlanta
+    base_low: 115000
+    base_high: 142000
+    stock_low: 65000
+    stock_high: 115000
+    bonus_pct: 5
+    total_comp_low: 162000
+    total_comp_high: 190000
+    currency: USD
+  - region: Remote US
+    base_low: 122000
+    base_high: 155000
+    stock_low: 70000
+    stock_high: 125000
+    bonus_pct: 5
+    total_comp_low: 175000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Samsara L3/L4 (Software Engineer) = Google L3/L4 = Meta E3/E4 = Amazon SDE I/II = Apple ICT2/ICT3"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Industrial IoT & AI Platform | GAAP Profitable | Super Bowl AI Coach | Standard IC Band"
+---
 ### Software Engineer | Samsara Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Industrial IoT & AI Platform | GAAP Profitable | Super Bowl AI Coach | Standard IC Band

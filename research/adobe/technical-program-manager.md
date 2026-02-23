@@ -1,3 +1,51 @@
+---
+company: adobe
+company_display: Adobe
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 158000
+    base_high: 195000
+    stock_low: 135000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 252000
+    currency: USD
+  - region: London
+    base_low: 103000
+    base_high: 127000
+    stock_low: 81000
+    stock_high: 137000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 164000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4700000
+    base_high: 5800000
+    stock_low: 3400000
+    stock_high: 6800000
+    bonus_pct: 10
+    total_comp_low: 5800000
+    total_comp_high: 7600000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)"
+---
 ### Technical Program Manager | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)

@@ -1,3 +1,48 @@
+---
+company: segment
+company_display: Segment
+role: ai-cdp-platform-engineer
+role_display: AI CDP Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 192000
+    base_high: 235000
+    stock_low: 155000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 378000
+    currency: USD
+  - region: New York
+    base_low: 188000
+    base_high: 228000
+    stock_low: 148000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 365000
+    currency: USD
+  - region: London
+    base_low: 138000
+    base_high: 170000
+    stock_low: 108000
+    stock_high: 202000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 262000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Segment AI CDP Eng = Google L5 ML = Meta ML E5 = Salesforce Einstein Senior ML = No direct equivalent at most CDPs
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Top-Tier Twilio RSU + Signing Bonus | AI-Native Customer Data Platform Core 2026"
+---
 ### AI CDP Platform Engineer | Segment Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier Twilio RSU + Signing Bonus | AI-Native Customer Data Platform Core 2026

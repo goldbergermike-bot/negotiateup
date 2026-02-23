@@ -1,3 +1,53 @@
+---
+company: marqeta
+company_display: Marqeta
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland CA
+    base_low: 230000
+    base_high: 290000
+    stock_low: 220000
+    stock_high: 400000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 480000
+    total_comp_high: 745000
+    currency: USD
+  - region: New York NY
+    base_low: 235000
+    base_high: 295000
+    stock_low: 220000
+    stock_high: 400000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 485000
+    total_comp_high: 750000
+    currency: USD
+  - region: Remote US
+    base_low: 210000
+    base_high: 265000
+    stock_low: 180000
+    stock_high: 340000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 415000
+    total_comp_high: 650000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Marqeta | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: MQ` `Embedded 2.0` `Modern Card Issuing` `Just-in-Time Funding` `Infrastructure Orchestrator` `Water Economy` `Fintech Platform` `Staff IC` `Systems Architecture` `Technical Leadership`"
+---
 ### Staff Software Engineer | Marqeta Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: MQ` `Embedded 2.0` `Modern Card Issuing` `Just-in-Time Funding` `Infrastructure Orchestrator` `Water Economy` `Fintech Platform` `Staff IC` `Systems Architecture` `Technical Leadership`

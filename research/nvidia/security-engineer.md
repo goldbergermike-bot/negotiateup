@@ -1,3 +1,48 @@
+---
+company: nvidia
+company_display: Nvidia
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 208000
+    base_high: 258000
+    stock_low: 198000
+    stock_high: 348000
+    bonus_pct: 10
+    total_comp_low: 272000
+    total_comp_high: 382000
+    currency: USD
+  - region: Seattle
+    base_low: 205000
+    base_high: 255000
+    stock_low: 198000
+    stock_high: 348000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 378000
+    currency: USD
+  - region: Remote US
+    base_low: 198000
+    base_high: 248000
+    stock_low: 198000
+    stock_high: 348000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 372000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: NVIDIA Security Eng (IC2-IC3) = Google L4-L5 Security = Meta Security Eng = Apple Security = AMD Security Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule"
+---
 ### Security Engineer | NVIDIA Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule

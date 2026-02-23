@@ -1,3 +1,52 @@
+---
+company: fiserv
+company_display: Fiserv
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brookfield WI
+    base_low: 150000
+    base_high: 200000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_low: 22000
+    bonus_high: 45000
+    total_comp_low: 252000
+    total_comp_high: 415000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 235000
+    stock_low: 100000
+    stock_high: 210000
+    bonus_low: 28000
+    bonus_high: 55000
+    total_comp_low: 303000
+    total_comp_high: 500000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 140000
+    stock_low: 50000
+    stock_high: 105000
+    bonus_low: 15000
+    bonus_high: 32000
+    total_comp_low: 165000
+    total_comp_high: 277000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Fiserv | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Client-Facing Technical` `Pre-Sales/Post-Sales`"
+---
 ### Solutions Architect | Fiserv Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FI` `Clover OS` `Fintech Infrastructure` `Payment Processing` `SMB Platform` `Client-Facing Technical` `Pre-Sales/Post-Sales`

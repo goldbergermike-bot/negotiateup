@@ -1,3 +1,51 @@
+---
+company: hsbc
+company_display: HSBC
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 90000
+    base_high: 122000
+    stock_low: 36000
+    stock_high: 54000
+    bonus_low: 16000
+    bonus_high: 27000
+    total_comp_low: 142000
+    total_comp_high: 205000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 715000
+    base_high: 975000
+    stock_low: 360000
+    stock_high: 540000
+    bonus_low: 345000
+    bonus_high: 520000
+    total_comp_low: 1420000
+    total_comp_high: 2050000
+    currency: HKD
+  - region: Singapore
+    base_low: 155000
+    base_high: 211000
+    stock_low: 62000
+    stock_high: 93000
+    bonus_low: 28000
+    bonus_high: 50000
+    total_comp_low: 246000
+    total_comp_high: 354000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Data Pipelines` `Real-Time Streaming` `Data Platform Architecture`"
+---
 ### Data Engineer | HSBC Global Negotiation Guide
 
 **Negotiation DNA:** `Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Data Pipelines` `Real-Time Streaming` `Data Platform Architecture`

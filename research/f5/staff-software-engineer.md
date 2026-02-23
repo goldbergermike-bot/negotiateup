@@ -1,3 +1,56 @@
+---
+company: f5
+company_display: F5
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 195000
+    base_high: 238000
+    stock_low: 250000
+    stock_high: 450000
+    bonus_pct: 12
+    signing_bonus_low: 40000
+    signing_bonus_high: 120000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Jose
+    base_low: 205000
+    base_high: 248000
+    stock_low: 265000
+    stock_high: 465000
+    bonus_pct: 12
+    signing_bonus_low: 40000
+    signing_bonus_high: 120000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 148000
+    stock_low: 145000
+    stock_high: 265000
+    bonus_pct: 12
+    signing_bonus_low: 25000
+    signing_bonus_high: 72000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "- F5 Staff Software Engineer (E6) = Google L6 / Meta E6 / Microsoft Principal 64–65 / Amazon Principal SDE"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support"
+---
 ### Staff Software Engineer | F5 Global Negotiation Guide
 
 **Negotiation DNA:** F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support

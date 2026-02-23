@@ -1,3 +1,48 @@
+---
+company: arista
+company_display: Arista Networks
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 198000
+    base_high: 248000
+    stock_low: 192000
+    stock_high: 338000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 368000
+    currency: USD
+  - region: Vancouver (BC)
+    base_low: 188000
+    base_high: 235000
+    stock_low: 182000
+    stock_high: 318000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: CAD
+  - region: Remote US
+    base_low: 192000
+    base_high: 242000
+    stock_low: 192000
+    stock_high: 338000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Arista Security Eng (IC2-IC3) = Cisco Security = Juniper Security = Palo Alto Security = Google L4-L5 Network Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density"
+---
 ### Security Engineer | Arista Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density

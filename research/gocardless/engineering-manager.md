@@ -1,3 +1,52 @@
+---
+company: gocardless
+company_display: Gocardless
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 95000
+    base_high: 130000
+    stock_low: 30000
+    stock_high: 70000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 135000
+    total_comp_high: 220000
+    currency: GBP
+  - region: San Francisco
+    base_low: 185000
+    base_high: 240000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 255000
+    total_comp_high: 375000
+    currency: USD
+  - region: Melbourne
+    base_low: 155000
+    base_high: 200000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 210000
+    total_comp_high: 305000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: "| GoCardless | Google | Meta | Stripe | Wise | Adyen |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `People Leadership` `Platform Scale`"
+---
 ### Engineering Manager | GoCardless Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `People Leadership` `Platform Scale`

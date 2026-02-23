@@ -1,3 +1,48 @@
+---
+company: marvell
+company_display: Marvell
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 168000
+    base_high: 218000
+    stock_low: 145000
+    stock_high: 248000
+    bonus_pct: 15
+    total_comp_low: 232000
+    total_comp_high: 322000
+    currency: USD
+  - region: Boise
+    base_low: 151000
+    base_high: 196000
+    stock_low: 125000
+    stock_high: 218000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 288000
+    currency: USD
+  - region: Remote US
+    base_low: 159000
+    base_high: 207000
+    stock_low: 135000
+    stock_high: 232000
+    bonus_pct: 15
+    total_comp_low: 218000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Marvell ML T5–T6 = Google ML L5–L6 = Meta ML E5–E6 = Apple ML ICT4–ICT5 = Nvidia ML Engineer Senior = AMD ML Engineer Principal
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | +15-25% AI Premium"
+---
 ### ML/AI Engineer | Marvell Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | +15-25% AI Premium

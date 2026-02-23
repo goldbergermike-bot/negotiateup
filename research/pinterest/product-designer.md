@@ -1,3 +1,48 @@
+---
+company: pinterest
+company_display: Pinterest
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 148000
+    base_high: 185000
+    stock_low: 110000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 242000
+    currency: USD
+  - region: New York
+    base_low: 142000
+    base_high: 178000
+    stock_low: 105000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 232000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 165000
+    stock_low: 90000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 212000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Pinterest Product Designer (L4–L5) = Google UX Designer L4–L5 = Meta Product Designer (IC4–IC5) = Amazon UX Designer II–III = Apple Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Design-Led Platform Premium | Standard 4-year vest with 1-year cliff"
+---
 ### Product Designer | Pinterest Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Design-Led Platform Premium | Standard 4-year vest with 1-year cliff

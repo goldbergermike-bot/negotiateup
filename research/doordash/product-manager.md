@@ -1,3 +1,48 @@
+---
+company: doordash
+company_display: DoorDash
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 192000
+    base_high: 242000
+    stock_low: 198000
+    stock_high: 345000
+    bonus_pct: 10
+    total_comp_low: 241000
+    total_comp_high: 328000
+    currency: USD
+  - region: New York City
+    base_low: 192000
+    base_high: 242000
+    stock_low: 198000
+    stock_high: 345000
+    bonus_pct: 10
+    total_comp_low: 241000
+    total_comp_high: 328000
+    currency: USD
+  - region: Sydney
+    base_low: 158000
+    base_high: 200000
+    stock_low: 129000
+    stock_high: 225000
+    bonus_pct: 10
+    total_comp_low: 197000
+    total_comp_high: 265000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: DoorDash PM = Google L4 PM = Uber PM = Meta IC5 PM = Instacart PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion"
+---
 ### Product Manager | DoorDash Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion

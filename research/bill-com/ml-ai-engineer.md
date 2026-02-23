@@ -1,3 +1,53 @@
+---
+company: bill-com
+company_display: Bill.com
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 175000
+    base_high: 235000
+    stock_low: 140000
+    stock_high: 280000
+    bonus_low: 18000
+    bonus_high: 40000
+    total_comp_low: 333000
+    total_comp_high: 555000
+    currency: USD
+  - region: Houston TX
+    base_low: 152000
+    base_high: 205000
+    stock_low: 110000
+    stock_high: 225000
+    bonus_low: 15000
+    bonus_high: 32000
+    total_comp_low: 277000
+    total_comp_high: 462000
+    currency: USD
+  - region: Salt Lake City UT
+    base_low: 145000
+    base_high: 195000
+    stock_low: 100000
+    stock_high: 210000
+    bonus_low: 14000
+    bonus_high: 30000
+    total_comp_low: 259000
+    total_comp_high: 435000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| BILL | Google | Meta | Stripe | PayPal | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: BILL` `Agentic AP` `ML/AI Engineer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Machine Learning` `Agentic Systems`"
+---
 ### ML/AI Engineer | Bill.com Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: BILL` `Agentic AP` `ML/AI Engineer` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Machine Learning` `Agentic Systems`

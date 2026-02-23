@@ -1,3 +1,51 @@
+---
+company: charles-schwab
+company_display: Charles Schwab
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westlake, TX (HQ)"
+    base_low: 215000
+    base_high: 285000
+    stock_low: 80000
+    stock_high: 130000
+    bonus_low: 37000
+    bonus_high: 63000
+    total_comp_low: 332000
+    total_comp_high: 478000
+    currency: USD
+  - region: San Francisco
+    base_low: 237000
+    base_high: 314000
+    stock_low: 88000
+    stock_high: 143000
+    bonus_low: 41000
+    bonus_high: 69000
+    total_comp_low: 365000
+    total_comp_high: 526000
+    currency: USD
+  - region: Denver
+    base_low: 226000
+    base_high: 299000
+    stock_low: 84000
+    stock_high: 137000
+    bonus_low: 39000
+    bonus_high: 66000
+    total_comp_low: 349000
+    total_comp_high: 502000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Technical Strategy Owner` `Cross-Platform Architecture` `Wealth Infrastructure`"
+---
 ### Staff Software Engineer | Charles Schwab Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Technical Strategy Owner` `Cross-Platform Architecture` `Wealth Infrastructure`

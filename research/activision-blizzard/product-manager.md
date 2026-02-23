@@ -1,3 +1,48 @@
+---
+company: activision-blizzard
+company_display: Activision Blizzard
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine / Santa Monica
+    base_low: 160000
+    base_high: 225000
+    stock_low: 100000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 365000
+    currency: USD
+  - region: Austin
+    base_low: 140000
+    base_high: 195000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 198000
+    total_comp_high: 315000
+    currency: USD
+  - region: Hyderabad
+    base_low: 2800000
+    base_high: 5000000
+    stock_low: 1500000
+    stock_high: 3500000
+    bonus_pct: 10
+    total_comp_low: 4800000
+    total_comp_high: 9200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Activision/MS PM Level 62-64 = Google L5-L6 PM = Meta IC5-IC6 PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine"
+---
 ### Product Manager | Activision Blizzard (Microsoft/Xbox) Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine

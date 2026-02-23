@@ -1,3 +1,47 @@
+---
+company: zscaler
+company_display: Zscaler
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 360000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2800000
+    total_comp_high: 7800000
+    currency: INR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Senior Software Engineers at Zscaler own critical subsystems of the Zero Trust Exchange and AI Guard — where the $1B+ Zero Trust Everywhere milestone demands architectural excellence and the 80% AI growth requires constant innovation."
+---
 ### Senior Software Engineer — Zscaler Salary Negotiation Guide
 
 **Negotiation DNA**: Senior Software Engineers at Zscaler own critical subsystems of the Zero Trust Exchange and AI Guard — where the $1B+ Zero Trust Everywhere milestone demands architectural excellence and the 80% AI growth requires constant innovation.

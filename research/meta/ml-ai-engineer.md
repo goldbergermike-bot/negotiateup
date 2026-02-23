@@ -1,3 +1,87 @@
+---
+company: meta
+company_display: Meta
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Menlo Park / NYC)
+    base_low: 210000
+    base_high: 300000
+    stock_low: 300000
+    stock_high: 700000
+    bonus_pct: 15
+    total_comp_low: 380000
+    total_comp_high: 620000
+    currency: USD
+  - region: US (Seattle / Austin)
+    base_low: 200000
+    base_high: 285000
+    stock_low: 280000
+    stock_high: 660000
+    bonus_pct: 15
+    total_comp_low: 360000
+    total_comp_high: 590000
+    currency: USD
+  - region: London (UK)
+    base_low: 170000
+    base_high: 250000
+    stock_low: 240000
+    stock_high: 560000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 510000
+    currency: USD
+  - region: Canada (Toronto / Montreal)
+    base_low: 165000
+    base_high: 240000
+    stock_low: 225000
+    stock_high: 530000
+    bonus_pct: 15
+    total_comp_low: 295000
+    total_comp_high: 490000
+    currency: USD
+  - region: Germany (Berlin / Hamburg)
+    base_low: 155000
+    base_high: 230000
+    stock_low: 210000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 465000
+    currency: USD
+  - region: Singapore
+    base_low: 150000
+    base_high: 220000
+    stock_low: 200000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 445000
+    currency: USD
+  - region: India (Hyderabad / Bangalore)
+    base_low: 65000
+    base_high: 110000
+    stock_low: 90000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 120000
+    total_comp_high: 235000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: E5 (Senior ML) maps to Google L5 / Amazon L6 Applied Scientist / Apple ML Engineer ICT4; E6 (Staff ML) maps to Google L6 / Amazon L7 Principal Scientist / Apple ML Engineer ICT5. Research Scientist roles follow a separate track but comparable compensation bands.
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Applied Machine Learning at Billions Scale | AI-First Product Integration | **AI TALENT WAR PREMIUM**"
+---
 ### ML/AI Engineer | Meta Global Negotiation Guide
 
 **Negotiation DNA:** Applied Machine Learning at Billions Scale | AI-First Product Integration | **AI TALENT WAR PREMIUM**

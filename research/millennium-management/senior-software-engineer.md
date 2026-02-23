@@ -1,3 +1,50 @@
+---
+company: millennium-management
+company_display: Millennium Management
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 225000
+    base_high: 295000
+    stock_low: null
+    stock_high: null
+    bonus_low: 140000
+    bonus_high: 220000
+    total_comp_low: 455000
+    total_comp_high: 665000
+    currency: USD
+  - region: Miami
+    base_low: 215000
+    base_high: 280000
+    stock_low: null
+    stock_high: null
+    bonus_low: 130000
+    bonus_high: 200000
+    total_comp_low: 425000
+    total_comp_high: 615000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 170000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_low: 105000
+    bonus_high: 165000
+    total_comp_low: 340000
+    total_comp_high: 495000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Senior IC Track` `Cross-Pod Influence` `Direct Attribution`"
+---
 ### Senior Software Engineer | Millennium Management Global Negotiation Guide
 
 **Negotiation DNA:** `Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Senior IC Track` `Cross-Pod Influence` `Direct Attribution`

@@ -1,3 +1,69 @@
+---
+company: google
+company_display: Google
+role: gemini-ai-platform-engineer
+role_display: Gemini AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 210000
+    base_high: 300000
+    stock_low: 300000
+    stock_high: 700000
+    bonus_pct: 15
+    total_comp_low: 350000
+    total_comp_high: 550000
+    currency: USD
+  - region: New York City
+    base_low: 205000
+    base_high: 295000
+    stock_low: 280000
+    stock_high: 680000
+    bonus_pct: 15
+    total_comp_low: 340000
+    total_comp_high: 540000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 200000
+    base_high: 290000
+    stock_low: 270000
+    stock_high: 660000
+    bonus_pct: 15
+    total_comp_low: 330000
+    total_comp_high: 520000
+    currency: USD
+  - region: London (DeepMind)
+    base_low: 130000
+    base_high: 210000
+    stock_low: 180000
+    stock_high: 450000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 400000
+    currency: GBP
+  - region: Zurich
+    base_low: 180000
+    base_high: 270000
+    stock_low: 250000
+    stock_high: 550000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 500000
+    currency: CHF
+level_mapping:
+  internal: null
+  raw: "Gemini AI Platform Engineer at Google (L5-L6) = IC4-IC5 at Meta, E5-E6 at Microsoft, L5-L6 at Apple, Senior/Staff at OpenAI, Research Scientist at Anthropic"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "Flagship AI product equity premium + Top-of-market RSU grants + DeepMind/Google Brain talent war | Google pays at the absolute ceiling for Gemini talent | **CRITICAL TALENT PREMIUM**"
+---
 ### Gemini AI Platform Engineer | Google Global Negotiation Guide
 
 **Negotiation DNA:** Flagship AI product equity premium + Top-of-market RSU grants + DeepMind/Google Brain talent war | Google pays at the absolute ceiling for Gemini talent | **CRITICAL TALENT PREMIUM**

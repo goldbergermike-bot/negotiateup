@@ -1,3 +1,49 @@
+---
+company: valve
+company_display: Valve
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue WA
+    base_low: 170000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 420000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 155000
+    base_high: 228000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 395000
+    currency: USD
+  - region: N/A — Valve is Bellevue-only
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Valve DevOps (no levels) ~ Google L4-L5 SRE = Amazon L6 SysDE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue"
+---
 ### DevOps Engineer | Valve Global Negotiation Guide
 
 **Negotiation DNA:** Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue

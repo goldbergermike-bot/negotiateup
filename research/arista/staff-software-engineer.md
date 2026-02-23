@@ -1,3 +1,48 @@
+---
+company: arista
+company_display: Arista Networks
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 258000
+    base_high: 318000
+    stock_low: 388000
+    stock_high: 682000
+    bonus_pct: 15
+    total_comp_low: 432000
+    total_comp_high: 608000
+    currency: USD
+  - region: Vancouver (BC)
+    base_low: 245000
+    base_high: 302000
+    stock_low: 365000
+    stock_high: 642000
+    bonus_pct: 15
+    total_comp_low: 412000
+    total_comp_high: 575000
+    currency: CAD
+  - region: Remote US
+    base_low: 248000
+    base_high: 308000
+    stock_low: 388000
+    stock_high: 682000
+    bonus_pct: 15
+    total_comp_low: 425000
+    total_comp_high: 598000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Arista Staff SWE (IC4) = Cisco Distinguished = Juniper Staff = Google L6 Network = Meta Staff Network
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density"
+---
 ### Staff Software Engineer | Arista Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density

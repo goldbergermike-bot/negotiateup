@@ -1,3 +1,52 @@
+---
+company: mongodb
+company_display: Mongodb
+role: voyage-ai-search-engineer
+role_display: Voyage AI Search Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 195000
+    base_high: 242000
+    stock_low: 240000
+    stock_high: 400000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 342000
+    currency: USD
+  - region: Dublin
+    base_low: 85000
+    base_high: 112000
+    stock_low: 98000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 110000
+    total_comp_high: 153000
+    currency: EUR
+  - region: Austin
+    base_low: 185000
+    base_high: 232000
+    stock_low: 220000
+    stock_high: 370000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: MongoDB Voyage AI Search Eng (Senior) = Elastic ESRE Engineer = Google L4-L5 Search Infrastructure = Pinecone Senior Eng
+data_sources:
+  - "MongoDB Voyage AI Acquisition — January 2026, $200M+ Strategic Investment"
+  - Atlas Vector Search — Native Embedding + Document Hybrid Retrieval
+  - "Voyage AI Embedding Models — Code, Text, Multimodal Retrieval Quality"
+  - MongoDB AI Data Layer — Category Creation vs. Purpose-Built Vector Databases
+  - "Agentic AI Premium — 20-35% for Autonomous Retrieval Optimization"
+negotiation_dna_summary: "Equity-Heavy + No Bonus | \"Battle for the AI Data Layer\" | **SIGNATURE ROLE** | **+20–35% AGENTIC AI PREMIUM**"
+---
 ### Voyage AI Search Engineer | MongoDB Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + No Bonus | "Battle for the AI Data Layer" | **SIGNATURE ROLE** | **+20–35% AGENTIC AI PREMIUM**

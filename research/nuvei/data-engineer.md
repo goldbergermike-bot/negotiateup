@@ -1,3 +1,52 @@
+---
+company: nuvei
+company_display: Nuvei
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montreal
+    base_low: 115000
+    base_high: 160000
+    stock_low: 28000
+    stock_high: 62000
+    bonus_low: 12000
+    bonus_high: 24000
+    total_comp_low: 155000
+    total_comp_high: 246000
+    currency: CAD
+  - region: New York
+    base_low: 145000
+    base_high: 205000
+    stock_low: 38000
+    stock_high: 78000
+    bonus_low: 16000
+    bonus_high: 34000
+    total_comp_low: 199000
+    total_comp_high: 317000
+    currency: USD
+  - region: London
+    base_low: 78000
+    base_high: 115000
+    stock_low: 16000
+    stock_high: 40000
+    bonus_low: 9000
+    bonus_high: 17000
+    total_comp_low: 103000
+    total_comp_high: 172000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Nuvei | Google | Meta | Stripe | Adyen | Global Payments |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Data Infrastructure` `ETL/Streaming` `Montreal HQ`"
+---
 ### Data Engineer | Nuvei Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Data Infrastructure` `ETL/Streaming` `Montreal HQ`

@@ -1,3 +1,49 @@
+---
+company: barclays
+company_display: Barclays
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 140000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 190000
+    total_comp_high: 315000
+    currency: USD
+  - region: London (HQ)
+    base_low: 95000
+    base_high: 142000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 128000
+    total_comp_high: 222000
+    currency: GBP
+  - region: Glasgow
+    base_low: 75000
+    base_high: 112000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 100000
+    total_comp_high: 168000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "TPM at Barclays (SVP/Director) = L5-L6 TPM at Google, E5-E6 TPM at Meta, Sr TPM-Principal TPM at Amazon, SVP/Director TPM at BofA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GBP35B market cap UK bank + TPMs coordinate UK/US banking programs + London/NYC dual hub + Competitive in quant/tech | Barclays TPMs manage complex international banking programs | **UK BANKING PROGRAM PREMIUM**"
+---
 ### Technical Program Manager | Barclays Global Negotiation Guide
 
 **Negotiation DNA:** GBP35B market cap UK bank + TPMs coordinate UK/US banking programs + London/NYC dual hub + Competitive in quant/tech | Barclays TPMs manage complex international banking programs | **UK BANKING PROGRAM PREMIUM**

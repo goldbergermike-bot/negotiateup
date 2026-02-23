@@ -1,3 +1,48 @@
+---
+company: intel
+company_display: Intel
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 138000
+    base_high: 178000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_pct: 12
+    total_comp_low: 185000
+    total_comp_high: 258000
+    currency: USD
+  - region: Portland
+    base_low: 128000
+    base_high: 168000
+    stock_low: 48000
+    stock_high: 88000
+    bonus_pct: 12
+    total_comp_low: 172000
+    total_comp_high: 240000
+    currency: USD
+  - region: Phoenix
+    base_low: 120000
+    base_high: 158000
+    stock_low: 42000
+    stock_high: 78000
+    bonus_pct: 12
+    total_comp_low: 160000
+    total_comp_high: 225000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Intel Data Scientist (Grade 7-8) = AMD Data Scientist = NVIDIA Data Scientist = Google L4-L5 Data Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + INTC RSUs (4yr vest) + Bonus (12-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages"
+---
 ### Data Scientist | Intel Global Negotiation Guide
 
 **Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (12-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages

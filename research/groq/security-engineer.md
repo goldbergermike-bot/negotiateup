@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 162000
+    base_high: 205000
+    stock_low: 30000
+    stock_high: 58000
+    bonus_pct: 8
+    total_comp_low: 202000
+    total_comp_high: 282000
+    currency: USD
+  - region: San Diego
+    base_low: 150000
+    base_high: 190000
+    stock_low: 27000
+    stock_high: 52000
+    bonus_pct: 8
+    total_comp_low: 188000
+    total_comp_high: 262000
+    currency: USD
+  - region: Remote US
+    base_low: 142000
+    base_high: 182000
+    stock_low: 24000
+    stock_high: 47000
+    bonus_pct: 8
+    total_comp_low: 175000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq Security Engineer ≈ Google Security Engineer L4–L5 · Meta Security Engineer (IC4–IC5) · Amazon Security Engineer SDE-II–III · Apple Security Engineer · NVIDIA Security Engineer · CrowdStrike Senior Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Security & Compliance Premium"
+---
 ### Security Engineer | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Security & Compliance Premium

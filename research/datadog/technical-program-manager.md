@@ -1,3 +1,48 @@
+---
+company: datadog
+company_display: Datadog
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 355000
+    currency: USD
+  - region: Paris
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 135000
+    currency: EUR
+  - region: Dublin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 60000
+    total_comp_high: 140000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Technical Program Managers at Datadog orchestrate the cross-functional execution behind LLM Observability and the AI Nervous System — turning strategic vision into shipped product across globally distributed teams.
+---
 ### Technical Program Manager — Datadog Salary Negotiation Guide
 
 **Negotiation DNA**: Technical Program Managers at Datadog orchestrate the cross-functional execution behind LLM Observability and the AI Nervous System — turning strategic vision into shipped product across globally distributed teams.

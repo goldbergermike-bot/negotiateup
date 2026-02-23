@@ -1,3 +1,56 @@
+---
+company: new-relic
+company_display: New Relic
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 50000
+    total_comp_low: 300000
+    total_comp_high: 420000
+    currency: USD
+  - region: Portland
+    base_low: 190000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 20000
+    signing_bonus_high: 40000
+    total_comp_low: 270000
+    total_comp_high: 380000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 170000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Staff Software Engineer at New Relic maps to L6 (staff) industry-wide. Equivalent titles include Principal SDE (Amazon), E6 (Meta), L6 (Google), Staff Engineer (Datadog), and Distinguished Engineer (smaller observability companies)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Staff Software Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | Observability Platform"
+---
 ### Staff Software Engineer | New Relic Global Negotiation Guide
 
 **Negotiation DNA:** Staff Software Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | Observability Platform

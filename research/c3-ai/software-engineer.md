@@ -1,3 +1,40 @@
+---
+company: c3-ai
+company_display: C3.ai
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City HQ
+    base_low: 140000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 280000
+    currency: USD
+  - region: Remote US
+    base_low: 125000
+    base_high: 180000
+    stock_low: 40000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: C3.ai SWE = Palantir SWE = Google L3 = Salesforce MTS
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Public ($4B Market Cap) | Enterprise AI Platform | Tom Siebel-Led | Volatile Stock"
+---
 ### Software Engineer | C3.ai Global Negotiation Guide
 
 **Negotiation DNA:** Public ($4B Market Cap) | Enterprise AI Platform | Tom Siebel-Led | Volatile Stock

@@ -1,3 +1,48 @@
+---
+company: servicenow
+company_display: Servicenow
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara (USD)
+    base_low: 175000
+    base_high: 225000
+    stock_low: 175000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 300000
+    currency: USD
+  - region: San Diego (USD)
+    base_low: 160000
+    base_high: 208000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 203000
+    total_comp_high: 273000
+    currency: USD
+  - region: London (GBP £)
+    base_low: 114000
+    base_high: 147000
+    stock_low: 114000
+    stock_high: 202000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 196000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ServiceNow Senior TPM = Google L5 TPM = Amazon L6 TPgM = Meta TPM (IC5)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform"
+---
 ### Technical Program Manager | ServiceNow Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform

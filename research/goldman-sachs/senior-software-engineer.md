@@ -1,3 +1,53 @@
+---
+company: goldman-sachs
+company_display: Goldman Sachs
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 175000
+    base_high: 235000
+    stock_low: 55000
+    stock_high: 90000
+    bonus_low: 38000
+    bonus_high: 60000
+    total_comp_low: 268000
+    total_comp_high: 385000
+    currency: USD
+  - region: London
+    base_low: 132000
+    base_high: 178000
+    stock_low: 42000
+    stock_high: 68000
+    bonus_low: 29000
+    bonus_high: 45000
+    total_comp_low: 203000
+    total_comp_high: 291000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 4200000
+    base_high: 6200000
+    stock_low: 1600000
+    stock_high: 2500000
+    bonus_low: 1000000
+    bonus_high: 1800000
+    total_comp_low: 6800000
+    total_comp_high: 10500000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: "`Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Vice President Level` `System Design Authority` `Cross-Team Technical Leadership`"
+---
 ### Senior Software Engineer | Goldman Sachs Global Negotiation Guide
 
 **Negotiation DNA:** `Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Vice President Level` `System Design Authority` `Cross-Team Technical Leadership`

@@ -1,3 +1,68 @@
+---
+company: alibaba
+company_display: Alibaba
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 170000
+    base_high: 240000
+    stock_low: 95000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 395000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 165000
+    base_high: 235000
+    stock_low: 90000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 385000
+    currency: USD
+  - region: Hangzhou (HQ)
+    base_low: 500000
+    base_high: 900000
+    stock_low: 220000
+    stock_high: 600000
+    bonus_pct: 15
+    total_comp_low: 770000
+    total_comp_high: 1500000
+    currency: CNY
+  - region: Beijing
+    base_low: 480000
+    base_high: 870000
+    stock_low: 210000
+    stock_high: 570000
+    bonus_pct: 15
+    total_comp_low: 740000
+    total_comp_high: 1450000
+    currency: CNY
+  - region: Singapore
+    base_low: 130000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Senior Software Engineer at Alibaba (P7-P8) = L5 at Google, IC5 at Meta, SDE III at Amazon, equivalent ByteDance 2-2"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B market cap with Asia's largest cloud + e-commerce processing $1T+ GMV + US senior comp competitive with FAANG | Senior engineers at Alibaba architect systems handling Singles' Day-scale traffic | **SENIOR SCALE PREMIUM**"
+---
 ### Senior Software Engineer | Alibaba Global Negotiation Guide
 
 **Negotiation DNA:** $200B market cap with Asia's largest cloud + e-commerce processing $1T+ GMV + US senior comp competitive with FAANG | Senior engineers at Alibaba architect systems handling Singles' Day-scale traffic | **SENIOR SCALE PREMIUM**

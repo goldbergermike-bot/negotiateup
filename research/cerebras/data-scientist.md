@@ -1,3 +1,51 @@
+---
+company: cerebras
+company_display: Cerebras
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 188000
+    base_high: 238000
+    stock_low: 172000
+    stock_high: 302000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 342000
+    currency: USD
+  - region: San Diego
+    base_low: 185000
+    base_high: 235000
+    stock_low: 172000
+    stock_high: 302000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 338000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 228000
+    stock_low: 172000
+    stock_high: 302000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 332000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cerebras Data Scientist (IC2-IC3) = Google L4-L5 DS = NVIDIA DS = Meta DS = Groq DS
+data_sources:
+  - "Cerebras Q2 2026 IPO Timeline — S-1 Metrics & Analytics"
+  - Cerebras $10B OpenAI Deal — Performance Benchmark Data
+  - Cerebras vs NVIDIA — Competitive Performance Analysis
+  - Cerebras DS Comp — Private Market 2025
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal"
+---
 ### Data Scientist | Cerebras Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | Wafer-Scale AI Compute | Q2 2026 IPO Timeline | $10B OpenAI Deal

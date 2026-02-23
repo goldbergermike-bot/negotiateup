@@ -1,3 +1,53 @@
+---
+company: gocardless
+company_display: Gocardless
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 80000
+    base_high: 120000
+    stock_low: 25000
+    stock_high: 60000
+    bonus_low: 8000
+    bonus_high: 15000
+    total_comp_low: 113000
+    total_comp_high: 195000
+    currency: GBP
+  - region: San Francisco
+    base_low: 165000
+    base_high: 230000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 225000
+    total_comp_high: 350000
+    currency: USD
+  - region: Melbourne
+    base_low: 130000
+    base_high: 180000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 172000
+    total_comp_high: 267000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: "| GoCardless | Google | Meta | Stripe | Wise | Adyen |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `Machine Learning` `AI` `Fraud Models` `Payment Optimization`"
+---
 ### ML/AI Engineer | GoCardless Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `Machine Learning` `AI` `Fraud Models` `Payment Optimization`

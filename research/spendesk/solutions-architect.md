@@ -1,3 +1,53 @@
+---
+company: spendesk
+company_display: Spendesk
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 70000
+    base_high: 100000
+    stock_low: 25000
+    stock_high: 65000
+    bonus_low: 10000
+    bonus_high: 25000
+    total_comp_low: 105000
+    total_comp_high: 190000
+    currency: EUR
+  - region: London
+    base_low: 72000
+    base_high: 105000
+    stock_low: 22000
+    stock_high: 55000
+    bonus_low: 10000
+    bonus_high: 25000
+    total_comp_low: 104000
+    total_comp_high: 185000
+    currency: GBP
+  - region: Berlin
+    base_low: 72000
+    base_high: 102000
+    stock_low: 24000
+    stock_high: 60000
+    bonus_low: 10000
+    bonus_high: 22000
+    total_comp_low: 106000
+    total_comp_high: 184000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Spendesk | Google | Meta | Stripe | Pleo | Brex |"
+data_sources:
+  - Crunchbase
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `Solutions Architecture` `Enterprise` `Pre-Sales`"
+---
 ### Solutions Architect | Spendesk Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `Solutions Architecture` `Enterprise` `Pre-Sales`

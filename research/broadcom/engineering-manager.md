@@ -1,3 +1,48 @@
+---
+company: broadcom
+company_display: Broadcom
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose (USD)
+    base_low: 195000
+    base_high: 255000
+    stock_low: 250000
+    stock_high: 420000
+    bonus_pct: 20
+    total_comp_low: 278000
+    total_comp_high: 398000
+    currency: USD
+  - region: Singapore (SGD S$)
+    base_low: 162000
+    base_high: 212000
+    stock_low: 205000
+    stock_high: 348000
+    bonus_pct: 20
+    total_comp_low: 230000
+    total_comp_high: 332000
+    currency: SGD
+  - region: London (GBP £)
+    base_low: 120000
+    base_high: 168000
+    stock_low: 150000
+    stock_high: 258000
+    bonus_pct: 20
+    total_comp_low: 172000
+    total_comp_high: 262000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Broadcom Engineering Manager (M1-M2) = VMware Senior Engineering Manager = Google L6 Engineering Manager = NVIDIA Engineering Manager = Microsoft Engineering Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + AVGO RSUs (4yr vest) + 20-25% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp"
+---
 ### Engineering Manager | Broadcom Global Negotiation Guide
 
 **Negotiation DNA:** Base + AVGO RSUs (4yr vest) + 20-25% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp

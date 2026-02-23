@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 205000
+    stock_low: 100000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 280000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 198000
+    stock_low: 95000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 268000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 150000
+    stock_low: 70000
+    stock_high: 128000
+    bonus_pct: 10
+    total_comp_low: 152000
+    total_comp_high: 198000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel SecEng = Google L4 Security = Datadog SecEng = Amplitude Security Lead
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive Equity + Compliance Bonus | AI Data Security & Privacy 2026"
+---
 ### Security Engineer | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Equity + Compliance Bonus | AI Data Security & Privacy 2026

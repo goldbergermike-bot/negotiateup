@@ -1,3 +1,51 @@
+---
+company: comcast
+company_display: Comcast
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / NYC
+    base_low: 130000
+    base_high: 185000
+    stock_low: 40000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 260000
+    currency: USD
+  - region: Denver / Seattle
+    base_low: 125000
+    base_high: 180000
+    stock_low: 35000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 245000
+    currency: USD
+  - region: London (UK)
+    base_low: 95000
+    base_high: 135000
+    stock_low: 25000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Comcast SWE (T3-T4) = Google L3-L4 = Meta E3-E4 = Amazon SDE I-II = Microsoft 59-62 = Apple ICT2-ICT3
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "$170B Media-Tech Conglomerate | Xfinity + Peacock + NBCUniversal | Strong Tech Investment"
+---
 ### Software Engineer | Comcast Global Negotiation Guide
 
 **Negotiation DNA:** $170B Media-Tech Conglomerate | Xfinity + Peacock + NBCUniversal | Strong Tech Investment

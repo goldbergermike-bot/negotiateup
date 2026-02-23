@@ -1,3 +1,48 @@
+---
+company: snowflake
+company_display: Snowflake
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bozeman
+    base_low: 165000
+    base_high: 200000
+    stock_low: 180000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 270000
+    currency: USD
+  - region: Seattle
+    base_low: 160000
+    base_high: 195000
+    stock_low: 170000
+    stock_high: 265000
+    bonus_pct: null
+    total_comp_low: 203000
+    total_comp_high: 261000
+    currency: USD
+  - region: Warsaw
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snowflake SWE = Google L3 = Meta E3 = Databricks SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / No Bonus | CEO-Led AI Platform Pivot | TOP-OF-MARKET Initial Grants"
+---
 ### Software Engineer | Snowflake Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | CEO-Led AI Platform Pivot | TOP-OF-MARKET Initial Grants

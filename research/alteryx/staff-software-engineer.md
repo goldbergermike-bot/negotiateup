@@ -1,3 +1,40 @@
+---
+company: alteryx
+company_display: Alteryx
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine HQ
+    base_low: 195000
+    base_high: 245000
+    stock_low: 130000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 270000
+    total_comp_high: 400000
+    currency: USD
+  - region: Remote US
+    base_low: 180000
+    base_high: 230000
+    stock_low: 110000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 250000
+    total_comp_high: 370000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Alteryx Staff SWE = Dataiku Staff SWE = Google L5 = Salesforce Principal MTS
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium"
+---
 ### Staff Software Engineer | Alteryx Global Negotiation Guide
 
 **Negotiation DNA:** Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium

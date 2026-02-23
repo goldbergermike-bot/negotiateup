@@ -1,3 +1,48 @@
+---
+company: confluent
+company_display: Confluent
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 180000
+    base_high: 222000
+    stock_low: 190000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 305000
+    currency: USD
+  - region: London
+    base_low: 78000
+    base_high: 100000
+    stock_low: 78000
+    stock_high: 128000
+    bonus_pct: 10
+    total_comp_low: 98000
+    total_comp_high: 138000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4800000
+    base_high: 7200000
+    stock_low: 3800000
+    stock_high: 6200000
+    bonus_pct: 10
+    total_comp_low: 5800000
+    total_comp_high: 9200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Confluent Senior Security Eng = Google L4 Security = Databricks Senior Security Eng = MongoDB Senior Security Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy"
+---
 ### Security Engineer | Confluent Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy

@@ -1,3 +1,49 @@
+---
+company: vercel
+company_display: Vercel
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 250000
+    base_high: 310000
+    stock_low: 400000
+    stock_high: 700000
+    bonus_pct: 10
+    total_comp_low: 400000
+    total_comp_high: 620000
+    currency: USD
+  - region: New York
+    base_low: 250000
+    base_high: 310000
+    stock_low: 400000
+    stock_high: 700000
+    bonus_pct: 10
+    total_comp_low: 400000
+    total_comp_high: 620000
+    currency: USD
+  - region: London
+    base_low: 190000
+    base_high: 236000
+    stock_low: 304000
+    stock_high: 532000
+    bonus_pct: 10
+    total_comp_low: 304000
+    total_comp_high: 472000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Vercel Staff SWE = Google L6 = Meta E6 = Netlify Principal Engineer = Cloudflare Staff SWE
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "High Base + Significant Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI-Native Developer Experience"
+---
 ### Staff Software Engineer | Vercel Global Negotiation Guide
 
 **Negotiation DNA:** High Base + Significant Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI-Native Developer Experience

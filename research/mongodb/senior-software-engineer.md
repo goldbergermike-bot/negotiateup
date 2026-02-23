@@ -1,3 +1,48 @@
+---
+company: mongodb
+company_display: Mongodb
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 185000
+    base_high: 225000
+    stock_low: 200000
+    stock_high: 340000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 310000
+    currency: USD
+  - region: Dublin
+    base_low: 80000
+    base_high: 100000
+    stock_low: 82000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 100000
+    total_comp_high: 135000
+    currency: EUR
+  - region: Austin
+    base_low: 175000
+    base_high: 215000
+    stock_low: 185000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: MongoDB Senior SWE = Google L4 = Meta E4 = Elastic Senior SWE = Snowflake Senior SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + No Bonus | \"Battle for the AI Data Layer\" | Voyage AI Acquisition Premium"
+---
 ### Senior Software Engineer | MongoDB Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + No Bonus | "Battle for the AI Data Layer" | Voyage AI Acquisition Premium

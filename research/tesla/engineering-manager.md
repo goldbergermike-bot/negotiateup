@@ -1,3 +1,50 @@
+---
+company: tesla
+company_display: Tesla
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin (HQ)
+    base_low: 195000
+    base_high: 275000
+    stock_low: 250000
+    stock_high: 550000
+    bonus_pct: null
+    total_comp_low: 320000
+    total_comp_high: 500000
+    currency: USD
+  - region: Palo Alto
+    base_low: 205000
+    base_high: 285000
+    stock_low: 270000
+    stock_high: 575000
+    bonus_pct: null
+    total_comp_low: 340000
+    total_comp_high: 525000
+    currency: USD
+  - region: Fremont
+    base_low: 200000
+    base_high: 280000
+    stock_low: 260000
+    stock_high: 560000
+    bonus_pct: null
+    total_comp_low: 330000
+    total_comp_high: 510000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tesla Engineering Manager = Google L5/L6 Manager = Meta M1 = Apple EM2 = Amazon L6/L7 Manager
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk | Technical Depth Required"
+---
 ### Engineering Manager | Tesla Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk | Technical Depth Required

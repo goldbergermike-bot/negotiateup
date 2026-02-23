@@ -1,3 +1,53 @@
+---
+company: jpmorgan-chase
+company_display: JPMorgan Chase
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 145000
+    base_high: 195000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_low: 30000
+    bonus_high: 52000
+    total_comp_low: 215000
+    total_comp_high: 312000
+    currency: USD
+  - region: London
+    base_low: 119000
+    base_high: 160000
+    stock_low: 33000
+    stock_high: 53000
+    bonus_low: 25000
+    bonus_high: 43000
+    total_comp_low: 176000
+    total_comp_high: 256000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 3020000
+    base_high: 4060000
+    stock_low: 830000
+    stock_high: 1350000
+    bonus_low: 630000
+    bonus_high: 1080000
+    total_comp_low: 4480000
+    total_comp_high: 6500000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Quantitative Modeling` `ML/Statistical Analysis` `Decision Science`"
+---
 ### Data Scientist | JPMorgan Chase Global Negotiation Guide
 
 **Negotiation DNA:** `Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Quantitative Modeling` `ML/Statistical Analysis` `Decision Science`

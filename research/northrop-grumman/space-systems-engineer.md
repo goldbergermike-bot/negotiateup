@@ -1,3 +1,49 @@
+---
+company: northrop-grumman
+company_display: Northrop Grumman
+role: space-systems-engineer
+role_display: Space Systems Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Falls Church, VA"
+    base_low: 130000
+    base_high: 180000
+    stock_low: 35000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 250000
+    currency: USD
+  - region: "Redondo Beach, CA"
+    base_low: 135000
+    base_high: 185000
+    stock_low: 35000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 163000
+    total_comp_high: 255000
+    currency: USD
+  - region: "Huntsville, AL"
+    base_low: 120000
+    base_high: 170000
+    stock_low: 33000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 240000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Northrop Space Systems Eng = Lockheed Space Eng = Ball Aerospace Systems Eng -- Northrop pays 5-15% above defense median for space roles"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense + Tech Premium | $75B Market Cap | Space Systems/Defense | **SIGNATURE ROLE** | **+10-20% Space Systems Premium** | Standard 40-45 Hour Culture"
+---
 ### Space Systems Engineer | Northrop Grumman Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense + Tech Premium | $75B Market Cap | Space Systems/Defense | **SIGNATURE ROLE** | **+10-20% Space Systems Premium** | Standard 40-45 Hour Culture

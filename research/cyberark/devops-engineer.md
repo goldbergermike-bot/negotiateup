@@ -1,3 +1,45 @@
+---
+company: cyberark
+company_display: Cyberark
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Newton MA
+    base_low: 135000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 12000
+    signing_bonus_high: 28000
+    total_comp_low: 215000
+    total_comp_high: 325000
+    currency: USD
+  - region: London
+    base_low: 72000
+    base_high: 100000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    signing_bonus_low: 9000
+    signing_bonus_high: 20000
+    total_comp_low: 126000
+    total_comp_high: 208000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at CyberArk maps to E3–E5 in the Palo Alto Networks infrastructure engineering ladder, IC contributor within the Identity Security platform infrastructure team."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London"
+---
 ### DevOps Engineer | CyberArk Global Negotiation Guide
 
 **Negotiation DNA:** CyberArk (acquired by Palo Alto Networks) | Identity Security & Privileged Access Management | Post-Acquisition PANW Equity | Newton MA, Tel Aviv, London

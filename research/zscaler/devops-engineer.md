@@ -1,3 +1,47 @@
+---
+company: zscaler
+company_display: Zscaler
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 345000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2500000
+    total_comp_high: 7400000
+    currency: INR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 165000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "DevOps Engineers at Zscaler keep the Zero Trust Exchange running at 400B+ daily transactions — where the $1B+ Zero Trust Everywhere milestone, AI Guard deployments, and 80% AI growth demand infrastructure that never fails."
+---
 ### DevOps Engineer — Zscaler Salary Negotiation Guide
 
 **Negotiation DNA**: DevOps Engineers at Zscaler keep the Zero Trust Exchange running at 400B+ daily transactions — where the $1B+ Zero Trust Everywhere milestone, AI Guard deployments, and 80% AI growth demand infrastructure that never fails.

@@ -1,3 +1,49 @@
+---
+company: riot-games
+company_display: Riot Games
+role: league-platform-engineer
+role_display: League Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 185000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 280000
+    total_comp_high: 430000
+    currency: USD
+  - region: Seattle
+    base_low: 180000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 270000
+    total_comp_high: 420000
+    currency: USD
+  - region: Dublin
+    base_low: 75000
+    base_high: 110000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 100000
+    total_comp_high: 150000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Riot Senior Engineer = Google L4-L5 = Meta E4-E5 = Valve Senior Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity Profit-Sharing + Premium Bonus | **SIGNATURE ROLE** | **+15–30% LIVE-SERVICE PREMIUM**"
+---
 ### League Platform Engineer | Riot Games Global Negotiation Guide
 
 **Negotiation DNA:** Equity Profit-Sharing + Premium Bonus | **SIGNATURE ROLE** | **+15–30% LIVE-SERVICE PREMIUM**

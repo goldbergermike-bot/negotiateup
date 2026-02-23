@@ -1,3 +1,50 @@
+---
+company: comcast
+company_display: Comcast
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / NYC
+    base_low: 140000
+    base_high: 200000
+    stock_low: 45000
+    stock_high: 145000
+    bonus_pct: 12
+    total_comp_low: 175000
+    total_comp_high: 295000
+    currency: USD
+  - region: Denver / Seattle
+    base_low: 135000
+    base_high: 195000
+    stock_low: 40000
+    stock_high: 135000
+    bonus_pct: 12
+    total_comp_low: 165000
+    total_comp_high: 280000
+    currency: USD
+  - region: London (UK)
+    base_low: 105000
+    base_high: 148000
+    stock_low: 30000
+    stock_high: 100000
+    bonus_pct: 12
+    total_comp_low: 135000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Comcast TPM (T4-T6) = Google L4-L6 TPM = Meta E4-E6 TPM = Amazon TPM L5-L7 = Microsoft 62-65 TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$170B Media-Tech Conglomerate | Cross-Organization Program Delivery | Complex Multi-Platform Initiatives"
+---
 ### Technical Program Manager | Comcast Global Negotiation Guide
 
 **Negotiation DNA:** $170B Media-Tech Conglomerate | Cross-Organization Program Delivery | Complex Multi-Platform Initiatives

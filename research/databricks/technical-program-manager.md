@@ -1,3 +1,48 @@
+---
+company: databricks
+company_display: Databricks
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 225000
+    stock_low: 158000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 328000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 232000
+    stock_low: 158000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: 172000
+    base_high: 218000
+    stock_low: 158000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Databricks TPM (TPM2-TPM3) = Snowflake TPM = Google TPM L4-L5 = Meta TPM (IC4-IC5) = Amazon TPM L5-L6 = Microsoft TPM 62-63
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Technical Program Manager | Databricks Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**

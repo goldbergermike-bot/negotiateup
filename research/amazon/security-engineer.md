@@ -1,3 +1,65 @@
+---
+company: amazon
+company_display: Amazon
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 155000
+    base_high: 185000
+    stock_low: 200000
+    stock_high: 500000
+    bonus_pct: null
+    signing_bonus_low: 60000
+    signing_bonus_high: 110000
+    total_comp_low: 290000
+    total_comp_high: 450000
+    currency: USD
+  - region: Bay Area
+    base_low: 160000
+    base_high: 185000
+    stock_low: 220000
+    stock_high: 530000
+    bonus_pct: null
+    signing_bonus_low: 65000
+    signing_bonus_high: 115000
+    total_comp_low: 305000
+    total_comp_high: 470000
+    currency: USD
+  - region: NYC
+    base_low: 160000
+    base_high: 185000
+    stock_low: 210000
+    stock_high: 520000
+    bonus_pct: null
+    signing_bonus_low: 60000
+    signing_bonus_high: 110000
+    total_comp_low: 295000
+    total_comp_high: 460000
+    currency: USD
+  - region: Arlington VA
+    base_low: 155000
+    base_high: 185000
+    stock_low: 200000
+    stock_high: 510000
+    bonus_pct: null
+    signing_bonus_low: 60000
+    signing_bonus_high: 110000
+    total_comp_low: 290000
+    total_comp_high: 455000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Amazon L6 Security Engineer = Google L5 Security = CrowdStrike Senior = Palo Alto Networks Senior
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Back-Loaded RSU Vesting / Signing Bonus Bridge | World's Largest Attack Surface"
+---
 ### Security Engineer | Amazon Global Negotiation Guide
 
 **Negotiation DNA:** Back-Loaded RSU Vesting / Signing Bonus Bridge | World's Largest Attack Surface

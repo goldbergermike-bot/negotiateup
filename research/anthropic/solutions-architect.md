@@ -1,3 +1,50 @@
+---
+company: anthropic
+company_display: Anthropic
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 272000
+    stock_low: 225000
+    stock_high: 395000
+    bonus_pct: null
+    total_comp_low: 271000
+    total_comp_high: 371000
+    currency: USD
+  - region: Seattle
+    base_low: 209000
+    base_high: 259000
+    stock_low: 225000
+    stock_high: 395000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 358000
+    currency: USD
+  - region: London
+    base_low: 163000
+    base_high: 207000
+    stock_low: 171000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 206000
+    total_comp_high: 282000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anthropic Solutions Architect = Google L5 Cloud SA = AWS Senior SA = Microsoft Senior Cloud SA = Databricks Senior SA
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium"
+---
 ### Solutions Architect | Anthropic Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium

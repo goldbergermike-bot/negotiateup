@@ -1,3 +1,50 @@
+---
+company: huggingface-enterprise
+company_display: Hugging Face Enterprise
+role: model-hub-platform-engineer
+role_display: Model Hub Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 275000
+    stock_low: 230000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 305000
+    total_comp_high: 460000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 270000
+    stock_low: 230000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 300000
+    total_comp_high: 453000
+    currency: USD
+  - region: Paris
+    base_low: 183000
+    base_high: 234000
+    stock_low: 196000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 260000
+    total_comp_high: 392000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: HF Enterprise Model Hub Platform Engineer = Google L5-L6 Infrastructure Engineer = GitHub Staff Platform Engineer = Meta E5-E6 Infrastructure = Databricks Staff Platform Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity + AI Premium | Open-Source AI Platform Leader | **SIGNATURE ROLE** | 2026 Focus: Next-Gen Model Hub Architecture & Enterprise Model Marketplace"
+---
 ### Model Hub Platform Engineer | Hugging Face Enterprise Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity + AI Premium | Open-Source AI Platform Leader | **SIGNATURE ROLE** | 2026 Focus: Next-Gen Model Hub Architecture & Enterprise Model Marketplace

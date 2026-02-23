@@ -1,3 +1,50 @@
+---
+company: airtable
+company_display: Airtable
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 198000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: 5
+    total_comp_low: 188000
+    total_comp_high: 258000
+    currency: USD
+  - region: NYC / Austin
+    base_low: 145000
+    base_high: 188000
+    stock_low: 82000
+    stock_high: 152000
+    bonus_pct: 5
+    total_comp_low: 175000
+    total_comp_high: 243000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 150000
+    stock_low: 68000
+    stock_high: 125000
+    bonus_pct: 5
+    total_comp_low: 142000
+    total_comp_high: 196000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airtable DevOps Engineer = Google L4 SRE = Meta E4 Production Engineer = Notion SRE = Monday.com DevOps II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push"
+---
 ### DevOps Engineer | Airtable Global Negotiation Guide
 
 **Negotiation DNA:** No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push

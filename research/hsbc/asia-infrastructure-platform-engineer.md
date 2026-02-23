@@ -1,3 +1,50 @@
+---
+company: hsbc
+company_display: HSBC
+role: asia-infrastructure-platform-engineer
+role_display: Asia Infrastructure Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 178000
+    base_high: 248000
+    stock_low: 82000
+    stock_high: 118000
+    bonus_low: 35000
+    bonus_high: 67000
+    total_comp_low: 295000
+    total_comp_high: 433000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 1420000
+    base_high: 1980000
+    stock_low: 820000
+    stock_high: 1180000
+    bonus_low: 690000
+    bonus_high: 1170000
+    total_comp_low: 2950000
+    total_comp_high: 4330000
+    currency: HKD
+  - region: Singapore
+    base_low: 308000
+    base_high: 429000
+    stock_low: 142000
+    stock_high: 204000
+    bonus_low: 61000
+    bonus_high: 116000
+    total_comp_low: 510000
+    total_comp_high: 749000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Sovereign Cloud` `Cross-Border Infrastructure` `Platform Architecture` `Data Center Operations` `Multi-Region Orchestration`"
+---
 ### Asia Infrastructure Platform Engineer | HSBC Global Negotiation Guide
 
 **SIGNATURE ROLE** -- This is HSBC's marquee technology hire for 2026, purpose-built for the Asia Data Center Boom.

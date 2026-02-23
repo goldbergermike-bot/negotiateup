@@ -1,3 +1,50 @@
+---
+company: anyscale
+company_display: Anyscale
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 258000
+    stock_low: 195000
+    stock_high: 345000
+    bonus_pct: 5
+    total_comp_low: 270000
+    total_comp_high: 410000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 253000
+    stock_low: 195000
+    stock_high: 345000
+    bonus_pct: 5
+    total_comp_low: 265000
+    total_comp_high: 403000
+    currency: USD
+  - region: London
+    base_low: 152000
+    base_high: 196000
+    stock_low: 146000
+    stock_high: 259000
+    bonus_pct: 5
+    total_comp_low: 206000
+    total_comp_high: 312000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anyscale Senior SWE = Google L5 = Meta E5 = Databricks Senior SWE = Snowflake Senior SWE = AWS Senior SDE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: Enterprise-Grade Ray Platform & LLM Infrastructure"
+---
 ### Senior Software Engineer | Anyscale Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: Enterprise-Grade Ray Platform & LLM Infrastructure

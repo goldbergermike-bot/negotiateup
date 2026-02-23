@@ -1,3 +1,48 @@
+---
+company: sophos
+company_display: Sophos
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US Remote
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 340000
+    currency: USD
+  - region: Abingdon UK
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 143000
+    currency: GBP
+  - region: Vancouver
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 118000
+    total_comp_high: 280000
+    currency: CAD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "ML/AI Engineers at Sophos build the deep learning and machine learning systems that power Intercept X's threat detection, making Sophos a pioneer in applying AI to endpoint security at scale across 100 million protected users."
+---
 ### ML/AI Engineer — Sophos Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at Sophos build the deep learning and machine learning systems that power Intercept X's threat detection, making Sophos a pioneer in applying AI to endpoint security at scale across 100 million protected users.

@@ -1,3 +1,52 @@
+---
+company: terrapay
+company_display: Terrapay
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam (EUR)
+    base_low: 80000
+    base_high: 118000
+    stock_low: 48000
+    stock_high: 110000
+    bonus_pct: null
+    total_comp_low: 128000
+    total_comp_high: 228000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 98000
+    base_high: 145000
+    stock_low: 58000
+    stock_high: 130000
+    bonus_pct: null
+    total_comp_low: 156000
+    total_comp_high: 275000
+    currency: SGD
+  - region: New York (USD)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 75000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - "TerraPay MilX Creator Payout Launch — Jan 28, 2026 — Security Architecture"
+  - "TerraPay Global Payments Highway — 7.5B+ Accounts, 130+ Countries"
+  - TerraPay Botim Super-App Partnership — Consumer Security Hardening
+  - Thunes / Nium / Wise Security Engineering Compensation
+  - "TerraPay Private Valuation & Security-Level Options Data"
+  - Financial Infrastructure Security Engineering Talent Market
+negotiation_dna_summary: "This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a security engineering compensation framework spanning Amsterdam, Singapore, and New York markets."
+---
 ### Security Engineer — TerraPay Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a security engineering compensation framework spanning Amsterdam, Singapore, and New York markets.

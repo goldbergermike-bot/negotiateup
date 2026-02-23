@@ -1,3 +1,51 @@
+---
+company: intercontinental-exchange
+company_display: Intercontinental Exchange
+role: infrastructure-sovereign-platform-engineer
+role_display: Infrastructure Sovereign Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta (HQ)
+    base_low: 255000
+    base_high: 350000
+    stock_low: 340000
+    stock_high: 560000
+    bonus_low: 65000
+    bonus_high: 108000
+    total_comp_low: 392000
+    total_comp_high: 575000
+    currency: USD
+  - region: New York
+    base_low: 286000
+    base_high: 392000
+    stock_low: 381000
+    stock_high: 627000
+    bonus_low: 73000
+    bonus_high: 121000
+    total_comp_low: 439000
+    total_comp_high: 644000
+    currency: USD
+  - region: London
+    base_low: 204000
+    base_high: 280000
+    stock_low: 272000
+    stock_high: 448000
+    bonus_low: 52000
+    bonus_high: 86000
+    total_comp_low: 314000
+    total_comp_high: 460000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Platform Architecture` `Critical National Infrastructure` `Exchange-Grade Systems` `Acquisition Integration` `Cross-Domain Mastery` `SIFMU Systems`"
+---
 ### Infrastructure Sovereign Platform Engineer | Intercontinental Exchange (ICE) Global Negotiation Guide
 
 **SIGNATURE ROLE** — This role represents the apex of ICE's Physical AI thesis: the engineer who architects, builds, and controls the platform layer that bridges physical infrastructure (energy markets, mortgage processing, commodity delivery) with digital execution (exchange matching engines, clearing systems, data services). The Infrastructure Sovereign Platform Engineer is not a job title — it is a strategic designation for the engineer who controls the most critical intersection in global financial infrastructure.

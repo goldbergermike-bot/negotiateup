@@ -1,3 +1,50 @@
+---
+company: disney
+company_display: Disney
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Burbank / Los Angeles
+    base_low: 145000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 175000
+    bonus_pct: 12
+    total_comp_low: 190000
+    total_comp_high: 325000
+    currency: USD
+  - region: San Francisco / Seattle
+    base_low: 150000
+    base_high: 215000
+    stock_low: 60000
+    stock_high: 185000
+    bonus_pct: 12
+    total_comp_low: 200000
+    total_comp_high: 340000
+    currency: USD
+  - region: London (UK)
+    base_low: 110000
+    base_high: 158000
+    stock_low: 40000
+    stock_high: 130000
+    bonus_pct: 12
+    total_comp_low: 150000
+    total_comp_high: 250000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Disney PM (P2-P4) = Google L4-L6 PM = Meta E4-E6 PM = Amazon PM L5-L7 = Netflix PM = Apple PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$200B Entertainment-Tech Empire | Cross-Platform Product Strategy | Disney+ / Parks Tech / ESPN Digital"
+---
 ### Product Manager | Disney Global Negotiation Guide
 
 **Negotiation DNA:** $200B Entertainment-Tech Empire | Cross-Platform Product Strategy | Disney+ / Parks Tech / ESPN Digital

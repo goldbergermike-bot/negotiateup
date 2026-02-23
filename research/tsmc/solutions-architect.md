@@ -1,3 +1,49 @@
+---
+company: tsmc
+company_display: TSMC
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Phoenix AZ
+    base_low: 132000
+    base_high: 172000
+    stock_low: 30000
+    stock_high: 52000
+    bonus_pct: 15
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+  - region: San Jose
+    base_low: 145000
+    base_high: 188000
+    stock_low: 35000
+    stock_high: 58000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 268000
+    currency: USD
+  - region: Hsinchu Taiwan
+    base_low: null
+    base_high: null
+    stock_low: 22000
+    stock_high: 42000
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: TSMC Solutions Architect = Intel Foundry Solutions Architect = Samsung Foundry Systems Architect = Applied Materials Solutions Architect = AWS Solutions Architect (Semiconductor Vertical) = Siemens Digital Industries Solutions Architect
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone"
+---
 ### Solutions Architect | TSMC Global Negotiation Guide
 
 **Negotiation DNA:** Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone

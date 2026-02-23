@@ -1,3 +1,58 @@
+---
+company: darktrace
+company_display: Darktrace
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge UK
+    base_low: 60000
+    base_high: 85000
+    stock_low: 15000
+    stock_high: 40000
+    bonus_low: 6000
+    bonus_high: 12750
+    signing_bonus_low: 3000
+    signing_bonus_high: 8000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: London
+    base_low: 70000
+    base_high: 100000
+    stock_low: 20000
+    stock_high: 50000
+    bonus_low: 7000
+    bonus_high: 15000
+    signing_bonus_low: 5000
+    signing_bonus_high: 10000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: San Francisco
+    base_low: 150000
+    base_high: 200000
+    stock_low: 40000
+    stock_high: 100000
+    bonus_low: 15000
+    bonus_high: 30000
+    signing_bonus_low: 10000
+    signing_bonus_high: 25000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at Darktrace maps to L4–L5 SRE at Google, E4–E5 Production Engineer at Meta, SysDE II–III at Amazon, and 61–63 DevOps at Microsoft."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "DevOps Engineer | Darktrace (LSE: DARK) | IC Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco"
+---
 ### DevOps Engineer | Darktrace Global Negotiation Guide
 
 **Negotiation DNA:** DevOps Engineer | Darktrace (LSE: DARK) | IC Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco

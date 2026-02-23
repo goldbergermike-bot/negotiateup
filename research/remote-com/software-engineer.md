@@ -1,3 +1,39 @@
+---
+company: remote-com
+company_display: Remote.com
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Bay Area
+    base_low: 140000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 280000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 182000
+    stock_low: 42000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Remote.com SWE (IC2-IC3) = Deel SWE = Rippling SWE = Papaya Global SWE = Google L3-L4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Global Employment Platform | $3B Valuation | Remote-First | **GLOBAL EMPLOYMENT PLATFORM PREMIUM**"
+---
 ### Software Engineer | Remote.com Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Global Employment Platform | $3B Valuation | Remote-First | **GLOBAL EMPLOYMENT PLATFORM PREMIUM**

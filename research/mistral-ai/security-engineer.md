@@ -1,3 +1,48 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 80000
+    base_high: 108000
+    stock_low: 100000
+    stock_high: 195000
+    bonus_pct: null
+    total_comp_low: 105000
+    total_comp_high: 157000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 92000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 97000
+    total_comp_high: 145000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 100000
+    stock_high: 195000
+    bonus_pct: null
+    total_comp_low: 97000
+    total_comp_high: 146000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Mistral Security Engineer = Google Security Engineer L4 Paris = Meta Security Engineer = DeepMind Security Engineer = Anthropic Security (Trust & Safety adjacent). Google Security Engineer Paris total comp ranges €105K-€170K. AI model security and EU regulatory compliance specialization commands a 15-20% premium."
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium"
+---
 ### Security Engineer | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium

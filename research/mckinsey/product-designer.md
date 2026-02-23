@@ -1,3 +1,48 @@
+---
+company: mckinsey
+company_display: Mckinsey
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 145000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 181000
+    total_comp_high: 276000
+    currency: USD
+  - region: Chicago
+    base_low: 135000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 169000
+    total_comp_high: 254000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 130000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 119000
+    total_comp_high: 189000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: McKinsey Product Designer = Google L4 UX Designer = Meta IC4 Product Designer = Figma Senior Designer
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (25-45%) | No Equity | Design-Led Consulting"
+---
 ### Product Designer | McKinsey Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (25-45%) | No Equity | Design-Led Consulting

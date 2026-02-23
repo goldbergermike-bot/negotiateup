@@ -1,3 +1,52 @@
+---
+company: ncr-voyix
+company_display: NCR Voyix
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 145000
+    base_high: 185000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 200000
+    total_comp_high: 295000
+    currency: USD
+  - region: New York NY
+    base_low: 165000
+    base_high: 210000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 235000
+    total_comp_high: 350000
+    currency: USD
+  - region: London UK
+    base_low: 98000
+    base_high: 128000
+    stock_low: 24000
+    stock_high: 48000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 137000
+    total_comp_high: 204000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| NCR Voyix | Google | Meta | Stripe | Fiserv | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Pre/Post-Sales Architecture` `RSU/4yr` `Enterprise Commerce`"
+---
 ### Solutions Architect | NCR Voyix Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Pre/Post-Sales Architecture` `RSU/4yr` `Enterprise Commerce`

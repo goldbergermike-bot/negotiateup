@@ -1,3 +1,49 @@
+---
+company: together-ai
+company_display: Together AI
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 148000
+    base_high: 195000
+    stock_low: 38000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 245000
+    currency: USD
+  - region: Seattle
+    base_low: 141000
+    base_high: 185000
+    stock_low: 36000
+    stock_high: 57000
+    bonus_pct: 10
+    total_comp_low: 169000
+    total_comp_high: 233000
+    currency: USD
+  - region: Remote US
+    base_low: 133000
+    base_high: 175000
+    stock_low: 34000
+    stock_high: 54000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 220000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Together AI TPM ≈ Google TPM L5 · Meta TPM IC5 · Amazon TPM III · Apple EPM · Anthropic TPM · Microsoft TPM II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +15% Kernel Innovation Premium"
+---
 ### Technical Program Manager | Together AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +15% Kernel Innovation Premium

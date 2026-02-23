@@ -1,3 +1,52 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 205000
+    base_high: 258000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_low: 52000
+    bonus_high: 78000
+    total_comp_low: 302000
+    total_comp_high: 425000
+    currency: USD
+  - region: New York
+    base_low: 218000
+    base_high: 275000
+    stock_low: 218000
+    stock_high: 390000
+    bonus_low: 58000
+    bonus_high: 85000
+    total_comp_low: 335000
+    total_comp_high: 462000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 235000
+    stock_low: 182000
+    stock_high: 325000
+    bonus_low: 45000
+    bonus_high: 68000
+    total_comp_low: 275000
+    total_comp_high: 388000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#BlockchainEngineering` `#DigitalAssets` `#FIDD` `#EngineeringLeadership` `#PeopleManagement`"
+---
 ### Engineering Manager | Fidelity Digital Assets Global Negotiation Guide
 
 **Negotiation DNA:** `#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#BlockchainEngineering` `#DigitalAssets` `#FIDD` `#EngineeringLeadership` `#PeopleManagement`

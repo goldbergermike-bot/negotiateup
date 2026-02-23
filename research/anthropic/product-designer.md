@@ -1,3 +1,51 @@
+---
+company: anthropic
+company_display: Anthropic
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 248000
+    stock_low: 200000
+    stock_high: 365000
+    bonus_pct: null
+    total_comp_low: 245000
+    total_comp_high: 340000
+    currency: USD
+  - region: Seattle
+    base_low: 189000
+    base_high: 236000
+    stock_low: 200000
+    stock_high: 365000
+    bonus_pct: null
+    total_comp_low: 239000
+    total_comp_high: 327000
+    currency: USD
+  - region: London
+    base_low: 148000
+    base_high: 189000
+    stock_low: 152000
+    stock_high: 278000
+    bonus_pct: null
+    total_comp_low: 186000
+    total_comp_high: 259000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anthropic Product Designer = Google L4-L5 UX = Meta IC4-IC5 Design = Apple ICT3-ICT4 Design
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium"
+---
 ### Product Designer | Anthropic Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium

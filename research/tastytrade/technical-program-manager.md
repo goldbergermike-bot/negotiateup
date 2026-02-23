@@ -1,3 +1,52 @@
+---
+company: tastytrade
+company_display: Tastytrade
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 130000
+    base_high: 178000
+    stock_low: null
+    stock_high: null
+    bonus_low: 24000
+    bonus_high: 37000
+    total_comp_low: 178000
+    total_comp_high: 255000
+    currency: USD
+  - region: New York
+    base_low: 143000
+    base_high: 196000
+    stock_low: null
+    stock_high: null
+    bonus_low: 26000
+    bonus_high: 41000
+    total_comp_low: 195000
+    total_comp_high: 281000
+    currency: USD
+  - region: London
+    base_low: 99000
+    base_high: 136000
+    stock_low: 18000
+    stock_high: 30000
+    bonus_low: 18000
+    bonus_high: 28000
+    total_comp_low: 135000
+    total_comp_high: 194000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Derivatives Platform Delivery` `IG Integration Program` `Cross-Functional Trading Systems`"
+---
 ### Technical Program Manager | Tastytrade Global Negotiation Guide
 
 **Negotiation DNA:** `Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Derivatives Platform Delivery` `IG Integration Program` `Cross-Functional Trading Systems`

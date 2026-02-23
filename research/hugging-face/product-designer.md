@@ -1,3 +1,50 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 55000
+    base_high: 75000
+    stock_low: 50000
+    stock_high: 98000
+    bonus_pct: null
+    total_comp_low: 68000
+    total_comp_high: 100000
+    currency: EUR
+  - region: New York
+    base_low: 138000
+    base_high: 175000
+    stock_low: 90000
+    stock_high: 172000
+    bonus_pct: null
+    total_comp_low: 161000
+    total_comp_high: 218000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "HF Product Designer = Google UX Designer L3–L4 (Paris) = Meta Product Designer (IC4) = Figma Designer = Datadog Paris Product Designer. Paris design bands (€55K–€75K) compete with Google Paris UX (€60K–€85K base + RSUs) and Criteo Product Designer (€50K–€70K base). HF designers have significantly broader scope — you may be the sole designer on a product surface used by millions, versus one of many at Big Tech."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat"
+---
 ### Product Designer | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat

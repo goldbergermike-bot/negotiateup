@@ -1,3 +1,39 @@
+---
+company: rivian
+company_display: Rivian
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine (HQ)
+    base_low: 175000
+    base_high: 235000
+    stock_low: 150000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 260000
+    total_comp_high: 430000
+    currency: USD
+  - region: Palo Alto
+    base_low: 183000
+    base_high: 245000
+    stock_low: 165000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 450000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rivian Engineering Manager = Google EM L5 = Meta M1 = Tesla EM = Apple EM2 = Amazon SDM II
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage EV Comp | Large Equity Grants (RIVN) | Mission-Driven Culture | EV Growth Upside"
+---
 ### Engineering Manager | Rivian Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage EV Comp | Large Equity Grants (RIVN) | Mission-Driven Culture | EV Growth Upside

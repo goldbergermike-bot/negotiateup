@@ -1,3 +1,50 @@
+---
+company: weights-and-biases
+company_display: "Weights & Biases"
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 270000
+    stock_low: 210000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 295000
+    total_comp_high: 440000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 265000
+    stock_low: 210000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 290000
+    total_comp_high: 430000
+    currency: USD
+  - region: London
+    base_low: 163000
+    base_high: 205000
+    stock_low: 158000
+    stock_high: 285000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 335000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "W&B EM = Google L5-L6 EM = Meta M1 = Databricks EM = Datadog EM = Figma EM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Significant Growth-Stage Equity | MLOps Platform Leader | 2026 Focus: Scaling AI Platform Engineering Teams"
+---
 ### Engineering Manager | Weights & Biases Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Significant Growth-Stage Equity | MLOps Platform Leader | 2026 Focus: Scaling AI Platform Engineering Teams

@@ -1,3 +1,48 @@
+---
+company: mckinsey
+company_display: Mckinsey
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 170000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 213000
+    total_comp_high: 312000
+    currency: USD
+  - region: Chicago
+    base_low: 160000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 200000
+    total_comp_high: 290000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 138000
+    total_comp_high: 218000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: McKinsey TPM = Google L5 TPM = Meta E5 TPM = Amazon Sr. TPM
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (25-45%) | No Equity | Cross-Functional Delivery"
+---
 ### Technical Program Manager | McKinsey Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (25-45%) | No Equity | Cross-Functional Delivery

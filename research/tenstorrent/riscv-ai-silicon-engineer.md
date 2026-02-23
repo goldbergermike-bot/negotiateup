@@ -1,3 +1,49 @@
+---
+company: tenstorrent
+company_display: Tenstorrent
+role: riscv-ai-silicon-engineer
+role_display: RISC-V AI Silicon Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 195000
+    base_high: 262000
+    stock_low: 82000
+    stock_high: 138000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 428000
+    currency: CAD
+  - region: Austin
+    base_low: 182000
+    base_high: 248000
+    stock_low: 65000
+    stock_high: 105000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 388000
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 242000
+    stock_low: 62000
+    stock_high: 98000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 372000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Tenstorrent RISC-V AI Silicon Engineer ~ Google L5–L6 Hardware | Apple Silicon Engineer IC4–IC5 | AMD Senior/Principal Design Engineer | Intel Senior/Principal CPU Architect | NVIDIA Senior ASIC Engineer | Arm Senior/Staff CPU Architect"
+data_sources:
+  - Levels.fyi
+  - Crunchbase
+negotiation_dna_summary: "[Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | SIGNATURE ROLE | +25-35% Sovereign AI Premium"
+---
 ### RISC-V AI Silicon Engineer | Tenstorrent Global Negotiation Guide
 
 **Negotiation DNA:** [Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | SIGNATURE ROLE | +25-35% Sovereign AI Premium

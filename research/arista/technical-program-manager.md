@@ -1,3 +1,48 @@
+---
+company: arista
+company_display: Arista Networks
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 185000
+    base_high: 232000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 332000
+    currency: USD
+  - region: Vancouver (BC)
+    base_low: 175000
+    base_high: 218000
+    stock_low: 158000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 312000
+    currency: CAD
+  - region: Remote US
+    base_low: 178000
+    base_high: 225000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 328000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Arista TPM (TPM2-TPM3) = Cisco TPM = Juniper TPM = Google L5 TPM = AWS TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density"
+---
 ### Technical Program Manager | Arista Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density

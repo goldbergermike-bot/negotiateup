@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 130000
+    base_high: 175000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 204000
+    total_comp_high: 333000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_low: 20000
+    bonus_high: 36000
+    total_comp_low: 255000
+    total_comp_high: 411000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 125000
+    stock_low: 42000
+    stock_high: 90000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 142000
+    total_comp_high: 237000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Data Infrastructure` `Pipeline Engineering`"
+---
 ### Data Engineer | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Data Infrastructure` `Pipeline Engineering`

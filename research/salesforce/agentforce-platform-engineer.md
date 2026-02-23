@@ -1,3 +1,51 @@
+---
+company: salesforce
+company_display: Salesforce
+role: agentforce-platform-engineer
+role_display: Agentforce Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 255000
+    stock_low: 260000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 368000
+    currency: USD
+  - region: Indianapolis
+    base_low: 175000
+    base_high: 230000
+    stock_low: 225000
+    stock_high: 390000
+    bonus_pct: null
+    total_comp_low: 231000
+    total_comp_high: 328000
+    currency: USD
+  - region: Hyderabad
+    base_low: 3800000
+    base_high: 6000000
+    stock_low: 2500000
+    stock_high: 4500000
+    bonus_pct: null
+    total_comp_low: 6300000
+    total_comp_high: 10500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Salesforce Agentforce Eng (Senior) = Google L4-L5 Platform = Anthropic Senior Platform
+data_sources:
+  - Salesforce Agentforce Platform — Dreamforce 2025 Architecture Deep-Dive
+  - Salesforce FY2026 Earnings — Agentforce Consumption Revenue
+  - Agentic AI Platform Engineering — Market Comp Report 2026
+  - LLM Orchestration Skills Premium — AI Talent Market 2026
+negotiation_dna_summary: "Equity-Heavy / No Bonus | **SIGNATURE ROLE** | **+15–30% AGENTIC AI PREMIUM**"
+---
 ### Agentforce Platform Engineer | Salesforce Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | **SIGNATURE ROLE** | **+15–30% AGENTIC AI PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: deloitte
+company_display: Deloitte
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 110000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 121000
+    total_comp_high: 211000
+    currency: USD
+  - region: Chicago
+    base_low: 105000
+    base_high: 145000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 116000
+    total_comp_high: 194000
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 110000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 83000
+    total_comp_high: 147000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Deloitte Consultant (Design) = Google L3 UX Designer = Meta IC3 Designer = Accenture Analyst (Design)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (10-20%) + Limited Equity at Senior Levels | Deloitte Digital Studio"
+---
 ### Product Designer | Deloitte Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (10-20%) + Limited Equity at Senior Levels | Deloitte Digital Studio

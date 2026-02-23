@@ -1,3 +1,56 @@
+---
+company: netskope
+company_display: Netskope
+role: network-consolidation-platform-engineer
+role_display: Network Consolidation Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 220000
+    base_high: 280000
+    stock_low: 350000
+    stock_high: 600000
+    bonus_pct: 15
+    signing_bonus_low: 40000
+    signing_bonus_high: 75000
+    total_comp_low: 380000
+    total_comp_high: 530000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 160000
+    stock_low: 210000
+    stock_high: 360000
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 45000
+    total_comp_low: 210000
+    total_comp_high: 300000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4800000
+    base_high: 7200000
+    stock_low: 6000000
+    stock_high: 11000000
+    bonus_pct: 15
+    signing_bonus_low: 800000
+    signing_bonus_high: 1800000
+    total_comp_low: 7200000
+    total_comp_high: 12500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Network Consolidation Platform Engineer (IC4–IC5) | Netskope Platform Engineering Band 4–5 | Equivalent: Google L5–L6, Meta E5–E6, Palo Alto Networks Principal/Distinguished"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Post-IPO Cloud Security | UZTNA Platform Architecture | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation | Signature Platform Engineering Role"
+---
 ### Network Consolidation Platform Engineer | Netskope Global Negotiation Guide
 
 **Negotiation DNA:** Post-IPO Cloud Security | UZTNA Platform Architecture | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation | Signature Platform Engineering Role

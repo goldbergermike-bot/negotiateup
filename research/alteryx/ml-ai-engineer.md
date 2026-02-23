@@ -1,3 +1,40 @@
+---
+company: alteryx
+company_display: Alteryx
+role: ml-ai-engineer
+role_display: ML / AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine HQ
+    base_low: 150000
+    base_high: 210000
+    stock_low: 60000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 305000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Alteryx ML/AI Eng = Dataiku ML Eng = Google L4 ML = Databricks ML Eng
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | **+10–20% AI PREMIUM**"
+---
 ### ML / AI Engineer | Alteryx Global Negotiation Guide
 
 **Negotiation DNA:** Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | **+10–20% AI PREMIUM**

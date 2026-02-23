@@ -1,3 +1,48 @@
+---
+company: box
+company_display: Box
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 168000
+    base_high: 208000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 272000
+    currency: USD
+  - region: New York
+    base_low: 173000
+    base_high: 218000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 285000
+    currency: USD
+  - region: London
+    base_low: 122000
+    base_high: 152000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 199000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Box Security Engineer = Google L4 Security Engineer = Microsoft Senior Security Engineer = Dropbox Security Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management"
+---
 ### Security Engineer | Box Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management

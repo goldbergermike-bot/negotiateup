@@ -1,3 +1,50 @@
+---
+company: supabase
+company_display: Supabase
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 220000
+    stock_low: 130000
+    stock_high: 260000
+    bonus_pct: 5
+    total_comp_low: 230000
+    total_comp_high: 340000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 210000
+    stock_low: 130000
+    stock_high: 260000
+    bonus_pct: 5
+    total_comp_low: 218000
+    total_comp_high: 325000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 168000
+    stock_low: 99000
+    stock_high: 198000
+    bonus_pct: 5
+    total_comp_low: 175000
+    total_comp_high: 259000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Supabase DevOps Engineer = Google L4 SRE = Meta E4 Production Engineer = AWS Database Operations Engineer = CockroachDB SRE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Infrastructure-Premium Base + Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Augmented Postgres Operations"
+---
 ### DevOps Engineer | Supabase Global Negotiation Guide
 
 **Negotiation DNA:** Infrastructure-Premium Base + Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Augmented Postgres Operations

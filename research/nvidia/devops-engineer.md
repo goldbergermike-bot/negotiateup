@@ -1,3 +1,48 @@
+---
+company: nvidia
+company_display: Nvidia
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 188000
+    base_high: 235000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 338000
+    currency: USD
+  - region: Seattle
+    base_low: 185000
+    base_high: 232000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 225000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 328000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: NVIDIA DevOps (IC2-IC3) = Google L4 SRE = Meta Production Eng = Apple DevOps = AMD DevOps Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule"
+---
 ### DevOps Engineer | NVIDIA Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule

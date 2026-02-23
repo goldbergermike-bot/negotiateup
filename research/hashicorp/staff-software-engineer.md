@@ -1,3 +1,48 @@
+---
+company: hashicorp
+company_display: HashiCorp
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 420000
+    currency: USD
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 172000
+    total_comp_high: 380000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 92000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Staff Engineers at HashiCorp define the technical vision for Vault, Terraform, and the IBM Software Security by Default architecture — the most strategically critical engineering role in IBM's infrastructure portfolio."
+---
 ### Staff Software Engineer — HashiCorp (IBM) Salary Negotiation Guide
 
 **Negotiation DNA**: Staff Engineers at HashiCorp define the technical vision for Vault, Terraform, and the IBM Software Security by Default architecture — the most strategically critical engineering role in IBM's infrastructure portfolio.

@@ -1,3 +1,48 @@
+---
+company: retool
+company_display: Retool
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 222000
+    stock_low: 148000
+    stock_high: 262000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 328000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 218000
+    stock_low: 144000
+    stock_high: 255000
+    bonus_pct: 10
+    total_comp_low: 233000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 148000
+    stock_low: 98000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Retool DS (L3-L5) = Google DS L4-L5 = Meta DS E4-E5 = Datadog DS = HashiCorp DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | Platform Analytics & AI Feature Intelligence | 30K+ Companies | **RETOOL AI PREMIUM**"
+---
 ### Data Scientist | Retool Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | Platform Analytics & AI Feature Intelligence | 30K+ Companies | **RETOOL AI PREMIUM**

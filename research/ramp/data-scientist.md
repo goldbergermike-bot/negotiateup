@@ -1,3 +1,48 @@
+---
+company: ramp
+company_display: Ramp
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 185000
+    base_high: 225000
+    stock_low: 142000
+    stock_high: 238000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 308000
+    currency: USD
+  - region: San Francisco
+    base_low: 182000
+    base_high: 222000
+    stock_low: 138000
+    stock_high: 232000
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 302000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 218000
+    stock_low: 135000
+    stock_high: 225000
+    bonus_pct: 15
+    total_comp_low: 222000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ramp DS (IC3-IC4) = Brex DS = Google DS L4-L5 = Meta DS IC4-IC5 = Stripe DS = Amazon DS L5-L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOUR MODELS IDENTIFY SAVINGS THAT HUMANS MISS ACROSS $35B+ IN SPEND**"
+---
 ### Data Scientist | Ramp Global Negotiation Guide
 
 **Negotiation DNA:** Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOUR MODELS IDENTIFY SAVINGS THAT HUMANS MISS ACROSS $35B+ IN SPEND**

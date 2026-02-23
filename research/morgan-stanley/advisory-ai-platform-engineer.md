@@ -1,3 +1,53 @@
+---
+company: morgan-stanley
+company_display: Morgan Stanley
+role: advisory-ai-platform-engineer
+role_display: Advisory AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 265000
+    base_high: 365000
+    stock_low: 85000
+    stock_high: 140000
+    bonus_low: 55000
+    bonus_high: 93000
+    total_comp_low: 405000
+    total_comp_high: 598000
+    currency: USD
+  - region: London
+    base_low: 217000
+    base_high: 299000
+    stock_low: 70000
+    stock_high: 115000
+    bonus_low: 45000
+    bonus_high: 76000
+    total_comp_low: 332000
+    total_comp_high: 490000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 2070000
+    base_high: 2850000
+    stock_low: 663000
+    stock_high: 1090000
+    bonus_low: 429000
+    bonus_high: 725000
+    total_comp_low: 3160000
+    total_comp_high: 4660000
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Advisory AI Platform Architect` `LLM-Powered Wealth Management` `Human-AI Interaction Systems` `CEO Strategic Priority` `Post-Sputnik Flagship Role`"
+---
 ### Advisory AI Platform Engineer | Morgan Stanley Global Negotiation Guide
 
 ## SIGNATURE ROLE

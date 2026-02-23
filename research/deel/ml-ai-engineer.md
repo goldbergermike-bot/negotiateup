@@ -1,3 +1,39 @@
+---
+company: deel
+company_display: Deel
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 232000
+    stock_low: 95000
+    stock_high: 262000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 382000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 218000
+    stock_low: 82000
+    stock_high: 238000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 352000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Deel ML/AI (IC2-IC4) = Remote.com ML Engineer = Rippling ML Engineer = Google L3-L5 ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Global Payroll and Compliance | $12B Valuation | San Francisco | **COMPLIANCE AI PREMIUM**"
+---
 ### ML/AI Engineer | Deel Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Global Payroll and Compliance | $12B Valuation | San Francisco | **COMPLIANCE AI PREMIUM**

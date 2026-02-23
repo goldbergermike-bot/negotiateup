@@ -1,3 +1,52 @@
+---
+company: avidxchange
+company_display: Avidxchange
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte NC
+    base_low: 105000
+    base_high: 135000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_low: 8000
+    bonus_high: 15000
+    total_comp_low: 138000
+    total_comp_high: 200000
+    currency: USD
+  - region: Atlanta GA
+    base_low: 110000
+    base_high: 140000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_low: 8000
+    bonus_high: 16000
+    total_comp_low: 143000
+    total_comp_high: 206000
+    currency: USD
+  - region: Remote US
+    base_low: 100000
+    base_high: 130000
+    stock_low: 20000
+    stock_high: 45000
+    bonus_low: 7000
+    bonus_high: 14000
+    total_comp_low: 127000
+    total_comp_high: 189000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| AvidXchange | Google | Meta | Stripe | Bill.com | PayPal |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NASDAQ: AVDX` `Purposeful AI` `Mid-Market AP Automation` `AvidPay Network` `Charlotte NC Hub` `RSU/4yr Vesting` `Enterprise Tier` `Knowledge Discovery`"
+---
 ### Software Engineer | AvidXchange Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: AVDX` `Purposeful AI` `Mid-Market AP Automation` `AvidPay Network` `Charlotte NC Hub` `RSU/4yr Vesting` `Enterprise Tier` `Knowledge Discovery`

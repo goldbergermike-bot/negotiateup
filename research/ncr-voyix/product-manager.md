@@ -1,3 +1,52 @@
+---
+company: ncr-voyix
+company_display: NCR Voyix
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 135000
+    base_high: 175000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 190000
+    total_comp_high: 285000
+    currency: USD
+  - region: New York NY
+    base_low: 155000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 225000
+    total_comp_high: 338000
+    currency: USD
+  - region: London UK
+    base_low: 90000
+    base_high: 120000
+    stock_low: 28000
+    stock_high: 55000
+    bonus_low: 10000
+    bonus_high: 22000
+    total_comp_low: 128000
+    total_comp_high: 197000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| NCR Voyix | Google | Meta | Stripe | Fiserv | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Product Leadership` `RSU/4yr` `Commerce Platform`"
+---
 ### Product Manager | NCR Voyix Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Product Leadership` `RSU/4yr` `Commerce Platform`

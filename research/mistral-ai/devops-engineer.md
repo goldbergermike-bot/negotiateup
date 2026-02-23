@@ -1,3 +1,48 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 72000
+    base_high: 98000
+    stock_low: 90000
+    stock_high: 175000
+    bonus_pct: null
+    total_comp_low: 95000
+    total_comp_high: 142000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 83000
+    stock_high: 161000
+    bonus_pct: null
+    total_comp_low: 88000
+    total_comp_high: 131000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 90000
+    stock_high: 175000
+    bonus_pct: null
+    total_comp_low: 88000
+    total_comp_high: 132000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Mistral DevOps = Google SRE/DevOps L3-L4 Paris = Meta Production Engineer = DeepMind Infrastructure Engineer. Google SRE Paris total comp ranges €90K-€155K. AI-specific DevOps/infrastructure roles command a 10-20% premium due to GPU orchestration complexity."
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium"
+---
 ### DevOps Engineer | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium

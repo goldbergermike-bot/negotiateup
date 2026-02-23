@@ -1,3 +1,40 @@
+---
+company: postman
+company_display: Postman
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco HQ
+    base_low: 200000
+    base_high: 255000
+    stock_low: 130000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 290000
+    total_comp_high: 430000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 240000
+    stock_low: 110000
+    stock_high: 270000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 400000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Postman EM = GitLab EM = Google L5 Manager = Stripe EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($5.6B Valuation) | API Development Platform | 30M+ Developer User Base | Liquidity Risk"
+---
 ### Engineering Manager | Postman Global Negotiation Guide
 
 **Negotiation DNA:** Private ($5.6B Valuation) | API Development Platform | 30M+ Developer User Base | Liquidity Risk

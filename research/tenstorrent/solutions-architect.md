@@ -1,3 +1,50 @@
+---
+company: tenstorrent
+company_display: Tenstorrent
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 135000
+    base_high: 178000
+    stock_low: 45000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 288000
+    currency: CAD
+  - region: Austin
+    base_low: 128000
+    base_high: 170000
+    stock_low: 38000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 262000
+    currency: USD
+  - region: Remote US
+    base_low: 120000
+    base_high: 165000
+    stock_low: 35000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Tenstorrent SA ~ Google L5 Solutions Engineer | AWS Senior SA | Meta Solutions Engineer E5 | AMD Senior Applications Engineer | NVIDIA Solutions Architect"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "[Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | +10% Customer-Facing Premium"
+---
 ### Solutions Architect | Tenstorrent Global Negotiation Guide
 
 **Negotiation DNA:** [Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | +10% Customer-Facing Premium

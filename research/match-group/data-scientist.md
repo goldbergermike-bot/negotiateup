@@ -1,3 +1,50 @@
+---
+company: match-group
+company_display: Match Group
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas
+    base_low: 135000
+    base_high: 180000
+    stock_low: 30000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 245000
+    currency: USD
+  - region: New York
+    base_low: 149000
+    base_high: 198000
+    stock_low: 33000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 196000
+    total_comp_high: 270000
+    currency: USD
+  - region: Los Angeles
+    base_low: 135000
+    base_high: 180000
+    stock_low: 30000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Match Group Data Scientist = Google L4 DS = Meta Data Scientist (IC4) = Amazon Data Scientist II = Microsoft Data Scientist 61/62 = Apple Data Scientist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)"
+---
 ### Data Scientist | Match Group Global Negotiation Guide
 
 **Negotiation DNA:** Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)

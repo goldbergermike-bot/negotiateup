@@ -1,3 +1,48 @@
+---
+company: tesla
+company_display: Tesla
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin (HQ)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 100000
+    stock_high: 270000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 325000
+    currency: USD
+  - region: Palo Alto
+    base_low: 150000
+    base_high: 210000
+    stock_low: 110000
+    stock_high: 285000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 340000
+    currency: USD
+  - region: Fremont
+    base_low: 145000
+    base_high: 205000
+    stock_low: 105000
+    stock_high: 278000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 333000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tesla Security Engineer = Google L3/L4 Security = Amazon Security Eng II = CrowdStrike Senior Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk | Safety-Critical Security"
+---
 ### Security Engineer | Tesla Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk | Safety-Critical Security

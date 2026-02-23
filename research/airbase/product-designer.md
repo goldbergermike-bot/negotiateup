@@ -1,3 +1,53 @@
+---
+company: airbase
+company_display: Airbase
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 190000
+    stock_low: 40000
+    stock_high: 90000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 197000
+    total_comp_high: 305000
+    currency: USD
+  - region: Bangalore
+    base_low: 2200000
+    base_high: 3800000
+    stock_low: 1000000
+    stock_high: 2200000
+    bonus_low: 250000
+    bonus_high: 500000
+    total_comp_low: 3450000
+    total_comp_high: 6500000
+    currency: INR
+  - region: New York
+    base_low: 150000
+    base_high: 195000
+    stock_low: 40000
+    stock_high: 90000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 202000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Airbase | Google | Meta | Stripe | Bill.com | Coupa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `UX/UI` `Fintech Design` `Enterprise UX`"
+---
 ### Product Designer | Airbase Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `UX/UI` `Fintech Design` `Enterprise UX`

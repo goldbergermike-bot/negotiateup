@@ -1,3 +1,50 @@
+---
+company: supabase
+company_display: Supabase
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 225000
+    stock_low: 150000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 270000
+    total_comp_high: 390000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 215000
+    stock_low: 150000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 375000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 171000
+    stock_low: 114000
+    stock_high: 236000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 297000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Supabase PM = Google L5 PM = Meta IC5 PM = PlanetScale PM = MongoDB Senior PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strategy-Premium Base + Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Native Backend Product Strategy"
+---
 ### Product Manager | Supabase Global Negotiation Guide
 
 **Negotiation DNA:** Strategy-Premium Base + Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Native Backend Product Strategy

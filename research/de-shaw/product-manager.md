@@ -1,3 +1,32 @@
+---
+company: de-shaw
+company_display: D.E. Shaw
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 178000
+    base_high: 248000
+    stock_low: null
+    stock_high: null
+    bonus_low: 142000
+    bonus_high: 372000
+    total_comp_low: 320000
+    total_comp_high: 620000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "PM at D.E. Shaw = L6-L7 at Google, IC6-IC7 at Meta, Principal PM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 80-150%+ | D.E. Shaw PMs drive internal platform strategy | **ELITE QUANT PM PREMIUM**"
+---
 ### Product Manager | D.E. Shaw Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 80-150%+ | D.E. Shaw PMs drive internal platform strategy | **ELITE QUANT PM PREMIUM**

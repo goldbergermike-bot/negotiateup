@@ -1,3 +1,51 @@
+---
+company: t-mobile
+company_display: T-Mobile
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue / Seattle
+    base_low: 130000
+    base_high: 185000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 270000
+    currency: USD
+  - region: NYC / San Francisco
+    base_low: 135000
+    base_high: 190000
+    stock_low: 55000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+  - region: Dallas / Denver
+    base_low: 122000
+    base_high: 175000
+    stock_low: 42000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 152000
+    total_comp_high: 250000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: T-Mobile SWE (L4-L5) = Google L3-L4 = Meta E3-E4 = Amazon SDE I-II = Microsoft 59-62 = Verizon L3-L4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "$250B 5G Leader | Competitive Telecom Tech Comp | Bellevue WA Tech Culture"
+---
 ### Software Engineer | T-Mobile Global Negotiation Guide
 
 **Negotiation DNA:** $250B 5G Leader | Competitive Telecom Tech Comp | Bellevue WA Tech Culture

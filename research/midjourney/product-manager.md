@@ -1,3 +1,40 @@
+---
+company: midjourney
+company_display: Midjourney
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 270000
+    total_comp_high: 425000
+    currency: USD
+  - region: Remote US
+    base_low: 176000
+    base_high: 239000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 243000
+    total_comp_high: 383000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Midjourney PM = Google L5-L6 PM = Meta PM IC5-IC6 = Startup VP Product scope
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Premium Comp + Profit Sharing | Self-Funded & Profitable | San Francisco | Small Elite Team | Product-Led Growth"
+---
 ### Product Manager | Midjourney Global Negotiation Guide
 
 **Negotiation DNA:** Premium Comp + Profit Sharing | Self-Funded & Profitable | San Francisco | Small Elite Team | Product-Led Growth

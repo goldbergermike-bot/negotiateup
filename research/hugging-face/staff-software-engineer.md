@@ -1,3 +1,51 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 105000
+    base_high: 142000
+    stock_low: 175000
+    stock_high: 325000
+    bonus_pct: null
+    total_comp_low: 149000
+    total_comp_high: 223000
+    currency: EUR
+  - region: New York
+    base_low: 225000
+    base_high: 282000
+    stock_low: 310000
+    stock_high: 548000
+    bonus_pct: null
+    total_comp_low: 303000
+    total_comp_high: 419000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "HF Staff Software Engineer = Google L5 (Paris/NYC) = Meta FAIR Staff SWE (E6) = Mistral AI Lead Engineer = DeepMind Senior Research Engineer. In the Paris market, HF Staff bands (€105K–€142K base) compete with Google Paris L5 (€120K–€155K base + RSUs) and Criteo Staff (€100K–€135K base). At this level, the equity comparison is the critical factor: HF pre-IPO equity at $310K–$548K/4yr could be worth 3–5x at IPO versus Google's known RSU trajectory. The risk-adjusted calculus is the negotiation conversation."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat"
+---
 ### Staff Software Engineer | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat

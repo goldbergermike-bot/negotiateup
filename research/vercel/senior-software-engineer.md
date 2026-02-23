@@ -1,3 +1,50 @@
+---
+company: vercel
+company_display: Vercel
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 255000
+    stock_low: 250000
+    stock_high: 450000
+    bonus_pct: 5
+    total_comp_low: 310000
+    total_comp_high: 480000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 255000
+    stock_low: 250000
+    stock_high: 450000
+    bonus_pct: 5
+    total_comp_low: 310000
+    total_comp_high: 480000
+    currency: USD
+  - region: London
+    base_low: 152000
+    base_high: 194000
+    stock_low: 190000
+    stock_high: 342000
+    bonus_pct: 5
+    total_comp_low: 236000
+    total_comp_high: 365000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Vercel Senior SWE = Google L5 = Meta E5 = Netlify Staff Engineer = Cloudflare Senior SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Forward + Strong Base | Edge-First Deployment Pioneer | 2026 Focus: AI-Native Developer Experience"
+---
 ### Senior Software Engineer | Vercel Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Forward + Strong Base | Edge-First Deployment Pioneer | 2026 Focus: AI-Native Developer Experience

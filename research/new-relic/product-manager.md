@@ -1,3 +1,56 @@
+---
+company: new-relic
+company_display: New Relic
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 210000
+    total_comp_high: 290000
+    currency: USD
+  - region: Portland
+    base_low: 145000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 12000
+    signing_bonus_high: 22000
+    total_comp_low: 190000
+    total_comp_high: 260000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 125000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 8000
+    signing_bonus_high: 16000
+    total_comp_low: 115000
+    total_comp_high: 165000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Product Manager at New Relic maps to PM/Senior PM across the industry. Equivalent titles include PMT (Amazon), PM/Sr PM (Meta/Google), and Product Manager (Datadog/Elastic)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Product Manager | New Relic (Private — TPG/Francisco Partners) | Product Track | Options/4yr Vesting | Observability Platform"
+---
 ### Product Manager | New Relic Global Negotiation Guide
 
 **Negotiation DNA:** Product Manager | New Relic (Private — TPG/Francisco Partners) | Product Track | Options/4yr Vesting | Observability Platform

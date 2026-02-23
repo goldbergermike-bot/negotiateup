@@ -1,3 +1,49 @@
+---
+company: pure-storage
+company_display: Pure Storage
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 175000
+    base_high: 218000
+    stock_low: 130000
+    stock_high: 250000
+    bonus_pct: 12
+    total_comp_low: 278000
+    total_comp_high: 318000
+    currency: USD
+  - region: Denver
+    base_low: 160000
+    base_high: 200000
+    stock_low: 115000
+    stock_high: 225000
+    bonus_pct: 12
+    total_comp_low: 255000
+    total_comp_high: 292000
+    currency: USD
+  - region: Remote US
+    base_low: 152000
+    base_high: 188000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: 12
+    total_comp_low: 228000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Pure Storage | Google | Meta | Amazon | Microsoft |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | +15–25% AI Premium"
+---
 ### ML/AI Engineer | Pure Storage Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | +15–25% AI Premium

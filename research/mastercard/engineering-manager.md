@@ -1,3 +1,53 @@
+---
+company: mastercard
+company_display: Mastercard
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Purchase NY
+    base_low: 185000
+    base_high: 235000
+    stock_low: 150000
+    stock_high: 260000
+    bonus_low: 35000
+    bonus_high: 55000
+    total_comp_low: 370000
+    total_comp_high: 550000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 245000
+    stock_low: 160000
+    stock_high: 280000
+    bonus_low: 38000
+    bonus_high: 58000
+    total_comp_low: 388000
+    total_comp_high: 583000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 155000
+    stock_low: 85000
+    stock_high: 150000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 220000
+    total_comp_high: 340000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Mastercard | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `People Leadership` `Payments Engineering` `Biometric Authentication` `Team Scaling`"
+---
 ### Engineering Manager | Mastercard Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `People Leadership` `Payments Engineering` `Biometric Authentication` `Team Scaling`

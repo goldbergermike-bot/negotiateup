@@ -1,3 +1,87 @@
+---
+company: meta
+company_display: Meta
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Menlo Park / NYC)
+    base_low: 180000
+    base_high: 270000
+    stock_low: 220000
+    stock_high: 550000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 520000
+    currency: USD
+  - region: US (Seattle / Austin)
+    base_low: 170000
+    base_high: 255000
+    stock_low: 200000
+    stock_high: 520000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 490000
+    currency: USD
+  - region: London (UK)
+    base_low: 150000
+    base_high: 225000
+    stock_low: 175000
+    stock_high: 440000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 420000
+    currency: USD
+  - region: Canada (Toronto / Montreal)
+    base_low: 140000
+    base_high: 215000
+    stock_low: 165000
+    stock_high: 420000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 400000
+    currency: USD
+  - region: Germany (Berlin / Hamburg)
+    base_low: 130000
+    base_high: 205000
+    stock_low: 155000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 385000
+    currency: USD
+  - region: Singapore
+    base_low: 125000
+    base_high: 195000
+    stock_low: 145000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 365000
+    currency: USD
+  - region: India (Hyderabad / Bangalore)
+    base_low: 55000
+    base_high: 95000
+    stock_low: 65000
+    stock_high: 190000
+    bonus_pct: 15
+    total_comp_low: 95000
+    total_comp_high: 195000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "E4 maps to Google L4 Security / Amazon L5 Security; E5 (Senior Security) maps to Google L5 Security / Amazon L6 Security; E6 (Staff Security) maps to Google L6 Security / Amazon L7 Security. Meta's Security Engineers are on the same E-level ladder as Software Engineers."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Billions-User Platform Security | Privacy-First Security Architecture | **META SECURITY CRITICAL PREMIUM**"
+---
 ### Security Engineer | Meta Global Negotiation Guide
 
 **Negotiation DNA:** Billions-User Platform Security | Privacy-First Security Architecture | **META SECURITY CRITICAL PREMIUM**

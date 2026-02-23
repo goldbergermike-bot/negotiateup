@@ -1,3 +1,48 @@
+---
+company: sophos
+company_display: Sophos
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US Remote
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 325000
+    currency: USD
+  - region: Abingdon UK
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 52000
+    total_comp_high: 135000
+    currency: GBP
+  - region: Vancouver
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 113000
+    total_comp_high: 270000
+    currency: CAD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Data Scientists at Sophos develop the deep learning models and analytical frameworks that power Intercept X's threat detection, behavioral analysis, and risk scoring across over 100 million protected endpoints."
+---
 ### Data Scientist — Sophos Salary Negotiation Guide
 
 **Negotiation DNA**: Data Scientists at Sophos develop the deep learning models and analytical frameworks that power Intercept X's threat detection, behavioral analysis, and risk scoring across over 100 million protected endpoints.

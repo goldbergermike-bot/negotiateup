@@ -1,3 +1,55 @@
+---
+company: broadcom
+company_display: Broadcom
+role: converged-infrastructure-platform-engineer
+role_display: Converged Infrastructure Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose (USD)
+    base_low: 195000
+    base_high: 260000
+    stock_low: 260000
+    stock_high: 450000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 388000
+    currency: USD
+  - region: Singapore (SGD S$)
+    base_low: 162000
+    base_high: 215000
+    stock_low: 215000
+    stock_high: 370000
+    bonus_pct: 15
+    total_comp_low: 222000
+    total_comp_high: 322000
+    currency: SGD
+  - region: London (GBP £)
+    base_low: 125000
+    base_high: 172000
+    stock_low: 158000
+    stock_high: 275000
+    bonus_pct: 15
+    total_comp_low: 172000
+    total_comp_high: 262000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Broadcom Converged Infrastructure Platform Engineer (IC4-IC5) = VMware Principal Platform Engineer = Google L5-L6 Infrastructure Engineer = NVIDIA Senior/Staff Platform Engineer = Microsoft Senior/Principal Platform Engineer
+data_sources:
+  - VMware Cloud Foundation Market Dominance — Private Cloud Infrastructure Platform Leadership — Gartne
+  - "Broadcom High-Margin Infrastructure Consolidation — 68%+ Gross Margins, Semiconductor + Software + V"
+  - "AVGO Stock Performance — NASDAQ: AVGO, Converged Infrastructure Thesis Driving Valuation — Yahoo Fin"
+  - Broadcom Converged Infrastructure Strategy — Infrastructure Consolidation Under One Roof — Broadcom 
+  - "VMware Cloud Foundation VCF Architecture — Compute, Storage, Network, Management Integration — VMwar"
+  - Converged Infrastructure Platform Engineer Scarcity — Three-Domain Talent Market Analysis — Industry
+  - "Enterprise Private Cloud Market — VCF vs. Nutanix vs. OpenStack Market Share — IDC, Gartner, 2025"
+  - "Broadcom Semiconductor Portfolio — Networking ASICs, Storage Controllers, Custom Silicon — Broadcom "
+negotiation_dna_summary: "Base + AVGO RSUs (4yr vest) + 15-20% Bonus + Converged Infrastructure Premium (+20-30%) | VMware Cloud Foundation (VCF) Synergy Platform | High-Margin Infrastructure Consolidation | Semiconductor-Software Convergence | AVGO Above-Band Comp"
+---
 ### Converged Infrastructure Platform Engineer | Broadcom Global Negotiation Guide
 
 **Negotiation DNA:** Base + AVGO RSUs (4yr vest) + 15-20% Bonus + Converged Infrastructure Premium (+20-30%) | VMware Cloud Foundation (VCF) Synergy Platform | High-Margin Infrastructure Consolidation | Semiconductor-Software Convergence | AVGO Above-Band Comp

@@ -1,3 +1,49 @@
+---
+company: tsmc
+company_display: TSMC
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Phoenix AZ
+    base_low: 145000
+    base_high: 192000
+    stock_low: 35000
+    stock_high: 60000
+    bonus_pct: 15
+    total_comp_low: 198000
+    total_comp_high: 278000
+    currency: USD
+  - region: San Jose
+    base_low: 158000
+    base_high: 208000
+    stock_low: 42000
+    stock_high: 68000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 300000
+    currency: USD
+  - region: Hsinchu Taiwan
+    base_low: null
+    base_high: null
+    stock_low: 25000
+    stock_high: 48000
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: TSMC Product Manager = Intel Foundry Product Manager = Samsung Foundry PM = Synopsys Product Manager = Cadence Product Manager = Applied Materials PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone"
+---
 ### Product Manager | TSMC Global Negotiation Guide
 
 **Negotiation DNA:** Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone

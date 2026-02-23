@@ -1,3 +1,56 @@
+---
+company: netskope
+company_display: Netskope
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 195000
+    base_high: 245000
+    stock_low: 200000
+    stock_high: 380000
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 50000
+    total_comp_low: 295000
+    total_comp_high: 410000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 140000
+    stock_low: 120000
+    stock_high: 230000
+    bonus_pct: 15
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 160000
+    total_comp_high: 230000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4000000
+    base_high: 5800000
+    stock_low: 3500000
+    stock_high: 7000000
+    bonus_pct: 15
+    signing_bonus_low: 500000
+    signing_bonus_high: 1200000
+    total_comp_low: 5500000
+    total_comp_high: 9000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Engineering Manager (M1) | Netskope Management Band 1 | Equivalent: Google L5 Manager, Meta M1, Palo Alto Networks EM1"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Post-IPO Cloud Security | UZTNA Engineering Leadership | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation"
+---
 ### Engineering Manager | Netskope Global Negotiation Guide
 
 **Negotiation DNA:** Post-IPO Cloud Security | UZTNA Engineering Leadership | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation

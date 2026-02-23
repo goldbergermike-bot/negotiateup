@@ -1,3 +1,49 @@
+---
+company: servicenow
+company_display: Servicenow
+role: ai-agent-control-tower
+role_display: "AI Agent & Control Tower Architect"
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara (USD)
+    base_low: 220000
+    base_high: 280000
+    stock_low: 350000
+    stock_high: 600000
+    bonus_pct: 15
+    total_comp_low: 340000
+    total_comp_high: 470000
+    currency: USD
+  - region: San Diego (USD)
+    base_low: 205000
+    base_high: 260000
+    stock_low: 310000
+    stock_high: 530000
+    bonus_pct: 15
+    total_comp_low: 315000
+    total_comp_high: 435000
+    currency: USD
+  - region: London (GBP £)
+    base_low: 143000
+    base_high: 182000
+    stock_low: 228000
+    stock_high: 390000
+    bonus_pct: 15
+    total_comp_low: 222000
+    total_comp_high: 307000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ServiceNow AI Control Tower Architect = Google L5/L6 ML Platform = Meta E5/E6 AI Platform = Anthropic Senior Research Engineer = Salesforce PMTS/DMTS AI
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform | **+20–30% AI CONTROL TOWER PREMIUM**"
+---
 ### AI Agent & Control Tower Architect | ServiceNow Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform | **+20–30% AI CONTROL TOWER PREMIUM**

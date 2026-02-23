@@ -1,3 +1,50 @@
+---
+company: hex
+company_display: Hex
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 265000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 285000
+    total_comp_high: 420000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 260000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 280000
+    total_comp_high: 410000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 200000
+    stock_low: 150000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 320000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Hex EM = Google L5-L6 EM = Meta M1 = Databricks EM = Figma EM = Notion EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Significant Growth-Stage Equity | Data Analytics Platform Pioneer | 2026 Focus: Scaling AI-Native Engineering Teams"
+---
 ### Engineering Manager | Hex Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Significant Growth-Stage Equity | Data Analytics Platform Pioneer | 2026 Focus: Scaling AI-Native Engineering Teams

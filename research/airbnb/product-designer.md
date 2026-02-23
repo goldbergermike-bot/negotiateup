@@ -1,3 +1,48 @@
+---
+company: airbnb
+company_display: Airbnb
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Remote
+    base_low: 175000
+    base_high: 218000
+    stock_low: 155000
+    stock_high: 268000
+    bonus_pct: null
+    total_comp_low: 214000
+    total_comp_high: 285000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 218000
+    stock_low: 155000
+    stock_high: 268000
+    bonus_pct: null
+    total_comp_low: 214000
+    total_comp_high: 285000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 150000
+    stock_low: 106000
+    stock_high: 184000
+    bonus_pct: null
+    total_comp_low: 147000
+    total_comp_high: 196000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airbnb Product Designer = Google L4 UX = Meta IC4 Design = Stripe Product Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion"
+---
 ### Product Designer | Airbnb Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion

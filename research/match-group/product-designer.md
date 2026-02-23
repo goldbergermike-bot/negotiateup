@@ -1,3 +1,50 @@
+---
+company: match-group
+company_display: Match Group
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas
+    base_low: 112000
+    base_high: 150000
+    stock_low: 25000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: USD
+  - region: New York
+    base_low: 123000
+    base_high: 165000
+    stock_low: 28000
+    stock_high: 46000
+    bonus_pct: 10
+    total_comp_low: 163000
+    total_comp_high: 226000
+    currency: USD
+  - region: Los Angeles
+    base_low: 112000
+    base_high: 150000
+    stock_low: 25000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Match Group Product Designer = Google L4 UX = Meta Product Designer (IC4) = Amazon UX Designer III = Microsoft Designer 61/62 = Apple Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)"
+---
 ### Product Designer | Match Group Global Negotiation Guide
 
 **Negotiation DNA:** Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)

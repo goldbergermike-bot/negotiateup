@@ -1,3 +1,68 @@
+---
+company: alibaba
+company_display: Alibaba
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 160000
+    base_high: 230000
+    stock_low: 80000
+    stock_high: 225000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 365000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 155000
+    base_high: 225000
+    stock_low: 75000
+    stock_high: 215000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 355000
+    currency: USD
+  - region: Hangzhou (HQ)
+    base_low: 450000
+    base_high: 830000
+    stock_low: 190000
+    stock_high: 550000
+    bonus_pct: 15
+    total_comp_low: 690000
+    total_comp_high: 1400000
+    currency: CNY
+  - region: Beijing
+    base_low: 430000
+    base_high: 800000
+    stock_low: 180000
+    stock_high: 530000
+    bonus_pct: 15
+    total_comp_low: 660000
+    total_comp_high: 1350000
+    currency: CNY
+  - region: Singapore
+    base_low: 120000
+    base_high: 185000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Manager at Alibaba (P7-P8) = L5-L6 PM at Google, IC5-IC6 PM at Meta, Sr PM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B market cap with products spanning e-commerce, cloud, logistics, and fintech + US PMs define international product strategy + Alibaba Cloud PM roles are high-growth | PMs at Alibaba shape products touching 1B+ consumers and millions of merchants | **PRODUCT SCOPE PREMIUM**"
+---
 ### Product Manager | Alibaba Global Negotiation Guide
 
 **Negotiation DNA:** $200B market cap with products spanning e-commerce, cloud, logistics, and fintech + US PMs define international product strategy + Alibaba Cloud PM roles are high-growth | PMs at Alibaba shape products touching 1B+ consumers and millions of merchants | **PRODUCT SCOPE PREMIUM**

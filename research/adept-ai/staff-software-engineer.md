@@ -1,3 +1,50 @@
+---
+company: adept-ai
+company_display: Adept AI
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 280000
+    stock_low: 160000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 375000
+    currency: USD
+  - region: Seattle
+    base_low: 209000
+    base_high: 272000
+    stock_low: 160000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 249000
+    total_comp_high: 367000
+    currency: USD
+  - region: Remote US
+    base_low: 194000
+    base_high: 252000
+    stock_low: 144000
+    stock_high: 342000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 338000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Adept Staff SWE = Amazon Principal SDE = Google L6 = Meta E6
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | Technical Leadership"
+---
 ### Staff Software Engineer | Adept AI Global Negotiation Guide
 
 **Negotiation DNA:** Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | Technical Leadership

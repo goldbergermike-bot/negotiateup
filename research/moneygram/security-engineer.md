@@ -1,3 +1,53 @@
+---
+company: moneygram
+company_display: Moneygram
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas TX
+    base_low: 145000
+    base_high: 190000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 198000
+    total_comp_high: 295000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 45000
+    stock_high: 85000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 232000
+    total_comp_high: 342000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 145000
+    stock_low: 26000
+    stock_high: 55000
+    bonus_low: 13000
+    bonus_high: 27000
+    total_comp_low: 147000
+    total_comp_high: 227000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| MoneyGram | Google | Meta | Stripe | Western Union | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Cybersecurity & Compliance`"
+---
 ### Security Engineer | MoneyGram Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Cybersecurity & Compliance`

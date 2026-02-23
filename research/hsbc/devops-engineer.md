@@ -1,3 +1,51 @@
+---
+company: hsbc
+company_display: HSBC
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 88000
+    base_high: 120000
+    stock_low: 35000
+    stock_high: 52000
+    bonus_low: 16000
+    bonus_high: 27000
+    total_comp_low: 139000
+    total_comp_high: 199000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 700000
+    base_high: 955000
+    stock_low: 350000
+    stock_high: 520000
+    bonus_low: 335000
+    bonus_high: 515000
+    total_comp_low: 1390000
+    total_comp_high: 1990000
+    currency: HKD
+  - region: Singapore
+    base_low: 153000
+    base_high: 208000
+    stock_low: 61000
+    stock_high: 90000
+    bonus_low: 27000
+    bonus_high: 46000
+    total_comp_low: 240000
+    total_comp_high: 344000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Infrastructure Automation` `CI/CD Pipelines` `Cloud-Native Operations`"
+---
 ### DevOps Engineer | HSBC Global Negotiation Guide
 
 **Negotiation DNA:** `Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Infrastructure Automation` `CI/CD Pipelines` `Cloud-Native Operations`

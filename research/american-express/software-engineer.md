@@ -1,3 +1,49 @@
+---
+company: american-express
+company_display: American Express
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 135000
+    base_high: 175000
+    stock_low: 50000
+    stock_high: 125000
+    bonus_pct: 15
+    total_comp_low: 175000
+    total_comp_high: 250000
+    currency: USD
+  - region: Phoenix
+    base_low: 120000
+    base_high: 158000
+    stock_low: 40000
+    stock_high: 108000
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 218000
+    currency: USD
+  - region: San Francisco
+    base_low: 132000
+    base_high: 172000
+    stock_low: 48000
+    stock_high: 120000
+    bonus_pct: 15
+    total_comp_low: 170000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SWE at AmEx (Mid) = L4 at Google, E4 at Meta, SDE II at Amazon, AVP/VP at BofA, Mid at Capital One"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$190B market cap premium brand + Entry/mid-level with premium brand culture + NYC HQ + RSU-inclusive comp above traditional banks | AmEx SWEs join a premium financial technology company | **PREMIUM BRAND TECH COMP**"
+---
 ### Software Engineer | American Express Global Negotiation Guide
 
 **Negotiation DNA:** $190B market cap premium brand + Entry/mid-level with premium brand culture + NYC HQ + RSU-inclusive comp above traditional banks | AmEx SWEs join a premium financial technology company | **PREMIUM BRAND TECH COMP**

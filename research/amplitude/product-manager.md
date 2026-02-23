@@ -1,3 +1,48 @@
+---
+company: amplitude
+company_display: Amplitude
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 200000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 278000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 195000
+    stock_low: 115000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 198000
+    total_comp_high: 270000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 130000
+    stock_low: 60000
+    stock_high: 108000
+    bonus_pct: 15
+    total_comp_low: 120000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Amplitude PM (Mid) = Google L5 PM = Meta IC5 PM = Mixpanel PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Based / Public Company | AI-Powered Product Analytics"
+---
 ### Product Manager | Amplitude Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Based / Public Company | AI-Powered Product Analytics

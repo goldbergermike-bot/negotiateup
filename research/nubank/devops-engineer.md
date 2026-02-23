@@ -1,3 +1,50 @@
+---
+company: nubank
+company_display: Nubank
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (US HQ)
+    base_low: 128000
+    base_high: 175000
+    stock_low: 100000
+    stock_high: 210000
+    bonus_low: 18000
+    bonus_high: 30000
+    total_comp_low: 175000
+    total_comp_high: 252000
+    currency: USD
+  - region: São Paulo (Global HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Berlin
+    base_low: 107000
+    base_high: 146000
+    stock_low: 83000
+    stock_high: 175000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 205000
+    total_comp_high: 346000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`US Charter` `Founding US Team` `$783M Quarterly Profit` `Public Equity (NYSE: NU)` `100M+ Customers` `Cloud Infrastructure` `Kubernetes` `AWS` `CI/CD` `Platform Engineering`"
+---
 ### DevOps Engineer | Nubank Global Negotiation Guide
 
 **Negotiation DNA:** `US Charter` `Founding US Team` `$783M Quarterly Profit` `Public Equity (NYSE: NU)` `100M+ Customers` `Cloud Infrastructure` `Kubernetes` `AWS` `CI/CD` `Platform Engineering`

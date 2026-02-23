@@ -1,3 +1,50 @@
+---
+company: supabase
+company_display: Supabase
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 205000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_pct: 5
+    total_comp_low: 210000
+    total_comp_high: 305000
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 195000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_pct: 5
+    total_comp_low: 198000
+    total_comp_high: 290000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 156000
+    stock_low: 91000
+    stock_high: 183000
+    bonus_pct: 5
+    total_comp_low: 159000
+    total_comp_high: 232000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Supabase SWE = Google L4 = Meta E4 = PlanetScale SWE = Neon Software Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Open-Source-Aligned Comp + Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Native Backend Infrastructure"
+---
 ### Software Engineer | Supabase Global Negotiation Guide
 
 **Negotiation DNA:** Open-Source-Aligned Comp + Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Native Backend Infrastructure

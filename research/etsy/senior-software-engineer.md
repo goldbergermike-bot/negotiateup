@@ -1,3 +1,48 @@
+---
+company: etsy
+company_display: Etsy
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brooklyn
+    base_low: 195000
+    base_high: 242000
+    stock_low: 132000
+    stock_high: 238000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 332000
+    currency: USD
+  - region: San Francisco
+    base_low: 202000
+    base_high: 248000
+    stock_low: 132000
+    stock_high: 238000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 342000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 232000
+    stock_low: 132000
+    stock_high: 238000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Etsy Sr SWE (E3) = Google L4 = Meta E4 = Amazon SDE II = Shopify L5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction"
+---
 ### Senior Software Engineer | Etsy Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction

@@ -1,3 +1,50 @@
+---
+company: hashicorp-terraform
+company_display: HashiCorp Terraform
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 150000
+    base_high: 195000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: 5
+    total_comp_low: 185000
+    total_comp_high: 258000
+    currency: USD
+  - region: Austin / Denver
+    base_low: 140000
+    base_high: 185000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: 5
+    total_comp_low: 173000
+    total_comp_high: 243000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 148000
+    stock_low: 76000
+    stock_high: 137000
+    bonus_pct: 5
+    total_comp_low: 140000
+    total_comp_high: 196000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: HashiCorp Product Designer = Google L4 UX = Meta IC4 Product Designer = IBM Band 8 Designer = Atlassian Mid Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)"
+---
 ### Product Designer | HashiCorp (Terraform) Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)

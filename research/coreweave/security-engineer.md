@@ -1,3 +1,50 @@
+---
+company: coreweave
+company_display: Coreweave
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Roseland NJ
+    base_low: 195000
+    base_high: 242000
+    stock_low: 210000
+    stock_high: 368000
+    bonus_pct: null
+    total_comp_low: 248000
+    total_comp_high: 334000
+    currency: USD
+  - region: Remote US
+    base_low: 187000
+    base_high: 234000
+    stock_low: 210000
+    stock_high: 368000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 326000
+    currency: USD
+  - region: London
+    base_low: 147000
+    base_high: 182000
+    stock_low: 158000
+    stock_high: 277000
+    bonus_pct: null
+    total_comp_low: 187000
+    total_comp_high: 252000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: CoreWeave Security Engineer = Google L4 Security Engineer = AWS Security Engineer III = Meta E4 Security Engineer = Apple Security ICT3
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium"
+---
 ### Security Engineer | CoreWeave Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium

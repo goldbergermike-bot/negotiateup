@@ -1,3 +1,48 @@
+---
+company: ppro
+company_display: Ppro
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 80000
+    base_high: 120000
+    stock_low: 28000
+    stock_high: 58000
+    bonus_pct: null
+    total_comp_low: 108000
+    total_comp_high: 178000
+    currency: GBP
+  - region: Munich (EUR)
+    base_low: 85000
+    base_high: 125000
+    stock_low: 26000
+    stock_high: 55000
+    bonus_pct: null
+    total_comp_low: 111000
+    total_comp_high: 180000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 108000
+    base_high: 160000
+    stock_low: 38000
+    stock_high: 72000
+    bonus_pct: null
+    total_comp_low: 146000
+    total_comp_high: 232000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a machine learning and AI engineering compensation framework spanning London, Munich, and Singapore markets."
+---
 ### ML/AI Engineer — PPRO Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a machine learning and AI engineering compensation framework spanning London, Munich, and Singapore markets.

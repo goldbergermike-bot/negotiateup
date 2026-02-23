@@ -1,3 +1,50 @@
+---
+company: runway
+company_display: Runway
+role: gen3-video-ai-engineer
+role_display: Gen-3 Video AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 210000
+    base_high: 285000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 398000
+    currency: USD
+  - region: San Francisco
+    base_low: 210000
+    base_high: 285000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 398000
+    currency: USD
+  - region: Remote US
+    base_low: 189000
+    base_high: 257000
+    stock_low: 180000
+    stock_high: 405000
+    bonus_pct: null
+    total_comp_low: 234000
+    total_comp_high: 358000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Runway Gen-3 Video AI Engineer = Google L5-L6 Research Engineer = Meta AI Research Engineer IC5-IC6 = OpenAI Research Engineer = Stability AI Senior ML Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | **SIGNATURE ROLE** | **+15-30% ML PREMIUM**"
+---
 ### Gen-3 Video AI Engineer | Runway Global Negotiation Guide
 
 **Negotiation DNA:** Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | **SIGNATURE ROLE** | **+15-30% ML PREMIUM**

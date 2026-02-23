@@ -1,3 +1,50 @@
+---
+company: t-mobile
+company_display: T-Mobile
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue / Seattle
+    base_low: 120000
+    base_high: 175000
+    stock_low: 38000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 245000
+    currency: USD
+  - region: NYC / San Francisco
+    base_low: 125000
+    base_high: 180000
+    stock_low: 42000
+    stock_high: 132000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 258000
+    currency: USD
+  - region: Dallas / Denver
+    base_low: 112000
+    base_high: 165000
+    stock_low: 32000
+    stock_high: 112000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 225000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: T-Mobile Product Designer (D3-D5) = Google L3-L5 UX = Meta E3-E5 Designer = Amazon UX Designer II-III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$250B 5G Leader | Consumer Experience at Scale | Un-carrier Design Innovation"
+---
 ### Product Designer | T-Mobile Global Negotiation Guide
 
 **Negotiation DNA:** $250B 5G Leader | Consumer Experience at Scale | Un-carrier Design Innovation

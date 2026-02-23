@@ -1,3 +1,48 @@
+---
+company: palantir
+company_display: Palantir
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 155000
+    base_high: 190000
+    stock_low: 280000
+    stock_high: 470000
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 308000
+    currency: USD
+  - region: New York City
+    base_low: 160000
+    base_high: 195000
+    stock_low: 290000
+    stock_high: 480000
+    bonus_pct: null
+    total_comp_low: 233000
+    total_comp_high: 315000
+    currency: USD
+  - region: London
+    base_low: 82000
+    base_high: 105000
+    stock_low: 140000
+    stock_high: 235000
+    bonus_pct: null
+    total_comp_low: 117000
+    total_comp_high: 164000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Palantir Senior SWE = Google L4 = Meta E4 — but with 1.5-2x hours and on-site deployment expectations
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture"
+---
 ### Senior Software Engineer | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture

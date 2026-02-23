@@ -1,3 +1,48 @@
+---
+company: cloudflare-workers
+company_display: Cloudflare Workers
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 192000
+    base_high: 245000
+    stock_low: 185000
+    stock_high: 325000
+    bonus_pct: 10
+    total_comp_low: 282000
+    total_comp_high: 395000
+    currency: USD
+  - region: Austin
+    base_low: 182000
+    base_high: 235000
+    stock_low: 175000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 378000
+    currency: USD
+  - region: London
+    base_low: 128000
+    base_high: 162000
+    stock_low: 122000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 258000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Cloudflare SSE (L4-L5) = Google SWE L5-L6 = Meta SWE E5-E6 = Fastly SSE = Vercel SSE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NYSE: NET) + Bonus | Edge AI Runtime & Developer Platform | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**"
+---
 ### Senior Software Engineer | Cloudflare Workers Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NYSE: NET) + Bonus | Edge AI Runtime & Developer Platform | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**

@@ -1,3 +1,51 @@
+---
+company: fidelity
+company_display: Fidelity
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 125000
+    base_high: 165000
+    stock_low: 23000
+    stock_high: 42000
+    bonus_low: 24000
+    bonus_high: 41000
+    total_comp_low: 172000
+    total_comp_high: 248000
+    currency: USD
+  - region: "Durham, NC"
+    base_low: 113000
+    base_high: 149000
+    stock_low: 21000
+    stock_high: 38000
+    bonus_low: 22000
+    bonus_high: 37000
+    total_comp_low: 156000
+    total_comp_high: 224000
+    currency: USD
+  - region: "Dallas, TX"
+    base_low: 115000
+    base_high: 152000
+    stock_low: 21000
+    stock_high: 39000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 158000
+    total_comp_high: 229000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `CI/CD Pipeline` `Infrastructure Automation` `Regulatory Deployment Compliance`"
+---
 ### DevOps Engineer | Fidelity Investments Global Negotiation Guide
 
 **Negotiation DNA:** `Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `CI/CD Pipeline` `Infrastructure Automation` `Regulatory Deployment Compliance`

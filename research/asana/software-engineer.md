@@ -1,3 +1,48 @@
+---
+company: asana
+company_display: Asana
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 315000
+    currency: USD
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 305000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 50000
+    total_comp_high: 145000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Asana is a $5B work management platform headquartered in San Francisco, and every Software Engineer builds the collaboration infrastructure that millions of teams worldwide depend on to coordinate their most important work."
+---
 ### Software Engineer — Asana Salary Negotiation Guide
 
 **Negotiation DNA**: Asana is a $5B work management platform headquartered in San Francisco, and every Software Engineer builds the collaboration infrastructure that millions of teams worldwide depend on to coordinate their most important work.

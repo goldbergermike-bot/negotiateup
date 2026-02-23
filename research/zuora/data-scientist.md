@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 140000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 262000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 122000
+    base_high: 172000
+    stock_low: 38000
+    stock_high: 108000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 228000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 62000
+    base_high: 98000
+    stock_low: 20000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 75000
+    total_comp_high: 125000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 1800000
+    base_high: 3600000
+    stock_low: 800000
+    stock_high: 2400000
+    bonus_pct: 10
+    total_comp_low: 2400000
+    total_comp_high: 4800000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 110000
+    base_high: 158000
+    stock_low: 32000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 200000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora IC2/IC3 (DS) ~ Chargebee Senior DS | Recurly Senior DS | Stripe DS | Salesforce Senior DS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Subscription analytics & revenue intelligence specialist | Churn prediction & monetization modeling | **ANALYTICS PREMIUM**"
+---
 ### Data Scientist | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Subscription analytics & revenue intelligence specialist | Churn prediction & monetization modeling | **ANALYTICS PREMIUM**

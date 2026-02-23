@@ -1,3 +1,54 @@
+---
+company: blackrock
+company_display: Blackrock
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 150000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_low: 35000
+    bonus_high: 58000
+    total_comp_low: 185000
+    total_comp_high: 258000
+    currency: USD
+  - region: San Francisco
+    base_low: 158000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_low: 38000
+    bonus_high: 62000
+    total_comp_low: 195000
+    total_comp_high: 272000
+    currency: USD
+  - region: London
+    base_low: 107000
+    base_high: 139000
+    stock_low: 100000
+    stock_high: 185000
+    bonus_low: 25000
+    bonus_high: 41000
+    total_comp_low: 232000
+    total_comp_high: 365000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "`$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Product Designer` `Design Leadership` `VP-Level`"
+---
 ### Product Designer | BlackRock Global Negotiation Guide
 
 **Negotiation DNA:** `$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Product Designer` `Design Leadership` `VP-Level`

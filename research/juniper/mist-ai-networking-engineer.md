@@ -1,3 +1,48 @@
+---
+company: juniper
+company_display: Juniper
+role: mist-ai-networking-engineer
+role_display: Mist AI Networking Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 185000
+    base_high: 245000
+    stock_low: 55000
+    stock_high: 95000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 368000
+    currency: USD
+  - region: Westford (MA)
+    base_low: 172000
+    base_high: 228000
+    stock_low: 50000
+    stock_high: 85000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 222000
+    stock_low: 48000
+    stock_high: 82000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 335000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Juniper Mist AI Networking Engineer (IC3–IC5) = Google L5–L7 Network AI | Meta Network Infrastructure–Principal | Amazon Network Development Engineer III–Principal | Cisco Distinguished Engineer (AI) | HPE Distinguished Technologist–Fellow (AI Networking)"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "SIGNATURE ROLE | Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | +20-30% AI Networking Premium"
+---
 ### Mist AI Networking Engineer | Juniper Global Negotiation Guide
 
 **Negotiation DNA:** SIGNATURE ROLE | Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | +20-30% AI Networking Premium

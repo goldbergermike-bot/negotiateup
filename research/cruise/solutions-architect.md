@@ -1,3 +1,30 @@
+---
+company: cruise
+company_display: Cruise
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 360000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cruise Solutions Architect = Google Solutions Architect L4-L5 = Waymo Solutions Architect = Amazon Solutions Architect = Microsoft Solutions Architect
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "GM Subsidiary Comp | Competitive Bay Area RSUs | Autonomous Vehicle Pioneer | San Francisco Premium"
+---
 ### Solutions Architect | Cruise Global Negotiation Guide
 
 **Negotiation DNA:** GM Subsidiary Comp | Competitive Bay Area RSUs | Autonomous Vehicle Pioneer | San Francisco Premium

@@ -1,3 +1,50 @@
+---
+company: millennium-management
+company_display: Millennium Management
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 195000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_low: 105000
+    bonus_high: 165000
+    total_comp_low: 365000
+    total_comp_high: 525000
+    currency: USD
+  - region: Miami
+    base_low: 185000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_low: 95000
+    bonus_high: 150000
+    total_comp_low: 335000
+    total_comp_high: 480000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 150000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_low: 80000
+    bonus_high: 125000
+    total_comp_low: 278000
+    total_comp_high: 398000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Internal Product Strategy` `Pod Tooling` `Direct Attribution`"
+---
 ### Product Manager | Millennium Management Global Negotiation Guide
 
 **Negotiation DNA:** `Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Internal Product Strategy` `Pod Tooling` `Direct Attribution`

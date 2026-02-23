@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 158000
+    base_high: 222000
+    stock_low: 72000
+    stock_high: 185000
+    bonus_pct: 12
+    total_comp_low: 205000
+    total_comp_high: 325000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 138000
+    base_high: 198000
+    stock_low: 55000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 282000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 50000
+    base_high: 82000
+    stock_low: 20000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 65000
+    total_comp_high: 110000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 78000
+    base_high: 118000
+    stock_low: 32000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 102000
+    total_comp_high: 165000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2800000
+    base_high: 5000000
+    stock_low: 1200000
+    stock_high: 3500000
+    bonus_pct: 10
+    total_comp_low: 3500000
+    total_comp_high: 6800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath PM (IC3/IC4) ~ Microsoft 63/64 PM | Google L5/L6 PM | Salesforce Senior/Lead PM | Automation Anywhere Senior/Lead PM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Automation platform product strategist | Enterprise RPA to AI transformation leader | **PRODUCT LEADERSHIP PREMIUM**"
+---
 ### Product Manager | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** Automation platform product strategist | Enterprise RPA to AI transformation leader | **PRODUCT LEADERSHIP PREMIUM**

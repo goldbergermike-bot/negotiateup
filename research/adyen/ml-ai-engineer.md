@@ -1,3 +1,52 @@
+---
+company: adyen
+company_display: Adyen
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 110000
+    base_high: 155000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 205000
+    total_comp_high: 343000
+    currency: EUR
+  - region: San Francisco
+    base_low: 175000
+    base_high: 245000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 317000
+    total_comp_high: 527000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 140000
+    stock_low: 68000
+    stock_high: 138000
+    bonus_low: 13000
+    bonus_high: 25000
+    total_comp_low: 179000
+    total_comp_high: 303000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Adyen | Google | Meta | Stripe | Visa | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `ML/AI Track` `+15-25% AI Premium`"
+---
 ### ML/AI Engineer | Adyen Global Negotiation Guide
 
 **Negotiation DNA:** `AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `ML/AI Track` `+15-25% AI Premium`

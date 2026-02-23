@@ -1,3 +1,52 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 168000
+    base_high: 215000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_low: 42000
+    bonus_high: 65000
+    total_comp_low: 235000
+    total_comp_high: 328000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 228000
+    stock_low: 175000
+    stock_high: 325000
+    bonus_low: 48000
+    bonus_high: 72000
+    total_comp_low: 255000
+    total_comp_high: 358000
+    currency: USD
+  - region: Remote US
+    base_low: 152000
+    base_high: 195000
+    stock_low: 145000
+    stock_high: 272000
+    bonus_low: 38000
+    bonus_high: 58000
+    total_comp_low: 215000
+    total_comp_high: 298000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#ProductStrategy` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin`"
+---
 ### Product Manager | Fidelity Digital Assets Global Negotiation Guide
 
 **Negotiation DNA:** `#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#ProductStrategy` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin`

@@ -1,3 +1,49 @@
+---
+company: moderna
+company_display: Moderna
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge MA
+    base_low: 150000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 320000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+  - region: Other US
+    base_low: 135000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Moderna TPM = Genentech TPM = Google L4-L5 TPM = BioNTech TPM
+data_sources:
+  - Levels.fyi
+  - Hired
+negotiation_dna_summary: mRNA Pioneer / Post-COVID Growth / RSU + Bonus / Drug Development Program Execution
+---
 ### Technical Program Manager | Moderna Global Negotiation Guide
 
 **Negotiation DNA:** mRNA Pioneer / Post-COVID Growth / RSU + Bonus / Drug Development Program Execution

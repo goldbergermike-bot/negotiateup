@@ -1,3 +1,68 @@
+---
+company: samsung
+company_display: Samsung
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / San Jose (US R&D)"
+    base_low: 140000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 130000
+    base_high: 180000
+    stock_low: 40000
+    stock_high: 120000
+    bonus_pct: 15
+    total_comp_low: 170000
+    total_comp_high: 275000
+    currency: USD
+  - region: Seoul (HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (R&D Campus)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Bangalore
+    base_low: 2200000
+    base_high: 4500000
+    stock_low: 800000
+    stock_high: 2500000
+    bonus_pct: 15
+    total_comp_low: 3000000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at Samsung (CL2-CL3) = L3-L4 at Google (SRE), IC3-IC4 at Meta (Production Engineer), SDE II-Senior at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B conglomerate modernizing massive infrastructure across mobile, cloud, and semiconductor divisions + US R&D offices transitioning to cloud-native + Korean bonus structure adds significant upside | Samsung DevOps spans consumer services serving 1B+ users and manufacturing systems | **INFRASTRUCTURE MODERNIZATION PREMIUM**"
+---
 ### DevOps Engineer | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B conglomerate modernizing massive infrastructure across mobile, cloud, and semiconductor divisions + US R&D offices transitioning to cloud-native + Korean bonus structure adds significant upside | Samsung DevOps spans consumer services serving 1B+ users and manufacturing systems | **INFRASTRUCTURE MODERNIZATION PREMIUM**

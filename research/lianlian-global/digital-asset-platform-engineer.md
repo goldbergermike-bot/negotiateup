@@ -1,3 +1,48 @@
+---
+company: lianlian-global
+company_display: Lianlian Global
+role: digital-asset-platform-engineer
+role_display: Digital Asset Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":cn: Hangzhou (CNY)"
+    base_low: 600000
+    base_high: 1000000
+    stock_low: 500000
+    stock_high: 1000000
+    bonus_pct: null
+    total_comp_low: 1100000
+    total_comp_high: 2000000
+    currency: JPY
+  - region: ":hong_kong: Hong Kong (HKD)"
+    base_low: 1000000
+    base_high: 1600000
+    stock_low: 700000
+    stock_high: 1400000
+    bonus_pct: null
+    total_comp_low: 1700000
+    total_comp_high: 3000000
+    currency: HKD
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 180000
+    base_high: 280000
+    stock_low: 120000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 300000
+    total_comp_high: 530000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a Digital Asset platform engineering compensation framework spanning Hangzhou, Hong Kong, and Singapore markets. The Digital Asset Platform Engineer is the single most strategically important technical hire at LianLian Global in 2026 — the engineer who designs, builds, and operates the stablecoin settlement infrastructure that the entire company's growth"
+---
 ### Digital Asset Platform Engineer — LianLian Global Salary Negotiation Guide
 
 ## **SIGNATURE ROLE**

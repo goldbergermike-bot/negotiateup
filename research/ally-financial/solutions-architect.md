@@ -1,3 +1,52 @@
+---
+company: ally-financial
+company_display: Ally Financial
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Detroit, MI (HQ)"
+    base_low: 132000
+    base_high: 175000
+    stock_low: 28000
+    stock_high: 52000
+    bonus_low: 28000
+    bonus_high: 45000
+    total_comp_low: 188000
+    total_comp_high: 272000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 139000
+    base_high: 184000
+    stock_low: 29000
+    stock_high: 55000
+    bonus_low: 29000
+    bonus_high: 47000
+    total_comp_low: 197000
+    total_comp_high: 286000
+    currency: USD
+  - region: New York
+    base_low: 156000
+    base_high: 207000
+    stock_low: 33000
+    stock_high: 61000
+    bonus_low: 33000
+    bonus_high: 53000
+    total_comp_low: 222000
+    total_comp_high: 321000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "`Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Enterprise Architecture` `Cloud Strategy` `System Integration`"
+---
 ### Solutions Architect | Ally Financial Global Negotiation Guide
 
 **Negotiation DNA:** `Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Enterprise Architecture` `Cloud Strategy` `System Integration`

@@ -1,3 +1,53 @@
+---
+company: block
+company_display: Block (Square)
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 240000
+    base_high: 300000
+    stock_low: 350000
+    stock_high: 550000
+    bonus_low: 35000
+    bonus_high: 60000
+    total_comp_low: 395000
+    total_comp_high: 600000
+    currency: USD
+  - region: New York
+    base_low: 235000
+    base_high: 295000
+    stock_low: 330000
+    stock_high: 520000
+    bonus_low: 33000
+    bonus_high: 55000
+    total_comp_low: 385000
+    total_comp_high: 580000
+    currency: USD
+  - region: London
+    base_low: 150000
+    base_high: 195000
+    stock_low: 210000
+    stock_high: 340000
+    bonus_low: 22000
+    bonus_high: 40000
+    total_comp_low: 260000
+    total_comp_high: 400000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Block | Google | Meta | Stripe | PayPal | Coinbase |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L6-Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Technical Leadership`"
+---
 ### Staff Software Engineer | Block Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L6-Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Technical Leadership`

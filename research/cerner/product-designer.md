@@ -1,3 +1,48 @@
+---
+company: cerner
+company_display: Cerner
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Kansas City MO
+    base_low: 110000
+    base_high: 160000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 215000
+    currency: USD
+  - region: Austin TX
+    base_low: 115000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 225000
+    currency: USD
+  - region: Remote US
+    base_low: 105000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Oracle Health IC2-IC3 Design = Google L3 UX = Epic Designer (comparable or higher TC with RSUs)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: Oracle-Acquired / Enterprise Health IT / RSU + Bonus / Clinical UX Redesign
+---
 ### Product Designer | Cerner (Oracle Health) Global Negotiation Guide
 
 **Negotiation DNA:** Oracle-Acquired / Enterprise Health IT / RSU + Bonus / Clinical UX Redesign

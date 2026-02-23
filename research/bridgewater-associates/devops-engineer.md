@@ -1,3 +1,43 @@
+---
+company: bridgewater-associates
+company_display: Bridgewater Associates
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westport, CT (HQ)"
+    base_low: 155000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_low: 62000
+    bonus_high: 172000
+    total_comp_low: 217000
+    total_comp_high: 387000
+    currency: USD
+  - region: New York City
+    base_low: 163000
+    base_high: 226000
+    stock_low: null
+    stock_high: null
+    bonus_low: 65000
+    bonus_high: 181000
+    total_comp_low: 228000
+    total_comp_high: 407000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at Bridgewater = L4 Site Reliability Engineer at Google, E4 Production Engineer at Meta, Systems Development Engineer II at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Infrastructure reliability for mission-critical trading and research systems | Zero-downtime mandate for systems managing $150B | **ELITE HEDGE FUND PREMIUM**"
+---
 ### DevOps Engineer | Bridgewater Associates Global Negotiation Guide
 
 **Negotiation DNA:** ~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Infrastructure reliability for mission-critical trading and research systems | Zero-downtime mandate for systems managing $150B | **ELITE HEDGE FUND PREMIUM**

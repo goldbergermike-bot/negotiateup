@@ -1,3 +1,53 @@
+---
+company: shift4
+company_display: Shift4
+role: global-liquidity-platform-engineer
+role_display: Global Liquidity Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Center Valley PA
+    base_low: 190000
+    base_high: 260000
+    stock_low: 160000
+    stock_high: 360000
+    bonus_low: 30000
+    bonus_high: 65000
+    total_comp_low: 380000
+    total_comp_high: 685000
+    currency: USD
+  - region: New York
+    base_low: 220000
+    base_high: 300000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_low: 35000
+    bonus_high: 80000
+    total_comp_low: 455000
+    total_comp_high: 830000
+    currency: USD
+  - region: London
+    base_low: 150000
+    base_high: 200000
+    stock_low: 120000
+    stock_high: 270000
+    bonus_low: 22000
+    bonus_high: 50000
+    total_comp_low: 292000
+    total_comp_high: 520000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Shift4 | Google | Meta | Stripe | Toast | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: FOUR` `Stablecoin Settlement` `SIGNATURE ROLE` `Global Liquidity Platform` `24/7 Global Liquidity` `Always-On Settlement` `Payments Infrastructure` `Skytab POS` `Stadium & Venue Payments` `Finaro Global Acquiring` `Appetize` `Vectron` `Blockchain Integration` `Real-Time Settlement` `Capital Markets` `Treasury Engineering`"
+---
 ### Global Liquidity Platform Engineer | Shift4 Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FOUR` `Stablecoin Settlement` `SIGNATURE ROLE` `Global Liquidity Platform` `24/7 Global Liquidity` `Always-On Settlement` `Payments Infrastructure` `Skytab POS` `Stadium & Venue Payments` `Finaro Global Acquiring` `Appetize` `Vectron` `Blockchain Integration` `Real-Time Settlement` `Capital Markets` `Treasury Engineering`

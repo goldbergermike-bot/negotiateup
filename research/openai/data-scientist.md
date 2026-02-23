@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 258000
+    stock_low: 285000
+    stock_high: 498000
+    bonus_pct: null
+    total_comp_low: 276000
+    total_comp_high: 383000
+    currency: USD
+  - region: Seattle
+    base_low: 198000
+    base_high: 248000
+    stock_low: 285000
+    stock_high: 498000
+    bonus_pct: null
+    total_comp_low: 269000
+    total_comp_high: 373000
+    currency: USD
+  - region: London
+    base_low: 142000
+    base_high: 180000
+    stock_low: 208000
+    stock_high: 362000
+    bonus_pct: null
+    total_comp_low: 194000
+    total_comp_high: 271000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI Data Scientist = Google L4 DS = Meta DS = Anthropic DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)"
+---
 ### Data Scientist | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)

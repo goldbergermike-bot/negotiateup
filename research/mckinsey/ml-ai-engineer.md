@@ -1,3 +1,48 @@
+---
+company: mckinsey
+company_display: Mckinsey
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 175000
+    base_high: 230000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 228000
+    total_comp_high: 345000
+    currency: USD
+  - region: Chicago
+    base_low: 165000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 215000
+    total_comp_high: 323000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 160000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 150000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: McKinsey ML/AI Engineer = Google L4-L5 ML Engineer = Meta E4-E5 ML = Anthropic Research Engineer
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (30-50%) | No Equity | QuantumBlack AI Delivery"
+---
 ### ML/AI Engineer | McKinsey Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (30-50%) | No Equity | QuantumBlack AI Delivery

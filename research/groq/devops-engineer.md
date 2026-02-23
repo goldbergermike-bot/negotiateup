@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 148000
+    base_high: 185000
+    stock_low: 25000
+    stock_high: 48000
+    bonus_pct: 5
+    total_comp_low: 182000
+    total_comp_high: 248000
+    currency: USD
+  - region: San Diego
+    base_low: 136000
+    base_high: 172000
+    stock_low: 22000
+    stock_high: 43000
+    bonus_pct: 5
+    total_comp_low: 168000
+    total_comp_high: 230000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 162000
+    stock_low: 20000
+    stock_high: 38000
+    bonus_pct: 5
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq DevOps ≈ Google SRE L4 · Meta Production Engineer E4 · Amazon Systems Engineer SDE-II · Apple SRE · Cerebras DevOps · NVIDIA Infrastructure Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Infrastructure Premium"
+---
 ### DevOps Engineer | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Infrastructure Premium

@@ -1,3 +1,48 @@
+---
+company: expedia
+company_display: Expedia
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 210000
+    base_high: 275000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_pct: 15
+    total_comp_low: 298000
+    total_comp_high: 415000
+    currency: USD
+  - region: Austin
+    base_low: 190000
+    base_high: 250000
+    stock_low: 175000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 375000
+    currency: USD
+  - region: London
+    base_low: 153000
+    base_high: 200000
+    stock_low: 150000
+    stock_high: 270000
+    bonus_pct: 15
+    total_comp_low: 218000
+    total_comp_high: 304000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Expedia Staff Software Engineer (L6) = Google L6 Staff = Booking.com Staff Engineer = Airbnb Staff Engineer = Amazon Principal SDE = Microsoft Principal SDE 67/68
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | Staff-Level Scope Premium"
+---
 ### Staff Software Engineer | Expedia Global Negotiation Guide
 
 **Negotiation DNA:** Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | Staff-Level Scope Premium

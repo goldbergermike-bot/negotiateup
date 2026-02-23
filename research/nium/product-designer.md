@@ -1,3 +1,48 @@
+---
+company: nium
+company_display: Nium
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 90000
+    base_high: 150000
+    stock_low: 40000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 250000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 340000
+    currency: USD
+  - region: London (GBP)
+    base_low: 60000
+    base_high: 100000
+    stock_low: 30000
+    stock_high: 70000
+    bonus_pct: null
+    total_comp_low: 90000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a product design compensation framework spanning Singapore, San Francisco, and London markets. As a Product Designer at Nium, you shape the interface between complex payments infrastructure and the humans who use it — creating dashboards, developer portals, API documentation experiences, and enterprise tools that make programmable money accessible and intuitive."
+---
 ### Product Designer — Nium Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a product design compensation framework spanning Singapore, San Francisco, and London markets. As a Product Designer at Nium, you shape the interface between complex payments infrastructure and the humans who use it — creating dashboards, developer portals, API documentation experiences, and enterprise tools that make programmable money accessible and intuitive.

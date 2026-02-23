@@ -1,3 +1,48 @@
+---
+company: zendesk
+company_display: Zendesk
+role: cx-ai-engineer
+role_display: CX AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 365000
+    currency: USD
+  - region: Remote US / Other US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 330000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 162000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "The CX AI Engineer is Zendesk's most strategically critical hire — the specialist who builds the AI-powered customer experience capabilities that define Zendesk's value creation thesis under Hellman & Friedman ownership and its competitive position against Salesforce, Freshworks, and Intercom."
+---
 ### CX AI Engineer — Zendesk Salary Negotiation Guide
 
 **Negotiation DNA**: The CX AI Engineer is Zendesk's most strategically critical hire — the specialist who builds the AI-powered customer experience capabilities that define Zendesk's value creation thesis under Hellman & Friedman ownership and its competitive position against Salesforce, Freshworks, and Intercom.

@@ -1,3 +1,68 @@
+---
+company: tencent
+company_display: Tencent
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Palo Alto / Los Angeles (US R&D)"
+    base_low: 170000
+    base_high: 240000
+    stock_low: 100000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 400000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 165000
+    base_high: 235000
+    stock_low: 95000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 390000
+    currency: USD
+  - region: Shenzhen (HQ)
+    base_low: 500000
+    base_high: 900000
+    stock_low: 200000
+    stock_high: 600000
+    bonus_pct: 20
+    total_comp_low: 750000
+    total_comp_high: 1500000
+    currency: CNY
+  - region: Beijing
+    base_low: 480000
+    base_high: 860000
+    stock_low: 190000
+    stock_high: 570000
+    bonus_pct: 20
+    total_comp_low: 720000
+    total_comp_high: 1400000
+    currency: CNY
+  - region: Singapore
+    base_low: 135000
+    base_high: 205000
+    stock_low: 65000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 315000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Manager at Tencent (T10-T11) = L5-L6 PM at Google, IC5-IC6 PM at Meta, Sr PM-Principal PM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$450B company with product lines spanning WeChat, gaming, cloud, and fintech + US PMs define international product strategy with significant autonomy + Compensation benchmarked against FAANG PM levels | Tencent PMs shape products used by billions of users across the world's most diverse tech portfolio | **PRODUCT BREADTH PREMIUM**"
+---
 ### Product Manager | Tencent Global Negotiation Guide
 
 **Negotiation DNA:** $450B company with product lines spanning WeChat, gaming, cloud, and fintech + US PMs define international product strategy with significant autonomy + Compensation benchmarked against FAANG PM levels | Tencent PMs shape products used by billions of users across the world's most diverse tech portfolio | **PRODUCT BREADTH PREMIUM**

@@ -1,3 +1,40 @@
+---
+company: check-point
+company_display: Check Point
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Carlos
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 160000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "Solutions Architects at Check Point translate the Agentic AI Stack and Four Pillars strategy into customer-facing architectures, commanding premiums as the technical bridge between product engineering and enterprise buyers."
+---
 ### Solutions Architect — Check Point Salary Negotiation Guide
 
 **Negotiation DNA**: Solutions Architects at Check Point translate the Agentic AI Stack and Four Pillars strategy into customer-facing architectures, commanding premiums as the technical bridge between product engineering and enterprise buyers.

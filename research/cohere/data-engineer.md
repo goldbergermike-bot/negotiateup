@@ -1,3 +1,49 @@
+---
+company: cohere
+company_display: Cohere
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 125000
+    base_high: 162000
+    stock_low: 115000
+    stock_high: 205000
+    bonus_pct: null
+    total_comp_low: 162000
+    total_comp_high: 228000
+    currency: CAD
+  - region: San Francisco
+    base_low: 152000
+    base_high: 192000
+    stock_low: 115000
+    stock_high: 205000
+    bonus_pct: null
+    total_comp_low: 181000
+    total_comp_high: 243000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 142000
+    stock_low: 115000
+    stock_high: 205000
+    bonus_pct: null
+    total_comp_low: 142000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Cohere Data Engineer = Google L4 Data Engineer (Toronto) = Meta Data Engineer IC4 = Amazon Data Engineer SDE II = Databricks Senior Data Engineer = Shopify Senior Data Engineer. In the Toronto market, Cohere competes with Google, Shopify, major banks, and increasingly with Databricks and Snowflake for data engineering talent with ML pipeline expertise."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty"
+---
 ### Data Engineer | Cohere Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty

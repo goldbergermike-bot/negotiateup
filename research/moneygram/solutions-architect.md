@@ -1,3 +1,53 @@
+---
+company: moneygram
+company_display: Moneygram
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas TX
+    base_low: 160000
+    base_high: 210000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 222000
+    total_comp_high: 332000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 240000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 28000
+    bonus_high: 52000
+    total_comp_low: 263000
+    total_comp_high: 392000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 155000
+    stock_low: 30000
+    stock_high: 62000
+    bonus_low: 16000
+    bonus_high: 32000
+    total_comp_low: 166000
+    total_comp_high: 249000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| MoneyGram | Google | Meta | Stripe | Western Union | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Enterprise Architecture`"
+---
 ### Solutions Architect | MoneyGram Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Enterprise Architecture`

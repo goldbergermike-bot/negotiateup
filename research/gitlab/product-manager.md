@@ -1,3 +1,39 @@
+---
+company: gitlab
+company_display: Gitlab
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (All-Remote)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 65000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 320000
+    currency: USD
+  - region: San Francisco Benchmark
+    base_low: 160000
+    base_high: 220000
+    stock_low: 70000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: GitLab PM = GitHub PM = Google L5 PM = Atlassian PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Public ($8B Market Cap) | All-Remote | DevSecOps Platform | Transparent Comp"
+---
 ### Product Manager | GitLab Global Negotiation Guide
 
 **Negotiation DNA:** Public ($8B Market Cap) | All-Remote | DevSecOps Platform | Transparent Comp

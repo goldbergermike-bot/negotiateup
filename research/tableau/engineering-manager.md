@@ -1,3 +1,49 @@
+---
+company: tableau
+company_display: Tableau
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle HQ
+    base_low: 205000
+    base_high: 255000
+    stock_low: 160000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 315000
+    total_comp_high: 445000
+    currency: USD
+  - region: San Francisco
+    base_low: 210000
+    base_high: 260000
+    stock_low: 165000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 320000
+    total_comp_high: 455000
+    currency: USD
+  - region: Remote US
+    base_low: 190000
+    base_high: 240000
+    stock_low: 140000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 290000
+    total_comp_high: 410000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tableau EM = Salesforce EM = Google L5 Manager = Meta M1
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Salesforce Subsidiary ($15.7B Acquisition) | Data Visualization Leader | Liquid RSUs"
+---
 ### Engineering Manager | Tableau Global Negotiation Guide
 
 **Negotiation DNA:** Salesforce Subsidiary ($15.7B Acquisition) | Data Visualization Leader | Liquid RSUs

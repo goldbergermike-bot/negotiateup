@@ -1,3 +1,77 @@
+---
+company: samsung
+company_display: Samsung
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / San Jose (US R&D)"
+    base_low: 135000
+    base_high: 190000
+    stock_low: 40000
+    stock_high: 130000
+    bonus_pct: 15
+    total_comp_low: 175000
+    total_comp_high: 290000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 125000
+    base_high: 175000
+    stock_low: 35000
+    stock_high: 110000
+    bonus_pct: 15
+    total_comp_low: 160000
+    total_comp_high: 260000
+    currency: USD
+  - region: Seoul (HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (R&D Campus)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 120000
+    stock_low: 25000
+    stock_high: 75000
+    bonus_pct: 15
+    total_comp_low: 95000
+    total_comp_high: 165000
+    currency: GBP
+  - region: Bangalore
+    base_low: 2500000
+    base_high: 5000000
+    stock_low: 1000000
+    stock_high: 3000000
+    bonus_pct: 15
+    total_comp_low: 3500000
+    total_comp_high: 6500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Software Engineer at Samsung (CL2-CL3) = L3-L4 at Google, IC3-IC4 at Meta, SDE I-II at Amazon, E3-E4 at Apple"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B chaebol with massive R&D budget ($22B+/yr) + US offices benchmarked against Big Tech + Korean bonus structure can significantly boost TC | Samsung US comp is competitive but traditionally trails FAANG by 10-20% | **GROWTH-TRAJECTORY PREMIUM**"
+---
 ### Software Engineer | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B chaebol with massive R&D budget ($22B+/yr) + US offices benchmarked against Big Tech + Korean bonus structure can significantly boost TC | Samsung US comp is competitive but traditionally trails FAANG by 10-20% | **GROWTH-TRAJECTORY PREMIUM**

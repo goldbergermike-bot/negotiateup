@@ -1,3 +1,48 @@
+---
+company: netflix
+company_display: Netflix
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 195000
+    base_high: 248000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 248000
+    currency: USD
+  - region: San Francisco
+    base_low: 201000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 201000
+    total_comp_high: 255000
+    currency: USD
+  - region: London
+    base_low: 149000
+    base_high: 189000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 149000
+    total_comp_high: 189000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Netflix Product Designer = Google UX L4-L5 = Meta Product Designer (IC4-IC5) = Apple Design = Amazon UX Design
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture"
+---
 ### Product Designer | Netflix Global Negotiation Guide
 
 **Negotiation DNA:** All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture

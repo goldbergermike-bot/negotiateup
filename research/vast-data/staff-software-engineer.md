@@ -1,3 +1,50 @@
+---
+company: vast-data
+company_display: Vast Data
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 225000
+    base_high: 280000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 312000
+    total_comp_high: 435000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: 50000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 290000
+    total_comp_high: 405000
+    currency: USD
+  - region: Remote US
+    base_low: 215000
+    base_high: 270000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 300000
+    total_comp_high: 420000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Vast Data Staff Software Engineer = Google L6 / Meta E6 / Amazon Principal SDE / Microsoft 65–67 / Apple ICT5 / Snowflake (pre-IPO) Staff / Databricks Staff"
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Staff-Level Premium"
+---
 ### Staff Software Engineer | Vast Data Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Staff-Level Premium

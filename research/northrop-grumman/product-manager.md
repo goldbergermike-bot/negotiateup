@@ -1,3 +1,49 @@
+---
+company: northrop-grumman
+company_display: Northrop Grumman
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Falls Church, VA"
+    base_low: 125000
+    base_high: 175000
+    stock_low: 28000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 235000
+    currency: USD
+  - region: "Redondo Beach, CA"
+    base_low: 130000
+    base_high: 180000
+    stock_low: 28000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 240000
+    currency: USD
+  - region: "Huntsville, AL"
+    base_low: 120000
+    base_high: 170000
+    stock_low: 26000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 225000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Northrop PM = L3Harris PM = Lockheed PM -- defense PM with space systems complexity adds premium
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense + Tech Premium | $75B Market Cap | Space/Defense Product Strategy | Standard 40-45 Hour Culture"
+---
 ### Product Manager | Northrop Grumman Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense + Tech Premium | $75B Market Cap | Space/Defense Product Strategy | Standard 40-45 Hour Culture

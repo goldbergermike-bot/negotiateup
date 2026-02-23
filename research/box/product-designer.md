@@ -1,3 +1,48 @@
+---
+company: box
+company_display: Box
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 142000
+    base_high: 178000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 222000
+    currency: USD
+  - region: New York
+    base_low: 146000
+    base_high: 187000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 233000
+    currency: USD
+  - region: London
+    base_low: 104000
+    base_high: 130000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 121000
+    total_comp_high: 163000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Box Product Designer = Google UX Designer L3–L4 = Dropbox Product Designer = Figma Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management"
+---
 ### Product Designer | Box Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management

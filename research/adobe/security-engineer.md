@@ -1,3 +1,51 @@
+---
+company: adobe
+company_display: Adobe
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 172000
+    base_high: 212000
+    stock_low: 165000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 288000
+    currency: USD
+  - region: London
+    base_low: 112000
+    base_high: 138000
+    stock_low: 99000
+    stock_high: 167000
+    bonus_pct: 10
+    total_comp_low: 142000
+    total_comp_high: 187000
+    currency: GBP
+  - region: Bangalore
+    base_low: 5200000
+    base_high: 6300000
+    stock_low: 4100000
+    stock_high: 8300000
+    bonus_pct: 10
+    total_comp_low: 6500000
+    total_comp_high: 8600000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)"
+---
 ### Security Engineer | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)

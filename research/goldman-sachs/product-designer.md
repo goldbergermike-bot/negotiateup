@@ -1,3 +1,51 @@
+---
+company: goldman-sachs
+company_display: Goldman Sachs
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 120000
+    base_high: 165000
+    stock_low: 32000
+    stock_high: 52000
+    bonus_low: 26000
+    bonus_high: 38000
+    total_comp_low: 178000
+    total_comp_high: 255000
+    currency: USD
+  - region: London
+    base_low: 91000
+    base_high: 125000
+    stock_low: 24000
+    stock_high: 39000
+    bonus_low: 20000
+    bonus_high: 29000
+    total_comp_low: 135000
+    total_comp_high: 193000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 2800000
+    base_high: 4200000
+    stock_low: 1000000
+    stock_high: 1500000
+    bonus_low: 700000
+    bonus_high: 1000000
+    total_comp_low: 4500000
+    total_comp_high: 6700000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Marquee UX` `Financial Data Visualization` `Institutional Client Experience`"
+---
 ### Product Designer | Goldman Sachs Global Negotiation Guide
 
 **Negotiation DNA:** `Picks & Shovels` `Active AWM Alpha` `AI Market Dispersion` `Public Equity (NYSE: GS)` `$2.8T+ AUM` `Marquee UX` `Financial Data Visualization` `Institutional Client Experience`

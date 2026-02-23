@@ -1,3 +1,50 @@
+---
+company: capital-one
+company_display: Capital One
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: McLean VA (HQ)
+    base_low: 175000
+    base_high: 235000
+    stock_low: 120000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 395000
+    currency: USD
+  - region: New York City
+    base_low: 185000
+    base_high: 250000
+    stock_low: 130000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 425000
+    currency: USD
+  - region: San Francisco
+    base_low: 180000
+    base_high: 245000
+    stock_low: 125000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 415000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at Capital One (Director/Sr Director) = L6-L7 at Google, M1-M2 at Meta, SDM-Principal SDM at Amazon, SVP/Director at BofA/JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$68B market cap TECH-FIRST bank + Big Tech engineering culture + McLean VA HQ + EM comp competitive with Google/Amazon | Capital One EMs build tech-company engineering orgs inside banking | **TECH-FIRST EM PREMIUM**"
+---
 ### Engineering Manager | Capital One Global Negotiation Guide
 
 **Negotiation DNA:** $68B market cap TECH-FIRST bank + Big Tech engineering culture + McLean VA HQ + EM comp competitive with Google/Amazon | Capital One EMs build tech-company engineering orgs inside banking | **TECH-FIRST EM PREMIUM**

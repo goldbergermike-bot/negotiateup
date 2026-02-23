@@ -1,3 +1,53 @@
+---
+company: gocardless
+company_display: Gocardless
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 105000
+    base_high: 140000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 167000
+    total_comp_high: 262000
+    currency: GBP
+  - region: San Francisco
+    base_low: 200000
+    base_high: 260000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 295000
+    total_comp_high: 440000
+    currency: USD
+  - region: Melbourne
+    base_low: 170000
+    base_high: 220000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_low: 18000
+    bonus_high: 30000
+    total_comp_low: 243000
+    total_comp_high: 350000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: "| GoCardless | Google | Meta | Stripe | Wise | Adyen |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `Staff IC` `Technical Leadership`"
+---
 ### Staff Software Engineer | GoCardless Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `Staff IC` `Technical Leadership`

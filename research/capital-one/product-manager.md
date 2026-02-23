@@ -1,3 +1,50 @@
+---
+company: capital-one
+company_display: Capital One
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: McLean VA (HQ)
+    base_low: 160000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 345000
+    currency: USD
+  - region: New York City
+    base_low: 170000
+    base_high: 228000
+    stock_low: 100000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 370000
+    currency: USD
+  - region: San Francisco
+    base_low: 165000
+    base_high: 222000
+    stock_low: 95000
+    stock_high: 242000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 358000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Manager at Capital One (Director/Sr Director) = L5-L6 at Google, IC5-IC6 at Meta, Sr PM-Principal PM at Amazon, SVP/Director at BofA/JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$68B market cap TECH-FIRST bank + PM drives data-driven product strategy + McLean VA HQ + Comp competitive with Big Tech PM | Capital One PMs operate like tech company PMs with banking impact | **TECH-FIRST PM PREMIUM**"
+---
 ### Product Manager | Capital One Global Negotiation Guide
 
 **Negotiation DNA:** $68B market cap TECH-FIRST bank + PM drives data-driven product strategy + McLean VA HQ + Comp competitive with Big Tech PM | Capital One PMs operate like tech company PMs with banking impact | **TECH-FIRST PM PREMIUM**

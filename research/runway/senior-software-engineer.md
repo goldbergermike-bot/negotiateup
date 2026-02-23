@@ -1,3 +1,50 @@
+---
+company: runway
+company_display: Runway
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 185000
+    base_high: 250000
+    stock_low: 150000
+    stock_high: 375000
+    bonus_pct: null
+    total_comp_low: 223000
+    total_comp_high: 344000
+    currency: USD
+  - region: San Francisco
+    base_low: 185000
+    base_high: 250000
+    stock_low: 150000
+    stock_high: 375000
+    bonus_pct: null
+    total_comp_low: 223000
+    total_comp_high: 344000
+    currency: USD
+  - region: Remote US
+    base_low: 167000
+    base_high: 225000
+    stock_low: 135000
+    stock_high: 338000
+    bonus_pct: null
+    total_comp_low: 201000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Runway Senior SWE = Google L5 = Meta E5 = Amazon SDE III = Startup Senior/Staff SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | Creative AI Pioneer"
+---
 ### Senior Software Engineer | Runway Global Negotiation Guide
 
 **Negotiation DNA:** Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | Creative AI Pioneer

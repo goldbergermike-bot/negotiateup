@@ -1,3 +1,47 @@
+---
+company: crowdstrike
+company_display: CrowdStrike
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 370000
+    currency: USD
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 405000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 190000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "ML/AI Engineers at CrowdStrike build and deploy the machine learning models, AI agent architectures, and inference systems that power the Agentic Security Platform — designing the autonomous Orchestrators of the Agentic SOC that detect, investigate, and respond to threats at machine speed."
+---
 ### ML/AI Engineer — CrowdStrike Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at CrowdStrike build and deploy the machine learning models, AI agent architectures, and inference systems that power the Agentic Security Platform — designing the autonomous Orchestrators of the Agentic SOC that detect, investigate, and respond to threats at machine speed.

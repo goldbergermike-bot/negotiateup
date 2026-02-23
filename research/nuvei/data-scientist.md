@@ -1,3 +1,52 @@
+---
+company: nuvei
+company_display: Nuvei
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montreal
+    base_low: 115000
+    base_high: 160000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 157000
+    total_comp_high: 250000
+    currency: CAD
+  - region: New York
+    base_low: 145000
+    base_high: 205000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 203000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: 80000
+    base_high: 115000
+    stock_low: 18000
+    stock_high: 42000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 108000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Nuvei | Google | Meta | Stripe | Adyen | Global Payments |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Analytics` `Fraud Detection` `Montreal HQ`"
+---
 ### Data Scientist | Nuvei Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Analytics` `Fraud Detection` `Montreal HQ`

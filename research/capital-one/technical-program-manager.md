@@ -1,3 +1,50 @@
+---
+company: capital-one
+company_display: Capital One
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: McLean VA (HQ)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 325000
+    currency: USD
+  - region: New York City
+    base_low: 165000
+    base_high: 222000
+    stock_low: 90000
+    stock_high: 225000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 350000
+    currency: USD
+  - region: San Francisco
+    base_low: 160000
+    base_high: 218000
+    stock_low: 85000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 338000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "TPM at Capital One (Director/Sr Director) = L5-L6 TPM at Google, E5-E6 TPM at Meta, Sr TPM-Principal TPM at Amazon, SVP/Director at BofA/JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$68B market cap TECH-FIRST bank + TPMs coordinate tech-company-style programs + McLean VA HQ + Comp competitive with Big Tech TPMs | Capital One TPMs drive programs at tech-company velocity | **TECH-FIRST TPM PREMIUM**"
+---
 ### Technical Program Manager | Capital One Global Negotiation Guide
 
 **Negotiation DNA:** $68B market cap TECH-FIRST bank + TPMs coordinate tech-company-style programs + McLean VA HQ + Comp competitive with Big Tech TPMs | Capital One TPMs drive programs at tech-company velocity | **TECH-FIRST TPM PREMIUM**

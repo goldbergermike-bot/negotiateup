@@ -1,3 +1,48 @@
+---
+company: sophos
+company_display: Sophos
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US Remote
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 320000
+    currency: USD
+  - region: Abingdon UK
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 50000
+    total_comp_high: 133000
+    currency: GBP
+  - region: Vancouver
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 113000
+    total_comp_high: 268000
+    currency: CAD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Data Engineers at Sophos build the data pipelines and analytics infrastructure that process threat telemetry from over 100 million endpoints, powering Sophos's detection models, Sophos Central management platform, and Managed Detection and Response service."
+---
 ### Data Engineer — Sophos Salary Negotiation Guide
 
 **Negotiation DNA**: Data Engineers at Sophos build the data pipelines and analytics infrastructure that process threat telemetry from over 100 million endpoints, powering Sophos's detection models, Sophos Central management platform, and Managed Detection and Response service.

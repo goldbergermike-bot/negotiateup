@@ -1,3 +1,50 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 115000
+    base_high: 155000
+    stock_low: 250000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 178000
+    total_comp_high: 268000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 231000
+    stock_high: 415000
+    bonus_pct: null
+    total_comp_low: 164000
+    total_comp_high: 247000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 250000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 166000
+    total_comp_high: 252000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Mistral Staff SWE = Google L5 Paris = DeepMind Staff SWE = Meta FAIR Staff SWE = Anthropic Staff (L5). Google L5 Paris total comp ranges €200K-€300K+; DeepMind Staff in London ranges £180K-£270K. At Staff level, Mistral must match Big Tech liquid comp plus offer meaningful pre-IPO upside."
+data_sources:
+  - Levels.fyi
+  - Crunchbase
+  - LinkedIn
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium"
+---
 ### Staff Software Engineer | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium

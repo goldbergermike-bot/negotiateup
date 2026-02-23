@@ -1,3 +1,49 @@
+---
+company: figma
+company_display: Figma
+role: ai-design-platform-engineer
+role_display: AI Design Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 220000
+    base_high: 290000
+    stock_low: 320000
+    stock_high: 550000
+    bonus_pct: 5
+    total_comp_low: 370000
+    total_comp_high: 570000
+    currency: USD
+  - region: New York
+    base_low: 220000
+    base_high: 290000
+    stock_low: 320000
+    stock_high: 550000
+    bonus_pct: 5
+    total_comp_low: 370000
+    total_comp_high: 570000
+    currency: USD
+  - region: London
+    base_low: 168000
+    base_high: 221000
+    stock_low: 243000
+    stock_high: 418000
+    bonus_pct: 5
+    total_comp_low: 282000
+    total_comp_high: 434000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Figma AI Design Platform Engineer = Google L5-L6 ML Platform Engineer = Adobe Firefly Core Engineer = Meta E5-E6 AI Research Engineer = Midjourney Core ML Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "AI-Premium Base + Major Equity Stake | Design Platform Pioneer | **SIGNATURE ROLE** | **+20-30% GENERATIVE DESIGN AI PREMIUM**"
+---
 ### AI Design Platform Engineer | Figma Global Negotiation Guide
 
 **Negotiation DNA:** AI-Premium Base + Major Equity Stake | Design Platform Pioneer | **SIGNATURE ROLE** | **+20-30% GENERATIVE DESIGN AI PREMIUM**

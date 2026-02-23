@@ -1,3 +1,39 @@
+---
+company: zipline
+company_display: Zipline
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: South San Francisco / Bay Area
+    base_low: 155000
+    base_high: 215000
+    stock_low: 78000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: 142000
+    base_high: 200000
+    stock_low: 68000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zipline TPM (TPM2-TPM3) = Wing TPM = Amazon Prime Air TPM = Google L4-L5 TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Drone Delivery (Medical Supplies) | $4.2B Valuation | South San Francisco | **DRONE PROGRAM PREMIUM**"
+---
 ### Technical Program Manager | Zipline Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Drone Delivery (Medical Supplies) | $4.2B Valuation | South San Francisco | **DRONE PROGRAM PREMIUM**

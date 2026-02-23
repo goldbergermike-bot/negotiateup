@@ -1,3 +1,70 @@
+---
+company: google
+company_display: Google
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 165000
+    base_high: 245000
+    stock_low: 160000
+    stock_high: 420000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 430000
+    currency: USD
+  - region: New York City
+    base_low: 160000
+    base_high: 240000
+    stock_low: 150000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 415000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 155000
+    base_high: 230000
+    stock_low: 145000
+    stock_high: 390000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 400000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 170000
+    stock_low: 100000
+    stock_high: 270000
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 300000
+    currency: GBP
+  - region: Zurich
+    base_low: 150000
+    base_high: 230000
+    stock_low: 140000
+    stock_high: 350000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 390000
+    currency: CHF
+level_mapping:
+  internal: null
+  raw: "Data Scientist at Google (L4-L5) = IC4-IC5 at Meta, L62-L64 at Microsoft, DS II-Senior at Amazon, Research Scientist at DeepMind/Anthropic, Senior-Staff at Netflix"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Unparalleled data scale (Search, YouTube, Ads) + Research publication culture + Strong RSU packages | Google's data volume creates unique career value | **SCALE & RESEARCH PREMIUM**"
+---
 ### Data Scientist | Google Global Negotiation Guide
 
 **Negotiation DNA:** Unparalleled data scale (Search, YouTube, Ads) + Research publication culture + Strong RSU packages | Google's data volume creates unique career value | **SCALE & RESEARCH PREMIUM**

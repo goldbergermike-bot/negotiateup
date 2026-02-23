@@ -1,3 +1,53 @@
+---
+company: pleo
+company_display: Pleo
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Copenhagen
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 68000
+    base_high: 92000
+    stock_low: 19000
+    stock_high: 38000
+    bonus_low: 6000
+    bonus_high: 10000
+    total_comp_low: 93000
+    total_comp_high: 140000
+    currency: GBP
+  - region: Berlin
+    base_low: 65000
+    base_high: 88000
+    stock_low: 18000
+    stock_high: 35000
+    bonus_low: 5000
+    bonus_high: 9000
+    total_comp_low: 88000
+    total_comp_high: 132000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Pleo | Google | Meta | Stripe | Spendesk | Brex |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Real-Time Yield` `Fintech` `Spend Management` `European Scale` `Pre-IPO` `Cash-Management Yield` `Infrastructure` `Platform Reliability`"
+---
 ### DevOps Engineer | Pleo Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Real-Time Yield` `Fintech` `Spend Management` `European Scale` `Pre-IPO` `Cash-Management Yield` `Infrastructure` `Platform Reliability`

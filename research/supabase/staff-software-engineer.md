@@ -1,3 +1,49 @@
+---
+company: supabase
+company_display: Supabase
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 240000
+    base_high: 300000
+    stock_low: 350000
+    stock_high: 600000
+    bonus_pct: 10
+    total_comp_low: 385000
+    total_comp_high: 555000
+    currency: USD
+  - region: Remote US
+    base_low: 230000
+    base_high: 290000
+    stock_low: 350000
+    stock_high: 600000
+    bonus_pct: 10
+    total_comp_low: 373000
+    total_comp_high: 540000
+    currency: USD
+  - region: London
+    base_low: 183000
+    base_high: 228000
+    stock_low: 266000
+    stock_high: 456000
+    bonus_pct: 10
+    total_comp_low: 293000
+    total_comp_high: 422000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Supabase Staff SWE = Google L6 = Meta E6 = PlanetScale Staff Engineer = CockroachDB Staff Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "High Base + Significant Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Native Backend Platform Architecture"
+---
 ### Staff Software Engineer | Supabase Global Negotiation Guide
 
 **Negotiation DNA:** High Base + Significant Pre-IPO Equity | Firebase Alternative Pioneer | 2026 Focus: AI-Native Backend Platform Architecture

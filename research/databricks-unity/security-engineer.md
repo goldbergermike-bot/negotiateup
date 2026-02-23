@@ -1,3 +1,48 @@
+---
+company: databricks-unity
+company_display: Databricks Unity
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 248000
+    stock_low: 182000
+    stock_high: 318000
+    bonus_pct: 12
+    total_comp_low: 278000
+    total_comp_high: 392000
+    currency: USD
+  - region: New York
+    base_low: 202000
+    base_high: 255000
+    stock_low: 182000
+    stock_high: 318000
+    bonus_pct: 12
+    total_comp_low: 285000
+    total_comp_high: 398000
+    currency: USD
+  - region: London
+    base_low: 132000
+    base_high: 172000
+    stock_low: 122000
+    stock_high: 212000
+    bonus_pct: 12
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Databricks SecEng (L3-L4) = Snowflake SecEng = Google SecEng L4-L5 = Meta SecEng E4-E5 = Amazon SecEng L5-L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Unity Catalog Data Governance Security | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Security Engineer | Databricks Unity Global Negotiation Guide
 
 **Negotiation DNA:** Unity Catalog Data Governance Security | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**

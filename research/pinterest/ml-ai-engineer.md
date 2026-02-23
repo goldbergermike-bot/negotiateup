@@ -1,3 +1,48 @@
+---
+company: pinterest
+company_display: Pinterest
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 248000
+    stock_low: 200000
+    stock_high: 380000
+    bonus_pct: 12
+    total_comp_low: 248000
+    total_comp_high: 345000
+    currency: USD
+  - region: New York
+    base_low: 188000
+    base_high: 240000
+    stock_low: 190000
+    stock_high: 360000
+    bonus_pct: 12
+    total_comp_low: 238000
+    total_comp_high: 332000
+    currency: USD
+  - region: Remote US
+    base_low: 172000
+    base_high: 222000
+    stock_low: 168000
+    stock_high: 325000
+    bonus_pct: 12
+    total_comp_low: 215000
+    total_comp_high: 302000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Pinterest ML/AI Engineer (L4–L6) = Google ML Engineer L4–L6 = Meta ML Engineer (IC4–IC6) = Amazon Applied Scientist II–III = Apple ML Engineer = OpenAI Research Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | **+15–25% AI Premium** | ML/AI Talent War Premium | Standard 4-year vest with 1-year cliff"
+---
 ### ML/AI Engineer | Pinterest Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | **+15–25% AI Premium** | ML/AI Talent War Premium | Standard 4-year vest with 1-year cliff

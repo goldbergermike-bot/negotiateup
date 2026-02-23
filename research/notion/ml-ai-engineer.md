@@ -1,3 +1,48 @@
+---
+company: notion
+company_display: Notion
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 260000
+    stock_low: 250000
+    stock_high: 420000
+    bonus_pct: 10
+    total_comp_low: 320000
+    total_comp_high: 460000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 255000
+    stock_low: 245000
+    stock_high: 410000
+    bonus_pct: 10
+    total_comp_low: 312000
+    total_comp_high: 448000
+    currency: USD
+  - region: London
+    base_low: 135000
+    base_high: 175000
+    stock_low: 165000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 305000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Notion ML/AI (L3-L5) = Google ML L4-L6 = Meta ML E4-E6 = OpenAI ML = Anthropic ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$10B Valuation) + Bonus | Workspace AI & LLM Integration | 100M+ Users | **NOTION AI PREMIUM**"
+---
 ### ML/AI Engineer | Notion Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$10B Valuation) + Bonus | Workspace AI & LLM Integration | 100M+ Users | **NOTION AI PREMIUM**

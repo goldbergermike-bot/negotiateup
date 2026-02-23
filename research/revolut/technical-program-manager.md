@@ -1,3 +1,48 @@
+---
+company: revolut
+company_display: Revolut
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":gb: London (GBP)"
+    base_low: 80000
+    base_high: 125000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 255000
+    currency: GBP
+  - region: ":lt: Vilnius (EUR)"
+    base_low: 55000
+    base_high: 90000
+    stock_low: 30000
+    stock_high: 90000
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 180000
+    currency: EUR
+  - region: ":us: New York (USD)"
+    base_low: 145000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 220000
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 430000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a technical program management compensation framework spanning London, Vilnius, and New York markets. Technical Program Managers at Revolut orchestrate the cross-functional execution that transforms strategy into shipped products — you are the connective tissue between engineering, product, compliance, and business teams, ensuring the $9B revenue engine runs on schedule and the IPO Readi"
+---
 ### Technical Program Manager — Revolut Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a technical program management compensation framework spanning London, Vilnius, and New York markets. Technical Program Managers at Revolut orchestrate the cross-functional execution that transforms strategy into shipped products — you are the connective tissue between engineering, product, compliance, and business teams, ensuring the $9B revenue engine runs on schedule and the IPO Readiness milestones are hit.

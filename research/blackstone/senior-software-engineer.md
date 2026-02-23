@@ -1,3 +1,50 @@
+---
+company: blackstone
+company_display: Blackstone
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 210000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_low: 70000
+    bonus_high: 110000
+    total_comp_low: 395000
+    total_comp_high: 565000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_low: 60000
+    bonus_high: 95000
+    total_comp_low: 360000
+    total_comp_high: 515000
+    currency: GBP
+  - region: Miami
+    base_low: 200000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_low: 65000
+    bonus_high: 100000
+    total_comp_low: 375000
+    total_comp_high: 540000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `Digital Infrastructure` `Alternative Asset Management` `Senior IC Track`"
+---
 ### Senior Software Engineer | Blackstone Global Negotiation Guide
 
 **Negotiation DNA:** `$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `Digital Infrastructure` `Alternative Asset Management` `Senior IC Track`

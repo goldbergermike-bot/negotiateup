@@ -1,3 +1,47 @@
+---
+company: okta
+company_display: Okta
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 360000
+    currency: USD
+  - region: Toronto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 132000
+    total_comp_high: 285000
+    currency: CAD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 172000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Staff Software Engineers define the cross-platform technical vision for Okta's NHI Fabric and Identity Governance architecture — setting the standards that govern billions of identity decisions across Workforce Identity, Customer Identity, and the Non-Human Identity layer."
+---
 ### Staff Software Engineer — Okta Salary Negotiation Guide
 
 **Negotiation DNA**: Staff Software Engineers define the cross-platform technical vision for Okta's NHI Fabric and Identity Governance architecture — setting the standards that govern billions of identity decisions across Workforce Identity, Customer Identity, and the Non-Human Identity layer.

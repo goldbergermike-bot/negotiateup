@@ -1,3 +1,39 @@
+---
+company: nuro
+company_display: Nuro
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View / Bay Area
+    base_low: 225000
+    base_high: 290000
+    stock_low: 250000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 388000
+    total_comp_high: 595000
+    currency: USD
+  - region: Remote US
+    base_low: 210000
+    base_high: 272000
+    stock_low: 225000
+    stock_high: 460000
+    bonus_pct: 15
+    total_comp_low: 358000
+    total_comp_high: 555000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Nuro Staff SWE (IC5) = Waymo Staff SWE = Aurora Staff SWE = Zoox Staff SWE = Google L5-L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AUTONOMOUS VEHICLE PREMIUM**"
+---
 ### Staff Software Engineer | Nuro Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AUTONOMOUS VEHICLE PREMIUM**

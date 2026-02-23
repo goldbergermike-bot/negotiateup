@@ -1,3 +1,53 @@
+---
+company: airbase
+company_display: Airbase
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 210000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 245000
+    total_comp_high: 375000
+    currency: USD
+  - region: Bangalore
+    base_low: 3200000
+    base_high: 5000000
+    stock_low: 1500000
+    stock_high: 3200000
+    bonus_low: 400000
+    bonus_high: 800000
+    total_comp_low: 5100000
+    total_comp_high: 9000000
+    currency: INR
+  - region: New York
+    base_low: 170000
+    base_high: 215000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 250000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Airbase | Google | Meta | Stripe | Bill.com | Coupa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Product Strategy` `Mid-Market/Enterprise`"
+---
 ### Product Manager | Airbase Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Product Strategy` `Mid-Market/Enterprise`

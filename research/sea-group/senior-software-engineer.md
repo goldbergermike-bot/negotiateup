@@ -1,3 +1,59 @@
+---
+company: sea-group
+company_display: Sea Group
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 135000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 320000
+    currency: USD
+  - region: Bay Area / Seattle (US)
+    base_low: 160000
+    base_high: 225000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 360000
+    currency: USD
+  - region: "Shenzhen (R&D)"
+    base_low: 430000
+    base_high: 770000
+    stock_low: 170000
+    stock_high: 460000
+    bonus_pct: 10
+    total_comp_low: 600000
+    total_comp_high: 1100000
+    currency: CNY
+  - region: Jakarta
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Senior SWE at Sea Group (L6-L7) = L5 at Google, IC5 at Meta, SDE III at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$35B market cap with senior comp competitive in Singapore + Technical leadership across Shopee, Garena, SeaMoney + Aggressive RSU grants with NYSE liquidity | Senior engineers at Sea Group lead critical systems across e-commerce, gaming, and fintech | **GROWTH-STAGE SENIOR PREMIUM**"
+---
 ### Senior Software Engineer | Sea Group Global Negotiation Guide
 
 **Negotiation DNA:** $35B market cap with senior comp competitive in Singapore + Technical leadership across Shopee, Garena, SeaMoney + Aggressive RSU grants with NYSE liquidity | Senior engineers at Sea Group lead critical systems across e-commerce, gaming, and fintech | **GROWTH-STAGE SENIOR PREMIUM**

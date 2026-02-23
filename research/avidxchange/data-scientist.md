@@ -1,3 +1,52 @@
+---
+company: avidxchange
+company_display: Avidxchange
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte NC
+    base_low: 130000
+    base_high: 165000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_low: 13000
+    bonus_high: 25000
+    total_comp_low: 188000
+    total_comp_high: 280000
+    currency: USD
+  - region: Atlanta GA
+    base_low: 135000
+    base_high: 170000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_low: 14000
+    bonus_high: 26000
+    total_comp_low: 194000
+    total_comp_high: 286000
+    currency: USD
+  - region: Remote US
+    base_low: 125000
+    base_high: 160000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 12000
+    bonus_high: 23000
+    total_comp_low: 177000
+    total_comp_high: 263000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| AvidXchange | Google | Meta | Stripe | Bill.com | PayPal |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NASDAQ: AVDX` `Purposeful AI` `Mid-Market AP Automation` `AvidPay Network` `Charlotte NC Hub` `RSU/4yr Vesting` `Enterprise Tier` `Knowledge Discovery` `Analytics` `Payment Intelligence`"
+---
 ### Data Scientist | AvidXchange Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: AVDX` `Purposeful AI` `Mid-Market AP Automation` `AvidPay Network` `Charlotte NC Hub` `RSU/4yr Vesting` `Enterprise Tier` `Knowledge Discovery` `Analytics` `Payment Intelligence`

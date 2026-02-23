@@ -1,3 +1,52 @@
+---
+company: tastytrade
+company_display: Tastytrade
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 115000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_low: 17000
+    bonus_high: 28000
+    total_comp_low: 152000
+    total_comp_high: 218000
+    currency: USD
+  - region: New York
+    base_low: 127000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_low: 19000
+    bonus_high: 31000
+    total_comp_low: 168000
+    total_comp_high: 239000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 118000
+    stock_low: 16000
+    stock_high: 27000
+    bonus_low: 13000
+    bonus_high: 21000
+    total_comp_low: 117000
+    total_comp_high: 166000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Options Pricing Systems` `Real-Time Market Data` `Greeks Computation`"
+---
 ### Software Engineer | Tastytrade Global Negotiation Guide
 
 **Negotiation DNA:** `Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Options Pricing Systems` `Real-Time Market Data` `Greeks Computation`

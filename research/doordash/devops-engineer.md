@@ -1,3 +1,48 @@
+---
+company: doordash
+company_display: DoorDash
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 222000
+    stock_low: 165000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 298000
+    currency: USD
+  - region: New York City
+    base_low: 178000
+    base_high: 222000
+    stock_low: 165000
+    stock_high: 288000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 298000
+    currency: USD
+  - region: Sydney
+    base_low: 146000
+    base_high: 183000
+    stock_low: 108000
+    stock_high: 188000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 242000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: DoorDash DevOps Eng = Google L3-L4 SRE = Uber Infrastructure Eng = Meta Production Eng = Instacart Platform Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion"
+---
 ### DevOps Engineer | DoorDash Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion

@@ -1,3 +1,49 @@
+---
+company: akamai
+company_display: Akamai
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge (MA)
+    base_low: 140000
+    base_high: 170000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 245000
+    currency: USD
+  - region: San Francisco
+    base_low: 150000
+    base_high: 180000
+    stock_low: 60000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 262000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 158000
+    stock_low: 48000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 230000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Akamai Data Engineer = Google Data Engineer L4–L5 / Meta Data Engineer (IC4–IC5) / Amazon Data Engineer (L5–L6)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Data Infrastructure Premium"
+---
 ### Data Engineer | Akamai Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Data Infrastructure Premium

@@ -1,3 +1,39 @@
+---
+company: faire
+company_display: Faire
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 178000
+    base_high: 235000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 405000
+    currency: USD
+  - region: Remote US
+    base_low: 170000
+    base_high: 225000
+    stock_low: 112000
+    stock_high: 282000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Faire EM = Google EM L5 = Meta M1 = Shopify EM = Amazon SDM II
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Startup Comp | Private $12B Valuation | B2B Wholesale Pioneer | Pre-IPO Upside"
+---
 ### Engineering Manager | Faire Global Negotiation Guide
 
 **Negotiation DNA:** Strong Startup Comp | Private $12B Valuation | B2B Wholesale Pioneer | Pre-IPO Upside

@@ -1,3 +1,48 @@
+---
+company: servicetitan
+company_display: Servicetitan
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles / Glendale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 335000
+    currency: USD
+  - region: Atlanta / Secondary
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 300000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Security Engineers at ServiceTitan protect the platform that tens of thousands of contractors trust with their business operations, customer data, and financial transactions — with post-IPO public market scrutiny adding urgency to security posture."
+---
 ### Security Engineer — ServiceTitan Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at ServiceTitan protect the platform that tens of thousands of contractors trust with their business operations, customer data, and financial transactions — with post-IPO public market scrutiny adding urgency to security posture.

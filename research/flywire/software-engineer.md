@@ -1,3 +1,48 @@
+---
+company: flywire
+company_display: Flywire
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (USD)
+    base_low: 120000
+    base_high: 155000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 255000
+    currency: USD
+  - region: New York (USD)
+    base_low: 130000
+    base_high: 165000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 275000
+    currency: USD
+  - region: London (GBP)
+    base_low: 70000
+    base_high: 95000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_pct: null
+    total_comp_low: 100000
+    total_comp_high: 155000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Flywire's Invisible Pay transformation, translating the Feb 2026 David King predictions and Feb 3 Simovative partnership into a software engineering compensation framework spanning Boston, New York, and London markets."
+---
 ### Software Engineer — Flywire Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Flywire's Invisible Pay transformation, translating the Feb 2026 David King predictions and Feb 3 Simovative partnership into a software engineering compensation framework spanning Boston, New York, and London markets.

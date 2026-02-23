@@ -1,3 +1,47 @@
+---
+company: splunk-cisco
+company_display: Splunk (Cisco)
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 350000
+    currency: USD
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 340000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Technical Program Managers at Splunk (Cisco) orchestrate the cross-functional delivery of AgenticOps and Visibility-to-Remediation programs, commanding premium compensation for driving the most complex initiatives across the combined Cisco-Splunk organization."
+---
 ### Technical Program Manager — Splunk (Cisco) Salary Negotiation Guide
 
 **Negotiation DNA**: Technical Program Managers at Splunk (Cisco) orchestrate the cross-functional delivery of AgenticOps and Visibility-to-Remediation programs, commanding premium compensation for driving the most complex initiatives across the combined Cisco-Splunk organization.

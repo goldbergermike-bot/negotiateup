@@ -1,3 +1,53 @@
+---
+company: paypal
+company_display: Paypal
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 195000
+    base_high: 260000
+    stock_low: 200000
+    stock_high: 380000
+    bonus_low: 30000
+    bonus_high: 50000
+    total_comp_low: 425000
+    total_comp_high: 690000
+    currency: USD
+  - region: New York NY
+    base_low: 190000
+    base_high: 255000
+    stock_low: 190000
+    stock_high: 360000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 408000
+    total_comp_high: 663000
+    currency: USD
+  - region: London UK
+    base_low: 115000
+    base_high: 160000
+    stock_low: 100000
+    stock_high: 190000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 233000
+    total_comp_high: 382000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| PayPal | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: PYPL` `Engineering Manager` `M1-M2` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `People Leadership` `Payments Platform` `Venmo` `PYUSD`"
+---
 ### Engineering Manager | PayPal Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: PYPL` `Engineering Manager` `M1-M2` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `People Leadership` `Payments Platform` `Venmo` `PYUSD`

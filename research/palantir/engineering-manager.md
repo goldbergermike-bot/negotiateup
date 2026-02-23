@@ -1,3 +1,48 @@
+---
+company: palantir
+company_display: Palantir
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 170000
+    base_high: 210000
+    stock_low: 350000
+    stock_high: 560000
+    bonus_pct: null
+    total_comp_low: 258000
+    total_comp_high: 350000
+    currency: USD
+  - region: New York City
+    base_low: 175000
+    base_high: 215000
+    stock_low: 360000
+    stock_high: 570000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 358000
+    currency: USD
+  - region: London
+    base_low: 92000
+    base_high: 118000
+    stock_low: 175000
+    stock_high: 285000
+    bonus_pct: null
+    total_comp_low: 136000
+    total_comp_high: 189000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Palantir EM = Google L5 Manager = Meta M1 — but with customer deployment management added
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture"
+---
 ### Engineering Manager | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture

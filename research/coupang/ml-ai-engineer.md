@@ -1,3 +1,39 @@
+---
+company: coupang
+company_display: Coupang
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 165000
+    base_high: 228000
+    stock_low: 95000
+    stock_high: 255000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 365000
+    currency: USD
+  - region: Seattle
+    base_low: 160000
+    base_high: 220000
+    stock_low: 90000
+    stock_high: 245000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 352000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Coupang ML Engineer = Google ML Engineer L3-L4 = Amazon Applied Scientist = Meta ML Engineer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive US Comp | CPNG RSUs ($40B Market Cap) | **+5-10% ML PREMIUM** | Korean E-Commerce Leader"
+---
 ### ML/AI Engineer | Coupang Global Negotiation Guide
 
 **Negotiation DNA:** Competitive US Comp | CPNG RSUs ($40B Market Cap) | **+5-10% ML PREMIUM** | Korean E-Commerce Leader

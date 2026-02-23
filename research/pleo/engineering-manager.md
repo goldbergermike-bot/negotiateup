@@ -1,3 +1,53 @@
+---
+company: pleo
+company_display: Pleo
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Copenhagen
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 120000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_low: 9000
+    bonus_high: 14000
+    total_comp_low: 129000
+    total_comp_high: 194000
+    currency: GBP
+  - region: Berlin
+    base_low: 85000
+    base_high: 115000
+    stock_low: 28000
+    stock_high: 55000
+    bonus_low: 8000
+    bonus_high: 13000
+    total_comp_low: 121000
+    total_comp_high: 183000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Pleo | Google | Meta | Stripe | Spendesk | Brex |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Real-Time Yield` `Fintech` `Spend Management` `European Scale` `Pre-IPO` `Cash-Management Yield` `People Leadership` `Technical Management`"
+---
 ### Engineering Manager | Pleo Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Real-Time Yield` `Fintech` `Spend Management` `European Scale` `Pre-IPO` `Cash-Management Yield` `People Leadership` `Technical Management`

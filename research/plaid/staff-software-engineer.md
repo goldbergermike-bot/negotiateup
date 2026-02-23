@@ -1,3 +1,48 @@
+---
+company: plaid
+company_display: Plaid
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 248000
+    base_high: 312000
+    stock_low: 282000
+    stock_high: 498000
+    bonus_pct: 15
+    total_comp_low: 368000
+    total_comp_high: 518000
+    currency: USD
+  - region: New York
+    base_low: 242000
+    base_high: 305000
+    stock_low: 282000
+    stock_high: 498000
+    bonus_pct: 15
+    total_comp_low: 362000
+    total_comp_high: 508000
+    currency: USD
+  - region: Remote US
+    base_low: 228000
+    base_high: 288000
+    stock_low: 282000
+    stock_high: 498000
+    bonus_pct: 15
+    total_comp_low: 342000
+    total_comp_high: 482000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Plaid Staff SWE (IC5) = Stripe Staff SWE (L5) = Square Staff SWE (IC5) = Google L6 Fintech = Meta E6 = Netflix Senior SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**"
+---
 ### Staff Software Engineer | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**

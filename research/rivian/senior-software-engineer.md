@@ -1,3 +1,39 @@
+---
+company: rivian
+company_display: Rivian
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine (HQ)
+    base_low: 160000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 370000
+    currency: USD
+  - region: Palo Alto
+    base_low: 168000
+    base_high: 225000
+    stock_low: 135000
+    stock_high: 330000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 390000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rivian Senior Software Engineer = Google L4 = Meta E4 = Tesla Senior SWE = Apple ICT3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage EV Comp | Large Equity Grants (RIVN) | Mission-Driven Culture | EV Growth Upside"
+---
 ### Senior Software Engineer | Rivian Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage EV Comp | Large Equity Grants (RIVN) | Mission-Driven Culture | EV Growth Upside

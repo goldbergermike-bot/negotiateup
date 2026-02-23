@@ -1,3 +1,49 @@
+---
+company: github
+company_display: Github
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 200000
+    stock_low: 150000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 310000
+    currency: USD
+  - region: Seattle
+    base_low: 155000
+    base_high: 195000
+    stock_low: 145000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 300000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 140000
+    stock_low: 95000
+    stock_high: 155000
+    bonus_pct: 15
+    total_comp_low: 150000
+    total_comp_high: 215000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: GitHub TPM = Microsoft TPM (L63-L65) = Google TPM L5-L6 = Meta TPM IC5-IC6
+data_sources:
+  - Levels.fyi
+  - Hired
+negotiation_dna_summary: "Base + Microsoft RSU + Bonus | Copilot Cross-Team Delivery & Platform Coordination"
+---
 ### Technical Program Manager | GitHub Global Negotiation Guide
 
 **Negotiation DNA:** Base + Microsoft RSU + Bonus | Copilot Cross-Team Delivery & Platform Coordination

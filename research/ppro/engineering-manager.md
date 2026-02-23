@@ -1,3 +1,49 @@
+---
+company: ppro
+company_display: Ppro
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 95000
+    base_high: 130000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 230000
+    currency: GBP
+  - region: Munich (EUR)
+    base_low: 100000
+    base_high: 135000
+    stock_low: 48000
+    stock_high: 95000
+    bonus_pct: null
+    total_comp_low: 148000
+    total_comp_high: 230000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 130000
+    base_high: 175000
+    stock_low: 65000
+    stock_high: 125000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 300000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into an engineering management compensation framework spanning London, Munich, and Singapore markets."
+---
 ### Engineering Manager — PPRO Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into an engineering management compensation framework spanning London, Munich, and Singapore markets.

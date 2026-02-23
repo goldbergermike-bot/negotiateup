@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 175000
+    base_high: 225000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_low: 30000
+    bonus_high: 50000
+    total_comp_low: 325000
+    total_comp_high: 515000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 260000
+    stock_low: 160000
+    stock_high: 320000
+    bonus_low: 38000
+    bonus_high: 62000
+    total_comp_low: 398000
+    total_comp_high: 642000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 165000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_low: 22000
+    bonus_high: 40000
+    total_comp_low: 227000
+    total_comp_high: 375000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `People Leadership` `M1-M2 Equivalent`"
+---
 ### Engineering Manager | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `People Leadership` `M1-M2 Equivalent`

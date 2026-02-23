@@ -1,3 +1,49 @@
+---
+company: l3harris
+company_display: L3Harris
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Melbourne, FL"
+    base_low: 120000
+    base_high: 170000
+    stock_low: 25000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 225000
+    currency: USD
+  - region: "Salt Lake City, UT"
+    base_low: 115000
+    base_high: 165000
+    stock_low: 25000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+  - region: "Rochester, NY"
+    base_low: 115000
+    base_high: 165000
+    stock_low: 23000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: L3Harris PM = Raytheon PM = Northrop PM -- defense PM focuses on acquisition-driven product strategy
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Electronics Product Strategy | Standard 40-45 Hour Culture"
+---
 ### Product Manager | L3Harris Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Electronics Product Strategy | Standard 40-45 Hour Culture

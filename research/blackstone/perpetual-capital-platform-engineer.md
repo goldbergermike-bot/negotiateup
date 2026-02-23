@@ -1,3 +1,50 @@
+---
+company: blackstone
+company_display: Blackstone
+role: perpetual-capital-platform-engineer
+role_display: Perpetual Capital Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 310000
+    base_high: 395000
+    stock_low: null
+    stock_high: null
+    bonus_low: 115000
+    bonus_high: 175000
+    total_comp_low: 615000
+    total_comp_high: 895000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_low: 100000
+    bonus_high: 152000
+    total_comp_low: 560000
+    total_comp_high: 815000
+    currency: GBP
+  - region: Miami
+    base_low: 295000
+    base_high: 375000
+    stock_low: null
+    stock_high: null
+    bonus_low: 108000
+    bonus_high: 162000
+    total_comp_low: 580000
+    total_comp_high: 850000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `+25-35% Perpetual Capital Premium` `Platform Engineering` `Permanent Capital Vehicles` `BREIT/BCRED/BIP/BXPE`"
+---
 ### Perpetual Capital Platform Engineer | Blackstone Global Negotiation Guide
 
 **SIGNATURE ROLE**

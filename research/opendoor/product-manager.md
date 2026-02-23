@@ -1,3 +1,39 @@
+---
+company: opendoor
+company_display: Opendoor
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 150000
+    base_high: 208000
+    stock_low: 58000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 302000
+    currency: USD
+  - region: Remote US
+    base_low: 138000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Opendoor PM (PM1-PM2) = Zillow PM = Redfin PM = Compass PM = Google L4-L5 PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | iBuying + Real Estate Technology | ~$3B Market Cap (Public: OPEN) | San Francisco | **PROPTECH PRODUCT PREMIUM**"
+---
 ### Product Manager | Opendoor Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | iBuying + Real Estate Technology | ~$3B Market Cap (Public: OPEN) | San Francisco | **PROPTECH PRODUCT PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: wayfair
+company_display: Wayfair
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 190000
+    base_high: 248000
+    stock_low: 58000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 260000
+    stock_low: 62000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 355000
+    currency: USD
+  - region: Remote US
+    base_low: 171000
+    base_high: 223000
+    stock_low: 50000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 221000
+    total_comp_high: 304000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Wayfair Engineering Manager = Google EM L6 = Amazon SDM = Meta M1 = Apple EM3-EM4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Management Premium + Team Scale"
+---
 ### Engineering Manager | Wayfair Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Management Premium + Team Scale

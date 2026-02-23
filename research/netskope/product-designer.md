@@ -1,3 +1,56 @@
+---
+company: netskope
+company_display: Netskope
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 155000
+    base_high: 195000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: 10
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 200000
+    total_comp_high: 280000
+    currency: USD
+  - region: London
+    base_low: 78000
+    base_high: 105000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_pct: 10
+    signing_bonus_low: 8000
+    signing_bonus_high: 18000
+    total_comp_low: 105000
+    total_comp_high: 155000
+    currency: GBP
+  - region: Bangalore
+    base_low: 2500000
+    base_high: 3800000
+    stock_low: 1800000
+    stock_high: 3500000
+    bonus_pct: 10
+    signing_bonus_low: 300000
+    signing_bonus_high: 700000
+    total_comp_low: 3300000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Product Designer (IC3) | Netskope Design Band 3 | Equivalent: Google L4 UX, Meta IC4 Design, Palo Alto Networks Designer 3"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Post-IPO Cloud Security | UZTNA Platform UX | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation"
+---
 ### Product Designer | Netskope Global Negotiation Guide
 
 **Negotiation DNA:** Post-IPO Cloud Security | UZTNA Platform UX | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation

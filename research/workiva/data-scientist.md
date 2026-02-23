@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 120000
+    base_high: 170000
+    stock_low: 35000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 142000
+    total_comp_high: 222000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 135000
+    base_high: 188000
+    stock_low: 45000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 255000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 58000
+    base_high: 90000
+    stock_low: 16000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 68000
+    total_comp_high: 115000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 102000
+    base_high: 145000
+    stock_low: 26000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 118000
+    total_comp_high: 185000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 1600000
+    base_high: 3000000
+    stock_low: 700000
+    stock_high: 2000000
+    bonus_pct: 10
+    total_comp_low: 2200000
+    total_comp_high: 4000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva IC2/IC3 (DS) ~ Intuit Senior DS | ServiceNow Senior DS | Oracle Senior DS | Domo Senior/Lead DS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Compliance analytics & regulatory intelligence specialist | Connected reporting predictive modeling | **ANALYTICS PREMIUM**"
+---
 ### Data Scientist | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** Compliance analytics & regulatory intelligence specialist | Connected reporting predictive modeling | **ANALYTICS PREMIUM**

@@ -1,3 +1,49 @@
+---
+company: payerve
+company_display: Payerve
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dubai
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Riyadh
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Remote MENA
+    base_low: 110000
+    base_high: 155000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 13000
+    bonus_high: 25000
+    total_comp_low: 163000
+    total_comp_high: 260000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Payerve | Google | Meta | Stripe | Checkout.com | Thunes |"
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "`Private` `MENA Facilitator` `Payment Infrastructure` `Dubai HQ` `Growth-Stage Fintech` `Options Equity` `People Leadership` `Technical Management`"
+---
 ### Engineering Manager | Payerve Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `MENA Facilitator` `Payment Infrastructure` `Dubai HQ` `Growth-Stage Fintech` `Options Equity` `People Leadership` `Technical Management`

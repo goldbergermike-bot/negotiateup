@@ -1,3 +1,51 @@
+---
+company: sequoia
+company_display: Sequoia
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 255000
+    base_high: 320000
+    stock_low: null
+    stock_high: null
+    bonus_low: 185000
+    bonus_high: 268000
+    total_comp_low: 502000
+    total_comp_high: 668000
+    currency: USD
+  - region: San Francisco
+    base_low: 245000
+    base_high: 310000
+    stock_low: null
+    stock_high: null
+    bonus_low: 175000
+    bonus_high: 255000
+    total_comp_low: 475000
+    total_comp_high: 640000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 182000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_low: 125000
+    bonus_high: 185000
+    total_comp_low: 345000
+    total_comp_high: 475000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - LinkedIn
+  - Levels.fyi
+negotiation_dna_summary: "`Base $240K-$320K` | `Carry/Bonus $175K-$268K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `+15-25% AI Premium` | `Permanent Capital Structure` | `Elite VC Platform`"
+---
 ### ML/AI Engineer | Sequoia Global Negotiation Guide
 
 **Negotiation DNA:** `Base $240K-$320K` | `Carry/Bonus $175K-$268K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `+15-25% AI Premium` | `Permanent Capital Structure` | `Elite VC Platform`

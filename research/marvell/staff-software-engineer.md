@@ -1,3 +1,48 @@
+---
+company: marvell
+company_display: Marvell
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 205000
+    base_high: 260000
+    stock_low: 220000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 312000
+    total_comp_high: 435000
+    currency: USD
+  - region: Boise
+    base_low: 185000
+    base_high: 234000
+    stock_low: 190000
+    stock_high: 330000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 385000
+    currency: USD
+  - region: Remote US
+    base_low: 195000
+    base_high: 248000
+    stock_low: 205000
+    stock_high: 355000
+    bonus_pct: 15
+    total_comp_low: 292000
+    total_comp_high: 410000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Marvell T6–T7 = Google L6–L7 = Meta E6–E7 = Apple ICT5–ICT6 = Broadcom Distinguished Engineer = AMD Principal MTS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | +20% Staff Premium"
+---
 ### Staff Software Engineer | Marvell Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | +20% Staff Premium

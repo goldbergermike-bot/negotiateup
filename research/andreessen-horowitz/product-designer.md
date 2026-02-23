@@ -1,3 +1,52 @@
+---
+company: andreessen-horowitz
+company_display: Andreessen Horowitz
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 165000
+    base_high: 212000
+    stock_low: null
+    stock_high: null
+    bonus_low: 100000
+    bonus_high: 170000
+    total_comp_low: 265000
+    total_comp_high: 382000
+    currency: USD
+  - region: San Francisco
+    base_low: 160000
+    base_high: 207000
+    stock_low: null
+    stock_high: null
+    bonus_low: 96000
+    bonus_high: 165000
+    total_comp_low: 256000
+    total_comp_high: 372000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_low: 92000
+    bonus_high: 158000
+    total_comp_low: 247000
+    total_comp_high: 358000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - LinkedIn
+  - Glassdoor
+negotiation_dna_summary: "`$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Platform Design` `Investment UX` `Data Visualization`"
+---
 ### Product Designer | Andreessen Horowitz Global Negotiation Guide
 
 **Negotiation DNA:** `$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Platform Design` `Investment UX` `Data Visualization`

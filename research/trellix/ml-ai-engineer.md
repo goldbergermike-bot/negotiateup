@@ -1,3 +1,48 @@
+---
+company: trellix
+company_display: Trellix
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Milpitas/Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 350000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 328000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2200000
+    total_comp_high: 9200000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "ML/AI Engineers at Trellix build the machine learning models that power cross-domain threat detection in the XDR platform, leveraging the combined McAfee Enterprise telemetry and FireEye threat intelligence to detect sophisticated multi-stage attacks."
+---
 ### ML/AI Engineer — Trellix Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at Trellix build the machine learning models that power cross-domain threat detection in the XDR platform, leveraging the combined McAfee Enterprise telemetry and FireEye threat intelligence to detect sophisticated multi-stage attacks.

@@ -1,3 +1,48 @@
+---
+company: trellix
+company_display: Trellix
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Milpitas/Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 355000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 335000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 2000000
+    total_comp_high: 8500000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Managers at Trellix define the roadmap for the XDR platform, making strategic decisions about how to integrate McAfee Enterprise and FireEye capabilities into a unified detection and response product that competes in the rapidly growing XDR market."
+---
 ### Product Manager — Trellix Salary Negotiation Guide
 
 **Negotiation DNA**: Product Managers at Trellix define the roadmap for the XDR platform, making strategic decisions about how to integrate McAfee Enterprise and FireEye capabilities into a unified detection and response product that competes in the rapidly growing XDR market.

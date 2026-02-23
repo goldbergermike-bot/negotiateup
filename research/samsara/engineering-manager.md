@@ -1,3 +1,50 @@
+---
+company: samsara
+company_display: Samsara
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 235000
+    stock_low: 145000
+    stock_high: 260000
+    bonus_pct: 12
+    total_comp_low: 315000
+    total_comp_high: 362000
+    currency: USD
+  - region: Atlanta
+    base_low: 168000
+    base_high: 202000
+    stock_low: 120000
+    stock_high: 215000
+    bonus_pct: 12
+    total_comp_low: 258000
+    total_comp_high: 300000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 218000
+    stock_low: 130000
+    stock_high: 235000
+    bonus_pct: 12
+    total_comp_low: 280000
+    total_comp_high: 335000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Samsara EM (Engineering Manager) = Google L5/L6 Manager = Meta M1 = Amazon SDM = Apple EM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | Industrial IoT & AI Platform | GAAP Profitable | Super Bowl AI Coach | +8% Management Premium"
+---
 ### Engineering Manager | Samsara Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Industrial IoT & AI Platform | GAAP Profitable | Super Bowl AI Coach | +8% Management Premium

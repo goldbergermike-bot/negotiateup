@@ -1,3 +1,68 @@
+---
+company: sap
+company_display: Sap
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 125000
+    base_high: 175000
+    stock_low: 40000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 240000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 78000
+    base_high: 118000
+    stock_low: 28000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 100000
+    total_comp_high: 165000
+    currency: EUR
+  - region: UK (London)
+    base_low: 68000
+    base_high: 108000
+    stock_low: 24000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 88000
+    total_comp_high: 150000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2000000
+    base_high: 4000000
+    stock_low: 1000000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 2800000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP T2/T3 ~ Google L4/L5 SRE | Microsoft 61/62 | Amazon L5/L6 SDE | GitLab Senior/Staff"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Enterprise cloud infrastructure specialist | SAP BTP & hyperscaler deployment expertise | **CLOUD TRANSFORMATION PREMIUM**"
+---
 ### DevOps Engineer | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise cloud infrastructure specialist | SAP BTP & hyperscaler deployment expertise | **CLOUD TRANSFORMATION PREMIUM**

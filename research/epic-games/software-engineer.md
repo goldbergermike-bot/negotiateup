@@ -1,3 +1,48 @@
+---
+company: epic-games
+company_display: Epic Games
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 140000
+    base_high: 195000
+    stock_low: 60000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 305000
+    currency: USD
+  - region: Seattle
+    base_low: 150000
+    base_high: 205000
+    stock_low: 70000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 192000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: 55000
+    base_high: 85000
+    stock_low: 20000
+    stock_high: 50000
+    bonus_pct: 10
+    total_comp_low: 80000
+    total_comp_high: 130000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic SWE = Google L3 = Meta E3 = Unity SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue"
+---
 ### Software Engineer | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue

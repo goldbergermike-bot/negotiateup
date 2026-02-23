@@ -1,3 +1,39 @@
+---
+company: gitlab
+company_display: Gitlab
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (All-Remote)
+    base_low: 195000
+    base_high: 250000
+    stock_low: 140000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 280000
+    total_comp_high: 430000
+    currency: USD
+  - region: San Francisco Benchmark
+    base_low: 200000
+    base_high: 255000
+    stock_low: 145000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 285000
+    total_comp_high: 440000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: GitLab Staff SWE = GitHub Staff SWE = Google L5 = Atlassian Staff SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Public ($8B Market Cap) | All-Remote | DevSecOps Platform | Transparent Comp"
+---
 ### Staff Software Engineer | GitLab Global Negotiation Guide
 
 **Negotiation DNA:** Public ($8B Market Cap) | All-Remote | DevSecOps Platform | Transparent Comp

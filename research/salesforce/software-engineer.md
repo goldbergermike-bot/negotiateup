@@ -1,3 +1,48 @@
+---
+company: salesforce
+company_display: Salesforce
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 190000
+    stock_low: 140000
+    stock_high: 220000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 245000
+    currency: USD
+  - region: Indianapolis
+    base_low: 135000
+    base_high: 170000
+    stock_low: 120000
+    stock_high: 190000
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 218000
+    currency: USD
+  - region: Hyderabad
+    base_low: 2200000
+    base_high: 3500000
+    stock_low: 1200000
+    stock_high: 2200000
+    bonus_pct: null
+    total_comp_low: 3400000
+    total_comp_high: 5700000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Salesforce MTS (Member of Technical Staff) = Google L3 = Meta E3 = Stripe L2
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Agentforce Consumption Inflection"
+---
 ### Software Engineer | Salesforce Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Agentforce Consumption Inflection

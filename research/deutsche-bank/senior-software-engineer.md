@@ -1,3 +1,50 @@
+---
+company: deutsche-bank
+company_display: Deutsche Bank
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 142000
+    base_high: 192000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 192000
+    total_comp_high: 298000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 138000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 128000
+    total_comp_high: 212000
+    currency: GBP
+  - region: Frankfurt (HQ)
+    base_low: 85000
+    base_high: 125000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 112000
+    total_comp_high: 185000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Senior SWE at DB (VP) = L5 at Google, E5 at Meta, SDE III at Amazon, VP at BofA, VP at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "EUR30B market cap European bank + Engineering across institutional and retail banking + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB senior SWEs build global banking platforms | **EUROPEAN BANKING SWE PREMIUM**"
+---
 ### Senior Software Engineer | Deutsche Bank Global Negotiation Guide
 
 **Negotiation DNA:** EUR30B market cap European bank + Engineering across institutional and retail banking + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB senior SWEs build global banking platforms | **EUROPEAN BANKING SWE PREMIUM**

@@ -1,3 +1,51 @@
+---
+company: kraken
+company_display: Kraken
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 228000
+    stock_low: 248000
+    stock_high: 425000
+    bonus_low: 25000
+    bonus_high: 42000
+    total_comp_low: 262000
+    total_comp_high: 368000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 222000
+    stock_low: 238000
+    stock_high: 410000
+    bonus_low: 24000
+    bonus_high: 40000
+    total_comp_low: 255000
+    total_comp_high: 358000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 205000
+    stock_low: 218000
+    stock_high: 380000
+    bonus_low: 20000
+    bonus_high: 36000
+    total_comp_low: 238000
+    total_comp_high: 328000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Data Infrastructure Track"
+---
 ### Data Engineer | Kraken Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Data Infrastructure Track

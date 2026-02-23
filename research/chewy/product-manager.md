@@ -1,3 +1,51 @@
+---
+company: chewy
+company_display: Chewy
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Plantation FL
+    base_low: 135000
+    base_high: 180000
+    stock_low: 35000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 258000
+    currency: USD
+  - region: Boston
+    base_low: 146000
+    base_high: 196000
+    stock_low: 38000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 282000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 171000
+    stock_low: 33000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 176000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chewy Product Manager = Google PM L5 = Amazon Sr. PM L6 = Meta PM IC5 = Microsoft PM 62–63 = Apple PM ICT4
+data_sources:
+  - "Chewy 84% Autoship Penetration — Q4 2024 Earnings Report, Recurring Revenue Model"
+  - "Chewy Pet Health Expansion — Chewy Health, Telehealth, Insurance, Pharmacy Announcements"
+  - "Chewy 10-K Annual Filing — $12B+ Revenue, 20M+ Active Customers"
+  - Pet Humanization Trend — APPA $150B+ US Pet Industry Spending Report
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium"
+---
 ### Product Manager | Chewy Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium

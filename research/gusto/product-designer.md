@@ -1,3 +1,48 @@
+---
+company: gusto
+company_display: Gusto
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 150000
+    base_high: 185000
+    stock_low: 100000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 265000
+    currency: USD
+  - region: Denver
+    base_low: 135000
+    base_high: 165000
+    stock_low: 85000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 230000
+    currency: USD
+  - region: Toronto
+    base_low: 140000
+    base_high: 170000
+    stock_low: 80000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 225000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto Product Designer = Google L4 UX = Meta IC4 Design = Stripe Product Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity | Design-Led SMB Experience & AI UX"
+---
 ### Product Designer | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity | Design-Led SMB Experience & AI UX

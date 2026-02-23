@@ -1,3 +1,49 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 188000
+    base_high: 245000
+    stock_low: 160000
+    stock_high: 285000
+    bonus_pct: 5
+    total_comp_low: 252000
+    total_comp_high: 358000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 176000
+    base_high: 232000
+    stock_low: 146000
+    stock_high: 263000
+    bonus_pct: 5
+    total_comp_low: 237000
+    total_comp_high: 338000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 143000
+    base_high: 186000
+    stock_low: 120000
+    stock_high: 217000
+    bonus_pct: 5
+    total_comp_low: 192000
+    total_comp_high: 273000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic ML/AI Engineer IC3-IC4 = Google L4-L5 ML Engineer = Meta E4-E5 ML = CrowdStrike ML Engineer = SentinelOne AI Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity | **+15-25% AI SECURITY PREMIUM**"
+---
 ### ML/AI Engineer | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity | **+15-25% AI SECURITY PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: activision-blizzard
+company_display: Activision Blizzard
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine / Santa Monica
+    base_low: 140000
+    base_high: 195000
+    stock_low: 70000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 290000
+    currency: USD
+  - region: Austin
+    base_low: 120000
+    base_high: 170000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 163000
+    total_comp_high: 250000
+    currency: USD
+  - region: Hyderabad
+    base_low: 2200000
+    base_high: 4000000
+    stock_low: 1200000
+    stock_high: 2500000
+    bonus_pct: 10
+    total_comp_low: 3700000
+    total_comp_high: 6900000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Activision/MS Design Level 61-63 = Google L4 UX = Apple ICT3 Design
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine"
+---
 ### Product Designer | Activision Blizzard (Microsoft/Xbox) Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine

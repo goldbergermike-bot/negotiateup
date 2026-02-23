@@ -1,3 +1,48 @@
+---
+company: tempus
+company_display: Tempus
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago IL
+    base_low: 145000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+  - region: Bay Area CA
+    base_low: 155000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tempus Data Engineer = Google L3-L4 DE = Flatiron DE = Foundation Medicine DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: AI-Driven Precision Medicine / Growth-Stage / Equity Upside / Clinical Data Infrastructure
+---
 ### Data Engineer | Tempus Global Negotiation Guide
 
 **Negotiation DNA:** AI-Driven Precision Medicine / Growth-Stage / Equity Upside / Clinical Data Infrastructure

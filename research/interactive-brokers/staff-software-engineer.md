@@ -1,3 +1,53 @@
+---
+company: interactive-brokers
+company_display: Interactive Brokers
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Greenwich, CT (HQ)"
+    base_low: 225000
+    base_high: 315000
+    stock_low: 68000
+    stock_high: 108000
+    bonus_low: 45000
+    bonus_high: 65000
+    total_comp_low: 338000
+    total_comp_high: 488000
+    currency: USD
+  - region: New York
+    base_low: 236000
+    base_high: 331000
+    stock_low: 71000
+    stock_high: 113000
+    bonus_low: 47000
+    bonus_high: 68000
+    total_comp_low: 355000
+    total_comp_high: 512000
+    currency: USD
+  - region: London
+    base_low: 166000
+    base_high: 233000
+    stock_low: 50000
+    stock_high: 80000
+    bonus_low: 33000
+    bonus_high: 48000
+    total_comp_low: 249000
+    total_comp_high: 361000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Platform Architecture` `Cross-Brokerage System Design` `Technical Strategy`"
+---
 ### Staff Software Engineer | Interactive Brokers Global Negotiation Guide
 
 **Negotiation DNA:** `ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Platform Architecture` `Cross-Brokerage System Design` `Technical Strategy`

@@ -1,3 +1,48 @@
+---
+company: lyft
+company_display: Lyft
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 232000
+    stock_low: 155000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 322000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 221000
+    stock_low: 145000
+    stock_high: 292000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 306000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 205000
+    stock_low: 128000
+    stock_high: 258000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lyft ML/AI Engineer (T5-T7) = Google L4-L6 ML Engineer = Uber ML Engineer II-Senior-Staff = Meta ML Engineer (E4-E6) = Apple ML Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Rideshare & Mobility Platform | BENTELER/HOLON AV-Hybrid Strategy | AV-Orchestration Premium | AI Premium (+15-25%) | 4-Year Vest w/ 1-Year Cliff"
+---
 ### ML/AI Engineer | Lyft Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Rideshare & Mobility Platform | BENTELER/HOLON AV-Hybrid Strategy | AV-Orchestration Premium | AI Premium (+15-25%) | 4-Year Vest w/ 1-Year Cliff

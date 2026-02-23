@@ -1,3 +1,48 @@
+---
+company: airwallex
+company_display: Airwallex
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Melbourne (AUD)
+    base_low: 140000
+    base_high: 195000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: AUD
+  - region: San Francisco (USD)
+    base_low: 170000
+    base_high: 230000
+    stock_low: 75000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 245000
+    total_comp_high: 390000
+    currency: USD
+  - region: London (GBP)
+    base_low: 82000
+    base_high: 120000
+    stock_low: 35000
+    stock_high: 80000
+    bonus_pct: null
+    total_comp_low: 117000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a data engineering compensation framework spanning Melbourne, San Francisco, and London markets. As a Data Engineer at Airwallex, you build the data pipelines, warehouses, and streaming infrastructure that power everything from transaction monitoring to regulatory reporting — your pipelines are the nervous system that connects Airwallex's payment platform to its c"
+---
 ### Data Engineer — Airwallex Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a data engineering compensation framework spanning Melbourne, San Francisco, and London markets. As a Data Engineer at Airwallex, you build the data pipelines, warehouses, and streaming infrastructure that power everything from transaction monitoring to regulatory reporting — your pipelines are the nervous system that connects Airwallex's payment platform to its compliance obligations.

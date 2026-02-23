@@ -1,3 +1,50 @@
+---
+company: anthropic
+company_display: Anthropic
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 265000
+    stock_low: 250000
+    stock_high: 435000
+    bonus_pct: null
+    total_comp_low: 273000
+    total_comp_high: 374000
+    currency: USD
+  - region: Seattle
+    base_low: 204000
+    base_high: 252000
+    stock_low: 250000
+    stock_high: 435000
+    bonus_pct: null
+    total_comp_low: 267000
+    total_comp_high: 361000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 201000
+    stock_low: 190000
+    stock_high: 331000
+    bonus_pct: null
+    total_comp_low: 208000
+    total_comp_high: 284000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anthropic DevOps Engineer = Google L4-L5 SRE = Meta Production Engineer IC4-IC5 = Amazon Systems Engineer II-III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium"
+---
 ### DevOps Engineer | Anthropic Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium

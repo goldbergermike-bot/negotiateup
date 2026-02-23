@@ -1,3 +1,49 @@
+---
+company: qualcomm
+company_display: Qualcomm
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego
+    base_low: 112000
+    base_high: 148000
+    stock_low: 35000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 222000
+    currency: USD
+  - region: Santa Clara
+    base_low: 122000
+    base_high: 160000
+    stock_low: 40000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 242000
+    currency: USD
+  - region: Remote US
+    base_low: 102000
+    base_high: 135000
+    stock_low: 30000
+    stock_high: 47000
+    bonus_pct: 10
+    total_comp_low: 146000
+    total_comp_high: 200000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Qualcomm D3–D4 = Google L4 UX = Meta D (IC4) = Apple Design = Microsoft Design 60–62"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +8% AI/Agentic Premium"
+---
 ### Product Designer | Qualcomm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +8% AI/Agentic Premium

@@ -1,3 +1,49 @@
+---
+company: northrop-grumman
+company_display: Northrop Grumman
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Falls Church, VA"
+    base_low: 112000
+    base_high: 162000
+    stock_low: 25000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 215000
+    currency: USD
+  - region: "Redondo Beach, CA"
+    base_low: 118000
+    base_high: 168000
+    stock_low: 25000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+  - region: "Huntsville, AL"
+    base_low: 105000
+    base_high: 155000
+    stock_low: 23000
+    stock_high: 73000
+    bonus_pct: 10
+    total_comp_low: 128000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Northrop DevOps = L3Harris DevOps = Lockheed DevSecOps -- defense DevOps with space systems infrastructure complexity
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense + Tech Premium | $75B Market Cap | Space/Defense Infrastructure | Standard 40-45 Hour Culture"
+---
 ### DevOps Engineer | Northrop Grumman Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense + Tech Premium | $75B Market Cap | Space/Defense Infrastructure | Standard 40-45 Hour Culture

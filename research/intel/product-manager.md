@@ -1,3 +1,48 @@
+---
+company: intel
+company_display: Intel
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 148000
+    base_high: 195000
+    stock_low: 60000
+    stock_high: 105000
+    bonus_pct: 12
+    total_comp_low: 202000
+    total_comp_high: 282000
+    currency: USD
+  - region: Portland
+    base_low: 138000
+    base_high: 182000
+    stock_low: 52000
+    stock_high: 92000
+    bonus_pct: 12
+    total_comp_low: 188000
+    total_comp_high: 260000
+    currency: USD
+  - region: Phoenix
+    base_low: 130000
+    base_high: 172000
+    stock_low: 45000
+    stock_high: 82000
+    bonus_pct: 12
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Intel Product Manager (Grade 7-8) = AMD Product Manager = NVIDIA Product Manager = Google L5 Product Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + INTC RSUs (4yr vest) + Bonus (12-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages"
+---
 ### Product Manager | Intel Global Negotiation Guide
 
 **Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (12-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages

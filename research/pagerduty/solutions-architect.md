@@ -1,3 +1,55 @@
+---
+company: pagerduty
+company_display: Pagerduty
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 20000
+    signing_bonus_high: 40000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Atlanta
+    base_low: 145000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 125000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    signing_bonus_low: 10000
+    signing_bonus_high: 22000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at PagerDuty maps to senior technical individual contributor, equivalent to a Senior Solutions Engineer at Datadog or a Solutions Architect at AWS. Typically 5-10 years of combined engineering and customer-facing technical experience."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge"
+---
 ### Solutions Architect | PagerDuty Global Negotiation Guide
 
 **Negotiation DNA:** PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge

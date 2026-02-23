@@ -1,3 +1,48 @@
+---
+company: rapid7
+company_display: Rapid7
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 350000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 328000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 68000
+    total_comp_high: 155000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "ML/AI Engineers at Rapid7 build the machine learning models and AI systems that power threat detection in InsightIDR, vulnerability prioritization in InsightVM, and automated response in InsightConnect — directly improving security outcomes for thousands of enterprises."
+---
 ### ML/AI Engineer — Rapid7 Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at Rapid7 build the machine learning models and AI systems that power threat detection in InsightIDR, vulnerability prioritization in InsightVM, and automated response in InsightConnect — directly improving security outcomes for thousands of enterprises.

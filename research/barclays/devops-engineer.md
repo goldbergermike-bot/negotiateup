@@ -1,3 +1,49 @@
+---
+company: barclays
+company_display: Barclays
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 130000
+    base_high: 178000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 168000
+    total_comp_high: 262000
+    currency: USD
+  - region: London (HQ)
+    base_low: 88000
+    base_high: 128000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 115000
+    total_comp_high: 188000
+    currency: GBP
+  - region: Glasgow
+    base_low: 70000
+    base_high: 102000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 90000
+    total_comp_high: 148000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at Barclays (VP) = L4-L5 at Google, E4-E5 at Meta, SDE II-Senior at Amazon, VP at BofA, Senior DevOps at Capital One"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GBP35B market cap UK bank + Infrastructure across UK/US/global operations + London/NYC dual hub + Cloud modernization driving demand | Barclays DevOps spans UK and international banking infrastructure | **UK BANKING INFRASTRUCTURE PREMIUM**"
+---
 ### DevOps Engineer | Barclays Global Negotiation Guide
 
 **Negotiation DNA:** GBP35B market cap UK bank + Infrastructure across UK/US/global operations + London/NYC dual hub + Cloud modernization driving demand | Barclays DevOps spans UK and international banking infrastructure | **UK BANKING INFRASTRUCTURE PREMIUM**

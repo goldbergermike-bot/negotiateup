@@ -1,3 +1,52 @@
+---
+company: etrade
+company_display: Etrade
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 120000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 172000
+    total_comp_high: 248000
+    currency: USD
+  - region: "Jersey City, NJ"
+    base_low: 114000
+    base_high: 147000
+    stock_low: null
+    stock_high: null
+    bonus_low: 21000
+    bonus_high: 36000
+    total_comp_low: 163000
+    total_comp_high: 235000
+    currency: USD
+  - region: "Alpharetta, GA"
+    base_low: 102000
+    base_high: 132000
+    stock_low: null
+    stock_high: null
+    bonus_low: 19000
+    bonus_high: 32000
+    total_comp_low: 146000
+    total_comp_high: 211000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "`Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Full-Stack Development` `Brokerage Platform` `Retail Trading Infrastructure`"
+---
 ### Software Engineer | E*TRADE (Morgan Stanley) Global Negotiation Guide
 
 **Negotiation DNA:** `Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Full-Stack Development` `Brokerage Platform` `Retail Trading Infrastructure`

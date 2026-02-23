@@ -1,3 +1,53 @@
+---
+company: pleo
+company_display: Pleo
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Copenhagen
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 65000
+    base_high: 88000
+    stock_low: 18000
+    stock_high: 38000
+    bonus_low: 5000
+    bonus_high: 9000
+    total_comp_low: 88000
+    total_comp_high: 135000
+    currency: GBP
+  - region: Berlin
+    base_low: 62000
+    base_high: 84000
+    stock_low: 17000
+    stock_high: 35000
+    bonus_low: 5000
+    bonus_high: 8000
+    total_comp_low: 84000
+    total_comp_high: 127000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Pleo | Google | Meta | Stripe | Spendesk | Brex |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Real-Time Yield` `Fintech` `Spend Management` `European Scale` `Pre-IPO` `Cash-Management Yield` `UX/UI` `Design Systems`"
+---
 ### Product Designer | Pleo Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Real-Time Yield` `Fintech` `Spend Management` `European Scale` `Pre-IPO` `Cash-Management Yield` `UX/UI` `Design Systems`

@@ -1,3 +1,53 @@
+---
+company: ubs
+company_display: UBS
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 235000
+    base_high: 310000
+    stock_low: 65000
+    stock_high: 110000
+    bonus_low: 45000
+    bonus_high: 78000
+    total_comp_low: 345000
+    total_comp_high: 498000
+    currency: USD
+  - region: Zurich (HQ)
+    base_low: 207000
+    base_high: 273000
+    stock_low: 57000
+    stock_high: 97000
+    bonus_low: 40000
+    bonus_high: 69000
+    total_comp_low: 304000
+    total_comp_high: 438000
+    currency: CHF
+  - region: London
+    base_low: 188000
+    base_high: 248000
+    stock_low: 52000
+    stock_high: 88000
+    bonus_low: 36000
+    bonus_high: 62000
+    total_comp_low: 276000
+    total_comp_high: 398000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Architecture Authority` `Cross-Platform Strategy` `Integration Leadership`"
+---
 ### Staff Software Engineer | UBS Global Negotiation Guide
 
 **Negotiation DNA:** `CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Architecture Authority` `Cross-Platform Strategy` `Integration Leadership`

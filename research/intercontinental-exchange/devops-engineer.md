@@ -1,3 +1,52 @@
+---
+company: intercontinental-exchange
+company_display: Intercontinental Exchange
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta (HQ)
+    base_low: 125000
+    base_high: 168000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 178000
+    total_comp_high: 258000
+    currency: USD
+  - region: New York
+    base_low: 140000
+    base_high: 188000
+    stock_low: 134000
+    stock_high: 224000
+    bonus_low: 22000
+    bonus_high: 39000
+    total_comp_low: 199000
+    total_comp_high: 289000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 134000
+    stock_low: 96000
+    stock_high: 160000
+    bonus_low: 16000
+    bonus_high: 28000
+    total_comp_low: 142000
+    total_comp_high: 206000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "`Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Exchange Reliability` `CI/CD for Financial Infrastructure` `Five-Nines Uptime`"
+---
 ### DevOps Engineer | Intercontinental Exchange (ICE) Global Negotiation Guide
 
 **Negotiation DNA:** `Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Exchange Reliability` `CI/CD for Financial Infrastructure` `Five-Nines Uptime`

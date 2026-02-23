@@ -1,3 +1,49 @@
+---
+company: american-express
+company_display: American Express
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 135000
+    base_high: 185000
+    stock_low: 58000
+    stock_high: 155000
+    bonus_pct: 15
+    total_comp_low: 175000
+    total_comp_high: 275000
+    currency: USD
+  - region: Phoenix
+    base_low: 122000
+    base_high: 168000
+    stock_low: 48000
+    stock_high: 138000
+    bonus_pct: 15
+    total_comp_low: 158000
+    total_comp_high: 248000
+    currency: USD
+  - region: San Francisco
+    base_low: 132000
+    base_high: 182000
+    stock_low: 55000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 172000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DevOps Engineer at AmEx (Senior/Principal) = L4-L5 at Google, E4-E5 at Meta, SDE II-Senior at Amazon, VP at BofA, Senior DevOps at Capital One"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$190B market cap premium brand + Infrastructure must match premium brand reliability + NYC HQ + Strong tech comp | AmEx DevOps delivers premium-grade reliability | **PREMIUM INFRASTRUCTURE PREMIUM**"
+---
 ### DevOps Engineer | American Express Global Negotiation Guide
 
 **Negotiation DNA:** $190B market cap premium brand + Infrastructure must match premium brand reliability + NYC HQ + Strong tech comp | AmEx DevOps delivers premium-grade reliability | **PREMIUM INFRASTRUCTURE PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: shopify
+company_display: Shopify
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 175000
+    base_high: 225000
+    stock_low: 160000
+    stock_high: 290000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 355000
+    currency: CAD
+  - region: San Francisco
+    base_low: 192000
+    base_high: 248000
+    stock_low: 178000
+    stock_high: 325000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 388000
+    currency: USD
+  - region: Remote US/Canada
+    base_low: 182000
+    base_high: 235000
+    stock_low: 168000
+    stock_high: 305000
+    bonus_pct: 15
+    total_comp_low: 252000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shopify PM (L6-L8) = Google PM L5-L6 = Meta PM E5-E6 = Stripe PM = Amazon PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce Product Strategy | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**"
+---
 ### Product Manager | Shopify Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce Product Strategy | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**

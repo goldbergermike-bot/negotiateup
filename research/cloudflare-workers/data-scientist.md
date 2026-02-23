@@ -1,3 +1,48 @@
+---
+company: cloudflare-workers
+company_display: Cloudflare Workers
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 235000
+    stock_low: 178000
+    stock_high: 312000
+    bonus_pct: 10
+    total_comp_low: 272000
+    total_comp_high: 380000
+    currency: USD
+  - region: Austin
+    base_low: 175000
+    base_high: 225000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+  - region: London
+    base_low: 122000
+    base_high: 155000
+    stock_low: 115000
+    stock_high: 205000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 248000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Cloudflare DS (L3-L5) = Google DS L4-L5 = Meta DS E4-E5 = Fastly DS = Datadog DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NYSE: NET) + Bonus | Edge AI & Platform Analytics | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**"
+---
 ### Data Scientist | Cloudflare Workers Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NYSE: NET) + Bonus | Edge AI & Platform Analytics | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**

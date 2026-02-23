@@ -1,3 +1,53 @@
+---
+company: shift4
+company_display: Shift4
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Center Valley PA
+    base_low: 155000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 250000
+    total_comp_high: 390000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 230000
+    stock_low: 90000
+    stock_high: 180000
+    bonus_low: 30000
+    bonus_high: 60000
+    total_comp_low: 300000
+    total_comp_high: 470000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 150000
+    stock_low: 50000
+    stock_high: 110000
+    bonus_low: 18000
+    bonus_high: 38000
+    total_comp_low: 183000
+    total_comp_high: 298000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Shift4 | Google | Meta | Stripe | Toast | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "`NYSE: FOUR` `Stablecoin Settlement` `Solutions Architecture` `Enterprise Payments` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Finaro Global Acquiring` `Integration Design` `Pre-Sales Engineering`"
+---
 ### Solutions Architect | Shift4 Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FOUR` `Stablecoin Settlement` `Solutions Architecture` `Enterprise Payments` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Finaro Global Acquiring` `Integration Design` `Pre-Sales Engineering`

@@ -1,3 +1,49 @@
+---
+company: valve
+company_display: Valve
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue WA
+    base_low: 180000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 455000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 165000
+    base_high: 242000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 425000
+    currency: USD
+  - region: N/A — Valve is Bellevue-only
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Valve SA (no levels) ~ Google L5 Solutions = AWS Principal SA
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue"
+---
 ### Solutions Architect | Valve Global Negotiation Guide
 
 **Negotiation DNA:** Exceptional Base + Profit Sharing / Flat Org | Steam Monopoly Revenue

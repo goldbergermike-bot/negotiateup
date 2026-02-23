@@ -1,3 +1,49 @@
+---
+company: reddit
+company_display: Reddit
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 245000
+    base_high: 298000
+    stock_low: 248000
+    stock_high: 435000
+    bonus_pct: 15
+    total_comp_low: 332000
+    total_comp_high: 462000
+    currency: USD
+  - region: New York
+    base_low: 252000
+    base_high: 308000
+    stock_low: 248000
+    stock_high: 435000
+    bonus_pct: 15
+    total_comp_low: 342000
+    total_comp_high: 475000
+    currency: USD
+  - region: Remote US
+    base_low: 235000
+    base_high: 288000
+    stock_low: 248000
+    stock_high: 435000
+    bonus_pct: 15
+    total_comp_low: 322000
+    total_comp_high: 452000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Reddit Staff SWE (E6) = Google L5 = Meta E5 = Amazon Principal SDE = Microsoft 65-66
+data_sources:
+  - Reddit
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth"
+---
 ### Staff Software Engineer | Reddit Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth

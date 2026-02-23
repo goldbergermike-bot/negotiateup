@@ -1,3 +1,48 @@
+---
+company: etsy
+company_display: Etsy
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brooklyn
+    base_low: 182000
+    base_high: 228000
+    stock_low: 112000
+    stock_high: 202000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 298000
+    currency: USD
+  - region: San Francisco
+    base_low: 188000
+    base_high: 235000
+    stock_low: 112000
+    stock_high: 202000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 308000
+    currency: USD
+  - region: Remote US
+    base_low: 172000
+    base_high: 218000
+    stock_low: 112000
+    stock_high: 202000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 288000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Etsy PM (P3) = Google L5 PM = Meta IC5 PM = Amazon L5 PM = Shopify PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction"
+---
 ### Product Manager | Etsy Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction

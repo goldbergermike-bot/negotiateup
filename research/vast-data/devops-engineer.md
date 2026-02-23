@@ -1,3 +1,50 @@
+---
+company: vast-data
+company_display: Vast Data
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 140000
+    base_high: 175000
+    stock_low: 22000
+    stock_high: 48000
+    bonus_pct: 5
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: 18000
+    stock_high: 42000
+    bonus_pct: 5
+    total_comp_low: 165000
+    total_comp_high: 230000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 165000
+    stock_low: 22000
+    stock_high: 48000
+    bonus_pct: 5
+    total_comp_low: 168000
+    total_comp_high: 235000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Vast Data DevOps Engineer = Google L4 SRE / Meta Production Engineer (IC4) / Amazon Systems Development Engineer II / Microsoft DevOps Engineer 62–63 / Databricks DevOps"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Infrastructure Ops Premium"
+---
 ### DevOps Engineer | Vast Data Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Infrastructure Ops Premium

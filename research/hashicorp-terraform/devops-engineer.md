@@ -1,3 +1,50 @@
+---
+company: hashicorp-terraform
+company_display: HashiCorp Terraform
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 198000
+    stock_low: 115000
+    stock_high: 195000
+    bonus_pct: 5
+    total_comp_low: 193000
+    total_comp_high: 268000
+    currency: USD
+  - region: Austin / Denver
+    base_low: 145000
+    base_high: 188000
+    stock_low: 105000
+    stock_high: 180000
+    bonus_pct: 5
+    total_comp_low: 180000
+    total_comp_high: 255000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 150000
+    stock_low: 88000
+    stock_high: 148000
+    bonus_pct: 5
+    total_comp_low: 147000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: HashiCorp DevOps Engineer = Google L4 SRE = Meta E4 Production Engineer = IBM Band 8 SRE = AWS Systems Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)"
+---
 ### DevOps Engineer | HashiCorp (Terraform) Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)

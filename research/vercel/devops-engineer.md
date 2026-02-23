@@ -1,3 +1,50 @@
+---
+company: vercel
+company_display: Vercel
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 225000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 5
+    total_comp_low: 240000
+    total_comp_high: 355000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 225000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 5
+    total_comp_low: 240000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: 133000
+    base_high: 171000
+    stock_low: 114000
+    stock_high: 213000
+    bonus_pct: 5
+    total_comp_low: 182000
+    total_comp_high: 270000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Vercel DevOps Engineer = Google L4 SRE = Meta E4 Production Engineer = Cloudflare Systems Engineer = Datadog Infrastructure Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Infrastructure-Premium Base + Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI-Augmented Platform Reliability"
+---
 ### DevOps Engineer | Vercel Global Negotiation Guide
 
 **Negotiation DNA:** Infrastructure-Premium Base + Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI-Augmented Platform Reliability

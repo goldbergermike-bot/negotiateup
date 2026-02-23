@@ -1,3 +1,49 @@
+---
+company: rapyd
+company_display: Rapyd
+role: institutional-grade-execution-platform-engineer
+role_display: Institutional-Grade Execution Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 120000
+    base_high: 165000
+    stock_low: 100000
+    stock_high: 185000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 350000
+    currency: GBP
+  - region: Tel Aviv (ILS)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Francisco (USD)
+    base_low: 230000
+    base_high: 305000
+    stock_low: 170000
+    stock_high: 290000
+    bonus_pct: null
+    total_comp_low: 400000
+    total_comp_high: 595000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "This guide decodes Rapyd's Stablecoin Mainstream strategy, translating the Jan 2026 State of Stablecoins Report (34% business adoption) into an Institutional-Grade Execution Platform Engineer compensation framework spanning London, Tel Aviv, and San Francisco markets. This is the SIGNATURE ROLE for the Rapyd Negotiate Up platform — the role that most directly embodies Rapyd's strategic pivot from traditional payment orchestration to stablecoin-powered settlement infrastructure at institutional s"
+---
 ### Institutional-Grade Execution Platform Engineer — Rapyd Salary Negotiation Guide
 
 ## SIGNATURE ROLE

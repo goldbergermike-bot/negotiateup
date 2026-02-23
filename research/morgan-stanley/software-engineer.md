@@ -1,3 +1,53 @@
+---
+company: morgan-stanley
+company_display: Morgan Stanley
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 125000
+    base_high: 165000
+    stock_low: 30000
+    stock_high: 55000
+    bonus_low: 23000
+    bonus_high: 35000
+    total_comp_low: 178000
+    total_comp_high: 255000
+    currency: USD
+  - region: London
+    base_low: 103000
+    base_high: 135000
+    stock_low: 25000
+    stock_high: 45000
+    bonus_low: 19000
+    bonus_high: 29000
+    total_comp_low: 146000
+    total_comp_high: 209000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 975000
+    base_high: 1290000
+    stock_low: 234000
+    stock_high: 429000
+    bonus_low: 179000
+    bonus_high: 273000
+    total_comp_low: 1390000
+    total_comp_high: 1990000
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Wealth Platform Engineering` `Full-Stack Financial Systems` `Client-Facing Technology`"
+---
 ### Software Engineer | Morgan Stanley Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Wealth Platform Engineering` `Full-Stack Financial Systems` `Client-Facing Technology`

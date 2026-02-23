@@ -1,3 +1,48 @@
+---
+company: booking
+company_display: Booking
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 112000
+    base_high: 148000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 178000
+    total_comp_high: 262000
+    currency: EUR
+  - region: New York
+    base_low: 205000
+    base_high: 272000
+    stock_low: 140000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 422000
+    currency: USD
+  - region: London
+    base_low: 102000
+    base_high: 138000
+    stock_low: 95000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 242000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Booking.com Engineering Manager = Google Engineering Manager L5/L6 = Expedia Engineering Manager = Airbnb Engineering Manager = Meta M1/M2 = Amazon SDM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions"
+---
 ### Engineering Manager | Booking.com Global Negotiation Guide
 
 **Negotiation DNA:** Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions

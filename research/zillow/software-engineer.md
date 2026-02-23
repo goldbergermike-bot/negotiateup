@@ -1,3 +1,51 @@
+---
+company: zillow
+company_display: Zillow
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 130000
+    base_high: 165000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 228000
+    currency: USD
+  - region: San Francisco
+    base_low: 140000
+    base_high: 178000
+    stock_low: 130000
+    stock_high: 215000
+    bonus_pct: 15
+    total_comp_low: 178000
+    total_comp_high: 245000
+    currency: USD
+  - region: Remote US
+    base_low: 118000
+    base_high: 148000
+    stock_low: 108000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zillow Software Engineer (IC2–IC3) = Google L3–L4 = Redfin SDE I–II = Opendoor Software Engineer = Amazon SDE I–II
+data_sources:
+  - Zillow AI Transaction Coordinator — From Search to Closing Prep 2026
+  - Zillow 230M+ Monthly Unique Users — Real Estate Platform Scale
+  - "Zillow Housing Super App — Mortgage, Closing, Insurance Integration"
+  - Zillow Group Engineering Blog — Transaction Infrastructure Architecture 2025
+negotiation_dna_summary: "Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep"
+---
 ### Software Engineer | Zillow Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep

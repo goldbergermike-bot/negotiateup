@@ -1,3 +1,52 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 92000
+    base_high: 125000
+    stock_low: 140000
+    stock_high: 262000
+    bonus_pct: null
+    total_comp_low: 127000
+    total_comp_high: 190000
+    currency: EUR
+  - region: New York
+    base_low: 205000
+    base_high: 255000
+    stock_low: 255000
+    stock_high: 448000
+    bonus_pct: null
+    total_comp_low: 269000
+    total_comp_high: 367000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "HF Engineering Manager = Google L5 Engineering Manager (Paris) = Meta FAIR EM (M1) = Mistral AI Engineering Lead = Datadog Paris EM. In Paris, HF EM base bands (€92K–€125K) compete with Google Paris EM (€110K–€145K base + RSUs) and Datadog Paris EM (€95K–€130K base). The equity structure — pre-IPO options versus public RSUs — is the key differentiator. HF EMs manage smaller, higher-impact teams (typically 5–10 engineers) compared to Big Tech EMs who manage 8–15+."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat"
+---
 ### Engineering Manager | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat

@@ -1,3 +1,51 @@
+---
+company: intel
+company_display: Intel
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 165000
+    base_high: 218000
+    stock_low: 75000
+    stock_high: 130000
+    bonus_pct: 12
+    total_comp_low: 225000
+    total_comp_high: 318000
+    currency: USD
+  - region: Portland
+    base_low: 155000
+    base_high: 205000
+    stock_low: 65000
+    stock_high: 115000
+    bonus_pct: 12
+    total_comp_low: 210000
+    total_comp_high: 295000
+    currency: USD
+  - region: Phoenix
+    base_low: 145000
+    base_high: 192000
+    stock_low: 58000
+    stock_high: 102000
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Intel ML/AI Engineer (Grade 7-9) = AMD ML Engineer = NVIDIA ML/AI Engineer = Google L4-L5 ML Engineer
+data_sources:
+  - Intel IDM 2.0 Foundry Pivot — $100B+ Fab Investment
+  - Intel CHIPS Act Funding — National Security Infrastructure
+  - "Intel AI Strategy — Gaudi, Xeon AI, and Foundry AI"
+  - AI Talent Market — Compensation Benchmarks
+negotiation_dna_summary: "Base + INTC RSUs (4yr vest) + Bonus (12-20%) + AI Premium (+15-25%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages"
+---
 ### ML/AI Engineer | Intel Global Negotiation Guide
 
 **Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (12-20%) + AI Premium (+15-25%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages

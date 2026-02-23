@@ -1,3 +1,48 @@
+---
+company: kpmg
+company_display: KPMG
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 115000
+    base_high: 160000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 127000
+    total_comp_high: 214000
+    currency: USD
+  - region: Chicago
+    base_low: 110000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 121000
+    total_comp_high: 200000
+    currency: USD
+  - region: London
+    base_low: 80000
+    base_high: 115000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 88000
+    total_comp_high: 153000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: KPMG Manager (TPM) = Google L4-L5 TPM = Amazon Senior TPM = PwC Manager TPM
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (10-20%) + Limited Equity at Senior Levels | Technology Program Delivery"
+---
 ### Technical Program Manager | KPMG Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (10-20%) + Limited Equity at Senior Levels | Technology Program Delivery

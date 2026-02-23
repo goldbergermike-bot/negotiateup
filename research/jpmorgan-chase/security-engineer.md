@@ -1,3 +1,51 @@
+---
+company: jpmorgan-chase
+company_display: JPMorgan Chase
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_low: 33000
+    bonus_high: 53000
+    total_comp_low: 228000
+    total_comp_high: 328000
+    currency: USD
+  - region: London
+    base_low: 127000
+    base_high: 172000
+    stock_low: 33000
+    stock_high: 53000
+    bonus_low: 27000
+    bonus_high: 43000
+    total_comp_low: 187000
+    total_comp_high: 269000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 3230000
+    base_high: 4380000
+    stock_low: 830000
+    stock_high: 1350000
+    bonus_low: 690000
+    bonus_high: 1100000
+    total_comp_low: 4750000
+    total_comp_high: 6830000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Cybersecurity Operations` `Threat Detection & Response` `Regulatory Compliance`"
+---
 ### Security Engineer | JPMorgan Chase Global Negotiation Guide
 
 **Negotiation DNA:** `Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Cybersecurity Operations` `Threat Detection & Response` `Regulatory Compliance`

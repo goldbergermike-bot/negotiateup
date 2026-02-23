@@ -1,3 +1,48 @@
+---
+company: booking
+company_display: Booking
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 125000
+    base_high: 165000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 198000
+    total_comp_high: 292000
+    currency: EUR
+  - region: New York
+    base_low: 225000
+    base_high: 298000
+    stock_low: 160000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 338000
+    total_comp_high: 472000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 152000
+    stock_low: 115000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 268000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Booking.com Staff Software Engineer = Google L6 = Expedia Principal Engineer = Airbnb Staff Engineer = Meta E6 = Amazon Principal SDE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions"
+---
 ### Staff Software Engineer | Booking.com Global Negotiation Guide
 
 **Negotiation DNA:** Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions

@@ -1,3 +1,47 @@
+---
+company: thunes
+company_display: Thunes
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 185000
+    base_high: 260000
+    stock_low: 150000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 335000
+    total_comp_high: 560000
+    currency: SGD
+  - region: ":gb: London (GBP)"
+    base_low: 115000
+    base_high: 160000
+    stock_low: 90000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 340000
+    currency: GBP
+  - region: ":us: New York (USD)"
+    base_low: 210000
+    base_high: 290000
+    stock_low: 180000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 390000
+    total_comp_high: 640000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a staff-level engineering compensation framework spanning Singapore, London, and New York markets."
+---
 ### Staff Software Engineer — Thunes Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a staff-level engineering compensation framework spanning Singapore, London, and New York markets.

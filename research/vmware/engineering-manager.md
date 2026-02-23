@@ -1,3 +1,48 @@
+---
+company: vmware
+company_display: Vmware
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 495000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 465000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 4500000
+    total_comp_high: 15000000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Engineering Managers at VMware lead teams building enterprise virtualization, networking, storage, and cloud-native infrastructure, operating under Broadcom's focused execution model following the ~$69B acquisition."
+---
 ### Engineering Manager — VMware (Broadcom) Salary Negotiation Guide
 
 **Negotiation DNA**: Engineering Managers at VMware lead teams building enterprise virtualization, networking, storage, and cloud-native infrastructure, operating under Broadcom's focused execution model following the ~$69B acquisition.

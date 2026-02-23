@@ -1,3 +1,51 @@
+---
+company: monzo
+company_display: Monzo
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 44000
+    base_high: 65000
+    stock_low: 7000
+    stock_high: 11000
+    bonus_low: 4000
+    bonus_high: 6000
+    total_comp_low: 55000
+    total_comp_high: 82000
+    currency: GBP
+  - region: Remote UK
+    base_low: 42000
+    base_high: 62000
+    stock_low: 7000
+    stock_high: 10000
+    bonus_low: 3000
+    bonus_high: 6000
+    total_comp_low: 52000
+    total_comp_high: 78000
+    currency: GBP
+  - region: Remote US
+    base_low: 70000
+    base_high: 103000
+    stock_low: 12000
+    stock_high: 17000
+    bonus_low: 5000
+    bonus_high: 9000
+    total_comp_low: 87000
+    total_comp_high: 130000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Data Platform` `Regulatory Pipelines` `Event-Driven Architecture`"
+---
 ### Data Engineer | Monzo Global Negotiation Guide
 
 **Negotiation DNA:** `OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Data Platform` `Regulatory Pipelines` `Event-Driven Architecture`

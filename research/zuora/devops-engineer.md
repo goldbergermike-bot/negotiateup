@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 135000
+    base_high: 185000
+    stock_low: 45000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 245000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 118000
+    base_high: 162000
+    stock_low: 35000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 210000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 58000
+    base_high: 90000
+    stock_low: 18000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 70000
+    total_comp_high: 115000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 1600000
+    base_high: 3200000
+    stock_low: 700000
+    stock_high: 2000000
+    bonus_pct: 10
+    total_comp_low: 2000000
+    total_comp_high: 4200000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 102000
+    base_high: 148000
+    stock_low: 28000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 182000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora IC2/IC3 ~ Chargebee Senior DevOps | Recurly Senior/Staff | Stripe IC3 SRE | Braintree Senior SRE"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Financial-grade cloud infrastructure specialist | Billing platform reliability & compliance | **RELIABILITY PREMIUM**"
+---
 ### DevOps Engineer | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Financial-grade cloud infrastructure specialist | Billing platform reliability & compliance | **RELIABILITY PREMIUM**

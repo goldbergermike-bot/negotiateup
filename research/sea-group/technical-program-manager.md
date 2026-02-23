@@ -1,3 +1,50 @@
+---
+company: sea-group
+company_display: Sea Group
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 118000
+    base_high: 185000
+    stock_low: 42000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 270000
+    currency: USD
+  - region: Bay Area / Seattle (US)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 58000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 330000
+    currency: USD
+  - region: "Shenzhen (R&D)"
+    base_low: 390000
+    base_high: 690000
+    stock_low: 140000
+    stock_high: 395000
+    bonus_pct: 10
+    total_comp_low: 520000
+    total_comp_high: 985000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "TPM at Sea Group (L6-L7) = L5-L6 TPM at Google, IC5-IC6 TPM at Meta, Sr TPM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$35B market cap with cross-platform programs spanning Shopee, Garena, and SeaMoney + 11.11/12.12 sales event coordination across 10+ countries + Multi-country regulatory compliance | Sea Group TPMs manage some of SE Asia's most complex technology programs | **MULTI-PLATFORM PROGRAM PREMIUM**"
+---
 ### Technical Program Manager | Sea Group Global Negotiation Guide
 
 **Negotiation DNA:** $35B market cap with cross-platform programs spanning Shopee, Garena, and SeaMoney + 11.11/12.12 sales event coordination across 10+ countries + Multi-country regulatory compliance | Sea Group TPMs manage some of SE Asia's most complex technology programs | **MULTI-PLATFORM PROGRAM PREMIUM**

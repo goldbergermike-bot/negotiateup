@@ -1,3 +1,48 @@
+---
+company: discord
+company_display: Discord
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 200000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 262000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 192000
+    stock_low: 85000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 252000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 180000
+    stock_low: 78000
+    stock_high: 142000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 235000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Discord Technical Program Manager = Google TPM L5 = Meta TPM (IC5) = Amazon Sr. TPM = Apple TPM 3 = Stripe Program Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Cross-Functional Program Execution Premium"
+---
 ### Technical Program Manager | Discord Global Negotiation Guide
 
 **Negotiation DNA:** Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Cross-Functional Program Execution Premium

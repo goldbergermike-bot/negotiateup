@@ -1,3 +1,50 @@
+---
+company: disney
+company_display: Disney
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Burbank / Los Angeles
+    base_low: 145000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 170000
+    bonus_pct: 12
+    total_comp_low: 190000
+    total_comp_high: 315000
+    currency: USD
+  - region: San Francisco / Seattle
+    base_low: 150000
+    base_high: 215000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: 12
+    total_comp_low: 200000
+    total_comp_high: 330000
+    currency: USD
+  - region: London (UK)
+    base_low: 108000
+    base_high: 155000
+    stock_low: 40000
+    stock_high: 125000
+    bonus_pct: 12
+    total_comp_low: 150000
+    total_comp_high: 245000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Disney TPM (IC3-IC5) = Google L4-L6 TPM = Meta E4-E6 TPM = Amazon TPM L5-L7 = Microsoft 62-65 TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$200B Entertainment-Tech Empire | Cross-Organization Program Delivery | Complex Entertainment-Tech Initiatives"
+---
 ### Technical Program Manager | Disney Global Negotiation Guide
 
 **Negotiation DNA:** $200B Entertainment-Tech Empire | Cross-Organization Program Delivery | Complex Entertainment-Tech Initiatives

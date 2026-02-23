@@ -1,3 +1,50 @@
+---
+company: pure-storage
+company_display: Pure Storage
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 215000
+    base_high: 265000
+    stock_low: 200000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 365000
+    total_comp_high: 428000
+    currency: USD
+  - region: Denver
+    base_low: 195000
+    base_high: 242000
+    stock_low: 175000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 332000
+    total_comp_high: 392000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 228000
+    stock_low: 160000
+    stock_high: 310000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Pure Storage | Google | Meta | Amazon | Microsoft |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | +15–20% Staff Premium"
+---
 ### Staff Software Engineer | Pure Storage Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | +15–20% Staff Premium

@@ -1,3 +1,52 @@
+---
+company: adobe
+company_display: Adobe
+role: firefly-ai-platform-engineer
+role_display: Firefly AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 182000
+    base_high: 228000
+    stock_low: 210000
+    stock_high: 352000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 332000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 152000
+    stock_low: 126000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 215000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4800000
+    base_high: 7200000
+    stock_low: 5200000
+    stock_high: 10500000
+    bonus_pct: 10
+    total_comp_low: 6500000
+    total_comp_high: 10200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Adobe Firefly Platform Eng (ICT5-6) = Google L4-L5 ML Infrastructure = Meta GenAI Platform Eng = Stability AI Senior Eng
+data_sources:
+  - Adobe Firefly Platform — Generative AI Across Creative Cloud 2026
+  - Firefly Commercial Safety — Trained on Licensed Adobe Stock Content
+  - Firefly API — Enterprise Generative AI Revenue Platform
+  - Adobe Refresh Culture — Year 2 Refresh for Firefly Priority Talent
+  - "Agentic AI Premium — 15-30% for Autonomous Creative Agent Development"
+negotiation_dna_summary: "Balanced (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | **SIGNATURE ROLE** | **+15–30% AGENTIC AI PREMIUM**"
+---
 ### Firefly AI Platform Engineer | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | **SIGNATURE ROLE** | **+15–30% AGENTIC AI PREMIUM**

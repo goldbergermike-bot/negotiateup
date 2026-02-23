@@ -1,3 +1,33 @@
+---
+company: two-sigma
+company_display: Two Sigma
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 225000
+    base_high: 310000
+    stock_low: null
+    stock_high: null
+    bonus_low: 338000
+    bonus_high: 775000
+    total_comp_low: 563000
+    total_comp_high: 1085000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Staff SWE at Two Sigma = L7-L8 at Google, E7-E8 at Meta, Principal-Distinguished at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 150-250%+ | Two Sigma Staff SWEs are among the highest-paid ICs in the world | **ELITE QUANT STAFF PREMIUM**"
+---
 ### Staff Software Engineer | Two Sigma Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 150-250%+ | Two Sigma Staff SWEs are among the highest-paid ICs in the world | **ELITE QUANT STAFF PREMIUM**

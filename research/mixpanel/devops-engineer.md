@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 195000
+    stock_low: 95000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 262000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 188000
+    stock_low: 90000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 250000
+    currency: USD
+  - region: London
+    base_low: 112000
+    base_high: 140000
+    stock_low: 65000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 182000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel DevOps = Google SRE L3-L4 = Datadog Platform Eng = Amplitude Infra Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Weighted Comp | Cloud Infrastructure Scaling for AI Workloads 2026"
+---
 ### DevOps Engineer | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Weighted Comp | Cloud Infrastructure Scaling for AI Workloads 2026

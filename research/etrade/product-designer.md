@@ -1,3 +1,51 @@
+---
+company: etrade
+company_display: Etrade
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 115000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_low: 19000
+    bonus_high: 34000
+    total_comp_low: 162000
+    total_comp_high: 232000
+    currency: USD
+  - region: "Jersey City, NJ"
+    base_low: 109000
+    base_high: 143000
+    stock_low: null
+    stock_high: null
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 154000
+    total_comp_high: 220000
+    currency: USD
+  - region: "Alpharetta, GA"
+    base_low: 98000
+    base_high: 128000
+    stock_low: null
+    stock_high: null
+    bonus_low: 16000
+    bonus_high: 29000
+    total_comp_low: 138000
+    total_comp_high: 197000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `UX/UI Design` `Financial Product Design` `Regulatory UX`"
+---
 ### Product Designer | E*TRADE (Morgan Stanley) Global Negotiation Guide
 
 **Negotiation DNA:** `Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `UX/UI Design` `Financial Product Design` `Regulatory UX`

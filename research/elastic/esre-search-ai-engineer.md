@@ -1,3 +1,53 @@
+---
+company: elastic
+company_display: Elastic
+role: esre-search-ai-engineer
+role_display: ESRE Search AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 192000
+    base_high: 238000
+    stock_low: 228000
+    stock_high: 380000
+    bonus_pct: 8
+    total_comp_low: 262000
+    total_comp_high: 352000
+    currency: USD
+  - region: Amsterdam
+    base_low: 82000
+    base_high: 108000
+    stock_low: 92000
+    stock_high: 155000
+    bonus_pct: 8
+    total_comp_low: 112000
+    total_comp_high: 158000
+    currency: EUR
+  - region: Bangalore
+    base_low: 5000000
+    base_high: 7500000
+    stock_low: 4200000
+    stock_high: 6800000
+    bonus_pct: 8
+    total_comp_low: 6500000
+    total_comp_high: 10000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Elastic ESRE Search AI Eng (Senior) = MongoDB Voyage AI Search Eng = Google L4-L5 Search Ranking = Pinecone Senior ML Eng
+data_sources:
+  - "ESRE — Elasticsearch Relevance Engine, Elastic's AI Search Platform"
+  - "ELSER — Learned Sparse Retrieval, Competitive Benchmark Performance"
+  - Hybrid Retrieval — BM25 + Vector + Sparse + Reranking Fusion
+  - Elastic AI Assistants — Search-Powered Investigation Agents
+  - Battle for the AI Data Layer — Elastic ESRE vs. MongoDB Voyage AI
+  - "Agentic AI Premium — 20-35% for Autonomous Search Improvement"
+negotiation_dna_summary: "Equity-Heavy + Small Bonus | \"Battle for the AI Data Layer\" | **SIGNATURE ROLE** | **+20–35% AGENTIC AI PREMIUM**"
+---
 ### ESRE Search AI Engineer | Elastic Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Small Bonus | "Battle for the AI Data Layer" | **SIGNATURE ROLE** | **+20–35% AGENTIC AI PREMIUM**

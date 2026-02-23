@@ -1,3 +1,48 @@
+---
+company: pwc
+company_display: PwC
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 135000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 276000
+    currency: USD
+  - region: Chicago
+    base_low: 125000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 144000
+    total_comp_high: 248000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 135000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 109000
+    total_comp_high: 194000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: PwC Director (SA) = AWS Senior SA = Google Cloud Customer Engineer (L5) = Deloitte SM (SA)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (15-25%) + Equity at Senior Levels | Technology Consulting Architecture"
+---
 ### Solutions Architect | PwC Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (15-25%) + Equity at Senior Levels | Technology Consulting Architecture

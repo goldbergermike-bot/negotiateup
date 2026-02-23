@@ -1,3 +1,50 @@
+---
+company: t-mobile
+company_display: T-Mobile
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue / Seattle
+    base_low: 155000
+    base_high: 215000
+    stock_low: 65000
+    stock_high: 185000
+    bonus_pct: 12
+    total_comp_low: 205000
+    total_comp_high: 330000
+    currency: USD
+  - region: NYC / San Francisco
+    base_low: 160000
+    base_high: 220000
+    stock_low: 70000
+    stock_high: 190000
+    bonus_pct: 12
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: USD
+  - region: Dallas / Denver
+    base_low: 145000
+    base_high: 205000
+    stock_low: 58000
+    stock_high: 168000
+    bonus_pct: 12
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "T-Mobile Senior SWE (L6) = Google L5 = Meta E5 = Amazon SDE III = Microsoft 63 = Verizon L5 = AT&T Senior"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$250B 5G Leader | Senior Technical Ownership | Platform Architecture + 5G Services"
+---
 ### Senior Software Engineer | T-Mobile Global Negotiation Guide
 
 **Negotiation DNA:** $250B 5G Leader | Senior Technical Ownership | Platform Architecture + 5G Services

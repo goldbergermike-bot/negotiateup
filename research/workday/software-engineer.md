@@ -1,3 +1,48 @@
+---
+company: workday
+company_display: Workday
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pleasanton
+    base_low: 155000
+    base_high: 190000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 192000
+    total_comp_high: 248000
+    currency: USD
+  - region: Dublin
+    base_low: 95000
+    base_high: 120000
+    stock_low: 66000
+    stock_high: 120000
+    bonus_pct: 15
+    total_comp_low: 118000
+    total_comp_high: 155000
+    currency: EUR
+  - region: London
+    base_low: 102000
+    base_high: 130000
+    stock_low: 72000
+    stock_high: 130000
+    bonus_pct: 15
+    total_comp_low: 128000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Workday SWE (P2) = Google L3 = Meta E3 = Salesforce MTS = Snowflake SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity"
+---
 ### Software Engineer | Workday Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity

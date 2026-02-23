@@ -1,3 +1,48 @@
+---
+company: servicetitan
+company_display: Servicetitan
+role: home-services-platform-engineer
+role_display: Home Services Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles / Glendale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 350000
+    currency: USD
+  - region: Atlanta / Secondary
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 315000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "The Home Services Platform Engineer is ServiceTitan's most strategically critical hire — the specialist who combines deep home services domain expertise with platform engineering to build the operating system for the $600B trades industry."
+---
 ### Home Services Platform Engineer — ServiceTitan Salary Negotiation Guide
 
 **Negotiation DNA**: The Home Services Platform Engineer is ServiceTitan's most strategically critical hire — the specialist who combines deep home services domain expertise with platform engineering to build the operating system for the $600B trades industry.

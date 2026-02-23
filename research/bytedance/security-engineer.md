@@ -1,3 +1,59 @@
+---
+company: bytedance
+company_display: Bytedance
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Mountain View (US)
+    base_low: 175000
+    base_high: 245000
+    stock_low: 110000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 430000
+    currency: USD
+  - region: New York City / Seattle (US)
+    base_low: 170000
+    base_high: 240000
+    stock_low: 105000
+    stock_high: 310000
+    bonus_pct: 15
+    total_comp_low: 255000
+    total_comp_high: 420000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 490000
+    base_high: 870000
+    stock_low: 230000
+    stock_high: 600000
+    bonus_pct: 20
+    total_comp_low: 770000
+    total_comp_high: 1500000
+    currency: CNY
+  - region: Singapore
+    base_low: 130000
+    base_high: 205000
+    stock_low: 70000
+    stock_high: 175000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Security Engineer at ByteDance (2-1 to 2-2) = L4-L5 Security at Google, IC4-IC5 at Meta, equivalent CrowdStrike/Palo Alto"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Private $225B+ under intense regulatory scrutiny requiring world-class security + TikTok data privacy critical for US/EU operations + Content safety and trust at 1.5B-user scale + FAANG-matching security comp | ByteDance security engineers protect the most scrutinized tech platform globally | **REGULATORY SECURITY PREMIUM**"
+---
 ### Security Engineer | ByteDance Global Negotiation Guide
 
 **Negotiation DNA:** Private $225B+ under intense regulatory scrutiny requiring world-class security + TikTok data privacy critical for US/EU operations + Content safety and trust at 1.5B-user scale + FAANG-matching security comp | ByteDance security engineers protect the most scrutinized tech platform globally | **REGULATORY SECURITY PREMIUM**

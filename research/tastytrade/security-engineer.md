@@ -1,3 +1,52 @@
+---
+company: tastytrade
+company_display: Tastytrade
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 140000
+    base_high: 192000
+    stock_low: null
+    stock_high: null
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 192000
+    total_comp_high: 278000
+    currency: USD
+  - region: New York
+    base_low: 154000
+    base_high: 211000
+    stock_low: null
+    stock_high: null
+    bonus_low: 28000
+    bonus_high: 44000
+    total_comp_low: 212000
+    total_comp_high: 306000
+    currency: USD
+  - region: London
+    base_low: 107000
+    base_high: 146000
+    stock_low: 21000
+    stock_high: 35000
+    bonus_low: 19000
+    bonus_high: 30000
+    total_comp_low: 147000
+    total_comp_high: 211000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Trading Platform Security` `Financial Regulatory Compliance` `Cross-Border Data Protection`"
+---
 ### Security Engineer | Tastytrade Global Negotiation Guide
 
 **Negotiation DNA:** `Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Trading Platform Security` `Financial Regulatory Compliance` `Cross-Border Data Protection`

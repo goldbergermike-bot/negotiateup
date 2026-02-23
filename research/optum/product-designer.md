@@ -1,3 +1,48 @@
+---
+company: optum
+company_display: Optum
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Eden Prairie MN
+    base_low: 125000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 240000
+    currency: USD
+  - region: Dallas TX
+    base_low: 120000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 230000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Optum T3-T4 Designer = Google L3-L4 UX = Meta IC4 Design = UHG Design + 15-20% comp"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: UHG Tech/Analytics Subsidiary / Higher Comp Than Parent / Product Design Culture
+---
 ### Product Designer | Optum Global Negotiation Guide
 
 **Negotiation DNA:** UHG Tech/Analytics Subsidiary / Higher Comp Than Parent / Product Design Culture

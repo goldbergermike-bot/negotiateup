@@ -1,3 +1,48 @@
+---
+company: square
+company_display: Square
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 182000
+    base_high: 235000
+    stock_low: 178000
+    stock_high: 318000
+    bonus_pct: 15
+    total_comp_low: 258000
+    total_comp_high: 368000
+    currency: USD
+  - region: New York
+    base_low: 182000
+    base_high: 235000
+    stock_low: 178000
+    stock_high: 318000
+    bonus_pct: 15
+    total_comp_low: 258000
+    total_comp_high: 368000
+    currency: USD
+  - region: Remote US
+    base_low: 172000
+    base_high: 222000
+    stock_low: 168000
+    stock_high: 298000
+    bonus_pct: 15
+    total_comp_low: 242000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Square PM (PM2-PM3) = Stripe PM = Shopify PM = Toast PM = Google L4-L5 PM Commerce
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Block RSUs) + Bonus | AI-Powered Commerce Tools | $45B+ Market Cap | 56M+ Sellers | **COMMERCE AI PREMIUM**"
+---
 ### Product Manager | Square Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Block RSUs) + Bonus | AI-Powered Commerce Tools | $45B+ Market Cap | 56M+ Sellers | **COMMERCE AI PREMIUM**

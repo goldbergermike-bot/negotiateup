@@ -1,3 +1,30 @@
+---
+company: target
+company_display: Target
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 100000
+    base_high: 145000
+    stock_low: 20000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 182000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target Product Designer = Google UX Designer L3 = Amazon UX Designer = Walmart Product Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage"
+---
 ### Product Designer | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage

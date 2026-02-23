@@ -1,3 +1,54 @@
+---
+company: visa
+company_display: Visa
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Foster City
+    base_low: 130000
+    base_high: 165000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 222000
+    total_comp_high: 327000
+    currency: USD
+  - region: New York
+    base_low: 138000
+    base_high: 175000
+    stock_low: 85000
+    stock_high: 150000
+    bonus_low: 13000
+    bonus_high: 24000
+    total_comp_low: 236000
+    total_comp_high: 349000
+    currency: USD
+  - region: London
+    base_low: 78000
+    base_high: 100000
+    stock_low: 45000
+    stock_high: 80000
+    bonus_low: 8000
+    bonus_high: 14000
+    total_comp_low: 131000
+    total_comp_high: 194000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Visa | Google | Meta | Stripe | JPMorgan | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Infrastructure` `Early Career` `IC Track` `VisaNet` `4B+ Cards` `200+ Countries`"
+---
 ### Software Engineer | Visa Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Infrastructure` `Early Career` `IC Track` `VisaNet` `4B+ Cards` `200+ Countries`

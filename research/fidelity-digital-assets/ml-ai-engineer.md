@@ -1,3 +1,52 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 225000
+    base_high: 295000
+    stock_low: 248000
+    stock_high: 460000
+    bonus_low: 62000
+    bonus_high: 98000
+    total_comp_low: 328000
+    total_comp_high: 462000
+    currency: USD
+  - region: New York
+    base_low: 242000
+    base_high: 318000
+    stock_low: 272000
+    stock_high: 498000
+    bonus_low: 68000
+    bonus_high: 108000
+    total_comp_low: 358000
+    total_comp_high: 502000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 268000
+    stock_low: 225000
+    stock_high: 418000
+    bonus_low: 55000
+    bonus_high: 88000
+    total_comp_low: 288000
+    total_comp_high: 405000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#MachineLearning` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#AIPremium` `+15-25% AI Premium`"
+---
 ### ML/AI Engineer | Fidelity Digital Assets Global Negotiation Guide
 
 **Negotiation DNA:** `#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#MachineLearning` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#AIPremium` `+15-25% AI Premium`

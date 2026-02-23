@@ -1,3 +1,48 @@
+---
+company: accenture
+company_display: Accenture
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 130000
+    base_high: 180000
+    stock_low: 40000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 163000
+    total_comp_high: 307000
+    currency: USD
+  - region: San Francisco
+    base_low: 135000
+    base_high: 185000
+    stock_low: 45000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 171000
+    total_comp_high: 318000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 130000
+    stock_low: 20000
+    stock_high: 50000
+    bonus_pct: 10
+    total_comp_low: 114000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Accenture Consultant (AI) = Google L4 ML Engineer = Meta E4 ML = Deloitte Manager (AI)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + RSU Grants + Bonus (10-15%) | Applied Intelligence AI Delivery"
+---
 ### ML/AI Engineer | Accenture Global Negotiation Guide
 
 **Negotiation DNA:** Base + RSU Grants + Bonus (10-15%) | Applied Intelligence AI Delivery

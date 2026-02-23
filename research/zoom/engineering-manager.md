@@ -1,3 +1,68 @@
+---
+company: zoom
+company_display: Zoom
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 210000
+    base_high: 295000
+    stock_low: 140000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 480000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 185000
+    base_high: 260000
+    stock_low: 105000
+    stock_high: 270000
+    bonus_pct: 12
+    total_comp_low: 270000
+    total_comp_high: 415000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 100000
+    base_high: 155000
+    stock_low: 55000
+    stock_high: 135000
+    bonus_pct: 12
+    total_comp_low: 145000
+    total_comp_high: 245000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 4500000
+    base_high: 8200000
+    stock_low: 2500000
+    stock_high: 5800000
+    bonus_pct: 12
+    total_comp_low: 6000000
+    total_comp_high: 11800000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 155000
+    base_high: 225000
+    stock_low: 75000
+    stock_high: 165000
+    bonus_pct: 12
+    total_comp_low: 210000
+    total_comp_high: 335000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom EM (IC4/IC5 equiv) ~ Google L6/L7 EM | Microsoft 65/66 EM | Meta E6 EM Manager | Salesforce Director Eng"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "UCaaS platform engineering leader | AI-powered communication product delivery | **LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** UCaaS platform engineering leader | AI-powered communication product delivery | **LEADERSHIP PREMIUM**

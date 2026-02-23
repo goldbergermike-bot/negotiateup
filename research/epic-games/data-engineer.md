@@ -1,3 +1,48 @@
+---
+company: epic-games
+company_display: Epic Games
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 145000
+    base_high: 205000
+    stock_low: 65000
+    stock_high: 185000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 305000
+    currency: USD
+  - region: Seattle
+    base_low: 155000
+    base_high: 215000
+    stock_low: 75000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 325000
+    currency: USD
+  - region: London
+    base_low: 55000
+    base_high: 88000
+    stock_low: 22000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 82000
+    total_comp_high: 140000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic Data Engineer = Google L3-L4 DE = Amazon L5-L6 DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue"
+---
 ### Data Engineer | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue

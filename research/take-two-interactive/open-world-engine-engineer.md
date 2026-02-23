@@ -1,3 +1,51 @@
+---
+company: take-two-interactive
+company_display: Take-Two Interactive
+role: open-world-engine-engineer
+role_display: Open-World Engine Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 175000
+    base_high: 235000
+    stock_low: 100000
+    stock_high: 240000
+    bonus_pct: 20
+    total_comp_low: 265000
+    total_comp_high: 400000
+    currency: USD
+  - region: San Diego (Rockstar)
+    base_low: 165000
+    base_high: 225000
+    stock_low: 90000
+    stock_high: 220000
+    bonus_pct: 20
+    total_comp_low: 250000
+    total_comp_high: 380000
+    currency: USD
+  - region: Bangalore
+    base_low: 2800000
+    base_high: 5000000
+    stock_low: 1500000
+    stock_high: 3500000
+    bonus_pct: 15
+    total_comp_low: 4800000
+    total_comp_high: 9200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Rockstar/Take-Two Senior Engine Eng = Google L4-L5 = Meta E4-E5 = Epic Unreal Senior Eng
+data_sources:
+  - "Take-Two FY2026 Earnings — GTA Franchise Revenue, GTA VI Projections"
+  - Rockstar RAGE Engine — GDC Technical Presentations
+  - Open-World Engine Engineering Compensation Report 2026
+  - GTA V Lifetime Revenue — Industry Analysis
+negotiation_dna_summary: "RSU + Premium Bonus | **SIGNATURE ROLE** | **+15–25% OPEN-WORLD ENGINE PREMIUM**"
+---
 ### Open-World Engine Engineer | Take-Two Interactive Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Premium Bonus | **SIGNATURE ROLE** | **+15–25% OPEN-WORLD ENGINE PREMIUM**

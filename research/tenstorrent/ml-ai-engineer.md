@@ -1,3 +1,48 @@
+---
+company: tenstorrent
+company_display: Tenstorrent
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 165000
+    base_high: 218000
+    stock_low: 62000
+    stock_high: 105000
+    bonus_pct: 12
+    total_comp_low: 255000
+    total_comp_high: 358000
+    currency: CAD
+  - region: Austin
+    base_low: 155000
+    base_high: 208000
+    stock_low: 50000
+    stock_high: 82000
+    bonus_pct: 12
+    total_comp_low: 235000
+    total_comp_high: 325000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 202000
+    stock_low: 48000
+    stock_high: 78000
+    bonus_pct: 12
+    total_comp_low: 222000
+    total_comp_high: 312000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Tenstorrent ML/AI Engineer ~ Google L4–L5 ML | Meta ML E4–E5 | Apple ML IC3–IC4 | AMD AI Software Engineer | NVIDIA CUDA Engineer | DeepMind Research Engineer"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "[Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | +15-25% AI Premium"
+---
 ### ML/AI Engineer | Tenstorrent Global Negotiation Guide
 
 **Negotiation DNA:** [Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | +15-25% AI Premium

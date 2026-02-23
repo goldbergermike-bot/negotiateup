@@ -1,3 +1,49 @@
+---
+company: coreweave
+company_display: Coreweave
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Roseland NJ
+    base_low: 245000
+    base_high: 305000
+    stock_low: 385000
+    stock_high: 672000
+    bonus_pct: null
+    total_comp_low: 341000
+    total_comp_high: 473000
+    currency: USD
+  - region: Remote US
+    base_low: 235000
+    base_high: 296000
+    stock_low: 385000
+    stock_high: 672000
+    bonus_pct: null
+    total_comp_low: 331000
+    total_comp_high: 464000
+    currency: USD
+  - region: London
+    base_low: 184000
+    base_high: 230000
+    stock_low: 290000
+    stock_high: 506000
+    bonus_pct: null
+    total_comp_low: 257000
+    total_comp_high: 357000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: CoreWeave Staff SWE = Google L5 = AWS Principal SWE = Meta E5 = Apple ICT4 = Microsoft 64-65
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium"
+---
 ### Staff Software Engineer | CoreWeave Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium

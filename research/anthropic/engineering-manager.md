@@ -1,3 +1,50 @@
+---
+company: anthropic
+company_display: Anthropic
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 280000
+    base_high: 350000
+    stock_low: 400000
+    stock_high: 700000
+    bonus_pct: null
+    total_comp_low: 380000
+    total_comp_high: 525000
+    currency: USD
+  - region: Seattle
+    base_low: 272000
+    base_high: 333000
+    stock_low: 400000
+    stock_high: 700000
+    bonus_pct: null
+    total_comp_low: 372000
+    total_comp_high: 508000
+    currency: USD
+  - region: London
+    base_low: 213000
+    base_high: 266000
+    stock_low: 304000
+    stock_high: 532000
+    bonus_pct: null
+    total_comp_low: 289000
+    total_comp_high: 399000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anthropic EM = Google L5-L6 EM = Meta M1-M2 = OpenAI EM = Amazon SDM II-III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium"
+---
 ### Engineering Manager | Anthropic Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium

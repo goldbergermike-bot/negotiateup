@@ -1,3 +1,49 @@
+---
+company: epic-games
+company_display: Epic Games
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 130000
+    base_high: 185000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 175000
+    total_comp_high: 275000
+    currency: USD
+  - region: Seattle
+    base_low: 140000
+    base_high: 195000
+    stock_low: 60000
+    stock_high: 175000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+  - region: London
+    base_low: 50000
+    base_high: 80000
+    stock_low: 18000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 73000
+    total_comp_high: 125000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic Product Designer = Google L4 UX = Apple ICT3 Design
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue"
+---
 ### Product Designer | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue

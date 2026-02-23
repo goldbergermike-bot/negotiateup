@@ -1,3 +1,48 @@
+---
+company: airwallex
+company_display: Airwallex
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Melbourne (AUD)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 375000
+    currency: AUD
+  - region: San Francisco (USD)
+    base_low: 195000
+    base_high: 265000
+    stock_low: 90000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 285000
+    total_comp_high: 465000
+    currency: USD
+  - region: London (GBP)
+    base_low: 95000
+    base_high: 135000
+    stock_low: 45000
+    stock_high: 95000
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 230000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into an ML/AI engineering compensation framework spanning Melbourne, San Francisco, and London markets. As an ML/AI Engineer at Airwallex, you build the machine learning systems that power fraud detection, transaction monitoring, FX optimization, risk scoring, and intelligent automation across the cross-border payments platform — your models are the intelligence layer "
+---
 ### ML/AI Engineer — Airwallex Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into an ML/AI engineering compensation framework spanning Melbourne, San Francisco, and London markets. As an ML/AI Engineer at Airwallex, you build the machine learning systems that power fraud detection, transaction monitoring, FX optimization, risk scoring, and intelligent automation across the cross-border payments platform — your models are the intelligence layer that makes compliance scalable and revenue optimizable.

@@ -1,3 +1,66 @@
+---
+company: amazon
+company_display: Amazon
+role: product-manager
+role_display: Product Manager Technical (PMT)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 160000
+    base_high: 185000
+    stock_low: 250000
+    stock_high: 600000
+    bonus_pct: null
+    signing_bonus_low: 60000
+    signing_bonus_high: 110000
+    total_comp_low: 300000
+    total_comp_high: 480000
+    currency: USD
+  - region: Bay Area
+    base_low: 165000
+    base_high: 185000
+    stock_low: 270000
+    stock_high: 630000
+    bonus_pct: null
+    signing_bonus_low: 65000
+    signing_bonus_high: 115000
+    total_comp_low: 315000
+    total_comp_high: 495000
+    currency: USD
+  - region: NYC
+    base_low: 165000
+    base_high: 185000
+    stock_low: 260000
+    stock_high: 620000
+    bonus_pct: null
+    signing_bonus_low: 60000
+    signing_bonus_high: 110000
+    total_comp_low: 305000
+    total_comp_high: 490000
+    currency: USD
+  - region: Arlington VA
+    base_low: 155000
+    base_high: 180000
+    stock_low: 230000
+    stock_high: 560000
+    bonus_pct: null
+    signing_bonus_low: 55000
+    signing_bonus_high: 100000
+    total_comp_low: 280000
+    total_comp_high: 455000
+    currency: USD
+level_mapping:
+  internal: PMT
+  raw: Amazon PMT L6 = Google L5 PM = Meta PM IC5 = Stripe PM
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Back-Loaded RSU Vesting / Signing Bonus Bridge | Technical PM Culture (PMT, Not PM)"
+---
 ### Product Manager Technical (PMT) | Amazon Global Negotiation Guide
 
 **Negotiation DNA:** Back-Loaded RSU Vesting / Signing Bonus Bridge | Technical PM Culture (PMT, Not PM)

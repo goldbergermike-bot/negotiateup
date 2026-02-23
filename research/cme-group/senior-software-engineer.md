@@ -1,3 +1,51 @@
+---
+company: cme-group
+company_display: CME Group
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 165000
+    base_high: 215000
+    stock_low: 45000
+    stock_high: 82000
+    bonus_low: 28000
+    bonus_high: 45000
+    total_comp_low: 238000
+    total_comp_high: 342000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 232000
+    stock_low: 49000
+    stock_high: 89000
+    bonus_low: 30000
+    bonus_high: 49000
+    total_comp_low: 257000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: 128000
+    base_high: 167000
+    stock_low: 35000
+    stock_high: 64000
+    bonus_low: 22000
+    bonus_high: 35000
+    total_comp_low: 185000
+    total_comp_high: 266000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Low-Latency Architecture` `Distributed Systems` `Exchange Core Infrastructure`"
+---
 ### Senior Software Engineer | CME Group Global Negotiation Guide
 
 **Negotiation DNA:** `Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Low-Latency Architecture` `Distributed Systems` `Exchange Core Infrastructure`

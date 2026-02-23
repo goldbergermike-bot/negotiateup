@@ -1,3 +1,50 @@
+---
+company: adept-ai
+company_display: Adept AI
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 230000
+    stock_low: 95000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 194000
+    total_comp_high: 299000
+    currency: USD
+  - region: Seattle
+    base_low: 165000
+    base_high: 223000
+    stock_low: 95000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 189000
+    total_comp_high: 292000
+    currency: USD
+  - region: Remote US
+    base_low: 153000
+    base_high: 207000
+    stock_low: 86000
+    stock_high: 248000
+    bonus_pct: null
+    total_comp_low: 174000
+    total_comp_high: 269000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Adept PM = Amazon Sr PM-Tech = Google L5 PM = Meta PM IC5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | AI Agent Product Strategy"
+---
 ### Product Manager | Adept AI Global Negotiation Guide
 
 **Negotiation DNA:** Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | AI Agent Product Strategy

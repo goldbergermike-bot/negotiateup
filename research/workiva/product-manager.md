@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 125000
+    base_high: 175000
+    stock_low: 38000
+    stock_high: 108000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 235000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 142000
+    base_high: 198000
+    stock_low: 48000
+    stock_high: 128000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 268000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 60000
+    base_high: 95000
+    stock_low: 18000
+    stock_high: 50000
+    bonus_pct: 10
+    total_comp_low: 72000
+    total_comp_high: 122000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 105000
+    base_high: 150000
+    stock_low: 28000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 122000
+    total_comp_high: 195000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 2200000
+    base_high: 4000000
+    stock_low: 1000000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 2800000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva PM (IC3/IC4) ~ Intuit PM/Senior PM | ServiceNow PM/Senior PM | Oracle PM/Senior PM | Domo Senior/Lead PM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GRC product strategist | Compliance platform & ESG product leadership | **PRODUCT LEADERSHIP PREMIUM**"
+---
 ### Product Manager | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** GRC product strategist | Compliance platform & ESG product leadership | **PRODUCT LEADERSHIP PREMIUM**

@@ -1,3 +1,49 @@
+---
+company: juniper
+company_display: Juniper
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 178000
+    base_high: 225000
+    stock_low: 55000
+    stock_high: 95000
+    bonus_pct: 12
+    total_comp_low: 270000
+    total_comp_high: 352000
+    currency: USD
+  - region: Westford (MA)
+    base_low: 168000
+    base_high: 210000
+    stock_low: 48000
+    stock_high: 85000
+    bonus_pct: 12
+    total_comp_low: 252000
+    total_comp_high: 330000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 205000
+    stock_low: 45000
+    stock_high: 80000
+    bonus_pct: 12
+    total_comp_low: 252000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Juniper EM (M1–M2) = Google L5–L6 Manager | Meta M1–M2 | Amazon SDM–Sr. SDM | Cisco Engineering Manager–Sr. Manager | HPE Manager–Senior Manager (M4–M5)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | +12% Management Premium"
+---
 ### Engineering Manager | Juniper Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | +12% Management Premium

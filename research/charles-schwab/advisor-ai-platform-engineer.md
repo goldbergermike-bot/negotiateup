@@ -1,3 +1,51 @@
+---
+company: charles-schwab
+company_display: Charles Schwab
+role: advisor-ai-platform-engineer
+role_display: Advisor AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westlake, TX (HQ)"
+    base_low: 248000
+    base_high: 345000
+    stock_low: 90000
+    stock_high: 140000
+    bonus_low: 44000
+    bonus_high: 73000
+    total_comp_low: 382000
+    total_comp_high: 558000
+    currency: USD
+  - region: San Francisco
+    base_low: 273000
+    base_high: 380000
+    stock_low: 99000
+    stock_high: 154000
+    bonus_low: 48000
+    bonus_high: 80000
+    total_comp_low: 420000
+    total_comp_high: 614000
+    currency: USD
+  - region: Denver
+    base_low: 260000
+    base_high: 362000
+    stock_low: 95000
+    stock_high: 147000
+    bonus_low: 46000
+    bonus_high: 77000
+    total_comp_low: 401000
+    total_comp_high: 586000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Advisor-AI Symbiosis` `Schwab Intelligent Portfolios` `Schwab Assistant AI` `Human-in-the-Loop Architecture` `Guardian Platform Owner` `Fiduciary AI` `Trust Engineering`"
+---
 ### Advisor AI Platform Engineer | Charles Schwab Global Negotiation Guide
 
 # SIGNATURE ROLE

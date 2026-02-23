@@ -1,3 +1,48 @@
+---
+company: activision-blizzard
+company_display: Activision Blizzard
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine / Santa Monica
+    base_low: 205000
+    base_high: 265000
+    stock_low: 160000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 450000
+    currency: USD
+  - region: Austin
+    base_low: 180000
+    base_high: 240000
+    stock_low: 135000
+    stock_high: 290000
+    bonus_pct: 15
+    total_comp_low: 263000
+    total_comp_high: 395000
+    currency: USD
+  - region: Hyderabad
+    base_low: 3800000
+    base_high: 6000000
+    stock_low: 2500000
+    stock_high: 5000000
+    bonus_pct: 15
+    total_comp_low: 6800000
+    total_comp_high: 11800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Activision/MS EM Level 63-65 = Google L5-L6 Manager = Meta M1-M2 = Amazon L7 Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine"
+---
 ### Engineering Manager | Activision Blizzard (Microsoft/Xbox) Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine

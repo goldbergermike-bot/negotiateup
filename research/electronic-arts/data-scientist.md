@@ -1,3 +1,48 @@
+---
+company: electronic-arts
+company_display: Electronic Arts
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 145000
+    base_high: 205000
+    stock_low: 70000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 300000
+    currency: USD
+  - region: Orlando
+    base_low: 125000
+    base_high: 180000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 161000
+    total_comp_high: 262000
+    currency: USD
+  - region: Bucharest
+    base_low: 45000
+    base_high: 70000
+    stock_low: 18000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 67000
+    total_comp_high: 115000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: EA Senior Data Scientist = Google L4 DS = Meta IC4 DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Sports-Gaming Revenue Machine"
+---
 ### Data Scientist | Electronic Arts Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Sports-Gaming Revenue Machine

@@ -1,3 +1,51 @@
+---
+company: interactive-brokers
+company_display: Interactive Brokers
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Greenwich, CT (HQ)"
+    base_low: 150000
+    base_high: 208000
+    stock_low: 36000
+    stock_high: 60000
+    bonus_low: 26000
+    bonus_high: 37000
+    total_comp_low: 212000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York
+    base_low: 158000
+    base_high: 218000
+    stock_low: 38000
+    stock_high: 63000
+    bonus_low: 27000
+    bonus_high: 39000
+    total_comp_low: 223000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: 111000
+    base_high: 154000
+    stock_low: 27000
+    stock_high: 44000
+    bonus_low: 19000
+    bonus_high: 27000
+    total_comp_low: 157000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Financial Systems Security` `Automated Threat Detection` `Regulatory Compliance Security`"
+---
 ### Security Engineer | Interactive Brokers Global Negotiation Guide
 
 **Negotiation DNA:** `ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Financial Systems Security` `Automated Threat Detection` `Regulatory Compliance Security`

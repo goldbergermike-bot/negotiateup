@@ -1,3 +1,48 @@
+---
+company: wayfair
+company_display: Wayfair
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 210000
+    base_high: 275000
+    stock_low: 65000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 375000
+    currency: USD
+  - region: New York
+    base_low: 220000
+    base_high: 288000
+    stock_low: 68000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 282000
+    total_comp_high: 394000
+    currency: USD
+  - region: Remote US
+    base_low: 189000
+    base_high: 248000
+    stock_low: 55000
+    stock_high: 98000
+    bonus_pct: 10
+    total_comp_low: 241000
+    total_comp_high: 338000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Wayfair Staff Software Engineer (L5-L6) = Google L6 = Amazon Principal SDE = Meta E6 = Apple ICT5-ICT6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Staff IC Premium + Technical Leadership"
+---
 ### Staff Software Engineer | Wayfair Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Staff IC Premium + Technical Leadership

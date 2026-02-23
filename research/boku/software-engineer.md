@@ -1,3 +1,48 @@
+---
+company: boku
+company_display: Boku
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 55000
+    base_high: 80000
+    stock_low: 20000
+    stock_high: 45000
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 125000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 120000
+    base_high: 165000
+    stock_low: 40000
+    stock_high: 90000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 255000
+    currency: USD
+  - region: Mumbai (INR)
+    base_low: 1500000
+    base_high: 2500000
+    stock_low: 500000
+    stock_high: 1200000
+    bonus_pct: null
+    total_comp_low: 2000000
+    total_comp_high: 3700000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Software Engineer compensation framework spanning London, San Francisco, and Mumbai markets."
+---
 ### Software Engineer — Boku Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Software Engineer compensation framework spanning London, San Francisco, and Mumbai markets.

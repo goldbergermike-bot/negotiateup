@@ -1,3 +1,50 @@
+---
+company: apple
+company_display: Apple
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 175000
+    base_high: 270000
+    stock_low: 160000
+    stock_high: 450000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 445000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 165000
+    base_high: 255000
+    stock_low: 140000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 415000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 170000
+    base_high: 265000
+    stock_low: 150000
+    stock_high: 430000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 430000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple TPM (ICT3 equivalent) = Google L4 TPM, Meta IC5 TPM, Amazon L5 TPM | Apple Senior TPM (ICT4 equivalent) = Google L5 TPM, Meta IC6 TPM, Amazon L6 TPM | Apple Staff TPM (ICT5 equivalent) = Google L6 TPM, Meta IC7 TPM, Amazon L7 TPM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strong program management base + substantial RSU grants driving Apple's most complex cross-functional programs | Apple positions TPMs as the execution engine for product launches spanning hardware, software, and services | **LAUNCH ORCHESTRATION PREMIUM: Apple's annual product cycle creates intense demand for TPMs who can ship on time**"
+---
 ### Technical Program Manager | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Strong program management base + substantial RSU grants driving Apple's most complex cross-functional programs | Apple positions TPMs as the execution engine for product launches spanning hardware, software, and services | **LAUNCH ORCHESTRATION PREMIUM: Apple's annual product cycle creates intense demand for TPMs who can ship on time**

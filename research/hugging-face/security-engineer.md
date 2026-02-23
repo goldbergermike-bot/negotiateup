@@ -1,3 +1,52 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 75000
+    base_high: 102000
+    stock_low: 85000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 96000
+    total_comp_high: 143000
+    currency: EUR
+  - region: New York
+    base_low: 175000
+    base_high: 218000
+    stock_low: 155000
+    stock_high: 278000
+    bonus_pct: null
+    total_comp_low: 214000
+    total_comp_high: 288000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "HF Security Engineer = Google Security Engineer L4 (Paris) = Meta Security Engineer (E4–E5) = Datadog Paris Security Engineer = Snyk Senior Security Engineer. Paris security bands (€75K–€102K) compete with Google Paris Security Engineer (€80K–€110K base + RSUs) and Thales Cybersecurity Engineer (€70K–€95K base). HF security engineers have disproportionate scope — you're securing an entire ML ecosystem, not a single product or service."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat"
+---
 ### Security Engineer | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat

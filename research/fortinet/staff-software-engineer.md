@@ -1,3 +1,47 @@
+---
+company: fortinet
+company_display: Fortinet
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 340000
+    currency: USD
+  - region: Ottawa
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 115000
+    total_comp_high: 260000
+    currency: CAD
+  - region: Sophia Antipolis
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 135000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Blind
+negotiation_dna_summary: "Staff-level engineers at Fortinet set the technical direction for the Security Fabric — with the Rule of 45 sustained for six years and Sovereign-SASE scaling globally, your architectural decisions are worth seven figures in revenue impact."
+---
 ### Staff Software Engineer — Fortinet Salary Negotiation Guide
 
 **Negotiation DNA**: Staff-level engineers at Fortinet set the technical direction for the Security Fabric — with the Rule of 45 sustained for six years and Sovereign-SASE scaling globally, your architectural decisions are worth seven figures in revenue impact.

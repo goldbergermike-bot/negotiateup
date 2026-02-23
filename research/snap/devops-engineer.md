@@ -1,3 +1,49 @@
+---
+company: snap
+company_display: Snap
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 145000
+    base_high: 182000
+    stock_low: 140000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 258000
+    currency: USD
+  - region: San Francisco
+    base_low: 153000
+    base_high: 192000
+    stock_low: 148000
+    stock_high: 248000
+    bonus_pct: 10
+    total_comp_low: 203000
+    total_comp_high: 274000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 188000
+    stock_low: 145000
+    stock_high: 242000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snap DevOps Engineer (L3–L6) = Google Site Reliability Engineer L3-L6 = Meta Production Engineer IC3-IC6 = Apple DevOps/SRE = Amazon Systems Engineer = Microsoft DevOps Engineer (59-64)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | Infrastructure & Reliability Premium"
+---
 ### DevOps Engineer | Snap Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | Infrastructure & Reliability Premium

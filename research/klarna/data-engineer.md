@@ -1,3 +1,48 @@
+---
+company: klarna
+company_display: Klarna
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York
+    base_low: 162000
+    base_high: 205000
+    stock_low: 102000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 262000
+    currency: USD
+  - region: Remote EU
+    base_low: 58000
+    base_high: 75000
+    stock_low: 32000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 65000
+    total_comp_high: 95000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Klarna DE (IC2-IC3) = Stripe DE = Adyen DE = Block DE = Google L4-L5 DE = PayPal DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER**"
+---
 ### Data Engineer | Klarna Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER**

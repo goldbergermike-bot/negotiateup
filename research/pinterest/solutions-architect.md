@@ -1,3 +1,48 @@
+---
+company: pinterest
+company_display: Pinterest
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 202000
+    stock_low: 135000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 275000
+    currency: USD
+  - region: New York
+    base_low: 158000
+    base_high: 195000
+    stock_low: 128000
+    stock_high: 238000
+    bonus_pct: 10
+    total_comp_low: 193000
+    total_comp_high: 265000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 180000
+    stock_low: 112000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Pinterest Solutions Architect (L4–L5) = Google Customer Engineer L4–L5 = Meta Solutions Engineer (IC4–IC5) = Amazon Solutions Architect II–III = Salesforce Solutions Architect
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Technical Sales & Partner Integration Premium | Standard 4-year vest with 1-year cliff"
+---
 ### Solutions Architect | Pinterest Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Technical Sales & Partner Integration Premium | Standard 4-year vest with 1-year cliff

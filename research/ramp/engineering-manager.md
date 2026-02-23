@@ -1,3 +1,48 @@
+---
+company: ramp
+company_display: Ramp
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 225000
+    base_high: 272000
+    stock_low: 218000
+    stock_high: 368000
+    bonus_pct: 15
+    total_comp_low: 315000
+    total_comp_high: 418000
+    currency: USD
+  - region: San Francisco
+    base_low: 222000
+    base_high: 268000
+    stock_low: 212000
+    stock_high: 358000
+    bonus_pct: 15
+    total_comp_low: 308000
+    total_comp_high: 412000
+    currency: USD
+  - region: Remote US
+    base_low: 218000
+    base_high: 262000
+    stock_low: 208000
+    stock_high: 348000
+    bonus_pct: 15
+    total_comp_low: 298000
+    total_comp_high: 402000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ramp EM (M1-M2) = Brex EM = Google EM L5-L6 = Meta EM M1-M2 = Stripe EM = Amazon SDM L6-L7
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOUR TEAM'S OUTPUT DIRECTLY DRIVES CUSTOMER SAVINGS AT SCALE**"
+---
 ### Engineering Manager | Ramp Global Negotiation Guide
 
 **Negotiation DNA:** Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOUR TEAM'S OUTPUT DIRECTLY DRIVES CUSTOMER SAVINGS AT SCALE**

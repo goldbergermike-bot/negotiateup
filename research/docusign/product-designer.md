@@ -1,3 +1,67 @@
+---
+company: docusign
+company_display: Docusign
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 140000
+    base_high: 195000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 265000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 120000
+    base_high: 170000
+    stock_low: 40000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 225000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 68000
+    base_high: 102000
+    stock_low: 25000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 88000
+    total_comp_high: 140000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2000000
+    base_high: 3600000
+    stock_low: 800000
+    stock_high: 2400000
+    bonus_pct: 10
+    total_comp_low: 2600000
+    total_comp_high: 4800000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 115000
+    base_high: 162000
+    stock_low: 38000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign IC2/IC3 (Design) ~ Salesforce Senior/Lead Designer | Adobe Senior/Staff Designer | Figma Senior/Staff | Google L4/L5 UX"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Agreement experience & workflow design specialist | Trust-centered UX for legal transactions | **DESIGN PREMIUM**"
+---
 ### Product Designer | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** Agreement experience & workflow design specialist | Trust-centered UX for legal transactions | **DESIGN PREMIUM**

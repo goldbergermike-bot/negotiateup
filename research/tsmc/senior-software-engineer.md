@@ -1,3 +1,50 @@
+---
+company: tsmc
+company_display: TSMC
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Phoenix AZ
+    base_low: 155000
+    base_high: 200000
+    stock_low: 40000
+    stock_high: 72000
+    bonus_pct: 15
+    total_comp_low: 208000
+    total_comp_high: 292000
+    currency: USD
+  - region: San Jose
+    base_low: 168000
+    base_high: 218000
+    stock_low: 48000
+    stock_high: 80000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 315000
+    currency: USD
+  - region: Hsinchu Taiwan
+    base_low: null
+    base_high: null
+    stock_low: 30000
+    stock_high: 55000
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: TSMC Senior Software Engineer = Intel Foundry Senior SWE (Grade 8) = Samsung Foundry Senior SWE = Synopsys Senior SWE = Cadence Senior SWE = Applied Materials Senior SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone"
+---
 ### Senior Software Engineer | TSMC Global Negotiation Guide
 
 **Negotiation DNA:** Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone

@@ -1,3 +1,49 @@
+---
+company: reddit
+company_display: Reddit
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 192000
+    base_high: 238000
+    stock_low: 118000
+    stock_high: 212000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York
+    base_low: 198000
+    base_high: 245000
+    stock_low: 118000
+    stock_high: 212000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 315000
+    currency: USD
+  - region: Remote US
+    base_low: 182000
+    base_high: 228000
+    stock_low: 118000
+    stock_high: 212000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Reddit Security Eng (L4-L5) = Google L4 Security = Meta Security Eng = Amazon Security Eng II
+data_sources:
+  - Reddit
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth"
+---
 ### Security Engineer | Reddit Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth

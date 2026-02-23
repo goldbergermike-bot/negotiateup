@@ -1,3 +1,49 @@
+---
+company: qualcomm
+company_display: Qualcomm
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego
+    base_low: 162000
+    base_high: 215000
+    stock_low: 55000
+    stock_high: 88000
+    bonus_pct: 15
+    total_comp_low: 238000
+    total_comp_high: 332000
+    currency: USD
+  - region: Santa Clara
+    base_low: 175000
+    base_high: 232000
+    stock_low: 62000
+    stock_high: 98000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 362000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 80000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 300000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Qualcomm ML/AI (E5–E7) = Google L5–L6 ML = Meta ML (IC5–IC6) = Apple ML = Microsoft ML 62–64 = Amazon Applied Scientist III"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +15-25% AI Premium"
+---
 ### ML/AI Engineer | Qualcomm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +15-25% AI Premium

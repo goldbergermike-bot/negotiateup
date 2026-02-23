@@ -1,3 +1,50 @@
+---
+company: asml
+company_display: Asml
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 72000
+    base_high: 85000
+    stock_low: 18000
+    stock_high: 32000
+    bonus_pct: 10
+    total_comp_low: 72000
+    total_comp_high: 98000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 125000
+    base_high: 170000
+    stock_low: 35000
+    stock_high: 60000
+    bonus_pct: 12
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+  - region: San Jose
+    base_low: 132000
+    base_high: 178000
+    stock_low: 38000
+    stock_high: 62000
+    bonus_pct: 12
+    total_comp_low: 185000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML Technical Program Manager maps to Google L5 TPM, Meta TPM IC5, Apple TPM, Microsoft TPM 63–64, and semiconductor industry Senior Program Manager."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% TPM Band"
+---
 ### Technical Program Manager | ASML Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% TPM Band

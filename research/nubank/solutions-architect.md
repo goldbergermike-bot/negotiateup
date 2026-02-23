@@ -1,3 +1,49 @@
+---
+company: nubank
+company_display: Nubank
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (US HQ)
+    base_low: 150000
+    base_high: 205000
+    stock_low: 120000
+    stock_high: 260000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 205000
+    total_comp_high: 298000
+    currency: USD
+  - region: São Paulo (Global HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Berlin
+    base_low: 125000
+    base_high: 171000
+    stock_low: 100000
+    stock_high: 217000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 243000
+    total_comp_high: 420000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`US Charter` `Founding US Team` `$783M Quarterly Profit` `Public Equity (NYSE: NU)` `100M+ Customers` `System Design` `API Strategy` `Partner Integrations` `Cloud Architecture` `Banking APIs`"
+---
 ### Solutions Architect | Nubank Global Negotiation Guide
 
 **Negotiation DNA:** `US Charter` `Founding US Team` `$783M Quarterly Profit` `Public Equity (NYSE: NU)` `100M+ Customers` `System Design` `API Strategy` `Partner Integrations` `Cloud Architecture` `Banking APIs`

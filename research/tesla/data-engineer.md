@@ -1,3 +1,48 @@
+---
+company: tesla
+company_display: Tesla
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin (HQ)
+    base_low: 130000
+    base_high: 185000
+    stock_low: 90000
+    stock_high: 230000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 300000
+    currency: USD
+  - region: Palo Alto
+    base_low: 140000
+    base_high: 195000
+    stock_low: 100000
+    stock_high: 245000
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 315000
+    currency: USD
+  - region: Fremont
+    base_low: 135000
+    base_high: 190000
+    stock_low: 95000
+    stock_high: 238000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tesla Data Engineer = Google L3/L4 Data Eng = Meta E3/E4 Data Eng = Databricks Senior Data Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk"
+---
 ### Data Engineer | Tesla Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk

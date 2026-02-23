@@ -1,3 +1,49 @@
+---
+company: twilio
+company_display: Twilio
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Francisco, CA (HQ)"
+    base_low: 220000
+    base_high: 280000
+    stock_low: 300000
+    stock_high: 550000
+    bonus_pct: 15
+    total_comp_low: 380000
+    total_comp_high: 550000
+    currency: USD
+  - region: "Denver, CO"
+    base_low: 200000
+    base_high: 260000
+    stock_low: 250000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 345000
+    total_comp_high: 500000
+    currency: USD
+  - region: "London, UK"
+    base_low: 145000
+    base_high: 190000
+    stock_low: 180000
+    stock_high: 350000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 400000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Twilio L4 (Staff Software Engineer) = Google L5 = Meta E5 = Datadog IC4 = Cloudflare IC4
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Staff-level technical leadership premium | CustomerAI platform strategy ownership in 2026"
+---
 ### Staff Software Engineer | Twilio Global Negotiation Guide
 
 **Negotiation DNA:** Staff-level technical leadership premium | CustomerAI platform strategy ownership in 2026

@@ -1,3 +1,50 @@
+---
+company: match-group
+company_display: Match Group
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas
+    base_low: 165000
+    base_high: 225000
+    stock_low: 38000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 302000
+    currency: USD
+  - region: New York
+    base_low: 182000
+    base_high: 248000
+    stock_low: 42000
+    stock_high: 67000
+    bonus_pct: 10
+    total_comp_low: 237000
+    total_comp_high: 347000
+    currency: USD
+  - region: Los Angeles
+    base_low: 165000
+    base_high: 225000
+    stock_low: 38000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 302000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Match Group ML/AI Engineer = Google L4/L5 ML Engineer = Meta ML Engineer (IC4/IC5) = Amazon Applied Scientist II/III = Microsoft ML Engineer 62/63 = Apple ML Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus + 15-25% AI Premium | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)"
+---
 ### ML/AI Engineer | Match Group Global Negotiation Guide
 
 **Negotiation DNA:** Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus + 15-25% AI Premium | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)

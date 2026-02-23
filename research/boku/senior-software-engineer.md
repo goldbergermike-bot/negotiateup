@@ -1,3 +1,48 @@
+---
+company: boku
+company_display: Boku
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 75000
+    base_high: 110000
+    stock_low: 35000
+    stock_high: 75000
+    bonus_pct: null
+    total_comp_low: 110000
+    total_comp_high: 185000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 160000
+    base_high: 210000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 360000
+    currency: USD
+  - region: Mumbai (INR)
+    base_low: 2500000
+    base_high: 4200000
+    stock_low: 1000000
+    stock_high: 2000000
+    bonus_pct: null
+    total_comp_low: 3500000
+    total_comp_high: 6200000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Senior Software Engineer compensation framework spanning London, San Francisco, and Mumbai markets."
+---
 ### Senior Software Engineer — Boku Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Senior Software Engineer compensation framework spanning London, San Francisco, and Mumbai markets.

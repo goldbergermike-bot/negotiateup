@@ -1,3 +1,50 @@
+---
+company: sea-group
+company_display: Sea Group
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 155000
+    base_high: 240000
+    stock_low: 75000
+    stock_high: 200000
+    bonus_pct: 12
+    total_comp_low: 220000
+    total_comp_high: 385000
+    currency: USD
+  - region: Bay Area / Seattle (US)
+    base_low: 180000
+    base_high: 250000
+    stock_low: 95000
+    stock_high: 250000
+    bonus_pct: 12
+    total_comp_low: 265000
+    total_comp_high: 420000
+    currency: USD
+  - region: "Shenzhen (R&D)"
+    base_low: 480000
+    base_high: 840000
+    stock_low: 220000
+    stock_high: 560000
+    bonus_pct: 12
+    total_comp_low: 700000
+    total_comp_high: 1300000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "EM at Sea Group (L7+) = M1-M2 at Google, M1-M2 at Meta, SDM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$35B market cap with rapidly growing engineering teams across Shopee, Garena, and SeaMoney + Singapore management comp competitive with regional tech + NYSE RSUs | Sea Group EMs lead teams building SE Asia's largest e-commerce, gaming, and fintech platforms | **TRIPLE-PLATFORM LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Sea Group Global Negotiation Guide
 
 **Negotiation DNA:** $35B market cap with rapidly growing engineering teams across Shopee, Garena, and SeaMoney + Singapore management comp competitive with regional tech + NYSE RSUs | Sea Group EMs lead teams building SE Asia's largest e-commerce, gaming, and fintech platforms | **TRIPLE-PLATFORM LEADERSHIP PREMIUM**

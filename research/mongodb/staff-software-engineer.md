@@ -1,3 +1,48 @@
+---
+company: mongodb
+company_display: Mongodb
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 225000
+    base_high: 270000
+    stock_low: 350000
+    stock_high: 550000
+    bonus_pct: null
+    total_comp_low: 315000
+    total_comp_high: 410000
+    currency: USD
+  - region: Dublin
+    base_low: 100000
+    base_high: 128000
+    stock_low: 140000
+    stock_high: 225000
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 185000
+    currency: EUR
+  - region: Austin
+    base_low: 215000
+    base_high: 260000
+    stock_low: 320000
+    stock_high: 500000
+    bonus_pct: null
+    total_comp_low: 295000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: MongoDB Staff SWE = Google L5 = Meta E5 = Elastic Staff SWE = Snowflake Staff SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + No Bonus | \"Battle for the AI Data Layer\" | Voyage AI Acquisition Premium"
+---
 ### Staff Software Engineer | MongoDB Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + No Bonus | "Battle for the AI Data Layer" | Voyage AI Acquisition Premium

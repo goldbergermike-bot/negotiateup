@@ -1,3 +1,39 @@
+---
+company: walmart-global-tech
+company_display: Walmart Global Tech
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bentonville AR (HQ)
+    base_low: 160000
+    base_high: 218000
+    stock_low: 90000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 360000
+    currency: USD
+  - region: Bay Area (Sunnyvale)
+    base_low: 175000
+    base_high: 235000
+    stock_low: 105000
+    stock_high: 265000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Walmart Global Tech EM = Google EM L5 = Meta M1 = Amazon SDM II = Apple EM2
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage"
+---
 ### Engineering Manager | Walmart Global Tech Global Negotiation Guide
 
 **Negotiation DNA:** Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage

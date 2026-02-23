@@ -1,3 +1,48 @@
+---
+company: expedia
+company_display: Expedia
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 155000
+    base_high: 205000
+    stock_low: 108000
+    stock_high: 182000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 282000
+    currency: USD
+  - region: Austin
+    base_low: 140000
+    base_high: 186000
+    stock_low: 95000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 255000
+    currency: USD
+  - region: London
+    base_low: 113000
+    base_high: 150000
+    stock_low: 80000
+    stock_high: 136000
+    bonus_pct: 15
+    total_comp_low: 150000
+    total_comp_high: 207000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Expedia Security Engineer = Google Security Engineer L4/L5 = Booking.com Security Engineer = Airbnb Security Engineer = Amazon Security Engineer = Microsoft Security Engineer 62/63
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | Security Critical Premium"
+---
 ### Security Engineer | Expedia Global Negotiation Guide
 
 **Negotiation DNA:** Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | Security Critical Premium

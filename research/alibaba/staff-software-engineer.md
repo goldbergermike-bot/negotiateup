@@ -1,3 +1,68 @@
+---
+company: alibaba
+company_display: Alibaba
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 195000
+    base_high: 265000
+    stock_low: 140000
+    stock_high: 330000
+    bonus_pct: 15
+    total_comp_low: 320000
+    total_comp_high: 480000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 190000
+    base_high: 260000
+    stock_low: 135000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 470000
+    currency: USD
+  - region: Hangzhou (HQ)
+    base_low: 650000
+    base_high: 1150000
+    stock_low: 350000
+    stock_high: 850000
+    bonus_pct: 20
+    total_comp_low: 1100000
+    total_comp_high: 2100000
+    currency: CNY
+  - region: Beijing
+    base_low: 620000
+    base_high: 1100000
+    stock_low: 330000
+    stock_high: 800000
+    bonus_pct: 20
+    total_comp_low: 1000000
+    total_comp_high: 2000000
+    currency: CNY
+  - region: Singapore
+    base_low: 165000
+    base_high: 245000
+    stock_low: 90000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 400000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Staff Software Engineer at Alibaba (P8-P9) = L6 at Google, IC6 at Meta, Principal at Amazon, equivalent ByteDance 3-1"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B market cap with Staff engineers defining architecture for Asia's largest cloud and $1T+ e-commerce ecosystem + P8-P9 level engineers have exceptional influence across Alibaba's business groups + US comp approaching FAANG Staff/L6 levels | Staff engineers at Alibaba shape technical direction for platforms serving 1B+ consumers | **ARCHITECTURAL AUTHORITY PREMIUM**"
+---
 ### Staff Software Engineer | Alibaba Global Negotiation Guide
 
 **Negotiation DNA:** $200B market cap with Staff engineers defining architecture for Asia's largest cloud and $1T+ e-commerce ecosystem + P8-P9 level engineers have exceptional influence across Alibaba's business groups + US comp approaching FAANG Staff/L6 levels | Staff engineers at Alibaba shape technical direction for platforms serving 1B+ consumers | **ARCHITECTURAL AUTHORITY PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: segment
+company_display: Segment
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 218000
+    stock_low: 130000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 325000
+    currency: USD
+  - region: New York
+    base_low: 172000
+    base_high: 212000
+    stock_low: 125000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 238000
+    total_comp_high: 315000
+    currency: USD
+  - region: London
+    base_low: 128000
+    base_high: 158000
+    stock_low: 90000
+    stock_high: 168000
+    bonus_pct: 15
+    total_comp_low: 172000
+    total_comp_high: 232000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Segment PM = Google L5 PM = Twilio Senior PM = Meta PM IC5 = Salesforce PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Premium Twilio RSU + Performance Bonus | AI CDP Product Strategy 2026"
+---
 ### Product Manager | Segment Global Negotiation Guide
 
 **Negotiation DNA:** Premium Twilio RSU + Performance Bonus | AI CDP Product Strategy 2026

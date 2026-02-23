@@ -1,3 +1,68 @@
+---
+company: docusign
+company_display: Docusign
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 200000
+    base_high: 275000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 440000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 175000
+    base_high: 245000
+    stock_low: 90000
+    stock_high: 240000
+    bonus_pct: 12
+    total_comp_low: 250000
+    total_comp_high: 385000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 95000
+    base_high: 145000
+    stock_low: 50000
+    stock_high: 125000
+    bonus_pct: 12
+    total_comp_low: 135000
+    total_comp_high: 225000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 4000000
+    base_high: 7200000
+    stock_low: 2200000
+    stock_high: 5200000
+    bonus_pct: 12
+    total_comp_low: 5500000
+    total_comp_high: 10200000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 70000
+    stock_high: 155000
+    bonus_pct: 12
+    total_comp_low: 200000
+    total_comp_high: 315000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign EM (IC4/IC5 equiv) ~ Salesforce Director Eng | Adobe EM/Senior EM | ServiceNow EM | Google L6 EM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "SaaS engineering leadership | IAM platform delivery & team builder | **LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** SaaS engineering leadership | IAM platform delivery & team builder | **LEADERSHIP PREMIUM**

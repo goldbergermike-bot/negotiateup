@@ -1,3 +1,52 @@
+---
+company: adyen
+company_display: Adyen
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 95000
+    base_high: 135000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 162000
+    total_comp_high: 267000
+    currency: EUR
+  - region: San Francisco
+    base_low: 155000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 165000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 253000
+    total_comp_high: 407000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 122000
+    stock_low: 48000
+    stock_high: 95000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 143000
+    total_comp_high: 237000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Adyen | Google | Meta | Stripe | Visa | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Product Track`"
+---
 ### Product Manager | Adyen Global Negotiation Guide
 
 **Negotiation DNA:** `AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Product Track`

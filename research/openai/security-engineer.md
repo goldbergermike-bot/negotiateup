@@ -1,3 +1,48 @@
+---
+company: openai
+company_display: OpenAI
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 225000
+    base_high: 282000
+    stock_low: 325000
+    stock_high: 568000
+    bonus_pct: null
+    total_comp_low: 306000
+    total_comp_high: 424000
+    currency: USD
+  - region: Seattle
+    base_low: 218000
+    base_high: 272000
+    stock_low: 325000
+    stock_high: 568000
+    bonus_pct: null
+    total_comp_low: 299000
+    total_comp_high: 414000
+    currency: USD
+  - region: London
+    base_low: 158000
+    base_high: 198000
+    stock_low: 238000
+    stock_high: 415000
+    bonus_pct: null
+    total_comp_low: 217000
+    total_comp_high: 302000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI Security Eng = Google L4-L5 Security = Meta Security Eng = Anthropic Security Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)"
+---
 ### Security Engineer | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+)

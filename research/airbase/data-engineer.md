@@ -1,3 +1,53 @@
+---
+company: airbase
+company_display: Airbase
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 205000
+    stock_low: 50000
+    stock_high: 110000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 220000
+    total_comp_high: 343000
+    currency: USD
+  - region: Bangalore
+    base_low: 2500000
+    base_high: 4200000
+    stock_low: 1200000
+    stock_high: 2600000
+    bonus_low: 300000
+    bonus_high: 600000
+    total_comp_low: 4000000
+    total_comp_high: 7400000
+    currency: INR
+  - region: New York
+    base_low: 160000
+    base_high: 210000
+    stock_low: 50000
+    stock_high: 110000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 225000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Airbase | Google | Meta | Stripe | Bill.com | Coupa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Data Pipelines` `Real-Time Processing` `ETL/ELT`"
+---
 ### Data Engineer | Airbase Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Data Pipelines` `Real-Time Processing` `ETL/ELT`

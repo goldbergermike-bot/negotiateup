@@ -1,3 +1,48 @@
+---
+company: trellix
+company_display: Trellix
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Milpitas/Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 325000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 305000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 1800000
+    total_comp_high: 8200000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "DevOps Engineers at Trellix build and unify the CI/CD pipelines, cloud infrastructure, and deployment systems across the merged McAfee Enterprise and FireEye platform, enabling reliable delivery of the XDR platform to enterprise customers."
+---
 ### DevOps Engineer — Trellix Salary Negotiation Guide
 
 **Negotiation DNA**: DevOps Engineers at Trellix build and unify the CI/CD pipelines, cloud infrastructure, and deployment systems across the merged McAfee Enterprise and FireEye platform, enabling reliable delivery of the XDR platform to enterprise customers.

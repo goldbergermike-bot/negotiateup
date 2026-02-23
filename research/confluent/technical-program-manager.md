@@ -1,3 +1,48 @@
+---
+company: confluent
+company_display: Confluent
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 162000
+    base_high: 202000
+    stock_low: 150000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 265000
+    currency: USD
+  - region: London
+    base_low: 68000
+    base_high: 88000
+    stock_low: 60000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 80000
+    total_comp_high: 112000
+    currency: GBP
+  - region: Bangalore
+    base_low: 3800000
+    base_high: 5800000
+    stock_low: 2800000
+    stock_high: 4800000
+    bonus_pct: 10
+    total_comp_low: 4800000
+    total_comp_high: 7500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Confluent Senior TPM = Google L4 TPM = Databricks Senior TPM = MongoDB Senior TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy"
+---
 ### Technical Program Manager | Confluent Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy

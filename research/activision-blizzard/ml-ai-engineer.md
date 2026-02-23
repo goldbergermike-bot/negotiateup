@@ -1,3 +1,48 @@
+---
+company: activision-blizzard
+company_display: Activision Blizzard
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine / Santa Monica
+    base_low: 175000
+    base_high: 240000
+    stock_low: 120000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 395000
+    currency: USD
+  - region: Austin
+    base_low: 155000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 348000
+    currency: USD
+  - region: Hyderabad
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 2000000
+    stock_high: 4200000
+    bonus_pct: 10
+    total_comp_low: 5500000
+    total_comp_high: 10300000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Activision/MS ML Eng Level 63-64 = Google L4-L5 ML = Meta E4-E5 ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine | **+10–20% AI PREMIUM**"
+---
 ### ML/AI Engineer | Activision Blizzard (Microsoft/Xbox) Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine | **+10–20% AI PREMIUM**

@@ -1,3 +1,40 @@
+---
+company: domo
+company_display: Domo
+role: bi-platform-engineer
+role_display: BI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: American Fork UT HQ
+    base_low: 120000
+    base_high: 170000
+    stock_low: 30000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 160000
+    stock_low: 25000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Domo BI Platform Eng (Senior) = Tableau SWE = Looker SWE = Sisense SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Small-Cap Public ($700M Market Cap) | BI Platform | **SIGNATURE ROLE** | Utah-Based Value"
+---
 ### BI Platform Engineer | Domo Global Negotiation Guide
 
 **Negotiation DNA:** Small-Cap Public ($700M Market Cap) | BI Platform | **SIGNATURE ROLE** | Utah-Based Value

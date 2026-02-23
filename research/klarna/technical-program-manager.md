@@ -1,3 +1,48 @@
+---
+company: klarna
+company_display: Klarna
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York
+    base_low: 168000
+    base_high: 215000
+    stock_low: 108000
+    stock_high: 192000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 272000
+    currency: USD
+  - region: Remote EU
+    base_low: 62000
+    base_high: 82000
+    stock_low: 35000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 72000
+    total_comp_high: 102000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Klarna TPM (TPM2-TPM3) = Stripe TPM = Adyen TPM = Block TPM = Google L5 Payments TPM = PayPal TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER**"
+---
 ### Technical Program Manager | Klarna Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER**

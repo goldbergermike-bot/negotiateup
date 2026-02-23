@@ -1,3 +1,49 @@
+---
+company: electronic-arts
+company_display: Electronic Arts
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 150000
+    base_high: 210000
+    stock_low: 65000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 305000
+    currency: USD
+  - region: Orlando
+    base_low: 130000
+    base_high: 185000
+    stock_low: 55000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 268000
+    currency: USD
+  - region: Bucharest
+    base_low: 48000
+    base_high: 75000
+    stock_low: 18000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 70000
+    total_comp_high: 120000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: EA Security Engineer ICT3 = Google L4 Security = Meta E4 Security
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "RSU + Bonus | Sports-Gaming Revenue Machine"
+---
 ### Security Engineer | Electronic Arts Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Sports-Gaming Revenue Machine

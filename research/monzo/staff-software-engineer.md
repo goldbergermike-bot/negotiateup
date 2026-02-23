@@ -1,3 +1,51 @@
+---
+company: monzo
+company_display: Monzo
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 85000
+    base_high: 120000
+    stock_low: 15000
+    stock_high: 24000
+    bonus_low: 8000
+    bonus_high: 11000
+    total_comp_low: 108000
+    total_comp_high: 155000
+    currency: GBP
+  - region: Remote UK
+    base_low: 81000
+    base_high: 114000
+    stock_low: 14000
+    stock_high: 23000
+    bonus_low: 8000
+    bonus_high: 10000
+    total_comp_low: 103000
+    total_comp_high: 147000
+    currency: GBP
+  - region: Remote US
+    base_low: 135000
+    base_high: 190000
+    stock_low: 24000
+    stock_high: 38000
+    bonus_low: 13000
+    bonus_high: 18000
+    total_comp_low: 172000
+    total_comp_high: 246000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Architecture Owner` `Staff IC Track` `Cross-Squad Leadership`"
+---
 ### Staff Software Engineer | Monzo Global Negotiation Guide
 
 **Negotiation DNA:** `OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Architecture Owner` `Staff IC Track` `Cross-Squad Leadership`

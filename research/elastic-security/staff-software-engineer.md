@@ -1,3 +1,49 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 228000
+    base_high: 285000
+    stock_low: 280000
+    stock_high: 480000
+    bonus_pct: 10
+    total_comp_low: 345000
+    total_comp_high: 480000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 215000
+    base_high: 270000
+    stock_low: 258000
+    stock_high: 442000
+    bonus_pct: 10
+    total_comp_low: 325000
+    total_comp_high: 450000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 174000
+    base_high: 217000
+    stock_low: 213000
+    stock_high: 365000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 365000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic Staff SWE IC5 = Google L6 = Meta E6 = CrowdStrike Staff Engineer = Palo Alto Staff Engineer = Splunk Distinguished Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity"
+---
 ### Staff Software Engineer | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity

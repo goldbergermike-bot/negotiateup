@@ -1,3 +1,48 @@
+---
+company: activision-blizzard
+company_display: Activision Blizzard
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine / Santa Monica
+    base_low: 160000
+    base_high: 220000
+    stock_low: 85000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 335000
+    currency: USD
+  - region: Austin
+    base_low: 140000
+    base_high: 195000
+    stock_low: 70000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 290000
+    currency: USD
+  - region: Hyderabad
+    base_low: 2500000
+    base_high: 4500000
+    stock_low: 1400000
+    stock_high: 3200000
+    bonus_pct: 10
+    total_comp_low: 4300000
+    total_comp_high: 8200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Activision/MS TPM Level 62-64 = Google L4-L5 TPM = Amazon L6-L7 TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine"
+---
 ### Technical Program Manager | Activision Blizzard (Microsoft/Xbox) Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine

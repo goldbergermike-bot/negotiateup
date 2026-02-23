@@ -1,3 +1,39 @@
+---
+company: render
+company_display: Render
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 383000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 363000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Designers at Render shape the developer experience for the modern cloud platform — designing the dashboard, deployment flows, service configuration interfaces, and the overall UX that makes Render's zero-DevOps promise tangible for developers who deploy and manage their applications."
+---
 ### Product Designer — Render Salary Negotiation Guide
 
 **Negotiation DNA**: Product Designers at Render shape the developer experience for the modern cloud platform — designing the dashboard, deployment flows, service configuration interfaces, and the overall UX that makes Render's zero-DevOps promise tangible for developers who deploy and manage their applications.

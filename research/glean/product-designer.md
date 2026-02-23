@@ -1,3 +1,50 @@
+---
+company: glean
+company_display: Glean
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 160000
+    base_high: 225000
+    stock_low: 95000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 184000
+    total_comp_high: 294000
+    currency: USD
+  - region: New York City
+    base_low: 160000
+    base_high: 225000
+    stock_low: 95000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 184000
+    total_comp_high: 294000
+    currency: USD
+  - region: Remote US
+    base_low: 144000
+    base_high: 203000
+    stock_low: 86000
+    stock_high: 248000
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Glean Product Designer = Google L4-L5 UX Designer = Meta Product Designer IC4-IC5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strong Growth-Stage Comp + Pre-IPO Equity | $4.6B Valuation | Palo Alto | Enterprise AI UX"
+---
 ### Product Designer | Glean Global Negotiation Guide
 
 **Negotiation DNA:** Strong Growth-Stage Comp + Pre-IPO Equity | $4.6B Valuation | Palo Alto | Enterprise AI UX

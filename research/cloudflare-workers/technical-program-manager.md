@@ -1,3 +1,48 @@
+---
+company: cloudflare-workers
+company_display: Cloudflare Workers
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 182000
+    base_high: 232000
+    stock_low: 168000
+    stock_high: 295000
+    bonus_pct: 10
+    total_comp_low: 260000
+    total_comp_high: 362000
+    currency: USD
+  - region: Austin
+    base_low: 172000
+    base_high: 222000
+    stock_low: 158000
+    stock_high: 282000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 155000
+    stock_low: 110000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 238000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Cloudflare TPM (L4-L5) = Google TPM L5-L6 = Meta TPM E5-E6 = Fastly TPM = AWS TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NYSE: NET) + Bonus | Edge AI & Platform Program Execution | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**"
+---
 ### Technical Program Manager | Cloudflare Workers Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NYSE: NET) + Bonus | Edge AI & Platform Program Execution | $30B+ Market Cap | 20M+ Developers | **WORKERS AI PREMIUM**

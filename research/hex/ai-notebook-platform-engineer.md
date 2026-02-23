@@ -1,3 +1,50 @@
+---
+company: hex
+company_display: Hex
+role: ai-notebook-platform-engineer
+role_display: AI Notebook Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 260000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 280000
+    total_comp_high: 420000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 255000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 410000
+    currency: USD
+  - region: London
+    base_low: 152000
+    base_high: 198000
+    stock_low: 150000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 213000
+    total_comp_high: 320000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Hex AI Notebook Platform Engineer = Google L5-L6 Full-Stack Engineer = Meta E5-E6 = Databricks Staff Platform Engineer = Figma Staff Engineer = Notion Staff Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity + AI Premium | Data Analytics Platform Pioneer | **SIGNATURE ROLE** | 2026 Focus: Next-Gen AI-Native Notebook Architecture"
+---
 ### AI Notebook Platform Engineer | Hex Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity + AI Premium | Data Analytics Platform Pioneer | **SIGNATURE ROLE** | 2026 Focus: Next-Gen AI-Native Notebook Architecture

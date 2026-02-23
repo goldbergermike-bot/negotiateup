@@ -1,3 +1,50 @@
+---
+company: perplexity
+company_display: Perplexity
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 255000
+    base_high: 318000
+    stock_low: 420000
+    stock_high: 725000
+    bonus_pct: null
+    total_comp_low: 360000
+    total_comp_high: 499000
+    currency: USD
+  - region: New York
+    base_low: 263000
+    base_high: 334000
+    stock_low: 420000
+    stock_high: 725000
+    bonus_pct: null
+    total_comp_low: 368000
+    total_comp_high: 515000
+    currency: USD
+  - region: Remote US
+    base_low: 230000
+    base_high: 286000
+    stock_low: 420000
+    stock_high: 725000
+    bonus_pct: null
+    total_comp_low: 335000
+    total_comp_high: 467000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Perplexity Staff SWE = Google L5-L6 = Anthropic Staff SWE = OpenAI Staff SWE = Meta E6
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift"
+---
 ### Staff Software Engineer | Perplexity Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift

@@ -1,3 +1,50 @@
+---
+company: deutsche-bank
+company_display: Deutsche Bank
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 168000
+    base_high: 232000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 235000
+    total_comp_high: 385000
+    currency: USD
+  - region: London
+    base_low: 112000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 160000
+    total_comp_high: 275000
+    currency: GBP
+  - region: Frankfurt (HQ)
+    base_low: 100000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 138000
+    total_comp_high: 240000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at DB (SVP/Director) = L6-L7 at Google, M1-M2 at Meta, SDM-Principal SDM at Amazon, SVP/Director at BofA, SVP/MD at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "EUR30B market cap European bank + Managing global engineering teams across EU/US/Asia + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB EMs lead truly international engineering organizations | **GLOBAL EUROPEAN LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Deutsche Bank Global Negotiation Guide
 
 **Negotiation DNA:** EUR30B market cap European bank + Managing global engineering teams across EU/US/Asia + Frankfurt/NYC dual hub + NYC pays competitive US rates | DB EMs lead truly international engineering organizations | **GLOBAL EUROPEAN LEADERSHIP PREMIUM**

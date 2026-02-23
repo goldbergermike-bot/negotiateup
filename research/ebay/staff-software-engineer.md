@@ -1,3 +1,48 @@
+---
+company: ebay
+company_display: Ebay
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 242000
+    base_high: 295000
+    stock_low: 238000
+    stock_high: 418000
+    bonus_pct: 15
+    total_comp_low: 332000
+    total_comp_high: 462000
+    currency: USD
+  - region: New York
+    base_low: 248000
+    base_high: 302000
+    stock_low: 238000
+    stock_high: 418000
+    bonus_pct: 15
+    total_comp_low: 338000
+    total_comp_high: 472000
+    currency: USD
+  - region: Remote US
+    base_low: 232000
+    base_high: 285000
+    stock_low: 238000
+    stock_high: 418000
+    bonus_pct: 15
+    total_comp_low: 322000
+    total_comp_high: 452000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: eBay Staff SWE (IC4) = Google L5 = Meta E5 = Amazon Principal SDE = Etsy E4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Global Marketplace & Payments | $2.5B Share Buyback | Trading Below Future Cash Flow Value"
+---
 ### Staff Software Engineer | eBay Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Global Marketplace & Payments | $2.5B Share Buyback | Trading Below Future Cash Flow Value

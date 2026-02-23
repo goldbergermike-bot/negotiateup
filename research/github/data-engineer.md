@@ -1,3 +1,48 @@
+---
+company: github
+company_display: Github
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 195000
+    stock_low: 140000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 275000
+    currency: USD
+  - region: Seattle
+    base_low: 150000
+    base_high: 190000
+    stock_low: 135000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 270000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 130000
+    stock_low: 85000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 190000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: GitHub DE = Microsoft Data Engineer (L61-L63) = Google DE L4-L5 = Meta DE IC4-IC5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Microsoft RSU + Bonus | Copilot Data Pipeline & Developer Telemetry"
+---
 ### Data Engineer | GitHub Global Negotiation Guide
 
 **Negotiation DNA:** Base + Microsoft RSU + Bonus | Copilot Data Pipeline & Developer Telemetry

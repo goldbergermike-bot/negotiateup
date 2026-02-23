@@ -1,3 +1,48 @@
+---
+company: intel
+company_display: Intel
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 145000
+    base_high: 190000
+    stock_low: 58000
+    stock_high: 105000
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 272000
+    currency: USD
+  - region: Portland
+    base_low: 135000
+    base_high: 178000
+    stock_low: 50000
+    stock_high: 92000
+    bonus_pct: 12
+    total_comp_low: 182000
+    total_comp_high: 255000
+    currency: USD
+  - region: Phoenix
+    base_low: 128000
+    base_high: 168000
+    stock_low: 45000
+    stock_high: 82000
+    bonus_pct: 12
+    total_comp_low: 170000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Intel Security Engineer (Grade 7-9) = AMD Security Engineer = NVIDIA Security Engineer = Google L4-L5 Security Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + INTC RSUs (4yr vest) + Bonus (12-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages"
+---
 ### Security Engineer | Intel Global Negotiation Guide
 
 **Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (12-18%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages

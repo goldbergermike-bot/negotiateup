@@ -1,3 +1,48 @@
+---
+company: brex-ai
+company_display: Brex AI
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 210000
+    stock_low: 178000
+    stock_high: 290000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 310000
+    currency: USD
+  - region: New York
+    base_low: 163000
+    base_high: 205000
+    stock_low: 172000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 218000
+    total_comp_high: 302000
+    currency: USD
+  - region: Remote (US)
+    base_low: 152000
+    base_high: 192000
+    stock_low: 155000
+    stock_high: 252000
+    bonus_pct: 15
+    total_comp_low: 202000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex PM (Mid) = Google L5 PM = Meta IC5 PM = Stripe PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Late-Stage Private | AI-Powered Spend Management"
+---
 ### Product Manager | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Late-Stage Private | AI-Powered Spend Management

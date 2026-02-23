@@ -1,3 +1,50 @@
+---
+company: vercel
+company_display: Vercel
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 220000
+    base_high: 280000
+    stock_low: 300000
+    stock_high: 550000
+    bonus_pct: 10
+    total_comp_low: 370000
+    total_comp_high: 560000
+    currency: USD
+  - region: New York
+    base_low: 220000
+    base_high: 280000
+    stock_low: 300000
+    stock_high: 550000
+    bonus_pct: 10
+    total_comp_low: 370000
+    total_comp_high: 560000
+    currency: USD
+  - region: London
+    base_low: 168000
+    base_high: 213000
+    stock_low: 228000
+    stock_high: 418000
+    bonus_pct: 10
+    total_comp_low: 282000
+    total_comp_high: 426000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Vercel EM = Google M1 = Meta M1 = Netlify Director of Engineering = Cloudflare Engineering Manager
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Leadership-Premium Base + Significant Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: Scaling AI-Native Engineering Teams"
+---
 ### Engineering Manager | Vercel Global Negotiation Guide
 
 **Negotiation DNA:** Leadership-Premium Base + Significant Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: Scaling AI-Native Engineering Teams

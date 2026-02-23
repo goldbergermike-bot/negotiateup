@@ -1,3 +1,50 @@
+---
+company: vast-data
+company_display: Vast Data
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 130000
+    base_high: 165000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: 5
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: 20000
+    stock_high: 45000
+    bonus_pct: 5
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+  - region: Remote US
+    base_low: 120000
+    base_high: 155000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: 5
+    total_comp_low: 158000
+    total_comp_high: 220000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Vast Data Software Engineer = Google L3–L4 / Meta E3–E4 / Amazon SDE I–II / Microsoft 59–61 / Apple ICT2–ICT3"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Market-Rate Comp"
+---
 ### Software Engineer | Vast Data Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Market-Rate Comp

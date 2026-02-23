@@ -1,3 +1,48 @@
+---
+company: workday
+company_display: Workday
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pleasanton
+    base_low: 165000
+    base_high: 205000
+    stock_low: 155000
+    stock_high: 262000
+    bonus_pct: 15
+    total_comp_low: 208000
+    total_comp_high: 275000
+    currency: USD
+  - region: Dublin
+    base_low: 101000
+    base_high: 130000
+    stock_low: 85000
+    stock_high: 157000
+    bonus_pct: 15
+    total_comp_low: 128000
+    total_comp_high: 174000
+    currency: EUR
+  - region: London
+    base_low: 109000
+    base_high: 142000
+    stock_low: 93000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 138000
+    total_comp_high: 190000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Workday Data Engineer (P3) = Google Data Eng L4 = Meta Data Eng E4 = Salesforce Data Eng = Snowflake Data Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity"
+---
 ### Data Engineer | Workday Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity

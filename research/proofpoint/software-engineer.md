@@ -1,3 +1,48 @@
+---
+company: proofpoint
+company_display: Proofpoint
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 350000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 325000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 155000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Software Engineers at Proofpoint build the platform services powering the world's largest email security and threat protection infrastructure, defending enterprises from phishing, business email compromise, and advanced persistent threats."
+---
 ### Software Engineer — Proofpoint Salary Negotiation Guide
 
 **Negotiation DNA**: Software Engineers at Proofpoint build the platform services powering the world's largest email security and threat protection infrastructure, defending enterprises from phishing, business email compromise, and advanced persistent threats.

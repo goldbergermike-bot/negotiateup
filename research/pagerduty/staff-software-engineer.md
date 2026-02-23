@@ -1,3 +1,56 @@
+---
+company: pagerduty
+company_display: Pagerduty
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 220000
+    base_high: 275000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 30000
+    signing_bonus_high: 60000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Atlanta
+    base_low: 190000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 25000
+    signing_bonus_high: 50000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 160000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 20000
+    signing_bonus_high: 40000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Staff Software Engineer at PagerDuty maps to IC4 (L6 equivalent at Google, E6 at Meta, 65-66 at Microsoft). Typically 10-15+ years of experience with demonstrated technical leadership across teams."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge"
+---
 ### Staff Software Engineer | PagerDuty Global Negotiation Guide
 
 **Negotiation DNA:** PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge

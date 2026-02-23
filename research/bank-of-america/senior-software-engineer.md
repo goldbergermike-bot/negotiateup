@@ -1,3 +1,50 @@
+---
+company: bank-of-america
+company_display: Bank of America
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte (HQ)
+    base_low: 145000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 195000
+    total_comp_high: 295000
+    currency: USD
+  - region: New York City
+    base_low: 155000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 210000
+    total_comp_high: 320000
+    currency: USD
+  - region: San Francisco
+    base_low: 150000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 205000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Senior SWE at BofA (VP) = L5 at Google, E5 at Meta, SDE III at Amazon, Senior at Capital One, VP at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$340B market cap bank + Java/cloud modernization at massive scale + Charlotte HQ cost advantage + Traditional bonus culture with growing equity component | BofA senior SWEs drive critical platform modernization | **PLATFORM MODERNIZATION PREMIUM**"
+---
 ### Senior Software Engineer | Bank of America Global Negotiation Guide
 
 **Negotiation DNA:** $340B market cap bank + Java/cloud modernization at massive scale + Charlotte HQ cost advantage + Traditional bonus culture with growing equity component | BofA senior SWEs drive critical platform modernization | **PLATFORM MODERNIZATION PREMIUM**

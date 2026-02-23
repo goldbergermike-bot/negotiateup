@@ -1,3 +1,49 @@
+---
+company: qualcomm
+company_display: Qualcomm
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego
+    base_low: 135000
+    base_high: 178000
+    stock_low: 42000
+    stock_high: 68000
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 272000
+    currency: USD
+  - region: Santa Clara
+    base_low: 148000
+    base_high: 195000
+    stock_low: 48000
+    stock_high: 75000
+    bonus_pct: 12
+    total_comp_low: 215000
+    total_comp_high: 298000
+    currency: USD
+  - region: Remote US
+    base_low: 122000
+    base_high: 162000
+    stock_low: 38000
+    stock_high: 62000
+    bonus_pct: 12
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Qualcomm DS (E4–E5) = Google L4 DS = Meta DS (IC4–IC5) = Apple DS = Microsoft Data Scientist 61–63"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +12% AI/Agentic Premium"
+---
 ### Data Scientist | Qualcomm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +12% AI/Agentic Premium

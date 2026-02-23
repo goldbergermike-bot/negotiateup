@@ -1,3 +1,49 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 190000
+    base_high: 248000
+    stock_low: 165000
+    stock_high: 295000
+    bonus_pct: 5
+    total_comp_low: 258000
+    total_comp_high: 370000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 178000
+    base_high: 235000
+    stock_low: 150000
+    stock_high: 272000
+    bonus_pct: 5
+    total_comp_low: 242000
+    total_comp_high: 348000
+    currency: USD
+  - region: London / Berlin
+    base_low: 145000
+    base_high: 189000
+    stock_low: 125000
+    stock_high: 224000
+    bonus_pct: 5
+    total_comp_low: 196000
+    total_comp_high: 282000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs ML/AI Engineer = Google L4-L5 ML Engineer = Meta E4-E5 ML = Datadog ML Engineer = Elastic IC3-IC4 ML
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside | **+15-25% AI PREMIUM**"
+---
 ### ML/AI Engineer | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside | **+15-25% AI PREMIUM**

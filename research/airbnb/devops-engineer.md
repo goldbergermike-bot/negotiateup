@@ -1,3 +1,48 @@
+---
+company: airbnb
+company_display: Airbnb
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Remote
+    base_low: 195000
+    base_high: 242000
+    stock_low: 185000
+    stock_high: 322000
+    bonus_pct: null
+    total_comp_low: 241000
+    total_comp_high: 323000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 242000
+    stock_low: 185000
+    stock_high: 322000
+    bonus_pct: null
+    total_comp_low: 241000
+    total_comp_high: 323000
+    currency: USD
+  - region: London
+    base_low: 134000
+    base_high: 166000
+    stock_low: 127000
+    stock_high: 221000
+    bonus_pct: null
+    total_comp_low: 166000
+    total_comp_high: 222000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airbnb DevOps = Google L4 SRE = Meta Production Engineer = Stripe Infrastructure Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion"
+---
 ### DevOps Engineer | Airbnb Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion

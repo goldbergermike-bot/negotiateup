@@ -1,3 +1,50 @@
+---
+company: hex
+company_display: Hex
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 5
+    total_comp_low: 210000
+    total_comp_high: 295000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 210000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 5
+    total_comp_low: 205000
+    total_comp_high: 288000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 163000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: 5
+    total_comp_low: 158000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Hex Data Scientist = Google L4 Data Scientist = Meta IC4 Data Scientist = Databricks Data Scientist = Snowflake Data Scientist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Growth-Stage Equity | Data Analytics Platform Pioneer | 2026 Focus: AI-Powered Analytics Intelligence"
+---
 ### Data Scientist | Hex Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Growth-Stage Equity | Data Analytics Platform Pioneer | 2026 Focus: AI-Powered Analytics Intelligence

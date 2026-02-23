@@ -1,3 +1,49 @@
+---
+company: nium
+company_display: Nium
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 140000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 380000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 180000
+    base_high: 255000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 280000
+    total_comp_high: 455000
+    currency: USD
+  - region: London (GBP)
+    base_low: 85000
+    base_high: 135000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 235000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a solutions architecture compensation framework spanning Singapore, San Francisco, and London markets. As a Solutions Architect at Nium, you are the bridge between Nium's programmable money infrastructure and the enterprise clients who build on it — designing integration architectures, leading technical pre-sales, and ensuring that Nium's payment rails are embedded seamlessly into cl"
+---
 ### Solutions Architect — Nium Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a solutions architecture compensation framework spanning Singapore, San Francisco, and London markets. As a Solutions Architect at Nium, you are the bridge between Nium's programmable money infrastructure and the enterprise clients who build on it — designing integration architectures, leading technical pre-sales, and ensuring that Nium's payment rails are embedded seamlessly into client technology stacks.

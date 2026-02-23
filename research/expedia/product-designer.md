@@ -1,3 +1,48 @@
+---
+company: expedia
+company_display: Expedia
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 130000
+    base_high: 165000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 228000
+    currency: USD
+  - region: Austin
+    base_low: 118000
+    base_high: 150000
+    stock_low: 70000
+    stock_high: 125000
+    bonus_pct: 15
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 120000
+    stock_low: 60000
+    stock_high: 105000
+    bonus_pct: 15
+    total_comp_low: 120000
+    total_comp_high: 168000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Expedia Product Designer = Google UX Designer L4/L5 = Booking.com Product Designer = Airbnb Experience Designer = Amazon UX Designer = Microsoft Designer 61/62
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium"
+---
 ### Product Designer | Expedia Global Negotiation Guide
 
 **Negotiation DNA:** Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium

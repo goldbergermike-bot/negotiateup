@@ -1,3 +1,49 @@
+---
+company: riot-games
+company_display: Riot Games
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 210000
+    base_high: 270000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 330000
+    total_comp_high: 490000
+    currency: USD
+  - region: Seattle
+    base_low: 205000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 320000
+    total_comp_high: 480000
+    currency: USD
+  - region: Dublin
+    base_low: 80000
+    base_high: 115000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 108000
+    total_comp_high: 162000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Riot EM (M1) = Google L5-L6 Manager = Meta M1-M2 = Valve Team Lead
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity Profit-Sharing + Premium Bonus | Player-First Gaming Culture"
+---
 ### Engineering Manager | Riot Games Global Negotiation Guide
 
 **Negotiation DNA:** Equity Profit-Sharing + Premium Bonus | Player-First Gaming Culture

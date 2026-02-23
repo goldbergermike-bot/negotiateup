@@ -1,3 +1,50 @@
+---
+company: runway
+company_display: Runway
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 220000
+    base_high: 280000
+    stock_low: 250000
+    stock_high: 500000
+    bonus_pct: null
+    total_comp_low: 283000
+    total_comp_high: 405000
+    currency: USD
+  - region: San Francisco
+    base_low: 220000
+    base_high: 280000
+    stock_low: 250000
+    stock_high: 500000
+    bonus_pct: null
+    total_comp_low: 283000
+    total_comp_high: 405000
+    currency: USD
+  - region: Remote US
+    base_low: 198000
+    base_high: 252000
+    stock_low: 225000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 254000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Runway Staff SWE = Google L6 = Meta E6 = Amazon Principal SDE = Startup CTO/VP Eng scope
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | Creative AI Pioneer | Technical Leadership"
+---
 ### Staff Software Engineer | Runway Global Negotiation Guide
 
 **Negotiation DNA:** Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | Creative AI Pioneer | Technical Leadership

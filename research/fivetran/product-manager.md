@@ -1,3 +1,48 @@
+---
+company: fivetran
+company_display: Fivetran
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland / Remote-US
+    base_low: 172000
+    base_high: 212000
+    stock_low: 125000
+    stock_high: 228000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 312000
+    currency: USD
+  - region: Denver
+    base_low: 168000
+    base_high: 205000
+    stock_low: 118000
+    stock_high: 218000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 300000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 155000
+    stock_low: 88000
+    stock_high: 158000
+    bonus_pct: 15
+    total_comp_low: 170000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Fivetran PM = Google L5 PM = Snowflake PM = Databricks PM = Informatica Senior PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity + Performance Bonus | AI-Automated Data Integration Strategy 2026"
+---
 ### Product Manager | Fivetran Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity + Performance Bonus | AI-Automated Data Integration Strategy 2026

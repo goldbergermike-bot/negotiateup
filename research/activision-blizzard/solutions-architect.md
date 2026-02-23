@@ -1,3 +1,48 @@
+---
+company: activision-blizzard
+company_display: Activision Blizzard
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine / Santa Monica
+    base_low: 170000
+    base_high: 230000
+    stock_low: 95000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 355000
+    currency: USD
+  - region: Austin
+    base_low: 150000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 310000
+    currency: USD
+  - region: Hyderabad
+    base_low: 2800000
+    base_high: 5000000
+    stock_low: 1600000
+    stock_high: 3500000
+    bonus_pct: 10
+    total_comp_low: 4800000
+    total_comp_high: 9000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Activision/MS SA Level 63-64 = Google L4-L5 Solutions = AWS Solutions Architect IV
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine"
+---
 ### Solutions Architect | Activision Blizzard (Microsoft/Xbox) Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Microsoft Comp Bands | Call of Duty Revenue Engine

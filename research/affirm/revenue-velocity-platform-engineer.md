@@ -1,3 +1,51 @@
+---
+company: affirm
+company_display: Affirm
+role: revenue-velocity-platform-engineer
+role_display: Revenue Velocity Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 245000
+    base_high: 312000
+    stock_low: 298000
+    stock_high: 528000
+    bonus_pct: 15
+    total_comp_low: 388000
+    total_comp_high: 548000
+    currency: USD
+  - region: New York
+    base_low: 252000
+    base_high: 318000
+    stock_low: 298000
+    stock_high: 528000
+    bonus_pct: 15
+    total_comp_low: 395000
+    total_comp_high: 555000
+    currency: USD
+  - region: Remote US
+    base_low: 235000
+    base_high: 298000
+    stock_low: 298000
+    stock_high: 528000
+    bonus_pct: 15
+    total_comp_low: 375000
+    total_comp_high: 535000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Affirm Revenue Velocity Platform Eng (IC3-IC4) = Klarna Protocol Platform Eng = Block Commerce Platform Eng = Stripe Payments Platform Eng = No true peer — Affirm is building the first dedicated Apple Pay BNPL platform for physical retail
+data_sources:
+  - Affirm Apple Pay In-Store Launch — Revenue Velocity Platform Architecture
+  - Affirm Revenue Velocity Platform Eng — Signature Role Comp 2026
+  - "Affirm 47% Transaction Growth — Platform GMV Impact"
+  - Affirm vs Klarna/Stripe — Revenue Velocity Platform Competition
+negotiation_dna_summary: "Equity-Heavy + Bonus | Apple Pay In-Store Launch | Revenue Velocity Architect | 47% Transaction Growth | **SIGNATURE ROLE** | **+25–35% REVENUE VELOCITY PREMIUM**"
+---
 ### Revenue Velocity Platform Engineer | Affirm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Apple Pay In-Store Launch | Revenue Velocity Architect | 47% Transaction Growth | **SIGNATURE ROLE** | **+25–35% REVENUE VELOCITY PREMIUM**

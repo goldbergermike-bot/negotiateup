@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 140000
+    base_high: 185000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 240000
+    total_comp_high: 380000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 220000
+    bonus_low: 26000
+    bonus_high: 42000
+    total_comp_low: 291000
+    total_comp_high: 477000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 130000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_low: 16000
+    bonus_high: 28000
+    total_comp_low: 166000
+    total_comp_high: 268000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Product Leadership` `PM Track`"
+---
 ### Product Manager | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `Product Leadership` `PM Track`

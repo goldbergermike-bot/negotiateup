@@ -1,3 +1,50 @@
+---
+company: capital-one
+company_display: Capital One
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: McLean VA (HQ)
+    base_low: 130000
+    base_high: 178000
+    stock_low: 60000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 265000
+    currency: USD
+  - region: New York City
+    base_low: 140000
+    base_high: 190000
+    stock_low: 70000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 288000
+    currency: USD
+  - region: San Francisco
+    base_low: 135000
+    base_high: 185000
+    stock_low: 65000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Designer at Capital One (Senior/Principal) = L4-L5 at Google, IC4-IC5 at Meta, UXD II-Senior at Amazon, VP Design at BofA/JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$68B market cap TECH-FIRST bank + Design-driven product culture + McLean VA HQ + Comp competitive with Big Tech design | Capital One design rivals tech company UX quality | **TECH-FIRST DESIGN PREMIUM**"
+---
 ### Product Designer | Capital One Global Negotiation Guide
 
 **Negotiation DNA:** $68B market cap TECH-FIRST bank + Design-driven product culture + McLean VA HQ + Comp competitive with Big Tech design | Capital One design rivals tech company UX quality | **TECH-FIRST DESIGN PREMIUM**

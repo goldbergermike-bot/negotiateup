@@ -1,3 +1,48 @@
+---
+company: amplitude
+company_display: Amplitude
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 195000
+    stock_low: 105000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 248000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 190000
+    stock_low: 100000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 242000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 122000
+    stock_low: 50000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 108000
+    total_comp_high: 150000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Amplitude DevOps (Mid) = Google L3 SRE = Meta E3 Prod Eng = Mixpanel L3 Infra
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Based / Public Company | AI-Powered Product Analytics"
+---
 ### DevOps Engineer | Amplitude Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Based / Public Company | AI-Powered Product Analytics

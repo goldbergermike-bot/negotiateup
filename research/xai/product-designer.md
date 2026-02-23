@@ -1,3 +1,48 @@
+---
+company: xai
+company_display: xAI
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 232000
+    stock_low: 232000
+    stock_high: 405000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 364000
+    currency: USD
+  - region: Palo Alto
+    base_low: 185000
+    base_high: 232000
+    stock_low: 232000
+    stock_high: 405000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 364000
+    currency: USD
+  - region: Remote US
+    base_low: 172000
+    base_high: 218000
+    stock_low: 232000
+    stock_high: 405000
+    bonus_pct: null
+    total_comp_low: 248000
+    total_comp_high: 342000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: xAI Product Designer = Google L4 UX = OpenAI Designer = Meta IC4 Design
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026)"
+---
 ### Product Designer | xAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026)

@@ -1,3 +1,49 @@
+---
+company: epic-games
+company_display: Epic Games
+role: unreal-engine-engineer
+role_display: Unreal Engine Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 180000
+    base_high: 245000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 430000
+    currency: USD
+  - region: Seattle
+    base_low: 190000
+    base_high: 255000
+    stock_low: 130000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 455000
+    currency: USD
+  - region: London
+    base_low: 80000
+    base_high: 120000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_pct: 15
+    total_comp_low: 110000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic Senior Engine Engineer = Google L4-L5 = Meta E4-E5 = Unity Principal Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | **SIGNATURE ROLE** | **+15–30% ENGINE PLATFORM PREMIUM**"
+---
 ### Unreal Engine Engineer | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | **SIGNATURE ROLE** | **+15–30% ENGINE PLATFORM PREMIUM**

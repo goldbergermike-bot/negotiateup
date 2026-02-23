@@ -1,3 +1,48 @@
+---
+company: plaid-identity
+company_display: Plaid Identity
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 220000
+    stock_low: 170000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 215000
+    stock_low: 165000
+    stock_high: 270000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 298000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 145000
+    stock_low: 85000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Plaid Security (Mid) = Google L4 Security = Meta E4 Security = Stripe L3 Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure"
+---
 ### Security Engineer | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure

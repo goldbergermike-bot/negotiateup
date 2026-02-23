@@ -1,3 +1,48 @@
+---
+company: brex
+company_display: Brex
+role: zero-day-close-platform-engineer
+role_display: Zero-Day Close Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 225000
+    base_high: 282000
+    stock_low: 248000
+    stock_high: 438000
+    bonus_pct: 15
+    total_comp_low: 328000
+    total_comp_high: 462000
+    currency: USD
+  - region: New York
+    base_low: 232000
+    base_high: 290000
+    stock_low: 248000
+    stock_high: 438000
+    bonus_pct: 15
+    total_comp_low: 338000
+    total_comp_high: 475000
+    currency: USD
+  - region: Remote US
+    base_low: 218000
+    base_high: 275000
+    stock_low: 248000
+    stock_high: 438000
+    bonus_pct: 15
+    total_comp_low: 320000
+    total_comp_high: 455000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex Zero-Day Close Platform Engineer = Brex Staff SWE (AI) = Stripe L4-L5 (Payments) = Google L5-L6 (AI Platform) = Meta E5-E6 (AI Infra)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | +20-30% Zero-Day Close Premium | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**"
+---
 ### Zero-Day Close Platform Engineer | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | AI-Native Accounting API | Zero-Day Close Platform | $12B+ Valuation | +20-30% Zero-Day Close Premium | **MAXIMIZE PRE-IPO OPTIONS BEFORE LISTING**

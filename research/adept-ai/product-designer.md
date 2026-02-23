@@ -1,3 +1,50 @@
+---
+company: adept-ai
+company_display: Adept AI
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 210000
+    stock_low: 75000
+    stock_high: 225000
+    bonus_pct: null
+    total_comp_low: 174000
+    total_comp_high: 266000
+    currency: USD
+  - region: Seattle
+    base_low: 150000
+    base_high: 204000
+    stock_low: 75000
+    stock_high: 225000
+    bonus_pct: null
+    total_comp_low: 169000
+    total_comp_high: 260000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 189000
+    stock_low: 68000
+    stock_high: 203000
+    bonus_pct: null
+    total_comp_low: 157000
+    total_comp_high: 240000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Adept Product Designer = Google L4-L5 UX Designer = Amazon UX Designer II-III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | AI Agent UX"
+---
 ### Product Designer | Adept AI Global Negotiation Guide
 
 **Negotiation DNA:** Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | AI Agent UX

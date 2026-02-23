@@ -1,3 +1,48 @@
+---
+company: databricks-unity
+company_display: Databricks Unity
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 222000
+    stock_low: 158000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 335000
+    currency: USD
+  - region: New York
+    base_low: 182000
+    base_high: 228000
+    stock_low: 158000
+    stock_high: 278000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 342000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 152000
+    stock_low: 105000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 228000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Databricks DevOps (L2-L3) = Snowflake DevOps = Google SRE L3-L4 = Meta PE E4 = Amazon Systems L5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Unity Catalog Infrastructure | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**"
+---
 ### DevOps Engineer | Databricks Unity Global Negotiation Guide
 
 **Negotiation DNA:** Unity Catalog Infrastructure | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**

@@ -1,3 +1,68 @@
+---
+company: samsung
+company_display: Samsung
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / San Jose (US R&D)"
+    base_low: 155000
+    base_high: 220000
+    stock_low: 65000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 145000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 155000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 315000
+    currency: USD
+  - region: Seoul (HQ / Samsung Research)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (R&D Campus)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Cambridge (UK AI Center)
+    base_low: 95000
+    base_high: 155000
+    stock_low: 45000
+    stock_high: 120000
+    bonus_pct: 15
+    total_comp_low: 135000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Samsung (CL3-CL4) = L4-L5 at Google Brain/DeepMind, IC4-IC5 at Meta FAIR, ML Engineer at Apple ML, Research Engineer at OpenAI/Anthropic"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B conglomerate betting heavily on Galaxy AI + On-device ML for 1B+ devices + Competing with Apple/Google/Qualcomm for AI talent | Samsung AI engineers work at the intersection of hardware NPUs and ML models | **AI TALENT WAR PREMIUM**"
+---
 ### ML/AI Engineer | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B conglomerate betting heavily on Galaxy AI + On-device ML for 1B+ devices + Competing with Apple/Google/Qualcomm for AI talent | Samsung AI engineers work at the intersection of hardware NPUs and ML models | **AI TALENT WAR PREMIUM**

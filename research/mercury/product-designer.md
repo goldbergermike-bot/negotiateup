@@ -1,3 +1,48 @@
+---
+company: mercury
+company_display: Mercury
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 150000
+    base_high: 190000
+    stock_low: 125000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 250000
+    currency: USD
+  - region: New York
+    base_low: 145000
+    base_high: 185000
+    stock_low: 120000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 242000
+    currency: USD
+  - region: Remote (US)
+    base_low: 135000
+    base_high: 172000
+    stock_low: 110000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 225000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Mercury Designer (Mid) = Google L4 UX = Meta IC4 Design = Stripe Product Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure"
+---
 ### Product Designer | Mercury Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure

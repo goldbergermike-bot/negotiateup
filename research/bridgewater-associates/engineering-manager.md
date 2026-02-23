@@ -1,3 +1,42 @@
+---
+company: bridgewater-associates
+company_display: Bridgewater Associates
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westport, CT (HQ)"
+    base_low: 210000
+    base_high: 300000
+    stock_low: null
+    stock_high: null
+    bonus_low: 168000
+    bonus_high: 600000
+    total_comp_low: 378000
+    total_comp_high: 900000
+    currency: USD
+  - region: New York City
+    base_low: 220000
+    base_high: 315000
+    stock_low: null
+    stock_high: null
+    bonus_low: 176000
+    bonus_high: 630000
+    total_comp_low: 396000
+    total_comp_high: 945000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at Bridgewater = L6/L7 Engineering Manager at Google, M1/M2 at Meta, SDM II/Principal SDM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Technical leadership managing teams that build systematic investment infrastructure | Leadership within a Principles-based meritocracy | **ELITE HEDGE FUND PREMIUM**"
+---
 ### Engineering Manager | Bridgewater Associates Global Negotiation Guide
 
 **Negotiation DNA:** ~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Technical leadership managing teams that build systematic investment infrastructure | Leadership within a Principles-based meritocracy | **ELITE HEDGE FUND PREMIUM**

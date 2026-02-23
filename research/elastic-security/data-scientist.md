@@ -1,3 +1,50 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 162000
+    base_high: 212000
+    stock_low: 118000
+    stock_high: 205000
+    bonus_pct: 5
+    total_comp_low: 203000
+    total_comp_high: 285000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 152000
+    base_high: 202000
+    stock_low: 108000
+    stock_high: 190000
+    bonus_pct: 5
+    total_comp_low: 190000
+    total_comp_high: 270000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 123000
+    base_high: 161000
+    stock_low: 89000
+    stock_high: 156000
+    bonus_pct: 5
+    total_comp_low: 155000
+    total_comp_high: 218000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic Data Scientist IC3 = Google L4 DS = Meta E4 DS = CrowdStrike DS II = Splunk DS II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity"
+---
 ### Data Scientist | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity

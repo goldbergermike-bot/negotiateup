@@ -1,3 +1,53 @@
+---
+company: airbase
+company_display: Airbase
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 217000
+    total_comp_high: 325000
+    currency: USD
+  - region: Bangalore
+    base_low: 2400000
+    base_high: 4000000
+    stock_low: 1200000
+    stock_high: 2400000
+    bonus_low: 300000
+    bonus_high: 600000
+    total_comp_low: 3900000
+    total_comp_high: 7000000
+    currency: INR
+  - region: New York
+    base_low: 160000
+    base_high: 205000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 222000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Airbase | Google | Meta | Stripe | Bill.com | Coupa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Infrastructure` `Reliability` `CI/CD`"
+---
 ### DevOps Engineer | Airbase Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Infrastructure` `Reliability` `CI/CD`

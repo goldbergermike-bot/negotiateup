@@ -1,3 +1,48 @@
+---
+company: tempus
+company_display: Tempus
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago IL
+    base_low: 150000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 295000
+    currency: USD
+  - region: Bay Area CA
+    base_low: 160000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 310000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tempus Data Scientist = Google L4 DS = Flatiron DS = Foundation Medicine DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: AI-Driven Precision Medicine / Growth-Stage / Equity Upside / Oncology Analytics
+---
 ### Data Scientist | Tempus Global Negotiation Guide
 
 **Negotiation DNA:** AI-Driven Precision Medicine / Growth-Stage / Equity Upside / Oncology Analytics

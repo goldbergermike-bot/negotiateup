@@ -1,3 +1,48 @@
+---
+company: booking
+company_display: Booking
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 85000
+    base_high: 118000
+    stock_low: 68000
+    stock_high: 115000
+    bonus_pct: 15
+    total_comp_low: 138000
+    total_comp_high: 202000
+    currency: EUR
+  - region: New York
+    base_low: 162000
+    base_high: 222000
+    stock_low: 95000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 325000
+    currency: USD
+  - region: London
+    base_low: 78000
+    base_high: 108000
+    stock_low: 62000
+    stock_high: 105000
+    bonus_pct: 15
+    total_comp_low: 128000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Booking.com Security Engineer = Google Security Engineer L4/L5 = Expedia Security Engineer = Airbnb Security Engineer = Meta Security Engineer = Amazon Security Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions"
+---
 ### Security Engineer | Booking.com Global Negotiation Guide
 
 **Negotiation DNA:** Base + BKNG RSUs (4yr vest) + 15-20% Bonus | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions

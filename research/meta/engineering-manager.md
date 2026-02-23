@@ -1,3 +1,87 @@
+---
+company: meta
+company_display: Meta
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Menlo Park / NYC)
+    base_low: 245000
+    base_high: 345000
+    stock_low: 400000
+    stock_high: 900000
+    bonus_pct: 15
+    total_comp_low: 480000
+    total_comp_high: 780000
+    currency: USD
+  - region: US (Seattle / Austin)
+    base_low: 235000
+    base_high: 330000
+    stock_low: 375000
+    stock_high: 850000
+    bonus_pct: 15
+    total_comp_low: 455000
+    total_comp_high: 740000
+    currency: USD
+  - region: London (UK)
+    base_low: 200000
+    base_high: 285000
+    stock_low: 320000
+    stock_high: 720000
+    bonus_pct: 15
+    total_comp_low: 390000
+    total_comp_high: 640000
+    currency: USD
+  - region: Canada (Toronto / Montreal)
+    base_low: 190000
+    base_high: 270000
+    stock_low: 300000
+    stock_high: 680000
+    bonus_pct: 15
+    total_comp_low: 370000
+    total_comp_high: 610000
+    currency: USD
+  - region: Germany (Berlin / Hamburg)
+    base_low: 180000
+    base_high: 260000
+    stock_low: 280000
+    stock_high: 650000
+    bonus_pct: 15
+    total_comp_low: 345000
+    total_comp_high: 580000
+    currency: USD
+  - region: Singapore
+    base_low: 175000
+    base_high: 250000
+    stock_low: 270000
+    stock_high: 620000
+    bonus_pct: 15
+    total_comp_low: 330000
+    total_comp_high: 555000
+    currency: USD
+  - region: India (Hyderabad / Bangalore)
+    base_low: 80000
+    base_high: 140000
+    stock_low: 120000
+    stock_high: 310000
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 310000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "E6 (EM) maps to Google L6 Manager / Amazon L7 SDM / Apple Engineering Manager; M1 (Director) maps to Google L7 Director / Amazon L8 SDM / Apple Senior Engineering Manager. Most external EM hires enter at E6 managing a single team, with M1 reserved for those with director-level experience managing multiple teams."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Technical People Leadership | Cross-Functional Product Delivery | **META EM LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Meta Global Negotiation Guide
 
 **Negotiation DNA:** Technical People Leadership | Cross-Functional Product Delivery | **META EM LEADERSHIP PREMIUM**

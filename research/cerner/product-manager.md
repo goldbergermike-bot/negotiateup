@@ -1,3 +1,48 @@
+---
+company: cerner
+company_display: Cerner
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Kansas City MO
+    base_low: 135000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 270000
+    currency: USD
+  - region: Austin TX
+    base_low: 140000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 280000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 260000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Oracle Health IC3-IC4 PM = Google L4-L5 PM = Epic PM (higher TC with RSUs) = Optum PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: Oracle-Acquired / Enterprise Health IT / RSU + Bonus / Platform Product Strategy
+---
 ### Product Manager | Cerner (Oracle Health) Global Negotiation Guide
 
 **Negotiation DNA:** Oracle-Acquired / Enterprise Health IT / RSU + Bonus / Platform Product Strategy

@@ -1,3 +1,50 @@
+---
+company: perplexity
+company_display: Perplexity
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 210000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 207000
+    total_comp_high: 279000
+    currency: USD
+  - region: New York
+    base_low: 173000
+    base_high: 221000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 212000
+    total_comp_high: 290000
+    currency: USD
+  - region: Remote US
+    base_low: 151000
+    base_high: 189000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Perplexity Product Designer = Google UX Designer L4-L5 = Anthropic Product Designer = Meta Product Designer (IC4-IC5)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift"
+---
 ### Product Designer | Perplexity Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift

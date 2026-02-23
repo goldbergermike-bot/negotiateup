@@ -1,3 +1,50 @@
+---
+company: sea-group
+company_display: Sea Group
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 95000
+    base_high: 155000
+    stock_low: 28000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 210000
+    currency: USD
+  - region: Bay Area / Seattle (US)
+    base_low: 135000
+    base_high: 195000
+    stock_low: 48000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 280000
+    currency: USD
+  - region: "Shenzhen (R&D)"
+    base_low: 320000
+    base_high: 570000
+    stock_low: 100000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 410000
+    total_comp_high: 780000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "Product Designer at Sea Group (L4-L6) = L4-L5 at Google, IC4-IC5 at Meta"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$35B with design challenges across Shopee (e-commerce UX for 10+ markets), Garena (gaming UX), and SeaMoney (fintech UX) + Singapore design hub + NYSE RSUs | Sea Group designers create experiences spanning commerce, gaming, and finance across SE Asia's most diverse markets | **MULTI-PLATFORM DESIGN PREMIUM**"
+---
 ### Product Designer | Sea Group Global Negotiation Guide
 
 **Negotiation DNA:** $35B with design challenges across Shopee (e-commerce UX for 10+ markets), Garena (gaming UX), and SeaMoney (fintech UX) + Singapore design hub + NYSE RSUs | Sea Group designers create experiences spanning commerce, gaming, and finance across SE Asia's most diverse markets | **MULTI-PLATFORM DESIGN PREMIUM**

@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 185000
+    base_high: 235000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_low: 28000
+    bonus_high: 48000
+    total_comp_low: 363000
+    total_comp_high: 563000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 270000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_low: 35000
+    bonus_high: 58000
+    total_comp_low: 445000
+    total_comp_high: 688000
+    currency: USD
+  - region: London
+    base_low: 135000
+    base_high: 175000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 257000
+    total_comp_high: 413000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `IC Track` `L6 Equivalent` `Architecture Authority`"
+---
 ### Staff Software Engineer | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `IC Track` `L6 Equivalent` `Architecture Authority`

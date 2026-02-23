@@ -1,3 +1,49 @@
+---
+company: payerve
+company_display: Payerve
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dubai
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Riyadh
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Remote MENA
+    base_low: 90000
+    base_high: 135000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_low: 10000
+    bonus_high: 18000
+    total_comp_low: 125000
+    total_comp_high: 208000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Payerve | Google | Meta | Stripe | Checkout.com | Thunes |"
+data_sources:
+  - LinkedIn
+negotiation_dna_summary: "`Private` `MENA Facilitator` `Payment Infrastructure` `Dubai HQ` `Growth-Stage Fintech` `Options Equity` `Senior IC`"
+---
 ### Senior Software Engineer | Payerve Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `MENA Facilitator` `Payment Infrastructure` `Dubai HQ` `Growth-Stage Fintech` `Options Equity` `Senior IC`

@@ -1,3 +1,52 @@
+---
+company: coinbase
+company_display: Coinbase
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 230000
+    base_high: 275000
+    stock_low: 320000
+    stock_high: 600000
+    bonus_low: 28000
+    bonus_high: 50000
+    total_comp_low: 338000
+    total_comp_high: 475000
+    currency: USD
+  - region: New York
+    base_low: 225000
+    base_high: 270000
+    stock_low: 305000
+    stock_high: 580000
+    bonus_low: 26000
+    bonus_high: 48000
+    total_comp_low: 330000
+    total_comp_high: 465000
+    currency: USD
+  - region: Remote US
+    base_low: 210000
+    base_high: 250000
+    stock_low: 280000
+    stock_high: 530000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 310000
+    total_comp_high: 440000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "`Everything Exchange` · `$2B Buyback` · `COIN` · `M1-M2` · `People + Technical Leadership` · `Multi-Asset Delivery` · `RSU/4yr Vest`"
+---
 ### Engineering Manager | Coinbase Global Negotiation Guide
 
 **Negotiation DNA:** `Everything Exchange` · `$2B Buyback` · `COIN` · `M1-M2` · `People + Technical Leadership` · `Multi-Asset Delivery` · `RSU/4yr Vest`

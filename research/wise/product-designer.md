@@ -1,3 +1,48 @@
+---
+company: wise
+company_display: Wise
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 55000
+    base_high: 80000
+    stock_low: 20000
+    stock_high: 40000
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 120000
+    currency: GBP
+  - region: Tallinn (EUR)
+    base_low: 42000
+    base_high: 62000
+    stock_low: 15000
+    stock_high: 30000
+    bonus_pct: null
+    total_comp_low: 57000
+    total_comp_high: 92000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 72000
+    base_high: 105000
+    stock_low: 25000
+    stock_high: 48000
+    bonus_pct: null
+    total_comp_low: 97000
+    total_comp_high: 153000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a product design compensation framework spanning London, Tallinn, and Singapore markets. As a Product Designer at Wise, you create the visual and interaction layer of Platform Integrity — the transparency-first user experience that makes Wise's mid-market rate visible, trustworthy, and delightful for 16+ million customers and the Wise Platfor"
+---
 ### Product Designer — Wise Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a product design compensation framework spanning London, Tallinn, and Singapore markets. As a Product Designer at Wise, you create the visual and interaction layer of Platform Integrity — the transparency-first user experience that makes Wise's mid-market rate visible, trustworthy, and delightful for 16+ million customers and the Wise Platform API's partner experiences.

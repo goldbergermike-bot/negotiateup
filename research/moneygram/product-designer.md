@@ -1,3 +1,53 @@
+---
+company: moneygram
+company_display: Moneygram
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas TX
+    base_low: 120000
+    base_high: 160000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 157000
+    total_comp_high: 235000
+    currency: USD
+  - region: New York
+    base_low: 140000
+    base_high: 185000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 185000
+    total_comp_high: 275000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 120000
+    stock_low: 18000
+    stock_high: 40000
+    bonus_low: 9000
+    bonus_high: 18000
+    total_comp_low: 117000
+    total_comp_high: 178000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| MoneyGram | Google | Meta | Stripe | Western Union | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `UX/Design`"
+---
 ### Product Designer | MoneyGram Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `UX/Design`

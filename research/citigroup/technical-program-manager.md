@@ -1,3 +1,50 @@
+---
+company: citigroup
+company_display: Citigroup
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 145000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 198000
+    total_comp_high: 325000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 138000
+    total_comp_high: 240000
+    currency: GBP
+  - region: Singapore
+    base_low: 130000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 175000
+    total_comp_high: 290000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: "TPM at Citi (SVP/Director) = L5-L6 TPM at Google, E5-E6 TPM at Meta, Sr TPM-Principal TPM at Amazon, Director TPM at Capital One, SVP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$130B market cap global bank + Cross-functional programs across 160+ countries + NYC HQ competitive hiring + TPMs coordinate multi-hundred-million-dollar initiatives | Citi TPMs manage the most complex banking programs globally | **GLOBAL PROGRAM PREMIUM**"
+---
 ### Technical Program Manager | Citigroup Global Negotiation Guide
 
 **Negotiation DNA:** $130B market cap global bank + Cross-functional programs across 160+ countries + NYC HQ competitive hiring + TPMs coordinate multi-hundred-million-dollar initiatives | Citi TPMs manage the most complex banking programs globally | **GLOBAL PROGRAM PREMIUM**

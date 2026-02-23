@@ -1,3 +1,41 @@
+---
+company: thoughtspot
+company_display: Thoughtspot
+role: ml-ai-engineer
+role_display: ML / AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale HQ
+    base_low: 165000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 210000
+    stock_low: 70000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: ThoughtSpot ML/AI Eng = Tableau ML Eng = Databricks ML Eng = Google L4 ML
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Payscale
+negotiation_dna_summary: "Private Equity-Backed | AI-Powered Analytics Pioneer | **+15–25% AI PREMIUM**"
+---
 ### ML / AI Engineer | ThoughtSpot Global Negotiation Guide
 
 **Negotiation DNA:** Private Equity-Backed | AI-Powered Analytics Pioneer | **+15–25% AI PREMIUM**

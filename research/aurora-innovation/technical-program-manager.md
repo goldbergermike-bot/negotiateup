@@ -1,3 +1,39 @@
+---
+company: aurora-innovation
+company_display: Aurora Innovation
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pittsburgh (HQ)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+  - region: Bay Area
+    base_low: 155000
+    base_high: 212000
+    stock_low: 80000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 318000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Aurora TPM = Google TPM L4-L5 = Waymo TPM = Amazon TPM = Meta TPM (IC4-IC5)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage"
+---
 ### Technical Program Manager | Aurora Innovation Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage

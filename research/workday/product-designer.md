@@ -1,3 +1,48 @@
+---
+company: workday
+company_display: Workday
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pleasanton
+    base_low: 148000
+    base_high: 182000
+    stock_low: 110000
+    stock_high: 185000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 238000
+    currency: USD
+  - region: Dublin
+    base_low: 91000
+    base_high: 115000
+    stock_low: 61000
+    stock_high: 111000
+    bonus_pct: 15
+    total_comp_low: 114000
+    total_comp_high: 150000
+    currency: EUR
+  - region: London
+    base_low: 97000
+    base_high: 126000
+    stock_low: 66000
+    stock_high: 120000
+    bonus_pct: 15
+    total_comp_low: 122000
+    total_comp_high: 163000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Workday Product Designer (P3) = Google UX L4 = Meta Product Designer IC4 = Salesforce Senior Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity"
+---
 ### Product Designer | Workday Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity

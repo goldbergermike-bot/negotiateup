@@ -1,3 +1,67 @@
+---
+company: zoom
+company_display: Zoom
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 165000
+    base_high: 235000
+    stock_low: 95000
+    stock_high: 230000
+    bonus_pct: 12
+    total_comp_low: 225000
+    total_comp_high: 360000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 145000
+    base_high: 210000
+    stock_low: 72000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 310000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 82000
+    base_high: 125000
+    stock_low: 38000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 112000
+    total_comp_high: 185000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 1600000
+    stock_high: 4200000
+    bonus_pct: 10
+    total_comp_low: 4000000
+    total_comp_high: 7800000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 125000
+    base_high: 188000
+    stock_low: 55000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom PM (IC3/IC4) ~ Google L5/L6 PM | Microsoft 63/64 PM | Meta E5/E6 PM | Salesforce Senior/Lead PM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Communication platform product strategist | UCaaS expansion & AI Companion product leadership | **PRODUCT LEADERSHIP PREMIUM**"
+---
 ### Product Manager | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** Communication platform product strategist | UCaaS expansion & AI Companion product leadership | **PRODUCT LEADERSHIP PREMIUM**

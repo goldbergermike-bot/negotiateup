@@ -1,3 +1,54 @@
+---
+company: blackrock
+company_display: Blackrock
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 215000
+    base_high: 275000
+    stock_low: null
+    stock_high: null
+    bonus_low: 62000
+    bonus_high: 98000
+    total_comp_low: 332000
+    total_comp_high: 468000
+    currency: USD
+  - region: San Francisco
+    base_low: 228000
+    base_high: 290000
+    stock_low: null
+    stock_high: null
+    bonus_low: 66000
+    bonus_high: 103000
+    total_comp_low: 350000
+    total_comp_high: 492000
+    currency: USD
+  - region: London
+    base_low: 153000
+    base_high: 196000
+    stock_low: 200000
+    stock_high: 342000
+    bonus_low: 44000
+    bonus_high: 70000
+    total_comp_low: 397000
+    total_comp_high: 608000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "`$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Engineering Manager` `People Leadership` `Director-Level`"
+---
 ### Engineering Manager | BlackRock Global Negotiation Guide
 
 **Negotiation DNA:** `$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Engineering Manager` `People Leadership` `Director-Level`

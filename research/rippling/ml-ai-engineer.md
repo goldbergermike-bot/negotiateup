@@ -1,3 +1,48 @@
+---
+company: rippling
+company_display: Rippling
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 242000
+    stock_low: 195000
+    stock_high: 358000
+    bonus_pct: 12
+    total_comp_low: 268000
+    total_comp_high: 395000
+    currency: USD
+  - region: New York
+    base_low: 182000
+    base_high: 238000
+    stock_low: 192000
+    stock_high: 352000
+    bonus_pct: 12
+    total_comp_low: 265000
+    total_comp_high: 388000
+    currency: USD
+  - region: Remote US
+    base_low: 172000
+    base_high: 225000
+    stock_low: 178000
+    stock_high: 332000
+    bonus_pct: 12
+    total_comp_low: 248000
+    total_comp_high: 368000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rippling ML/AI Engineer = Gusto ML Engineer = Workday ML Engineer = Google L4-L5 ML = Meta ML E4-E5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **AI WORKFORCE AUTOMATION PREMIUM**"
+---
 ### ML/AI Engineer | Rippling Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **AI WORKFORCE AUTOMATION PREMIUM**

@@ -1,3 +1,68 @@
+---
+company: alibaba
+company_display: Alibaba
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 185000
+    base_high: 260000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 295000
+    total_comp_high: 460000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 180000
+    base_high: 255000
+    stock_low: 115000
+    stock_high: 290000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 450000
+    currency: USD
+  - region: Hangzhou (HQ)
+    base_low: 600000
+    base_high: 1050000
+    stock_low: 300000
+    stock_high: 750000
+    bonus_pct: 20
+    total_comp_low: 950000
+    total_comp_high: 1900000
+    currency: CNY
+  - region: Beijing
+    base_low: 570000
+    base_high: 1000000
+    stock_low: 280000
+    stock_high: 720000
+    bonus_pct: 20
+    total_comp_low: 900000
+    total_comp_high: 1800000
+    currency: CNY
+  - region: Singapore
+    base_low: 150000
+    base_high: 230000
+    stock_low: 80000
+    stock_high: 190000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at Alibaba (P8+) = M1-M2 at Google, M1-M2 at Meta, SDM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B company with US R&D teams needing experienced management + Cloud and e-commerce divisions competing for EM talent + Compensation designed to attract FAANG managers | Alibaba EMs lead teams building Asia's largest cloud and commerce platforms | **LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Alibaba Global Negotiation Guide
 
 **Negotiation DNA:** $200B company with US R&D teams needing experienced management + Cloud and e-commerce divisions competing for EM talent + Compensation designed to attract FAANG managers | Alibaba EMs lead teams building Asia's largest cloud and commerce platforms | **LEADERSHIP PREMIUM**

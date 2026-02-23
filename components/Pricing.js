@@ -1,13 +1,30 @@
 'use client';
 
+import { useState, useEffect } from 'react';
+import { getVariant, fireImpression } from '../lib/ab-testing';
+
 export default function Pricing() {
+  const [variant, setVariant] = useState(null);
+
+  useEffect(() => {
+    const v = getVariant('pricing_v1');
+    setVariant(v);
+    fireImpression('pricing_v1', v);
+  }, []);
+
   const handleCheckout = async (type) => {
-    if (typeof gtag === 'function') gtag('event', 'begin_checkout', { type });
+    if (typeof gtag === 'function') {
+      gtag('event', 'begin_checkout', {
+        type,
+        experiment: 'pricing_v1',
+        variant: variant || 'A',
+      });
+    }
     try {
       const res = await fetch('/api/create-checkout', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ type }),
+        body: JSON.stringify({ type, variant: variant || 'A' }),
       });
       const data = await res.json();
       if (data.url) {
@@ -20,13 +37,28 @@ export default function Pricing() {
     }
   };
 
+  // Don't render until variant is determined to prevent flicker
+  if (!variant) return null;
+
+  // Pricing config per variant
+  const isVariantB = variant === 'B';
+  const price = isVariantB ? 49 : 39;
+  const promoPrice = isVariantB ? '34.30' : '27.30';
+  const promoLabel = isVariantB
+    ? 'Save 50% vs. negotiation coaching ($1,250+)'
+    : `Use code FIRST30 at checkout for 30% off → $${promoPrice}`;
+
   return (
     <section className="py-24 px-6 bg-white text-center" id="pricing" style={{ borderTop: '1px solid var(--border)', borderBottom: '1px solid var(--border)' }}>
       <h2 className="font-serif text-3xl md:text-4xl mb-4">Pick Your Playbook</h2>
       <p className="text-muted text-lg mb-4">One-time payment. No subscription. Delivered in under 10 minutes.</p>
       <p className="text-sm mb-12">
         <span className="bg-accent-light text-accent font-bold px-3 py-1.5 rounded-full">
-          🎉 Use code FIRST30 at checkout for 30% off → $27.30
+          {isVariantB ? (
+            <>🔥 Save 50% — coaching costs $1,250+. Get the same results for ${price}.</>
+          ) : (
+            <>🎉 Use code FIRST30 at checkout for 30% off → ${promoPrice}</>
+          )}
         </span>
       </p>
 
@@ -40,8 +72,12 @@ export default function Pricing() {
           <h3 className="font-serif text-xl text-accent mb-1">Offer Negotiation Playbook</h3>
           <p className="text-muted text-sm mb-4">Counter with confidence. Maximize your starting comp.</p>
           <div className="text-muted text-sm line-through">Negotiation coaches charge $1,250+</div>
-          <div className="font-serif text-5xl text-accent my-2">$39</div>
-          <p className="text-accent text-sm font-semibold mb-6">or $27.30 with code FIRST30</p>
+          <div className="font-serif text-5xl text-accent my-2">${price}</div>
+          {isVariantB ? (
+            <p className="text-accent text-sm font-semibold mb-6">Save 50%+ compared to coaching</p>
+          ) : (
+            <p className="text-accent text-sm font-semibold mb-6">or ${promoPrice} with code FIRST30</p>
+          )}
           <ul className="text-left space-y-2.5 mb-8">
             {[
               'Market salary benchmarks',
@@ -74,8 +110,12 @@ export default function Pricing() {
           <h3 className="font-serif text-xl text-blue mb-1">Raise Negotiation Playbook</h3>
           <p className="text-muted text-sm mb-4">Build an airtight case. Get the raise you've earned.</p>
           <div className="text-muted text-sm line-through">Negotiation coaches charge $1,250+</div>
-          <div className="font-serif text-5xl text-blue my-2">$39</div>
-          <p className="text-blue text-sm font-semibold mb-6">or $27.30 with code FIRST30</p>
+          <div className="font-serif text-5xl text-blue my-2">${price}</div>
+          {isVariantB ? (
+            <p className="text-blue text-sm font-semibold mb-6">Save 50%+ compared to coaching</p>
+          ) : (
+            <p className="text-blue text-sm font-semibold mb-6">or ${promoPrice} with code FIRST30</p>
+          )}
           <ul className="text-left space-y-2.5 mb-8">
             {[
               'Market comp report',

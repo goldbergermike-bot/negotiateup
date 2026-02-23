@@ -1,3 +1,69 @@
+---
+company: sap
+company_display: Sap
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 140000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 120000
+    base_high: 170000
+    stock_low: 35000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 235000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 70000
+    base_high: 105000
+    stock_low: 25000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 90000
+    total_comp_high: 145000
+    currency: EUR
+  - region: UK (London)
+    base_low: 60000
+    base_high: 95000
+    stock_low: 20000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 78000
+    total_comp_high: 130000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 1500000
+    base_high: 3200000
+    stock_low: 800000
+    stock_high: 2200000
+    bonus_pct: 10
+    total_comp_low: 2200000
+    total_comp_high: 4200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP T1/T2 ~ Google L3/L4 | Microsoft 59/61 | Amazon L4/L5 | Salesforce MTS/SMTS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Enterprise software builder | Cloud ERP & platform development | **ENTERPRISE TECH PREMIUM**"
+---
 ### Software Engineer | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise software builder | Cloud ERP & platform development | **ENTERPRISE TECH PREMIUM**

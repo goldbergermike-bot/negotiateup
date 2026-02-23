@@ -1,3 +1,48 @@
+---
+company: databricks
+company_display: Databricks
+role: lakehouse-platform-engineer
+role_display: Lakehouse Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 245000
+    base_high: 308000
+    stock_low: 342000
+    stock_high: 602000
+    bonus_pct: 15
+    total_comp_low: 398000
+    total_comp_high: 562000
+    currency: USD
+  - region: New York
+    base_low: 252000
+    base_high: 315000
+    stock_low: 342000
+    stock_high: 602000
+    bonus_pct: 15
+    total_comp_low: 405000
+    total_comp_high: 568000
+    currency: USD
+  - region: Remote US
+    base_low: 238000
+    base_high: 302000
+    stock_low: 342000
+    stock_high: 602000
+    bonus_pct: 15
+    total_comp_low: 392000
+    total_comp_high: 555000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Databricks Lakehouse Platform Eng = Snowflake Core Platform = Google Infrastructure L5-L6 = Meta Infrastructure (E5-E6) = Amazon Core Platform L6-L7 = Microsoft Core Platform 63-65
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "SIGNATURE ROLE | Pre-IPO Equity Play | +25-35% Lakehouse AI Premium | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Lakehouse Platform Engineer | Databricks Global Negotiation Guide
 
 **Negotiation DNA:** SIGNATURE ROLE | Pre-IPO Equity Play | +25-35% Lakehouse AI Premium | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**

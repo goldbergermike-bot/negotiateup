@@ -1,3 +1,53 @@
+---
+company: paypal
+company_display: Paypal
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 175000
+    base_high: 225000
+    stock_low: 150000
+    stock_high: 260000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 345000
+    total_comp_high: 520000
+    currency: USD
+  - region: New York NY
+    base_low: 170000
+    base_high: 220000
+    stock_low: 140000
+    stock_high: 250000
+    bonus_low: 18000
+    bonus_high: 33000
+    total_comp_low: 328000
+    total_comp_high: 503000
+    currency: USD
+  - region: London UK
+    base_low: 100000
+    base_high: 140000
+    stock_low: 75000
+    stock_high: 130000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 187000
+    total_comp_high: 292000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| PayPal | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: PYPL` `Senior Software Engineer` `IC4` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Payments Platform` `Tech Lead` `Venmo` `PYUSD`"
+---
 ### Senior Software Engineer | PayPal Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: PYPL` `Senior Software Engineer` `IC4` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Payments Platform` `Tech Lead` `Venmo` `PYUSD`

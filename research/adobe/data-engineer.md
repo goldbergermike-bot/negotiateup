@@ -1,3 +1,51 @@
+---
+company: adobe
+company_display: Adobe
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 158000
+    base_high: 198000
+    stock_low: 142000
+    stock_high: 242000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 262000
+    currency: USD
+  - region: London
+    base_low: 103000
+    base_high: 129000
+    stock_low: 85000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 129000
+    total_comp_high: 170000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4700000
+    base_high: 5900000
+    stock_low: 3600000
+    stock_high: 7200000
+    bonus_pct: 10
+    total_comp_low: 5900000
+    total_comp_high: 7800000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)"
+---
 ### Data Engineer | Adobe Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp Model (Base + Equity + 10-15% Bonus) | Generous Refresh Culture | Creative Cloud + Document Cloud + Experience Cloud ($21B+ ARR)

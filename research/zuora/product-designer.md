@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 128000
+    base_high: 178000
+    stock_low: 40000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 152000
+    total_comp_high: 235000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 112000
+    base_high: 155000
+    stock_low: 30000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 200000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 55000
+    base_high: 85000
+    stock_low: 15000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 65000
+    total_comp_high: 108000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 1400000
+    base_high: 2800000
+    stock_low: 600000
+    stock_high: 1800000
+    bonus_pct: 10
+    total_comp_low: 1800000
+    total_comp_high: 3800000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 95000
+    base_high: 138000
+    stock_low: 25000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 110000
+    total_comp_high: 168000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora IC2/IC3 (Design) ~ Chargebee Senior Designer | Recurly Senior/Lead | Stripe IC3 Design | Brex Senior"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Subscription management UX specialist | Financial workflow & billing dashboard design | **DESIGN PREMIUM**"
+---
 ### Product Designer | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Subscription management UX specialist | Financial workflow & billing dashboard design | **DESIGN PREMIUM**

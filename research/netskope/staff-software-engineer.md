@@ -1,3 +1,56 @@
+---
+company: netskope
+company_display: Netskope
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 210000
+    base_high: 260000
+    stock_low: 300000
+    stock_high: 500000
+    bonus_pct: 15
+    signing_bonus_low: 30000
+    signing_bonus_high: 60000
+    total_comp_low: 340000
+    total_comp_high: 470000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 155000
+    stock_low: 180000
+    stock_high: 300000
+    bonus_pct: 15
+    signing_bonus_low: 18000
+    signing_bonus_high: 35000
+    total_comp_low: 185000
+    total_comp_high: 260000
+    currency: GBP
+  - region: Bangalore
+    base_low: 4500000
+    base_high: 6500000
+    stock_low: 5000000
+    stock_high: 9000000
+    bonus_pct: 15
+    signing_bonus_low: 600000
+    signing_bonus_high: 1500000
+    total_comp_low: 6500000
+    total_comp_high: 10500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Staff Software Engineer (IC4) | Netskope Engineering Band 4 | Equivalent: Google L5, Meta E5/E6, Palo Alto Networks IC4/Principal"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Post-IPO Cloud Security | UZTNA Architecture Authority | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation"
+---
 ### Staff Software Engineer | Netskope Global Negotiation Guide
 
 **Negotiation DNA:** Post-IPO Cloud Security | UZTNA Architecture Authority | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation

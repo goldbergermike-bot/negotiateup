@@ -1,3 +1,48 @@
+---
+company: box
+company_display: Box
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 162000
+    base_high: 202000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 265000
+    currency: USD
+  - region: New York
+    base_low: 167000
+    base_high: 212000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 201000
+    total_comp_high: 278000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 148000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 143000
+    total_comp_high: 194000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Box PM = Google L4 PM = Dropbox PM = Microsoft PM II = Atlassian Senior PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management"
+---
 ### Product Manager | Box Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management

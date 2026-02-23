@@ -1,3 +1,55 @@
+---
+company: tpg
+company_display: Tpg
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 225000
+    base_high: 285000
+    stock_low: 240000
+    stock_high: 380000
+    bonus_low: 50000
+    bonus_high: 80000
+    total_comp_low: 515000
+    total_comp_high: 628000
+    currency: USD
+  - region: "Fort Worth, TX"
+    base_low: 195000
+    base_high: 245000
+    stock_low: 195000
+    stock_high: 310000
+    bonus_low: 42000
+    bonus_high: 65000
+    total_comp_low: 435000
+    total_comp_high: 525000
+    currency: USD
+  - region: New York
+    base_low: 218000
+    base_high: 275000
+    stock_low: 225000
+    stock_high: 365000
+    bonus_low: 48000
+    bonus_high: 75000
+    total_comp_low: 498000
+    total_comp_high: 610000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+  - Hired
+negotiation_dna_summary: "`Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `People Leadership` `Revenue-Driving Manager` `Portfolio Tech Strategy` `CRO/CGO Mindset`"
+---
 ### Engineering Manager | TPG Global Negotiation Guide
 
 **Negotiation DNA:** `Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `People Leadership` `Revenue-Driving Manager` `Portfolio Tech Strategy` `CRO/CGO Mindset`

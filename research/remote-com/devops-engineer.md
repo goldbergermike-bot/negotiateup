@@ -1,3 +1,39 @@
+---
+company: remote-com
+company_display: Remote.com
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Bay Area
+    base_low: 142000
+    base_high: 198000
+    stock_low: 52000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 288000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 185000
+    stock_low: 45000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Remote.com DevOps (IC2-IC3) = Deel DevOps = Rippling DevOps = Google L3-L4 SRE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Global Employment Platform | $3B Valuation | Remote-First | **GLOBAL PLATFORM RELIABILITY PREMIUM**"
+---
 ### DevOps Engineer | Remote.com Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Global Employment Platform | $3B Valuation | Remote-First | **GLOBAL PLATFORM RELIABILITY PREMIUM**

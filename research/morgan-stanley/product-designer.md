@@ -1,3 +1,53 @@
+---
+company: morgan-stanley
+company_display: Morgan Stanley
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 120000
+    base_high: 162000
+    stock_low: 28000
+    stock_high: 48000
+    bonus_low: 20000
+    bonus_high: 32000
+    total_comp_low: 168000
+    total_comp_high: 242000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 133000
+    stock_low: 23000
+    stock_high: 39000
+    bonus_low: 16000
+    bonus_high: 26000
+    total_comp_low: 138000
+    total_comp_high: 198000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 936000
+    base_high: 1260000
+    stock_low: 218000
+    stock_high: 374000
+    bonus_low: 156000
+    bonus_high: 250000
+    total_comp_low: 1310000
+    total_comp_high: 1890000
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Advisor UX Authority` `Trust-Centric Interface Design` `AI Interaction Patterns`"
+---
 ### Product Designer | Morgan Stanley Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Advisor UX Authority` `Trust-Centric Interface Design` `AI Interaction Patterns`

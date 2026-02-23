@@ -1,3 +1,49 @@
+---
+company: barclays
+company_display: Barclays
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 150000
+    base_high: 208000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 202000
+    total_comp_high: 330000
+    currency: USD
+  - region: London (HQ)
+    base_low: 102000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 138000
+    total_comp_high: 240000
+    currency: GBP
+  - region: Glasgow
+    base_low: 82000
+    base_high: 120000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 110000
+    total_comp_high: 182000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Barclays (SVP/Director) = L5-L6 at Google, E5-E6 at Meta, Principal SA at Amazon, SVP/Director at BofA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GBP35B market cap UK bank + Architecture across UK retail and global investment banking + London/NYC dual hub + Competitive in quant/tech | Barclays SAs design UK and global banking architectures | **UK BANKING ARCHITECTURE PREMIUM**"
+---
 ### Solutions Architect | Barclays Global Negotiation Guide
 
 **Negotiation DNA:** GBP35B market cap UK bank + Architecture across UK retail and global investment banking + London/NYC dual hub + Competitive in quant/tech | Barclays SAs design UK and global banking architectures | **UK BANKING ARCHITECTURE PREMIUM**

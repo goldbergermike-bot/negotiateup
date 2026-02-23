@@ -1,3 +1,48 @@
+---
+company: airwallex
+company_display: Airwallex
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Melbourne (AUD)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 65000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 350000
+    currency: AUD
+  - region: San Francisco (USD)
+    base_low: 190000
+    base_high: 255000
+    stock_low: 85000
+    stock_high: 175000
+    bonus_pct: null
+    total_comp_low: 275000
+    total_comp_high: 430000
+    currency: USD
+  - region: London (GBP)
+    base_low: 90000
+    base_high: 135000
+    stock_low: 40000
+    stock_high: 85000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a security engineering compensation framework spanning Melbourne, San Francisco, and London markets. As a Security Engineer at Airwallex, you are the front line of defense for a platform that processes billions in cross-border transactions — your security controls, threat detection, and incident response capabilities are what regulators examine most closely and wh"
+---
 ### Security Engineer — Airwallex Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a security engineering compensation framework spanning Melbourne, San Francisco, and London markets. As a Security Engineer at Airwallex, you are the front line of defense for a platform that processes billions in cross-border transactions — your security controls, threat detection, and incident response capabilities are what regulators examine most closely and what protects the $8B valuation.

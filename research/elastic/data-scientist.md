@@ -1,3 +1,48 @@
+---
+company: elastic
+company_display: Elastic
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 208000
+    stock_low: 165000
+    stock_high: 275000
+    bonus_pct: 5
+    total_comp_low: 205000
+    total_comp_high: 275000
+    currency: USD
+  - region: Amsterdam
+    base_low: 70000
+    base_high: 90000
+    stock_low: 65000
+    stock_high: 110000
+    bonus_pct: 5
+    total_comp_low: 85000
+    total_comp_high: 118000
+    currency: EUR
+  - region: Bangalore
+    base_low: 3800000
+    base_high: 5800000
+    stock_low: 2800000
+    stock_high: 4800000
+    bonus_pct: 5
+    total_comp_low: 4800000
+    total_comp_high: 7500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Elastic Senior DS = Google L4 DS = MongoDB Senior DS = Snowflake Senior DS (Cortex)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Small Bonus | \"Battle for the AI Data Layer\" | ESRE Premium"
+---
 ### Data Scientist | Elastic Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Small Bonus | "Battle for the AI Data Layer" | ESRE Premium

@@ -1,3 +1,70 @@
+---
+company: google
+company_display: Google
+role: staff-software-engineer
+role_display: Staff Software Engineer (L6)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 230000
+    base_high: 315000
+    stock_low: 370000
+    stock_high: 820000
+    bonus_pct: 15
+    total_comp_low: 420000
+    total_comp_high: 660000
+    currency: USD
+  - region: New York City
+    base_low: 225000
+    base_high: 310000
+    stock_low: 350000
+    stock_high: 790000
+    bonus_pct: 15
+    total_comp_low: 410000
+    total_comp_high: 640000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 220000
+    base_high: 300000
+    stock_low: 340000
+    stock_high: 770000
+    bonus_pct: 15
+    total_comp_low: 400000
+    total_comp_high: 620000
+    currency: USD
+  - region: London
+    base_low: 145000
+    base_high: 215000
+    stock_low: 220000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 460000
+    currency: GBP
+  - region: Zurich
+    base_low: 195000
+    base_high: 280000
+    stock_low: 270000
+    stock_high: 580000
+    bonus_pct: 15
+    total_comp_low: 350000
+    total_comp_high: 560000
+    currency: CHF
+level_mapping:
+  internal: L6
+  raw: "Staff SWE (L6) at Google = E6 at Meta, L64-L65 at Microsoft, Principal SDE at Amazon (L7), ICT5 at Apple, Senior Staff at Netflix, Staff at Stripe"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Elite IC level with massive equity grants + L6 is the \"force multiplier\" level + Total comp rivals Director-level at most companies | Google L6 is the premier Staff IC role in tech | **ELITE IC PREMIUM**"
+---
 ### Staff Software Engineer (L6) | Google Global Negotiation Guide
 
 **Negotiation DNA:** Elite IC level with massive equity grants + L6 is the "force multiplier" level + Total comp rivals Director-level at most companies | Google L6 is the premier Staff IC role in tech | **ELITE IC PREMIUM**

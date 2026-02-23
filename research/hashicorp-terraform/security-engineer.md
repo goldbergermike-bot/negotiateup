@@ -1,3 +1,50 @@
+---
+company: hashicorp-terraform
+company_display: HashiCorp Terraform
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 225000
+    stock_low: 145000
+    stock_high: 260000
+    bonus_pct: 5
+    total_comp_low: 235000
+    total_comp_high: 325000
+    currency: USD
+  - region: Austin / Denver
+    base_low: 165000
+    base_high: 215000
+    stock_low: 132000
+    stock_high: 240000
+    bonus_pct: 5
+    total_comp_low: 220000
+    total_comp_high: 305000
+    currency: USD
+  - region: London
+    base_low: 133000
+    base_high: 171000
+    stock_low: 110000
+    stock_high: 198000
+    bonus_pct: 5
+    total_comp_low: 178000
+    total_comp_high: 247000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: HashiCorp Security Engineer = Google L4-L5 Security Engineer = Meta E4-E5 Security = IBM Band 8-9 Security = AWS Security Engineer II-III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)"
+---
 ### Security Engineer | HashiCorp (Terraform) Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)

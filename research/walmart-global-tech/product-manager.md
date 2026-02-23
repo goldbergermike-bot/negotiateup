@@ -1,3 +1,39 @@
+---
+company: walmart-global-tech
+company_display: Walmart Global Tech
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bentonville AR (HQ)
+    base_low: 140000
+    base_high: 195000
+    stock_low: 60000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 290000
+    currency: USD
+  - region: Bay Area (Sunnyvale)
+    base_low: 152000
+    base_high: 210000
+    stock_low: 72000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 318000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Walmart Global Tech PM = Google PM L4-L5 = Amazon PM = Meta PM (IC4-IC5)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage"
+---
 ### Product Manager | Walmart Global Tech Global Negotiation Guide
 
 **Negotiation DNA:** Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage

@@ -1,3 +1,52 @@
+---
+company: gocardless
+company_display: Gocardless
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 65000
+    base_high: 95000
+    stock_low: 15000
+    stock_high: 35000
+    bonus_low: 5000
+    bonus_high: 10000
+    total_comp_low: 85000
+    total_comp_high: 140000
+    currency: GBP
+  - region: San Francisco
+    base_low: 130000
+    base_high: 180000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 165000
+    total_comp_high: 255000
+    currency: USD
+  - region: Melbourne
+    base_low: 110000
+    base_high: 150000
+    stock_low: 20000
+    stock_high: 45000
+    bonus_low: 8000
+    bonus_high: 15000
+    total_comp_low: 138000
+    total_comp_high: 210000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: "| GoCardless | Google | Meta | Stripe | Wise | Adyen |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `UX/UI` `Payment Flows`"
+---
 ### Product Designer | GoCardless Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `UX/UI` `Payment Flows`

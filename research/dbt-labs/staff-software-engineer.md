@@ -1,3 +1,48 @@
+---
+company: dbt-labs
+company_display: dbt Labs
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / Remote-US
+    base_low: 208000
+    base_high: 252000
+    stock_low: 192000
+    stock_high: 360000
+    bonus_pct: 12
+    total_comp_low: 315000
+    total_comp_high: 428000
+    currency: USD
+  - region: San Francisco
+    base_low: 220000
+    base_high: 265000
+    stock_low: 205000
+    stock_high: 385000
+    bonus_pct: 12
+    total_comp_low: 335000
+    total_comp_high: 455000
+    currency: USD
+  - region: London
+    base_low: 152000
+    base_high: 188000
+    stock_low: 135000
+    stock_high: 265000
+    bonus_pct: 12
+    total_comp_low: 225000
+    total_comp_high: 322000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: dbt Labs Staff = Google L6 = Snowflake Staff = Databricks Staff = Meta E6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Premium Equity + Leadership Bonus | Semantic Layer AI Architecture 2026"
+---
 ### Staff Software Engineer | dbt Labs Global Negotiation Guide
 
 **Negotiation DNA:** Premium Equity + Leadership Bonus | Semantic Layer AI Architecture 2026

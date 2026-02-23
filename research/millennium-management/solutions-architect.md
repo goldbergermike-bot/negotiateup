@@ -1,3 +1,50 @@
+---
+company: millennium-management
+company_display: Millennium Management
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 200000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_low: 110000
+    bonus_high: 175000
+    total_comp_low: 375000
+    total_comp_high: 545000
+    currency: USD
+  - region: Miami
+    base_low: 190000
+    base_high: 250000
+    stock_low: null
+    stock_high: null
+    bonus_low: 100000
+    bonus_high: 160000
+    total_comp_low: 345000
+    total_comp_high: 505000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 153000
+    base_high: 198000
+    stock_low: null
+    stock_high: null
+    bonus_low: 83000
+    bonus_high: 133000
+    total_comp_low: 284000
+    total_comp_high: 414000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Cross-Pod Architecture` `System Design` `Technology Strategy` `Direct Attribution`"
+---
 ### Solutions Architect | Millennium Management Global Negotiation Guide
 
 **Negotiation DNA:** `Pod Structure` `PnL Percentage` `Impact Multiplier` `Multi-Manager Platform` `Cross-Pod Architecture` `System Design` `Technology Strategy` `Direct Attribution`

@@ -1,3 +1,52 @@
+---
+company: robinhood
+company_display: Robinhood
+role: ecosystem-platform-engineer
+role_display: Ecosystem Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Menlo Park, CA (HQ)"
+    base_low: 262000
+    base_high: 342000
+    stock_low: null
+    stock_high: null
+    bonus_low: 38000
+    bonus_high: 62000
+    total_comp_low: 425000
+    total_comp_high: 622000
+    currency: USD
+  - region: New York
+    base_low: 262000
+    base_high: 342000
+    stock_low: null
+    stock_high: null
+    bonus_low: 38000
+    bonus_high: 62000
+    total_comp_low: 425000
+    total_comp_high: 622000
+    currency: USD
+  - region: London
+    base_low: 198000
+    base_high: 259000
+    stock_low: 378000
+    stock_high: 666000
+    bonus_low: 29000
+    bonus_high: 47000
+    total_comp_low: 322000
+    total_comp_high: 471000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `SIGNATURE ROLE` `+20-30% Ecosystem Premium` `Cross-Product Platform Architecture` `Financial Infrastructure Builder` `Multi-Vertical Service Mesh` `Institutional Data Platform`"
+---
 ### Ecosystem Platform Engineer | Robinhood Global Negotiation Guide
 
 **SIGNATURE ROLE** — This is the defining engineering role of Robinhood's transformation from a trading app into an Information and Capital Markets Ecosystem. The Ecosystem Platform Engineer builds the cross-product platform infrastructure that makes the Rothera JV technically possible. This guide is comprehensive and detailed because the role represents the highest-leverage, highest-compensation engineering position at Robinhood in 2026.

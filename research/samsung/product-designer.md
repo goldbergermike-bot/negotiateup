@@ -1,3 +1,68 @@
+---
+company: samsung
+company_display: Samsung
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / San Jose (US R&D)"
+    base_low: 130000
+    base_high: 185000
+    stock_low: 40000
+    stock_high: 120000
+    bonus_pct: 15
+    total_comp_low: 170000
+    total_comp_high: 275000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 120000
+    base_high: 170000
+    stock_low: 35000
+    stock_high: 100000
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 245000
+    currency: USD
+  - region: Seoul (HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (R&D Campus)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 120000
+    stock_low: 25000
+    stock_high: 70000
+    bonus_pct: 15
+    total_comp_low: 95000
+    total_comp_high: 160000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Product Designer at Samsung (CL2-CL3) = L4-L5 at Google, IC4-IC5 at Meta, ICT3-ICT4 at Apple, equivalent Figma/Spotify"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B device ecosystem with One UI design system serving 1B+ users + Galaxy AI UX defining next-generation mobile interaction + Korean design culture meets Silicon Valley UX standards | Samsung designers shape experiences across mobile, wearables, TV, and IoT | **ECOSYSTEM DESIGN PREMIUM**"
+---
 ### Product Designer | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B device ecosystem with One UI design system serving 1B+ users + Galaxy AI UX defining next-generation mobile interaction + Korean design culture meets Silicon Valley UX standards | Samsung designers shape experiences across mobile, wearables, TV, and IoT | **ECOSYSTEM DESIGN PREMIUM**

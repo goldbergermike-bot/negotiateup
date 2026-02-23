@@ -1,3 +1,52 @@
+---
+company: xai
+company_display: xAI
+role: grok-agi-research-engineer
+role_display: Grok AGI Research Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 288000
+    base_high: 362000
+    stock_low: 650000
+    stock_high: 1150000
+    bonus_pct: null
+    total_comp_low: 450000
+    total_comp_high: 649000
+    currency: USD
+  - region: Palo Alto
+    base_low: 288000
+    base_high: 362000
+    stock_low: 650000
+    stock_high: 1150000
+    bonus_pct: null
+    total_comp_low: 450000
+    total_comp_high: 649000
+    currency: USD
+  - region: Remote US
+    base_low: 272000
+    base_high: 345000
+    stock_low: 650000
+    stock_high: 1150000
+    bonus_pct: null
+    total_comp_low: 434000
+    total_comp_high: 633000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: xAI Grok AGI Research Eng (L5-L6) = Google L5-L6 Research Eng = OpenAI Research Eng = Anthropic Research Eng = DeepMind Research Scientist
+data_sources:
+  - "xAI $20B Funding Round — January 2026, Largest Private AI Raise in History"
+  - Grok AGI Research — Core Model Architecture and Capabilities
+  - "Colossus — 100K+ H100 GPU Supercomputer, World's Largest Training Cluster"
+  - X Platform Data — 500M+ User Proprietary Training Data Advantage
+  - "Agentic AI Premium — 25-40% for AGI-Scale Autonomous Capabilities"
+negotiation_dna_summary: "Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026) | **SIGNATURE ROLE** | **+25–40% AGENTIC AI PREMIUM**"
+---
 ### Grok AGI Research Engineer | xAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026) | **SIGNATURE ROLE** | **+25–40% AGENTIC AI PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: salesforce
+company_display: Salesforce
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 195000
+    stock_low: 150000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 193000
+    total_comp_high: 260000
+    currency: USD
+  - region: Indianapolis
+    base_low: 135000
+    base_high: 175000
+    stock_low: 130000
+    stock_high: 225000
+    bonus_pct: null
+    total_comp_low: 168000
+    total_comp_high: 231000
+    currency: USD
+  - region: Hyderabad
+    base_low: 2200000
+    base_high: 3800000
+    stock_low: 1200000
+    stock_high: 2200000
+    bonus_pct: null
+    total_comp_low: 3400000
+    total_comp_high: 6000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Salesforce Senior Product Designer = Google L4 UX = Meta IC4 Design
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Agentforce Consumption Inflection"
+---
 ### Product Designer | Salesforce Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Agentforce Consumption Inflection

@@ -1,3 +1,68 @@
+---
+company: bytedance
+company_display: Bytedance
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Mountain View (US)
+    base_low: 200000
+    base_high: 275000
+    stock_low: 150000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 340000
+    total_comp_high: 530000
+    currency: USD
+  - region: New York City / Seattle (US)
+    base_low: 195000
+    base_high: 270000
+    stock_low: 145000
+    stock_high: 370000
+    bonus_pct: 15
+    total_comp_low: 330000
+    total_comp_high: 520000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 650000
+    base_high: 1200000
+    stock_low: 400000
+    stock_high: 900000
+    bonus_pct: 25
+    total_comp_low: 1150000
+    total_comp_high: 2200000
+    currency: CNY
+  - region: Shanghai
+    base_low: 620000
+    base_high: 1150000
+    stock_low: 380000
+    stock_high: 860000
+    bonus_pct: 25
+    total_comp_low: 1100000
+    total_comp_high: 2100000
+    currency: CNY
+  - region: Singapore
+    base_low: 165000
+    base_high: 250000
+    stock_low: 100000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 420000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at ByteDance (2-2+) = M1-M2 at Google, M1-M2 at Meta, SDM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Private $225B+ with US EM comp exceeding FAANG M1-M2 for top candidates + TikTok's hyper-growth creating massive EM demand + Pre-IPO equity with significant upside | ByteDance EMs lead teams building the world's fastest-growing tech products | **HYPER-GROWTH LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | ByteDance Global Negotiation Guide
 
 **Negotiation DNA:** Private $225B+ with US EM comp exceeding FAANG M1-M2 for top candidates + TikTok's hyper-growth creating massive EM demand + Pre-IPO equity with significant upside | ByteDance EMs lead teams building the world's fastest-growing tech products | **HYPER-GROWTH LEADERSHIP PREMIUM**

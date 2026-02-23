@@ -1,3 +1,48 @@
+---
+company: accenture
+company_display: Accenture
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 120000
+    base_high: 170000
+    stock_low: 30000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 276000
+    currency: USD
+  - region: San Francisco
+    base_low: 125000
+    base_high: 175000
+    stock_low: 35000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 156000
+    total_comp_high: 291000
+    currency: USD
+  - region: Bangalore
+    base_low: 1000000
+    base_high: 2200000
+    stock_low: 300000
+    stock_high: 800000
+    bonus_pct: 10
+    total_comp_low: 1400000
+    total_comp_high: 3300000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Accenture Analyst / Senior Analyst = Google L3 = Deloitte Consultant = PwC Associate
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + RSU Grants + Bonus (10-15%) | World's Largest IT Services Firm"
+---
 ### Software Engineer | Accenture Global Negotiation Guide
 
 **Negotiation DNA:** Base + RSU Grants + Bonus (10-15%) | World's Largest IT Services Firm

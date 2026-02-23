@@ -1,3 +1,50 @@
+---
+company: capital-one
+company_display: Capital One
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: McLean VA (HQ)
+    base_low: 150000
+    base_high: 200000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+  - region: New York City
+    base_low: 160000
+    base_high: 210000
+    stock_low: 90000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 330000
+    currency: USD
+  - region: San Francisco
+    base_low: 155000
+    base_high: 205000
+    stock_low: 85000
+    stock_high: 205000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Engineer at Capital One (Senior/Principal) = L4-L5 at Google, E4-E5 at Meta, SDE II-Senior at Amazon, VP at BofA/JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$68B market cap TECH-FIRST bank + First major bank fully on AWS cloud + McLean VA HQ + Comp competitive with Big Tech | Capital One data engineering is cloud-native and industry-leading | **TECH-FIRST DATA PREMIUM**"
+---
 ### Data Engineer | Capital One Global Negotiation Guide
 
 **Negotiation DNA:** $68B market cap TECH-FIRST bank + First major bank fully on AWS cloud + McLean VA HQ + Comp competitive with Big Tech | Capital One data engineering is cloud-native and industry-leading | **TECH-FIRST DATA PREMIUM**

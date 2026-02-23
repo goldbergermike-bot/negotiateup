@@ -1,3 +1,52 @@
+---
+company: box
+company_display: Box
+role: box-ai-content-intelligence-engineer
+role_display: Box AI Content Intelligence Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 182000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 308000
+    currency: USD
+  - region: New York
+    base_low: 187000
+    base_high: 236000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 323000
+    currency: USD
+  - region: London
+    base_low: 133000
+    base_high: 164000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 167000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Box AI Content Intelligence Engineer (Senior) = Google L4–L5 AI Platform = Anthropic Senior Platform Engineer = OpenAI Applied AI Engineer
+data_sources:
+  - "Box FY2026 AI Strategy — Box AI, Hero Agent Architecture, Content Intelligence Platform"
+  - "Box AI Studio — Enterprise Document Intelligence, Customer Content Customization"
+  - Agentic AI Engineering Market — Premium Comp Benchmarks 2026
+  - "Box Investor Day 2026 — Hero Agent Philosophy, Enterprise Advanced Revenue Strategy"
+  - "Enterprise Content Intelligence — Document Understanding, Summarization, Workflow Automation Market"
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management | **SIGNATURE ROLE** | **+15–25% AGENTIC AI PREMIUM**"
+---
 ### Box AI Content Intelligence Engineer | Box Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Intelligent Content Cloud | AI-First Content Management | **SIGNATURE ROLE** | **+15–25% AGENTIC AI PREMIUM**

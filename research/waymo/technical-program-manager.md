@@ -1,3 +1,39 @@
+---
+company: waymo
+company_display: Waymo
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View (HQ)
+    base_low: 170000
+    base_high: 235000
+    stock_low: 145000
+    stock_high: 385000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 425000
+    currency: USD
+  - region: San Francisco
+    base_low: 170000
+    base_high: 235000
+    stock_low: 145000
+    stock_high: 385000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 425000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Waymo TPM = Google TPM L4-L5 = Meta TPM (IC4-IC5) = Amazon TPM = Apple TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Google-Adjacent Comp | Alphabet RSUs (GOOGL) | Self-Driving Leader | Top-Tier Stability"
+---
 ### Technical Program Manager | Waymo Global Negotiation Guide
 
 **Negotiation DNA:** Google-Adjacent Comp | Alphabet RSUs (GOOGL) | Self-Driving Leader | Top-Tier Stability

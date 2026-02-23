@@ -1,3 +1,67 @@
+---
+company: zuora
+company_display: Zuora
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Redwood City / Bay Area)
+    base_low: 148000
+    base_high: 208000
+    stock_low: 55000
+    stock_high: 152000
+    bonus_pct: 12
+    total_comp_low: 180000
+    total_comp_high: 280000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 130000
+    base_high: 185000
+    stock_low: 42000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 245000
+    currency: USD
+  - region: EMEA (London/Munich)
+    base_low: 65000
+    base_high: 102000
+    stock_low: 22000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 82000
+    total_comp_high: 135000
+    currency: GBP
+  - region: India (Bangalore/Chennai)
+    base_low: 2200000
+    base_high: 4200000
+    stock_low: 1000000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 2800000
+    total_comp_high: 5500000
+    currency: INR
+  - region: APAC (Sydney/Tokyo)
+    base_low: 115000
+    base_high: 165000
+    stock_low: 35000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zuora PM (IC3/IC4) ~ Chargebee PM/Senior PM | Recurly PM/Senior PM | Stripe PM | Salesforce Senior PM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Subscription platform product strategist | Billing & monetization product leadership | **PRODUCT LEADERSHIP PREMIUM**"
+---
 ### Product Manager | Zuora Global Negotiation Guide
 
 **Negotiation DNA:** Subscription platform product strategist | Billing & monetization product leadership | **PRODUCT LEADERSHIP PREMIUM**

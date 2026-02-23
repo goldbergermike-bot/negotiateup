@@ -1,3 +1,50 @@
+---
+company: scale-ai
+company_display: Scale AI
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 218000
+    base_high: 272000
+    stock_low: 295000
+    stock_high: 515000
+    bonus_pct: null
+    total_comp_low: 292000
+    total_comp_high: 401000
+    currency: USD
+  - region: New York
+    base_low: 225000
+    base_high: 286000
+    stock_low: 295000
+    stock_high: 515000
+    bonus_pct: null
+    total_comp_low: 299000
+    total_comp_high: 414000
+    currency: USD
+  - region: Washington DC
+    base_low: 229000
+    base_high: 294000
+    stock_low: 295000
+    stock_high: 515000
+    bonus_pct: null
+    total_comp_low: 303000
+    total_comp_high: 422000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Scale EM = Google L5 EM = Meta M1 = Amazon SDM = Apple ICT4 EM = Microsoft EM2 63-64
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity"
+---
 ### Engineering Manager | Scale AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity

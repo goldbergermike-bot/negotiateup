@@ -1,3 +1,48 @@
+---
+company: thunes
+company_display: Thunes
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 100000
+    base_high: 150000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 240000
+    currency: SGD
+  - region: ":gb: London (GBP)"
+    base_low: 60000
+    base_high: 95000
+    stock_low: 30000
+    stock_high: 55000
+    bonus_pct: null
+    total_comp_low: 90000
+    total_comp_high: 150000
+    currency: GBP
+  - region: ":us: New York (USD)"
+    base_low: 120000
+    base_high: 175000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a product design compensation framework spanning Singapore, London, and New York markets."
+---
 ### Product Designer — Thunes Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a product design compensation framework spanning Singapore, London, and New York markets.

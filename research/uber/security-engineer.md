@@ -1,3 +1,48 @@
+---
+company: uber
+company_display: Uber
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 258000
+    stock_low: 198000
+    stock_high: 345000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 352000
+    currency: USD
+  - region: New York
+    base_low: 212000
+    base_high: 265000
+    stock_low: 198000
+    stock_high: 345000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 362000
+    currency: USD
+  - region: London
+    base_low: 132000
+    base_high: 168000
+    stock_low: 105000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Uber Security Eng = Google L4 Security = Lyft Security = DoorDash Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)"
+---
 ### Security Engineer | Uber Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026)

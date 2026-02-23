@@ -1,3 +1,52 @@
+---
+company: gocardless
+company_display: Gocardless
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 80000
+    base_high: 115000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_low: 8000
+    bonus_high: 15000
+    total_comp_low: 113000
+    total_comp_high: 185000
+    currency: GBP
+  - region: San Francisco
+    base_low: 160000
+    base_high: 215000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 215000
+    total_comp_high: 323000
+    currency: USD
+  - region: Melbourne
+    base_low: 130000
+    base_high: 175000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_low: 12000
+    bonus_high: 20000
+    total_comp_low: 172000
+    total_comp_high: 255000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: "| GoCardless | Google | Meta | Stripe | Wise | Adyen |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `InfoSec` `Payment Security` `Compliance`"
+---
 ### Security Engineer | GoCardless Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `VRP` `Fintech` `Open Banking` `Bank-to-Bank Payments` `Options Equity` `Secondary Liquidity` `InfoSec` `Payment Security` `Compliance`

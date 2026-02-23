@@ -1,3 +1,48 @@
+---
+company: servicetitan
+company_display: Servicetitan
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles / Glendale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 340000
+    currency: USD
+  - region: Atlanta / Secondary
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 305000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Solutions Architects at ServiceTitan design implementation and integration architectures that connect the home services platform to contractors' existing business systems — serving as the technical bridge between ServiceTitan's platform and the $600B trades industry."
+---
 ### Solutions Architect — ServiceTitan Salary Negotiation Guide
 
 **Negotiation DNA**: Solutions Architects at ServiceTitan design implementation and integration architectures that connect the home services platform to contractors' existing business systems — serving as the technical bridge between ServiceTitan's platform and the $600B trades industry.

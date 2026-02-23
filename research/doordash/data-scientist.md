@@ -1,3 +1,48 @@
+---
+company: doordash
+company_display: DoorDash
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 182000
+    base_high: 228000
+    stock_low: 175000
+    stock_high: 305000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York City
+    base_low: 182000
+    base_high: 228000
+    stock_low: 175000
+    stock_high: 305000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 305000
+    currency: USD
+  - region: Sydney
+    base_low: 150000
+    base_high: 188000
+    stock_low: 114000
+    stock_high: 199000
+    bonus_pct: 10
+    total_comp_low: 184000
+    total_comp_high: 248000
+    currency: AUD
+level_mapping:
+  internal: null
+  raw: DoorDash Senior DS = Google L4 DS = Uber Senior DS = Meta IC4 DS = Instacart Senior DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion"
+---
 ### Data Scientist | DoorDash Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base + Bonus | Local Commerce Leader | Multi-Vertical Expansion

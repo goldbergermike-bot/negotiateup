@@ -1,3 +1,50 @@
+---
+company: nubank
+company_display: Nubank
+role: us-charter-platform-engineer
+role_display: US Charter Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (US HQ)
+    base_low: 265000
+    base_high: 365000
+    stock_low: 320000
+    stock_high: 640000
+    bonus_low: 48000
+    bonus_high: 80000
+    total_comp_low: 378000
+    total_comp_high: 555000
+    currency: USD
+  - region: São Paulo (Global HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Berlin
+    base_low: 221000
+    base_high: 304000
+    stock_low: 267000
+    stock_high: 533000
+    bonus_low: 40000
+    bonus_high: 67000
+    total_comp_low: 528000
+    total_comp_high: 904000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`US Charter` `Founding US Team` `$783M Quarterly Profit` `Public Equity (NYSE: NU)` `100M+ Customers` `Platform Architecture` `US Banking Infrastructure` `Cross-Border Systems` `Regulatory Engineering` `Charter Pioneer` `Founding Engineer Premium`"
+---
 ### US Charter Platform Engineer | Nubank Global Negotiation Guide
 
 **SIGNATURE ROLE**

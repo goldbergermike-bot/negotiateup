@@ -1,3 +1,48 @@
+---
+company: pwc
+company_display: PwC
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 140000
+    base_high: 190000
+    stock_low: 15000
+    stock_high: 50000
+    bonus_pct: 15
+    total_comp_low: 179000
+    total_comp_high: 288000
+    currency: USD
+  - region: Chicago
+    base_low: 130000
+    base_high: 175000
+    stock_low: 10000
+    stock_high: 40000
+    bonus_pct: 15
+    total_comp_low: 163000
+    total_comp_high: 259000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 135000
+    stock_low: 8000
+    stock_high: 30000
+    bonus_pct: 15
+    total_comp_low: 117000
+    total_comp_high: 199000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: PwC Director = Google L5-L6 EM = Deloitte Manager/SM = Accenture Manager
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (15-25%) + Equity at Senior Levels | Director Level"
+---
 ### Engineering Manager | PwC Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (15-25%) + Equity at Senior Levels | Director Level

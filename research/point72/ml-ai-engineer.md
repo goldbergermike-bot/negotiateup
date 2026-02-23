@@ -1,3 +1,50 @@
+---
+company: point72
+company_display: Point72
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stamford CT (HQ)
+    base_low: 245000
+    base_high: 335000
+    stock_low: null
+    stock_high: null
+    bonus_low: 230000
+    bonus_high: 360000
+    total_comp_low: 475000
+    total_comp_high: 695000
+    currency: USD
+  - region: New York
+    base_low: 255000
+    base_high: 350000
+    stock_low: null
+    stock_high: null
+    bonus_low: 240000
+    bonus_high: 375000
+    total_comp_low: 495000
+    total_comp_high: 725000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 425000
+    total_comp_high: 625000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`IAC Team` `Researcher Premium` `$466K+ L3` `+15-25% AI/Quant Premium` `Systematic ML Alpha` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`"
+---
 ### ML/AI Engineer | Point72 Global Negotiation Guide
 
 **Negotiation DNA:** `IAC Team` `Researcher Premium` `$466K+ L3` `+15-25% AI/Quant Premium` `Systematic ML Alpha` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`

@@ -1,3 +1,50 @@
+---
+company: citadel-securities
+company_display: Citadel Securities
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 190000
+    base_high: 250000
+    stock_low: null
+    stock_high: null
+    bonus_low: 175000
+    bonus_high: 275000
+    total_comp_low: 365000
+    total_comp_high: 525000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_low: 185000
+    bonus_high: 290000
+    total_comp_low: 385000
+    total_comp_high: 555000
+    currency: USD
+  - region: London
+    base_low: 150000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_low: 140000
+    bonus_high: 220000
+    total_comp_low: 290000
+    total_comp_high: 420000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Financial Security` `25% US Equity Volume` `Private Firm Premium` `Critical Infrastructure Protection`"
+---
 ### Security Engineer | Citadel Securities Global Negotiation Guide
 
 **Negotiation DNA:** `$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `Financial Security` `25% US Equity Volume` `Private Firm Premium` `Critical Infrastructure Protection`

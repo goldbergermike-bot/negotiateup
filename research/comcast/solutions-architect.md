@@ -1,3 +1,50 @@
+---
+company: comcast
+company_display: Comcast
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / NYC
+    base_low: 145000
+    base_high: 205000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 12
+    total_comp_low: 185000
+    total_comp_high: 305000
+    currency: USD
+  - region: Denver / Seattle
+    base_low: 140000
+    base_high: 200000
+    stock_low: 45000
+    stock_high: 140000
+    bonus_pct: 12
+    total_comp_low: 175000
+    total_comp_high: 290000
+    currency: USD
+  - region: London (UK)
+    base_low: 108000
+    base_high: 152000
+    stock_low: 35000
+    stock_high: 108000
+    bonus_pct: 12
+    total_comp_low: 140000
+    total_comp_high: 230000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Comcast Solutions Architect (T5-T6) = Google Cloud Customer Engineer L5-L6 = AWS Solutions Architect (Senior/Principal) = Microsoft Azure Solutions Architect 64-66
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$170B Media-Tech Conglomerate | Enterprise + Consumer Architecture | Cross-Platform Integration Design"
+---
 ### Solutions Architect | Comcast Global Negotiation Guide
 
 **Negotiation DNA:** $170B Media-Tech Conglomerate | Enterprise + Consumer Architecture | Cross-Platform Integration Design

@@ -1,3 +1,54 @@
+---
+company: airbase
+company_display: Airbase
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 130000
+    base_high: 165000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 170000
+    total_comp_high: 245000
+    currency: USD
+  - region: Bangalore
+    base_low: 1800000
+    base_high: 2800000
+    stock_low: 800000
+    stock_high: 1600000
+    bonus_low: 200000
+    bonus_high: 400000
+    total_comp_low: 2800000
+    total_comp_high: 4800000
+    currency: INR
+  - region: New York
+    base_low: 135000
+    base_high: 170000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 175000
+    total_comp_high: 250000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Airbase | Google | Meta | Stripe | Bill.com | Coupa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Crunchbase
+  - Blind
+negotiation_dna_summary: "`Private` `Deep ERP` `Spend Management` `Interoperability` `Mid-Market Fintech` `Options`"
+---
 ### Software Engineer | Airbase Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Deep ERP` `Spend Management` `Interoperability` `Mid-Market Fintech` `Options`

@@ -1,3 +1,48 @@
+---
+company: marvell
+company_display: Marvell
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 120000
+    base_high: 155000
+    stock_low: 70000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 218000
+    currency: USD
+  - region: Boise
+    base_low: 108000
+    base_high: 139000
+    stock_low: 58000
+    stock_high: 102000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 192000
+    currency: USD
+  - region: Remote US
+    base_low: 114000
+    base_high: 147000
+    stock_low: 64000
+    stock_high: 112000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Marvell D3–D4 = Google UX L4 = Meta Product Designer IC4 = Apple Design ICT3 = Broadcom UX Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | Standard Band"
+---
 ### Product Designer | Marvell Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | Standard Band

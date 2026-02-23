@@ -1,3 +1,48 @@
+---
+company: rapyd
+company_display: Rapyd
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 82000
+    base_high: 122000
+    stock_low: 50000
+    stock_high: 105000
+    bonus_pct: null
+    total_comp_low: 132000
+    total_comp_high: 227000
+    currency: GBP
+  - region: Tel Aviv (ILS)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Francisco (USD)
+    base_low: 162000
+    base_high: 228000
+    stock_low: 90000
+    stock_high: 175000
+    bonus_pct: null
+    total_comp_low: 252000
+    total_comp_high: 403000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Rapyd's Stablecoin Mainstream strategy, translating the Jan 2026 State of Stablecoins Report (34% business adoption) into a Product Manager compensation framework spanning London, Tel Aviv, and San Francisco markets."
+---
 ### Product Manager — Rapyd Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Rapyd's Stablecoin Mainstream strategy, translating the Jan 2026 State of Stablecoins Report (34% business adoption) into a Product Manager compensation framework spanning London, Tel Aviv, and San Francisco markets.

@@ -1,3 +1,48 @@
+---
+company: expedia
+company_display: Expedia
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 175000
+    base_high: 235000
+    stock_low: 140000
+    stock_high: 230000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 328000
+    currency: USD
+  - region: Austin
+    base_low: 158000
+    base_high: 212000
+    stock_low: 122000
+    stock_high: 202000
+    bonus_pct: 15
+    total_comp_low: 212000
+    total_comp_high: 295000
+    currency: USD
+  - region: London
+    base_low: 128000
+    base_high: 171000
+    stock_low: 105000
+    stock_high: 173000
+    bonus_pct: 15
+    total_comp_low: 172000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Expedia ML/AI Engineer = Google ML Engineer L4/L5 = Booking.com ML Engineer = Airbnb ML Engineer = Amazon Applied Scientist = Microsoft ML Engineer 63/64
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | +15-25% AI Premium"
+---
 ### ML/AI Engineer | Expedia Global Negotiation Guide
 
 **Negotiation DNA:** Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | +15-25% AI Premium

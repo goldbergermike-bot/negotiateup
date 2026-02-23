@@ -1,3 +1,52 @@
+---
+company: openai
+company_display: OpenAI
+role: gpt-agent-platform-engineer
+role_display: GPT Agent Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 285000
+    base_high: 358000
+    stock_low: 600000
+    stock_high: 1100000
+    bonus_pct: null
+    total_comp_low: 435000
+    total_comp_high: 633000
+    currency: USD
+  - region: Seattle
+    base_low: 275000
+    base_high: 348000
+    stock_low: 600000
+    stock_high: 1100000
+    bonus_pct: null
+    total_comp_low: 425000
+    total_comp_high: 623000
+    currency: USD
+  - region: London
+    base_low: 198000
+    base_high: 252000
+    stock_low: 438000
+    stock_high: 802000
+    bonus_pct: null
+    total_comp_low: 308000
+    total_comp_high: 453000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: OpenAI GPT Agent Platform Eng (L5-L6) = Google L5-L6 AI Agent Eng = Anthropic Claude Tool-Use Eng = Meta FAIR Agent Eng = DeepMind Agent Eng
+data_sources:
+  - "OpenAI GPT Agent Platform — Assistants API, Tool-Use, GPT Store 2026"
+  - OpenAI No-Cliff Vesting — December 2025 Policy Change
+  - "Agentic AI Premium — 25-40% for Autonomous Agent Platform Engineering"
+  - GPT Store — AI Agent Marketplace at Scale
+  - PPU Structure — Agent Platform Revenue-Driven Upside
+negotiation_dna_summary: "Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+) | **SIGNATURE ROLE** | **+25–40% AGENTIC AI PREMIUM**"
+---
 ### GPT Agent Platform Engineer | OpenAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + PPU (Profit Participation Units) | Frontier AI Lab | No-Cliff Vesting (Dec 2025+) | **SIGNATURE ROLE** | **+25–40% AGENTIC AI PREMIUM**

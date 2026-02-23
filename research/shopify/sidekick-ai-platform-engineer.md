@@ -1,3 +1,48 @@
+---
+company: shopify
+company_display: Shopify
+role: sidekick-ai-platform-engineer
+role_display: Sidekick AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 195000
+    base_high: 252000
+    stock_low: 185000
+    stock_high: 335000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 405000
+    currency: CAD
+  - region: San Francisco
+    base_low: 210000
+    base_high: 272000
+    stock_low: 198000
+    stock_high: 368000
+    bonus_pct: 15
+    total_comp_low: 295000
+    total_comp_high: 435000
+    currency: USD
+  - region: Remote US/Canada
+    base_low: 198000
+    base_high: 258000
+    stock_low: 188000
+    stock_high: 348000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 415000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shopify Sidekick Platform (L7-L9) = Google AI Platform L6-L7 = Meta AI Infra E6-E7 = OpenAI Platform = Anthropic Platform
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Core Platform | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**"
+---
 ### Sidekick AI Platform Engineer | Shopify Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Core Platform | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**

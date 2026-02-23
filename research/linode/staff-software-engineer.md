@@ -1,3 +1,48 @@
+---
+company: linode
+company_display: Linode
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 403000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 243000
+    total_comp_high: 380000
+    currency: USD
+  - region: Cambridge MA
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 268000
+    total_comp_high: 413000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Staff Software Engineers at Linode define the architecture of Akamai Connected Cloud, setting cross-team direction for distributed cloud infrastructure across Akamai's global edge network."
+---
 ### Staff Software Engineer — Linode (Akamai Cloud) Salary Negotiation Guide
 
 **Negotiation DNA**: Staff Software Engineers at Linode define the architecture of Akamai Connected Cloud, setting cross-team direction for distributed cloud infrastructure across Akamai's global edge network.

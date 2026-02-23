@@ -1,3 +1,39 @@
+---
+company: shield-ai
+company_display: Shield Ai
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Diego, CA"
+    base_low: 150000
+    base_high: 200000
+    stock_low: 80000
+    stock_high: 230000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 320000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 150000
+    base_high: 200000
+    stock_low: 80000
+    stock_high: 230000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shield AI Security Eng = Google L4-L5 Security = Anduril Security Eng -- with autonomous weapons focus and earlier-stage security program building
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | Autonomous Weapons Security/CMMC | Startup Intensity"
+---
 ### Security Engineer | Shield AI Global Negotiation Guide
 
 **Negotiation DNA:** Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | Autonomous Weapons Security/CMMC | Startup Intensity

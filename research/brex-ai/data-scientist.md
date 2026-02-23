@@ -1,3 +1,48 @@
+---
+company: brex-ai
+company_display: Brex AI
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 162000
+    base_high: 205000
+    stock_low: 158000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 282000
+    currency: USD
+  - region: New York
+    base_low: 158000
+    base_high: 200000
+    stock_low: 153000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 275000
+    currency: USD
+  - region: Remote (US)
+    base_low: 148000
+    base_high: 188000
+    stock_low: 138000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex DS (Mid) = Google L4 DS = Meta IC4 DS = Stripe Data Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Late-Stage Private | AI-Powered Spend Management"
+---
 ### Data Scientist | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Late-Stage Private | AI-Powered Spend Management

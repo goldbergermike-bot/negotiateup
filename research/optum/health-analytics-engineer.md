@@ -1,3 +1,48 @@
+---
+company: optum
+company_display: Optum
+role: health-analytics-engineer
+role_display: Health Analytics Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Eden Prairie MN
+    base_low: 150000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 200000
+    total_comp_high: 310000
+    currency: USD
+  - region: Dallas TX
+    base_low: 145000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 300000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 185000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Optum T5 Health Analytics Engineer = Google L4-L5 Data Engineer = Databricks Senior = Palantir Forward Deployed Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "UHG Tech/Analytics Subsidiary / Higher Comp Than Parent / Data-Driven Healthcare | **SIGNATURE ROLE** | **+10-20% ANALYTICS PREMIUM**"
+---
 ### Health Analytics Engineer | Optum Global Negotiation Guide
 
 **Negotiation DNA:** UHG Tech/Analytics Subsidiary / Higher Comp Than Parent / Data-Driven Healthcare | **SIGNATURE ROLE** | **+10-20% ANALYTICS PREMIUM**

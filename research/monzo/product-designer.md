@@ -1,3 +1,51 @@
+---
+company: monzo
+company_display: Monzo
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 38000
+    base_high: 55000
+    stock_low: 7000
+    stock_high: 10000
+    bonus_low: 3000
+    bonus_high: 5000
+    total_comp_low: 48000
+    total_comp_high: 70000
+    currency: GBP
+  - region: Remote UK
+    base_low: 36000
+    base_high: 52000
+    stock_low: 6000
+    stock_high: 9000
+    bonus_low: 3000
+    bonus_high: 5000
+    total_comp_low: 46000
+    total_comp_high: 66000
+    currency: GBP
+  - region: Remote US
+    base_low: 60000
+    base_high: 88000
+    stock_low: 12000
+    stock_high: 16000
+    bonus_low: 5000
+    bonus_high: 7000
+    total_comp_low: 77000
+    total_comp_high: 111000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Design Systems` `Consumer Fintech UX` `Mobile-First`"
+---
 ### Product Designer | Monzo Global Negotiation Guide
 
 **Negotiation DNA:** `OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Design Systems` `Consumer Fintech UX` `Mobile-First`

@@ -1,3 +1,48 @@
+---
+company: dbt-labs
+company_display: dbt Labs
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / Remote-US
+    base_low: 152000
+    base_high: 188000
+    stock_low: 105000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 242000
+    currency: USD
+  - region: San Francisco
+    base_low: 162000
+    base_high: 200000
+    stock_low: 118000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 258000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 142000
+    stock_low: 75000
+    stock_high: 138000
+    bonus_pct: 10
+    total_comp_low: 132000
+    total_comp_high: 182000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: dbt Labs PD = Google L3-L4 UX = Snowflake PD = Databricks PD = Amazon L4-L5 UXD
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Equity + Bonus | Semantic Layer AI Expansion | Analytics Engineering Category Creator | Series D Growth-Stage Equity"
+---
 ### Product Designer | dbt Labs Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Equity + Bonus | Semantic Layer AI Expansion | Analytics Engineering Category Creator | Series D Growth-Stage Equity

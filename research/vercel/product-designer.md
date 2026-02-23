@@ -1,3 +1,50 @@
+---
+company: vercel
+company_display: Vercel
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 210000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_pct: 5
+    total_comp_low: 215000
+    total_comp_high: 315000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 210000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_pct: 5
+    total_comp_low: 215000
+    total_comp_high: 315000
+    currency: USD
+  - region: London
+    base_low: 122000
+    base_high: 160000
+    stock_low: 91000
+    stock_high: 183000
+    bonus_pct: 5
+    total_comp_low: 164000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Vercel Product Designer = Google L4 UX Designer = Meta IC4 Product Designer = Figma Product Designer = Stripe Product Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Design-Premium Base + Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI-Native Design Systems"
+---
 ### Product Designer | Vercel Global Negotiation Guide
 
 **Negotiation DNA:** Design-Premium Base + Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI-Native Design Systems

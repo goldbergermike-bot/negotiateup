@@ -1,3 +1,48 @@
+---
+company: monday-com
+company_display: Monday.com
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 345000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 300000
+    currency: USD
+  - region: London / Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 148000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Data Engineers at Monday.com build the data infrastructure that powers the $12B Work OS — processing billions of items, automations, and workflow events across the most flexible work management platform in the market."
+---
 ### Data Engineer — Monday.com Salary Negotiation Guide
 
 **Negotiation DNA**: Data Engineers at Monday.com build the data infrastructure that powers the $12B Work OS — processing billions of items, automations, and workflow events across the most flexible work management platform in the market.

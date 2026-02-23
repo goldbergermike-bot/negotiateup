@@ -1,3 +1,40 @@
+---
+company: gitlab
+company_display: Gitlab
+role: ml-ai-engineer
+role_display: ML / AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (All-Remote)
+    base_low: 160000
+    base_high: 225000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 340000
+    currency: USD
+  - region: San Francisco Benchmark
+    base_low: 165000
+    base_high: 230000
+    stock_low: 75000
+    stock_high: 205000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 350000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: GitLab ML/AI Eng = GitHub Copilot ML Eng = Google L4 ML = Anthropic ML Eng
+data_sources:
+  - Levels.fyi
+  - Payscale
+negotiation_dna_summary: "Public ($8B Market Cap) | All-Remote | DevSecOps Platform | **+15–25% AI PREMIUM**"
+---
 ### ML / AI Engineer | GitLab Global Negotiation Guide
 
 **Negotiation DNA:** Public ($8B Market Cap) | All-Remote | DevSecOps Platform | **+15–25% AI PREMIUM**

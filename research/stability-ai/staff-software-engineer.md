@@ -1,3 +1,50 @@
+---
+company: stability-ai
+company_display: Stability AI
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 125000
+    base_high: 175000
+    stock_low: 100000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 250000
+    currency: GBP
+  - region: San Francisco
+    base_low: 195000
+    base_high: 260000
+    stock_low: 100000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: 176000
+    base_high: 234000
+    stock_low: 90000
+    stock_high: 270000
+    bonus_pct: null
+    total_comp_low: 198000
+    total_comp_high: 302000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stability AI Staff SWE = Google L6 = Meta E6 = UK Principal Engineer top-tier
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | Open-Source AI Technical Leadership"
+---
 ### Staff Software Engineer | Stability AI Global Negotiation Guide
 
 **Negotiation DNA:** Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | Open-Source AI Technical Leadership

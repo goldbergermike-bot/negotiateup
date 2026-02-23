@@ -1,3 +1,59 @@
+---
+company: millennium-management
+company_display: Millennium Management
+role: pod-infrastructure-engineer
+role_display: Pod Infrastructure Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 340000
+    base_high: 470000
+    stock_low: null
+    stock_high: null
+    bonus_low: 225000
+    bonus_high: 345000
+    total_comp_low: 715000
+    total_comp_high: 1050000
+    currency: USD
+  - region: Miami
+    base_low: 320000
+    base_high: 440000
+    stock_low: null
+    stock_high: null
+    bonus_low: 210000
+    bonus_high: 320000
+    total_comp_low: 665000
+    total_comp_high: 975000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 258000
+    base_high: 358000
+    stock_low: null
+    stock_high: null
+    bonus_low: 170000
+    bonus_high: 262000
+    total_comp_low: 541000
+    total_comp_high: 798000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Millennium Management Pod Infrastructure and Technology — Institutional Investor
+  - Pod Infrastructure Engineer Compensation at Multi-Manager Funds — Options Group
+  - Trading Infrastructure Compensation 2024
+  - PnL Attribution System Engineering — Risk.net
+  - Risk Management Infrastructure at Scale — Greenwich Associates
+  - Multi-Manager Fund Core Infrastructure Roles — eFinancialCareers
+  - Trading Infrastructure Architecture — InfoQ
+  - Hedge Fund Technology Compensation Survey — Coalition Greenwich
+  - Critical Infrastructure Engineering in Finance — Financial Times
+  - Pod Model Economics and Technology — Bloomberg
+negotiation_dna_summary: "`Pod Structure` `PnL Percentage` `Impact Multiplier` `+25-35% Pod Infrastructure Premium` `Multi-Manager Platform` `PnL Attribution Engine` `Risk Management Systems` `Cross-Pod Platform` `Trading Infrastructure` `Direct Attribution`"
+---
 ### Pod Infrastructure Engineer | Millennium Management Global Negotiation Guide
 
 **SIGNATURE ROLE**

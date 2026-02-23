@@ -1,3 +1,51 @@
+---
+company: etrade
+company_display: Etrade
+role: crypto-pioneer-platform-engineer
+role_display: Crypto Pioneer Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 255000
+    base_high: 340000
+    stock_low: null
+    stock_high: null
+    bonus_low: 58000
+    bonus_high: 97000
+    total_comp_low: 398000
+    total_comp_high: 582000
+    currency: USD
+  - region: "Jersey City, NJ"
+    base_low: 242000
+    base_high: 323000
+    stock_low: null
+    stock_high: null
+    bonus_low: 55000
+    bonus_high: 92000
+    total_comp_low: 378000
+    total_comp_high: 553000
+    currency: USD
+  - region: "Alpharetta, GA"
+    base_low: 217000
+    base_high: 289000
+    stock_low: null
+    stock_high: null
+    bonus_low: 49000
+    bonus_high: 82000
+    total_comp_low: 338000
+    total_comp_high: 495000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Blockchain Infrastructure` `Crypto Trading Systems` `Custody & Settlement` `DeFi-to-TradFi Bridge` `Real-Time Execution`"
+---
 ### Crypto Pioneer Platform Engineer | E*TRADE (Morgan Stanley) Global Negotiation Guide
 
 **SIGNATURE ROLE**

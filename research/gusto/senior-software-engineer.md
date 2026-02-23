@@ -1,3 +1,48 @@
+---
+company: gusto
+company_display: Gusto
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 225000
+    stock_low: 160000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 345000
+    currency: USD
+  - region: Denver
+    base_low: 165000
+    base_high: 200000
+    stock_low: 140000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 305000
+    currency: USD
+  - region: Toronto
+    base_low: 170000
+    base_high: 210000
+    stock_low: 130000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 230000
+    total_comp_high: 300000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto Senior SWE = Google L4 = Meta E4 = Stripe L3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Forward / Strong Base | AI Payroll Automation & Embedded Platform Scale"
+---
 ### Senior Software Engineer | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Forward / Strong Base | AI Payroll Automation & Embedded Platform Scale

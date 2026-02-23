@@ -1,3 +1,39 @@
+---
+company: aurora-innovation
+company_display: Aurora Innovation
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pittsburgh (HQ)
+    base_low: 150000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 310000
+    currency: USD
+  - region: Bay Area
+    base_low: 160000
+    base_high: 218000
+    stock_low: 90000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Aurora Product Manager = Google PM L4-L5 = Waymo PM = Meta PM (IC4-IC5) = Amazon Senior PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage"
+---
 ### Product Manager | Aurora Innovation Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage

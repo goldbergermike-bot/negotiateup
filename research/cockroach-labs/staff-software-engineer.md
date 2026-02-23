@@ -1,3 +1,40 @@
+---
+company: cockroach-labs
+company_display: Cockroach Labs
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC HQ
+    base_low: 220000
+    base_high: 270000
+    stock_low: 180000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 340000
+    total_comp_high: 500000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 255000
+    stock_low: 160000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 315000
+    total_comp_high: 465000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Cockroach Labs Staff SWE = MongoDB Staff SWE = Google L5 (Spanner) = PlanetScale Staff SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($5B Valuation) | Distributed SQL Database (CockroachDB) | NYC HQ | High Engineering Bar"
+---
 ### Staff Software Engineer | Cockroach Labs Global Negotiation Guide
 
 **Negotiation DNA:** Private ($5B Valuation) | Distributed SQL Database (CockroachDB) | NYC HQ | High Engineering Bar

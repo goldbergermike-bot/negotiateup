@@ -1,3 +1,49 @@
+---
+company: l3harris
+company_display: L3Harris
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Melbourne, FL"
+    base_low: 105000
+    base_high: 155000
+    stock_low: 20000
+    stock_high: 70000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 200000
+    currency: USD
+  - region: "Salt Lake City, UT"
+    base_low: 100000
+    base_high: 150000
+    stock_low: 20000
+    stock_high: 70000
+    bonus_pct: 10
+    total_comp_low: 120000
+    total_comp_high: 195000
+    currency: USD
+  - region: "Rochester, NY"
+    base_low: 100000
+    base_high: 150000
+    stock_low: 18000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 118000
+    total_comp_high: 190000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: L3Harris SWE = Raytheon SWE = Northrop SWE -- L3Harris typically pays at or slightly above defense industry median
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Electronics/Communications | Standard 40-45 Hour Culture"
+---
 ### Software Engineer | L3Harris Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense Compensation + Stability Premium | $45B Market Cap | Defense Electronics/Communications | Standard 40-45 Hour Culture

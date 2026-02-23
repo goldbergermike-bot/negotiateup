@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 130000
+    base_high: 182000
+    stock_low: 38000
+    stock_high: 108000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 240000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 148000
+    base_high: 205000
+    stock_low: 48000
+    stock_high: 128000
+    bonus_pct: 12
+    total_comp_low: 178000
+    total_comp_high: 275000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 60000
+    base_high: 95000
+    stock_low: 18000
+    stock_high: 50000
+    bonus_pct: 10
+    total_comp_low: 72000
+    total_comp_high: 122000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 108000
+    base_high: 155000
+    stock_low: 28000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 200000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 2200000
+    base_high: 4200000
+    stock_low: 1000000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 2800000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva SA (IC3/IC4) ~ Intuit SA/Senior SA | ServiceNow SC/Senior SC | Oracle Cloud Architect | Domo SA/Senior SA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GRC platform deployment specialist | Compliance workflow architecture & enterprise integration | **ARCHITECTURE PREMIUM**"
+---
 ### Solutions Architect | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** GRC platform deployment specialist | Compliance workflow architecture & enterprise integration | **ARCHITECTURE PREMIUM**

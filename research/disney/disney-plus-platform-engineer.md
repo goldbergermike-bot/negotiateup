@@ -1,3 +1,50 @@
+---
+company: disney
+company_display: Disney
+role: disney-plus-platform-engineer
+role_display: Disney+ Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Burbank / Los Angeles
+    base_low: 165000
+    base_high: 225000
+    stock_low: 75000
+    stock_high: 200000
+    bonus_pct: 12
+    total_comp_low: 225000
+    total_comp_high: 355000
+    currency: USD
+  - region: San Francisco / Seattle
+    base_low: 170000
+    base_high: 230000
+    stock_low: 80000
+    stock_high: 210000
+    bonus_pct: 12
+    total_comp_low: 235000
+    total_comp_high: 370000
+    currency: USD
+  - region: London (UK)
+    base_low: 125000
+    base_high: 170000
+    stock_low: 55000
+    stock_high: 150000
+    bonus_pct: 12
+    total_comp_low: 175000
+    total_comp_high: 275000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Disney+ Platform Engineer (Senior) = Google L4-L5 = Meta E4-E5 = Netflix Senior SWE = Amazon SDE II-III = Apple ICT3-ICT4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$200B Entertainment-Tech Empire | Disney+ Streaming Platform | **SIGNATURE ROLE** | **+15-20% STREAMING PREMIUM**"
+---
 ### Disney+ Platform Engineer | Disney Global Negotiation Guide
 
 **Negotiation DNA:** $200B Entertainment-Tech Empire | Disney+ Streaming Platform | **SIGNATURE ROLE** | **+15-20% STREAMING PREMIUM**

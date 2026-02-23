@@ -1,3 +1,52 @@
+---
+company: nvidia
+company_display: Nvidia
+role: cuda-ai-platform-engineer
+role_display: CUDA AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 252000
+    base_high: 312000
+    stock_low: 348000
+    stock_high: 612000
+    bonus_pct: 15
+    total_comp_low: 388000
+    total_comp_high: 548000
+    currency: USD
+  - region: Seattle
+    base_low: 248000
+    base_high: 308000
+    stock_low: 348000
+    stock_high: 612000
+    bonus_pct: 15
+    total_comp_low: 385000
+    total_comp_high: 545000
+    currency: USD
+  - region: Remote US
+    base_low: 242000
+    base_high: 302000
+    stock_low: 348000
+    stock_high: 612000
+    bonus_pct: 15
+    total_comp_low: 378000
+    total_comp_high: 538000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: NVIDIA CUDA AI Platform Eng (IC3-IC4) = AMD ROCm Platform Eng = Intel oneAPI Platform Eng = Google TPU Platform Eng = No true equivalent — CUDA is singular
+data_sources:
+  - NVIDIA 40/30/20/10 Vesting Schedule — CUDA Platform Premium RSU Maximization
+  - NVIDIA Rubin Platform — CUDA Evolution Architecture 2026
+  - NVIDIA CUDA Ecosystem — $3T+ Moat Analysis
+  - NVIDIA CUDA vs AMD ROCm vs Intel oneAPI — Platform Competition 2026
+  - NVIDIA CUDA AI Platform Engineer — Signature Role Comp Band 2026
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule | **SIGNATURE ROLE** | **+25–35% CUDA PLATFORM PREMIUM**"
+---
 ### CUDA AI Platform Engineer | NVIDIA Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule | **SIGNATURE ROLE** | **+25–35% CUDA PLATFORM PREMIUM**

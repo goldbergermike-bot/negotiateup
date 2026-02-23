@@ -1,3 +1,68 @@
+---
+company: alibaba
+company_display: Alibaba
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Sunnyvale (US)
+    base_low: 160000
+    base_high: 230000
+    stock_low: 80000
+    stock_high: 225000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 365000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 155000
+    base_high: 225000
+    stock_low: 75000
+    stock_high: 215000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 350000
+    currency: USD
+  - region: Hangzhou (HQ)
+    base_low: 440000
+    base_high: 810000
+    stock_low: 180000
+    stock_high: 520000
+    bonus_pct: 15
+    total_comp_low: 670000
+    total_comp_high: 1350000
+    currency: CNY
+  - region: Beijing
+    base_low: 420000
+    base_high: 780000
+    stock_low: 170000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 640000
+    total_comp_high: 1300000
+    currency: CNY
+  - region: Singapore
+    base_low: 120000
+    base_high: 185000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Alibaba (P7-P8) = L5-L6 SA at Google Cloud, equivalent AWS SA, Principal SA at Microsoft"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B market cap with Alibaba Cloud expanding internationally + Enterprise solutions spanning commerce, cloud, and logistics + SAs drive cloud revenue growth in new markets | Alibaba SAs bridge Chinese cloud technology and international enterprise needs | **CLOUD EXPANSION PREMIUM**"
+---
 ### Solutions Architect | Alibaba Global Negotiation Guide
 
 **Negotiation DNA:** $200B market cap with Alibaba Cloud expanding internationally + Enterprise solutions spanning commerce, cloud, and logistics + SAs drive cloud revenue growth in new markets | Alibaba SAs bridge Chinese cloud technology and international enterprise needs | **CLOUD EXPANSION PREMIUM**

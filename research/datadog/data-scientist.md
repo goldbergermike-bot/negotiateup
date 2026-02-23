@@ -1,3 +1,48 @@
+---
+company: datadog
+company_display: Datadog
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 370000
+    currency: USD
+  - region: Paris
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 58000
+    total_comp_high: 145000
+    currency: EUR
+  - region: Dublin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 62000
+    total_comp_high: 150000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Data Scientists at Datadog power the intelligence behind LLM Observability and the AI Nervous System — building the models and analytics that turn raw telemetry into actionable insight at planet scale.
+---
 ### Data Scientist — Datadog Salary Negotiation Guide
 
 **Negotiation DNA**: Data Scientists at Datadog power the intelligence behind LLM Observability and the AI Nervous System — building the models and analytics that turn raw telemetry into actionable insight at planet scale.

@@ -1,3 +1,48 @@
+---
+company: arista
+company_display: Arista Networks
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 198000
+    base_high: 248000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+  - region: Vancouver (BC)
+    base_low: 188000
+    base_high: 235000
+    stock_low: 178000
+    stock_high: 312000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 342000
+    currency: CAD
+  - region: Remote US
+    base_low: 192000
+    base_high: 242000
+    stock_low: 188000
+    stock_high: 332000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 358000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Arista SA (IC3) = Cisco SA = Juniper SA = Google Cloud Network SA = AWS Network SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density"
+---
 ### Solutions Architect | Arista Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Networking & Cloud Infrastructure | 800G R4 Lossless Ethernet | Year 1 Equity Density

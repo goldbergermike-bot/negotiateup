@@ -1,3 +1,48 @@
+---
+company: lyft
+company_display: Lyft
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 215000
+    stock_low: 140000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 302000
+    currency: USD
+  - region: New York
+    base_low: 162000
+    base_high: 205000
+    stock_low: 130000
+    stock_high: 265000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 288000
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 190000
+    stock_low: 115000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lyft Senior Software Engineer (T6) = Google L5 Senior Software Engineer = Uber Senior SWE I = Meta E5 = Apple ICT4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Rideshare & Mobility Platform | BENTELER/HOLON AV-Hybrid Strategy | AV-Orchestration Premium | 4-Year Vest w/ 1-Year Cliff"
+---
 ### Senior Software Engineer | Lyft Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Rideshare & Mobility Platform | BENTELER/HOLON AV-Hybrid Strategy | AV-Orchestration Premium | 4-Year Vest w/ 1-Year Cliff

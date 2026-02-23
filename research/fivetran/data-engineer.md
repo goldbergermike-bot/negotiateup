@@ -1,3 +1,48 @@
+---
+company: fivetran
+company_display: Fivetran
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland / Remote-US
+    base_low: 162000
+    base_high: 198000
+    stock_low: 108000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 270000
+    currency: USD
+  - region: Denver
+    base_low: 155000
+    base_high: 190000
+    stock_low: 102000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 258000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 145000
+    stock_low: 75000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 192000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Fivetran DE = Google L3-L4 = Snowflake DE = Databricks DE = Informatica Senior DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity + Bonus | AI-Automated Data Pipeline Expansion 2026"
+---
 ### Data Engineer | Fivetran Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity + Bonus | AI-Automated Data Pipeline Expansion 2026

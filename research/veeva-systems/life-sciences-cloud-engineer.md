@@ -1,3 +1,48 @@
+---
+company: veeva-systems
+company_display: Veeva Systems
+role: life-sciences-cloud-engineer
+role_display: Life Sciences Cloud Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Pleasanton
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 400000
+    currency: USD
+  - region: Boston / East Coast
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 365000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 60000
+    total_comp_high: 180000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "The Life Sciences Cloud Engineer is Veeva's most strategically critical hire — the specialist who combines deep pharmaceutical domain expertise with cloud platform engineering to build the regulatory-grade infrastructure that 19 of the top 20 pharma companies depend on."
+---
 ### Life Sciences Cloud Engineer — Veeva Systems Salary Negotiation Guide
 
 **Negotiation DNA**: The Life Sciences Cloud Engineer is Veeva's most strategically critical hire — the specialist who combines deep pharmaceutical domain expertise with cloud platform engineering to build the regulatory-grade infrastructure that 19 of the top 20 pharma companies depend on.

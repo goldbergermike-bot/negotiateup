@@ -1,3 +1,48 @@
+---
+company: together-ai
+company_display: Together AI
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 188000
+    base_high: 250000
+    stock_low: 55000
+    stock_high: 90000
+    bonus_pct: 15
+    total_comp_low: 232000
+    total_comp_high: 322000
+    currency: USD
+  - region: Seattle
+    base_low: 179000
+    base_high: 238000
+    stock_low: 52000
+    stock_high: 86000
+    bonus_pct: 15
+    total_comp_low: 221000
+    total_comp_high: 306000
+    currency: USD
+  - region: Remote US
+    base_low: 169000
+    base_high: 225000
+    stock_low: 49000
+    stock_high: 81000
+    bonus_pct: 15
+    total_comp_low: 209000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Together AI ML/AI Engineer ≈ Google ML Engineer L5–L6 · Meta ML Engineer E5 · OpenAI Research Engineer · Anthropic ML Engineer · Amazon Applied Scientist II–III · DeepMind Research Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +15-25% AI Premium"
+---
 ### ML/AI Engineer | Together AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +15-25% AI Premium

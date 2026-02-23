@@ -1,3 +1,51 @@
+---
+company: monzo
+company_display: Monzo
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 42000
+    base_high: 60000
+    stock_low: 7000
+    stock_high: 10000
+    bonus_low: 3000
+    bonus_high: 5000
+    total_comp_low: 52000
+    total_comp_high: 75000
+    currency: GBP
+  - region: Remote UK
+    base_low: 40000
+    base_high: 57000
+    stock_low: 6000
+    stock_high: 9000
+    bonus_low: 3000
+    bonus_high: 5000
+    total_comp_low: 49000
+    total_comp_high: 71000
+    currency: GBP
+  - region: Remote US
+    base_low: 66000
+    base_high: 95000
+    stock_low: 12000
+    stock_high: 16000
+    bonus_low: 4000
+    bonus_high: 9000
+    total_comp_low: 82000
+    total_comp_high: 120000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Backend Systems` `Microservices` `Go/Kotlin`"
+---
 ### Software Engineer | Monzo Global Negotiation Guide
 
 **Negotiation DNA:** `OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Backend Systems` `Microservices` `Go/Kotlin`

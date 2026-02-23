@@ -1,3 +1,50 @@
+---
+company: asml
+company_display: Asml
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 68000
+    base_high: 82000
+    stock_low: 15000
+    stock_high: 30000
+    bonus_pct: 8
+    total_comp_low: 68000
+    total_comp_high: 95000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 125000
+    base_high: 170000
+    stock_low: 35000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+  - region: San Jose
+    base_low: 132000
+    base_high: 178000
+    stock_low: 38000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML Data Engineer maps to Google L4 Data Engineer, Meta Data Engineer IC4, Apple Data Engineer, Microsoft Data Engineer 61–63, and semiconductor industry Senior Data Infrastructure Engineer."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Data Engineering Band"
+---
 ### Data Engineer | ASML Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Data Engineering Band

@@ -1,3 +1,48 @@
+---
+company: oracle
+company_display: Oracle
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 172000
+    base_high: 212000
+    stock_low: 140000
+    stock_high: 238000
+    bonus_pct: null
+    total_comp_low: 218000
+    total_comp_high: 290000
+    currency: USD
+  - region: Seattle
+    base_low: 182000
+    base_high: 225000
+    stock_low: 152000
+    stock_high: 255000
+    bonus_pct: null
+    total_comp_low: 232000
+    total_comp_high: 308000
+    currency: USD
+  - region: Bangalore
+    base_low: 3500000
+    base_high: 5500000
+    stock_low: 1500000
+    stock_high: 2800000
+    bonus_pct: null
+    total_comp_low: 4200000
+    total_comp_high: 6500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Oracle Senior Security Eng = Google L4 Security = AWS Senior Security Eng = CrowdStrike Senior Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + **OUTSIZE SIGN-ON** | OCI \"Stargate\" AI Infrastructure Pivot | $500B JV Premium"
+---
 ### Security Engineer | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + **OUTSIZE SIGN-ON** | OCI "Stargate" AI Infrastructure Pivot | $500B JV Premium

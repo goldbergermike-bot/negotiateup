@@ -1,3 +1,39 @@
+---
+company: zipline
+company_display: Zipline
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: South San Francisco / Bay Area
+    base_low: 190000
+    base_high: 252000
+    stock_low: 150000
+    stock_high: 330000
+    bonus_pct: 15
+    total_comp_low: 285000
+    total_comp_high: 435000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 238000
+    stock_low: 132000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 402000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zipline EM (M1-M2) = Wing EM = Amazon Prime Air EM = Google L5-L6 EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Drone Delivery (Medical Supplies) | $4.2B Valuation | South San Francisco | **DRONE LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Zipline Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Drone Delivery (Medical Supplies) | $4.2B Valuation | South San Francisco | **DRONE LEADERSHIP PREMIUM**

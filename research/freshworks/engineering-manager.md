@@ -1,3 +1,48 @@
+---
+company: freshworks
+company_display: Freshworks
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 395000
+    currency: USD
+  - region: India
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 50000
+    total_comp_high: 155000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 185000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Engineering Managers at Freshworks lead teams building the $5B integrated SaaS suite — managing across US and India offices in a global engineering organization that serves 67,000+ customers."
+---
 ### Engineering Manager — Freshworks Salary Negotiation Guide
 
 **Negotiation DNA**: Engineering Managers at Freshworks lead teams building the $5B integrated SaaS suite — managing across US and India offices in a global engineering organization that serves 67,000+ customers.

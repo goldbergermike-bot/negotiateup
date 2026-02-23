@@ -1,3 +1,53 @@
+---
+company: navan
+company_display: Navan
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 230000
+    base_high: 295000
+    stock_low: 100000
+    stock_high: 175000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 355000
+    total_comp_high: 520000
+    currency: USD
+  - region: New York
+    base_low: 225000
+    base_high: 290000
+    stock_low: 95000
+    stock_high: 170000
+    bonus_low: 23000
+    bonus_high: 48000
+    total_comp_low: 343000
+    total_comp_high: 508000
+    currency: USD
+  - region: London
+    base_low: 145000
+    base_high: 190000
+    stock_low: 62000
+    stock_high: 110000
+    bonus_low: 15000
+    bonus_high: 32000
+    total_comp_low: 222000
+    total_comp_high: 332000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Navan | Google | Meta | Stripe | Brex | Airbnb |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `Staff IC Leadership`"
+---
 ### Staff Software Engineer | Navan Global Negotiation Guide
 
 **Negotiation DNA:** `Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `Staff IC Leadership`

@@ -1,3 +1,51 @@
+---
+company: starling-bank
+company_display: Starling Bank
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 62000
+    base_high: 76000
+    stock_low: 9000
+    stock_high: 16000
+    bonus_low: 6000
+    bonus_high: 11000
+    total_comp_low: 77000
+    total_comp_high: 103000
+    currency: GBP
+  - region: Cardiff
+    base_low: 53000
+    base_high: 65000
+    stock_low: 8000
+    stock_high: 14000
+    bonus_low: 5000
+    bonus_high: 9000
+    total_comp_low: 66000
+    total_comp_high: 88000
+    currency: GBP
+  - region: Southampton
+    base_low: 55000
+    base_high: 67000
+    stock_low: 8000
+    stock_high: 14000
+    bonus_low: 5000
+    bonus_high: 10000
+    total_comp_low: 68000
+    total_comp_high: 91000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Cross-Functional Delivery` `Enterprise Roadmap` `Regulated Program Execution`"
+---
 ### Technical Program Manager | Starling Bank Global Negotiation Guide
 
 **Negotiation DNA:** `Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Cross-Functional Delivery` `Enterprise Roadmap` `Regulated Program Execution`

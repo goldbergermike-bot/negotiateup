@@ -1,3 +1,49 @@
+---
+company: barclays
+company_display: Barclays
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 140000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 190000
+    total_comp_high: 292000
+    currency: USD
+  - region: London (HQ)
+    base_low: 95000
+    base_high: 138000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 128000
+    total_comp_high: 210000
+    currency: GBP
+  - region: Glasgow
+    base_low: 75000
+    base_high: 110000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 100000
+    total_comp_high: 162000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Senior SWE at Barclays (VP) = L5 at Google, E5 at Meta, SDE III at Amazon, VP at BofA, VP at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "GBP35B market cap UK bank + Engineering across UK retail and global investment banking + London/NYC dual hub + Competitive in quant/tech | Barclays senior SWEs build UK and global banking platforms | **UK BANKING SWE PREMIUM**"
+---
 ### Senior Software Engineer | Barclays Global Negotiation Guide
 
 **Negotiation DNA:** GBP35B market cap UK bank + Engineering across UK retail and global investment banking + London/NYC dual hub + Competitive in quant/tech | Barclays senior SWEs build UK and global banking platforms | **UK BANKING SWE PREMIUM**

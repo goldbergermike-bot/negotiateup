@@ -1,3 +1,48 @@
+---
+company: netflix
+company_display: Netflix
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 290000
+    base_high: 365000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 290000
+    total_comp_high: 365000
+    currency: USD
+  - region: San Francisco
+    base_low: 299000
+    base_high: 376000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 299000
+    total_comp_high: 376000
+    currency: USD
+  - region: London
+    base_low: 221000
+    base_high: 278000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 221000
+    total_comp_high: 278000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Netflix EM = Google L5-L6 EM = Meta M1-M2 = Apple EM2-EM3 = Amazon SDM II-III = Microsoft EM 63-65
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture"
+---
 ### Engineering Manager | Netflix Global Negotiation Guide
 
 **Negotiation DNA:** All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture

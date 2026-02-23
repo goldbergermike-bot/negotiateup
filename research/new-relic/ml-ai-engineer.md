@@ -1,3 +1,56 @@
+---
+company: new-relic
+company_display: New Relic
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 20000
+    signing_bonus_high: 45000
+    total_comp_low: 260000
+    total_comp_high: 390000
+    currency: USD
+  - region: Portland
+    base_low: 162000
+    base_high: 218000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 18000
+    signing_bonus_high: 35000
+    total_comp_low: 235000
+    total_comp_high: 350000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 12000
+    signing_bonus_high: 25000
+    total_comp_low: 145000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at New Relic maps to L5/L6 (senior-staff) across the industry. Equivalent titles include Applied Scientist (Amazon), ML Engineer (Meta/Google), Research Engineer (OpenAI/Anthropic), and ML Engineer (Datadog)."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "ML/AI Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | Observability Platform"
+---
 ### ML/AI Engineer | New Relic Global Negotiation Guide
 
 **Negotiation DNA:** ML/AI Engineer | New Relic (Private — TPG/Francisco Partners) | IC Track | Options/4yr Vesting | Observability Platform

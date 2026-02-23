@@ -1,3 +1,48 @@
+---
+company: ebay
+company_display: Ebay
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 188000
+    base_high: 235000
+    stock_low: 112000
+    stock_high: 202000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 302000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 242000
+    stock_low: 112000
+    stock_high: 202000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 312000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 225000
+    stock_low: 112000
+    stock_high: 202000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 292000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: eBay Security Eng (IC3) = Google L4 Security = Meta Security Eng = Amazon Security Eng II
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Global Marketplace & Payments | $2.5B Share Buyback | Trading Below Future Cash Flow Value"
+---
 ### Security Engineer | eBay Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Global Marketplace & Payments | $2.5B Share Buyback | Trading Below Future Cash Flow Value

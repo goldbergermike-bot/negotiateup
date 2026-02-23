@@ -1,3 +1,50 @@
+---
+company: asml
+company_display: Asml
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 58000
+    base_high: 70000
+    stock_low: 12000
+    stock_high: 25000
+    bonus_pct: 8
+    total_comp_low: 58000
+    total_comp_high: 82000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 108000
+    base_high: 148000
+    stock_low: 30000
+    stock_high: 50000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+  - region: San Jose
+    base_low: 115000
+    base_high: 155000
+    stock_low: 32000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML Product Designer maps to Google UX Designer L4, Meta Product Designer IC4, Apple Design Lead, Microsoft Designer 61–63, and semiconductor industry Senior UX Designer."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Design Band"
+---
 ### Product Designer | ASML Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Design Band

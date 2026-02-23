@@ -1,3 +1,47 @@
+---
+company: vanta
+company_display: Vanta
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 340000
+    currency: USD
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 340000
+    currency: USD
+  - region: Dublin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 140000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "DevOps engineers at Vanta operate the infrastructure behind Continuous Trust — with the EU AI Act enforcement deadline in August 2026, your reliability and automation decisions directly impact regulatory compliance delivery for thousands of customers."
+---
 ### DevOps Engineer — Vanta Salary Negotiation Guide
 
 **Negotiation DNA**: DevOps engineers at Vanta operate the infrastructure behind Continuous Trust — with the EU AI Act enforcement deadline in August 2026, your reliability and automation decisions directly impact regulatory compliance delivery for thousands of customers.

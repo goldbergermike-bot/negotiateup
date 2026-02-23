@@ -1,3 +1,53 @@
+---
+company: tastytrade
+company_display: Tastytrade
+role: options-alpha-platform-engineer
+role_display: Options Alpha Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 248000
+    base_high: 348000
+    stock_low: null
+    stock_high: null
+    bonus_low: 52000
+    bonus_high: 82000
+    total_comp_low: 362000
+    total_comp_high: 528000
+    currency: USD
+  - region: New York
+    base_low: 273000
+    base_high: 383000
+    stock_low: null
+    stock_high: null
+    bonus_low: 57000
+    bonus_high: 90000
+    total_comp_low: 398000
+    total_comp_high: 581000
+    currency: USD
+  - region: London
+    base_low: 189000
+    base_high: 265000
+    stock_low: 47000
+    stock_high: 75000
+    bonus_low: 40000
+    bonus_high: 63000
+    total_comp_low: 276000
+    total_comp_high: 403000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Options Alpha` `Derivatives-Native` `High-Probability Trading` `IG Group (LSE: IGG)` `Chicago Hub` `Vol Surface Engineering` `Greeks Engine Architecture` `Multi-Leg Execution Systems` `Options Pricing Models` `Probability Analytics Platform` `Cross-Asset Derivatives Integration`"
+---
 ### Options Alpha Platform Engineer | Tastytrade Global Negotiation Guide
 
 **SIGNATURE ROLE**

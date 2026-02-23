@@ -1,3 +1,51 @@
+---
+company: charles-schwab
+company_display: Charles Schwab
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westlake, TX (HQ)"
+    base_low: 138000
+    base_high: 188000
+    stock_low: 38000
+    stock_high: 62000
+    bonus_low: 22000
+    bonus_high: 35000
+    total_comp_low: 198000
+    total_comp_high: 285000
+    currency: USD
+  - region: San Francisco
+    base_low: 152000
+    base_high: 207000
+    stock_low: 42000
+    stock_high: 68000
+    bonus_low: 24000
+    bonus_high: 39000
+    total_comp_low: 218000
+    total_comp_high: 314000
+    currency: USD
+  - region: Denver
+    base_low: 145000
+    base_high: 197000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_low: 23000
+    bonus_high: 37000
+    total_comp_low: 208000
+    total_comp_high: 299000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Wealth Analytics` `Client Behavior Modeling` `Advisor Insight Engines`"
+---
 ### Data Scientist | Charles Schwab Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Wealth Analytics` `Client Behavior Modeling` `Advisor Insight Engines`

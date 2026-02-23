@@ -1,3 +1,68 @@
+---
+company: tencent
+company_display: Tencent
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Palo Alto / Los Angeles (US R&D)"
+    base_low: 200000
+    base_high: 270000
+    stock_low: 160000
+    stock_high: 350000
+    bonus_pct: 15
+    total_comp_low: 340000
+    total_comp_high: 500000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 195000
+    base_high: 265000
+    stock_low: 150000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 330000
+    total_comp_high: 490000
+    currency: USD
+  - region: Shenzhen (HQ)
+    base_low: 700000
+    base_high: 1200000
+    stock_low: 400000
+    stock_high: 900000
+    bonus_pct: 25
+    total_comp_low: 1200000
+    total_comp_high: 2200000
+    currency: CNY
+  - region: Beijing
+    base_low: 650000
+    base_high: 1100000
+    stock_low: 370000
+    stock_high: 850000
+    bonus_pct: 25
+    total_comp_low: 1100000
+    total_comp_high: 2000000
+    currency: CNY
+  - region: Singapore
+    base_low: 170000
+    base_high: 250000
+    stock_low: 100000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 255000
+    total_comp_high: 400000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Staff Software Engineer at Tencent (T11-T12) = L6 at Google, IC6 at Meta, Principal at Amazon, ICT5-ICT6 at Apple, equivalent ByteDance 3-1"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$450B market cap with architectural authority over products reaching 2B+ users globally + Staff-level comp competing with Google L6/Meta IC6 + Tencent stock RSUs with strong appreciation history | Staff engineers at Tencent define technical strategy for the world's largest gaming and messaging platforms | **ARCHITECTURAL AUTHORITY PREMIUM**"
+---
 ### Staff Software Engineer | Tencent Global Negotiation Guide
 
 **Negotiation DNA:** $450B market cap with architectural authority over products reaching 2B+ users globally + Staff-level comp competing with Google L6/Meta IC6 + Tencent stock RSUs with strong appreciation history | Staff engineers at Tencent define technical strategy for the world's largest gaming and messaging platforms | **ARCHITECTURAL AUTHORITY PREMIUM**

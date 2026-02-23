@@ -1,3 +1,50 @@
+---
+company: point72
+company_display: Point72
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stamford CT (HQ)
+    base_low: 140000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_low: 120000
+    bonus_high: 185000
+    total_comp_low: 260000
+    total_comp_high: 375000
+    currency: USD
+  - region: New York
+    base_low: 145000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_low: 125000
+    bonus_high: 195000
+    total_comp_low: 270000
+    total_comp_high: 395000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 335000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`IAC Team` `Researcher Premium` `$466K+ L3` `Trading UX` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`"
+---
 ### Product Designer | Point72 Global Negotiation Guide
 
 **Negotiation DNA:** `IAC Team` `Researcher Premium` `$466K+ L3` `Trading UX` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`

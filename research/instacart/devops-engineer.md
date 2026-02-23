@@ -1,3 +1,48 @@
+---
+company: instacart
+company_display: Instacart
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 180000
+    stock_low: 60000
+    stock_high: 105000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 255000
+    currency: USD
+  - region: New York
+    base_low: 140000
+    base_high: 175000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 248000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 162000
+    stock_low: 50000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 230000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Instacart DevOps Engineer = Google SRE L4–L5 = Meta Production Engineer IC4–IC5 = DoorDash Infrastructure Engineer = Uber DevOps = Amazon Systems Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU Equity + Bonus | Instant Commerce & Grocery Tech | 4x Engineering Velocity | Post-IPO Growth | Infrastructure & Reliability Premium"
+---
 ### DevOps Engineer | Instacart Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU Equity + Bonus | Instant Commerce & Grocery Tech | 4x Engineering Velocity | Post-IPO Growth | Infrastructure & Reliability Premium

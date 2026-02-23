@@ -1,3 +1,50 @@
+---
+company: scale-ai
+company_display: Scale AI
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 158000
+    base_high: 198000
+    stock_low: 125000
+    stock_high: 222000
+    bonus_pct: null
+    total_comp_low: 189000
+    total_comp_high: 254000
+    currency: USD
+  - region: New York
+    base_low: 163000
+    base_high: 208000
+    stock_low: 125000
+    stock_high: 222000
+    bonus_pct: null
+    total_comp_low: 194000
+    total_comp_high: 263000
+    currency: USD
+  - region: Washington DC
+    base_low: 166000
+    base_high: 214000
+    stock_low: 125000
+    stock_high: 222000
+    bonus_pct: null
+    total_comp_low: 197000
+    total_comp_high: 269000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Scale Product Designer = Google L4 UX = Meta Product Designer (IC4) = Amazon Sr. UX Designer = Apple Sr. Designer = Microsoft Sr. Designer 62-63
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity"
+---
 ### Product Designer | Scale AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity

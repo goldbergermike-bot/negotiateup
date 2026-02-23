@@ -1,3 +1,50 @@
+---
+company: disney
+company_display: Disney
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Burbank / Los Angeles
+    base_low: 155000
+    base_high: 215000
+    stock_low: 60000
+    stock_high: 175000
+    bonus_pct: 12
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: USD
+  - region: San Francisco / Seattle
+    base_low: 160000
+    base_high: 220000
+    stock_low: 65000
+    stock_high: 185000
+    bonus_pct: 12
+    total_comp_low: 210000
+    total_comp_high: 340000
+    currency: USD
+  - region: London (UK)
+    base_low: 115000
+    base_high: 162000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: 12
+    total_comp_low: 160000
+    total_comp_high: 255000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Disney Solutions Architect (IC4-IC5) = Google Cloud Customer Engineer L5-L6 = AWS Solutions Architect (Senior/Principal) = Microsoft Azure Architect 64-66
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$200B Entertainment-Tech Empire | Cross-Platform Architecture | Streaming + Parks + Enterprise Design"
+---
 ### Solutions Architect | Disney Global Negotiation Guide
 
 **Negotiation DNA:** $200B Entertainment-Tech Empire | Cross-Platform Architecture | Streaming + Parks + Enterprise Design

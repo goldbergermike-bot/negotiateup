@@ -1,3 +1,49 @@
+---
+company: micron
+company_display: Micron
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boise
+    base_low: 135000
+    base_high: 172000
+    stock_low: 42000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 288000
+    currency: USD
+  - region: San Jose
+    base_low: 155000
+    base_high: 198000
+    stock_low: 52000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 335000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 178000
+    stock_low: 44000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 298000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Micron PM (Band 7) maps to Google PM L5, Meta PM IC5, Amazon Sr. PM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +10% AI/Memory Premium"
+---
 ### Product Manager | Micron Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +10% AI/Memory Premium

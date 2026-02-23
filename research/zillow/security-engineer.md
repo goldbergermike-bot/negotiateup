@@ -1,3 +1,49 @@
+---
+company: zillow
+company_display: Zillow
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 155000
+    base_high: 205000
+    stock_low: 170000
+    stock_high: 275000
+    bonus_pct: 15
+    total_comp_low: 208000
+    total_comp_high: 288000
+    currency: USD
+  - region: San Francisco
+    base_low: 167000
+    base_high: 221000
+    stock_low: 184000
+    stock_high: 297000
+    bonus_pct: 15
+    total_comp_low: 224000
+    total_comp_high: 311000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 185000
+    stock_low: 153000
+    stock_high: 248000
+    bonus_pct: 15
+    total_comp_low: 187000
+    total_comp_high: 259000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zillow Security Engineer = Google Security Engineer L4–L5 = Redfin Security Engineer = Opendoor Security Engineer = Amazon Security Engineer = Meta Security Engineer IC4–IC5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep"
+---
 ### Security Engineer | Zillow Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep

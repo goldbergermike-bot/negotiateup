@@ -1,3 +1,48 @@
+---
+company: ramp
+company_display: Ramp
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 210000
+    base_high: 255000
+    stock_low: 205000
+    stock_high: 345000
+    bonus_pct: 15
+    total_comp_low: 298000
+    total_comp_high: 398000
+    currency: USD
+  - region: San Francisco
+    base_low: 208000
+    base_high: 252000
+    stock_low: 200000
+    stock_high: 338000
+    bonus_pct: 15
+    total_comp_low: 292000
+    total_comp_high: 392000
+    currency: USD
+  - region: Remote US
+    base_low: 202000
+    base_high: 245000
+    stock_low: 195000
+    stock_high: 328000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 378000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ramp ML/AI (IC3-IC4) = Brex ML = Google ML L4-L5 = Meta AI IC4-IC5 = Stripe ML = OpenAI Research Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | +15-25% AI Premium | **YOUR AI MODELS IDENTIFY SAVINGS BETTER THAN HUMANS**"
+---
 ### ML/AI Engineer | Ramp Global Negotiation Guide
 
 **Negotiation DNA:** Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | +15-25% AI Premium | **YOUR AI MODELS IDENTIFY SAVINGS BETTER THAN HUMANS**

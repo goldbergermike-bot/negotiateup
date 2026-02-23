@@ -1,3 +1,49 @@
+---
+company: qualcomm
+company_display: Qualcomm
+role: agentic-edge-platform-engineer
+role_display: Agentic Edge Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego
+    base_low: 188000
+    base_high: 248000
+    stock_low: 68000
+    stock_high: 110000
+    bonus_pct: 18
+    total_comp_low: 282000
+    total_comp_high: 395000
+    currency: USD
+  - region: Santa Clara
+    base_low: 205000
+    base_high: 270000
+    stock_low: 75000
+    stock_high: 120000
+    bonus_pct: 18
+    total_comp_low: 308000
+    total_comp_high: 430000
+    currency: USD
+  - region: Remote US
+    base_low: 170000
+    base_high: 225000
+    stock_low: 62000
+    stock_high: 100000
+    bonus_pct: 18
+    total_comp_low: 255000
+    total_comp_high: 358000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Qualcomm Agentic Edge (E6–E8) = Google L5–L6 (no direct equivalent) = No peer mapping — this is a category-defining role unique to Qualcomm's edge AI strategy"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "SIGNATURE ROLE | Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +25-35% Agentic Edge Premium"
+---
 ### Agentic Edge Platform Engineer | Qualcomm Global Negotiation Guide
 
 **Negotiation DNA:** SIGNATURE ROLE | Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +25-35% Agentic Edge Premium

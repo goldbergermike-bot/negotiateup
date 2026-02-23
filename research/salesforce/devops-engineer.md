@@ -1,3 +1,48 @@
+---
+company: salesforce
+company_display: Salesforce
+role: devops-engineer
+role_display: DevOps / Platform Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 220000
+    stock_low: 190000
+    stock_high: 340000
+    bonus_pct: null
+    total_comp_low: 223000
+    total_comp_high: 305000
+    currency: USD
+  - region: Indianapolis
+    base_low: 155000
+    base_high: 195000
+    stock_low: 165000
+    stock_high: 290000
+    bonus_pct: null
+    total_comp_low: 196000
+    total_comp_high: 268000
+    currency: USD
+  - region: Hyderabad
+    base_low: 2800000
+    base_high: 4500000
+    stock_low: 1500000
+    stock_high: 3000000
+    bonus_pct: null
+    total_comp_low: 4300000
+    total_comp_high: 7500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Salesforce Senior DevOps = Google L4 SRE = Meta E4 Production Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Agentforce Consumption Inflection"
+---
 ### DevOps / Platform Engineer | Salesforce Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Agentforce Consumption Inflection

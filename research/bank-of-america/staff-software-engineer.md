@@ -1,3 +1,50 @@
+---
+company: bank-of-america
+company_display: Bank of America
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte (HQ)
+    base_low: 165000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 230000
+    total_comp_high: 360000
+    currency: USD
+  - region: New York City
+    base_low: 175000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 245000
+    total_comp_high: 395000
+    currency: USD
+  - region: San Francisco
+    base_low: 170000
+    base_high: 230000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 240000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Staff SWE at BofA (SVP/Director) = L6 at Google, E6 at Meta, Principal at Amazon, Principal Engineer at Capital One, SVP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$340B market cap bank + Staff-level drives technical strategy + Charlotte HQ cost advantage + SVP/Director title with strong bonus and deferred comp | BofA Staff SWEs shape platform direction | **TECHNICAL LEADERSHIP PREMIUM**"
+---
 ### Staff Software Engineer | Bank of America Global Negotiation Guide
 
 **Negotiation DNA:** $340B market cap bank + Staff-level drives technical strategy + Charlotte HQ cost advantage + SVP/Director title with strong bonus and deferred comp | BofA Staff SWEs shape platform direction | **TECHNICAL LEADERSHIP PREMIUM**

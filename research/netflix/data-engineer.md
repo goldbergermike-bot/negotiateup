@@ -1,3 +1,48 @@
+---
+company: netflix
+company_display: Netflix
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 210000
+    base_high: 265000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 265000
+    currency: USD
+  - region: San Francisco
+    base_low: 216000
+    base_high: 273000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 216000
+    total_comp_high: 273000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 202000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 202000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Netflix Data Engineer = Google Data Engineer L4-L5 = Meta Data Engineer (IC4-IC5) = Amazon Data Engineer II-III = Apple Data Engineer = Microsoft DE 62-64
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture"
+---
 ### Data Engineer | Netflix Global Negotiation Guide
 
 **Negotiation DNA:** All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture

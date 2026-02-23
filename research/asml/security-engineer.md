@@ -1,3 +1,49 @@
+---
+company: asml
+company_display: Asml
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 78000
+    base_high: 92000
+    stock_low: 22000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 78000
+    total_comp_high: 108000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 138000
+    base_high: 188000
+    stock_low: 42000
+    stock_high: 70000
+    bonus_pct: 12
+    total_comp_low: 198000
+    total_comp_high: 275000
+    currency: USD
+  - region: San Jose
+    base_low: 145000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 72000
+    bonus_pct: 12
+    total_comp_low: 205000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML Security Engineer maps to Google L4–L5 Security Engineer, Meta Security Engineer IC4–IC5, Apple Information Security Engineer, Microsoft Security SDE 61–64, and semiconductor industry Senior Cybersecurity Engineer."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Security Band"
+---
 ### Security Engineer | ASML Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% Security Band

@@ -1,3 +1,49 @@
+---
+company: cohere
+company_display: Cohere
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 162000
+    base_high: 208000
+    stock_low: 235000
+    stock_high: 415000
+    bonus_pct: null
+    total_comp_low: 228000
+    total_comp_high: 322000
+    currency: CAD
+  - region: San Francisco
+    base_low: 195000
+    base_high: 248000
+    stock_low: 235000
+    stock_high: 415000
+    bonus_pct: null
+    total_comp_low: 254000
+    total_comp_high: 352000
+    currency: USD
+  - region: London
+    base_low: 142000
+    base_high: 182000
+    stock_low: 235000
+    stock_high: 415000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 285000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Cohere ML/AI Engineer = Google L4-L5 Research Engineer (Toronto) = Meta Research Engineer IC4-IC5 = Anthropic ML Engineer = DeepMind Research Engineer. In the Toronto market — the global epicenter of AI research thanks to the Vector Institute and Geoffrey Hinton's legacy — this role competes with Google Brain Toronto, Meta FAIR, and the growing presence of Anthropic, xAI, and OpenAI research labs. The +20-35% Agentic AI Premium reflects the explosive demand for engineers who can build multi-step retrieval agents and autonomous enterprise AI workflows."
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty | **+20-35% AGENTIC AI PREMIUM**"
+---
 ### ML/AI Engineer | Cohere Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty | **+20-35% AGENTIC AI PREMIUM**

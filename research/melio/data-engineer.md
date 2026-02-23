@@ -1,3 +1,52 @@
+---
+company: melio
+company_display: Melio
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 155000
+    base_high: 200000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 12000
+    bonus_high: 28000
+    total_comp_low: 207000
+    total_comp_high: 308000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 190000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_low: 10000
+    bonus_high: 24000
+    total_comp_low: 190000
+    total_comp_high: 284000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Melio | Google | Meta | Stripe | Bill.com | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `Agent Mel` `B2B Payments` `SMB Fintech` `Series D+` `Options` `Growth-Stage` `Data Infrastructure` `Pipelines` `Analytics Platform`"
+---
 ### Data Engineer | Melio Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Agent Mel` `B2B Payments` `SMB Fintech` `Series D+` `Options` `Growth-Stage` `Data Infrastructure` `Pipelines` `Analytics Platform`

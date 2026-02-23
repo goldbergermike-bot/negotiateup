@@ -1,3 +1,53 @@
+---
+company: ubs
+company_display: UBS
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 125000
+    base_high: 165000
+    stock_low: 22000
+    stock_high: 40000
+    bonus_low: 18000
+    bonus_high: 30000
+    total_comp_low: 165000
+    total_comp_high: 235000
+    currency: USD
+  - region: Zurich (HQ)
+    base_low: 110000
+    base_high: 145000
+    stock_low: 19000
+    stock_high: 35000
+    bonus_low: 16000
+    bonus_high: 26000
+    total_comp_low: 145000
+    total_comp_high: 207000
+    currency: CHF
+  - region: London
+    base_low: 100000
+    base_high: 132000
+    stock_low: 18000
+    stock_high: 32000
+    bonus_low: 14000
+    bonus_high: 24000
+    total_comp_low: 132000
+    total_comp_high: 188000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Client Experience Unification` `Design Systems` `Migration UX`"
+---
 ### Product Designer | UBS Global Negotiation Guide
 
 **Negotiation DNA:** `CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Client Experience Unification` `Design Systems` `Migration UX`

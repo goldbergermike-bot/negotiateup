@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 315000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 208000
+    stock_low: 115000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 302000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 155000
+    stock_low: 85000
+    stock_high: 155000
+    bonus_pct: 15
+    total_comp_low: 168000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel PM = Google L5 PM = Meta PM IC5 = Amplitude Senior PM = Datadog PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Equity + Performance Bonus | AI Analytics Product Strategy 2026"
+---
 ### Product Manager | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity + Performance Bonus | AI Analytics Product Strategy 2026

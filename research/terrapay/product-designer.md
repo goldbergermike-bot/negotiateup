@@ -1,3 +1,52 @@
+---
+company: terrapay
+company_display: Terrapay
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam (EUR)
+    base_low: 65000
+    base_high: 95000
+    stock_low: 35000
+    stock_high: 80000
+    bonus_pct: null
+    total_comp_low: 100000
+    total_comp_high: 175000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 78000
+    base_high: 115000
+    stock_low: 40000
+    stock_high: 95000
+    bonus_pct: null
+    total_comp_low: 118000
+    total_comp_high: 210000
+    currency: SGD
+  - region: New York (USD)
+    base_low: 120000
+    base_high: 170000
+    stock_low: 55000
+    stock_high: 130000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 300000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - "TerraPay MilX Creator Payout Launch — Jan 28, 2026 — Design"
+  - "TerraPay Global Payments Highway — 7.5B+ Accounts, 130+ Countries"
+  - TerraPay Botim Super-App Partnership — Integration UX
+  - Thunes / Nium / Wise Product Design Compensation
+  - "TerraPay Private Valuation & Design-Level Options Data"
+  - Payments Infrastructure Product Design Talent Market
+negotiation_dna_summary: "This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a product design compensation framework spanning Amsterdam, Singapore, and New York markets."
+---
 ### Product Designer — TerraPay Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a product design compensation framework spanning Amsterdam, Singapore, and New York markets.

@@ -1,3 +1,51 @@
+---
+company: nium
+company_display: Nium
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 80000
+    base_high: 120000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 200000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 130000
+    base_high: 175000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 295000
+    currency: USD
+  - region: London (GBP)
+    base_low: 55000
+    base_high: 80000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 140000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - LinkedIn
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a software engineering compensation framework spanning Singapore, San Francisco, and London markets. As a Software Engineer at Nium, you are not simply writing code — you are constructing the programmable money rails that underpin billions of dollars in cross-border transactions."
+---
 ### Software Engineer — Nium Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a software engineering compensation framework spanning Singapore, San Francisco, and London markets. As a Software Engineer at Nium, you are not simply writing code — you are constructing the programmable money rails that underpin billions of dollars in cross-border transactions.

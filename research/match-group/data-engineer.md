@@ -1,3 +1,50 @@
+---
+company: match-group
+company_display: Match Group
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas
+    base_low: 127000
+    base_high: 167000
+    stock_low: 28000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 228000
+    currency: USD
+  - region: New York
+    base_low: 140000
+    base_high: 184000
+    stock_low: 31000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 251000
+    currency: USD
+  - region: Los Angeles
+    base_low: 127000
+    base_high: 167000
+    stock_low: 28000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 228000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Match Group Data Engineer = Google L4 Data Engineer = Meta Data Engineer (IC4) = Amazon Data Engineer II = Microsoft Data Engineer 61/62 = Apple Data Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)"
+---
 ### Data Engineer | Match Group Global Negotiation Guide
 
 **Negotiation DNA:** Base + MTCH RSUs (4yr vest, 1yr cliff) + 10-15% Bonus | Dating & Social Discovery Platform | CFO's 2026 'Higher Bar' for AI ROI | Multi-Brand Portfolio (Tinder, Hinge, Match, OkCupid)

@@ -1,3 +1,51 @@
+---
+company: apple
+company_display: Apple
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 155000
+    base_high: 230000
+    stock_low: 120000
+    stock_high: 350000
+    bonus_pct: 5
+    total_comp_low: 210000
+    total_comp_high: 370000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 145000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 300000
+    bonus_pct: 5
+    total_comp_low: 190000
+    total_comp_high: 340000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 150000
+    base_high: 225000
+    stock_low: 110000
+    stock_high: 330000
+    bonus_pct: 5
+    total_comp_low: 200000
+    total_comp_high: 355000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple ICT2 = Google L3, Meta E3, Amazon L4, Databricks L3 | Apple ICT3 = Google L4, Meta E4, Amazon L5, Databricks L4 | Apple ICT4 = Google L5, Meta E5, Amazon L6, Databricks L5"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Comparably
+negotiation_dna_summary: "Competitive base + solid RSU grants powering Apple's massive data infrastructure | Apple positions data engineering as foundational to Services, Siri, and Apple Intelligence | **SERVICES REVENUE PREMIUM: Apple's $100B+ Services business drives data engineering investment**"
+---
 ### Data Engineer | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Competitive base + solid RSU grants powering Apple's massive data infrastructure | Apple positions data engineering as foundational to Services, Siri, and Apple Intelligence | **SERVICES REVENUE PREMIUM: Apple's $100B+ Services business drives data engineering investment**

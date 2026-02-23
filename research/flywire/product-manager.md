@@ -1,3 +1,48 @@
+---
+company: flywire
+company_display: Flywire
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (USD)
+    base_low: 145000
+    base_high: 190000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 360000
+    currency: USD
+  - region: New York (USD)
+    base_low: 155000
+    base_high: 205000
+    stock_low: 90000
+    stock_high: 190000
+    bonus_pct: null
+    total_comp_low: 245000
+    total_comp_high: 395000
+    currency: USD
+  - region: London (GBP)
+    base_low: 85000
+    base_high: 120000
+    stock_low: 45000
+    stock_high: 95000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 215000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Flywire's Invisible Pay transformation, translating the Feb 2026 David King predictions and Feb 3 Simovative partnership into a product management compensation framework spanning Boston, New York, and London markets."
+---
 ### Product Manager — Flywire Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Flywire's Invisible Pay transformation, translating the Feb 2026 David King predictions and Feb 3 Simovative partnership into a product management compensation framework spanning Boston, New York, and London markets.

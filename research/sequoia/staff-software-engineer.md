@@ -1,3 +1,51 @@
+---
+company: sequoia
+company_display: Sequoia
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 305000
+    base_high: 385000
+    stock_low: null
+    stock_high: null
+    bonus_low: 265000
+    bonus_high: 385000
+    total_comp_low: 655000
+    total_comp_high: 885000
+    currency: USD
+  - region: San Francisco
+    base_low: 295000
+    base_high: 370000
+    stock_low: null
+    stock_high: null
+    bonus_low: 250000
+    bonus_high: 365000
+    total_comp_low: 620000
+    total_comp_high: 840000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 220000
+    base_high: 285000
+    stock_low: null
+    stock_high: null
+    bonus_low: 180000
+    bonus_high: 265000
+    total_comp_low: 455000
+    total_comp_high: 630000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`Base $285K-$385K` | `Carry/Bonus $245K-$385K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `+15-25% Premium` | `Permanent Capital Structure` | `Elite VC Platform`"
+---
 ### Staff Software Engineer | Sequoia Global Negotiation Guide
 
 **Negotiation DNA:** `Base $285K-$385K` | `Carry/Bonus $245K-$385K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `+15-25% Premium` | `Permanent Capital Structure` | `Elite VC Platform`

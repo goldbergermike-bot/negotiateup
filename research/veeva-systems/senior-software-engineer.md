@@ -1,3 +1,48 @@
+---
+company: veeva-systems
+company_display: Veeva Systems
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Pleasanton
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 350000
+    currency: USD
+  - region: Boston / East Coast
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 320000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 80000
+    total_comp_high: 155000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Senior Software Engineers at Veeva Systems own critical subsystems of the Vault platform — the proprietary life sciences cloud that powers 19 of the top 20 pharma companies and underpins Veeva's $35B market cap."
+---
 ### Senior Software Engineer — Veeva Systems Salary Negotiation Guide
 
 **Negotiation DNA**: Senior Software Engineers at Veeva Systems own critical subsystems of the Vault platform — the proprietary life sciences cloud that powers 19 of the top 20 pharma companies and underpins Veeva's $35B market cap.

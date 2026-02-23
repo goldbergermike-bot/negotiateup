@@ -1,3 +1,47 @@
+---
+company: vanta
+company_display: Vanta
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 370000
+    currency: USD
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 370000
+    currency: USD
+  - region: Dublin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 62000
+    total_comp_high: 150000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "ML/AI engineers at Vanta build the intelligence layer of Continuous Trust — with the EU AI Act enforcement deadline in August 2026, your models automate regulatory risk classification, compliance scoring, and Self-Certification at a scale no manual process can match."
+---
 ### ML/AI Engineer — Vanta Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI engineers at Vanta build the intelligence layer of Continuous Trust — with the EU AI Act enforcement deadline in August 2026, your models automate regulatory risk classification, compliance scoring, and Self-Certification at a scale no manual process can match.

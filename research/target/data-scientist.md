@@ -1,3 +1,30 @@
+---
+company: target
+company_display: Target
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 115000
+    base_high: 165000
+    stock_low: 30000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target Data Scientist = Google DS L3 = Amazon Applied Scientist = Walmart Data Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage"
+---
 ### Data Scientist | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage

@@ -1,3 +1,56 @@
+---
+company: netskope
+company_display: Netskope
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 160000
+    base_high: 200000
+    stock_low: 110000
+    stock_high: 220000
+    bonus_pct: 10
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: 210000
+    total_comp_high: 295000
+    currency: USD
+  - region: London
+    base_low: 80000
+    base_high: 110000
+    stock_low: 65000
+    stock_high: 135000
+    bonus_pct: 10
+    signing_bonus_low: 8000
+    signing_bonus_high: 18000
+    total_comp_low: 110000
+    total_comp_high: 155000
+    currency: GBP
+  - region: Bangalore
+    base_low: 2600000
+    base_high: 4000000
+    stock_low: 1800000
+    stock_high: 3800000
+    bonus_pct: 10
+    signing_bonus_low: 300000
+    signing_bonus_high: 700000
+    total_comp_low: 3500000
+    total_comp_high: 5700000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Data Engineer (IC3) | Netskope Data Engineering Band 3 | Equivalent: Google L4 Data Engineer, Meta IC4 DE, Palo Alto Networks DE3"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Post-IPO Cloud Security | UZTNA Data Platform | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation"
+---
 ### Data Engineer | Netskope Global Negotiation Guide
 
 **Negotiation DNA:** Post-IPO Cloud Security | UZTNA Data Platform | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation

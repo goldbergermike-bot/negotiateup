@@ -1,3 +1,50 @@
+---
+company: anyscale
+company_display: Anyscale
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 202000
+    stock_low: 105000
+    stock_high: 195000
+    bonus_pct: 5
+    total_comp_low: 198000
+    total_comp_high: 268000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 197000
+    stock_low: 105000
+    stock_high: 195000
+    bonus_pct: 5
+    total_comp_low: 193000
+    total_comp_high: 261000
+    currency: USD
+  - region: London
+    base_low: 118000
+    base_high: 154000
+    stock_low: 79000
+    stock_high: 146000
+    bonus_pct: 5
+    total_comp_low: 150000
+    total_comp_high: 203000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anyscale Product Designer = Google L4 UX Designer (Cloud) = Datadog Product Designer = Grafana Product Designer = Vercel Product Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: AI Infrastructure Developer Experience Design"
+---
 ### Product Designer | Anyscale Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: AI Infrastructure Developer Experience Design

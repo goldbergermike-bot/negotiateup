@@ -1,3 +1,48 @@
+---
+company: fivetran
+company_display: Fivetran
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland / Remote-US
+    base_low: 208000
+    base_high: 252000
+    stock_low: 185000
+    stock_high: 348000
+    bonus_pct: 12
+    total_comp_low: 312000
+    total_comp_high: 422000
+    currency: USD
+  - region: Denver
+    base_low: 202000
+    base_high: 245000
+    stock_low: 178000
+    stock_high: 335000
+    bonus_pct: 12
+    total_comp_low: 300000
+    total_comp_high: 408000
+    currency: USD
+  - region: London
+    base_low: 150000
+    base_high: 185000
+    stock_low: 128000
+    stock_high: 242000
+    bonus_pct: 12
+    total_comp_low: 222000
+    total_comp_high: 308000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Fivetran Staff = Google L6 = Snowflake Staff = Databricks Staff = Meta E6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Premium Equity + Leadership Bonus | AI-Automated Data Integration Architecture 2026"
+---
 ### Staff Software Engineer | Fivetran Global Negotiation Guide
 
 **Negotiation DNA:** Premium Equity + Leadership Bonus | AI-Automated Data Integration Architecture 2026

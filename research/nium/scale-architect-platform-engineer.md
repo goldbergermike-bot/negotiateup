@@ -1,3 +1,53 @@
+---
+company: nium
+company_display: Nium
+role: scale-architect-platform-engineer
+role_display: Scale-Architect Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 200000
+    base_high: 300000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 400000
+    total_comp_high: 750000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 260000
+    base_high: 350000
+    stock_low: 250000
+    stock_high: 500000
+    bonus_pct: null
+    total_comp_low: 510000
+    total_comp_high: 850000
+    currency: USD
+  - region: London (GBP)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 120000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 450000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Hired
+  - LinkedIn
+  - AngelList
+  - Wellfound
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a Scale-Architect Platform Engineering compensation framework spanning Singapore, San Francisco, and London markets. The Scale-Architect Platform Engineer is the role that Nium's entire Reimagined Infrastructure initiative was designed to create — the engineer who bridges AI and programmable money, who designs systems that process billions of dollars across 100+ countries, and who ar"
+---
 ### Scale-Architect Platform Engineer — Nium Salary Negotiation Guide
 
 # SIGNATURE ROLE

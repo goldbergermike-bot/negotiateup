@@ -1,3 +1,49 @@
+---
+company: micron
+company_display: Micron
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boise
+    base_low: 118000
+    base_high: 155000
+    stock_low: 32000
+    stock_high: 58000
+    bonus_pct: 8
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+  - region: San Jose
+    base_low: 138000
+    base_high: 180000
+    stock_low: 40000
+    stock_high: 72000
+    bonus_pct: 8
+    total_comp_low: 208000
+    total_comp_high: 290000
+    currency: USD
+  - region: Remote US
+    base_low: 122000
+    base_high: 160000
+    stock_low: 34000
+    stock_high: 60000
+    bonus_pct: 8
+    total_comp_low: 185000
+    total_comp_high: 258000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Micron Data Engineer (Band 6–7) maps to Google Data Engineer L4–L5, Meta Data Engineer E4–E5, Amazon DE II–III"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +10% AI/Memory Premium"
+---
 ### Data Engineer | Micron Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +10% AI/Memory Premium

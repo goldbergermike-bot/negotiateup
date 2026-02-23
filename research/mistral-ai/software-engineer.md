@@ -1,3 +1,49 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 65000
+    base_high: 85000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 122000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 74000
+    stock_high: 138000
+    bonus_pct: null
+    total_comp_low: 79000
+    total_comp_high: 113000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 79000
+    total_comp_high: 114000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Mistral SWE = Google L3-L4 Paris = Meta FAIR SWE = DeepMind SWE = Anthropic L3 equivalent. Paris-based Google L3-L4 total comp ranges €90K-€140K; Mistral's pre-IPO equity upside is designed to close the gap and exceed it on a risk-adjusted basis."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium"
+---
 ### Software Engineer | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium

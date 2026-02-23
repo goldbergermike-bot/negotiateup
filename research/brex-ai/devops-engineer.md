@@ -1,3 +1,48 @@
+---
+company: brex-ai
+company_display: Brex AI
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 162000
+    base_high: 202000
+    stock_low: 148000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 272000
+    currency: USD
+  - region: New York
+    base_low: 158000
+    base_high: 198000
+    stock_low: 143000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 265000
+    currency: USD
+  - region: Remote (US)
+    base_low: 148000
+    base_high: 185000
+    stock_low: 130000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Brex DevOps (Mid) = Google L3 SRE = Meta E3 Prod Eng = Stripe L2 Infra
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Late-Stage Private | AI-Powered Spend Management"
+---
 ### DevOps Engineer | Brex Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Late-Stage Private | AI-Powered Spend Management

@@ -1,3 +1,48 @@
+---
+company: palantir
+company_display: Palantir
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 130000
+    base_high: 162000
+    stock_low: 145000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 166000
+    total_comp_high: 225000
+    currency: USD
+  - region: New York City
+    base_low: 135000
+    base_high: 168000
+    stock_low: 150000
+    stock_high: 258000
+    bonus_pct: null
+    total_comp_low: 173000
+    total_comp_high: 233000
+    currency: USD
+  - region: London
+    base_low: 65000
+    base_high: 85000
+    stock_low: 72000
+    stock_high: 125000
+    bonus_pct: null
+    total_comp_low: 83000
+    total_comp_high: 116000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Palantir Senior Designer = Google L4 UX = Meta IC4 Design — but with classified-environment design experience
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture"
+---
 ### Product Designer | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture

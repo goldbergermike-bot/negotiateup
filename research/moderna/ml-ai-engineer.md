@@ -1,3 +1,48 @@
+---
+company: moderna
+company_display: Moderna
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge MA
+    base_low: 160000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 355000
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 335000
+    currency: USD
+  - region: Other US
+    base_low: 145000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 315000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Moderna ML Engineer = Google L4-L5 ML = Genentech ML = Recursion ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "mRNA Pioneer / Post-COVID Growth / RSU + Bonus | **+15-25% AI/ML PREMIUM**"
+---
 ### ML/AI Engineer | Moderna Global Negotiation Guide
 
 **Negotiation DNA:** mRNA Pioneer / Post-COVID Growth / RSU + Bonus | **+15-25% AI/ML PREMIUM**

@@ -1,3 +1,53 @@
+---
+company: western-union
+company_display: Western Union
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver CO
+    base_low: 185000
+    base_high: 230000
+    stock_low: 90000
+    stock_high: 150000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 305000
+    total_comp_high: 435000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 260000
+    stock_low: 110000
+    stock_high: 180000
+    bonus_low: 35000
+    bonus_high: 65000
+    total_comp_low: 350000
+    total_comp_high: 505000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 160000
+    stock_low: 60000
+    stock_high: 100000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 205000
+    total_comp_high: 300000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Western Union | Google | Meta | Stripe | JPMorgan | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: WU` `USDPT` `Staff Software Engineer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Technical Leadership`"
+---
 ### Staff Software Engineer | Western Union Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: WU` `USDPT` `Staff Software Engineer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Technical Leadership`

@@ -1,3 +1,48 @@
+---
+company: arm
+company_display: Arm
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 155000
+    base_high: 205000
+    stock_low: 200000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 318000
+    currency: USD
+  - region: Austin
+    base_low: 140000
+    base_high: 185000
+    stock_low: 180000
+    stock_high: 305000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 288000
+    currency: USD
+  - region: Cambridge UK
+    base_low: 55000
+    base_high: 75000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 78000
+    total_comp_high: 115000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ARM Senior Software Engineer = NVIDIA Senior Software Engineer = Intel Senior Software Engineer (Grade 7-8) = Google L5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages"
+---
 ### Senior Software Engineer | ARM Global Negotiation Guide
 
 **Negotiation DNA:** Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages

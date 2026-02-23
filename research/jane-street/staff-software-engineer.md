@@ -1,3 +1,49 @@
+---
+company: jane-street
+company_display: Jane Street
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 300000
+    base_high: 400000
+    stock_low: null
+    stock_high: null
+    bonus_low: 425000
+    bonus_high: 650000
+    total_comp_low: 725000
+    total_comp_high: 1050000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: Hong Kong
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`63% Pay Hike` `Alpha Architect` `$600K+ Per-Head` `+15-25% Premium` `OCaml/Functional Programming` `All-Cash Comp` `Private Partnership` `Principal IC Track` `Trading Infrastructure Architect`"
+---
 ### Staff Software Engineer | Jane Street Global Negotiation Guide
 
 **Negotiation DNA:** `63% Pay Hike` `Alpha Architect` `$600K+ Per-Head` `+15-25% Premium` `OCaml/Functional Programming` `All-Cash Comp` `Private Partnership` `Principal IC Track` `Trading Infrastructure Architect`

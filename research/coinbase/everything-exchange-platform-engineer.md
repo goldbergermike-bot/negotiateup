@@ -1,3 +1,52 @@
+---
+company: coinbase
+company_display: Coinbase
+role: everything-exchange-platform-engineer
+role_display: Everything Exchange Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 278000
+    base_high: 325000
+    stock_low: 380000
+    stock_high: 740000
+    bonus_low: 40000
+    bonus_high: 65000
+    total_comp_low: 398000
+    total_comp_high: 562000
+    currency: USD
+  - region: New York
+    base_low: 272000
+    base_high: 318000
+    stock_low: 365000
+    stock_high: 715000
+    bonus_low: 38000
+    bonus_high: 62000
+    total_comp_low: 390000
+    total_comp_high: 552000
+    currency: USD
+  - region: Remote US
+    base_low: 255000
+    base_high: 298000
+    stock_low: 335000
+    stock_high: 660000
+    bonus_low: 32000
+    bonus_high: 55000
+    total_comp_low: 365000
+    total_comp_high: 520000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "`SIGNATURE ROLE` · `Everything Exchange` · `$2B Buyback` · `COIN` · `IC6-IC7` · `+25-35% Everything Exchange Premium` · `Multi-Asset Core Platform` · `Cross-Domain Architecture` · `RSU/4yr Vest`"
+---
 ### Everything Exchange Platform Engineer | Coinbase Global Negotiation Guide
 
 **Negotiation DNA:** `SIGNATURE ROLE` · `Everything Exchange` · `$2B Buyback` · `COIN` · `IC6-IC7` · `+25-35% Everything Exchange Premium` · `Multi-Asset Core Platform` · `Cross-Domain Architecture` · `RSU/4yr Vest`

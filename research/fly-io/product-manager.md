@@ -1,3 +1,39 @@
+---
+company: fly-io
+company_display: Fly.io
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 168000
+    total_comp_high: 403000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 153000
+    total_comp_high: 383000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Managers at Fly.io define the roadmap for the edge application platform, making strategic decisions about compute, networking, databases, and developer experience that position Fly.io against traditional PaaS and cloud providers."
+---
 ### Product Manager — Fly.io Salary Negotiation Guide
 
 **Negotiation DNA**: Product Managers at Fly.io define the roadmap for the edge application platform, making strategic decisions about compute, networking, databases, and developer experience that position Fly.io against traditional PaaS and cloud providers.

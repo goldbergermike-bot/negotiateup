@@ -1,3 +1,50 @@
+---
+company: atlassian
+company_display: Atlassian
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 215000
+    base_high: 305000
+    stock_low: 178000
+    stock_high: 365000
+    bonus_pct: null
+    total_comp_low: 275000
+    total_comp_high: 430000
+    currency: AUD
+  - region: San Francisco
+    base_low: 172000
+    base_high: 218000
+    stock_low: 162000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 310000
+    currency: USD
+  - region: Amsterdam
+    base_low: 108000
+    base_high: 152000
+    stock_low: 105000
+    stock_high: 195000
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 230000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P4 Senior SecEng = Google L4 SecEng = Meta E4 SecEng = Microsoft 63 SecEng = CrowdStrike Senior SecEng
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage | Security Talent Shortage Premium"
+---
 ### Security Engineer | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage | Security Talent Shortage Premium

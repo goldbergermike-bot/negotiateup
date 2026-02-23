@@ -1,3 +1,51 @@
+---
+company: intercontinental-exchange
+company_display: Intercontinental Exchange
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta (HQ)
+    base_low: 110000
+    base_high: 150000
+    stock_low: 108000
+    stock_high: 175000
+    bonus_low: 18000
+    bonus_high: 30000
+    total_comp_low: 158000
+    total_comp_high: 228000
+    currency: USD
+  - region: New York
+    base_low: 123000
+    base_high: 168000
+    stock_low: 121000
+    stock_high: 196000
+    bonus_low: 20000
+    bonus_high: 34000
+    total_comp_low: 177000
+    total_comp_high: 255000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 120000
+    stock_low: 86000
+    stock_high: 140000
+    bonus_low: 14000
+    bonus_high: 24000
+    total_comp_low: 126000
+    total_comp_high: 182000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Enterprise UX` `Financial Infrastructure Design` `Regulatory Interface Design`"
+---
 ### Product Designer | Intercontinental Exchange (ICE) Global Negotiation Guide
 
 **Negotiation DNA:** `Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Enterprise UX` `Financial Infrastructure Design` `Regulatory Interface Design`

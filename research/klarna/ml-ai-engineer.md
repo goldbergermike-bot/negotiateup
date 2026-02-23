@@ -1,3 +1,48 @@
+---
+company: klarna
+company_display: Klarna
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 258000
+    stock_low: 182000
+    stock_high: 322000
+    bonus_pct: 15
+    total_comp_low: 272000
+    total_comp_high: 385000
+    currency: USD
+  - region: Remote EU
+    base_low: 82000
+    base_high: 108000
+    stock_low: 62000
+    stock_high: 108000
+    bonus_pct: 15
+    total_comp_low: 105000
+    total_comp_high: 155000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Klarna ML/AI Eng (IC3-IC4) = Stripe ML = Adyen ML = Block ML = Google L5-L6 Commerce ML = No true peer — Klarna's protocol gives unique access to AI agent shopping data"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER** | **+15–25% AI SHOPPING PREMIUM**"
+---
 ### ML/AI Engineer | Klarna Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER** | **+15–25% AI SHOPPING PREMIUM**

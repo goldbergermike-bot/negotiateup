@@ -1,3 +1,53 @@
+---
+company: paypal
+company_display: Paypal
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 155000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 240000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 293000
+    total_comp_high: 490000
+    currency: USD
+  - region: New York NY
+    base_low: 150000
+    base_high: 210000
+    stock_low: 115000
+    stock_high: 230000
+    bonus_low: 17000
+    bonus_high: 33000
+    total_comp_low: 282000
+    total_comp_high: 473000
+    currency: USD
+  - region: London UK
+    base_low: 90000
+    base_high: 130000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 11000
+    bonus_high: 22000
+    total_comp_low: 161000
+    total_comp_high: 272000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| PayPal | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: PYPL` `Data Scientist` `IC3-IC4` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Fraud Analytics` `Transaction Intelligence` `Venmo` `PYUSD`"
+---
 ### Data Scientist | PayPal Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: PYPL` `Data Scientist` `IC3-IC4` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Fraud Analytics` `Transaction Intelligence` `Venmo` `PYUSD`

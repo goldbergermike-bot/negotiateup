@@ -1,3 +1,53 @@
+---
+company: jpmorgan-chase
+company_display: JPMorgan Chase
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 155000
+    base_high: 205000
+    stock_low: 40000
+    stock_high: 70000
+    bonus_low: 30000
+    bonus_high: 50000
+    total_comp_low: 225000
+    total_comp_high: 325000
+    currency: USD
+  - region: London
+    base_low: 127000
+    base_high: 168000
+    stock_low: 33000
+    stock_high: 57000
+    bonus_low: 25000
+    bonus_high: 41000
+    total_comp_low: 185000
+    total_comp_high: 266000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 3230000
+    base_high: 4270000
+    stock_low: 830000
+    stock_high: 1460000
+    bonus_low: 630000
+    bonus_high: 1040000
+    total_comp_low: 4690000
+    total_comp_high: 6770000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Product Strategy` `Revenue Ownership` `Regulatory Navigation`"
+---
 ### Product Manager | JPMorgan Chase Global Negotiation Guide
 
 **Negotiation DNA:** `Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Product Strategy` `Revenue Ownership` `Regulatory Navigation`

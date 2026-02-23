@@ -1,3 +1,50 @@
+---
+company: capital-one
+company_display: Capital One
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: McLean VA (HQ)
+    base_low: 160000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 345000
+    currency: USD
+  - region: New York City
+    base_low: 170000
+    base_high: 225000
+    stock_low: 100000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 365000
+    currency: USD
+  - region: San Francisco
+    base_low: 165000
+    base_high: 220000
+    stock_low: 95000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 355000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Scientist at Capital One (Senior/Principal) = L4-L5 at Google, IC4-IC5 at Meta, Applied Scientist at Amazon, VP/SVP at BofA/JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$68B market cap TECH-FIRST bank + Data science IS the core business strategy + McLean VA HQ + Comp competitive with Big Tech and quant funds | Capital One was founded on data-driven decisions | **DATA-DRIVEN BANKING PREMIUM**"
+---
 ### Data Scientist | Capital One Global Negotiation Guide
 
 **Negotiation DNA:** $68B market cap TECH-FIRST bank + Data science IS the core business strategy + McLean VA HQ + Comp competitive with Big Tech and quant funds | Capital One was founded on data-driven decisions | **DATA-DRIVEN BANKING PREMIUM**

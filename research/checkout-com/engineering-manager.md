@@ -1,3 +1,49 @@
+---
+company: checkout-com
+company_display: Checkout Com
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 110000
+    base_high: 155000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 210000
+    base_high: 270000
+    stock_low: 110000
+    stock_high: 190000
+    bonus_pct: null
+    total_comp_low: 320000
+    total_comp_high: 460000
+    currency: USD
+  - region: New York (USD)
+    base_low: 200000
+    base_high: 260000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 300000
+    total_comp_high: 440000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into an engineering management compensation framework spanning London, San Francisco, and New York markets."
+---
 ### Engineering Manager — Checkout.com Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into an engineering management compensation framework spanning London, San Francisco, and New York markets.

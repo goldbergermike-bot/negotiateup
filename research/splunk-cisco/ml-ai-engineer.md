@@ -1,3 +1,47 @@
+---
+company: splunk-cisco
+company_display: Splunk (Cisco)
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 380000
+    currency: USD
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 82000
+    total_comp_high: 190000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "ML/AI Engineers at Splunk (Cisco) build the autonomous intelligence that powers AgenticOps and Visibility-to-Remediation, commanding top-of-market compensation for creating the AI systems that enable machines to detect, decide, and remediate at enterprise scale."
+---
 ### ML/AI Engineer — Splunk (Cisco) Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at Splunk (Cisco) build the autonomous intelligence that powers AgenticOps and Visibility-to-Remediation, commanding top-of-market compensation for creating the AI systems that enable machines to detect, decide, and remediate at enterprise scale.

@@ -1,3 +1,49 @@
+---
+company: epic-games
+company_display: Epic Games
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 160000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 350000
+    currency: USD
+  - region: Seattle
+    base_low: 170000
+    base_high: 235000
+    stock_low: 90000
+    stock_high: 225000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: 62000
+    base_high: 98000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_pct: 15
+    total_comp_low: 95000
+    total_comp_high: 158000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic SA = Google L4-L5 Solutions = AWS Solutions Architect III-IV
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue"
+---
 ### Solutions Architect | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue

@@ -1,3 +1,54 @@
+---
+company: tpg
+company_display: Tpg
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 148000
+    base_high: 182000
+    stock_low: 80000
+    stock_high: 140000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 250000
+    total_comp_high: 315000
+    currency: USD
+  - region: "Fort Worth, TX"
+    base_low: 125000
+    base_high: 155000
+    stock_low: 65000
+    stock_high: 115000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 218000
+    total_comp_high: 268000
+    currency: USD
+  - region: New York
+    base_low: 142000
+    base_high: 178000
+    stock_low: 75000
+    stock_high: 135000
+    bonus_low: 20000
+    bonus_high: 36000
+    total_comp_low: 242000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "`Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Design-Driven Revenue` `AI UX Leadership` `Portfolio Experience Design`"
+---
 ### Product Designer | TPG Global Negotiation Guide
 
 **Negotiation DNA:** `Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `Design-Driven Revenue` `AI UX Leadership` `Portfolio Experience Design`

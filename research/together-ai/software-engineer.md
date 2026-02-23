@@ -1,3 +1,51 @@
+---
+company: together-ai
+company_display: Together AI
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 185000
+    stock_low: 30000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 228000
+    currency: USD
+  - region: Seattle
+    base_low: 138000
+    base_high: 176000
+    stock_low: 28000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 157000
+    total_comp_high: 217000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 166000
+    stock_low: 25000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 205000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Together AI SWE ≈ Google L3–L4 · Meta E3–E4 · OpenAI IC1–IC2 · Anthropic SWE I–II · Amazon SDE I–II
+data_sources:
+  - Crunchbase
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +20% Kernel Innovation Premium"
+---
 ### Software Engineer | Together AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +20% Kernel Innovation Premium

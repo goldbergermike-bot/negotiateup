@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 175000
+    base_high: 225000
+    stock_low: 40000
+    stock_high: 75000
+    bonus_pct: 5
+    total_comp_low: 225000
+    total_comp_high: 315000
+    currency: USD
+  - region: San Diego
+    base_low: 162000
+    base_high: 210000
+    stock_low: 35000
+    stock_high: 68000
+    bonus_pct: 5
+    total_comp_low: 210000
+    total_comp_high: 295000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 200000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_pct: 5
+    total_comp_low: 195000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq Senior SWE ≈ Google L5 · Meta E5 · Amazon SDE III · Apple ICT4 · Cerebras Senior SWE · NVIDIA Senior Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Senior-Level Premium"
+---
 ### Senior Software Engineer | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Senior-Level Premium

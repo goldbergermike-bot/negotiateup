@@ -1,3 +1,50 @@
+---
+company: stability-ai
+company_display: Stability AI
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London
+    base_low: 100000
+    base_high: 155000
+    stock_low: 80000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 218000
+    currency: GBP
+  - region: San Francisco
+    base_low: 170000
+    base_high: 235000
+    stock_low: 80000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 298000
+    currency: USD
+  - region: Remote US
+    base_low: 153000
+    base_high: 212000
+    stock_low: 72000
+    stock_high: 225000
+    bonus_pct: null
+    total_comp_low: 171000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stability AI Senior SWE = Google L5 = Meta E5 = UK Senior SWE top-tier
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | Open-Source Generative AI"
+---
 ### Senior Software Engineer | Stability AI Global Negotiation Guide
 
 **Negotiation DNA:** Startup Comp with UK Base + Pre-IPO Equity | $1B+ Valuation | London HQ | Open-Source Generative AI

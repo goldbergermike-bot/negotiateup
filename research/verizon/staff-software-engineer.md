@@ -1,3 +1,50 @@
+---
+company: verizon
+company_display: Verizon
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / New Jersey
+    base_low: 175000
+    base_high: 242000
+    stock_low: 72000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 385000
+    currency: USD
+  - region: Bay Area / Seattle
+    base_low: 182000
+    base_high: 250000
+    stock_low: 78000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 252000
+    total_comp_high: 402000
+    currency: USD
+  - region: Dallas / Atlanta
+    base_low: 165000
+    base_high: 230000
+    stock_low: 62000
+    stock_high: 192000
+    bonus_pct: 15
+    total_comp_low: 222000
+    total_comp_high: 358000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Verizon Staff SWE (L6-L7) = Google L6 = Meta E6 = Amazon Principal SDE = T-Mobile L7 = Microsoft 65-66
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$175B Telecom Leader | Technical Strategy Owner | Platform + 5G Architecture Authority"
+---
 ### Staff Software Engineer | Verizon Global Negotiation Guide
 
 **Negotiation DNA:** $175B Telecom Leader | Technical Strategy Owner | Platform + 5G Architecture Authority

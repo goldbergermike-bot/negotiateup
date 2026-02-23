@@ -1,3 +1,48 @@
+---
+company: sofi
+company_display: SoFi
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 120000
+    base_high: 152000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 222000
+    currency: USD
+  - region: New York / Salt Lake City
+    base_low: 110000
+    base_high: 140000
+    stock_low: 85000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 142000
+    total_comp_high: 202000
+    currency: USD
+  - region: Remote US
+    base_low: 100000
+    base_high: 130000
+    stock_low: 72000
+    stock_high: 138000
+    bonus_pct: 8
+    total_comp_low: 128000
+    total_comp_high: 182000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$158K-$222K TC (SF)` | `LTV Accelerator` | `Member Experience Architect` | `NASDAQ: SOFI`"
+---
 ### Product Designer | SoFi Global Negotiation Guide
 
 **Negotiation DNA:** `$158K-$222K TC (SF)` | `LTV Accelerator` | `Member Experience Architect` | `NASDAQ: SOFI`

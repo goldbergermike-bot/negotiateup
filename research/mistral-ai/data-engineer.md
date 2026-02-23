@@ -1,3 +1,48 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 70000
+    base_high: 95000
+    stock_low: 80000
+    stock_high: 155000
+    bonus_pct: null
+    total_comp_low: 90000
+    total_comp_high: 134000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 74000
+    stock_high: 143000
+    bonus_pct: null
+    total_comp_low: 83000
+    total_comp_high: 124000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 80000
+    stock_high: 155000
+    bonus_pct: null
+    total_comp_low: 83000
+    total_comp_high: 125000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Mistral Data Engineer = Google Data Engineer L3-L4 Paris = Meta Data Engineer = DeepMind Data Infrastructure Engineer. Google Data Engineer Paris total comp ranges €90K-€150K. AI training data pipeline experience with multilingual data curation commands a 10-15% premium."
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium"
+---
 ### Data Engineer | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium

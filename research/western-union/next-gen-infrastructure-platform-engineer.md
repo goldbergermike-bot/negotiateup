@@ -1,3 +1,53 @@
+---
+company: western-union
+company_display: Western Union
+role: next-gen-infrastructure-platform-engineer
+role_display: Next-Gen Infrastructure Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver CO
+    base_low: 185000
+    base_high: 240000
+    stock_low: 100000
+    stock_high: 175000
+    bonus_low: 30000
+    bonus_high: 60000
+    total_comp_low: 315000
+    total_comp_high: 475000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 275000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_low: 38000
+    bonus_high: 72000
+    total_comp_low: 368000
+    total_comp_high: 557000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 165000
+    stock_low: 65000
+    stock_high: 115000
+    bonus_low: 20000
+    bonus_high: 42000
+    total_comp_low: 210000
+    total_comp_high: 322000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Western Union | Google | Meta | Stripe | JPMorgan | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: WU` `USDPT` `SIGNATURE ROLE` `Next-Gen Infrastructure Platform Engineer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Solana Settlement` `Stablecoin Architecture` `Platform Engineering` `Hyderabad AI Hub`"
+---
 ### Next-Gen Infrastructure Platform Engineer | Western Union Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: WU` `USDPT` `SIGNATURE ROLE` `Next-Gen Infrastructure Platform Engineer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Solana Settlement` `Stablecoin Architecture` `Platform Engineering` `Hyderabad AI Hub`

@@ -1,3 +1,50 @@
+---
+company: hex
+company_display: Hex
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 225000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 340000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 220000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 235000
+    total_comp_high: 333000
+    currency: USD
+  - region: London
+    base_low: 133000
+    base_high: 171000
+    stock_low: 105000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 255000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Hex PM = Google L5 PM = Meta PM IC5 = Databricks PM = Snowflake PM = Notion PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity | Data Analytics Platform Pioneer | 2026 Focus: AI Analytics Product Strategy"
+---
 ### Product Manager | Hex Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity | Data Analytics Platform Pioneer | 2026 Focus: AI Analytics Product Strategy

@@ -1,3 +1,48 @@
+---
+company: plaid-identity
+company_display: Plaid Identity
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 235000
+    stock_low: 200000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 330000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 230000
+    stock_low: 195000
+    stock_high: 325000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 150000
+    stock_low: 100000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 218000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Plaid ML (Mid-Senior) = Google L4 ML = Meta E4 ML = Stripe L3 ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure"
+---
 ### ML/AI Engineer | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure

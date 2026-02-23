@@ -1,3 +1,67 @@
+---
+company: amazon
+company_display: Amazon
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 140000
+    base_high: 180000
+    stock_low: 150000
+    stock_high: 400000
+    bonus_pct: null
+    signing_bonus_low: 50000
+    signing_bonus_high: 100000
+    total_comp_low: 230000
+    total_comp_high: 390000
+    currency: USD
+  - region: Bay Area
+    base_low: 145000
+    base_high: 180000
+    stock_low: 160000
+    stock_high: 420000
+    bonus_pct: null
+    signing_bonus_low: 55000
+    signing_bonus_high: 105000
+    total_comp_low: 240000
+    total_comp_high: 400000
+    currency: USD
+  - region: NYC
+    base_low: 145000
+    base_high: 180000
+    stock_low: 155000
+    stock_high: 410000
+    bonus_pct: null
+    signing_bonus_low: 50000
+    signing_bonus_high: 100000
+    total_comp_low: 235000
+    total_comp_high: 395000
+    currency: USD
+  - region: Austin
+    base_low: 135000
+    base_high: 175000
+    stock_low: 140000
+    stock_high: 370000
+    bonus_pct: null
+    signing_bonus_low: 45000
+    signing_bonus_high: 90000
+    total_comp_low: 215000
+    total_comp_high: 365000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Amazon L5 Data Engineer = Google L4 = Databricks Senior = Snowflake Senior
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "Back-Loaded RSU Vesting / Signing Bonus Bridge | Data Infrastructure Scale"
+---
 ### Data Engineer | Amazon Global Negotiation Guide
 
 **Negotiation DNA:** Back-Loaded RSU Vesting / Signing Bonus Bridge | Data Infrastructure Scale

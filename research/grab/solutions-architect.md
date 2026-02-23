@@ -1,3 +1,50 @@
+---
+company: grab
+company_display: Grab
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 120000
+    base_high: 190000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 275000
+    currency: USD
+  - region: Seattle / Bay Area (US)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 60000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 330000
+    currency: USD
+  - region: Jakarta
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Grab (L6-L7) = L5-L6 SA at Google Cloud, equivalent AWS SA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$14B super-app with enterprise partnerships spanning rides (GrabForBusiness), food (GrabFood merchant integrations), payments (GrabPay merchant solutions), and fintech + SA roles driving B2B revenue | Grab SAs enable enterprise adoption of SE Asia's largest platform | **ENTERPRISE PLATFORM PREMIUM**"
+---
 ### Solutions Architect | Grab Global Negotiation Guide
 
 **Negotiation DNA:** $14B super-app with enterprise partnerships spanning rides (GrabForBusiness), food (GrabFood merchant integrations), payments (GrabPay merchant solutions), and fintech + SA roles driving B2B revenue | Grab SAs enable enterprise adoption of SE Asia's largest platform | **ENTERPRISE PLATFORM PREMIUM**

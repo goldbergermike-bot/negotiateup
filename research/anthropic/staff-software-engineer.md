@@ -1,3 +1,50 @@
+---
+company: anthropic
+company_display: Anthropic
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 310000
+    base_high: 385000
+    stock_low: 500000
+    stock_high: 900000
+    bonus_pct: null
+    total_comp_low: 435000
+    total_comp_high: 610000
+    currency: USD
+  - region: Seattle
+    base_low: 301000
+    base_high: 366000
+    stock_low: 500000
+    stock_high: 900000
+    bonus_pct: null
+    total_comp_low: 426000
+    total_comp_high: 591000
+    currency: USD
+  - region: London
+    base_low: 236000
+    base_high: 293000
+    stock_low: 380000
+    stock_high: 684000
+    bonus_pct: null
+    total_comp_low: 331000
+    total_comp_high: 464000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anthropic Staff SWE = Google L6 = Meta E6 = OpenAI Staff SWE = Amazon Principal SDE = Apple ICT5
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium"
+---
 ### Staff Software Engineer | Anthropic Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium

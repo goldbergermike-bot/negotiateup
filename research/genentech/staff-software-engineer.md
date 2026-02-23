@@ -1,3 +1,48 @@
+---
+company: genentech
+company_display: Genentech
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: South San Francisco
+    base_low: 195000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 290000
+    total_comp_high: 440000
+    currency: USD
+  - region: Bay Area Remote
+    base_low: 185000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 275000
+    total_comp_high: 420000
+    currency: USD
+  - region: Other US
+    base_low: 175000
+    base_high: 230000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 255000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Genentech Staff SWE = Google L5-L6 = Microsoft Principal = Moderna Staff
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: Roche Subsidiary / Bay Area Biotech Premium / RSU + Bonus / Staff Technical Leadership
+---
 ### Staff Software Engineer | Genentech Global Negotiation Guide
 
 **Negotiation DNA:** Roche Subsidiary / Bay Area Biotech Premium / RSU + Bonus / Staff Technical Leadership

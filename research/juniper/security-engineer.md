@@ -1,3 +1,49 @@
+---
+company: juniper
+company_display: Juniper
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 142000
+    base_high: 185000
+    stock_low: 30000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 262000
+    currency: USD
+  - region: Westford (MA)
+    base_low: 132000
+    base_high: 172000
+    stock_low: 28000
+    stock_high: 50000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 245000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 168000
+    stock_low: 25000
+    stock_high: 48000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Juniper Security Engineer (IC2–IC3) = Google L4–L5 Security | Meta Security Engineer–Sr. SE | Amazon Security Engineer II–III | Cisco Security Engineer–Senior | HPE Security Engineer (IC3–IC5)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | +10% Security Premium"
+---
 ### Security Engineer | Juniper Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | +10% Security Premium

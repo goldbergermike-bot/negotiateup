@@ -1,3 +1,48 @@
+---
+company: boku
+company_display: Boku
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 95000
+    base_high: 135000
+    stock_low: 50000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 255000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 190000
+    base_high: 260000
+    stock_low: 100000
+    stock_high: 220000
+    bonus_pct: null
+    total_comp_low: 290000
+    total_comp_high: 480000
+    currency: USD
+  - region: Mumbai (INR)
+    base_low: 3800000
+    base_high: 6000000
+    stock_low: 1800000
+    stock_high: 3500000
+    bonus_pct: null
+    total_comp_low: 5600000
+    total_comp_high: 9500000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Staff Software Engineer compensation framework spanning London, San Francisco, and Mumbai markets."
+---
 ### Staff Software Engineer — Boku Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Staff Software Engineer compensation framework spanning London, San Francisco, and Mumbai markets.

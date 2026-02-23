@@ -1,3 +1,50 @@
+---
+company: atlassian
+company_display: Atlassian
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 250000
+    base_high: 340000
+    stock_low: 290000
+    stock_high: 520000
+    bonus_pct: null
+    total_comp_low: 380000
+    total_comp_high: 555000
+    currency: AUD
+  - region: San Francisco
+    base_low: 215000
+    base_high: 268000
+    stock_low: 260000
+    stock_high: 430000
+    bonus_pct: null
+    total_comp_low: 325000
+    total_comp_high: 440000
+    currency: USD
+  - region: Amsterdam
+    base_low: 135000
+    base_high: 180000
+    stock_low: 175000
+    stock_high: 295000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 310000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P5 Staff = Google L5 Staff = Meta E6 = Microsoft 65-66 = Datadog Staff
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage"
+---
 ### Staff Software Engineer | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage

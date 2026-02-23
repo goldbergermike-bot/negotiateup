@@ -1,3 +1,48 @@
+---
+company: mckinsey
+company_display: Mckinsey
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 185000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 241000
+    total_comp_high: 353000
+    currency: USD
+  - region: Chicago
+    base_low: 175000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 228000
+    total_comp_high: 330000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 163000
+    total_comp_high: 248000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: McKinsey Solutions Architect = AWS Senior SA = Google Cloud Customer Engineer (L5) = Accenture Managing Director (Tech)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (30-50%) | No Equity | Client-Facing Technical Leadership"
+---
 ### Solutions Architect | McKinsey Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (30-50%) | No Equity | Client-Facing Technical Leadership

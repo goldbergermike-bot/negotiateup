@@ -1,3 +1,54 @@
+---
+company: visa
+company_display: Visa
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Foster City
+    base_low: 165000
+    base_high: 220000
+    stock_low: 130000
+    stock_high: 240000
+    bonus_low: 22000
+    bonus_high: 45000
+    total_comp_low: 317000
+    total_comp_high: 505000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 235000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_low: 24000
+    bonus_high: 48000
+    total_comp_low: 339000
+    total_comp_high: 543000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 135000
+    stock_low: 75000
+    stock_high: 140000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 184000
+    total_comp_high: 303000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Visa | Google | Meta | Stripe | JPMorgan | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Analytics` `Transaction Intelligence` `4B+ Cards` `200+ Countries` `Fraud Detection` `AI/ML` `Network Economics`"
+---
 ### Data Scientist | Visa Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Analytics` `Transaction Intelligence` `4B+ Cards` `200+ Countries` `Fraud Detection` `AI/ML` `Network Economics`

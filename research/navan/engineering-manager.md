@@ -1,3 +1,54 @@
+---
+company: navan
+company_display: Navan
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 275000
+    stock_low: 75000
+    stock_high: 140000
+    bonus_low: 20000
+    bonus_high: 45000
+    total_comp_low: 305000
+    total_comp_high: 460000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 270000
+    stock_low: 70000
+    stock_high: 135000
+    bonus_low: 18000
+    bonus_high: 42000
+    total_comp_low: 293000
+    total_comp_high: 447000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 175000
+    stock_low: 48000
+    stock_high: 88000
+    bonus_low: 12000
+    bonus_high: 28000
+    total_comp_low: 190000
+    total_comp_high: 291000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Navan | Google | Meta | Stripe | Brex | Airbnb |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Crunchbase
+negotiation_dna_summary: "`Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `People Leadership`"
+---
 ### Engineering Manager | Navan Global Negotiation Guide
 
 **Negotiation DNA:** `Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `People Leadership`

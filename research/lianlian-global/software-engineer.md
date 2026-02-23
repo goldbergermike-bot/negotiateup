@@ -1,3 +1,48 @@
+---
+company: lianlian-global
+company_display: Lianlian Global
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":cn: Hangzhou (CNY)"
+    base_low: 250000
+    base_high: 400000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 350000
+    total_comp_high: 600000
+    currency: JPY
+  - region: ":hong_kong: Hong Kong (HKD)"
+    base_low: 400000
+    base_high: 650000
+    stock_low: 150000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 550000
+    total_comp_high: 950000
+    currency: HKD
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 70000
+    base_high: 110000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: null
+    total_comp_low: 95000
+    total_comp_high: 160000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a software engineering compensation framework spanning Hangzhou, Hong Kong, and Singapore markets."
+---
 ### Software Engineer — LianLian Global Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a software engineering compensation framework spanning Hangzhou, Hong Kong, and Singapore markets.

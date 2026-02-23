@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 138000
+    base_high: 192000
+    stock_low: 52000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 265000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 120000
+    base_high: 168000
+    stock_low: 38000
+    stock_high: 108000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 225000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 38000
+    base_high: 62000
+    stock_low: 12000
+    stock_high: 35000
+    bonus_pct: 10
+    total_comp_low: 45000
+    total_comp_high: 80000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 62000
+    base_high: 98000
+    stock_low: 22000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 78000
+    total_comp_high: 130000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 1600000
+    base_high: 3200000
+    stock_low: 700000
+    stock_high: 2200000
+    bonus_pct: 10
+    total_comp_low: 2200000
+    total_comp_high: 4200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath IC2/IC3 (Design) ~ Microsoft 61/62 Design | Salesforce Senior Designer | ServiceNow Senior Designer | Automation Anywhere Senior/Lead"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Automation workflow UX specialist | Low-code/no-code design & enterprise developer experience | **DESIGN PREMIUM**"
+---
 ### Product Designer | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** Automation workflow UX specialist | Low-code/no-code design & enterprise developer experience | **DESIGN PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: accenture
+company_display: Accenture
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 150000
+    base_high: 205000
+    stock_low: 50000
+    stock_high: 120000
+    bonus_pct: 12
+    total_comp_low: 218000
+    total_comp_high: 362000
+    currency: USD
+  - region: San Francisco
+    base_low: 155000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 125000
+    bonus_pct: 12
+    total_comp_low: 227000
+    total_comp_high: 373000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 145000
+    stock_low: 25000
+    stock_high: 60000
+    bonus_pct: 12
+    total_comp_low: 137000
+    total_comp_high: 231000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Accenture Manager / Senior Manager (SA) = AWS Senior SA = Google Cloud Customer Engineer (L5) = Deloitte SM (SA)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + RSU Grants + Bonus (12-18%) | Technology Consulting Architecture Leadership"
+---
 ### Solutions Architect | Accenture Global Negotiation Guide
 
 **Negotiation DNA:** Base + RSU Grants + Bonus (12-18%) | Technology Consulting Architecture Leadership

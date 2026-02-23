@@ -1,3 +1,48 @@
+---
+company: pwc
+company_display: PwC
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 150000
+    base_high: 200000
+    stock_low: 20000
+    stock_high: 65000
+    bonus_pct: 15
+    total_comp_low: 198000
+    total_comp_high: 315000
+    currency: USD
+  - region: Chicago
+    base_low: 140000
+    base_high: 185000
+    stock_low: 15000
+    stock_high: 55000
+    bonus_pct: 15
+    total_comp_low: 179000
+    total_comp_high: 286000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 145000
+    stock_low: 10000
+    stock_high: 40000
+    bonus_pct: 15
+    total_comp_low: 131000
+    total_comp_high: 221000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: PwC Director / Managing Director = Google L5-L6 = Deloitte Senior Manager/Director = Accenture Senior Manager
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (15-25%) + Equity Grants | Director / Managing Director Level"
+---
 ### Staff Software Engineer | PwC Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (15-25%) + Equity Grants | Director / Managing Director Level

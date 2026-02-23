@@ -1,3 +1,49 @@
+---
+company: marvell
+company_display: Marvell
+role: optical-interconnect-platform-engineer
+role_display: Optical Interconnect Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 195000
+    base_high: 248000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: 18
+    total_comp_low: 278000
+    total_comp_high: 388000
+    currency: USD
+  - region: Boise
+    base_low: 175000
+    base_high: 223000
+    stock_low: 155000
+    stock_high: 280000
+    bonus_pct: 18
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 236000
+    stock_low: 168000
+    stock_high: 300000
+    bonus_pct: 18
+    total_comp_low: 262000
+    total_comp_high: 368000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Marvell T6–T7 (Staff+) = Google L6–L7 = Meta E6–E7 = Apple ICT5–ICT6 = Broadcom Principal Engineer = Nvidia Senior Staff Engineer | **No direct industry equivalent — this is a category-defining role**"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | SIGNATURE ROLE | +25-35% Optical Interconnect Premium"
+---
 ### Optical Interconnect Platform Engineer | Marvell Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | SIGNATURE ROLE | +25-35% Optical Interconnect Premium

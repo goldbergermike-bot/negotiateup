@@ -1,3 +1,49 @@
+---
+company: runway
+company_display: Runway
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 195000
+    base_high: 275000
+    stock_low: 175000
+    stock_high: 420000
+    bonus_pct: null
+    total_comp_low: 239000
+    total_comp_high: 380000
+    currency: USD
+  - region: San Francisco
+    base_low: 195000
+    base_high: 275000
+    stock_low: 175000
+    stock_high: 420000
+    bonus_pct: null
+    total_comp_low: 239000
+    total_comp_high: 380000
+    currency: USD
+  - region: Remote US
+    base_low: 176000
+    base_high: 248000
+    stock_low: 158000
+    stock_high: 378000
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 343000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Runway ML/AI Engineer = Google L4-L5 ML Engineer = Meta ML Engineer IC4-IC5 = OpenAI Research Engineer = Stability AI ML Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | **+15-30% ML PREMIUM** | Generative Video Pioneer"
+---
 ### ML/AI Engineer | Runway Global Negotiation Guide
 
 **Negotiation DNA:** Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | **+15-30% ML PREMIUM** | Generative Video Pioneer

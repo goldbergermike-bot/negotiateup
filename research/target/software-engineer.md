@@ -1,3 +1,39 @@
+---
+company: target
+company_display: Target
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 115000
+    base_high: 165000
+    stock_low: 30000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+  - region: Bay Area / India
+    base_low: 125000
+    base_high: 178000
+    stock_low: 38000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 153000
+    total_comp_high: 240000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target Software Engineer = Google L3 = Meta E3 = Amazon SDE-I = Walmart Global Tech SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage"
+---
 ### Software Engineer | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage

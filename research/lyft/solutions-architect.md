@@ -1,3 +1,48 @@
+---
+company: lyft
+company_display: Lyft
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 148000
+    base_high: 188000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 255000
+    currency: USD
+  - region: New York
+    base_low: 141000
+    base_high: 179000
+    stock_low: 93000
+    stock_high: 188000
+    bonus_pct: 10
+    total_comp_low: 176000
+    total_comp_high: 242000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 168000
+    stock_low: 82000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 222000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Lyft Solutions Architect (T5-T6) = Google L5 Solutions Architect = Uber Solutions Architect II-Senior = AWS Solutions Architect = Microsoft Solutions Architect
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Rideshare & Mobility Platform | BENTELER/HOLON AV-Hybrid Strategy | AV-Orchestration Premium | 4-Year Vest w/ 1-Year Cliff"
+---
 ### Solutions Architect | Lyft Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Rideshare & Mobility Platform | BENTELER/HOLON AV-Hybrid Strategy | AV-Orchestration Premium | 4-Year Vest w/ 1-Year Cliff

@@ -1,3 +1,48 @@
+---
+company: pinterest
+company_display: Pinterest
+role: shopping-assistant-ai-engineer
+role_display: Shopping Assistant AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 218000
+    base_high: 275000
+    stock_low: 250000
+    stock_high: 450000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 388000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 265000
+    stock_low: 235000
+    stock_high: 425000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 375000
+    currency: USD
+  - region: Remote US
+    base_low: 195000
+    base_high: 248000
+    stock_low: 210000
+    stock_high: 385000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Pinterest Shopping Assistant AI Engineer (L5–L6) = Google ML Engineer L5–L6 (Shopping) = Meta AI Engineer (IC5–IC6) = Amazon Applied Scientist III (Alexa Shopping) = Apple ML Engineer (Siri Commerce) = OpenAI Research Engineer = Anthropic AI Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | **+20–35% AI Premium** | Signature Role — Direct Shopping Assistant Builder | Visual AI Shopping + Conversational Commerce + Image Recognition + Personalized Recommendations | Standard 4-year vest with 1-year cliff"
+---
 ### Shopping Assistant AI Engineer | Pinterest Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | **+20–35% AI Premium** | Signature Role — Direct Shopping Assistant Builder | Visual AI Shopping + Conversational Commerce + Image Recognition + Personalized Recommendations | Standard 4-year vest with 1-year cliff

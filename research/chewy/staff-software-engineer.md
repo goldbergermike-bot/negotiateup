@@ -1,3 +1,51 @@
+---
+company: chewy
+company_display: Chewy
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Plantation FL
+    base_low: 190000
+    base_high: 250000
+    stock_low: 50000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 365000
+    currency: USD
+  - region: Boston
+    base_low: 205000
+    base_high: 272000
+    stock_low: 54000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 283000
+    total_comp_high: 399000
+    currency: USD
+  - region: Remote US
+    base_low: 181000
+    base_high: 238000
+    stock_low: 48000
+    stock_high: 76000
+    bonus_pct: 10
+    total_comp_low: 249000
+    total_comp_high: 347000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chewy Staff Software Engineer = Google L6 = Amazon Principal SDE = Meta E6 = Microsoft Principal SDE 65–66 = Apple ICT5–ICT6
+data_sources:
+  - "Chewy 84% Autoship Penetration — Q4 2024 Earnings Report, Recurring Revenue Model"
+  - "Chewy Pet Health Expansion — Chewy Health, Telehealth, Insurance, Pharmacy Announcements"
+  - "Chewy 10-K Annual Filing — $12B+ Revenue, 20M+ Active Customers"
+  - Pet Humanization Trend — APPA $150B+ US Pet Industry Spending Report
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium"
+---
 ### Staff Software Engineer | Chewy Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium

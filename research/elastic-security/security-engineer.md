@@ -1,3 +1,50 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 178000
+    base_high: 230000
+    stock_low: 148000
+    stock_high: 265000
+    bonus_pct: 5
+    total_comp_low: 240000
+    total_comp_high: 330000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 168000
+    base_high: 218000
+    stock_low: 135000
+    stock_high: 245000
+    bonus_pct: 5
+    total_comp_low: 225000
+    total_comp_high: 310000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 135000
+    base_high: 175000
+    stock_low: 112000
+    stock_high: 202000
+    bonus_pct: 5
+    total_comp_low: 183000
+    total_comp_high: 252000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic Security Engineer IC3-IC4 = Google L4-L5 Security = Meta E4-E5 Security = CrowdStrike Security Engineer = Palo Alto Security Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity"
+---
 ### Security Engineer | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity

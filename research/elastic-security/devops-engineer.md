@@ -1,3 +1,50 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 152000
+    base_high: 198000
+    stock_low: 102000
+    stock_high: 180000
+    bonus_pct: 5
+    total_comp_low: 188000
+    total_comp_high: 265000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 142000
+    base_high: 188000
+    stock_low: 92000
+    stock_high: 166000
+    bonus_pct: 5
+    total_comp_low: 175000
+    total_comp_high: 250000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 116000
+    base_high: 150000
+    stock_low: 77000
+    stock_high: 137000
+    bonus_pct: 5
+    total_comp_low: 143000
+    total_comp_high: 202000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic DevOps Engineer IC3 = Google L4 SRE = Meta E4 Production Engineer = CrowdStrike SRE II = Splunk DevOps II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity"
+---
 ### DevOps Engineer | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity

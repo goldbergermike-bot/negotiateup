@@ -1,3 +1,48 @@
+---
+company: revolut
+company_display: Revolut
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":gb: London (GBP)"
+    base_low: 75000
+    base_high: 120000
+    stock_low: 45000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 260000
+    currency: GBP
+  - region: ":lt: Vilnius (EUR)"
+    base_low: 55000
+    base_high: 85000
+    stock_low: 30000
+    stock_high: 95000
+    bonus_pct: null
+    total_comp_low: 85000
+    total_comp_high: 180000
+    currency: EUR
+  - region: ":us: New York (USD)"
+    base_low: 140000
+    base_high: 200000
+    stock_low: 80000
+    stock_high: 230000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 430000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a security engineering compensation framework spanning London, Vilnius, and New York markets. Security Engineers at Revolut protect a $75B financial platform handling billions in transactions — you are the defensive layer that prevents fraud, ensures regulatory compliance, and maintains the trust that enables 40M+ users to deposit, invest, and transact through Revolut's super-app."
+---
 ### Security Engineer — Revolut Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a security engineering compensation framework spanning London, Vilnius, and New York markets. Security Engineers at Revolut protect a $75B financial platform handling billions in transactions — you are the defensive layer that prevents fraud, ensures regulatory compliance, and maintains the trust that enables 40M+ users to deposit, invest, and transact through Revolut's super-app.

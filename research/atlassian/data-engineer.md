@@ -1,3 +1,50 @@
+---
+company: atlassian
+company_display: Atlassian
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 180000
+    base_high: 255000
+    stock_low: 145000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 345000
+    currency: AUD
+  - region: San Francisco
+    base_low: 155000
+    base_high: 198000
+    stock_low: 140000
+    stock_high: 238000
+    bonus_pct: null
+    total_comp_low: 198000
+    total_comp_high: 270000
+    currency: USD
+  - region: Amsterdam
+    base_low: 90000
+    base_high: 130000
+    stock_low: 82000
+    stock_high: 162000
+    bonus_pct: null
+    total_comp_low: 122000
+    total_comp_high: 195000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian P3 Senior DE = Google L4 DE = Databricks Senior DE = Snowflake Senior DE = Confluent Senior DE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage"
+---
 ### Data Engineer | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage

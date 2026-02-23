@@ -1,3 +1,49 @@
+---
+company: electronic-arts
+company_display: Electronic Arts
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 130000
+    base_high: 180000
+    stock_low: 50000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 163000
+    total_comp_high: 252000
+    currency: USD
+  - region: Orlando
+    base_low: 115000
+    base_high: 160000
+    stock_low: 40000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 142000
+    total_comp_high: 220000
+    currency: USD
+  - region: Bucharest
+    base_low: 40000
+    base_high: 60000
+    stock_low: 12000
+    stock_high: 30000
+    bonus_pct: 10
+    total_comp_low: 56000
+    total_comp_high: 94000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: EA Designer II = Google L4 UX = Meta IC4 Design = Apple ICT3 Design
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "RSU + Bonus | Sports-Gaming Revenue Machine"
+---
 ### Product Designer | Electronic Arts Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Sports-Gaming Revenue Machine

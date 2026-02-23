@@ -1,3 +1,68 @@
+---
+company: grab
+company_display: Grab
+role: super-app-platform-engineer
+role_display: Super-App Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 120000
+    base_high: 190000
+    stock_low: 50000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 280000
+    currency: USD
+  - region: Seattle / Bay Area (US)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 65000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 340000
+    currency: USD
+  - region: Jakarta
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 1200000
+    stock_high: 3500000
+    bonus_pct: 10
+    total_comp_low: 4000000
+    total_comp_high: 7500000
+    currency: INR
+  - region: "Beijing (R&D)"
+    base_low: 400000
+    base_high: 700000
+    stock_low: 150000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 550000
+    total_comp_high: 1000000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "Super-App Platform Engineer at Grab (L5-L7) = L4-L5 at Google, IC4-IC5 at Meta, SDE II-Senior at Amazon, equivalent Uber/DoorDash senior roles"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$14B market cap as Southeast Asia's leading super-app + Rides, food delivery, payments, financial services in one platform + Singapore HQ with competitive comp + US engineering presence | Grab platform engineers build the infrastructure powering 40M+ monthly transacting users across 8 countries | **SUPER-APP PLATFORM PREMIUM**"
+---
 ### Super-App Platform Engineer | Grab Global Negotiation Guide
 
 **Negotiation DNA:** $14B market cap as Southeast Asia's leading super-app + Rides, food delivery, payments, financial services in one platform + Singapore HQ with competitive comp + US engineering presence | Grab platform engineers build the infrastructure powering 40M+ monthly transacting users across 8 countries | **SUPER-APP PLATFORM PREMIUM**

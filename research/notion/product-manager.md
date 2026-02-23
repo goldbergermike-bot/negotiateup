@@ -1,3 +1,48 @@
+---
+company: notion
+company_display: Notion
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 250000
+    stock_low: 240000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 310000
+    total_comp_high: 440000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 245000
+    stock_low: 235000
+    stock_high: 390000
+    bonus_pct: 15
+    total_comp_low: 302000
+    total_comp_high: 428000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 168000
+    stock_low: 158000
+    stock_high: 265000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 290000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Notion PM (L4-L6) = Google PM L5-L7 = Meta PM E5-E7 = Figma PM = Coda PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI Workspace Product Strategy | 100M+ Users | **NOTION AI PREMIUM**"
+---
 ### Product Manager | Notion Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI Workspace Product Strategy | 100M+ Users | **NOTION AI PREMIUM**

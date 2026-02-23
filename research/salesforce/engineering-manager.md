@@ -1,3 +1,50 @@
+---
+company: salesforce
+company_display: Salesforce
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 220000
+    base_high: 270000
+    stock_low: 300000
+    stock_high: 500000
+    bonus_pct: null
+    total_comp_low: 295000
+    total_comp_high: 395000
+    currency: USD
+  - region: Indianapolis
+    base_low: 195000
+    base_high: 245000
+    stock_low: 260000
+    stock_high: 430000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 353000
+    currency: USD
+  - region: Hyderabad
+    base_low: 4500000
+    base_high: 6500000
+    stock_low: 3500000
+    stock_high: 5500000
+    bonus_pct: null
+    total_comp_low: 8000000
+    total_comp_high: 12000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Salesforce EM (M1) = Google L5 Manager = Meta M1 = Stripe EM
+data_sources:
+  - Levels.fyi
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Agentforce Consumption Inflection"
+---
 ### Engineering Manager | Salesforce Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Agentforce Consumption Inflection

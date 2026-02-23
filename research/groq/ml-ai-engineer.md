@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 185000
+    base_high: 238000
+    stock_low: 40000
+    stock_high: 72000
+    bonus_pct: 8
+    total_comp_low: 235000
+    total_comp_high: 328000
+    currency: USD
+  - region: San Diego
+    base_low: 172000
+    base_high: 222000
+    stock_low: 36000
+    stock_high: 65000
+    bonus_pct: 8
+    total_comp_low: 220000
+    total_comp_high: 308000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 210000
+    stock_low: 32000
+    stock_high: 58000
+    bonus_pct: 8
+    total_comp_low: 205000
+    total_comp_high: 288000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq ML/AI Engineer ≈ Google ML Engineer L4–L5 · Meta ML Engineer E4–E5 · Amazon Applied Scientist II–III · NVIDIA ML/CUDA Engineer · Anthropic Research Engineer · Cerebras ML Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | +15-25% AI Premium"
+---
 ### ML/AI Engineer | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | +15-25% AI Premium

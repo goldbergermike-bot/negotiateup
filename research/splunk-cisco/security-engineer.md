@@ -1,3 +1,47 @@
+---
+company: splunk-cisco
+company_display: Splunk (Cisco)
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 365000
+    currency: USD
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 178000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Security Engineers at Splunk (Cisco) build the detection, response, and AgenticOps capabilities at the core of Visibility-to-Remediation, commanding premium compensation as the domain experts who ensure autonomous security systems are both effective and safe."
+---
 ### Security Engineer — Splunk (Cisco) Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at Splunk (Cisco) build the detection, response, and AgenticOps capabilities at the core of Visibility-to-Remediation, commanding premium compensation as the domain experts who ensure autonomous security systems are both effective and safe.

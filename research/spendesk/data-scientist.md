@@ -1,3 +1,53 @@
+---
+company: spendesk
+company_display: Spendesk
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 58000
+    base_high: 88000
+    stock_low: 20000
+    stock_high: 55000
+    bonus_low: 6000
+    bonus_high: 14000
+    total_comp_low: 84000
+    total_comp_high: 157000
+    currency: EUR
+  - region: London
+    base_low: 60000
+    base_high: 92000
+    stock_low: 18000
+    stock_high: 48000
+    bonus_low: 6000
+    bonus_high: 14000
+    total_comp_low: 84000
+    total_comp_high: 154000
+    currency: GBP
+  - region: Berlin
+    base_low: 60000
+    base_high: 90000
+    stock_low: 19000
+    stock_high: 52000
+    bonus_low: 6000
+    bonus_high: 12000
+    total_comp_low: 85000
+    total_comp_high: 154000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Spendesk | Google | Meta | Stripe | Pleo | Brex |"
+data_sources:
+  - Crunchbase
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `Data Science` `Analytics`"
+---
 ### Data Scientist | Spendesk Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Zero-Human Audit` `Agentic Integrity` `EU FinTech` `Spend Management` `Compliance Sovereignty` `Series C+` `BSPCE Options` `Data Science` `Analytics`

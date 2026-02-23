@@ -1,3 +1,50 @@
+---
+company: kkr
+company_display: KKR
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 172000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 24
+    total_comp_low: 295000
+    total_comp_high: 425000
+    currency: USD
+  - region: San Francisco
+    base_low: 178000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 24
+    total_comp_low: 305000
+    total_comp_high: 440000
+    currency: USD
+  - region: London
+    base_low: 133000
+    base_high: 167000
+    stock_low: 105000
+    stock_high: 170000
+    bonus_low: 33000
+    bonus_high: 50000
+    total_comp_low: 271000
+    total_comp_high: 387000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#HighGrading` `#ValueCreation` `#OperationalAlpha` `#PortfolioSecurity` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#CyberRiskAlpha`"
+---
 ### Security Engineer | KKR Global Negotiation Guide
 
 **Negotiation DNA:** `#HighGrading` `#ValueCreation` `#OperationalAlpha` `#PortfolioSecurity` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#CyberRiskAlpha`

@@ -1,3 +1,48 @@
+---
+company: elastic
+company_display: Elastic
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 162000
+    base_high: 200000
+    stock_low: 152000
+    stock_high: 255000
+    bonus_pct: 5
+    total_comp_low: 195000
+    total_comp_high: 262000
+    currency: USD
+  - region: Amsterdam
+    base_low: 68000
+    base_high: 85000
+    stock_low: 60000
+    stock_high: 102000
+    bonus_pct: 5
+    total_comp_low: 80000
+    total_comp_high: 108000
+    currency: EUR
+  - region: Bangalore
+    base_low: 3500000
+    base_high: 5500000
+    stock_low: 2500000
+    stock_high: 4200000
+    bonus_pct: 5
+    total_comp_low: 4500000
+    total_comp_high: 6800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Elastic Senior DE = Google L4 DE = MongoDB Senior DE = Confluent Senior DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Small Bonus | \"Battle for the AI Data Layer\" | ESRE Premium"
+---
 ### Data Engineer | Elastic Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Small Bonus | "Battle for the AI Data Layer" | ESRE Premium

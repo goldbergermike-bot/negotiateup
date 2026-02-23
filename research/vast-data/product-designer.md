@@ -1,3 +1,49 @@
+---
+company: vast-data
+company_display: Vast Data
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 125000
+    base_high: 155000
+    stock_low: 18000
+    stock_high: 40000
+    bonus_pct: 5
+    total_comp_low: 155000
+    total_comp_high: 218000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: 15000
+    stock_high: 35000
+    bonus_pct: 5
+    total_comp_low: 145000
+    total_comp_high: 200000
+    currency: USD
+  - region: Remote US
+    base_low: 118000
+    base_high: 148000
+    stock_low: 18000
+    stock_high: 40000
+    bonus_pct: 5
+    total_comp_low: 148000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Vast Data Product Designer = Google L4–L5 UX / Meta Product Designer (IC4–IC5) / Amazon Sr. UX Designer / Microsoft Designer 2 / Apple HI Designer"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Design Premium"
+---
 ### Product Designer | Vast Data Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Design Premium

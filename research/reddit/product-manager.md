@@ -1,3 +1,49 @@
+---
+company: reddit
+company_display: Reddit
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 232000
+    stock_low: 128000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 312000
+    currency: USD
+  - region: New York
+    base_low: 192000
+    base_high: 238000
+    stock_low: 128000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 322000
+    currency: USD
+  - region: Remote US
+    base_low: 175000
+    base_high: 222000
+    stock_low: 128000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 302000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Reddit PM (L5) = Google L5 PM = Meta IC5 PM = Amazon L5 PM = Microsoft 62-63 PM
+data_sources:
+  - Reddit
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth"
+---
 ### Product Manager | Reddit Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Community Platform & Digital Advertising | $1B Share Buyback (Feb 2026) | Post-IPO Growth

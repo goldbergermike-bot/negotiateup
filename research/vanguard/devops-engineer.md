@@ -1,3 +1,52 @@
+---
+company: vanguard
+company_display: Vanguard
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Malvern, PA (HQ)"
+    base_low: 115000
+    base_high: 158000
+    stock_low: null
+    stock_high: null
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 158000
+    total_comp_high: 228000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 109000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_low: 17000
+    bonus_high: 30000
+    total_comp_low: 150000
+    total_comp_high: 217000
+    currency: USD
+  - region: "Scottsdale, AZ"
+    base_low: 109000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_low: 17000
+    bonus_high: 30000
+    total_comp_low: 150000
+    total_comp_high: 217000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Comparably
+negotiation_dna_summary: "`AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Cloud Infrastructure` `CI/CD Pipeline` `Platform Reliability`"
+---
 ### DevOps Engineer | Vanguard Global Negotiation Guide
 
 **Negotiation DNA:** `AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Cloud Infrastructure` `CI/CD Pipeline` `Platform Reliability`

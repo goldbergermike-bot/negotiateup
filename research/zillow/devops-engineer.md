@@ -1,3 +1,48 @@
+---
+company: zillow
+company_display: Zillow
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 140000
+    base_high: 182000
+    stock_low: 140000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 252000
+    currency: USD
+  - region: San Francisco
+    base_low: 151000
+    base_high: 196000
+    stock_low: 151000
+    stock_high: 237000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 272000
+    currency: USD
+  - region: Remote US
+    base_low: 126000
+    base_high: 164000
+    stock_low: 126000
+    stock_high: 198000
+    bonus_pct: 15
+    total_comp_low: 167000
+    total_comp_high: 227000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zillow DevOps Engineer = Google Site Reliability Engineer L4–L5 = Redfin DevOps Engineer = Opendoor Infrastructure Engineer = Amazon Systems Engineer = Meta Production Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep"
+---
 ### DevOps Engineer | Zillow Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep

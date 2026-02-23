@@ -1,3 +1,48 @@
+---
+company: databricks-unity
+company_display: Databricks Unity
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 252000
+    stock_low: 215000
+    stock_high: 375000
+    bonus_pct: 15
+    total_comp_low: 298000
+    total_comp_high: 418000
+    currency: USD
+  - region: New York
+    base_low: 202000
+    base_high: 258000
+    stock_low: 215000
+    stock_high: 375000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 425000
+    currency: USD
+  - region: London
+    base_low: 132000
+    base_high: 172000
+    stock_low: 142000
+    stock_high: 248000
+    bonus_pct: 15
+    total_comp_low: 202000
+    total_comp_high: 285000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Databricks PM (L4-L5) = Snowflake PM = Google PM L5 = Meta PM IC5 = Amazon PM L6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Product Manager | Databricks Unity Global Negotiation Guide
 
 **Negotiation DNA:** Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**

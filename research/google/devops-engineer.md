@@ -1,3 +1,70 @@
+---
+company: google
+company_display: Google
+role: devops-engineer
+role_display: Site Reliability Engineer (SRE)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 170000
+    base_high: 260000
+    stock_low: 180000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 450000
+    currency: USD
+  - region: New York City
+    base_low: 165000
+    base_high: 255000
+    stock_low: 170000
+    stock_high: 460000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 435000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 160000
+    base_high: 245000
+    stock_low: 165000
+    stock_high: 450000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 420000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 175000
+    stock_low: 110000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 170000
+    total_comp_high: 320000
+    currency: GBP
+  - region: Sydney
+    base_low: 160000
+    base_high: 240000
+    stock_low: 140000
+    stock_high: 350000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 400000
+    currency: USD
+level_mapping:
+  internal: SRE
+  raw: "SRE at Google (L4-L5) = Production Engineer at Meta (E4-E5), SDE/SRE at Amazon (L5-L6), SRE at Microsoft (L62-L64), Infrastructure Engineer at Netflix (Senior-Staff), Platform Engineer at Stripe (L3-L4)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Google invented SRE as a discipline + Mission-critical uptime for Search/Cloud/YouTube + Premium over standard SWE bands | Google SRE is the gold standard credential | **SRE ORIGINATOR PREMIUM**"
+---
 ### Site Reliability Engineer (SRE) | Google Global Negotiation Guide
 
 **Negotiation DNA:** Google invented SRE as a discipline + Mission-critical uptime for Search/Cloud/YouTube + Premium over standard SWE bands | Google SRE is the gold standard credential | **SRE ORIGINATOR PREMIUM**

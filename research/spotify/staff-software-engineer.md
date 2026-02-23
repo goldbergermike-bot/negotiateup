@@ -1,3 +1,48 @@
+---
+company: spotify
+company_display: Spotify
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 242000
+    base_high: 305000
+    stock_low: 298000
+    stock_high: 518000
+    bonus_pct: 15
+    total_comp_low: 316000
+    total_comp_high: 435000
+    currency: USD
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 182000
+    base_high: 229000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 237000
+    total_comp_high: 326000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Spotify Staff SWE = Google L5 = Meta E5 = Netflix Senior SWE (top band) = Apple ICT4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Audio Ecosystem Leader | $11B Creator Payout"
+---
 ### Staff Software Engineer | Spotify Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Audio Ecosystem Leader | $11B Creator Payout

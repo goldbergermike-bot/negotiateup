@@ -1,3 +1,38 @@
+---
+company: sentinelone
+company_display: SentinelOne
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 410000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 82000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "You build the machine learning and AI systems at the heart of the Autonomous Defense platform — your models, inference pipelines, and AI architecture directly power Purple AI and the Singularity detection engine that defines SentinelOne's competitive advantage."
+---
 ### ML/AI Engineer — SentinelOne Salary Negotiation Guide
 
 **Negotiation DNA**: You build the machine learning and AI systems at the heart of the Autonomous Defense platform — your models, inference pipelines, and AI architecture directly power Purple AI and the Singularity detection engine that defines SentinelOne's competitive advantage.

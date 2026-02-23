@@ -1,3 +1,45 @@
+---
+company: microsoft
+company_display: Microsoft
+role: staff-software-engineer
+role_display: Staff Software Engineer (Principal)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Principal SWE
+    base_low: 195000
+    base_high: 250000
+    stock_low: 250000
+    stock_high: 450000
+    bonus_pct: 20
+    signing_bonus_low: 40000
+    signing_bonus_high: 80000
+    total_comp_low: 350000
+    total_comp_high: 480000
+    currency: USD
+  - region: Principal SWE (Senior)
+    base_low: 230000
+    base_high: 280000
+    stock_low: 350000
+    stock_high: 600000
+    bonus_pct: 20
+    signing_bonus_low: 50000
+    signing_bonus_high: 100000
+    total_comp_low: 420000
+    total_comp_high: 560000
+    currency: USD
+level_mapping:
+  internal: Principal
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: null
+---
 # Staff Software Engineer (Principal) - Microsoft Negotiation Guide
 
 ## Role Overview

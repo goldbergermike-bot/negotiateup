@@ -1,3 +1,48 @@
+---
+company: elastic
+company_display: Elastic
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 205000
+    stock_low: 148000
+    stock_high: 248000
+    bonus_pct: 5
+    total_comp_low: 195000
+    total_comp_high: 262000
+    currency: USD
+  - region: Amsterdam
+    base_low: 68000
+    base_high: 88000
+    stock_low: 58000
+    stock_high: 100000
+    bonus_pct: 5
+    total_comp_low: 80000
+    total_comp_high: 108000
+    currency: EUR
+  - region: Bangalore
+    base_low: 3800000
+    base_high: 5800000
+    stock_low: 2800000
+    stock_high: 4500000
+    bonus_pct: 5
+    total_comp_low: 4800000
+    total_comp_high: 7200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Elastic Senior SA = Google Customer Engineer = MongoDB Senior SA = Datadog Senior SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Small Bonus | \"Battle for the AI Data Layer\" | ESRE Premium"
+---
 ### Solutions Architect | Elastic Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Small Bonus | "Battle for the AI Data Layer" | ESRE Premium

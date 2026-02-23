@@ -1,3 +1,48 @@
+---
+company: hashicorp
+company_display: HashiCorp
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 340000
+    currency: USD
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 310000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 172000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: DevOps Engineers at HashiCorp are practitioner-builders who bring real-world Terraform and Vault expertise into the IBM Software Security by Default platform — bridging the gap between product development and enterprise deployment.
+---
 ### DevOps Engineer — HashiCorp (IBM) Salary Negotiation Guide
 
 **Negotiation DNA**: DevOps Engineers at HashiCorp are practitioner-builders who bring real-world Terraform and Vault expertise into the IBM Software Security by Default platform — bridging the gap between product development and enterprise deployment.

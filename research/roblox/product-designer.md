@@ -1,3 +1,48 @@
+---
+company: roblox
+company_display: Roblox
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo
+    base_low: 140000
+    base_high: 180000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 248000
+    currency: USD
+  - region: New York
+    base_low: 135000
+    base_high: 175000
+    stock_low: 115000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 240000
+    currency: USD
+  - region: Remote US
+    base_low: 125000
+    base_high: 165000
+    stock_low: 105000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 222000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Roblox Product Designer (IC2-IC5) = Google UX L3-L6 = Meta Product Designer 4-7 = Amazon UX Designer = Apple HI Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**"
+---
 ### Product Designer | Roblox Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**

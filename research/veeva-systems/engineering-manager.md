@@ -1,3 +1,48 @@
+---
+company: veeva-systems
+company_display: Veeva Systems
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Pleasanton
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 460000
+    currency: USD
+  - region: Boston / East Coast
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 425000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 90000
+    total_comp_high: 210000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Engineering Managers at Veeva Systems lead teams building the Vault platform — the regulatory-grade life sciences cloud that powers the world's largest pharmaceutical companies and anchors a $35B market cap."
+---
 ### Engineering Manager — Veeva Systems Salary Negotiation Guide
 
 **Negotiation DNA**: Engineering Managers at Veeva Systems lead teams building the Vault platform — the regulatory-grade life sciences cloud that powers the world's largest pharmaceutical companies and anchors a $35B market cap.

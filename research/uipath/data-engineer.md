@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 148000
+    base_high: 202000
+    stock_low: 58000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 280000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 130000
+    base_high: 178000
+    stock_low: 42000
+    stock_high: 122000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 240000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 42000
+    base_high: 72000
+    stock_low: 15000
+    stock_high: 42000
+    bonus_pct: 10
+    total_comp_low: 52000
+    total_comp_high: 92000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 68000
+    base_high: 102000
+    stock_low: 25000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 88000
+    total_comp_high: 140000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2000000
+    base_high: 3800000
+    stock_low: 800000
+    stock_high: 2500000
+    bonus_pct: 10
+    total_comp_low: 2600000
+    total_comp_high: 5000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath IC2/IC3 ~ Microsoft 61/62 DE | Google L4/L5 DE | Automation Anywhere Senior/Staff | Celonis Senior/Staff"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Automation data pipeline architect | Process mining & AI training data infrastructure | **DATA PLATFORM PREMIUM**"
+---
 ### Data Engineer | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** Automation data pipeline architect | Process mining & AI training data infrastructure | **DATA PLATFORM PREMIUM**

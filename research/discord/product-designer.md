@@ -1,3 +1,48 @@
+---
+company: discord
+company_display: Discord
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 142000
+    base_high: 180000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 238000
+    currency: USD
+  - region: New York
+    base_low: 138000
+    base_high: 175000
+    stock_low: 75000
+    stock_high: 142000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 228000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 162000
+    stock_low: 68000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 212000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Discord Product Designer = Google UX Designer L4 = Meta Product Designer (IC4) = Amazon UX Designer III = Apple Designer 3 = Figma Product Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Design-Driven Subscription Conversion"
+---
 ### Product Designer | Discord Global Negotiation Guide
 
 **Negotiation DNA:** Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Design-Driven Subscription Conversion

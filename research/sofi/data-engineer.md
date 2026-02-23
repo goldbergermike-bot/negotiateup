@@ -1,3 +1,48 @@
+---
+company: sofi
+company_display: SoFi
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 138000
+    base_high: 172000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 258000
+    currency: USD
+  - region: New York / Salt Lake City
+    base_low: 125000
+    base_high: 158000
+    stock_low: 105000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 235000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 148000
+    stock_low: 90000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 152000
+    total_comp_high: 215000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$185K-$258K TC (SF)` | `LTV Accelerator` | `Financial Data Platform` | `NASDAQ: SOFI`"
+---
 ### Data Engineer | SoFi Global Negotiation Guide
 
 **Negotiation DNA:** `$185K-$258K TC (SF)` | `LTV Accelerator` | `Financial Data Platform` | `NASDAQ: SOFI`

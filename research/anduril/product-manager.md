@@ -1,3 +1,39 @@
+---
+company: anduril
+company_display: Anduril
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Costa Mesa, CA"
+    base_low: 165000
+    base_high: 220000
+    stock_low: 110000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 385000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 165000
+    base_high: 220000
+    stock_low: 110000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Anduril PM = Google L5 PM = Palantir Forward Deployed PM -- with hardware-software integration and military customer interaction
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense AI/Autonomy | High-Intensity Culture"
+---
 ### Product Manager | Anduril Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense AI/Autonomy | High-Intensity Culture

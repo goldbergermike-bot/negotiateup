@@ -1,3 +1,48 @@
+---
+company: nvidia
+company_display: Nvidia
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 192000
+    base_high: 242000
+    stock_low: 172000
+    stock_high: 302000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 345000
+    currency: USD
+  - region: Seattle
+    base_low: 188000
+    base_high: 238000
+    stock_low: 172000
+    stock_high: 302000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 342000
+    currency: USD
+  - region: Remote US
+    base_low: 182000
+    base_high: 232000
+    stock_low: 172000
+    stock_high: 302000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 335000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: NVIDIA Data Eng (IC2-IC3) = Google L4-L5 DE = Meta Data Eng = Apple Data Eng = AMD Data Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule"
+---
 ### Data Engineer | NVIDIA Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI Compute & GPU Platform | Rubin Platform Transition | 40/30/20/10 Vesting Schedule

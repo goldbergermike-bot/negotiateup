@@ -1,3 +1,48 @@
+---
+company: netflix
+company_display: Netflix
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 208000
+    base_high: 262000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 208000
+    total_comp_high: 262000
+    currency: USD
+  - region: San Francisco
+    base_low: 214000
+    base_high: 270000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 214000
+    total_comp_high: 270000
+    currency: USD
+  - region: London
+    base_low: 159000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 159000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Netflix TPM = Google TPM L5-L6 = Meta TPM (IC5-IC6) = Amazon Sr. TPM / Principal TPM = Apple TPM = Microsoft TPM 63-65
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture"
+---
 ### Technical Program Manager | Netflix Global Negotiation Guide
 
 **Negotiation DNA:** All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture

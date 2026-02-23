@@ -1,3 +1,50 @@
+---
+company: t-mobile
+company_display: T-Mobile
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bellevue / Seattle
+    base_low: 130000
+    base_high: 185000
+    stock_low: 48000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 268000
+    currency: USD
+  - region: NYC / San Francisco
+    base_low: 135000
+    base_high: 190000
+    stock_low: 52000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+  - region: Dallas / Denver
+    base_low: 122000
+    base_high: 175000
+    stock_low: 40000
+    stock_high: 132000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: T-Mobile DevOps Engineer (L4-L6) = Google L3-L5 SRE = Amazon SDE II-III (Infrastructure) = Microsoft 60-63
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$250B 5G Leader | Network + Platform Infrastructure | 5G-Scale Reliability"
+---
 ### DevOps Engineer | T-Mobile Global Negotiation Guide
 
 **Negotiation DNA:** $250B 5G Leader | Network + Platform Infrastructure | 5G-Scale Reliability

@@ -1,3 +1,32 @@
+---
+company: two-sigma
+company_display: Two Sigma
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 175000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_low: 140000
+    bonus_high: 368000
+    total_comp_low: 315000
+    total_comp_high: 613000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "TPM at Two Sigma = L6-L7 TPM at Google, E6-E7 TPM at Meta, Principal TPM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 80-150%+ | Two Sigma TPMs coordinate programs for elite engineering teams | **ELITE QUANT TPM PREMIUM**"
+---
 ### Technical Program Manager | Two Sigma Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 80-150%+ | Two Sigma TPMs coordinate programs for elite engineering teams | **ELITE QUANT TPM PREMIUM**

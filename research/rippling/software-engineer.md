@@ -1,3 +1,48 @@
+---
+company: rippling
+company_display: Rippling
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 210000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 312000
+    currency: USD
+  - region: New York
+    base_low: 162000
+    base_high: 208000
+    stock_low: 138000
+    stock_high: 255000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 308000
+    currency: USD
+  - region: Remote US
+    base_low: 152000
+    base_high: 195000
+    stock_low: 128000
+    stock_high: 238000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 288000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rippling SWE (IC2-IC3) = Gusto SWE = Workday SWE = ADP SWE = Google L3-L4 = Meta E3-E4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **WORKFORCE AUTOMATION PREMIUM**"
+---
 ### Software Engineer | Rippling Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **WORKFORCE AUTOMATION PREMIUM**

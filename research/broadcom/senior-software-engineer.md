@@ -1,3 +1,48 @@
+---
+company: broadcom
+company_display: Broadcom
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose (USD)
+    base_low: 165000
+    base_high: 210000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 222000
+    total_comp_high: 322000
+    currency: USD
+  - region: Singapore (SGD S$)
+    base_low: 135000
+    base_high: 175000
+    stock_low: 145000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 268000
+    currency: SGD
+  - region: London (GBP £)
+    base_low: 100000
+    base_high: 138000
+    stock_low: 108000
+    stock_high: 195000
+    bonus_pct: 15
+    total_comp_low: 135000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Broadcom Senior Software Engineer (IC4) = VMware Staff II Engineer = Google L5 = NVIDIA Senior Software Engineer = Microsoft Senior SDE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp"
+---
 ### Senior Software Engineer | Broadcom Global Negotiation Guide
 
 **Negotiation DNA:** Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp

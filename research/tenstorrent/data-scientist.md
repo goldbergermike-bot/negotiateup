@@ -1,3 +1,48 @@
+---
+company: tenstorrent
+company_display: Tenstorrent
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 135000
+    base_high: 178000
+    stock_low: 45000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 288000
+    currency: CAD
+  - region: Austin
+    base_low: 128000
+    base_high: 170000
+    stock_low: 38000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 262000
+    currency: USD
+  - region: Remote US
+    base_low: 120000
+    base_high: 165000
+    stock_low: 35000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Tenstorrent Data Scientist ~ Google L4 DS | Meta D4 | Apple Data Scientist IC3 | AMD Senior Data Scientist | Intel Data Scientist III"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "[Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | +10% AI Data Premium"
+---
 ### Data Scientist | Tenstorrent Global Negotiation Guide
 
 **Negotiation DNA:** [Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | +10% AI Data Premium

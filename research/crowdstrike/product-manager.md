@@ -1,3 +1,48 @@
+---
+company: crowdstrike
+company_display: CrowdStrike
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 355000
+    currency: USD
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 395000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 178000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Product Managers at CrowdStrike define the roadmap for the Agentic Security Platform and translate the Orchestrators of the Agentic SOC vision into shipped products that protect enterprises worldwide.
+---
 ### Product Manager — CrowdStrike Salary Negotiation Guide
 
 **Negotiation DNA**: Product Managers at CrowdStrike define the roadmap for the Agentic Security Platform and translate the Orchestrators of the Agentic SOC vision into shipped products that protect enterprises worldwide.

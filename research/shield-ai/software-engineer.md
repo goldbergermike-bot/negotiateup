@@ -1,3 +1,39 @@
+---
+company: shield-ai
+company_display: Shield Ai
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Diego, CA"
+    base_low: 140000
+    base_high: 195000
+    stock_low: 60000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 300000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 135000
+    base_high: 190000
+    stock_low: 60000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shield AI SWE = Google L3-L4 = Mid-tier defense tech startup SWE -- with autonomy domain and clearance potential
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | AI-Powered Defense Drones | Startup Intensity"
+---
 ### Software Engineer | Shield AI Global Negotiation Guide
 
 **Negotiation DNA:** Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | AI-Powered Defense Drones | Startup Intensity

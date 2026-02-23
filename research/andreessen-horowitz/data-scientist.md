@@ -1,3 +1,52 @@
+---
+company: andreessen-horowitz
+company_display: Andreessen Horowitz
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 232000
+    base_high: 305000
+    stock_low: null
+    stock_high: null
+    bonus_low: 166000
+    bonus_high: 270000
+    total_comp_low: 398000
+    total_comp_high: 575000
+    currency: USD
+  - region: San Francisco
+    base_low: 226000
+    base_high: 298000
+    stock_low: null
+    stock_high: null
+    bonus_low: 160000
+    bonus_high: 262000
+    total_comp_low: 386000
+    total_comp_high: 560000
+    currency: USD
+  - region: New York
+    base_low: 220000
+    base_high: 290000
+    stock_low: null
+    stock_high: null
+    bonus_low: 155000
+    bonus_high: 255000
+    total_comp_low: 375000
+    total_comp_high: 545000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "`$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Investment Analytics` `Portfolio Intelligence` `Quantitative Research`"
+---
 ### Data Scientist | Andreessen Horowitz Global Negotiation Guide
 
 **Negotiation DNA:** `$15B Fund` `American Dynamism` `Intelligence Cost Collapse` `Private Partnership` `Carry Eligible` `$42B+ AUM` `Investment Analytics` `Portfolio Intelligence` `Quantitative Research`

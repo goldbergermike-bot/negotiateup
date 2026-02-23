@@ -1,3 +1,50 @@
+---
+company: nium
+company_display: Nium
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 160000
+    base_high: 240000
+    stock_low: 120000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 280000
+    total_comp_high: 490000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 210000
+    base_high: 290000
+    stock_low: 150000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 360000
+    total_comp_high: 590000
+    currency: USD
+  - region: London (GBP)
+    base_low: 100000
+    base_high: 155000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 315000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into an engineering management compensation framework spanning Singapore, San Francisco, and London markets. As an Engineering Manager at Nium, you are responsible for building and leading the teams that will execute the Reimagined Infrastructure vision — hiring, retaining, and developing the engineers who construct programmable money rails at global scale."
+---
 ### Engineering Manager — Nium Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into an engineering management compensation framework spanning Singapore, San Francisco, and London markets. As an Engineering Manager at Nium, you are responsible for building and leading the teams that will execute the Reimagined Infrastructure vision — hiring, retaining, and developing the engineers who construct programmable money rails at global scale.

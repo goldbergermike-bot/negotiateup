@@ -1,3 +1,50 @@
+---
+company: citigroup
+company_display: Citigroup
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 148000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 198000
+    total_comp_high: 305000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 140000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 135000
+    total_comp_high: 215000
+    currency: GBP
+  - region: Singapore
+    base_low: 130000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 175000
+    total_comp_high: 275000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: "Senior SWE at Citi (VP) = L5 at Google, E5 at Meta, SDE III at Amazon, Senior at Capital One, VP at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$130B market cap global bank + Engineering across consumer, institutional, and treasury + NYC HQ competitive hiring + Traditional bonus culture | Citi senior SWEs build global-scale banking platforms | **GLOBAL PLATFORM PREMIUM**"
+---
 ### Senior Software Engineer | Citigroup Global Negotiation Guide
 
 **Negotiation DNA:** $130B market cap global bank + Engineering across consumer, institutional, and treasury + NYC HQ competitive hiring + Traditional bonus culture | Citi senior SWEs build global-scale banking platforms | **GLOBAL PLATFORM PREMIUM**

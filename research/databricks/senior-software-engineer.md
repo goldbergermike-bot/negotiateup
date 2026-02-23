@@ -1,3 +1,48 @@
+---
+company: databricks
+company_display: Databricks
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 212000
+    base_high: 268000
+    stock_low: 232000
+    stock_high: 408000
+    bonus_pct: 15
+    total_comp_low: 312000
+    total_comp_high: 442000
+    currency: USD
+  - region: New York
+    base_low: 218000
+    base_high: 275000
+    stock_low: 232000
+    stock_high: 408000
+    bonus_pct: 15
+    total_comp_low: 318000
+    total_comp_high: 448000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 262000
+    stock_low: 232000
+    stock_high: 408000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 435000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Databricks Sr SWE (L4) = Snowflake Sr SWE = Google L5 = Meta E5 = Amazon L6 = Microsoft 63
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Senior Software Engineer | Databricks Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**

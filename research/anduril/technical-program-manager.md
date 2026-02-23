@@ -1,3 +1,39 @@
+---
+company: anduril
+company_display: Anduril
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Costa Mesa, CA"
+    base_low: 165000
+    base_high: 220000
+    stock_low: 110000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 385000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 165000
+    base_high: 220000
+    stock_low: 110000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 385000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Anduril TPM = Google L5-L6 TPM = Amazon Senior TPM -- with defense compliance, hardware-software coordination, and military customer delivery"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense Program Delivery/Multi-Domain | High-Intensity Culture"
+---
 ### Technical Program Manager | Anduril Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense Program Delivery/Multi-Domain | High-Intensity Culture

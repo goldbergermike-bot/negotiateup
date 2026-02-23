@@ -1,3 +1,48 @@
+---
+company: chime
+company_display: Chime
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 152000
+    base_high: 175000
+    stock_low: 98000
+    stock_high: 138000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 215000
+    currency: USD
+  - region: Chicago
+    base_low: 145000
+    base_high: 168000
+    stock_low: 85000
+    stock_high: 125000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 198000
+    currency: USD
+  - region: Remote US
+    base_low: 138000
+    base_high: 162000
+    stock_low: 78000
+    stock_high: 118000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 188000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chime Designer (D2-D3) = Cash App Designer = Google UX L4-L5 = Meta Product Designer (IC4-IC5) = Amazon UX Designer II-III = SoFi Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | **INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**"
+---
 ### Product Designer | Chime Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | **INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**

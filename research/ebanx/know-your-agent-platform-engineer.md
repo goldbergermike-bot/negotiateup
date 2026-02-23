@@ -1,3 +1,51 @@
+---
+company: ebanx
+company_display: Ebanx
+role: know-your-agent-platform-engineer
+role_display: Know Your Agent Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Curitiba
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: São Paulo
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Austin TX
+    base_low: 185000
+    base_high: 260000
+    stock_low: 65000
+    stock_high: 150000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 272000
+    total_comp_high: 452000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| EBANX | Google | Meta | Stripe | dLocal | Nubank |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "`Private ($3.5B valuation)` `Agentic Commerce` `LatAm Payments` `Pix Integration` `Beyond Borders 2026` `Know Your Agent` `KYA Platform` `Agent Identity` `Delegation Chains` `Autonomous Transaction Verification` `Cross-Border Compliance` `Greenfield Platform`"
+---
 ### Know Your Agent Platform Engineer | EBANX Global Negotiation Guide
 
 > **SIGNATURE ROLE** — This is the defining role of EBANX's agentic commerce era. This guide is extended to reflect the strategic importance and unique negotiation dynamics of the KYA Platform Engineer position.

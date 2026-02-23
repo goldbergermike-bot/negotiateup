@@ -1,3 +1,48 @@
+---
+company: accenture
+company_display: Accenture
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 110000
+    base_high: 155000
+    stock_low: 25000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 137000
+    total_comp_high: 243000
+    currency: USD
+  - region: San Francisco
+    base_low: 115000
+    base_high: 160000
+    stock_low: 28000
+    stock_high: 70000
+    bonus_pct: 10
+    total_comp_low: 142000
+    total_comp_high: 254000
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 110000
+    stock_low: 12000
+    stock_high: 35000
+    bonus_pct: 10
+    total_comp_low: 95000
+    total_comp_high: 162000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Accenture Analyst / Consultant (Design) = Google L3-L4 UX = Meta IC3-IC4 Designer = Deloitte Consultant (Design)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + RSU Grants + Bonus (10-15%) | Accenture Song (Interactive) Design Practice"
+---
 ### Product Designer | Accenture Global Negotiation Guide
 
 **Negotiation DNA:** Base + RSU Grants + Bonus (10-15%) | Accenture Song (Interactive) Design Practice

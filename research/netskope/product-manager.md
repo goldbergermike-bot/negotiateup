@@ -1,3 +1,56 @@
+---
+company: netskope
+company_display: Netskope
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 170000
+    base_high: 210000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_pct: 12
+    signing_bonus_low: 20000
+    signing_bonus_high: 40000
+    total_comp_low: 235000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 115000
+    stock_low: 85000
+    stock_high: 160000
+    bonus_pct: 12
+    signing_bonus_low: 12000
+    signing_bonus_high: 22000
+    total_comp_low: 120000
+    total_comp_high: 175000
+    currency: GBP
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 4500000
+    stock_low: 2200000
+    stock_high: 4500000
+    bonus_pct: 12
+    signing_bonus_low: 400000
+    signing_bonus_high: 900000
+    total_comp_low: 4000000
+    total_comp_high: 6500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Product Manager (IC3) | Netskope Product Band 3 | Equivalent: Google L4 PM, Meta PM IC4, Palo Alto Networks PM3"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Post-IPO Cloud Security | UZTNA Product Strategy | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation"
+---
 ### Product Manager | Netskope Global Negotiation Guide
 
 **Negotiation DNA:** Post-IPO Cloud Security | UZTNA Product Strategy | $754M ARR & 34% Growth | RSU Equity (Public Stock) | Modernized Network Consolidation

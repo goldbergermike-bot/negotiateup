@@ -1,3 +1,56 @@
+---
+company: f5
+company_display: F5
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 175000
+    base_high: 215000
+    stock_low: 195000
+    stock_high: 365000
+    bonus_pct: 12
+    signing_bonus_low: 25000
+    signing_bonus_high: 60000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Jose
+    base_low: 185000
+    base_high: 225000
+    stock_low: 205000
+    stock_high: 380000
+    bonus_pct: 12
+    signing_bonus_low: 25000
+    signing_bonus_high: 60000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 102000
+    base_high: 132000
+    stock_low: 115000
+    stock_high: 215000
+    bonus_pct: 12
+    signing_bonus_low: 15000
+    signing_bonus_high: 38000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "- F5 Engineering Manager (M1–M2) = Google EM L6–L7 / Meta EM M1–M2 / Microsoft EM 64–66 / Amazon SDM L6–L7"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support"
+---
 ### Engineering Manager | F5 Global Negotiation Guide
 
 **Negotiation DNA:** F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support

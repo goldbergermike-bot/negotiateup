@@ -1,3 +1,48 @@
+---
+company: veeva-systems
+company_display: Veeva Systems
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Pleasanton
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 390000
+    currency: USD
+  - region: Boston / East Coast
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 355000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 60000
+    total_comp_high: 175000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "ML/AI Engineers at Veeva Systems build intelligent systems for the life sciences industry — where AI must meet FDA validation standards, pharmaceutical privacy requirements, and clinical accuracy thresholds that make this one of the most demanding AI engineering environments in the world."
+---
 ### ML/AI Engineer — Veeva Systems Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at Veeva Systems build intelligent systems for the life sciences industry — where AI must meet FDA validation standards, pharmaceutical privacy requirements, and clinical accuracy thresholds that make this one of the most demanding AI engineering environments in the world.

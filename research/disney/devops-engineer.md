@@ -1,3 +1,50 @@
+---
+company: disney
+company_display: Disney
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Burbank / Los Angeles
+    base_low: 135000
+    base_high: 190000
+    stock_low: 45000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 270000
+    currency: USD
+  - region: San Francisco / Seattle
+    base_low: 140000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 285000
+    currency: USD
+  - region: London (UK)
+    base_low: 100000
+    base_high: 142000
+    stock_low: 32000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 215000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Disney DevOps Engineer (IC2-IC4) = Google L3-L5 SRE = Amazon SDE II-III (Infrastructure) = Microsoft 60-63 = Meta E3-E5 Production Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$200B Entertainment-Tech Empire | Global Streaming + Parks Infrastructure | Platform Reliability at Entertainment Scale"
+---
 ### DevOps Engineer | Disney Global Negotiation Guide
 
 **Negotiation DNA:** $200B Entertainment-Tech Empire | Global Streaming + Parks Infrastructure | Platform Reliability at Entertainment Scale

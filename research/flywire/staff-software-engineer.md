@@ -1,3 +1,48 @@
+---
+company: flywire
+company_display: Flywire
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (USD)
+    base_low: 190000
+    base_high: 240000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: null
+    total_comp_low: 370000
+    total_comp_high: 560000
+    currency: USD
+  - region: New York (USD)
+    base_low: 200000
+    base_high: 255000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_pct: null
+    total_comp_low: 400000
+    total_comp_high: 615000
+    currency: USD
+  - region: London (GBP)
+    base_low: 115000
+    base_high: 155000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 335000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "This guide decodes Flywire's Invisible Pay transformation, translating the Feb 2026 David King predictions and Feb 3 Simovative partnership into a staff-level engineering compensation framework spanning Boston, New York, and London markets."
+---
 ### Staff Software Engineer — Flywire Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Flywire's Invisible Pay transformation, translating the Feb 2026 David King predictions and Feb 3 Simovative partnership into a staff-level engineering compensation framework spanning Boston, New York, and London markets.

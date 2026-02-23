@@ -1,3 +1,50 @@
+---
+company: cohere
+company_display: Cohere
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 195000
+    base_high: 248000
+    stock_low: 310000
+    stock_high: 545000
+    bonus_pct: null
+    total_comp_low: 282000
+    total_comp_high: 398000
+    currency: CAD
+  - region: San Francisco
+    base_low: 225000
+    base_high: 285000
+    stock_low: 310000
+    stock_high: 545000
+    bonus_pct: null
+    total_comp_low: 303000
+    total_comp_high: 421000
+    currency: USD
+  - region: London
+    base_low: 170000
+    base_high: 215000
+    stock_low: 310000
+    stock_high: 545000
+    bonus_pct: null
+    total_comp_low: 248000
+    total_comp_high: 350000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Cohere Staff SWE = Google L5 (Toronto/SF) = Meta E5 = Anthropic Senior SWE = Amazon SDE III / Principal = Apple ICT4-ICT5. In Toronto, this is the level where Google and Meta start making retention offers in the C$350K+ TC range. Cohere must compete with these guaranteed public-company packages, but your pre-IPO equity at a $5.5B+ valuation offers a fundamentally different risk/reward profile."
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty"
+---
 ### Staff Software Engineer | Cohere Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty

@@ -1,3 +1,48 @@
+---
+company: hashicorp
+company_display: HashiCorp
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 168000
+    total_comp_high: 370000
+    currency: USD
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 152000
+    total_comp_high: 338000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 82000
+    total_comp_high: 188000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "ML/AI Engineers at HashiCorp build intelligent systems that leverage Vault and Terraform telemetry to power predictive infrastructure management and Security by Default automation — bridging IBM's watsonx AI strategy with the IBM Software infrastructure platform."
+---
 ### ML/AI Engineer — HashiCorp (IBM) Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at HashiCorp build intelligent systems that leverage Vault and Terraform telemetry to power predictive infrastructure management and Security by Default automation — bridging IBM's watsonx AI strategy with the IBM Software infrastructure platform.

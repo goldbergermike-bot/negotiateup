@@ -1,3 +1,48 @@
+---
+company: anduril
+company_display: Anduril
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Costa Mesa, CA"
+    base_low: 195000
+    base_high: 250000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: 10
+    total_comp_low: 290000
+    total_comp_high: 510000
+    currency: USD
+  - region: "Seattle, WA"
+    base_low: 195000
+    base_high: 250000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: 10
+    total_comp_low: 290000
+    total_comp_high: 510000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 190000
+    base_high: 245000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: 10
+    total_comp_low: 285000
+    total_comp_high: 505000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Anduril Staff SWE = Google L6 = Meta E6 -- with defense architecture responsibility and IPO-trajectory equity
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense AI/Autonomy | High-Intensity Culture"
+---
 ### Staff Software Engineer | Anduril Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Defense Tech Equity + Mission Premium | $14B+ Private Valuation | Defense AI/Autonomy | High-Intensity Culture

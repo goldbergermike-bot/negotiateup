@@ -1,3 +1,48 @@
+---
+company: broadcom
+company_display: Broadcom
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose (USD)
+    base_low: 135000
+    base_high: 180000
+    stock_low: 110000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 172000
+    total_comp_high: 256000
+    currency: USD
+  - region: Singapore (SGD S$)
+    base_low: 110000
+    base_high: 148000
+    stock_low: 90000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 140000
+    total_comp_high: 212000
+    currency: SGD
+  - region: London (GBP £)
+    base_low: 82000
+    base_high: 118000
+    stock_low: 66000
+    stock_high: 135000
+    bonus_pct: 15
+    total_comp_low: 108000
+    total_comp_high: 168000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Broadcom Product Designer = VMware Senior UX Designer = Google L4-L5 UX Designer = NVIDIA Product Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp"
+---
 ### Product Designer | Broadcom Global Negotiation Guide
 
 **Negotiation DNA:** Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp

@@ -1,3 +1,52 @@
+---
+company: nuvei
+company_display: Nuvei
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montreal
+    base_low: 120000
+    base_high: 170000
+    stock_low: 35000
+    stock_high: 75000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 170000
+    total_comp_high: 275000
+    currency: CAD
+  - region: New York
+    base_low: 155000
+    base_high: 215000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 220000
+    total_comp_high: 345000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 125000
+    stock_low: 22000
+    stock_high: 50000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 119000
+    total_comp_high: 197000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Nuvei | Google | Meta | Stripe | Adyen | Global Payments |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Product Strategy` `Montreal HQ`"
+---
 ### Product Manager | Nuvei Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `Product Strategy` `Montreal HQ`

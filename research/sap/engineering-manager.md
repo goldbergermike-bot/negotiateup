@@ -1,3 +1,68 @@
+---
+company: sap
+company_display: Sap
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 195000
+    base_high: 280000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 430000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 170000
+    base_high: 250000
+    stock_low: 80000
+    stock_high: 220000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 385000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 110000
+    base_high: 170000
+    stock_low: 50000
+    stock_high: 150000
+    bonus_pct: 12
+    total_comp_low: 155000
+    total_comp_high: 265000
+    currency: EUR
+  - region: UK (London)
+    base_low: 100000
+    base_high: 155000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: 12
+    total_comp_low: 140000
+    total_comp_high: 240000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 4500000
+    base_high: 8000000
+    stock_low: 2500000
+    stock_high: 6000000
+    bonus_pct: 12
+    total_comp_low: 6000000
+    total_comp_high: 11500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP EM (T4/T5) ~ Google L6/L7 EM | Microsoft 65/66 EM | Amazon L7 SDM | Salesforce Director Eng"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Enterprise engineering leadership | Cross-functional cloud transformation leader | **LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise engineering leadership | Cross-functional cloud transformation leader | **LEADERSHIP PREMIUM**

@@ -1,3 +1,52 @@
+---
+company: block
+company_display: Block (Square)
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 235000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 265000
+    total_comp_high: 420000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 230000
+    stock_low: 170000
+    stock_high: 300000
+    bonus_low: 19000
+    bonus_high: 38000
+    total_comp_low: 255000
+    total_comp_high: 405000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 145000
+    stock_low: 110000
+    stock_high: 200000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 165000
+    total_comp_high: 260000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Block | Google | Meta | Stripe | PayPal | Coinbase |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L5-Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Agent Analytics` `Causal Inference`"
+---
 ### Data Scientist | Block Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L5-Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Agent Analytics` `Causal Inference`

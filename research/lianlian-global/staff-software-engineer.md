@@ -1,3 +1,49 @@
+---
+company: lianlian-global
+company_display: Lianlian Global
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":cn: Hangzhou (CNY)"
+    base_low: 600000
+    base_high: 950000
+    stock_low: 400000
+    stock_high: 900000
+    bonus_pct: null
+    total_comp_low: 1000000
+    total_comp_high: 1850000
+    currency: JPY
+  - region: ":hong_kong: Hong Kong (HKD)"
+    base_low: 950000
+    base_high: 1500000
+    stock_low: 600000
+    stock_high: 1200000
+    bonus_pct: null
+    total_comp_low: 1550000
+    total_comp_high: 2700000
+    currency: HKD
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 160000
+    base_high: 250000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 450000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a staff-level engineering compensation framework spanning Hangzhou, Hong Kong, and Singapore markets."
+---
 ### Staff Software Engineer — LianLian Global Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a staff-level engineering compensation framework spanning Hangzhou, Hong Kong, and Singapore markets.

@@ -1,3 +1,51 @@
+---
+company: apple
+company_display: Apple
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cupertino / Bay Area
+    base_low: 160000
+    base_high: 240000
+    stock_low: 130000
+    stock_high: 380000
+    bonus_pct: 5
+    total_comp_low: 220000
+    total_comp_high: 390000
+    currency: USD
+  - region: Seattle / Austin
+    base_low: 150000
+    base_high: 225000
+    stock_low: 110000
+    stock_high: 340000
+    bonus_pct: 5
+    total_comp_low: 200000
+    total_comp_high: 360000
+    currency: USD
+  - region: NYC / Boston
+    base_low: 155000
+    base_high: 235000
+    stock_low: 120000
+    stock_high: 360000
+    bonus_pct: 5
+    total_comp_low: 210000
+    total_comp_high: 375000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Apple ICT2 = Google L3, Meta IC3 (DS), Amazon L4 | Apple ICT3 = Google L4, Meta IC4 (DS), Amazon L5 | Apple ICT4 = Google L5, Meta IC5 (DS), Amazon L6"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Comparably
+negotiation_dna_summary: "Strong analytical base + meaningful RSU grants driving product decisions across Apple's ecosystem | Apple positions data science as central to product strategy and user experience | **PRODUCT IMPACT PREMIUM: Data scientists directly influence features used by 1.5B+ users**"
+---
 ### Data Scientist | Apple Global Negotiation Guide
 
 **Negotiation DNA:** Strong analytical base + meaningful RSU grants driving product decisions across Apple's ecosystem | Apple positions data science as central to product strategy and user experience | **PRODUCT IMPACT PREMIUM: Data scientists directly influence features used by 1.5B+ users**

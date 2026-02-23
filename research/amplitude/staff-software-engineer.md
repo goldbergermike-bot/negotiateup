@@ -1,3 +1,49 @@
+---
+company: amplitude
+company_display: Amplitude
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 225000
+    base_high: 268000
+    stock_low: 240000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 310000
+    total_comp_high: 405000
+    currency: USD
+  - region: New York
+    base_low: 220000
+    base_high: 262000
+    stock_low: 232000
+    stock_high: 388000
+    bonus_pct: 10
+    total_comp_low: 302000
+    total_comp_high: 395000
+    currency: USD
+  - region: London
+    base_low: 142000
+    base_high: 175000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 265000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Amplitude SWE (Staff) = Google L5 = Meta E5 = Mixpanel Staff/Principal
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "RSU-Based / Public Company | AI-Powered Product Analytics"
+---
 ### Staff Software Engineer | Amplitude Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Based / Public Company | AI-Powered Product Analytics

@@ -1,3 +1,50 @@
+---
+company: vast-data
+company_display: Vast Data
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 150000
+    base_high: 185000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_pct: 8
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: 20000
+    stock_high: 48000
+    bonus_pct: 8
+    total_comp_low: 178000
+    total_comp_high: 250000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 175000
+    stock_low: 25000
+    stock_high: 55000
+    bonus_pct: 8
+    total_comp_low: 182000
+    total_comp_high: 255000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Vast Data Solutions Architect = Google Cloud Customer Engineer (L5) / AWS Solutions Architect / Microsoft Azure Solutions Architect / Snowflake Solutions Architect / Databricks SA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Customer-Facing Technical Premium"
+---
 ### Solutions Architect | Vast Data Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Secondary Liquidity + Base | AI Data Platform | $1B Secondary at $25B Valuation | Customer-Facing Technical Premium

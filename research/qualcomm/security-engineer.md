@@ -1,3 +1,49 @@
+---
+company: qualcomm
+company_display: Qualcomm
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego
+    base_low: 142000
+    base_high: 188000
+    stock_low: 48000
+    stock_high: 75000
+    bonus_pct: 12
+    total_comp_low: 208000
+    total_comp_high: 288000
+    currency: USD
+  - region: Santa Clara
+    base_low: 155000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 82000
+    bonus_pct: 12
+    total_comp_low: 228000
+    total_comp_high: 315000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 170000
+    stock_low: 42000
+    stock_high: 68000
+    bonus_pct: 12
+    total_comp_low: 188000
+    total_comp_high: 260000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Qualcomm Security (E4–E6) = Google L4–L5 Security = Meta Security (IC4–IC5) = Apple Security = Microsoft Security 61–63"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +12% AI/Agentic Premium"
+---
 ### Security Engineer | Qualcomm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +12% AI/Agentic Premium

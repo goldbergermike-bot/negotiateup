@@ -1,3 +1,79 @@
+---
+company: google
+company_display: Google
+role: senior-software-engineer
+role_display: Senior Software Engineer (L5)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 190000
+    base_high: 265000
+    stock_low: 220000
+    stock_high: 520000
+    bonus_pct: 15
+    total_comp_low: 290000
+    total_comp_high: 460000
+    currency: USD
+  - region: New York City
+    base_low: 185000
+    base_high: 260000
+    stock_low: 210000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 445000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 180000
+    base_high: 250000
+    stock_low: 200000
+    stock_high: 480000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 430000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 180000
+    stock_low: 130000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 340000
+    currency: GBP
+  - region: Zurich
+    base_low: 165000
+    base_high: 240000
+    stock_low: 180000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 260000
+    total_comp_high: 420000
+    currency: CHF
+  - region: Bangalore
+    base_low: 3500000
+    base_high: 6000000
+    stock_low: 3000000
+    stock_high: 7000000
+    bonus_pct: 15
+    total_comp_low: 5500000
+    total_comp_high: 10000000
+    currency: INR
+level_mapping:
+  internal: L5
+  raw: "Senior SWE (L5) at Google = E5 at Meta, L63 at Microsoft, SDE III at Amazon, ICT4 at Apple, Senior at Netflix, Senior at Stripe"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Industry-benchmark L5 level + Strong base + massive RSU grants + 15% bonus with performance multiplier | Google L5 is the most heavily benchmarked senior IC role in tech | **MARKET-DEFINING COMP**"
+---
 ### Senior Software Engineer (L5) | Google Global Negotiation Guide
 
 **Negotiation DNA:** Industry-benchmark L5 level + Strong base + massive RSU grants + 15% bonus with performance multiplier | Google L5 is the most heavily benchmarked senior IC role in tech | **MARKET-DEFINING COMP**

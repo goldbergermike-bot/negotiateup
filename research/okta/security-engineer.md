@@ -1,3 +1,47 @@
+---
+company: okta
+company_display: Okta
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 360000
+    currency: USD
+  - region: Toronto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 138000
+    total_comp_high: 290000
+    currency: CAD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 80000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Security Engineers at Okta are the defensive architects of the identity platform itself — building the security controls, threat detection systems, and vulnerability defenses that protect the NHI Fabric from sophisticated attacks targeting the 50:1 Non-Human Identity attack surface, directly enabling Identity Governance at enterprise scale."
+---
 ### Security Engineer — Okta Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at Okta are the defensive architects of the identity platform itself — building the security controls, threat detection systems, and vulnerability defenses that protect the NHI Fabric from sophisticated attacks targeting the 50:1 Non-Human Identity attack surface, directly enabling Identity Governance at enterprise scale.

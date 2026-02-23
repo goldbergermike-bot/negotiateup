@@ -1,3 +1,48 @@
+---
+company: dbt-labs
+company_display: dbt Labs
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / Remote-US
+    base_low: 168000
+    base_high: 205000
+    stock_low: 125000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 270000
+    currency: USD
+  - region: San Francisco
+    base_low: 178000
+    base_high: 218000
+    stock_low: 140000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 288000
+    currency: USD
+  - region: London
+    base_low: 122000
+    base_high: 158000
+    stock_low: 88000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: dbt Labs DS = Google L3-L4 DS = Snowflake DS = Databricks DS = Amazon L4-L5 DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Equity + Bonus | Semantic Layer AI Expansion | Analytics Engineering Category Creator | Series D Growth-Stage Equity"
+---
 ### Data Scientist | dbt Labs Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Equity + Bonus | Semantic Layer AI Expansion | Analytics Engineering Category Creator | Series D Growth-Stage Equity

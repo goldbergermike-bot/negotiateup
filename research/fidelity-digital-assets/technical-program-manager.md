@@ -1,3 +1,52 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 178000
+    base_high: 228000
+    stock_low: 158000
+    stock_high: 288000
+    bonus_low: 42000
+    bonus_high: 68000
+    total_comp_low: 238000
+    total_comp_high: 335000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 245000
+    stock_low: 172000
+    stock_high: 312000
+    bonus_low: 48000
+    bonus_high: 75000
+    total_comp_low: 262000
+    total_comp_high: 365000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 208000
+    stock_low: 142000
+    stock_high: 262000
+    bonus_low: 38000
+    bonus_high: 60000
+    total_comp_low: 208000
+    total_comp_high: 292000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#TPM` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#ProgramExecution`"
+---
 ### Technical Program Manager | Fidelity Digital Assets Global Negotiation Guide
 
 **Negotiation DNA:** `#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#TPM` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#ProgramExecution`

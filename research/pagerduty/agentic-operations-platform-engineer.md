@@ -1,3 +1,56 @@
+---
+company: pagerduty
+company_display: Pagerduty
+role: agentic-operations-platform-engineer
+role_display: Agentic Operations Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 248000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 30000
+    signing_bonus_high: 55000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Atlanta
+    base_low: 162000
+    base_high: 218000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 22000
+    signing_bonus_high: 42000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 148000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    signing_bonus_low: 18000
+    signing_bonus_high: 35000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Agentic Operations Platform Engineer at PagerDuty maps to IC4-IC5 (L6-L7 equivalent at Google, E6-E7 at Meta, 65-67 at Microsoft). This is a staff-to-principal level role requiring 8-15+ years of experience with deep expertise in agent systems, ML infrastructure, and distributed platform architecture."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge | +20-25% Agentic AI Premium"
+---
 ### Agentic Operations Platform Engineer | PagerDuty Global Negotiation Guide
 
 **Negotiation DNA:** PagerDuty (NYSE: PD) | SaaS Incident Management & AIOps | RSU Equity | Multi-Region Compensation | Post-SRE Agent GA Hiring Surge | +20-25% Agentic AI Premium

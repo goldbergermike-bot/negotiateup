@@ -1,3 +1,47 @@
+---
+company: okta
+company_display: Okta
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 345000
+    currency: USD
+  - region: Toronto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 280000
+    currency: CAD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 172000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Solutions Architects at Okta design the enterprise identity architectures that translate the NHI Fabric vision into production deployments — your technical designs directly drive deal sizes, competitive wins, and the adoption of Identity Governance for both human and Non-Human Identities."
+---
 ### Solutions Architect — Okta Salary Negotiation Guide
 
 **Negotiation DNA**: Solutions Architects at Okta design the enterprise identity architectures that translate the NHI Fabric vision into production deployments — your technical designs directly drive deal sizes, competitive wins, and the adoption of Identity Governance for both human and Non-Human Identities.

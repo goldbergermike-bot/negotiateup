@@ -1,3 +1,49 @@
+---
+company: qualcomm
+company_display: Qualcomm
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego
+    base_low: 125000
+    base_high: 165000
+    stock_low: 40000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+  - region: Santa Clara
+    base_low: 138000
+    base_high: 180000
+    stock_low: 45000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 275000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 150000
+    stock_low: 35000
+    stock_high: 56000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 228000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Qualcomm TPM (P4–P5) = Google L5 TPM = Meta TPM (IC5) = Apple TPM = Microsoft TPM 62–63 = Amazon Sr. TPM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +10% AI/Agentic Premium"
+---
 ### Technical Program Manager | Qualcomm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +10% AI/Agentic Premium

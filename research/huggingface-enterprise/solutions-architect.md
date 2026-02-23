@@ -1,3 +1,50 @@
+---
+company: huggingface-enterprise
+company_display: Hugging Face Enterprise
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 215000
+    stock_low: 110000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 233000
+    total_comp_high: 345000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 210000
+    stock_low: 110000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 338000
+    currency: USD
+  - region: Paris
+    base_low: 140000
+    base_high: 183000
+    stock_low: 94000
+    stock_high: 179000
+    bonus_pct: 15
+    total_comp_low: 198000
+    total_comp_high: 293000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: HF Enterprise Solutions Architect = AWS ML Solutions Architect = Google Cloud AI Solutions Architect = Databricks Solutions Architect = NVIDIA Solutions Architect
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Growth-Stage Equity + Sales Bonus | Open-Source AI Platform Leader | 2026 Focus: Enterprise AI Adoption & Model Deployment Advisory"
+---
 ### Solutions Architect | Hugging Face Enterprise Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Growth-Stage Equity + Sales Bonus | Open-Source AI Platform Leader | 2026 Focus: Enterprise AI Adoption & Model Deployment Advisory

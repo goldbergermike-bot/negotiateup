@@ -1,3 +1,40 @@
+---
+company: midjourney
+company_display: Midjourney
+role: diffusion-model-engineer
+role_display: Diffusion Model Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 240000
+    base_high: 325000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 340000
+    total_comp_high: 525000
+    currency: USD
+  - region: Remote US
+    base_low: 216000
+    base_high: 293000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 306000
+    total_comp_high: 473000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Midjourney Diffusion Model Engineer = Google L6+ Research Engineer = Meta AI Research Scientist IC6+ = OpenAI Research Engineer = Stability AI Principal ML Engineer
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Premium Comp + Profit Sharing | Self-Funded & Profitable | San Francisco | **SIGNATURE ROLE** | **+15-30% ML PREMIUM** | Small Elite Team"
+---
 ### Diffusion Model Engineer | Midjourney Global Negotiation Guide
 
 **Negotiation DNA:** Premium Comp + Profit Sharing | Self-Funded & Profitable | San Francisco | **SIGNATURE ROLE** | **+15-30% ML PREMIUM** | Small Elite Team

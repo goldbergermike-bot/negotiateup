@@ -1,3 +1,51 @@
+---
+company: cme-group
+company_display: CME Group
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 145000
+    base_high: 195000
+    stock_low: 38000
+    stock_high: 68000
+    bonus_low: 25000
+    bonus_high: 39000
+    total_comp_low: 208000
+    total_comp_high: 302000
+    currency: USD
+  - region: New York
+    base_low: 157000
+    base_high: 211000
+    stock_low: 41000
+    stock_high: 73000
+    bonus_low: 27000
+    bonus_high: 42000
+    total_comp_low: 225000
+    total_comp_high: 326000
+    currency: USD
+  - region: London
+    base_low: 113000
+    base_high: 151000
+    stock_low: 30000
+    stock_high: 53000
+    bonus_low: 19000
+    bonus_high: 30000
+    total_comp_low: 162000
+    total_comp_high: 234000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Data Product Strategy` `Market Data Monetization` `Exchange Platform`"
+---
 ### Product Manager | CME Group Global Negotiation Guide
 
 **Negotiation DNA:** `Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Data Product Strategy` `Market Data Monetization` `Exchange Platform`

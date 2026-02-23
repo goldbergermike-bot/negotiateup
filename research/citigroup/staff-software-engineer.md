@@ -1,3 +1,50 @@
+---
+company: citigroup
+company_display: Citigroup
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 170000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 240000
+    total_comp_high: 385000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 165000
+    total_comp_high: 280000
+    currency: GBP
+  - region: Singapore
+    base_low: 155000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: "Staff SWE at Citi (SVP/Director) = L6 at Google, E6 at Meta, Principal at Amazon, Principal Engineer at Capital One, SVP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$130B market cap global bank + Staff-level sets technical direction globally + NYC HQ competitive hiring + SVP/Director with strong bonus and deferred comp | Citi Staff SWEs drive global platform strategy | **GLOBAL TECHNICAL LEADERSHIP PREMIUM**"
+---
 ### Staff Software Engineer | Citigroup Global Negotiation Guide
 
 **Negotiation DNA:** $130B market cap global bank + Staff-level sets technical direction globally + NYC HQ competitive hiring + SVP/Director with strong bonus and deferred comp | Citi Staff SWEs drive global platform strategy | **GLOBAL TECHNICAL LEADERSHIP PREMIUM**

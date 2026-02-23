@@ -1,3 +1,49 @@
+---
+company: epic-games
+company_display: Epic Games
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cary NC
+    base_low: 195000
+    base_high: 260000
+    stock_low: 150000
+    stock_high: 350000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 490000
+    currency: USD
+  - region: Seattle
+    base_low: 205000
+    base_high: 270000
+    stock_low: 160000
+    stock_high: 370000
+    bonus_pct: 15
+    total_comp_low: 320000
+    total_comp_high: 515000
+    currency: USD
+  - region: London
+    base_low: 80000
+    base_high: 115000
+    stock_low: 45000
+    stock_high: 85000
+    bonus_pct: 15
+    total_comp_low: 135000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Epic EM = Google L5-L6 Manager = Meta M1-M2 = Unity EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue"
+---
 ### Engineering Manager | Epic Games Global Negotiation Guide
 
 **Negotiation DNA:** Strong Equity (Private) + Bonus | Fortnite + Unreal Engine Dual Revenue

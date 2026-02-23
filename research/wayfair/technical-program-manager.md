@@ -1,3 +1,48 @@
+---
+company: wayfair
+company_display: Wayfair
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 130000
+    base_high: 170000
+    stock_low: 38000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 225000
+    currency: USD
+  - region: New York
+    base_low: 137000
+    base_high: 179000
+    stock_low: 40000
+    stock_high: 61000
+    bonus_pct: 10
+    total_comp_low: 173000
+    total_comp_high: 236000
+    currency: USD
+  - region: Remote US
+    base_low: 117000
+    base_high: 153000
+    stock_low: 32000
+    stock_high: 49000
+    bonus_pct: 10
+    total_comp_low: 149000
+    total_comp_high: 203000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Wayfair Technical Program Manager = Google TPM L5 = Amazon TPM (Sr.) = Meta TPM (IC5) = Apple TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Program Execution Premium"
+---
 ### Technical Program Manager | Wayfair Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Program Execution Premium

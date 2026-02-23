@@ -1,3 +1,49 @@
+---
+company: cohere
+company_display: Cohere
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 120000
+    base_high: 155000
+    stock_low: 120000
+    stock_high: 215000
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: CAD
+  - region: San Francisco
+    base_low: 145000
+    base_high: 185000
+    stock_low: 120000
+    stock_high: 215000
+    bonus_pct: null
+    total_comp_low: 181000
+    total_comp_high: 239000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 135000
+    stock_low: 120000
+    stock_high: 215000
+    bonus_pct: null
+    total_comp_low: 138000
+    total_comp_high: 190000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Cohere SWE = Google L3-L4 (Toronto) = Meta E3-E4 = Anthropic Junior SWE = Amazon SDE I-II. Cohere's Toronto office competes directly with Google Toronto, Meta Toronto, and Shopify for engineering talent. Your pre-IPO equity position at Cohere's $5.5B+ valuation represents significant upside compared to publicly traded FAANG RSUs at mature valuations."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty"
+---
 ### Software Engineer | Cohere Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty

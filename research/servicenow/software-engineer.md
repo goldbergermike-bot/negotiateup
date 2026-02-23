@@ -1,3 +1,48 @@
+---
+company: servicenow
+company_display: Servicenow
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara (USD)
+    base_low: 150000
+    base_high: 185000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 243000
+    currency: USD
+  - region: San Diego (USD)
+    base_low: 140000
+    base_high: 175000
+    stock_low: 110000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 228000
+    currency: USD
+  - region: London (GBP £)
+    base_low: 95000
+    base_high: 120000
+    stock_low: 75000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 118000
+    total_comp_high: 158000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ServiceNow SDE-2 = Google L3 = Meta E3 = Salesforce MTS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform"
+---
 ### Software Engineer | ServiceNow Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | $10B→$15B Revenue Sprint | AI Control Tower Platform

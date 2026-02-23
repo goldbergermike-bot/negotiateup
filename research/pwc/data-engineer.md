@@ -1,3 +1,48 @@
+---
+company: pwc
+company_display: PwC
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 110000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 121000
+    total_comp_high: 211000
+    currency: USD
+  - region: Chicago
+    base_low: 105000
+    base_high: 145000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 116000
+    total_comp_high: 194000
+    currency: USD
+  - region: Bangalore
+    base_low: 1200000
+    base_high: 2400000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 1300000
+    total_comp_high: 2900000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: PwC Associate / Senior Associate (Data) = Google L3 Data Engineer = Databricks Associate DE = Deloitte Consultant (Data)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (10-20%) + Limited Equity at Senior Levels | Data & Analytics Practice"
+---
 ### Data Engineer | PwC Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (10-20%) + Limited Equity at Senior Levels | Data & Analytics Practice

@@ -1,3 +1,51 @@
+---
+company: renaissance-technologies
+company_display: Renaissance Technologies
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: East Setauket HQ (Long Island)
+    base_low: 310000
+    base_high: 350000
+    stock_low: null
+    stock_high: null
+    bonus_low: 150000
+    bonus_high: 300000
+    total_comp_low: 650000
+    total_comp_high: 950000
+    currency: USD
+  - region: New York City
+    base_low: 320000
+    base_high: 350000
+    stock_low: null
+    stock_high: null
+    bonus_low: 160000
+    bonus_high: 310000
+    total_comp_low: 670000
+    total_comp_high: 960000
+    currency: USD
+  - region: Remote US (Very Rare)
+    base_low: 295000
+    base_high: 340000
+    stock_low: null
+    stock_high: null
+    bonus_low: 130000
+    bonus_high: 260000
+    total_comp_low: 580000
+    total_comp_high: 850000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Medallion Fund` `Gold Standard` `Quant Pioneer` `+15-25% AI/Quant Premium` `Machine Learning Systems` `Signal Discovery` `Academic Culture` `Deep Learning Infrastructure`"
+---
 ### ML/AI Engineer | Renaissance Technologies Global Negotiation Guide
 
 **Negotiation DNA:** `Medallion Fund` `Gold Standard` `Quant Pioneer` `+15-25% AI/Quant Premium` `Machine Learning Systems` `Signal Discovery` `Academic Culture` `Deep Learning Infrastructure`

@@ -1,3 +1,48 @@
+---
+company: github
+company_display: Github
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 225000
+    stock_low: 200000
+    stock_high: 320000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 380000
+    currency: USD
+  - region: Seattle
+    base_low: 180000
+    base_high: 220000
+    stock_low: 195000
+    stock_high: 310000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 155000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 175000
+    total_comp_high: 260000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: GitHub Senior IC3 = Microsoft Senior SDE (L63) = Google L5 = Meta E5 = Stripe L3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Microsoft RSU + Bonus | Copilot Platform Expansion & Agentic AI"
+---
 ### Senior Software Engineer | GitHub Global Negotiation Guide
 
 **Negotiation DNA:** Base + Microsoft RSU + Bonus | Copilot Platform Expansion & Agentic AI

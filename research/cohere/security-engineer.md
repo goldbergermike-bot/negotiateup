@@ -1,3 +1,49 @@
+---
+company: cohere
+company_display: Cohere
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 148000
+    base_high: 188000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 198000
+    total_comp_high: 278000
+    currency: CAD
+  - region: San Francisco
+    base_low: 175000
+    base_high: 218000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 214000
+    total_comp_high: 287000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 165000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 245000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Cohere Security Engineer = Google L4-L5 Security Engineer (Toronto) = Meta Security Engineer IC4-IC5 = Amazon Security Engineer SDE II-III = Shopify Senior Security Engineer. In the Toronto market, Cohere competes for security talent with Google, major banks (RBC, TD, BMO), and government agencies. AI security + enterprise compliance is a premium specialization that commands 20-30% above generic application security roles."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty"
+---
 ### Security Engineer | Cohere Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Competitive Base | Enterprise RAG Dominance | Enterprise Sovereignty

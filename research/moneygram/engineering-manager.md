@@ -1,3 +1,54 @@
+---
+company: moneygram
+company_display: Moneygram
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas TX
+    base_low: 175000
+    base_high: 225000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_low: 28000
+    bonus_high: 50000
+    total_comp_low: 258000
+    total_comp_high: 375000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 255000
+    stock_low: 65000
+    stock_high: 125000
+    bonus_low: 35000
+    bonus_high: 60000
+    total_comp_low: 300000
+    total_comp_high: 440000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 170000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 190000
+    total_comp_high: 288000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| MoneyGram | Google | Meta | Stripe | Western Union | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Hired
+negotiation_dna_summary: "`Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `People Leadership`"
+---
 ### Engineering Manager | MoneyGram Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `People Leadership`

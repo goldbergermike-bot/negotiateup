@@ -1,3 +1,49 @@
+---
+company: tableau
+company_display: Tableau
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle HQ
+    base_low: 145000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+  - region: San Francisco
+    base_low: 150000
+    base_high: 205000
+    stock_low: 65000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 185000
+    stock_low: 55000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tableau SWE = Salesforce MTS = Google L3 = Meta E3
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Salesforce Subsidiary ($15.7B Acquisition) | Data Visualization Leader | Liquid RSUs"
+---
 ### Software Engineer | Tableau Global Negotiation Guide
 
 **Negotiation DNA:** Salesforce Subsidiary ($15.7B Acquisition) | Data Visualization Leader | Liquid RSUs

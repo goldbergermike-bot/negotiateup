@@ -1,3 +1,49 @@
+---
+company: american-express
+company_display: American Express
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 140000
+    base_high: 190000
+    stock_low: 65000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 182000
+    total_comp_high: 290000
+    currency: USD
+  - region: Phoenix
+    base_low: 128000
+    base_high: 175000
+    stock_low: 55000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 260000
+    currency: USD
+  - region: San Francisco
+    base_low: 138000
+    base_high: 188000
+    stock_low: 62000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 178000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Engineer at AmEx (Senior/Principal) = L4-L5 at Google, E4-E5 at Meta, SDE II-Senior at Amazon, VP at BofA, Senior DE at Capital One"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "$190B market cap premium brand + Data powers card recommendations, fraud detection, and rewards + NYC HQ + Strong tech comp | AmEx data engineering drives the membership intelligence platform | **MEMBERSHIP DATA PREMIUM**"
+---
 ### Data Engineer | American Express Global Negotiation Guide
 
 **Negotiation DNA:** $190B market cap premium brand + Data powers card recommendations, fraud detection, and rewards + NYC HQ + Strong tech comp | AmEx data engineering drives the membership intelligence platform | **MEMBERSHIP DATA PREMIUM**

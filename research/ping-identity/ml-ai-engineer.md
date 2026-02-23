@@ -1,3 +1,48 @@
+---
+company: ping-identity
+company_display: Ping Identity
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver
+    base_low: 182000
+    base_high: 228000
+    stock_low: 68000
+    stock_high: 122000
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 322000
+    currency: USD
+  - region: Austin
+    base_low: 175000
+    base_high: 222000
+    stock_low: 68000
+    stock_high: 122000
+    bonus_pct: 15
+    total_comp_low: 222000
+    total_comp_high: 315000
+    currency: USD
+  - region: Remote US
+    base_low: 172000
+    base_high: 215000
+    stock_low: 68000
+    stock_high: 122000
+    bonus_pct: 15
+    total_comp_low: 218000
+    total_comp_high: 308000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ping Identity ML/AI (IC3-IC4) = Okta ML Engineer = CyberArk ML Engineer = SailPoint ML Engineer = ForgeRock ML Engineer = Microsoft Identity ML (L62-L64)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **AI PREMIUM + IDENTITY INTELLIGENCE BONUS**"
+---
 ### ML/AI Engineer | Ping Identity Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **AI PREMIUM + IDENTITY INTELLIGENCE BONUS**

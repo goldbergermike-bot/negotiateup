@@ -1,3 +1,65 @@
+---
+company: amazon
+company_display: Amazon
+role: aws-ai-platform-engineer
+role_display: AWS AI Platform Engineer (Bedrock)
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 160000
+    base_high: 185000
+    stock_low: 300000
+    stock_high: 700000
+    bonus_pct: null
+    signing_bonus_low: 80000
+    signing_bonus_high: 130000
+    total_comp_low: 330000
+    total_comp_high: 520000
+    currency: USD
+  - region: Bay Area
+    base_low: 165000
+    base_high: 185000
+    stock_low: 320000
+    stock_high: 750000
+    bonus_pct: null
+    signing_bonus_low: 85000
+    signing_bonus_high: 140000
+    total_comp_low: 350000
+    total_comp_high: 545000
+    currency: USD
+  - region: NYC
+    base_low: 165000
+    base_high: 185000
+    stock_low: 310000
+    stock_high: 720000
+    bonus_pct: null
+    signing_bonus_low: 80000
+    signing_bonus_high: 135000
+    total_comp_low: 340000
+    total_comp_high: 530000
+    currency: USD
+  - region: Arlington VA
+    base_low: 155000
+    base_high: 180000
+    stock_low: 280000
+    stock_high: 650000
+    bonus_pct: null
+    signing_bonus_low: 75000
+    signing_bonus_high: 120000
+    total_comp_low: 310000
+    total_comp_high: 490000
+    currency: USD
+level_mapping:
+  internal: Bedrock
+  raw: Amazon L6 Senior SDE (Bedrock) = Google L5 Senior = Meta E5 = Anthropic Senior
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Back-Loaded RSU Vesting / Signing Bonus Bridge | **SIGNATURE ROLE** | **+15-30% AI/ML PREMIUM**"
+---
 ### AWS AI Platform Engineer (Bedrock) | Amazon Global Negotiation Guide
 
 **Negotiation DNA:** Back-Loaded RSU Vesting / Signing Bonus Bridge | **SIGNATURE ROLE** | **+15-30% AI/ML PREMIUM**

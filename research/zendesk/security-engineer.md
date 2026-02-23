@@ -1,3 +1,48 @@
+---
+company: zendesk
+company_display: Zendesk
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US / Other US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 310000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 52000
+    total_comp_high: 152000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Security Engineers at Zendesk protect the CX platform that 100,000+ businesses trust with their customer interaction data — where security is both a competitive differentiator and a PE compliance requirement."
+---
 ### Security Engineer — Zendesk Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at Zendesk protect the CX platform that 100,000+ businesses trust with their customer interaction data — where security is both a competitive differentiator and a PE compliance requirement.

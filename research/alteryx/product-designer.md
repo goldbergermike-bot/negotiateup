@@ -1,3 +1,40 @@
+---
+company: alteryx
+company_display: Alteryx
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine HQ
+    base_low: 130000
+    base_high: 185000
+    stock_low: 40000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 250000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 170000
+    stock_low: 35000
+    stock_high: 115000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 225000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Alteryx Senior Designer = Dataiku Senior Designer = Tableau Senior Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium"
+---
 ### Product Designer | Alteryx Global Negotiation Guide
 
 **Negotiation DNA:** Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium

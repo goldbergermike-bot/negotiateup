@@ -1,3 +1,48 @@
+---
+company: deloitte
+company_display: Deloitte
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 115000
+    base_high: 160000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 127000
+    total_comp_high: 217000
+    currency: USD
+  - region: Chicago
+    base_low: 105000
+    base_high: 150000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 116000
+    total_comp_high: 200000
+    currency: USD
+  - region: Hyderabad
+    base_low: 1200000
+    base_high: 2500000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 1300000
+    total_comp_high: 3000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Deloitte Consultant (Cloud/DevOps) = Google L3 SRE = Amazon SDE I (Infra) = Accenture Analyst (Cloud)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + Bonus (10-20%) + Limited Equity at Senior Levels | Cloud & Infrastructure Practice"
+---
 ### DevOps Engineer | Deloitte Global Negotiation Guide
 
 **Negotiation DNA:** Base + Bonus (10-20%) + Limited Equity at Senior Levels | Cloud & Infrastructure Practice

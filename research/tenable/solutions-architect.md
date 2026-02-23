@@ -1,3 +1,55 @@
+---
+company: tenable
+company_display: Tenable
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Columbia MD
+    base_low: 150000
+    base_high: 195000
+    stock_low: 75000
+    stock_high: 150000
+    bonus_pct: 12
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Austin
+    base_low: 145000
+    base_high: 190000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_pct: 12
+    signing_bonus_low: 15000
+    signing_bonus_high: 30000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 125000
+    stock_low: 48000
+    stock_high: 95000
+    bonus_pct: 12
+    signing_bonus_low: 8000
+    signing_bonus_high: 18000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Tenable maps to SE/SA IC3–IC4 equivalent at peer cybersecurity companies (CrowdStrike Solutions Engineer, Palo Alto Networks Systems Engineer, Rapid7 Solutions Architect) and L5 Solutions Architect at major cloud providers."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London"
+---
 ### Solutions Architect | Tenable Global Negotiation Guide
 
 **Negotiation DNA:** Tenable (NASDAQ: TENB) | Cybersecurity Exposure Management | RSU Equity (4-Year Vesting) | Columbia MD & Austin & London

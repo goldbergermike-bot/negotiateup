@@ -1,3 +1,50 @@
+---
+company: airtable
+company_display: Airtable
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 212000
+    stock_low: 100000
+    stock_high: 185000
+    bonus_pct: 5
+    total_comp_low: 205000
+    total_comp_high: 280000
+    currency: USD
+  - region: NYC / Austin
+    base_low: 155000
+    base_high: 202000
+    stock_low: 90000
+    stock_high: 170000
+    bonus_pct: 5
+    total_comp_low: 192000
+    total_comp_high: 265000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 162000
+    stock_low: 76000
+    stock_high: 141000
+    bonus_pct: 5
+    total_comp_low: 155000
+    total_comp_high: 214000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airtable Data Scientist = Google L4 DS = Meta E4 DS = Notion DS = Monday.com DS II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push"
+---
 ### Data Scientist | Airtable Global Negotiation Guide
 
 **Negotiation DNA:** No-Code/Low-Code Platform Leader | Series F ($11B Peak Valuation) | Pre-IPO Equity | Enterprise Growth Push

@@ -1,3 +1,48 @@
+---
+company: wayfair
+company_display: Wayfair
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 150000
+    base_high: 198000
+    stock_low: 45000
+    stock_high: 72000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 265000
+    currency: USD
+  - region: New York
+    base_low: 158000
+    base_high: 208000
+    stock_low: 48000
+    stock_high: 76000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 278000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 178000
+    stock_low: 38000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 173000
+    total_comp_high: 239000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Wayfair Product Manager = Google PM L5 = Amazon PM (Sr.) = Meta PM (IC5) = Apple Product Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Product Strategy Premium"
+---
 ### Product Manager | Wayfair Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU + Bonus | Home Goods & Furniture E-Commerce | 2026 Tariff Holiday Margin Protection | Product Strategy Premium

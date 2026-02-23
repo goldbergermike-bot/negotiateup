@@ -1,3 +1,68 @@
+---
+company: samsung
+company_display: Samsung
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / San Jose (US R&D)"
+    base_low: 150000
+    base_high: 210000
+    stock_low: 55000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 330000
+    currency: USD
+  - region: Austin / Dallas (US)
+    base_low: 140000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 140000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+  - region: Seoul (HQ)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: "Suwon (R&D Campus)"
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 140000
+    stock_low: 35000
+    stock_high: 90000
+    bonus_pct: 15
+    total_comp_low: 115000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Product Manager at Samsung (CL3-CL4) = L5-L6 at Google, IC5-IC6 at Meta, Sr PM-Principal PM at Amazon, PM at Apple"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$350B conglomerate with product lines reaching 1B+ users + Galaxy AI product strategy defining Samsung's software future + US PMs drive roadmap for global products with significant autonomy | Samsung PMs bridge Korean hardware excellence with Silicon Valley software product culture | **STRATEGIC PRODUCT PREMIUM**"
+---
 ### Product Manager | Samsung Global Negotiation Guide
 
 **Negotiation DNA:** $350B conglomerate with product lines reaching 1B+ users + Galaxy AI product strategy defining Samsung's software future + US PMs drive roadmap for global products with significant autonomy | Samsung PMs bridge Korean hardware excellence with Silicon Valley software product culture | **STRATEGIC PRODUCT PREMIUM**

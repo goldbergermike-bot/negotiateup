@@ -1,3 +1,68 @@
+---
+company: google
+company_display: Google
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 160000
+    base_high: 240000
+    stock_low: 150000
+    stock_high: 400000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 420000
+    currency: USD
+  - region: New York City
+    base_low: 155000
+    base_high: 235000
+    stock_low: 140000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 400000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 150000
+    base_high: 225000
+    stock_low: 135000
+    stock_high: 370000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 390000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 160000
+    stock_low: 90000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 145000
+    total_comp_high: 280000
+    currency: GBP
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 2500000
+    stock_high: 6000000
+    bonus_pct: 15
+    total_comp_low: 4500000
+    total_comp_high: 8500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Data Engineer at Google (L4-L5) = E4-E5 at Meta, L61-L63 at Microsoft, SDE II-Senior at Amazon, IC3-IC4 at Snowflake, Senior-Staff at Databricks"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "World's largest data infrastructure originator + BigQuery/Spanner product credibility + Strong RSU grants | Google sets the industry standard for data engineering | **DATA INFRASTRUCTURE PREMIUM**"
+---
 ### Data Engineer | Google Global Negotiation Guide
 
 **Negotiation DNA:** World's largest data infrastructure originator + BigQuery/Spanner product credibility + Strong RSU grants | Google sets the industry standard for data engineering | **DATA INFRASTRUCTURE PREMIUM**

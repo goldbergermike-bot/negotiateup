@@ -1,3 +1,40 @@
+---
+company: thoughtspot
+company_display: Thoughtspot
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale HQ
+    base_low: 150000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 190000
+    stock_low: 45000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: ThoughtSpot Senior SA = Tableau Senior SA = Snowflake SA = Databricks SA
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private Equity-Backed | AI-Powered Analytics Pioneer | Liquidity Risk Premium Required"
+---
 ### Solutions Architect | ThoughtSpot Global Negotiation Guide
 
 **Negotiation DNA:** Private Equity-Backed | AI-Powered Analytics Pioneer | Liquidity Risk Premium Required

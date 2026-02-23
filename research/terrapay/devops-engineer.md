@@ -1,3 +1,52 @@
+---
+company: terrapay
+company_display: Terrapay
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam (EUR)
+    base_low: 72000
+    base_high: 105000
+    stock_low: 42000
+    stock_high: 95000
+    bonus_pct: null
+    total_comp_low: 114000
+    total_comp_high: 200000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 85000
+    base_high: 128000
+    stock_low: 50000
+    stock_high: 112000
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 240000
+    currency: SGD
+  - region: New York (USD)
+    base_low: 130000
+    base_high: 180000
+    stock_low: 65000
+    stock_high: 145000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - "TerraPay MilX Creator Payout Launch — Jan 28, 2026 — Infrastructure Scaling"
+  - "TerraPay Global Payments Highway — 7.5B+ Accounts, 130+ Countries"
+  - TerraPay Botim Super-App Partnership — Consumer-Scale Infrastructure
+  - Thunes / Nium / Wise DevOps/SRE Compensation
+  - "TerraPay Private Valuation & DevOps-Level Options Data"
+  - Payments Infrastructure DevOps Talent Market
+negotiation_dna_summary: "This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a DevOps engineering compensation framework spanning Amsterdam, Singapore, and New York markets."
+---
 ### DevOps Engineer — TerraPay Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes TerraPay's Global Payments Highway interoperability mandate, translating the Jan 28, 2026 Creator Payout (MilX) launch into a DevOps engineering compensation framework spanning Amsterdam, Singapore, and New York markets.

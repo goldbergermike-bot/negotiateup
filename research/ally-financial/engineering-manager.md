@@ -1,3 +1,53 @@
+---
+company: ally-financial
+company_display: Ally Financial
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Detroit, MI (HQ)"
+    base_low: 165000
+    base_high: 218000
+    stock_low: 40000
+    stock_high: 72000
+    bonus_low: 37000
+    bonus_high: 58000
+    total_comp_low: 242000
+    total_comp_high: 348000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 173000
+    base_high: 229000
+    stock_low: 42000
+    stock_high: 76000
+    bonus_low: 39000
+    bonus_high: 61000
+    total_comp_low: 254000
+    total_comp_high: 366000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 257000
+    stock_low: 47000
+    stock_high: 85000
+    bonus_low: 44000
+    bonus_high: 69000
+    total_comp_low: 286000
+    total_comp_high: 411000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Dice
+  - LinkedIn
+negotiation_dna_summary: "`Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `People Leadership` `Delivery Ownership` `Engineering Culture`"
+---
 ### Engineering Manager | Ally Financial Global Negotiation Guide
 
 **Negotiation DNA:** `Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `People Leadership` `Delivery Ownership` `Engineering Culture`

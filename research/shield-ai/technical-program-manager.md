@@ -1,3 +1,39 @@
+---
+company: shield-ai
+company_display: Shield Ai
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Diego, CA"
+    base_low: 155000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 230000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 325000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 155000
+    base_high: 205000
+    stock_low: 80000
+    stock_high: 230000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Shield AI TPM = Google L5 TPM = Anduril TPM -- with aircraft manufacturing, flight test, and DOD certification"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | Autonomous Aircraft Program Delivery | Startup Intensity"
+---
 ### Technical Program Manager | Shield AI Global Negotiation Guide
 
 **Negotiation DNA:** Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | Autonomous Aircraft Program Delivery | Startup Intensity

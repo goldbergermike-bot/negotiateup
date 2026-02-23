@@ -1,3 +1,54 @@
+---
+company: blackrock
+company_display: Blackrock
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 185000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_low: 48000
+    bonus_high: 78000
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+  - region: San Francisco
+    base_low: 195000
+    base_high: 253000
+    stock_low: null
+    stock_high: null
+    bonus_low: 52000
+    bonus_high: 82000
+    total_comp_low: 262000
+    total_comp_high: 367000
+    currency: USD
+  - region: London
+    base_low: 132000
+    base_high: 171000
+    stock_low: 171000
+    stock_high: 299000
+    bonus_low: 34000
+    bonus_high: 55000
+    total_comp_low: 337000
+    total_comp_high: 525000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "`$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Data Scientist` `IC Track` `VP-Level`"
+---
 ### Data Scientist | BlackRock Global Negotiation Guide
 
 **Negotiation DNA:** `$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `Data Scientist` `IC Track` `VP-Level`

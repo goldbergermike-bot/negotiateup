@@ -1,3 +1,51 @@
+---
+company: coinbase
+company_display: Coinbase
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 195000
+    stock_low: 200000
+    stock_high: 400000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 228000
+    total_comp_high: 322000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 190000
+    stock_low: 190000
+    stock_high: 380000
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 222000
+    total_comp_high: 315000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 175000
+    stock_low: 170000
+    stock_high: 340000
+    bonus_low: 12000
+    bonus_high: 20000
+    total_comp_low: 205000
+    total_comp_high: 292000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`Everything Exchange` · `$2B Buyback` · `COIN` · `IC3-IC4` · `Crypto-Native Platform` · `Multi-Asset Trading` · `RSU/4yr Vest`"
+---
 ### Software Engineer | Coinbase Global Negotiation Guide
 
 **Negotiation DNA:** `Everything Exchange` · `$2B Buyback` · `COIN` · `IC3-IC4` · `Crypto-Native Platform` · `Multi-Asset Trading` · `RSU/4yr Vest`

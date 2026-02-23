@@ -1,3 +1,39 @@
+---
+company: gitlab
+company_display: Gitlab
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (All-Remote)
+    base_low: 165000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 340000
+    currency: USD
+  - region: San Francisco Benchmark
+    base_low: 170000
+    base_high: 230000
+    stock_low: 85000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 350000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: GitLab Senior SWE = GitHub Senior SWE = Google L4 = Atlassian Senior SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Public ($8B Market Cap) | All-Remote | DevSecOps Platform | Transparent Comp"
+---
 ### Senior Software Engineer | GitLab Global Negotiation Guide
 
 **Negotiation DNA:** Public ($8B Market Cap) | All-Remote | DevSecOps Platform | Transparent Comp

@@ -1,3 +1,52 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 198000
+    base_high: 255000
+    stock_low: 185000
+    stock_high: 338000
+    bonus_low: 48000
+    bonus_high: 78000
+    total_comp_low: 268000
+    total_comp_high: 378000
+    currency: USD
+  - region: New York
+    base_low: 212000
+    base_high: 272000
+    stock_low: 202000
+    stock_high: 368000
+    bonus_low: 55000
+    bonus_high: 85000
+    total_comp_low: 295000
+    total_comp_high: 412000
+    currency: USD
+  - region: Remote US
+    base_low: 180000
+    base_high: 232000
+    stock_low: 168000
+    stock_high: 305000
+    bonus_low: 42000
+    bonus_high: 68000
+    total_comp_low: 238000
+    total_comp_high: 335000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#SecurityEngineering` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#BlockchainSecurity`"
+---
 ### Security Engineer | Fidelity Digital Assets Global Negotiation Guide
 
 **Negotiation DNA:** `#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#SecurityEngineering` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#BlockchainSecurity`

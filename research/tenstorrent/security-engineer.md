@@ -1,3 +1,48 @@
+---
+company: tenstorrent
+company_display: Tenstorrent
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 142000
+    base_high: 188000
+    stock_low: 48000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 305000
+    currency: CAD
+  - region: Austin
+    base_low: 135000
+    base_high: 180000
+    stock_low: 42000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 278000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 175000
+    stock_low: 38000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Tenstorrent Security Engineer ~ Google L4–L5 Security | Meta Security E4–E5 | Apple Security IC3–IC4 | AMD Security Engineer II | Intel Security Architect"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "[Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | +12% Security Clearance Premium"
+---
 ### Security Engineer | Tenstorrent Global Negotiation Guide
 
 **Negotiation DNA:** [Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | +12% Security Clearance Premium

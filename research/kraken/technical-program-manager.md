@@ -1,3 +1,51 @@
+---
+company: kraken
+company_display: Kraken
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 225000
+    stock_low: 235000
+    stock_high: 410000
+    bonus_low: 25000
+    bonus_high: 42000
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+  - region: New York
+    base_low: 172000
+    base_high: 218000
+    stock_low: 225000
+    stock_high: 395000
+    bonus_low: 24000
+    bonus_high: 40000
+    total_comp_low: 250000
+    total_comp_high: 352000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 202000
+    stock_low: 205000
+    stock_high: 365000
+    bonus_low: 20000
+    bonus_high: 36000
+    total_comp_low: 232000
+    total_comp_high: 328000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Program Management Track"
+---
 ### Technical Program Manager | Kraken Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Program Management Track

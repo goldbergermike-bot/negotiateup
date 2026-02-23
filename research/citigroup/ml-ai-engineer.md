@@ -1,3 +1,50 @@
+---
+company: citigroup
+company_display: Citigroup
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 150000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 205000
+    total_comp_high: 345000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 148000
+    total_comp_high: 255000
+    currency: GBP
+  - region: Singapore
+    base_low: 135000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: SGD
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Citi (VP/SVP) = L4-L5 at Google, E4-E5 at Meta, Applied Scientist at Amazon, Senior ML at Capital One, VP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$130B market cap global bank + AI across trading, risk, and consumer + NYC HQ competitive hiring + Banks pay ML premium | Citi AI spans institutional and consumer at global scale | **AI TRANSFORMATION PREMIUM**"
+---
 ### ML/AI Engineer | Citigroup Global Negotiation Guide
 
 **Negotiation DNA:** $130B market cap global bank + AI across trading, risk, and consumer + NYC HQ competitive hiring + Banks pay ML premium | Citi AI spans institutional and consumer at global scale | **AI TRANSFORMATION PREMIUM**

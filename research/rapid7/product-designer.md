@@ -1,3 +1,48 @@
+---
+company: rapid7
+company_display: Rapid7
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 138000
+    total_comp_high: 320000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 300000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 60000
+    total_comp_high: 140000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Product Designers at Rapid7 shape the user experience of the Insight Platform, translating complex security data into intuitive workflows that enable security operations teams to detect, investigate, and respond to threats efficiently."
+---
 ### Product Designer — Rapid7 Salary Negotiation Guide
 
 **Negotiation DNA**: Product Designers at Rapid7 shape the user experience of the Insight Platform, translating complex security data into intuitive workflows that enable security operations teams to detect, investigate, and respond to threats efficiently.

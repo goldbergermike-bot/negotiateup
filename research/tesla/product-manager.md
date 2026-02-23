@@ -1,3 +1,48 @@
+---
+company: tesla
+company_display: Tesla
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin (HQ)
+    base_low: 145000
+    base_high: 210000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 350000
+    currency: USD
+  - region: Palo Alto
+    base_low: 155000
+    base_high: 220000
+    stock_low: 130000
+    stock_high: 320000
+    bonus_pct: null
+    total_comp_low: 215000
+    total_comp_high: 370000
+    currency: USD
+  - region: New York City
+    base_low: 150000
+    base_high: 215000
+    stock_low: 125000
+    stock_high: 310000
+    bonus_pct: null
+    total_comp_low: 208000
+    total_comp_high: 360000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tesla Product Manager = Google L5 PM = Meta PM (IC5) = Amazon L5/L6 PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk | Engineering-First Culture"
+---
 ### Product Manager | Tesla Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk | Engineering-First Culture

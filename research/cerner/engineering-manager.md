@@ -1,3 +1,48 @@
+---
+company: cerner
+company_display: Cerner
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Kansas City MO
+    base_low: 155000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 220000
+    total_comp_high: 330000
+    currency: USD
+  - region: Austin TX
+    base_low: 160000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 230000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: 150000
+    base_high: 200000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 210000
+    total_comp_high: 320000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Oracle Health IC4-IC5 EM = Google L5-L6 EM = Optum T5-T6 EM = UHG EM (higher TC)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: Oracle-Acquired / Enterprise Health IT / RSU + Bonus / Post-Acquisition Team Leadership
+---
 ### Engineering Manager | Cerner (Oracle Health) Global Negotiation Guide
 
 **Negotiation DNA:** Oracle-Acquired / Enterprise Health IT / RSU + Bonus / Post-Acquisition Team Leadership

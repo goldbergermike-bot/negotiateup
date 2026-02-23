@@ -1,3 +1,51 @@
+---
+company: atlassian
+company_display: Atlassian
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sydney
+    base_low: 230000
+    base_high: 310000
+    stock_low: 230000
+    stock_high: 420000
+    bonus_pct: null
+    total_comp_low: 330000
+    total_comp_high: 480000
+    currency: AUD
+  - region: San Francisco
+    base_low: 195000
+    base_high: 248000
+    stock_low: 200000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 280000
+    total_comp_high: 385000
+    currency: USD
+  - region: Amsterdam
+    base_low: 125000
+    base_high: 170000
+    stock_low: 140000
+    stock_high: 245000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 275000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Atlassian M3 EM = Google L5 EM = Meta M1 = Microsoft 65 EM = Datadog EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage"
+---
 ### Engineering Manager | Atlassian Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU/4yr + No Bonus | Team Anywhere Distributed | AI Orchestra Positioning | Guard Premium + Rovo Rollout Leverage

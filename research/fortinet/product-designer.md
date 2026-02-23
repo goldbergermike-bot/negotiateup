@@ -1,3 +1,51 @@
+---
+company: fortinet
+company_display: Fortinet
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 320000
+    currency: USD
+  - region: Ottawa
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 110000
+    total_comp_high: 250000
+    currency: CAD
+  - region: Sophia Antipolis
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 52000
+    total_comp_high: 130000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - "Fortinet Q4 FY2025 earnings report — February 5, 2026"
+  - "Fortinet Unified SASE 40% growth — Q4 FY2025 earnings call, February 5, 2026"
+  - "Fortinet FortiManager Cloud adoption metrics — FY2025 Annual Report, filed February 2026"
+  - "Fortinet 10-K Annual Report — FY2025 filed February 2026, Rule of 45 exceeded for 6th year"
+  - Nielsen Norman Group Enterprise UX Benchmarking — Fortinet included in 2025 cybersecurity UX study
+negotiation_dna_summary: "Product Designers at Fortinet shape the Security Fabric experience for 700,000+ customers — with the Rule of 45 sustained and Sovereign-SASE scaling, design decisions directly impact adoption velocity and net retention."
+---
 ### Product Designer — Fortinet Salary Negotiation Guide
 
 **Negotiation DNA**: Product Designers at Fortinet shape the Security Fabric experience for 700,000+ customers — with the Rule of 45 sustained and Sovereign-SASE scaling, design decisions directly impact adoption velocity and net retention.

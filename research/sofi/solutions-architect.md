@@ -1,3 +1,48 @@
+---
+company: sofi
+company_display: SoFi
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 185000
+    stock_low: 135000
+    stock_high: 252000
+    bonus_pct: 12
+    total_comp_low: 198000
+    total_comp_high: 278000
+    currency: USD
+  - region: New York / Salt Lake City
+    base_low: 132000
+    base_high: 172000
+    stock_low: 118000
+    stock_high: 225000
+    bonus_pct: 12
+    total_comp_low: 180000
+    total_comp_high: 255000
+    currency: USD
+  - region: Remote US
+    base_low: 122000
+    base_high: 160000
+    stock_low: 100000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 232000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$198K-$278K TC (SF)` | `LTV Accelerator` | `Enterprise Integration` | `NASDAQ: SOFI`"
+---
 ### Solutions Architect | SoFi Global Negotiation Guide
 
 **Negotiation DNA:** `$198K-$278K TC (SF)` | `LTV Accelerator` | `Enterprise Integration` | `NASDAQ: SOFI`

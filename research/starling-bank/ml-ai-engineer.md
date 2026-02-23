@@ -1,3 +1,51 @@
+---
+company: starling-bank
+company_display: Starling Bank
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 85000
+    base_high: 108000
+    stock_low: 14000
+    stock_high: 25000
+    bonus_low: 9000
+    bonus_high: 15000
+    total_comp_low: 108000
+    total_comp_high: 148000
+    currency: GBP
+  - region: Cardiff
+    base_low: 72000
+    base_high: 92000
+    stock_low: 12000
+    stock_high: 21000
+    bonus_low: 8000
+    bonus_high: 13000
+    total_comp_low: 92000
+    total_comp_high: 126000
+    currency: GBP
+  - region: Southampton
+    base_low: 75000
+    base_high: 95000
+    stock_low: 12000
+    stock_high: 22000
+    bonus_low: 8000
+    bonus_high: 13000
+    total_comp_low: 95000
+    total_comp_high: 130000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Machine Learning` `AI Products` `Fraud Detection` `NLP/LLMs`"
+---
 ### ML/AI Engineer | Starling Bank Global Negotiation Guide
 
 **Negotiation DNA:** `Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `Machine Learning` `AI Products` `Fraud Detection` `NLP/LLMs`

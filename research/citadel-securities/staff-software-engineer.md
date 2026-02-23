@@ -1,3 +1,51 @@
+---
+company: citadel-securities
+company_display: Citadel Securities
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 300000
+    base_high: 400000
+    stock_low: null
+    stock_high: null
+    bonus_low: 375000
+    bonus_high: 575000
+    total_comp_low: 675000
+    total_comp_high: 975000
+    currency: USD
+  - region: New York
+    base_low: 315000
+    base_high: 420000
+    stock_low: null
+    stock_high: null
+    bonus_low: 390000
+    bonus_high: 600000
+    total_comp_low: 705000
+    total_comp_high: 1020000
+    currency: USD
+  - region: London
+    base_low: 240000
+    base_high: 320000
+    stock_low: null
+    stock_high: null
+    bonus_low: 300000
+    bonus_high: 460000
+    total_comp_low: 540000
+    total_comp_high: 780000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `+15-25% Premium` `Ultra-Low-Latency` `25% US Equity Volume` `Private Firm Premium` `Staff IC Leadership`"
+---
 ### Staff Software Engineer | Citadel Securities Global Negotiation Guide
 
 **Negotiation DNA:** `$8.4B Revenue` `Liquidity Guardian` `Market Maker` `All-Cash Comp` `+15-25% Premium` `Ultra-Low-Latency` `25% US Equity Volume` `Private Firm Premium` `Staff IC Leadership`

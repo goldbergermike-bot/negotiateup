@@ -1,3 +1,39 @@
+---
+company: remote-com
+company_display: Remote.com
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Bay Area
+    base_low: 148000
+    base_high: 205000
+    stock_low: 58000
+    stock_high: 178000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 298000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 192000
+    stock_low: 50000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Remote.com PM (PM1-PM2) = Deel PM = Rippling PM = Google L4-L5 PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Global Employment Platform | $3B Valuation | Remote-First | **GLOBAL EMPLOYMENT PRODUCT PREMIUM**"
+---
 ### Product Manager | Remote.com Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Global Employment Platform | $3B Valuation | Remote-First | **GLOBAL EMPLOYMENT PRODUCT PREMIUM**

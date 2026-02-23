@@ -1,3 +1,55 @@
+---
+company: f5
+company_display: F5
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 115000
+    base_high: 142000
+    stock_low: 80000
+    stock_high: 168000
+    bonus_pct: 8
+    signing_bonus_low: 12000
+    signing_bonus_high: 28000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Jose
+    base_low: 122000
+    base_high: 148000
+    stock_low: 85000
+    stock_high: 175000
+    bonus_pct: 8
+    signing_bonus_low: 12000
+    signing_bonus_high: 28000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 65000
+    base_high: 85000
+    stock_low: 45000
+    stock_high: 98000
+    bonus_pct: 8
+    signing_bonus_low: 7000
+    signing_bonus_high: 16000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "- F5 Product Designer (D3–D4) = Google UX L4–L5 / Meta Product Designer IC4–IC5 / Microsoft Designer 61–63"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support"
+---
 ### Product Designer | F5 Global Negotiation Guide
 
 **Negotiation DNA:** F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support

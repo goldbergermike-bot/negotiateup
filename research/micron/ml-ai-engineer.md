@@ -1,3 +1,49 @@
+---
+company: micron
+company_display: Micron
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boise
+    base_low: 148000
+    base_high: 195000
+    stock_low: 50000
+    stock_high: 82000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 318000
+    currency: USD
+  - region: San Jose
+    base_low: 172000
+    base_high: 228000
+    stock_low: 62000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 375000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 202000
+    stock_low: 52000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Micron ML/AI Engineer (Band 7–8) maps to Google MLE L5–L6, Meta ML Engineer E5–E6, Amazon Applied Scientist II–Sr."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +15-25% AI Premium"
+---
 ### ML/AI Engineer | Micron Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +15-25% AI Premium

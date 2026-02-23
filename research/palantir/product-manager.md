@@ -1,3 +1,48 @@
+---
+company: palantir
+company_display: Palantir
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: 148000
+    base_high: 185000
+    stock_low: 230000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 206000
+    total_comp_high: 280000
+    currency: USD
+  - region: New York City
+    base_low: 152000
+    base_high: 190000
+    stock_low: 240000
+    stock_high: 390000
+    bonus_pct: null
+    total_comp_low: 212000
+    total_comp_high: 288000
+    currency: USD
+  - region: London
+    base_low: 78000
+    base_high: 100000
+    stock_low: 115000
+    stock_high: 192000
+    bonus_pct: null
+    total_comp_low: 107000
+    total_comp_high: 148000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Palantir PM = Google L4 PM = Meta IC4 PM — but with customer deployment and 40%+ travel"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture"
+---
 ### Product Manager | Palantir Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Intensity Premium | Rule of 40: 127% | US Commercial Growth: 137% | 60+ Hour Culture

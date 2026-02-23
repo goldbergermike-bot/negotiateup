@@ -1,3 +1,53 @@
+---
+company: coupa
+company_display: Coupa
+role: supply-chain-resilience-platform-engineer
+role_display: Supply-Chain Resilience Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 185000
+    base_high: 240000
+    stock_low: 70000
+    stock_high: 160000
+    bonus_low: 25000
+    bonus_high: 45000
+    total_comp_low: 280000
+    total_comp_high: 445000
+    currency: USD
+  - region: New York NY
+    base_low: 180000
+    base_high: 235000
+    stock_low: 65000
+    stock_high: 150000
+    bonus_low: 23000
+    bonus_high: 42000
+    total_comp_low: 268000
+    total_comp_high: 427000
+    currency: USD
+  - region: London UK
+    base_low: 120000
+    base_high: 160000
+    stock_low: 45000
+    stock_high: 95000
+    bonus_low: 16000
+    bonus_high: 28000
+    total_comp_low: 181000
+    total_comp_high: 283000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Coupa | Google | Meta | Stripe | SAP | Oracle |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `Platform Engineering` `Autonomous Procurement` `Geopolitical Risk Systems` `Community Intelligence` `$6T+ Spend Infrastructure` `Signature Role`"
+---
 ### Supply-Chain Resilience Platform Engineer | Coupa Global Negotiation Guide
 
 > **SIGNATURE ROLE** — This role represents Coupa's most strategically differentiated engineering position, sitting at the intersection of the company's Autonomous Sourcing vision, Supply-Chain Resilience market positioning, and AI-powered community intelligence platform.

@@ -1,3 +1,50 @@
+---
+company: millennium-management
+company_display: Millennium Management
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 310000
+    base_high: 410000
+    stock_low: null
+    stock_high: null
+    bonus_low: 200000
+    bonus_high: 310000
+    total_comp_low: 665000
+    total_comp_high: 965000
+    currency: USD
+  - region: Miami
+    base_low: 295000
+    base_high: 390000
+    stock_low: null
+    stock_high: null
+    bonus_low: 185000
+    bonus_high: 290000
+    total_comp_low: 620000
+    total_comp_high: 905000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 235000
+    base_high: 310000
+    stock_low: null
+    stock_high: null
+    bonus_low: 150000
+    bonus_high: 235000
+    total_comp_low: 500000
+    total_comp_high: 730000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`Pod Structure` `PnL Percentage` `Impact Multiplier` `+15-25% Premium` `Multi-Manager Platform` `Cross-Pod Architecture` `Technical Leadership` `Direct Attribution`"
+---
 ### Staff Software Engineer | Millennium Management Global Negotiation Guide
 
 **Negotiation DNA:** `Pod Structure` `PnL Percentage` `Impact Multiplier` `+15-25% Premium` `Multi-Manager Platform` `Cross-Pod Architecture` `Technical Leadership` `Direct Attribution`

@@ -1,3 +1,50 @@
+---
+company: capital-one
+company_display: Capital One
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: McLean VA (HQ)
+    base_low: 180000
+    base_high: 235000
+    stock_low: 130000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 400000
+    currency: USD
+  - region: New York City
+    base_low: 192000
+    base_high: 248000
+    stock_low: 142000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 275000
+    total_comp_high: 435000
+    currency: USD
+  - region: San Francisco
+    base_low: 188000
+    base_high: 242000
+    stock_low: 138000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 268000
+    total_comp_high: 420000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Staff SWE at Capital One (Principal) = L6 at Google, E6 at Meta, Principal at Amazon, SVP/Director at BofA/JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$68B market cap TECH-FIRST bank + Staff-level sets technical direction for cloud banking + McLean VA HQ + Comp competitive with Big Tech L6/Staff | Capital One Staff SWEs are technical leaders at tech-company scale | **TECH-FIRST STAFF PREMIUM**"
+---
 ### Staff Software Engineer | Capital One Global Negotiation Guide
 
 **Negotiation DNA:** $68B market cap TECH-FIRST bank + Staff-level sets technical direction for cloud banking + McLean VA HQ + Comp competitive with Big Tech L6/Staff | Capital One Staff SWEs are technical leaders at tech-company scale | **TECH-FIRST STAFF PREMIUM**

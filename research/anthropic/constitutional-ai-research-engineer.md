@@ -1,3 +1,49 @@
+---
+company: anthropic
+company_display: Anthropic
+role: constitutional-ai-research-engineer
+role_display: Constitutional AI Research Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 295000
+    base_high: 370000
+    stock_low: 500000
+    stock_high: 875000
+    bonus_pct: null
+    total_comp_low: 420000
+    total_comp_high: 589000
+    currency: USD
+  - region: Seattle
+    base_low: 286000
+    base_high: 352000
+    stock_low: 500000
+    stock_high: 875000
+    bonus_pct: null
+    total_comp_low: 411000
+    total_comp_high: 571000
+    currency: USD
+  - region: London
+    base_low: 224000
+    base_high: 281000
+    stock_low: 380000
+    stock_high: 665000
+    bonus_pct: null
+    total_comp_low: 319000
+    total_comp_high: 448000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anthropic Constitutional AI Research Engineer = Google L6+ Research Scientist = DeepMind Senior Research Scientist = OpenAI Research Engineer = Meta FAIR Research Scientist IC6+
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium | **SIGNATURE ROLE** | **+20-35% AGENTIC AI PREMIUM**"
+---
 ### Constitutional AI Research Engineer | Anthropic Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium | **SIGNATURE ROLE** | **+20-35% AGENTIC AI PREMIUM**

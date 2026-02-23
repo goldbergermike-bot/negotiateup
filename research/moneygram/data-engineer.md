@@ -1,3 +1,53 @@
+---
+company: moneygram
+company_display: Moneygram
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas TX
+    base_low: 135000
+    base_high: 175000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 179000
+    total_comp_high: 263000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 200000
+    stock_low: 38000
+    stock_high: 75000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 211000
+    total_comp_high: 310000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 132000
+    stock_low: 22000
+    stock_high: 48000
+    bonus_low: 10000
+    bonus_high: 21000
+    total_comp_low: 132000
+    total_comp_high: 201000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| MoneyGram | Google | Meta | Stripe | Western Union | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Data Infrastructure`"
+---
 ### Data Engineer | MoneyGram Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Data Infrastructure`

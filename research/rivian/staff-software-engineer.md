@@ -1,3 +1,39 @@
+---
+company: rivian
+company_display: Rivian
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine (HQ)
+    base_low: 185000
+    base_high: 240000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: 10
+    total_comp_low: 290000
+    total_comp_high: 480000
+    currency: USD
+  - region: Palo Alto
+    base_low: 193000
+    base_high: 250000
+    stock_low: 220000
+    stock_high: 480000
+    bonus_pct: 10
+    total_comp_low: 310000
+    total_comp_high: 510000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rivian Staff Software Engineer = Google L5 = Meta E5 = Tesla Staff SWE = Apple ICT4 = Amazon Principal SDE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage EV Comp | Large Equity Grants (RIVN) | Mission-Driven Culture | EV Growth Upside"
+---
 ### Staff Software Engineer | Rivian Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage EV Comp | Large Equity Grants (RIVN) | Mission-Driven Culture | EV Growth Upside

@@ -1,3 +1,67 @@
+---
+company: microsoft
+company_display: Microsoft
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Product Designer I-II
+    base_low: 110000
+    base_high: 155000
+    stock_low: 45000
+    stock_high: 120000
+    bonus_pct: 10
+    signing_bonus_low: 10000
+    signing_bonus_high: 25000
+    total_comp_low: 135000
+    total_comp_high: 210000
+    currency: USD
+  - region: Senior Product Designer
+    base_low: 145000
+    base_high: 200000
+    stock_low: 100000
+    stock_high: 260000
+    bonus_pct: 15
+    signing_bonus_low: 20000
+    signing_bonus_high: 45000
+    total_comp_low: 210000
+    total_comp_high: 330000
+    currency: USD
+  - region: Principal Product Designer
+    base_low: 185000
+    base_high: 255000
+    stock_low: 200000
+    stock_high: 480000
+    bonus_pct: 20
+    signing_bonus_low: 35000
+    signing_bonus_high: 70000
+    total_comp_low: 305000
+    total_comp_high: 470000
+    currency: USD
+  - region: Partner / Design Director
+    base_low: 240000
+    base_high: 320000
+    stock_low: 400000
+    stock_high: 900000
+    bonus_pct: 25
+    signing_bonus_low: 50000
+    signing_bonus_high: 100000
+    total_comp_low: 445000
+    total_comp_high: 700000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+  - Glassdoor
+negotiation_dna_summary: null
+---
 # Product Designer - Microsoft Negotiation Guide
 
 ## Role Overview

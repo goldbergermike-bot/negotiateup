@@ -1,3 +1,48 @@
+---
+company: amd
+company_display: AMD
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 168000
+    base_high: 212000
+    stock_low: 88000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 262000
+    currency: USD
+  - region: Austin
+    base_low: 162000
+    base_high: 205000
+    stock_low: 88000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 255000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 198000
+    stock_low: 88000
+    stock_high: 162000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: AMD TPM (SMTS) = NVIDIA TPM = Intel TPM = Google L4 TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Semiconductor & AI Compute | AI-Native Workflow | **+30% AI PRODUCTIVITY PREMIUM**"
+---
 ### Technical Program Manager | AMD Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Semiconductor & AI Compute | AI-Native Workflow | **+30% AI PRODUCTIVITY PREMIUM**

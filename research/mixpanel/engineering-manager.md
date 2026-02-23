@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 245000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 380000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 238000
+    stock_low: 140000
+    stock_high: 265000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 365000
+    currency: USD
+  - region: London
+    base_low: 145000
+    base_high: 178000
+    stock_low: 105000
+    stock_high: 195000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 272000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel EM = Google L5-L6 EM = Meta M1 = Amplitude Senior EM = Datadog EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Premium Equity + Leadership Bonus | AI Product Analytics Team Leadership 2026"
+---
 ### Engineering Manager | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Premium Equity + Leadership Bonus | AI Product Analytics Team Leadership 2026

@@ -1,3 +1,39 @@
+---
+company: shield-ai
+company_display: Shield Ai
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Diego, CA"
+    base_low: 165000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 340000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 160000
+    base_high: 210000
+    stock_low: 90000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 335000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shield AI Senior SWE = Google L4-L5 = Anduril Senior SWE -- with aircraft autonomy and flight test integration
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | AI-Powered Defense Drones | Startup Intensity"
+---
 ### Senior Software Engineer | Shield AI Global Negotiation Guide
 
 **Negotiation DNA:** Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | AI-Powered Defense Drones | Startup Intensity

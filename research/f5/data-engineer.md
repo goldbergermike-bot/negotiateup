@@ -1,3 +1,56 @@
+---
+company: f5
+company_display: F5
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 132000
+    base_high: 162000
+    stock_low: 105000
+    stock_high: 210000
+    bonus_pct: 10
+    signing_bonus_low: 14000
+    signing_bonus_high: 30000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: San Jose
+    base_low: 140000
+    base_high: 170000
+    stock_low: 112000
+    stock_high: 220000
+    bonus_pct: 10
+    signing_bonus_low: 14000
+    signing_bonus_high: 30000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 98000
+    stock_low: 60000
+    stock_high: 125000
+    bonus_pct: 10
+    signing_bonus_low: 8000
+    signing_bonus_high: 18000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "- F5 Data Engineer (DE3–DE4) = Google Data Engineer L4–L5 / Meta Data Engineer E4–E5 / Microsoft Data Engineer 61–63 / Amazon Data Engineer L5"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support"
+---
 ### Data Engineer | F5 Global Negotiation Guide
 
 **Negotiation DNA:** F5 (NASDAQ: FFIV) | Application Delivery & AI Runtime Security | RSU Equity (4-Year Vesting) | 37% Systems Growth | Native MCP Support

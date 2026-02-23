@@ -1,3 +1,48 @@
+---
+company: instacart
+company_display: Instacart
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 228000
+    stock_low: 85000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 332000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 222000
+    stock_low: 80000
+    stock_high: 142000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 325000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 205000
+    stock_low: 72000
+    stock_high: 128000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 298000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Instacart ML/AI Engineer = Google ML Engineer L4–L5 = Meta ML Engineer IC4–IC5 = DoorDash ML Engineer = Uber ML Engineer = Amazon Applied Scientist = OpenAI Research Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + RSU Equity + Bonus | Instant Commerce & Grocery Tech | 4x Engineering Velocity | Post-IPO Growth | AI/ML Premium (+15-25%)"
+---
 ### ML/AI Engineer | Instacart Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + RSU Equity + Bonus | Instant Commerce & Grocery Tech | 4x Engineering Velocity | Post-IPO Growth | AI/ML Premium (+15-25%)

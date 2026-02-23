@@ -1,3 +1,51 @@
+---
+company: kraken
+company_display: Kraken
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 205000
+    stock_low: 195000
+    stock_high: 340000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 228000
+    total_comp_high: 318000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 200000
+    stock_low: 188000
+    stock_high: 330000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 222000
+    total_comp_high: 310000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 185000
+    stock_low: 172000
+    stock_high: 305000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 205000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Data Science Track"
+---
 ### Data Scientist | Kraken Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Data Science Track

@@ -1,3 +1,48 @@
+---
+company: mongodb
+company_display: Mongodb
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 150000
+    base_high: 185000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 235000
+    currency: USD
+  - region: Dublin
+    base_low: 62000
+    base_high: 80000
+    stock_low: 50000
+    stock_high: 85000
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 105000
+    currency: EUR
+  - region: Austin
+    base_low: 140000
+    base_high: 175000
+    stock_low: 110000
+    stock_high: 185000
+    bonus_pct: null
+    total_comp_low: 168000
+    total_comp_high: 220000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: MongoDB SWE = Google L3 = Meta E3 = Elastic SWE = Confluent SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + No Bonus | \"Battle for the AI Data Layer\" | Voyage AI Acquisition Premium"
+---
 ### Software Engineer | MongoDB Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + No Bonus | "Battle for the AI Data Layer" | Voyage AI Acquisition Premium

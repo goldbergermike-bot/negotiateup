@@ -1,3 +1,52 @@
+---
+company: vanguard
+company_display: Vanguard
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Malvern, PA (HQ)"
+    base_low: 100000
+    base_high: 138000
+    stock_low: null
+    stock_high: null
+    bonus_low: 16000
+    bonus_high: 26000
+    total_comp_low: 138000
+    total_comp_high: 198000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 95000
+    base_high: 131000
+    stock_low: null
+    stock_high: null
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 131000
+    total_comp_high: 188000
+    currency: USD
+  - region: "Scottsdale, AZ"
+    base_low: 95000
+    base_high: 131000
+    stock_low: null
+    stock_high: null
+    bonus_low: 15000
+    bonus_high: 25000
+    total_comp_low: 131000
+    total_comp_high: 188000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - Comparably
+negotiation_dna_summary: "`AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Investment UX` `Financial Data Visualization` `Investor-First Design`"
+---
 ### Product Designer | Vanguard Global Negotiation Guide
 
 **Negotiation DNA:** `AI Scaler` `$2.1T AI Investment` `Unconventional Opportunities` `Private (Mutual Ownership)` `$9.3T+ AUM` `Investment UX` `Financial Data Visualization` `Investor-First Design`

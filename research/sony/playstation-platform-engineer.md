@@ -1,3 +1,68 @@
+---
+company: sony
+company_display: Sony
+role: playstation-platform-engineer
+role_display: PlayStation Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / San Diego (US HQ)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 55000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 340000
+    currency: USD
+  - region: Bay Area (US)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 330000
+    currency: USD
+  - region: Tokyo (HQ)
+    base_low: 10000000
+    base_high: 16000000
+    stock_low: 3000000
+    stock_high: 8000000
+    bonus_pct: 10
+    total_comp_low: 13000000
+    total_comp_high: 22000000
+    currency: JPY
+  - region: London (SIE Europe)
+    base_low: 95000
+    base_high: 155000
+    stock_low: 35000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 215000
+    currency: GBP
+  - region: Amsterdam
+    base_low: 90000
+    base_high: 145000
+    stock_low: 30000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 200000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "PlayStation Platform Engineer at SIE (IC3-IC5) = L4-L5 at Google, IC4-IC5 at Meta, SDE II-Senior at Amazon, equivalent Microsoft Xbox/Game Pass"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$110B market cap with PlayStation as the world's #1 gaming console platform + 110M+ PS5 units sold + PlayStation Network (PSN) serving 100M+ monthly active users + US offices (San Mateo/San Diego) with competitive comp | PlayStation platform engineers build the infrastructure powering the world's largest console gaming ecosystem | **GAMING PLATFORM PREMIUM**"
+---
 ### PlayStation Platform Engineer | Sony Global Negotiation Guide
 
 **Negotiation DNA:** $110B market cap with PlayStation as the world's #1 gaming console platform + 110M+ PS5 units sold + PlayStation Network (PSN) serving 100M+ monthly active users + US offices (San Mateo/San Diego) with competitive comp | PlayStation platform engineers build the infrastructure powering the world's largest console gaming ecosystem | **GAMING PLATFORM PREMIUM**

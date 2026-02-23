@@ -1,3 +1,52 @@
+---
+company: robinhood
+company_display: Robinhood
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Menlo Park, CA (HQ)"
+    base_low: 148000
+    base_high: 192000
+    stock_low: null
+    stock_high: null
+    bonus_low: 14000
+    bonus_high: 25000
+    total_comp_low: 202000
+    total_comp_high: 292000
+    currency: USD
+  - region: New York
+    base_low: 148000
+    base_high: 192000
+    stock_low: null
+    stock_high: null
+    bonus_low: 14000
+    bonus_high: 25000
+    total_comp_low: 202000
+    total_comp_high: 292000
+    currency: USD
+  - region: London
+    base_low: 112000
+    base_high: 145000
+    stock_low: 121000
+    stock_high: 227000
+    bonus_low: 11000
+    bonus_high: 19000
+    total_comp_low: 153000
+    total_comp_high: 221000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `Real-Time Data Pipelines` `Multi-Asset Data Platform` `Financial Data Infrastructure`"
+---
 ### Data Engineer | Robinhood Global Negotiation Guide
 
 **Negotiation DNA:** `Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `Real-Time Data Pipelines` `Multi-Asset Data Platform` `Financial Data Infrastructure`

@@ -1,3 +1,48 @@
+---
+company: mckinsey
+company_display: Mckinsey
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 155000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 194000
+    total_comp_high: 283000
+    currency: USD
+  - region: Chicago
+    base_low: 145000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 181000
+    total_comp_high: 261000
+    currency: USD
+  - region: Bangalore
+    base_low: 2400000
+    base_high: 3800000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 3000000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: McKinsey DevOps Engineer = Google L3-L4 SRE = Amazon SDE II (Infra) = Datadog DevOps Engineer
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (25-45%) | No Equity | Infrastructure Modernization"
+---
 ### DevOps Engineer | McKinsey Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (25-45%) | No Equity | Infrastructure Modernization

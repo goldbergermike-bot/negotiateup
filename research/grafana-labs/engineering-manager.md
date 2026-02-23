@@ -1,3 +1,50 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 215000
+    base_high: 270000
+    stock_low: 220000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 310000
+    total_comp_high: 430000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 202000
+    base_high: 255000
+    stock_low: 200000
+    stock_high: 368000
+    bonus_pct: 10
+    total_comp_low: 290000
+    total_comp_high: 400000
+    currency: USD
+  - region: London / Berlin
+    base_low: 164000
+    base_high: 205000
+    stock_low: 167000
+    stock_high: 304000
+    bonus_pct: 10
+    total_comp_low: 236000
+    total_comp_high: 327000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs EM = Google L6 EM = Meta M1 = Datadog EM = Elastic EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside"
+---
 ### Engineering Manager | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside

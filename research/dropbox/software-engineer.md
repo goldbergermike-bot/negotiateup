@@ -1,3 +1,48 @@
+---
+company: dropbox
+company_display: Dropbox
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 205000
+    stock_low: 130000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 292000
+    currency: USD
+  - region: Seattle
+    base_low: 155000
+    base_high: 200000
+    stock_low: 125000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 285000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 192000
+    stock_low: 118000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Dropbox SWE (IC3-IC4) = Google SWE L4-L5 = Meta SWE E4-E5 = Box SWE = Elastic SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NASDAQ: DBX) + Bonus | Cloud Platform & Dash AI | $8B+ Market Cap | 700M+ Users | **DASH AI PREMIUM**"
+---
 ### Software Engineer | Dropbox Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NASDAQ: DBX) + Bonus | Cloud Platform & Dash AI | $8B+ Market Cap | 700M+ Users | **DASH AI PREMIUM**

@@ -1,3 +1,51 @@
+---
+company: renaissance-technologies
+company_display: Renaissance Technologies
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: East Setauket HQ (Long Island)
+    base_low: 260000
+    base_high: 315000
+    stock_low: null
+    stock_high: null
+    bonus_low: 80000
+    bonus_high: 150000
+    total_comp_low: 425000
+    total_comp_high: 615000
+    currency: USD
+  - region: New York City
+    base_low: 270000
+    base_high: 325000
+    stock_low: null
+    stock_high: null
+    bonus_low: 85000
+    bonus_high: 155000
+    total_comp_low: 440000
+    total_comp_high: 630000
+    currency: USD
+  - region: Remote US (Very Rare)
+    base_low: 250000
+    base_high: 300000
+    stock_low: null
+    stock_high: null
+    bonus_low: 70000
+    bonus_high: 125000
+    total_comp_low: 390000
+    total_comp_high: 545000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Medallion Fund` `Gold Standard` `Quant Pioneer` `Data Pipeline Architecture` `Market Data Infrastructure` `Academic Culture` `Petabyte-Scale Systems`"
+---
 ### Data Engineer | Renaissance Technologies Global Negotiation Guide
 
 **Negotiation DNA:** `Medallion Fund` `Gold Standard` `Quant Pioneer` `Data Pipeline Architecture` `Market Data Infrastructure` `Academic Culture` `Petabyte-Scale Systems`

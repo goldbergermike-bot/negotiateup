@@ -1,3 +1,50 @@
+---
+company: runway
+company_display: Runway
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 210000
+    base_high: 275000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 388000
+    currency: USD
+  - region: San Francisco
+    base_low: 210000
+    base_high: 275000
+    stock_low: 200000
+    stock_high: 450000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 388000
+    currency: USD
+  - region: Remote US
+    base_low: 189000
+    base_high: 248000
+    stock_low: 180000
+    stock_high: 405000
+    bonus_pct: null
+    total_comp_low: 234000
+    total_comp_high: 349000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Runway EM = Google M1-M2 = Meta M1 = Amazon SDM II-III = Startup VP Eng scope
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | Creative AI Leadership"
+---
 ### Engineering Manager | Runway Global Negotiation Guide
 
 **Negotiation DNA:** Competitive AI Startup Comp + Pre-IPO Equity | $4B+ Valuation | NYC HQ | Creative AI Leadership

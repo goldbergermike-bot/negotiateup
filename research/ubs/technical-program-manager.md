@@ -1,3 +1,53 @@
+---
+company: ubs
+company_display: UBS
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 145000
+    base_high: 192000
+    stock_low: 28000
+    stock_high: 50000
+    bonus_low: 22000
+    bonus_high: 36000
+    total_comp_low: 195000
+    total_comp_high: 278000
+    currency: USD
+  - region: Zurich (HQ)
+    base_low: 128000
+    base_high: 169000
+    stock_low: 25000
+    stock_high: 44000
+    bonus_low: 19000
+    bonus_high: 32000
+    total_comp_low: 172000
+    total_comp_high: 245000
+    currency: CHF
+  - region: London
+    base_low: 116000
+    base_high: 154000
+    stock_low: 22000
+    stock_high: 40000
+    bonus_low: 18000
+    bonus_high: 29000
+    total_comp_low: 156000
+    total_comp_high: 222000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Integration Program Delivery` `Cross-Functional Coordination` `Milestone Tracking`"
+---
 ### Technical Program Manager | UBS Global Negotiation Guide
 
 **Negotiation DNA:** `CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Integration Program Delivery` `Cross-Functional Coordination` `Milestone Tracking`

@@ -1,3 +1,50 @@
+---
+company: elastic-security
+company_display: Elastic Security
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 170000
+    base_high: 220000
+    stock_low: 132000
+    stock_high: 238000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 315000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 160000
+    base_high: 210000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 213000
+    total_comp_high: 295000
+    currency: USD
+  - region: London / Amsterdam
+    base_low: 130000
+    base_high: 168000
+    stock_low: 100000
+    stock_high: 181000
+    bonus_pct: 10
+    total_comp_low: 174000
+    total_comp_high: 241000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Elastic TPM = Google L5 TPM = Meta IC5 TPM = CrowdStrike Senior TPM = Splunk Senior TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity"
+---
 ### Technical Program Manager | Elastic (Security) Global Negotiation Guide
 
 **Negotiation DNA:** Distributed-First Open-Source | Search & Security Platform | Public Company (NYSE: ESTC) | Liquid RSU Equity

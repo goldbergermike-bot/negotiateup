@@ -1,3 +1,48 @@
+---
+company: plaid
+company_display: Plaid
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 215000
+    base_high: 268000
+    stock_low: 212000
+    stock_high: 375000
+    bonus_pct: 15
+    total_comp_low: 298000
+    total_comp_high: 418000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 262000
+    stock_low: 212000
+    stock_high: 375000
+    bonus_pct: 15
+    total_comp_low: 292000
+    total_comp_high: 412000
+    currency: USD
+  - region: Remote US
+    base_low: 198000
+    base_high: 248000
+    stock_low: 212000
+    stock_high: 375000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 392000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Plaid EM (M1-M2) = Stripe EM = Square EM = Google EM (L5-L6) = Meta EM (M1) = MX Engineering Director
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**"
+---
 ### Engineering Manager | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**

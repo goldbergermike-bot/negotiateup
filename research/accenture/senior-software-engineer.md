@@ -1,3 +1,48 @@
+---
+company: accenture
+company_display: Accenture
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 140000
+    base_high: 185000
+    stock_low: 45000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 313000
+    currency: USD
+  - region: San Francisco
+    base_low: 145000
+    base_high: 190000
+    stock_low: 50000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 183000
+    total_comp_high: 329000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 130000
+    stock_low: 20000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 119000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Accenture Consultant / Manager = Google L4-L5 = Deloitte Manager = PwC Manager
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + RSU Grants + Bonus (10-15%) | Consultant/Manager Level"
+---
 ### Senior Software Engineer | Accenture Global Negotiation Guide
 
 **Negotiation DNA:** Base + RSU Grants + Bonus (10-15%) | Consultant/Manager Level

@@ -1,3 +1,39 @@
+---
+company: faire
+company_display: Faire
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 155000
+    base_high: 212000
+    stock_low: 82000
+    stock_high: 218000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 330000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 202000
+    stock_low: 75000
+    stock_high: 205000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 312000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Faire PM = Google PM L4-L5 = Shopify PM = Amazon PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Startup Comp | Private $12B Valuation | B2B Wholesale Pioneer | Pre-IPO Upside"
+---
 ### Product Manager | Faire Global Negotiation Guide
 
 **Negotiation DNA:** Strong Startup Comp | Private $12B Valuation | B2B Wholesale Pioneer | Pre-IPO Upside

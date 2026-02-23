@@ -1,3 +1,48 @@
+---
+company: bcg
+company_display: BCG
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: 200000
+    base_high: 250000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 260000
+    total_comp_high: 375000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 260000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 267000
+    total_comp_high: 390000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 175000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 30
+    total_comp_low: 169000
+    total_comp_high: 263000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: BCG Engineering Manager = Google L6 EM = Meta E6 EM = Amazon SDM II
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (30-50%) | No Equity | BCG X Delivery Leadership"
+---
 ### Engineering Manager | BCG Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (30-50%) | No Equity | BCG X Delivery Leadership

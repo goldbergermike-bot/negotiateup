@@ -1,3 +1,39 @@
+---
+company: coupang
+company_display: Coupang
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 175000
+    base_high: 235000
+    stock_low: 110000
+    stock_high: 285000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 390000
+    currency: USD
+  - region: Seattle
+    base_low: 170000
+    base_high: 228000
+    stock_low: 105000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 378000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Coupang Senior SWE = Google L4 = Meta E4 = Amazon SDE-II/III = Apple ICT3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive US Comp | CPNG RSUs ($40B Market Cap) | Korean E-Commerce Leader | Mountain View Office"
+---
 ### Senior Software Engineer | Coupang Global Negotiation Guide
 
 **Negotiation DNA:** Competitive US Comp | CPNG RSUs ($40B Market Cap) | Korean E-Commerce Leader | Mountain View Office

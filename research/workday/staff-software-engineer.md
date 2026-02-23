@@ -1,3 +1,48 @@
+---
+company: workday
+company_display: Workday
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pleasanton
+    base_low: 228000
+    base_high: 275000
+    stock_low: 330000
+    stock_high: 520000
+    bonus_pct: 15
+    total_comp_low: 338000
+    total_comp_high: 432000
+    currency: USD
+  - region: Dublin
+    base_low: 140000
+    base_high: 175000
+    stock_low: 182000
+    stock_high: 312000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 275000
+    currency: EUR
+  - region: London
+    base_low: 150000
+    base_high: 190000
+    stock_low: 198000
+    stock_high: 338000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 298000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Workday Staff SWE (P4) = Google L5 = Meta E5 = Salesforce PMTS = Snowflake Staff SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity"
+---
 ### Staff Software Engineer | Workday Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | No-Cliff Quarterly Vesting | Day-1 Liquidity

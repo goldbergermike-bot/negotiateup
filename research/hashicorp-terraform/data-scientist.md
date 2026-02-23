@@ -1,3 +1,50 @@
+---
+company: hashicorp-terraform
+company_display: HashiCorp Terraform
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 210000
+    stock_low: 130000
+    stock_high: 220000
+    bonus_pct: 5
+    total_comp_low: 210000
+    total_comp_high: 295000
+    currency: USD
+  - region: Austin / Denver
+    base_low: 155000
+    base_high: 200000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 5
+    total_comp_low: 198000
+    total_comp_high: 275000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 160000
+    stock_low: 98000
+    stock_high: 167000
+    bonus_pct: 5
+    total_comp_low: 158000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: HashiCorp Data Scientist = Google L4 DS = Meta E4 DS = IBM Band 8 Data Scientist = Databricks DS II
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)"
+---
 ### Data Scientist | HashiCorp (Terraform) Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024)

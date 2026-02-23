@@ -1,3 +1,48 @@
+---
+company: mercury
+company_display: Mercury
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 210000
+    stock_low: 155000
+    stock_high: 255000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 295000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 205000
+    stock_low: 150000
+    stock_high: 245000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 288000
+    currency: USD
+  - region: Remote (US)
+    base_low: 150000
+    base_high: 192000
+    stock_low: 135000
+    stock_high: 222000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Mercury SA = Google Customer Engineer = AWS Solutions Architect = Stripe Implementation Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure"
+---
 ### Solutions Architect | Mercury Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | AI-First Banking Infrastructure

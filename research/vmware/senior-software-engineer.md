@@ -1,3 +1,48 @@
+---
+company: vmware
+company_display: Vmware
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 325000
+    currency: USD
+  - region: Bangalore
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 4200000
+    total_comp_high: 8500000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Senior Software Engineers at VMware own critical subsystems within the virtualization, networking, and cloud infrastructure stack that runs the world's enterprise data centers, now with Broadcom's AVGO equity as part of the compensation package."
+---
 ### Senior Software Engineer — VMware (Broadcom) Salary Negotiation Guide
 
 **Negotiation DNA**: Senior Software Engineers at VMware own critical subsystems within the virtualization, networking, and cloud infrastructure stack that runs the world's enterprise data centers, now with Broadcom's AVGO equity as part of the compensation package.

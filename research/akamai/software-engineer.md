@@ -1,3 +1,49 @@
+---
+company: akamai
+company_display: Akamai
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge (MA)
+    base_low: 130000
+    base_high: 155000
+    stock_low: 50000
+    stock_high: 90000
+    bonus_pct: 8
+    total_comp_low: 172000
+    total_comp_high: 225000
+    currency: USD
+  - region: San Francisco
+    base_low: 140000
+    base_high: 165000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_pct: 8
+    total_comp_low: 185000
+    total_comp_high: 240000
+    currency: USD
+  - region: Remote US
+    base_low: 120000
+    base_high: 145000
+    stock_low: 45000
+    stock_high: 80000
+    bonus_pct: 8
+    total_comp_low: 162000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Akamai SWE I = Google L3 / Meta E3 / Amazon SDE I"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Competitive IC Entry"
+---
 ### Software Engineer | Akamai Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Competitive IC Entry

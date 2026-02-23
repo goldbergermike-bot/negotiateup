@@ -1,3 +1,39 @@
+---
+company: flexport
+company_display: Flexport
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 222000
+    stock_low: 82000
+    stock_high: 225000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 348000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 208000
+    stock_low: 72000
+    stock_high: 205000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Flexport SA (IC3-IC4) = project44 SA = FourKites SA = Maersk Digital SA = Google L4-L5 SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Freight Forwarding + Supply Chain Tech | $8B Valuation | Global Logistics Platform | **LOGISTICS INTEGRATION PREMIUM**"
+---
 ### Solutions Architect | Flexport Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Freight Forwarding + Supply Chain Tech | $8B Valuation | Global Logistics Platform | **LOGISTICS INTEGRATION PREMIUM**

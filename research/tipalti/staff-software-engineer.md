@@ -1,3 +1,52 @@
+---
+company: tipalti
+company_display: Tipalti
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 200000
+    base_high: 260000
+    stock_low: 100000
+    stock_high: 220000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 325000
+    total_comp_high: 530000
+    currency: USD
+  - region: New York NY
+    base_low: 195000
+    base_high: 255000
+    stock_low: 90000
+    stock_high: 210000
+    bonus_low: 23000
+    bonus_high: 48000
+    total_comp_low: 308000
+    total_comp_high: 513000
+    currency: USD
+  - region: Tel Aviv IL
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Tipalti | Google | Meta | Stripe | Bill.com | AvidXchange |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `AI Trust` `Fintech` `Pre-IPO` `Payables Automation` `Staff IC` `Technical Leadership`"
+---
 ### Staff Software Engineer | Tipalti Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `AI Trust` `Fintech` `Pre-IPO` `Payables Automation` `Staff IC` `Technical Leadership`

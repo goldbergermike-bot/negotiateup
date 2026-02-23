@@ -1,3 +1,49 @@
+---
+company: snap
+company_display: Snap
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 175000
+    base_high: 225000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 322000
+    currency: USD
+  - region: San Francisco
+    base_low: 185000
+    base_high: 238000
+    stock_low: 212000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 246000
+    total_comp_high: 342000
+    currency: USD
+  - region: New York
+    base_low: 182000
+    base_high: 235000
+    stock_low: 208000
+    stock_high: 372000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 336000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snap Senior Software Engineer (L5) = Google L5 Senior SWE = Meta E5 Senior = Apple ICT4 = Amazon SDE III = Microsoft Senior (63-64)
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | Senior IC Premium"
+---
 ### Senior Software Engineer | Snap Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | Senior IC Premium

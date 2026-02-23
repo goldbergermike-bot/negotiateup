@@ -1,3 +1,52 @@
+---
+company: coinbase
+company_display: Coinbase
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 225000
+    stock_low: 220000
+    stock_high: 420000
+    bonus_low: 22000
+    bonus_high: 40000
+    total_comp_low: 262000
+    total_comp_high: 368000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 220000
+    stock_low: 210000
+    stock_high: 400000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 255000
+    total_comp_high: 360000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 205000
+    stock_low: 190000
+    stock_high: 370000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 238000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "`Everything Exchange` · `$2B Buyback` · `COIN` · `PM L4-L5` · `Multi-Asset Product Strategy` · `Regulatory Navigation` · `RSU/4yr Vest`"
+---
 ### Product Manager | Coinbase Global Negotiation Guide
 
 **Negotiation DNA:** `Everything Exchange` · `$2B Buyback` · `COIN` · `PM L4-L5` · `Multi-Asset Product Strategy` · `Regulatory Navigation` · `RSU/4yr Vest`

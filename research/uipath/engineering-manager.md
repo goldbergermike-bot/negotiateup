@@ -1,3 +1,67 @@
+---
+company: uipath
+company_display: Uipath
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (NYC / Bellevue / Bay Area)
+    base_low: 200000
+    base_high: 278000
+    stock_low: 100000
+    stock_high: 275000
+    bonus_pct: 15
+    total_comp_low: 280000
+    total_comp_high: 430000
+    currency: USD
+  - region: US (Other Markets / Remote)
+    base_low: 175000
+    base_high: 248000
+    stock_low: 78000
+    stock_high: 218000
+    bonus_pct: 12
+    total_comp_low: 242000
+    total_comp_high: 378000
+    currency: USD
+  - region: Romania (Bucharest)
+    base_low: 65000
+    base_high: 108000
+    stock_low: 28000
+    stock_high: 75000
+    bonus_pct: 12
+    total_comp_low: 88000
+    total_comp_high: 155000
+    currency: EUR
+  - region: EMEA (London/Munich)
+    base_low: 92000
+    base_high: 142000
+    stock_low: 42000
+    stock_high: 105000
+    bonus_pct: 12
+    total_comp_low: 125000
+    total_comp_high: 212000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 4000000
+    base_high: 7200000
+    stock_low: 2000000
+    stock_high: 5000000
+    bonus_pct: 12
+    total_comp_low: 5200000
+    total_comp_high: 10000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "UiPath EM ~ Microsoft 65/66 EM | Google L6/L7 EM | Automation Anywhere Director | ServiceNow EM/Director"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Automation platform engineering leader | AI-powered RPA team builder & delivery driver | **LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | UiPath Global Negotiation Guide
 
 **Negotiation DNA:** Automation platform engineering leader | AI-powered RPA team builder & delivery driver | **LEADERSHIP PREMIUM**

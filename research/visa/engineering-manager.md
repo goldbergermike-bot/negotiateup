@@ -1,3 +1,54 @@
+---
+company: visa
+company_display: Visa
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Foster City
+    base_low: 195000
+    base_high: 260000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_low: 35000
+    bonus_high: 65000
+    total_comp_low: 430000
+    total_comp_high: 685000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 275000
+    stock_low: 220000
+    stock_high: 380000
+    bonus_low: 38000
+    bonus_high: 70000
+    total_comp_low: 468000
+    total_comp_high: 725000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 160000
+    stock_low: 115000
+    stock_high: 200000
+    bonus_low: 22000
+    bonus_high: 40000
+    total_comp_low: 257000
+    total_comp_high: 400000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Visa | Google | Meta | Stripe | JPMorgan | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Infrastructure` `People Leadership` `VisaNet` `4B+ Cards` `200+ Countries` `Org Building` `Delivery Ownership`"
+---
 ### Engineering Manager | Visa Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: V` `Trusted Agent Protocol` `Standard-Bearer` `Payments Infrastructure` `People Leadership` `VisaNet` `4B+ Cards` `200+ Countries` `Org Building` `Delivery Ownership`

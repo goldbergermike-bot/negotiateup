@@ -1,3 +1,59 @@
+---
+company: darktrace
+company_display: Darktrace
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge UK
+    base_low: 90000
+    base_high: 125000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 13500
+    bonus_high: 25000
+    signing_bonus_low: 8000
+    signing_bonus_high: 18000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: London
+    base_low: 100000
+    base_high: 140000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 15000
+    bonus_high: 28000
+    signing_bonus_low: 10000
+    signing_bonus_high: 20000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: San Francisco
+    base_low: 200000
+    base_high: 260000
+    stock_low: 120000
+    stock_high: 260000
+    bonus_low: 30000
+    bonus_high: 52000
+    signing_bonus_low: 20000
+    signing_bonus_high: 45000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at Darktrace maps to L6 Manager at Google, M1 at Meta, SDM at Amazon, and 65 Manager at Microsoft."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Hired
+negotiation_dna_summary: "Engineering Manager | Darktrace (LSE: DARK) | Management Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco"
+---
 ### Engineering Manager | Darktrace Global Negotiation Guide
 
 **Negotiation DNA:** Engineering Manager | Darktrace (LSE: DARK) | Management Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco

@@ -1,3 +1,51 @@
+---
+company: charles-schwab
+company_display: Charles Schwab
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westlake, TX (HQ)"
+    base_low: 125000
+    base_high: 168000
+    stock_low: 32000
+    stock_high: 55000
+    bonus_low: 18000
+    bonus_high: 29000
+    total_comp_low: 175000
+    total_comp_high: 252000
+    currency: USD
+  - region: San Francisco
+    base_low: 138000
+    base_high: 185000
+    stock_low: 35000
+    stock_high: 61000
+    bonus_low: 20000
+    bonus_high: 32000
+    total_comp_low: 193000
+    total_comp_high: 277000
+    currency: USD
+  - region: Denver
+    base_low: 131000
+    base_high: 176000
+    stock_low: 34000
+    stock_high: 58000
+    bonus_low: 19000
+    bonus_high: 30000
+    total_comp_low: 184000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Platform Reliability` `TD Ameritrade Infrastructure Unification` `Financial-Grade SRE`"
+---
 ### DevOps Engineer | Charles Schwab Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Platform Reliability` `TD Ameritrade Infrastructure Unification` `Financial-Grade SRE`

@@ -1,3 +1,53 @@
+---
+company: ubs
+company_display: UBS
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 140000
+    base_high: 185000
+    stock_low: 27000
+    stock_high: 48000
+    bonus_low: 21000
+    bonus_high: 35000
+    total_comp_low: 188000
+    total_comp_high: 268000
+    currency: USD
+  - region: Zurich (HQ)
+    base_low: 123000
+    base_high: 163000
+    stock_low: 24000
+    stock_high: 42000
+    bonus_low: 18000
+    bonus_high: 31000
+    total_comp_low: 165000
+    total_comp_high: 236000
+    currency: CHF
+  - region: London
+    base_low: 112000
+    base_high: 148000
+    stock_low: 22000
+    stock_high: 38000
+    bonus_low: 17000
+    bonus_high: 28000
+    total_comp_low: 150000
+    total_comp_high: 214000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Data Pipeline Consolidation` `ETL Migration` `Data Lake Unification`"
+---
 ### Data Engineer | UBS Global Negotiation Guide
 
 **Negotiation DNA:** `CS Migration` `Efficiency-Impact` `$2.8B IT Savings` `Public Equity (NYSE: UBS)` `$5.7T+ Invested Assets` `Data Pipeline Consolidation` `ETL Migration` `Data Lake Unification`

@@ -1,3 +1,53 @@
+---
+company: airbase
+company_display: Airbase
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 220000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 255000
+    total_comp_high: 390000
+    currency: USD
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 5000000
+    stock_low: 1500000
+    stock_high: 3000000
+    bonus_low: 500000
+    bonus_high: 1000000
+    total_comp_low: 5000000
+    total_comp_high: 9000000
+    currency: INR
+  - region: New York
+    base_low: 175000
+    base_high: 225000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 260000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Airbase | Google | Meta | Stripe | Bill.com | Coupa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Pre-Sales/Post-Sales` `Enterprise Architecture`"
+---
 ### Solutions Architect | Airbase Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Deep ERP` `Spend Management` `Interoperability` `Options` `Pre-Sales/Post-Sales` `Enterprise Architecture`

@@ -1,3 +1,48 @@
+---
+company: lianlian-global
+company_display: Lianlian Global
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":cn: Hangzhou (CNY)"
+    base_low: 350000
+    base_high: 600000
+    stock_low: 150000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 500000
+    total_comp_high: 950000
+    currency: JPY
+  - region: ":hong_kong: Hong Kong (HKD)"
+    base_low: 580000
+    base_high: 1000000
+    stock_low: 220000
+    stock_high: 500000
+    bonus_pct: null
+    total_comp_low: 800000
+    total_comp_high: 1500000
+    currency: HKD
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 100000
+    base_high: 170000
+    stock_low: 35000
+    stock_high: 90000
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 260000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a security engineering compensation framework spanning Hangzhou, Hong Kong, and Singapore markets."
+---
 ### Security Engineer — LianLian Global Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a security engineering compensation framework spanning Hangzhou, Hong Kong, and Singapore markets.

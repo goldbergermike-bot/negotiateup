@@ -1,3 +1,53 @@
+---
+company: global-payments
+company_display: Global Payments
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 190000
+    base_high: 245000
+    stock_low: 160000
+    stock_high: 320000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 380000
+    total_comp_high: 620000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 275000
+    stock_low: 200000
+    stock_high: 400000
+    bonus_low: 38000
+    bonus_high: 65000
+    total_comp_low: 448000
+    total_comp_high: 740000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 175000
+    stock_low: 110000
+    stock_high: 220000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 260000
+    total_comp_high: 433000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Global Payments | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Technical Leadership` `Staff IC Track`"
+---
 ### Staff Software Engineer | Global Payments Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Technical Leadership` `Staff IC Track`

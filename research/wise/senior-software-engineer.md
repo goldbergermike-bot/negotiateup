@@ -1,3 +1,49 @@
+---
+company: wise
+company_display: Wise
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 75000
+    base_high: 105000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_pct: null
+    total_comp_low: 115000
+    total_comp_high: 185000
+    currency: GBP
+  - region: Tallinn (EUR)
+    base_low: 58000
+    base_high: 82000
+    stock_low: 30000
+    stock_high: 60000
+    bonus_pct: null
+    total_comp_low: 88000
+    total_comp_high: 142000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 100000
+    base_high: 140000
+    stock_low: 50000
+    stock_high: 90000
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 230000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a senior software engineering compensation framework spanning London, Tallinn, and Singapore markets. As a Senior Software Engineer at Wise, you are a technical leader shaping the Platform Integrity architecture that underpins billions in transparent cross-border transactions and the Wise Platform API's enterprise-grade reliability."
+---
 ### Senior Software Engineer — Wise Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Wise's Mid-Market Infrastructure strategy, translating the LSE public status (LSE: WISE) and industry-leading 4.3 Trustpilot rating into a senior software engineering compensation framework spanning London, Tallinn, and Singapore markets. As a Senior Software Engineer at Wise, you are a technical leader shaping the Platform Integrity architecture that underpins billions in transparent cross-border transactions and the Wise Platform API's enterprise-grade reliability.

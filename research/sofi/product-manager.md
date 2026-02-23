@@ -1,3 +1,48 @@
+---
+company: sofi
+company_display: SoFi
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 155000
+    base_high: 195000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 12
+    total_comp_low: 212000
+    total_comp_high: 295000
+    currency: USD
+  - region: New York / Salt Lake City
+    base_low: 142000
+    base_high: 180000
+    stock_low: 130000
+    stock_high: 250000
+    bonus_pct: 12
+    total_comp_low: 192000
+    total_comp_high: 270000
+    currency: USD
+  - region: Remote US
+    base_low: 132000
+    base_high: 168000
+    stock_low: 110000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 248000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`$212K-$295K TC (SF)` | `LTV Accelerator` | `Member Growth Driver` | `NASDAQ: SOFI`"
+---
 ### Product Manager | SoFi Global Negotiation Guide
 
 **Negotiation DNA:** `$212K-$295K TC (SF)` | `LTV Accelerator` | `Member Growth Driver` | `NASDAQ: SOFI`

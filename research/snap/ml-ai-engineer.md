@@ -1,3 +1,48 @@
+---
+company: snap
+company_display: Snap
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 180000
+    base_high: 235000
+    stock_low: 220000
+    stock_high: 380000
+    bonus_pct: 12
+    total_comp_low: 242000
+    total_comp_high: 335000
+    currency: USD
+  - region: San Francisco
+    base_low: 190000
+    base_high: 248000
+    stock_low: 232000
+    stock_high: 400000
+    bonus_pct: 12
+    total_comp_low: 256000
+    total_comp_high: 355000
+    currency: USD
+  - region: New York
+    base_low: 186000
+    base_high: 242000
+    stock_low: 228000
+    stock_high: 392000
+    bonus_pct: 12
+    total_comp_low: 250000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Snap ML/AI Engineer (L3–L6) = Google ML Engineer L3-L6 = Meta ML Engineer IC3-IC6 = Apple ML Engineer = Amazon Applied Scientist = Microsoft ML Engineer (59-64)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | **+15–25% AI Premium** | AR/ML Dual Premium"
+---
 ### ML/AI Engineer | Snap Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy RSU Structure | Camera & AR Platform | Specs Inc. Spin-Out (Jan 2026) | 100-Role Hiring Sprint | **+15–25% AI Premium** | AR/ML Dual Premium

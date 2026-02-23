@@ -1,3 +1,40 @@
+---
+company: launchdarkly
+company_display: LaunchDarkly
+role: feature-management-engineer
+role_display: Feature Management Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland HQ
+    base_low: 160000
+    base_high: 220000
+    stock_low: 65000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 320000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: LaunchDarkly Feature Mgmt Eng (Senior) = GitLab Senior SWE = Google L4 = Optimizely Senior SWE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($3B Valuation) | Feature Management Platform | **SIGNATURE ROLE** | Category Creator"
+---
 ### Feature Management Engineer | LaunchDarkly Global Negotiation Guide
 
 **Negotiation DNA:** Private ($3B Valuation) | Feature Management Platform | **SIGNATURE ROLE** | Category Creator

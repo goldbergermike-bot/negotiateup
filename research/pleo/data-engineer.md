@@ -1,3 +1,53 @@
+---
+company: pleo
+company_display: Pleo
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Copenhagen
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 70000
+    base_high: 95000
+    stock_low: 20000
+    stock_high: 42000
+    bonus_low: 6000
+    bonus_high: 10000
+    total_comp_low: 96000
+    total_comp_high: 147000
+    currency: GBP
+  - region: Berlin
+    base_low: 67000
+    base_high: 90000
+    stock_low: 19000
+    stock_high: 38000
+    bonus_low: 6000
+    bonus_high: 10000
+    total_comp_low: 92000
+    total_comp_high: 138000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "| Pleo | Google | Meta | Stripe | Spendesk | Brex |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Crunchbase
+negotiation_dna_summary: "`Private` `Real-Time Yield` `Fintech` `Spend Management` `European Scale` `Pre-IPO` `Cash-Management Yield` `Data Infrastructure` `Pipeline Architecture`"
+---
 ### Data Engineer | Pleo Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Real-Time Yield` `Fintech` `Spend Management` `European Scale` `Pre-IPO` `Cash-Management Yield` `Data Infrastructure` `Pipeline Architecture`

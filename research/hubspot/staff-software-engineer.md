@@ -1,3 +1,49 @@
+---
+company: hubspot
+company_display: Hubspot
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Cambridge, MA (HQ)"
+    base_low: 215000
+    base_high: 260000
+    stock_low: 290000
+    stock_high: 465000
+    bonus_pct: 12
+    total_comp_low: 308000
+    total_comp_high: 398000
+    currency: USD
+  - region: "Dublin, Ireland"
+    base_low: 129000
+    base_high: 169000
+    stock_low: 160000
+    stock_high: 279000
+    bonus_pct: 12
+    total_comp_low: 185000
+    total_comp_high: 259000
+    currency: EUR
+  - region: "London, UK"
+    base_low: 140000
+    base_high: 182000
+    stock_low: 174000
+    stock_high: 302000
+    bonus_pct: 12
+    total_comp_low: 200000
+    total_comp_high: 279000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Balanced Comp (Base + RSU + 12-18% Bonus) | \"Grow Better\" Remote-First Culture | Breeze AI Copilot Integration | M&A Optionality"
+---
 ### Staff Software Engineer | HubSpot Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Comp (Base + RSU + 12-18% Bonus) | "Grow Better" Remote-First Culture | Breeze AI Copilot Integration | M&A Optionality

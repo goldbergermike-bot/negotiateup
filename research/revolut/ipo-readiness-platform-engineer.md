@@ -1,3 +1,48 @@
+---
+company: revolut
+company_display: Revolut
+role: ipo-readiness-platform-engineer
+role_display: IPO Readiness Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":gb: London (GBP)"
+    base_low: 110000
+    base_high: 160000
+    stock_low: 150000
+    stock_high: 400000
+    bonus_pct: null
+    total_comp_low: 260000
+    total_comp_high: 560000
+    currency: GBP
+  - region: ":lt: Vilnius (EUR)"
+    base_low: 80000
+    base_high: 120000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 400000
+    currency: EUR
+  - region: ":us: New York (USD)"
+    base_low: 190000
+    base_high: 270000
+    stock_low: 250000
+    stock_high: 550000
+    bonus_pct: null
+    total_comp_low: 440000
+    total_comp_high: 820000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Revolut's US IPO Alpha strategy, translating the $9B revenue and $3.5B profit targets into a specialized IPO Readiness Platform Engineering compensation framework spanning London, Vilnius, and New York markets. The IPO Readiness Platform Engineer is the apex technical role of the pre-IPO window — you are building the exact systems, infrastructure, and compliance automation that will determine whether Europe's most valuable fintech successfully completes its historic US IPO. Th"
+---
 ### IPO Readiness Platform Engineer — Revolut Salary Negotiation Guide
 
 ## SIGNATURE ROLE

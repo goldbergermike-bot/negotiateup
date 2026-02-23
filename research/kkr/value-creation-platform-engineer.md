@@ -1,3 +1,50 @@
+---
+company: kkr
+company_display: KKR
+role: value-creation-platform-engineer
+role_display: Value Creation Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 298000
+    base_high: 385000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 28
+    total_comp_low: 588000
+    total_comp_high: 855000
+    currency: USD
+  - region: San Francisco
+    base_low: 310000
+    base_high: 400000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 28
+    total_comp_low: 608000
+    total_comp_high: 885000
+    currency: USD
+  - region: London
+    base_low: 231000
+    base_high: 298000
+    stock_low: 279000
+    stock_high: 418000
+    bonus_low: 66000
+    bonus_high: 97000
+    total_comp_low: 576000
+    total_comp_high: 813000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#HighGrading` `#ValueCreation` `#OperationalAlpha` `#SignatureRole` `#+25-35%ValueCreationPremium` `#PlatformArchitect` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#PortfolioScaleAI` `#CapstoneEngineering`"
+---
 ### Value Creation Platform Engineer | KKR Global Negotiation Guide
 
 **SIGNATURE ROLE** | **+25-35% Value Creation Premium**

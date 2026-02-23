@@ -1,3 +1,52 @@
+---
+company: toast
+company_display: Toast
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston MA
+    base_low: 155000
+    base_high: 200000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 198000
+    total_comp_high: 295000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 180000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 213000
+    total_comp_high: 320000
+    currency: USD
+  - region: San Francisco
+    base_low: 180000
+    base_high: 235000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 22000
+    bonus_high: 45000
+    total_comp_low: 230000
+    total_comp_high: 350000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Toast | Google | Meta | Stripe | Block | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: TOST` `Toast IQ` `Data Scientist` `Restaurant Tech` `Hospitality Intelligence` `Machine Learning` `Analytics` `Restaurant OS`"
+---
 ### Data Scientist | Toast Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: TOST` `Toast IQ` `Data Scientist` `Restaurant Tech` `Hospitality Intelligence` `Machine Learning` `Analytics` `Restaurant OS`

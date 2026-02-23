@@ -1,3 +1,50 @@
+---
+company: vercel
+company_display: Vercel
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 220000
+    stock_low: 140000
+    stock_high: 270000
+    bonus_pct: 5
+    total_comp_low: 225000
+    total_comp_high: 340000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 220000
+    stock_low: 140000
+    stock_high: 270000
+    bonus_pct: 5
+    total_comp_low: 225000
+    total_comp_high: 340000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 168000
+    stock_low: 107000
+    stock_high: 205000
+    bonus_pct: 5
+    total_comp_low: 171000
+    total_comp_high: 259000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Vercel Data Scientist = Google L4 DS = Meta E4 DS = Amplitude Senior DS = Datadog Data Scientist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI-Powered Product Intelligence"
+---
 ### Data Scientist | Vercel Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Pre-IPO Equity | Edge-First Deployment Pioneer | 2026 Focus: AI-Powered Product Intelligence

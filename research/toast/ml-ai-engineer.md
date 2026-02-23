@@ -1,3 +1,51 @@
+---
+company: toast
+company_display: Toast
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston MA
+    base_low: 175000
+    base_high: 230000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 237000
+    total_comp_high: 347000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 245000
+    stock_low: 135000
+    stock_high: 250000
+    bonus_low: 25000
+    bonus_high: 48000
+    total_comp_low: 259000
+    total_comp_high: 380000
+    currency: USD
+  - region: San Francisco
+    base_low: 205000
+    base_high: 265000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_low: 28000
+    bonus_high: 55000
+    total_comp_low: 280000
+    total_comp_high: 420000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Toast | Google | Meta | Stripe | Block | Fiserv |"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`NYSE: TOST` `Toast IQ` `ML/AI Engineer` `Restaurant Tech` `Hospitality Intelligence` `Machine Learning` `Deep Learning` `NLP` `Restaurant OS`"
+---
 ### ML/AI Engineer | Toast Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: TOST` `Toast IQ` `ML/AI Engineer` `Restaurant Tech` `Hospitality Intelligence` `Machine Learning` `Deep Learning` `NLP` `Restaurant OS`

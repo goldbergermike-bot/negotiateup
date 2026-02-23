@@ -1,3 +1,49 @@
+---
+company: marvell
+company_display: Marvell
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 155000
+    base_high: 195000
+    stock_low: 110000
+    stock_high: 190000
+    bonus_pct: 12
+    total_comp_low: 212000
+    total_comp_high: 292000
+    currency: USD
+  - region: Boise
+    base_low: 139000
+    base_high: 175000
+    stock_low: 95000
+    stock_high: 165000
+    bonus_pct: 12
+    total_comp_low: 188000
+    total_comp_high: 258000
+    currency: USD
+  - region: Remote US
+    base_low: 147000
+    base_high: 185000
+    stock_low: 100000
+    stock_high: 178000
+    bonus_pct: 12
+    total_comp_low: 198000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Marvell PM T5 = Google PM L5 = Meta PM IC5 = Apple PM ICT4 = Broadcom Product Marketing Manager = AMD Senior PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | Standard Band"
+---
 ### Product Manager | Marvell Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | Standard Band

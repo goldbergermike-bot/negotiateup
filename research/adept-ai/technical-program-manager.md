@@ -1,3 +1,50 @@
+---
+company: adept-ai
+company_display: Adept AI
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 225000
+    stock_low: 85000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 186000
+    total_comp_high: 288000
+    currency: USD
+  - region: Seattle
+    base_low: 160000
+    base_high: 218000
+    stock_low: 85000
+    stock_high: 250000
+    bonus_pct: null
+    total_comp_low: 181000
+    total_comp_high: 281000
+    currency: USD
+  - region: Remote US
+    base_low: 149000
+    base_high: 203000
+    stock_low: 77000
+    stock_high: 225000
+    bonus_pct: null
+    total_comp_low: 168000
+    total_comp_high: 259000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Adept TPM = Amazon Sr TPM = Google L4-L5 TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | Agent Platform Programs"
+---
 ### Technical Program Manager | Adept AI Global Negotiation Guide
 
 **Negotiation DNA:** Growth Comp + Pre-IPO Equity | $1B+ Valuation (Amazon Acquired Team) | San Francisco | Agent Platform Programs

@@ -1,3 +1,39 @@
+---
+company: render
+company_display: Render
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 385000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 363000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Software Engineers at Render build the cloud hosting and PaaS platform that provides a modern Heroku alternative — enabling developers to deploy web services, static sites, cron jobs, databases, and background workers with zero DevOps through a beautiful, git-integrated deployment experience."
+---
 ### Software Engineer — Render Salary Negotiation Guide
 
 **Negotiation DNA**: Software Engineers at Render build the cloud hosting and PaaS platform that provides a modern Heroku alternative — enabling developers to deploy web services, static sites, cron jobs, databases, and background workers with zero DevOps through a beautiful, git-integrated deployment experience.

@@ -1,3 +1,50 @@
+---
+company: figma
+company_display: Figma
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 270000
+    stock_low: 280000
+    stock_high: 500000
+    bonus_pct: 5
+    total_comp_low: 350000
+    total_comp_high: 530000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 270000
+    stock_low: 280000
+    stock_high: 500000
+    bonus_pct: 5
+    total_comp_low: 350000
+    total_comp_high: 530000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 205000
+    stock_low: 213000
+    stock_high: 380000
+    bonus_pct: 5
+    total_comp_low: 266000
+    total_comp_high: 403000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Figma Senior SWE = Google L5 = Meta E5 = Adobe Senior SWE = Canva Senior Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Top-Tier Base + Significant Equity | Design Platform Pioneer | 2026 Focus: AI-Native Design Intelligence"
+---
 ### Senior Software Engineer | Figma Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier Base + Significant Equity | Design Platform Pioneer | 2026 Focus: AI-Native Design Intelligence

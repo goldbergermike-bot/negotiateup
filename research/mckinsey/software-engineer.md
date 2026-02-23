@@ -1,3 +1,49 @@
+---
+company: mckinsey
+company_display: Mckinsey
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 155000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 194000
+    total_comp_high: 293000
+    currency: USD
+  - region: Chicago
+    base_low: 145000
+    base_high: 185000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 181000
+    total_comp_high: 278000
+    currency: USD
+  - region: Bangalore
+    base_low: 2500000
+    base_high: 4000000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 3100000
+    total_comp_high: 6000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: McKinsey Software Engineer = Google L3-L4 = Meta E3-E4 = Amazon SDE I-II
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Performance Bonus (25-50%) | No Equity | Elite Consulting Premium"
+---
 ### Software Engineer | McKinsey Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Performance Bonus (25-50%) | No Equity | Elite Consulting Premium

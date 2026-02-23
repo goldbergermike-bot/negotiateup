@@ -1,3 +1,50 @@
+---
+company: asml
+company_display: Asml
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 75000
+    base_high: 90000
+    stock_low: 20000
+    stock_high: 38000
+    bonus_pct: 10
+    total_comp_low: 75000
+    total_comp_high: 105000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 130000
+    base_high: 180000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_pct: 12
+    total_comp_low: 188000
+    total_comp_high: 262000
+    currency: USD
+  - region: San Jose
+    base_low: 138000
+    base_high: 188000
+    stock_low: 42000
+    stock_high: 68000
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML Solutions Architect maps to Google L5 Solutions Architect, AWS Senior Solutions Architect, Microsoft Azure Solutions Architect 63–64, and semiconductor industry Principal Systems Engineer."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% SA Band"
+---
 ### Solutions Architect | ASML Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% SA Band

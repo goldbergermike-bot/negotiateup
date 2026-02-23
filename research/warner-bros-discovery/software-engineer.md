@@ -1,3 +1,51 @@
+---
+company: warner-bros-discovery
+company_display: Warner Bros. Discovery
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Los Angeles
+    base_low: 125000
+    base_high: 175000
+    stock_low: 30000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 235000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 118000
+    base_high: 165000
+    stock_low: 25000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+  - region: London (UK)
+    base_low: 92000
+    base_high: 130000
+    stock_low: 20000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: WBD SWE (L3-L4) = Google L3-L4 = Meta E3-E4 = Amazon SDE I-II = Comcast T3-T4 = Disney IC2-IC3
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - LinkedIn
+negotiation_dna_summary: "$25B Media Company | Max Streaming + HBO + Discovery | Mid-Tier Media Tech Comp"
+---
 ### Software Engineer | Warner Bros Discovery Global Negotiation Guide
 
 **Negotiation DNA:** $25B Media Company | Max Streaming + HBO + Discovery | Mid-Tier Media Tech Comp

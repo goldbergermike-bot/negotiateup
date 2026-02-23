@@ -1,3 +1,67 @@
+---
+company: sap
+company_display: Sap
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 160000
+    base_high: 230000
+    stock_low: 75000
+    stock_high: 200000
+    bonus_pct: 12
+    total_comp_low: 215000
+    total_comp_high: 345000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 295000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 90000
+    base_high: 140000
+    stock_low: 40000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 210000
+    currency: EUR
+  - region: UK (London)
+    base_low: 80000
+    base_high: 125000
+    stock_low: 35000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 110000
+    total_comp_high: 185000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2800000
+    base_high: 5500000
+    stock_low: 1500000
+    stock_high: 4000000
+    bonus_pct: 10
+    total_comp_low: 3800000
+    total_comp_high: 7500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP T3/T4 (ML) ~ Google L5/L6 MLE | Microsoft 63/64 AI | Amazon L6/L7 Applied Scientist | Meta E5/E6 MLE"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Enterprise machine learning specialist | SAP Business AI & Joule ML infrastructure | **AI/ML PREMIUM**"
+---
 ### ML/AI Engineer | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise machine learning specialist | SAP Business AI & Joule ML infrastructure | **AI/ML PREMIUM**

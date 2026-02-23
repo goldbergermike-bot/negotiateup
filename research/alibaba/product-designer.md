@@ -1,3 +1,68 @@
+---
+company: alibaba
+company_display: Alibaba
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 140000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 300000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 135000
+    base_high: 195000
+    stock_low: 55000
+    stock_high: 160000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 290000
+    currency: USD
+  - region: Hangzhou (HQ)
+    base_low: 340000
+    base_high: 640000
+    stock_low: 120000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 490000
+    total_comp_high: 1020000
+    currency: CNY
+  - region: Beijing
+    base_low: 320000
+    base_high: 610000
+    stock_low: 110000
+    stock_high: 360000
+    bonus_pct: 15
+    total_comp_low: 460000
+    total_comp_high: 970000
+    currency: CNY
+  - region: Singapore
+    base_low: 100000
+    base_high: 155000
+    stock_low: 40000
+    stock_high: 110000
+    bonus_pct: 15
+    total_comp_low: 130000
+    total_comp_high: 230000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Designer at Alibaba (P5-P7) = L4-L5 at Google, IC4-IC5 at Meta, equivalent Shopify/Etsy"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B market cap with e-commerce UX serving 1B+ consumers + Taobao/Tmall design systems defining Chinese commerce experience + US designers shape international product experiences | Alibaba designers influence purchase decisions worth $1T+ GMV | **COMMERCE UX PREMIUM**"
+---
 ### Product Designer | Alibaba Global Negotiation Guide
 
 **Negotiation DNA:** $200B market cap with e-commerce UX serving 1B+ consumers + Taobao/Tmall design systems defining Chinese commerce experience + US designers shape international product experiences | Alibaba designers influence purchase decisions worth $1T+ GMV | **COMMERCE UX PREMIUM**

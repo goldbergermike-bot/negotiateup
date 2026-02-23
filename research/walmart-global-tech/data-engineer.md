@@ -1,3 +1,39 @@
+---
+company: walmart-global-tech
+company_display: Walmart Global Tech
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bentonville AR (HQ)
+    base_low: 125000
+    base_high: 178000
+    stock_low: 45000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 258000
+    currency: USD
+  - region: Bay Area (Sunnyvale)
+    base_low: 138000
+    base_high: 193000
+    stock_low: 55000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Walmart Global Tech Data Engineer = Google Data Engineer L3-L4 = Amazon Data Engineer II = Meta Data Engineer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage"
+---
 ### Data Engineer | Walmart Global Tech Global Negotiation Guide
 
 **Negotiation DNA:** Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage

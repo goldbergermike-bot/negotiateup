@@ -1,3 +1,54 @@
+---
+company: global-payments
+company_display: Global Payments
+role: synergy-architect-platform-engineer
+role_display: Synergy Architect Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 185000
+    base_high: 250000
+    stock_low: 150000
+    stock_high: 320000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 365000
+    total_comp_high: 625000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 280000
+    stock_low: 180000
+    stock_high: 400000
+    bonus_low: 38000
+    bonus_high: 65000
+    total_comp_low: 428000
+    total_comp_high: 745000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 175000
+    stock_low: 100000
+    stock_high: 220000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 245000
+    total_comp_high: 433000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Global Payments | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Comparably
+negotiation_dna_summary: "`NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `SIGNATURE ROLE` `Platform Engineering` `Synergy Architect` `Cross-Platform Unification` `Merchant Data Integration` `Global Payment Infrastructure`"
+---
 ### Synergy Architect Platform Engineer | Global Payments Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `SIGNATURE ROLE` `Platform Engineering` `Synergy Architect` `Cross-Platform Unification` `Merchant Data Integration` `Global Payment Infrastructure`

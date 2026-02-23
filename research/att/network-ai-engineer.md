@@ -1,3 +1,50 @@
+---
+company: att
+company_display: "AT&T"
+role: network-ai-engineer
+role_display: Network AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas / Austin
+    base_low: 145000
+    base_high: 200000
+    stock_low: 40000
+    stock_high: 128000
+    bonus_pct: 12
+    total_comp_low: 178000
+    total_comp_high: 272000
+    currency: USD
+  - region: NYC / New Jersey
+    base_low: 152000
+    base_high: 210000
+    stock_low: 45000
+    stock_high: 138000
+    bonus_pct: 12
+    total_comp_low: 188000
+    total_comp_high: 290000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 142000
+    base_high: 195000
+    stock_low: 38000
+    stock_high: 122000
+    bonus_pct: 12
+    total_comp_low: 172000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "AT&T Network AI Engineer (Senior) = Google L5 ML Engineer = Ericsson Senior AI Engineer = T-Mobile Senior ML Engineer = Verizon Senior ML/Network Engineer"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$155B Legacy Telecom Modernizing | AI-Powered Network Intelligence | **SIGNATURE ROLE** | **+12-18% AI/NETWORK PREMIUM**"
+---
 ### Network AI Engineer | AT&T Global Negotiation Guide
 
 **Negotiation DNA:** $155B Legacy Telecom Modernizing | AI-Powered Network Intelligence | **SIGNATURE ROLE** | **+12-18% AI/NETWORK PREMIUM**

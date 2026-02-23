@@ -1,3 +1,53 @@
+---
+company: morgan-stanley
+company_display: Morgan Stanley
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 188000
+    base_high: 265000
+    stock_low: 52000
+    stock_high: 85000
+    bonus_low: 35000
+    bonus_high: 55000
+    total_comp_low: 275000
+    total_comp_high: 405000
+    currency: USD
+  - region: London
+    base_low: 154000
+    base_high: 217000
+    stock_low: 43000
+    stock_high: 70000
+    bonus_low: 29000
+    bonus_high: 45000
+    total_comp_low: 226000
+    total_comp_high: 332000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 1470000
+    base_high: 2070000
+    stock_low: 406000
+    stock_high: 663000
+    bonus_low: 273000
+    bonus_high: 429000
+    total_comp_low: 2150000
+    total_comp_high: 3160000
+    currency: HKD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Production ML Systems` `Advisory Model Architecture` `LLM Financial Applications`"
+---
 ### ML/AI Engineer | Morgan Stanley Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Advisory Protection` `Human-AI Collaboration` `Public Equity (NYSE: MS)` `$1.2T+ Client Assets` `Production ML Systems` `Advisory Model Architecture` `LLM Financial Applications`

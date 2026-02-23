@@ -1,3 +1,50 @@
+---
+company: hex
+company_display: Hex
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 250000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: 5
+    total_comp_low: 260000
+    total_comp_high: 390000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 245000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_pct: 5
+    total_comp_low: 255000
+    total_comp_high: 380000
+    currency: USD
+  - region: London
+    base_low: 148000
+    base_high: 190000
+    stock_low: 135000
+    stock_high: 240000
+    bonus_pct: 5
+    total_comp_low: 195000
+    total_comp_high: 295000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Hex Senior SWE = Google L5 = Meta E5 = Databricks Senior SWE = Snowflake Senior SWE = dbt Labs Staff Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity | Data Analytics Platform Pioneer | 2026 Focus: AI-Native Notebook Expansion"
+---
 ### Senior Software Engineer | Hex Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity | Data Analytics Platform Pioneer | 2026 Focus: AI-Native Notebook Expansion

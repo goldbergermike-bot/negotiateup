@@ -1,3 +1,48 @@
+---
+company: amd
+company_display: AMD
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 248000
+    base_high: 302000
+    stock_low: 248000
+    stock_high: 438000
+    bonus_pct: 15
+    total_comp_low: 342000
+    total_comp_high: 478000
+    currency: USD
+  - region: Austin
+    base_low: 242000
+    base_high: 295000
+    stock_low: 248000
+    stock_high: 438000
+    bonus_pct: 15
+    total_comp_low: 335000
+    total_comp_high: 468000
+    currency: USD
+  - region: Remote US
+    base_low: 235000
+    base_high: 288000
+    stock_low: 248000
+    stock_high: 438000
+    bonus_pct: 15
+    total_comp_low: 328000
+    total_comp_high: 458000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: AMD Staff SWE (PMTS) = NVIDIA Staff SWE = Intel Grade 9 = Google L5 = Broadcom IC4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Semiconductor & AI Compute | AI-Native Workflow | **+30% AI PRODUCTIVITY PREMIUM**"
+---
 ### Staff Software Engineer | AMD Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Semiconductor & AI Compute | AI-Native Workflow | **+30% AI PRODUCTIVITY PREMIUM**

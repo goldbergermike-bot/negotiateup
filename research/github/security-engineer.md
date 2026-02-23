@@ -1,3 +1,48 @@
+---
+company: github
+company_display: Github
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 210000
+    stock_low: 160000
+    stock_high: 260000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 330000
+    currency: USD
+  - region: Seattle
+    base_low: 165000
+    base_high: 205000
+    stock_low: 155000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 320000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 145000
+    stock_low: 100000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: GitHub SecEng = Microsoft Security Engineer (L61-L65) = Google SecEng L4-L6 = Meta Security IC4-IC6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Microsoft RSU + Bonus | Software Supply Chain Security & AI Safety"
+---
 ### Security Engineer | GitHub Global Negotiation Guide
 
 **Negotiation DNA:** Base + Microsoft RSU + Bonus | Software Supply Chain Security & AI Safety

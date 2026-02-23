@@ -1,3 +1,50 @@
+---
+company: character-ai
+company_display: Character AI
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park / Bay Area
+    base_low: 185000
+    base_high: 255000
+    stock_low: 135000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 219000
+    total_comp_high: 350000
+    currency: USD
+  - region: New York City
+    base_low: 185000
+    base_high: 255000
+    stock_low: 135000
+    stock_high: 380000
+    bonus_pct: null
+    total_comp_low: 219000
+    total_comp_high: 350000
+    currency: USD
+  - region: Remote US
+    base_low: 167000
+    base_high: 230000
+    stock_low: 122000
+    stock_high: 342000
+    bonus_pct: null
+    total_comp_low: 197000
+    total_comp_high: 316000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Character AI PM = Google L5 PM = Meta PM IC5 = Startup VP Product scope
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Top-Tier AI Comp + Pre-IPO Equity | $5B+ Valuation (Google Partnership) | Menlo Park | Consumer AI Product Strategy"
+---
 ### Product Manager | Character AI Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier AI Comp + Pre-IPO Equity | $5B+ Valuation (Google Partnership) | Menlo Park | Consumer AI Product Strategy

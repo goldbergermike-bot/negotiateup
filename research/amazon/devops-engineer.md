@@ -1,3 +1,65 @@
+---
+company: amazon
+company_display: Amazon
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 140000
+    base_high: 175000
+    stock_low: 130000
+    stock_high: 350000
+    bonus_pct: null
+    signing_bonus_low: 45000
+    signing_bonus_high: 90000
+    total_comp_low: 220000
+    total_comp_high: 360000
+    currency: USD
+  - region: Bay Area
+    base_low: 145000
+    base_high: 180000
+    stock_low: 140000
+    stock_high: 370000
+    bonus_pct: null
+    signing_bonus_low: 50000
+    signing_bonus_high: 95000
+    total_comp_low: 230000
+    total_comp_high: 375000
+    currency: USD
+  - region: NYC
+    base_low: 140000
+    base_high: 180000
+    stock_low: 135000
+    stock_high: 360000
+    bonus_pct: null
+    signing_bonus_low: 45000
+    signing_bonus_high: 90000
+    total_comp_low: 225000
+    total_comp_high: 370000
+    currency: USD
+  - region: Austin
+    base_low: 130000
+    base_high: 170000
+    stock_low: 120000
+    stock_high: 320000
+    bonus_pct: null
+    signing_bonus_low: 40000
+    signing_bonus_high: 80000
+    total_comp_low: 200000
+    total_comp_high: 340000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Amazon L5 SysDev/DevOps = Google L4 SRE = Meta Production Engineer E4 = Netflix Senior SRE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Back-Loaded RSU Vesting / Signing Bonus Bridge | \"You Build It, You Run It\" Culture"
+---
 ### DevOps Engineer | Amazon Global Negotiation Guide
 
 **Negotiation DNA:** Back-Loaded RSU Vesting / Signing Bonus Bridge | "You Build It, You Run It" Culture

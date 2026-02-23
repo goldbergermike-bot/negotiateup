@@ -1,3 +1,40 @@
+---
+company: postman
+company_display: Postman
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco HQ
+    base_low: 160000
+    base_high: 220000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 320000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 205000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Postman Senior TPM = GitLab Senior TPM = Google L5 TPM = Stripe Senior TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private ($5.6B Valuation) | API Development Platform | 30M+ Developer User Base | Liquidity Risk"
+---
 ### Technical Program Manager | Postman Global Negotiation Guide
 
 **Negotiation DNA:** Private ($5.6B Valuation) | API Development Platform | 30M+ Developer User Base | Liquidity Risk

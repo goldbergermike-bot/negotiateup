@@ -1,3 +1,50 @@
+---
+company: coreweave
+company_display: Coreweave
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Roseland NJ
+    base_low: 185000
+    base_high: 232000
+    stock_low: 195000
+    stock_high: 342000
+    bonus_pct: null
+    total_comp_low: 234000
+    total_comp_high: 318000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 224000
+    stock_low: 195000
+    stock_high: 342000
+    bonus_pct: null
+    total_comp_low: 227000
+    total_comp_high: 310000
+    currency: USD
+  - region: London
+    base_low: 139000
+    base_high: 175000
+    stock_low: 147000
+    stock_high: 258000
+    bonus_pct: null
+    total_comp_low: 176000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: CoreWeave DevOps = Google L4 SRE = AWS DevOps Engineer II = Meta E4 Production Engineer = Apple SRE ICT3
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium"
+---
 ### DevOps Engineer | CoreWeave Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + High Base | GPU Cloud Infrastructure | HPC Premium

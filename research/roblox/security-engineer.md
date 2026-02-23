@@ -1,3 +1,51 @@
+---
+company: roblox
+company_display: Roblox
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo
+    base_low: 170000
+    base_high: 220000
+    stock_low: 160000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 302000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 155000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 292000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 200000
+    stock_low: 140000
+    stock_high: 230000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 272000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Roblox Security Engineer (IC2-IC5) = Google Security Engineer L3-L6 = Meta Security Engineer = Amazon Security Engineer = Apple Security Engineer = Microsoft Security Engineer
+data_sources:
+  - Roblox 4D Generative AI Foundation Model — Roblox AI Blog 2026
+  - Roblox Creator Economy — $1B+ Creator Payouts — Roblox 2025 10-K
+  - Roblox 80M+ DAU Immersive Platform — Roblox Q4 2025 Earnings
+  - "Roblox Trust & Safety Report 2025 — Child Safety & Content Moderation"
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**"
+---
 ### Security Engineer | Roblox Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**

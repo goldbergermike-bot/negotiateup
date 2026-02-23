@@ -1,3 +1,67 @@
+---
+company: sap
+company_display: Sap
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 60000
+    stock_high: 170000
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 310000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 135000
+    base_high: 190000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 265000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 85000
+    base_high: 130000
+    stock_low: 35000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 115000
+    total_comp_high: 185000
+    currency: EUR
+  - region: UK (London)
+    base_low: 78000
+    base_high: 120000
+    stock_low: 30000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 102000
+    total_comp_high: 168000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2500000
+    base_high: 4800000
+    stock_low: 1200000
+    stock_high: 3500000
+    bonus_pct: 10
+    total_comp_low: 3500000
+    total_comp_high: 6500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP T3/T4 (Security) ~ Google L5/L6 Security | Microsoft 63/64 Security | Amazon L6/L7 Security | CrowdStrike Senior/Staff"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Enterprise security & compliance specialist | SAP cloud security & GRC expertise | **SECURITY PREMIUM**"
+---
 ### Security Engineer | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise security & compliance specialist | SAP cloud security & GRC expertise | **SECURITY PREMIUM**

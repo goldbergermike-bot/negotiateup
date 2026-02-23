@@ -1,3 +1,54 @@
+---
+company: tpg
+company_display: Tpg
+role: vertical-ai-platform-engineer
+role_display: Vertical AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 285000
+    base_high: 365000
+    stock_low: 350000
+    stock_high: 560000
+    bonus_low: 72000
+    bonus_high: 115000
+    total_comp_low: 710000
+    total_comp_high: 822000
+    currency: USD
+  - region: "Fort Worth, TX"
+    base_low: 245000
+    base_high: 312000
+    stock_low: 280000
+    stock_high: 450000
+    bonus_low: 58000
+    bonus_high: 92000
+    total_comp_low: 565000
+    total_comp_high: 668000
+    currency: USD
+  - region: New York
+    base_low: 278000
+    base_high: 355000
+    stock_low: 335000
+    stock_high: 540000
+    bonus_low: 68000
+    bonus_high: 110000
+    total_comp_low: 685000
+    total_comp_high: 798000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Comparably
+negotiation_dna_summary: "`Vertical AI` `Commercial Engine` `AI Infrastructure` `Public Equity (NASDAQ: TPG)` `$220B+ AUM` `+25-35% Vertical AI Premium` `SIGNATURE ROLE` `Platform Architecture` `Portfolio AI Integration` `Commercial Analytics Engine` `Revenue-Driving Platform Builder`"
+---
 ### Vertical AI Platform Engineer | TPG Global Negotiation Guide
 
 **SIGNATURE ROLE** | **+25-35% Vertical AI Premium** | **Highest Comp Band**

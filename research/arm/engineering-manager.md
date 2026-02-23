@@ -1,3 +1,48 @@
+---
+company: arm
+company_display: Arm
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 185000
+    base_high: 245000
+    stock_low: 260000
+    stock_high: 415000
+    bonus_pct: 15
+    total_comp_low: 278000
+    total_comp_high: 385000
+    currency: USD
+  - region: Austin
+    base_low: 165000
+    base_high: 220000
+    stock_low: 235000
+    stock_high: 375000
+    bonus_pct: 15
+    total_comp_low: 250000
+    total_comp_high: 348000
+    currency: USD
+  - region: Cambridge UK
+    base_low: 65000
+    base_high: 92000
+    stock_low: 160000
+    stock_high: 275000
+    bonus_pct: 15
+    total_comp_low: 95000
+    total_comp_high: 142000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ARM Engineering Manager = NVIDIA Engineering Manager = Intel Engineering Manager (Grade 8-9) = Google L6 Manager
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages"
+---
 ### Engineering Manager | ARM Global Negotiation Guide
 
 **Negotiation DNA:** Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages

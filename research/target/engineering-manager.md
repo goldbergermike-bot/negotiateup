@@ -1,3 +1,30 @@
+---
+company: target
+company_display: Target
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 145000
+    base_high: 195000
+    stock_low: 48000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target EM = Google EM L5 = Meta M1 = Amazon SDM II = Walmart EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage"
+---
 ### Engineering Manager | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage

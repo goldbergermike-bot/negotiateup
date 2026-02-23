@@ -1,3 +1,52 @@
+---
+company: klarna
+company_display: Klarna
+role: agentic-protocol-platform-engineer
+role_display: Agentic Protocol Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York
+    base_low: 238000
+    base_high: 295000
+    stock_low: 242000
+    stock_high: 428000
+    bonus_pct: 15
+    total_comp_low: 332000
+    total_comp_high: 468000
+    currency: USD
+  - region: Remote EU
+    base_low: 98000
+    base_high: 125000
+    stock_low: 82000
+    stock_high: 142000
+    bonus_pct: 15
+    total_comp_low: 132000
+    total_comp_high: 192000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Klarna Agentic Protocol Platform Eng (IC3-IC4) = Stripe Platform Eng = Adyen Core Platform Eng = Google Payments Platform Eng = No true peer — Klarna is building the first dedicated AI agent commerce protocol
+data_sources:
+  - Klarna Agentic Product Protocol — Platform Architecture
+  - Klarna Agentic Protocol Platform Eng — Signature Role Comp 2026
+  - Klarna Protocol Standard-Setting — AI Agent Commerce Infrastructure
+  - "Klarna 500,000+ Merchants — Protocol Network Effect"
+  - Klarna vs Stripe/Google — Protocol Platform Competition
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **SIGNATURE ROLE** | **+25–35% PROTOCOL PLATFORM PREMIUM**"
+---
 ### Agentic Protocol Platform Engineer | Klarna Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **SIGNATURE ROLE** | **+25–35% PROTOCOL PLATFORM PREMIUM**

@@ -1,3 +1,50 @@
+---
+company: asml
+company_display: Asml
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Veldhoven (NL)
+    base_low: 68000
+    base_high: 82000
+    stock_low: 15000
+    stock_high: 30000
+    bonus_pct: 8
+    total_comp_low: 68000
+    total_comp_high: 95000
+    currency: EUR
+  - region: Wilton (CT)
+    base_low: 122000
+    base_high: 165000
+    stock_low: 35000
+    stock_high: 58000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: USD
+  - region: San Jose
+    base_low: 130000
+    base_high: 172000
+    stock_low: 38000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ASML DevOps Engineer maps to Google L4 SRE, Meta Production Engineer IC4, Apple DevOps Engineer, Microsoft SDE/SRE 61–63, and semiconductor industry Senior DevOps Engineer."
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+  - LinkedIn
+negotiation_dna_summary: "Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% DevOps Band"
+---
 ### DevOps Engineer | ASML Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + RSU | EUV Lithography Monopoly | €38B+ Backlog | +0% DevOps Band

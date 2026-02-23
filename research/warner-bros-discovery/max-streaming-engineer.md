@@ -1,3 +1,50 @@
+---
+company: warner-bros-discovery
+company_display: Warner Bros. Discovery
+role: max-streaming-engineer
+role_display: Max Streaming Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Los Angeles
+    base_low: 150000
+    base_high: 200000
+    stock_low: 45000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 280000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 140000
+    base_high: 190000
+    stock_low: 40000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 260000
+    currency: USD
+  - region: London (UK)
+    base_low: 110000
+    base_high: 148000
+    stock_low: 30000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: WBD Max Streaming Engineer (Senior) = Google L4-L5 = Netflix Senior SWE = Disney+ Senior Platform Engineer = Amazon Prime Video SDE II-III
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$25B Media Company | Max (HBO) Streaming Platform | **SIGNATURE ROLE** | **+10-15% STREAMING PREMIUM**"
+---
 ### Max Streaming Engineer | Warner Bros Discovery Global Negotiation Guide
 
 **Negotiation DNA:** $25B Media Company | Max (HBO) Streaming Platform | **SIGNATURE ROLE** | **+10-15% STREAMING PREMIUM**

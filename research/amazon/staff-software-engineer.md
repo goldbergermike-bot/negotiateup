@@ -1,3 +1,66 @@
+---
+company: amazon
+company_display: Amazon
+role: staff-software-engineer
+role_display: Staff Software Engineer (Principal SDE / L7)
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 175000
+    base_high: 195000
+    stock_low: 500000
+    stock_high: 1200000
+    bonus_pct: null
+    signing_bonus_low: 80000
+    signing_bonus_high: 150000
+    total_comp_low: 480000
+    total_comp_high: 800000
+    currency: USD
+  - region: Bay Area
+    base_low: 180000
+    base_high: 200000
+    stock_low: 530000
+    stock_high: 1300000
+    bonus_pct: null
+    signing_bonus_low: 85000
+    signing_bonus_high: 160000
+    total_comp_low: 500000
+    total_comp_high: 840000
+    currency: USD
+  - region: NYC
+    base_low: 180000
+    base_high: 200000
+    stock_low: 520000
+    stock_high: 1250000
+    bonus_pct: null
+    signing_bonus_low: 85000
+    signing_bonus_high: 155000
+    total_comp_low: 495000
+    total_comp_high: 825000
+    currency: USD
+  - region: Arlington VA
+    base_low: 175000
+    base_high: 195000
+    stock_low: 480000
+    stock_high: 1100000
+    bonus_pct: null
+    signing_bonus_low: 80000
+    signing_bonus_high: 140000
+    total_comp_low: 465000
+    total_comp_high: 770000
+    currency: USD
+level_mapping:
+  internal: Principal SDE / L7
+  raw: Amazon L7 Principal SDE = Google L6 Staff = Meta E6 Staff = Apple ICT5 = Netflix Senior+
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Back-Loaded RSU Vesting / Signing Bonus Bridge | L7 is Elite — Top 3% of Amazon Engineering"
+---
 ### Staff Software Engineer (Principal SDE / L7) | Amazon Global Negotiation Guide
 
 **Negotiation DNA:** Back-Loaded RSU Vesting / Signing Bonus Bridge | L7 is Elite — Top 3% of Amazon Engineering

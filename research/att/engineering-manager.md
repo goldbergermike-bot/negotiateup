@@ -1,3 +1,50 @@
+---
+company: att
+company_display: "AT&T"
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas / Austin
+    base_low: 150000
+    base_high: 210000
+    stock_low: 45000
+    stock_high: 152000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 310000
+    currency: USD
+  - region: NYC / New Jersey
+    base_low: 158000
+    base_high: 220000
+    stock_low: 50000
+    stock_high: 162000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 328000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 145000
+    base_high: 205000
+    stock_low: 40000
+    stock_high: 142000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "AT&T EM (M1-M2) = Google L5-L6 Manager = Meta E5-E6 Manager = Amazon L6-L7 Manager = Verizon EM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$155B Legacy Telecom Modernizing | Multi-Team Technical Leadership | Transformation Team Building"
+---
 ### Engineering Manager | AT&T Global Negotiation Guide
 
 **Negotiation DNA:** $155B Legacy Telecom Modernizing | Multi-Team Technical Leadership | Transformation Team Building

@@ -1,3 +1,52 @@
+---
+company: fis
+company_display: FIS
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Jacksonville FL
+    base_low: 145000
+    base_high: 185000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_low: 18000
+    bonus_high: 30000
+    total_comp_low: 243000
+    total_comp_high: 365000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 292000
+    total_comp_high: 453000
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 130000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_low: 14000
+    bonus_high: 22000
+    total_comp_low: 169000
+    total_comp_high: 252000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| FIS | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `IC Track` `L5 Equivalent`"
+---
 ### Senior Software Engineer | FIS Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FIS` `Total Issuing` `Pure-Play FinTech` `Banking & Capital Markets` `IC Track` `L5 Equivalent`

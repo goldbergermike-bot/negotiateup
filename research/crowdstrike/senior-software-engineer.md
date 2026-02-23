@@ -1,3 +1,48 @@
+---
+company: crowdstrike
+company_display: CrowdStrike
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 340000
+    currency: USD
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 378000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Senior Software Engineers at CrowdStrike own critical subsystems within the Agentic Security Platform and serve as technical anchors for the Orchestrators of the Agentic SOC initiative across the Falcon ecosystem.
+---
 ### Senior Software Engineer — CrowdStrike Salary Negotiation Guide
 
 **Negotiation DNA**: Senior Software Engineers at CrowdStrike own critical subsystems within the Agentic Security Platform and serve as technical anchors for the Orchestrators of the Agentic SOC initiative across the Falcon ecosystem.

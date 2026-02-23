@@ -1,3 +1,48 @@
+---
+company: notion
+company_display: Notion
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 230000
+    base_high: 290000
+    stock_low: 350000
+    stock_high: 550000
+    bonus_pct: 10
+    total_comp_low: 405000
+    total_comp_high: 585000
+    currency: USD
+  - region: New York
+    base_low: 225000
+    base_high: 285000
+    stock_low: 340000
+    stock_high: 535000
+    bonus_pct: 10
+    total_comp_low: 395000
+    total_comp_high: 570000
+    currency: USD
+  - region: London
+    base_low: 155000
+    base_high: 195000
+    stock_low: 230000
+    stock_high: 365000
+    bonus_pct: 10
+    total_comp_low: 270000
+    total_comp_high: 385000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Notion Staff SWE (L5-L6) = Google SWE L6-L7 = Meta SWE E6-E7 = Figma Staff = Linear Staff
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI Workspace Architecture Leadership | 100M+ Users | **NOTION AI PREMIUM**"
+---
 ### Staff Software Engineer | Notion Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI Workspace Architecture Leadership | 100M+ Users | **NOTION AI PREMIUM**

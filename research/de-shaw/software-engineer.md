@@ -1,3 +1,32 @@
+---
+company: de-shaw
+company_display: D.E. Shaw
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 175000
+    base_high: 235000
+    stock_low: null
+    stock_high: null
+    bonus_low: 140000
+    bonus_high: 352000
+    total_comp_low: 315000
+    total_comp_high: 587000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "SWE at D.E. Shaw = L4-L5 at Google, E4-E5 at Meta, SDE II-III at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-150%+ | D.E. Shaw entry packages exceed most companies' senior packages | **ELITE QUANT ENTRY PREMIUM**"
+---
 ### Software Engineer | D.E. Shaw Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-150%+ | D.E. Shaw entry packages exceed most companies' senior packages | **ELITE QUANT ENTRY PREMIUM**

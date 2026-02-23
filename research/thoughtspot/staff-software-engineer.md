@@ -1,3 +1,40 @@
+---
+company: thoughtspot
+company_display: Thoughtspot
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale HQ
+    base_low: 200000
+    base_high: 255000
+    stock_low: 160000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 290000
+    total_comp_high: 440000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 240000
+    stock_low: 140000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 270000
+    total_comp_high: 410000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: ThoughtSpot Staff SWE = Tableau Staff SWE = Google L5 = Salesforce Principal MTS
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private Equity-Backed | AI-Powered Analytics Pioneer | Liquidity Risk Premium Required"
+---
 ### Staff Software Engineer | ThoughtSpot Global Negotiation Guide
 
 **Negotiation DNA:** Private Equity-Backed | AI-Powered Analytics Pioneer | Liquidity Risk Premium Required

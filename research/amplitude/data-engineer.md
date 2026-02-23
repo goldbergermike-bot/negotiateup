@@ -1,3 +1,48 @@
+---
+company: amplitude
+company_display: Amplitude
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 150000
+    base_high: 188000
+    stock_low: 100000
+    stock_high: 172000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 240000
+    currency: USD
+  - region: New York
+    base_low: 145000
+    base_high: 183000
+    stock_low: 95000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 232000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 118000
+    stock_low: 48000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 103000
+    total_comp_high: 145000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Amplitude DE (Mid) = Google L3 Data Engineer = Meta E3 Data = Mixpanel L3 Data
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Based / Public Company | AI-Powered Product Analytics"
+---
 ### Data Engineer | Amplitude Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Based / Public Company | AI-Powered Product Analytics

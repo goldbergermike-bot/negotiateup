@@ -1,3 +1,50 @@
+---
+company: linear
+company_display: Linear
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 220000
+    stock_low: 120000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 250000
+    total_comp_high: 365000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 220000
+    stock_low: 120000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 250000
+    total_comp_high: 365000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 168000
+    stock_low: 91000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 190000
+    total_comp_high: 278000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Linear Solutions Architect = Google Customer Engineer = Atlassian Solutions Architect = Notion Enterprise Solutions = Asana Solutions Architect
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Enterprise-Premium Base + Pre-IPO Equity | Project Management Reimagined | 2026 Focus: AI-Powered Enterprise Project Migration"
+---
 ### Solutions Architect | Linear Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise-Premium Base + Pre-IPO Equity | Project Management Reimagined | 2026 Focus: AI-Powered Enterprise Project Migration

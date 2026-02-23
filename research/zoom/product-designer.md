@@ -1,3 +1,67 @@
+---
+company: zoom
+company_display: Zoom
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 145000
+    base_high: 205000
+    stock_low: 65000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 290000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 125000
+    base_high: 180000
+    stock_low: 48000
+    stock_high: 128000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 245000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 70000
+    base_high: 108000
+    stock_low: 28000
+    stock_high: 68000
+    bonus_pct: 10
+    total_comp_low: 92000
+    total_comp_high: 148000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2200000
+    base_high: 4000000
+    stock_low: 1000000
+    stock_high: 2800000
+    bonus_pct: 10
+    total_comp_low: 3000000
+    total_comp_high: 5500000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 108000
+    base_high: 162000
+    stock_low: 38000
+    stock_high: 88000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 212000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom IC2/IC3 (Design) ~ Google L4/L5 UX | Microsoft 61/62 Design | Apple ICT3/ICT4 Design | Meta E4/E5 Design"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Communication experience & collaboration UX specialist | Real-time meeting interface design | **DESIGN PREMIUM**"
+---
 ### Product Designer | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** Communication experience & collaboration UX specialist | Real-time meeting interface design | **DESIGN PREMIUM**

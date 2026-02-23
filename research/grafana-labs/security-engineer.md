@@ -1,3 +1,50 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 178000
+    base_high: 228000
+    stock_low: 140000
+    stock_high: 250000
+    bonus_pct: 5
+    total_comp_low: 235000
+    total_comp_high: 325000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 168000
+    base_high: 218000
+    stock_low: 128000
+    stock_high: 230000
+    bonus_pct: 5
+    total_comp_low: 220000
+    total_comp_high: 305000
+    currency: USD
+  - region: London / Berlin
+    base_low: 135000
+    base_high: 174000
+    stock_low: 106000
+    stock_high: 190000
+    bonus_pct: 5
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs Security Engineer = Google L4-L5 Security = Meta E4-E5 Security = Datadog Security Engineer = Elastic IC3-IC4 Security
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside"
+---
 ### Security Engineer | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside

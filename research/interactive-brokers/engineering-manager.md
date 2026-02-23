@@ -1,3 +1,52 @@
+---
+company: interactive-brokers
+company_display: Interactive Brokers
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Greenwich, CT (HQ)"
+    base_low: 185000
+    base_high: 262000
+    stock_low: 52000
+    stock_high: 80000
+    bonus_low: 35000
+    bonus_high: 50000
+    total_comp_low: 272000
+    total_comp_high: 392000
+    currency: USD
+  - region: New York
+    base_low: 194000
+    base_high: 275000
+    stock_low: 55000
+    stock_high: 84000
+    bonus_low: 37000
+    bonus_high: 53000
+    total_comp_low: 286000
+    total_comp_high: 412000
+    currency: USD
+  - region: London
+    base_low: 137000
+    base_high: 194000
+    stock_low: 38000
+    stock_high: 59000
+    bonus_low: 26000
+    bonus_high: 37000
+    total_comp_low: 201000
+    total_comp_high: 290000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "`ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Lean Team Leadership` `Headcount Efficiency` `Technical Management`"
+---
 ### Engineering Manager | Interactive Brokers Global Negotiation Guide
 
 **Negotiation DNA:** `ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `Lean Team Leadership` `Headcount Efficiency` `Technical Management`

@@ -1,3 +1,48 @@
+---
+company: oracle
+company_display: Oracle
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 158000
+    base_high: 195000
+    stock_low: 115000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 255000
+    currency: USD
+  - region: Seattle
+    base_low: 168000
+    base_high: 208000
+    stock_low: 125000
+    stock_high: 218000
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 272000
+    currency: USD
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 4800000
+    stock_low: 1200000
+    stock_high: 2200000
+    bonus_pct: null
+    total_comp_low: 3500000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Oracle IC4 Senior DS = Google L4 DS = AWS Senior DS = Meta IC4 DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Sign-On Bonus Culture | OCI \"Stargate\" AI Infrastructure Pivot | $500B JV Premium"
+---
 ### Data Scientist | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Sign-On Bonus Culture | OCI "Stargate" AI Infrastructure Pivot | $500B JV Premium

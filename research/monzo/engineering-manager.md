@@ -1,3 +1,51 @@
+---
+company: monzo
+company_display: Monzo
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 70000
+    base_high: 100000
+    stock_low: 12000
+    stock_high: 19000
+    bonus_low: 6000
+    bonus_high: 9000
+    total_comp_low: 88000
+    total_comp_high: 128000
+    currency: GBP
+  - region: Remote UK
+    base_low: 67000
+    base_high: 95000
+    stock_low: 11000
+    stock_high: 18000
+    bonus_low: 6000
+    bonus_high: 8000
+    total_comp_low: 84000
+    total_comp_high: 121000
+    currency: GBP
+  - region: Remote US
+    base_low: 110000
+    base_high: 160000
+    stock_low: 19000
+    stock_high: 30000
+    bonus_low: 10000
+    bonus_high: 14000
+    total_comp_low: 139000
+    total_comp_high: 204000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `People Leadership` `Squad Ownership` `Regulated Fintech`"
+---
 ### Engineering Manager | Monzo Global Negotiation Guide
 
 **Negotiation DNA:** `OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `People Leadership` `Squad Ownership` `Regulated Fintech`

@@ -1,3 +1,40 @@
+---
+company: alteryx
+company_display: Alteryx
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine HQ
+    base_low: 160000
+    base_high: 215000
+    stock_low: 75000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 320000
+    currency: USD
+  - region: Remote US
+    base_low: 145000
+    base_high: 200000
+    stock_low: 65000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Alteryx Senior SWE = Dataiku Senior SWE = Tableau Senior SWE = Google L4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium"
+---
 ### Senior Software Engineer | Alteryx Global Negotiation Guide
 
 **Negotiation DNA:** Private (Clearlake Capital $4.4B) | Analytics Automation Pioneer | Liquidity Risk Premium

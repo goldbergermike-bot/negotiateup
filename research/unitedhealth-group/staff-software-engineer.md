@@ -1,3 +1,49 @@
+---
+company: unitedhealth-group
+company_display: UnitedHealth Group
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minnetonka MN
+    base_low: 175000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 230000
+    total_comp_high: 360000
+    currency: USD
+  - region: Dallas TX
+    base_low: 170000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 350000
+    currency: USD
+  - region: Remote US
+    base_low: 165000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 335000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: UHG Staff Engineer = Google L5-L6 = Meta E5-E6 = Optum T6-T7 = Microsoft Principal
+data_sources:
+  - Levels.fyi
+  - Hired
+negotiation_dna_summary: "Health Insurance Giant / Bonus-Heavy Comp / RSU Growing | Staff IC Leadership"
+---
 ### Staff Software Engineer | UnitedHealth Group Global Negotiation Guide
 
 **Negotiation DNA:** Health Insurance Giant / Bonus-Heavy Comp / RSU Growing | Staff IC Leadership

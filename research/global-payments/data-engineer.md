@@ -1,3 +1,53 @@
+---
+company: global-payments
+company_display: Global Payments
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 135000
+    base_high: 180000
+    stock_low: 65000
+    stock_high: 130000
+    bonus_low: 16000
+    bonus_high: 28000
+    total_comp_low: 216000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 205000
+    stock_low: 85000
+    stock_high: 170000
+    bonus_low: 20000
+    bonus_high: 36000
+    total_comp_low: 260000
+    total_comp_high: 411000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 122000
+    stock_low: 45000
+    stock_high: 92000
+    bonus_low: 10000
+    bonus_high: 19000
+    total_comp_low: 143000
+    total_comp_high: 233000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Global Payments | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Data Infrastructure` `Merchant Data Pipelines`"
+---
 ### Data Engineer | Global Payments Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Data Infrastructure` `Merchant Data Pipelines`

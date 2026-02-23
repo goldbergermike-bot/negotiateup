@@ -1,3 +1,43 @@
+---
+company: bridgewater-associates
+company_display: Bridgewater Associates
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westport, CT (HQ)"
+    base_low: 170000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_low: 102000
+    bonus_high: 288000
+    total_comp_low: 272000
+    total_comp_high: 528000
+    currency: USD
+  - region: New York City
+    base_low: 178000
+    base_high: 252000
+    stock_low: null
+    stock_high: null
+    bonus_low: 107000
+    bonus_high: 302000
+    total_comp_low: 285000
+    total_comp_high: 554000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Data Scientist at Bridgewater = L4/L5 Data Scientist at Google, IC4/IC5 Research Scientist at Meta, Applied Scientist II at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Quantitative research and modeling powering systematic investment decisions | Blending statistical rigor with financial intuition | **ELITE HEDGE FUND PREMIUM**"
+---
 ### Data Scientist | Bridgewater Associates Global Negotiation Guide
 
 **Negotiation DNA:** ~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Quantitative research and modeling powering systematic investment decisions | Blending statistical rigor with financial intuition | **ELITE HEDGE FUND PREMIUM**

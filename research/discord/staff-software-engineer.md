@@ -1,3 +1,48 @@
+---
+company: discord
+company_display: Discord
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 250000
+    base_high: 310000
+    stock_low: 180000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 315000
+    total_comp_high: 435000
+    currency: USD
+  - region: New York
+    base_low: 242000
+    base_high: 300000
+    stock_low: 170000
+    stock_high: 320000
+    bonus_pct: 10
+    total_comp_low: 302000
+    total_comp_high: 418000
+    currency: USD
+  - region: Remote US
+    base_low: 228000
+    base_high: 282000
+    stock_low: 155000
+    stock_high: 295000
+    bonus_pct: 10
+    total_comp_low: 280000
+    total_comp_high: 390000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Discord Staff Software Engineer (L6) = Google L6 Staff = Meta E6 = Amazon Principal SDE = Apple ICT5 = Stripe L4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Staff-Level IC Premium | Architecture & Technical Strategy"
+---
 ### Staff Software Engineer | Discord Global Negotiation Guide
 
 **Negotiation DNA:** Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Staff-Level IC Premium | Architecture & Technical Strategy

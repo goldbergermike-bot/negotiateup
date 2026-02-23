@@ -1,3 +1,50 @@
+---
+company: perplexity
+company_display: Perplexity
+role: answer-engine-ranking-engineer
+role_display: Answer Engine Ranking Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 228000
+    base_high: 285000
+    stock_low: 375000
+    stock_high: 650000
+    bonus_pct: null
+    total_comp_low: 322000
+    total_comp_high: 448000
+    currency: USD
+  - region: New York
+    base_low: 235000
+    base_high: 299000
+    stock_low: 375000
+    stock_high: 650000
+    bonus_pct: null
+    total_comp_low: 329000
+    total_comp_high: 462000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 257000
+    stock_low: 375000
+    stock_high: 650000
+    bonus_pct: null
+    total_comp_low: 299000
+    total_comp_high: 419000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Perplexity Answer Engine Ranking Engineer = Google Search Ranking Engineer L5-L6 = Anthropic Senior ML Engineer = OpenAI Research Engineer = Bing Ranking Engineer (Principal)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift | **SIGNATURE ROLE** | **+20-35% AGENTIC AI PREMIUM**"
+---
 ### Answer Engine Ranking Engineer | Perplexity Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift | **SIGNATURE ROLE** | **+20-35% AGENTIC AI PREMIUM**

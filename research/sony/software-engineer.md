@@ -1,3 +1,68 @@
+---
+company: sony
+company_display: Sony
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / San Diego (US)
+    base_low: 130000
+    base_high: 190000
+    stock_low: 40000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 270000
+    currency: USD
+  - region: Bay Area (US - other Sony divisions)
+    base_low: 125000
+    base_high: 185000
+    stock_low: 35000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 260000
+    currency: USD
+  - region: Tokyo (HQ)
+    base_low: 7000000
+    base_high: 12000000
+    stock_low: 2000000
+    stock_high: 6000000
+    bonus_pct: 10
+    total_comp_low: 9000000
+    total_comp_high: 16000000
+    currency: JPY
+  - region: London (SIE Europe)
+    base_low: 80000
+    base_high: 130000
+    stock_low: 25000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 100000
+    total_comp_high: 175000
+    currency: GBP
+  - region: Bangalore
+    base_low: 2000000
+    base_high: 4200000
+    stock_low: 700000
+    stock_high: 2200000
+    bonus_pct: 10
+    total_comp_low: 2700000
+    total_comp_high: 5200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Software Engineer at Sony (IC2-IC4) = L3-L4 at Google, IC3-IC4 at Meta, SDE I-II at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$110B market cap spanning PlayStation, entertainment, semiconductors, and imaging + US offices (SIE in San Mateo/San Diego) with competitive gaming industry comp + Japanese HQ with unique bonus structure | Sony SWEs work across gaming, entertainment tech, and semiconductor software | **ENTERTAINMENT TECH PREMIUM**"
+---
 ### Software Engineer | Sony Global Negotiation Guide
 
 **Negotiation DNA:** $110B market cap spanning PlayStation, entertainment, semiconductors, and imaging + US offices (SIE in San Mateo/San Diego) with competitive gaming industry comp + Japanese HQ with unique bonus structure | Sony SWEs work across gaming, entertainment tech, and semiconductor software | **ENTERTAINMENT TECH PREMIUM**

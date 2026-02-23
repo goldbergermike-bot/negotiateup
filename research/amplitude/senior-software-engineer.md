@@ -1,3 +1,48 @@
+---
+company: amplitude
+company_display: Amplitude
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 228000
+    stock_low: 150000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 310000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 222000
+    stock_low: 145000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 302000
+    currency: USD
+  - region: London
+    base_low: 110000
+    base_high: 145000
+    stock_low: 75000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 192000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Amplitude SWE (Senior) = Google L4 = Meta E4 = Mixpanel Senior
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Based / Public Company | AI-Powered Product Analytics"
+---
 ### Senior Software Engineer | Amplitude Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Based / Public Company | AI-Powered Product Analytics

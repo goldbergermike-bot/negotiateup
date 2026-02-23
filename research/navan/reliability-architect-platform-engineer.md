@@ -1,3 +1,53 @@
+---
+company: navan
+company_display: Navan
+role: reliability-architect-platform-engineer
+role_display: Reliability Architect / Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 275000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_low: 18000
+    bonus_high: 45000
+    total_comp_low: 283000
+    total_comp_high: 470000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 270000
+    stock_low: 65000
+    stock_high: 145000
+    bonus_low: 16000
+    bonus_high: 42000
+    total_comp_low: 271000
+    total_comp_high: 457000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 175000
+    stock_low: 45000
+    stock_high: 95000
+    bonus_low: 11000
+    bonus_high: 28000
+    total_comp_low: 176000
+    total_comp_high: 298000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Navan | Google | Meta | Stripe | Brex | Airbnb |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private $9.4B` `Concierge 2.0` `Pre-IPO Equity` `Travel Tech` `Options/4yr` `AI Rebooking` `Reliability Architect` `Platform Engineering` `SRE` `Infrastructure as Competitive Moat`"
+---
 ### Reliability Architect / Platform Engineer | Navan Global Negotiation Guide
 
 ## SIGNATURE ROLE

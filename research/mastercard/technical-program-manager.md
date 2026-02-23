@@ -1,3 +1,52 @@
+---
+company: mastercard
+company_display: Mastercard
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Purchase NY
+    base_low: 155000
+    base_high: 205000
+    stock_low: 90000
+    stock_high: 170000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 267000
+    total_comp_high: 417000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 185000
+    bonus_low: 24000
+    bonus_high: 45000
+    total_comp_low: 284000
+    total_comp_high: 445000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 135000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_low: 14000
+    bonus_high: 26000
+    total_comp_low: 164000
+    total_comp_high: 261000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Mastercard | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `Cross-Functional Delivery` `Biometric Authentication` `Payment Network Programs` `Platform Orchestration`"
+---
 ### Technical Program Manager | Mastercard Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `Cross-Functional Delivery` `Biometric Authentication` `Payment Network Programs` `Platform Orchestration`

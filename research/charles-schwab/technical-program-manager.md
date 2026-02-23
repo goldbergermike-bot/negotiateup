@@ -1,3 +1,51 @@
+---
+company: charles-schwab
+company_display: Charles Schwab
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westlake, TX (HQ)"
+    base_low: 132000
+    base_high: 178000
+    stock_low: 35000
+    stock_high: 58000
+    bonus_low: 21000
+    bonus_high: 36000
+    total_comp_low: 188000
+    total_comp_high: 272000
+    currency: USD
+  - region: San Francisco
+    base_low: 145000
+    base_high: 196000
+    stock_low: 39000
+    stock_high: 64000
+    bonus_low: 23000
+    bonus_high: 40000
+    total_comp_low: 207000
+    total_comp_high: 299000
+    currency: USD
+  - region: Denver
+    base_low: 139000
+    base_high: 187000
+    stock_low: 37000
+    stock_high: 61000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 197000
+    total_comp_high: 286000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Cross-Functional Delivery` `TD Ameritrade Migration Programs` `Platform Convergence`"
+---
 ### Technical Program Manager | Charles Schwab Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Cross-Functional Delivery` `TD Ameritrade Migration Programs` `Platform Convergence`

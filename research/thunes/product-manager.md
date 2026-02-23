@@ -1,3 +1,48 @@
+---
+company: thunes
+company_display: Thunes
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 130000
+    base_high: 190000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 340000
+    currency: SGD
+  - region: ":gb: London (GBP)"
+    base_low: 80000
+    base_high: 120000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_pct: null
+    total_comp_low: 125000
+    total_comp_high: 210000
+    currency: GBP
+  - region: ":us: New York (USD)"
+    base_low: 150000
+    base_high: 220000
+    stock_low: 90000
+    stock_high: 175000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a product management compensation framework spanning Singapore, London, and New York markets."
+---
 ### Product Manager — Thunes Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a product management compensation framework spanning Singapore, London, and New York markets.

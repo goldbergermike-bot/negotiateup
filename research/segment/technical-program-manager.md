@@ -1,3 +1,48 @@
+---
+company: segment
+company_display: Segment
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 172000
+    base_high: 210000
+    stock_low: 100000
+    stock_high: 182000
+    bonus_pct: 12
+    total_comp_low: 225000
+    total_comp_high: 298000
+    currency: USD
+  - region: New York
+    base_low: 168000
+    base_high: 205000
+    stock_low: 95000
+    stock_high: 175000
+    bonus_pct: 12
+    total_comp_low: 218000
+    total_comp_high: 288000
+    currency: USD
+  - region: London
+    base_low: 122000
+    base_high: 155000
+    stock_low: 70000
+    stock_high: 128000
+    bonus_pct: 12
+    total_comp_low: 158000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Segment TPM = Google L5 TPM = Twilio TPM = Meta TPM IC5 = Salesforce TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Twilio RSU + Delivery Bonus | AI CDP Cross-Functional Program Execution 2026"
+---
 ### Technical Program Manager | Segment Global Negotiation Guide
 
 **Negotiation DNA:** Twilio RSU + Delivery Bonus | AI CDP Cross-Functional Program Execution 2026

@@ -1,3 +1,48 @@
+---
+company: retool
+company_display: Retool
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 192000
+    base_high: 248000
+    stock_low: 210000
+    stock_high: 370000
+    bonus_pct: 10
+    total_comp_low: 295000
+    total_comp_high: 418000
+    currency: USD
+  - region: New York
+    base_low: 188000
+    base_high: 242000
+    stock_low: 205000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 288000
+    total_comp_high: 408000
+    currency: USD
+  - region: London
+    base_low: 128000
+    base_high: 165000
+    stock_low: 138000
+    stock_high: 245000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 275000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Retool ML/AI (L3-L5) = Google ML L4-L6 = Meta ML E4-E6 = GitHub Copilot ML = Cursor ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI-Powered App Generation & Vector Intelligence | 30K+ Companies | **RETOOL AI PREMIUM**"
+---
 ### ML/AI Engineer | Retool Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI-Powered App Generation & Vector Intelligence | 30K+ Companies | **RETOOL AI PREMIUM**

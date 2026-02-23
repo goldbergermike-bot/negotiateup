@@ -1,3 +1,49 @@
+---
+company: northrop-grumman
+company_display: Northrop Grumman
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Falls Church, VA"
+    base_low: 105000
+    base_high: 150000
+    stock_low: 18000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 190000
+    currency: USD
+  - region: "Redondo Beach, CA"
+    base_low: 110000
+    base_high: 155000
+    stock_low: 18000
+    stock_high: 60000
+    bonus_pct: 10
+    total_comp_low: 130000
+    total_comp_high: 195000
+    currency: USD
+  - region: "Huntsville, AL"
+    base_low: 100000
+    base_high: 145000
+    stock_low: 16000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 118000
+    total_comp_high: 180000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Northrop Product Designer = L3Harris Designer = Lockheed HMI Engineer -- defense UI/UX with space systems complexity
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense + Tech Premium | $75B Market Cap | Space/Defense Interface Design | Standard 40-45 Hour Culture"
+---
 ### Product Designer | Northrop Grumman Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense + Tech Premium | $75B Market Cap | Space/Defense Interface Design | Standard 40-45 Hour Culture

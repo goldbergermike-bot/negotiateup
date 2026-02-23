@@ -1,3 +1,48 @@
+---
+company: thunes
+company_display: Thunes
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 140000
+    base_high: 200000
+    stock_low: 70000
+    stock_high: 140000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 340000
+    currency: SGD
+  - region: ":gb: London (GBP)"
+    base_low: 85000
+    base_high: 125000
+    stock_low: 45000
+    stock_high: 85000
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 210000
+    currency: GBP
+  - region: ":us: New York (USD)"
+    base_low: 155000
+    base_high: 220000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a technical program management compensation framework spanning Singapore, London, and New York markets."
+---
 ### Technical Program Manager — Thunes Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Thunes' Interoperability mandate, translating the Feb 2026 Swift Direct Global Network link into a technical program management compensation framework spanning Singapore, London, and New York markets.

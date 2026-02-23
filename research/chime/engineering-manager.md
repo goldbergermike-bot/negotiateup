@@ -1,3 +1,48 @@
+---
+company: chime
+company_display: Chime
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 225000
+    base_high: 258000
+    stock_low: 228000
+    stock_high: 315000
+    bonus_pct: 15
+    total_comp_low: 305000
+    total_comp_high: 378000
+    currency: USD
+  - region: Chicago
+    base_low: 215000
+    base_high: 245000
+    stock_low: 198000
+    stock_high: 288000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 348000
+    currency: USD
+  - region: Remote US
+    base_low: 205000
+    base_high: 238000
+    stock_low: 178000
+    stock_high: 268000
+    bonus_pct: 15
+    total_comp_low: 268000
+    total_comp_high: 335000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chime EM (M1-M2) = Cash App EM = Google M1-M2 = Meta M1 = Amazon L6 Manager = SoFi EM = Revolut EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | **INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**"
+---
 ### Engineering Manager | Chime Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | MyPay 45% Margins | 29% Revenue Growth | $25B Valuation | **INNOVATION-IMPACT BONUS FOR MYPAY PRODUCT SUCCESS**

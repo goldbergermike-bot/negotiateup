@@ -1,3 +1,50 @@
+---
+company: ebanx
+company_display: Ebanx
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Curitiba
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: São Paulo
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: Austin TX
+    base_low: 135000
+    base_high: 185000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_low: 14000
+    bonus_high: 25000
+    total_comp_low: 179000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| EBANX | Google | Meta | Stripe | dLocal | Nubank |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private ($3.5B valuation)` `Agentic Commerce` `LatAm Payments` `Pix Integration` `Beyond Borders 2026` `Know Your Agent` `Payment Infrastructure` `Multi-Region Reliability`"
+---
 ### DevOps Engineer | EBANX Global Negotiation Guide
 
 **Negotiation DNA:** `Private ($3.5B valuation)` `Agentic Commerce` `LatAm Payments` `Pix Integration` `Beyond Borders 2026` `Know Your Agent` `Payment Infrastructure` `Multi-Region Reliability`

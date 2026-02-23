@@ -1,3 +1,59 @@
+---
+company: baidu
+company_display: Baidu
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 180000
+    base_high: 250000
+    stock_low: 90000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 415000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 175000
+    base_high: 245000
+    stock_low: 85000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 255000
+    total_comp_high: 405000
+    currency: USD
+  - region: Beijing (HQ)
+    base_low: 580000
+    base_high: 1020000
+    stock_low: 280000
+    stock_high: 680000
+    bonus_pct: 20
+    total_comp_low: 920000
+    total_comp_high: 1750000
+    currency: CNY
+  - region: Shanghai
+    base_low: 550000
+    base_high: 980000
+    stock_low: 260000
+    stock_high: 650000
+    bonus_pct: 20
+    total_comp_low: 870000
+    total_comp_high: 1700000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at Baidu (T7+) = M1-M2 at Google, M1-M2 at Meta, SDM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$40B market cap with US R&D teams focused on Apollo AV and AI + EM roles critical for retaining and growing US engineering talent + Competitive management comp with strong equity | Baidu EMs lead teams at the frontier of autonomous driving and AI | **AI/AV LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Baidu Global Negotiation Guide
 
 **Negotiation DNA:** $40B market cap with US R&D teams focused on Apollo AV and AI + EM roles critical for retaining and growing US engineering talent + Competitive management comp with strong equity | Baidu EMs lead teams at the frontier of autonomous driving and AI | **AI/AV LEADERSHIP PREMIUM**

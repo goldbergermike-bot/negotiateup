@@ -1,3 +1,49 @@
+---
+company: take-two-interactive
+company_display: Take-Two Interactive
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 148000
+    base_high: 208000
+    stock_low: 48000
+    stock_high: 155000
+    bonus_pct: 15
+    total_comp_low: 188000
+    total_comp_high: 295000
+    currency: USD
+  - region: San Diego (Rockstar)
+    base_low: 138000
+    base_high: 198000
+    stock_low: 42000
+    stock_high: 142000
+    bonus_pct: 15
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+  - region: Bangalore
+    base_low: 2200000
+    base_high: 3800000
+    stock_low: 1000000
+    stock_high: 2200000
+    bonus_pct: 10
+    total_comp_low: 3500000
+    total_comp_high: 6500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Take-Two TPM = Google L4-L5 TPM = Amazon L6 TPM = EA TPM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "RSU + Premium Bonus | GTA + NBA 2K Revenue Machine"
+---
 ### Technical Program Manager | Take-Two Interactive Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Premium Bonus | GTA + NBA 2K Revenue Machine

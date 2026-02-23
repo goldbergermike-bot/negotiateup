@@ -1,3 +1,50 @@
+---
+company: glean
+company_display: Glean
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Palo Alto / Bay Area
+    base_low: 215000
+    base_high: 285000
+    stock_low: 175000
+    stock_high: 425000
+    bonus_pct: null
+    total_comp_low: 259000
+    total_comp_high: 391000
+    currency: USD
+  - region: New York City
+    base_low: 215000
+    base_high: 285000
+    stock_low: 175000
+    stock_high: 425000
+    bonus_pct: null
+    total_comp_low: 259000
+    total_comp_high: 391000
+    currency: USD
+  - region: Remote US
+    base_low: 194000
+    base_high: 257000
+    stock_low: 158000
+    stock_high: 383000
+    bonus_pct: null
+    total_comp_low: 233000
+    total_comp_high: 353000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Glean EM = Google M1-M2 = Meta M1 = Databricks EM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Strong Growth-Stage Comp + Pre-IPO Equity | $4.6B Valuation | Palo Alto | Enterprise AI Leadership"
+---
 ### Engineering Manager | Glean Global Negotiation Guide
 
 **Negotiation DNA:** Strong Growth-Stage Comp + Pre-IPO Equity | $4.6B Valuation | Palo Alto | Enterprise AI Leadership

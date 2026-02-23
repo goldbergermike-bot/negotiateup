@@ -1,3 +1,53 @@
+---
+company: paypal
+company_display: Paypal
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 145000
+    base_high: 200000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 260000
+    total_comp_high: 430000
+    currency: USD
+  - region: New York NY
+    base_low: 140000
+    base_high: 195000
+    stock_low: 95000
+    stock_high: 190000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 249000
+    total_comp_high: 413000
+    currency: USD
+  - region: London UK
+    base_low: 85000
+    base_high: 120000
+    stock_low: 50000
+    stock_high: 100000
+    bonus_low: 9000
+    bonus_high: 18000
+    total_comp_low: 144000
+    total_comp_high: 238000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| PayPal | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: PYPL` `Product Designer` `UX/UI` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Checkout UX` `Design Systems` `Venmo` `PYUSD`"
+---
 ### Product Designer | PayPal Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: PYPL` `Product Designer` `UX/UI` `Cymbio` `Branded Checkout` `Biometric Auth` `RSU/4yr` `Checkout UX` `Design Systems` `Venmo` `PYUSD`

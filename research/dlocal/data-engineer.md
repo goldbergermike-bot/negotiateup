@@ -1,3 +1,47 @@
+---
+company: dlocal
+company_display: Dlocal
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montevideo (UYU)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: São Paulo (BRL)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York (USD)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 85000
+    stock_high: 165000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 380000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes dLocal's Asia Priority strategy, translating the Jan 2026 Asia Strategic Pivot and Feb 11 JPM Bull Case into a data engineering compensation framework spanning Montevideo, São Paulo, and New York markets. Data Engineers at dLocal build the data infrastructure that powers the emerging market payment platform — from real-time payment event pipelines to cross-continental analytics and compliance data flows."
+---
 ### Data Engineer — dLocal Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes dLocal's Asia Priority strategy, translating the Jan 2026 Asia Strategic Pivot and Feb 11 JPM Bull Case into a data engineering compensation framework spanning Montevideo, São Paulo, and New York markets. Data Engineers at dLocal build the data infrastructure that powers the emerging market payment platform — from real-time payment event pipelines to cross-continental analytics and compliance data flows.

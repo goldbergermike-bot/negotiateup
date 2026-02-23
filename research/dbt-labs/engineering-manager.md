@@ -1,3 +1,48 @@
+---
+company: dbt-labs
+company_display: dbt Labs
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / Remote-US
+    base_low: 205000
+    base_high: 258000
+    stock_low: 185000
+    stock_high: 315000
+    bonus_pct: 12
+    total_comp_low: 268000
+    total_comp_high: 358000
+    currency: USD
+  - region: San Francisco
+    base_low: 218000
+    base_high: 272000
+    stock_low: 200000
+    stock_high: 340000
+    bonus_pct: 12
+    total_comp_low: 285000
+    total_comp_high: 382000
+    currency: USD
+  - region: London
+    base_low: 148000
+    base_high: 192000
+    stock_low: 132000
+    stock_high: 228000
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 268000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: dbt Labs EM = Google L5-L6 EM = Snowflake EM = Databricks EM = Amazon L6 SDM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Equity + Bonus | Semantic Layer AI Expansion | Analytics Engineering Category Creator | Series D Growth-Stage Equity"
+---
 ### Engineering Manager | dbt Labs Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Equity + Bonus | Semantic Layer AI Expansion | Analytics Engineering Category Creator | Series D Growth-Stage Equity

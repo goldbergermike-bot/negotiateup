@@ -1,3 +1,39 @@
+---
+company: recorded-future
+company_display: Recorded Future
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Somerville/Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 345000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 325000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Software Engineers at Recorded Future build the world's largest intelligence platform, using AI and machine learning to analyze billions of data points from the open web, dark web, and technical sources to deliver real-time threat intelligence to enterprise security teams."
+---
 ### Software Engineer — Recorded Future Salary Negotiation Guide
 
 **Negotiation DNA**: Software Engineers at Recorded Future build the world's largest intelligence platform, using AI and machine learning to analyze billions of data points from the open web, dark web, and technical sources to deliver real-time threat intelligence to enterprise security teams.

@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 148000
+    base_high: 185000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: 5
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+  - region: San Diego
+    base_low: 136000
+    base_high: 172000
+    stock_low: 22000
+    stock_high: 45000
+    bonus_pct: 5
+    total_comp_low: 168000
+    total_comp_high: 235000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 162000
+    stock_low: 20000
+    stock_high: 40000
+    bonus_pct: 5
+    total_comp_low: 155000
+    total_comp_high: 218000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq Data Engineer ≈ Google Data Engineer L4 · Meta Data Engineer E4 · Amazon Data Engineer SDE-II · Databricks DE · Snowflake DE · NVIDIA Data Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Data Infrastructure Premium"
+---
 ### Data Engineer | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Data Infrastructure Premium

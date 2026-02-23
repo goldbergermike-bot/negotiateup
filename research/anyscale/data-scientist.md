@@ -1,3 +1,50 @@
+---
+company: anyscale
+company_display: Anyscale
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 222000
+    stock_low: 130000
+    stock_high: 240000
+    bonus_pct: 5
+    total_comp_low: 220000
+    total_comp_high: 308000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 217000
+    stock_low: 130000
+    stock_high: 240000
+    bonus_pct: 5
+    total_comp_low: 215000
+    total_comp_high: 301000
+    currency: USD
+  - region: London
+    base_low: 129000
+    base_high: 169000
+    stock_low: 98000
+    stock_high: 180000
+    bonus_pct: 5
+    total_comp_low: 167000
+    total_comp_high: 233000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anyscale Data Scientist = Google L4 Data Scientist = Databricks Data Scientist = AWS Applied Scientist = Meta IC4 Data Scientist
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: Distributed ML Intelligence & Platform Analytics"
+---
 ### Data Scientist | Anyscale Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Growth-Stage Equity | Ray Distributed Computing Platform Leader | 2026 Focus: Distributed ML Intelligence & Platform Analytics

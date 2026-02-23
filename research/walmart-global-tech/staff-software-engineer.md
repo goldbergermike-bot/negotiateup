@@ -1,3 +1,39 @@
+---
+company: walmart-global-tech
+company_display: Walmart Global Tech
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bentonville AR (HQ)
+    base_low: 175000
+    base_high: 228000
+    stock_low: 120000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 410000
+    currency: USD
+  - region: Bay Area (Sunnyvale)
+    base_low: 188000
+    base_high: 245000
+    stock_low: 140000
+    stock_high: 330000
+    bonus_pct: 10
+    total_comp_low: 280000
+    total_comp_high: 445000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Walmart Global Tech Staff SWE = Google L5 = Meta E5 = Amazon Principal SDE = Apple ICT4
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage"
+---
 ### Staff Software Engineer | Walmart Global Tech Global Negotiation Guide
 
 **Negotiation DNA:** Surprisingly Competitive Tech Comp | WMT RSUs (Blue-Chip) | $600B+ Retail Giant | Bentonville Advantage

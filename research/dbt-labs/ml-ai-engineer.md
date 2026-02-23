@@ -1,3 +1,48 @@
+---
+company: dbt-labs
+company_display: dbt Labs
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / Remote-US
+    base_low: 178000
+    base_high: 218000
+    stock_low: 145000
+    stock_high: 248000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 295000
+    currency: USD
+  - region: San Francisco
+    base_low: 188000
+    base_high: 232000
+    stock_low: 158000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 315000
+    currency: USD
+  - region: London
+    base_low: 128000
+    base_high: 165000
+    stock_low: 102000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 162000
+    total_comp_high: 218000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: dbt Labs ML/AI = Google L4 ML = Snowflake ML = Databricks ML = Amazon L5 Applied Scientist
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Equity + Bonus | Semantic Layer AI Expansion | Analytics Engineering Category Creator | Series D Growth-Stage Equity"
+---
 ### ML/AI Engineer | dbt Labs Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Equity + Bonus | Semantic Layer AI Expansion | Analytics Engineering Category Creator | Series D Growth-Stage Equity

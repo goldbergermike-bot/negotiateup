@@ -1,3 +1,58 @@
+---
+company: darktrace
+company_display: Darktrace
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge UK
+    base_low: 75000
+    base_high: 115000
+    stock_low: 35000
+    stock_high: 80000
+    bonus_low: 7500
+    bonus_high: 17250
+    signing_bonus_low: 5000
+    signing_bonus_high: 15000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: London
+    base_low: 85000
+    base_high: 130000
+    stock_low: 45000
+    stock_high: 100000
+    bonus_low: 8500
+    bonus_high: 19500
+    signing_bonus_low: 8000
+    signing_bonus_high: 18000
+    total_comp_low: null
+    total_comp_high: null
+    currency: GBP
+  - region: San Francisco
+    base_low: 175000
+    base_high: 245000
+    stock_low: 90000
+    stock_high: 200000
+    bonus_low: 17500
+    bonus_high: 36750
+    signing_bonus_low: 15000
+    signing_bonus_high: 40000
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "ML/AI Engineer at Darktrace maps to L4–L6 ML Engineer at Google, IC4–IC6 Research Engineer at Meta, Applied Scientist II–III at Amazon, and 61–65 ML Engineer at Microsoft."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "ML/AI Engineer | Darktrace (LSE: DARK) | IC Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco"
+---
 ### ML/AI Engineer | Darktrace Global Negotiation Guide
 
 **Negotiation DNA:** ML/AI Engineer | Darktrace (LSE: DARK) | IC Track | Self-Learning AI Cybersecurity | Cambridge & London & San Francisco

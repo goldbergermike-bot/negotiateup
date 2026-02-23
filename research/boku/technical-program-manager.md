@@ -1,3 +1,48 @@
+---
+company: boku
+company_display: Boku
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 75000
+    base_high: 115000
+    stock_low: 25000
+    stock_high: 65000
+    bonus_pct: null
+    total_comp_low: 100000
+    total_comp_high: 180000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 150000
+    base_high: 215000
+    stock_low: 55000
+    stock_high: 135000
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 350000
+    currency: USD
+  - region: Mumbai (INR)
+    base_low: 2200000
+    base_high: 4200000
+    stock_low: 800000
+    stock_high: 2000000
+    bonus_pct: null
+    total_comp_low: 3000000
+    total_comp_high: 6200000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Technical Program Manager compensation framework spanning London, San Francisco, and Mumbai markets."
+---
 ### Technical Program Manager — Boku Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Boku's Wallet-First transformation, translating the 3.3B+ wallet connectivity and 50% e-commerce spend milestone into a Technical Program Manager compensation framework spanning London, San Francisco, and Mumbai markets.

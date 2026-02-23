@@ -1,3 +1,48 @@
+---
+company: spotify
+company_display: Spotify
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 175000
+    base_high: 218000
+    stock_low: 142000
+    stock_high: 248000
+    bonus_pct: 10
+    total_comp_low: 214000
+    total_comp_high: 288000
+    currency: USD
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 131000
+    base_high: 164000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 161000
+    total_comp_high: 216000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Spotify Solutions Architect = Google L4 Solutions Eng = Meta Partner Eng = Amazon Solutions Architect
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Audio Ecosystem Leader | $11B Creator Payout"
+---
 ### Solutions Architect | Spotify Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Audio Ecosystem Leader | $11B Creator Payout

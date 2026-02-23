@@ -1,3 +1,49 @@
+---
+company: tsmc
+company_display: TSMC
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Phoenix AZ
+    base_low: 128000
+    base_high: 168000
+    stock_low: 30000
+    stock_high: 48000
+    bonus_pct: 15
+    total_comp_low: 172000
+    total_comp_high: 238000
+    currency: USD
+  - region: San Jose
+    base_low: 140000
+    base_high: 182000
+    stock_low: 35000
+    stock_high: 55000
+    bonus_pct: 15
+    total_comp_low: 188000
+    total_comp_high: 258000
+    currency: USD
+  - region: Hsinchu Taiwan
+    base_low: null
+    base_high: null
+    stock_low: 20000
+    stock_high: 38000
+    bonus_pct: 20
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: TSMC DevOps Engineer = Intel Foundry DevOps/SRE = Samsung Foundry Infrastructure Engineer = Applied Materials DevOps Engineer = Synopsys DevOps/Platform Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone"
+---
 ### DevOps Engineer | TSMC Global Negotiation Guide
 
 **Negotiation DNA:** Base + TSM RSU/4yr + Bonus + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone

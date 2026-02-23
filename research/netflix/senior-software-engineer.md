@@ -1,3 +1,48 @@
+---
+company: netflix
+company_display: Netflix
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Los Angeles
+    base_low: 250000
+    base_high: 315000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 250000
+    total_comp_high: 315000
+    currency: USD
+  - region: San Francisco
+    base_low: 258000
+    base_high: 324000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 258000
+    total_comp_high: 324000
+    currency: USD
+  - region: London
+    base_low: 190000
+    base_high: 240000
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Netflix Senior SWE = Google L5 = Meta E5 = Apple ICT4 = Amazon SDE III / Senior SDE = Microsoft 63-64
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture"
+---
 ### Senior Software Engineer | Netflix Global Negotiation Guide
 
 **Negotiation DNA:** All-Cash (No Equity Default) | Top-of-Market Base | Keeper Culture

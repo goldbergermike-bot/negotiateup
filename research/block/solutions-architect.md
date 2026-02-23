@@ -1,3 +1,52 @@
+---
+company: block
+company_display: Block (Square)
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 240000
+    stock_low: 180000
+    stock_high: 320000
+    bonus_low: 22000
+    bonus_high: 45000
+    total_comp_low: 270000
+    total_comp_high: 430000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 235000
+    stock_low: 170000
+    stock_high: 300000
+    bonus_low: 20000
+    bonus_high: 42000
+    total_comp_low: 260000
+    total_comp_high: 415000
+    currency: USD
+  - region: London
+    base_low: 112000
+    base_high: 150000
+    stock_low: 110000
+    stock_high: 200000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 168000
+    total_comp_high: 270000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Block | Google | Meta | Stripe | PayPal | Coinbase |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L5-L6 Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Enterprise Integration` `Merchant Platform`"
+---
 ### Solutions Architect | Block Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: XYZ` `Agentic Foundation` `Lean Elite` `RSU/4yr` `Square` `Cash App` `L5-L6 Equivalent` `IC` `Fintech` `Bitcoin Treasury` `Autonomous Agents` `Enterprise Integration` `Merchant Platform`

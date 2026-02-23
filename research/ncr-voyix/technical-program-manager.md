@@ -1,3 +1,52 @@
+---
+company: ncr-voyix
+company_display: NCR Voyix
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 140000
+    base_high: 180000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_low: 15000
+    bonus_high: 28000
+    total_comp_low: 190000
+    total_comp_high: 278000
+    currency: USD
+  - region: New York NY
+    base_low: 160000
+    base_high: 205000
+    stock_low: 45000
+    stock_high: 85000
+    bonus_low: 18000
+    bonus_high: 35000
+    total_comp_low: 223000
+    total_comp_high: 325000
+    currency: USD
+  - region: London UK
+    base_low: 95000
+    base_high: 122000
+    stock_low: 24000
+    stock_high: 48000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 129000
+    total_comp_high: 190000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| NCR Voyix | Google | Meta | Stripe | Fiserv | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Program Management` `RSU/4yr` `Platform Transformation`"
+---
 ### Technical Program Manager | NCR Voyix Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: VYX` `Voyix Insight` `Cloud-Native Commerce` `NRF 2026 Microservices` `Modernization Inflection` `Atlanta Hub` `Program Management` `RSU/4yr` `Platform Transformation`

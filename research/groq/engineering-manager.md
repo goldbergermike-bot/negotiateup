@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 200000
+    base_high: 255000
+    stock_low: 50000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 372000
+    currency: USD
+  - region: San Diego
+    base_low: 185000
+    base_high: 238000
+    stock_low: 45000
+    stock_high: 82000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 350000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 228000
+    stock_low: 40000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 328000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq EM ≈ Google L6 Manager · Meta M1 · Amazon SDM · Apple Engineering Manager · Cerebras EM · NVIDIA Engineering Manager
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Management Premium"
+---
 ### Engineering Manager | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Management Premium

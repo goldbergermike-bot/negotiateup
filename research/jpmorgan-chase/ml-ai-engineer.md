@@ -1,3 +1,53 @@
+---
+company: jpmorgan-chase
+company_display: JPMorgan Chase
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 185000
+    base_high: 260000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_low: 45000
+    bonus_high: 65000
+    total_comp_low: 285000
+    total_comp_high: 425000
+    currency: USD
+  - region: London
+    base_low: 152000
+    base_high: 213000
+    stock_low: 45000
+    stock_high: 82000
+    bonus_low: 37000
+    bonus_high: 53000
+    total_comp_low: 234000
+    total_comp_high: 348000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 3850000
+    base_high: 5420000
+    stock_low: 1150000
+    stock_high: 2080000
+    bonus_low: 940000
+    bonus_high: 1350000
+    total_comp_low: 5940000
+    total_comp_high: 8860000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Machine Learning Systems` `Model Development & Deployment` `LLM/Foundation Model Engineering`"
+---
 ### ML/AI Engineer | JPMorgan Chase Global Negotiation Guide
 
 **Negotiation DNA:** `Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Machine Learning Systems` `Model Development & Deployment` `LLM/Foundation Model Engineering`

@@ -1,3 +1,48 @@
+---
+company: illumina
+company_display: Illumina
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego CA
+    base_low: 145000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 190000
+    total_comp_high: 300000
+    currency: USD
+  - region: Bay Area CA
+    base_low: 150000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 200000
+    total_comp_high: 310000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 12
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Illumina PM = Google L4-L5 PM = Genentech PM = Moderna PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: Genomics/Sequencing Dominant / Specialized Biotech Comp / RSU + Bonus / Genomics Product Strategy
+---
 ### Product Manager | Illumina Global Negotiation Guide
 
 **Negotiation DNA:** Genomics/Sequencing Dominant / Specialized Biotech Comp / RSU + Bonus / Genomics Product Strategy

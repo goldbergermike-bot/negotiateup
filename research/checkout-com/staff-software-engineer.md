@@ -1,3 +1,49 @@
+---
+company: checkout-com
+company_display: Checkout Com
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 120000
+    base_high: 165000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 325000
+    currency: GBP
+  - region: San Francisco (USD)
+    base_low: 230000
+    base_high: 290000
+    stock_low: 130000
+    stock_high: 220000
+    bonus_pct: null
+    total_comp_low: 360000
+    total_comp_high: 510000
+    currency: USD
+  - region: New York (USD)
+    base_low: 225000
+    base_high: 280000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 345000
+    total_comp_high: 480000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into a staff-level engineering compensation framework spanning London, San Francisco, and New York markets."
+---
 ### Staff Software Engineer — Checkout.com Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Checkout.com's Agentic Commerce strategy, translating the $12B valuation and Jan 2026 Blue EMI stablecoin acquisition into a staff-level engineering compensation framework spanning London, San Francisco, and New York markets.

@@ -1,3 +1,48 @@
+---
+company: tesla
+company_display: Tesla
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin (HQ)
+    base_low: 130000
+    base_high: 190000
+    stock_low: 85000
+    stock_high: 220000
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 295000
+    currency: USD
+  - region: Palo Alto
+    base_low: 140000
+    base_high: 200000
+    stock_low: 95000
+    stock_high: 235000
+    bonus_pct: null
+    total_comp_low: 180000
+    total_comp_high: 310000
+    currency: USD
+  - region: Fremont
+    base_low: 135000
+    base_high: 195000
+    stock_low: 90000
+    stock_high: 228000
+    bonus_pct: null
+    total_comp_low: 175000
+    total_comp_high: 303000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tesla Product Designer = Google L3/L4 UX = Apple Design (IC2/IC3) = Meta Product Designer (IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk"
+---
 ### Product Designer | Tesla Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk

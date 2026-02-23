@@ -1,3 +1,50 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 235000
+    base_high: 290000
+    stock_low: 280000
+    stock_high: 480000
+    bonus_pct: 10
+    total_comp_low: 345000
+    total_comp_high: 490000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 222000
+    base_high: 275000
+    stock_low: 258000
+    stock_high: 442000
+    bonus_pct: 10
+    total_comp_low: 325000
+    total_comp_high: 460000
+    currency: USD
+  - region: London / Berlin
+    base_low: 179000
+    base_high: 221000
+    stock_low: 213000
+    stock_high: 365000
+    bonus_pct: 10
+    total_comp_low: 262000
+    total_comp_high: 373000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs Staff SWE = Google L6 = Meta E6 = Datadog Staff Engineer = Elastic IC5 Distinguished
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside"
+---
 ### Staff Software Engineer | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside

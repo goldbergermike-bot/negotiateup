@@ -1,3 +1,52 @@
+---
+company: western-union
+company_display: Western Union
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver CO
+    base_low: 160000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 100000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 237000
+    total_comp_high: 347000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 235000
+    stock_low: 70000
+    stock_high: 125000
+    bonus_low: 28000
+    bonus_high: 52000
+    total_comp_low: 278000
+    total_comp_high: 412000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 140000
+    stock_low: 38000
+    stock_high: 68000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 158000
+    total_comp_high: 238000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Western Union | Google | Meta | Stripe | JPMorgan | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: WU` `USDPT` `Solutions Architect` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Enterprise Architecture`"
+---
 ### Solutions Architect | Western Union Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: WU` `USDPT` `Solutions Architect` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Enterprise Architecture`

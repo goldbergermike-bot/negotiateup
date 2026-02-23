@@ -1,3 +1,51 @@
+---
+company: fidelity
+company_display: Fidelity
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 120000
+    base_high: 155000
+    stock_low: 18000
+    stock_high: 38000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 158000
+    total_comp_high: 228000
+    currency: USD
+  - region: "Durham, NC"
+    base_low: 108000
+    base_high: 140000
+    stock_low: 16000
+    stock_high: 34000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 142000
+    total_comp_high: 206000
+    currency: USD
+  - region: "Dallas, TX"
+    base_low: 110000
+    base_high: 143000
+    stock_low: 17000
+    stock_high: 35000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 145000
+    total_comp_high: 210000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Full-Stack Development` `Distributed Systems` `Digital Brokerage Infrastructure`"
+---
 ### Software Engineer | Fidelity Investments Global Negotiation Guide
 
 **Negotiation DNA:** `Regulatory Resilience` `FIDD Stablecoin` `GENIUS Act` `Private ($12B Tech Moat)` `$4.9T+ AUM` `Stability Premium` `Full-Stack Development` `Distributed Systems` `Digital Brokerage Infrastructure`

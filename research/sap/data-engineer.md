@@ -1,3 +1,68 @@
+---
+company: sap
+company_display: Sap
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 145000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 285000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 125000
+    base_high: 175000
+    stock_low: 40000
+    stock_high: 120000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 240000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 80000
+    base_high: 120000
+    stock_low: 30000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 105000
+    total_comp_high: 170000
+    currency: EUR
+  - region: UK (London)
+    base_low: 70000
+    base_high: 110000
+    stock_low: 25000
+    stock_high: 70000
+    bonus_pct: 10
+    total_comp_low: 90000
+    total_comp_high: 155000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2200000
+    base_high: 4200000
+    stock_low: 1000000
+    stock_high: 3000000
+    bonus_pct: 10
+    total_comp_low: 3000000
+    total_comp_high: 5800000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP T2/T3 ~ Google L4/L5 | Microsoft 61/62 | Amazon L5/L6 | Snowflake IC3/IC4"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "Enterprise data architecture specialist | HANA & BTP data pipeline expertise | **DATA PLATFORM PREMIUM**"
+---
 ### Data Engineer | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise data architecture specialist | HANA & BTP data pipeline expertise | **DATA PLATFORM PREMIUM**

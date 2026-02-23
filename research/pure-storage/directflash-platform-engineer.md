@@ -1,3 +1,50 @@
+---
+company: pure-storage
+company_display: Pure Storage
+role: directflash-platform-engineer
+role_display: DirectFlash Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 195000
+    base_high: 245000
+    stock_low: 175000
+    stock_high: 340000
+    bonus_pct: 15
+    total_comp_low: 332000
+    total_comp_high: 382000
+    currency: USD
+  - region: Denver
+    base_low: 178000
+    base_high: 225000
+    stock_low: 155000
+    stock_high: 305000
+    bonus_pct: 15
+    total_comp_low: 302000
+    total_comp_high: 352000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 212000
+    stock_low: 140000
+    stock_high: 275000
+    bonus_pct: 15
+    total_comp_low: 272000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Pure Storage | Google | Meta | Amazon | Microsoft |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | +20–30% Storage Innovation Premium"
+---
 ### DirectFlash Platform Engineer | Pure Storage Global Negotiation Guide | **SIGNATURE ROLE**
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | +20–30% Storage Innovation Premium

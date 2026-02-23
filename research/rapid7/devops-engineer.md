@@ -1,3 +1,48 @@
+---
+company: rapid7
+company_display: Rapid7
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 325000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 305000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 63000
+    total_comp_high: 148000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "DevOps Engineers at Rapid7 build and maintain the CI/CD pipelines, cloud infrastructure, and deployment automation that keep the Insight Platform running reliably for thousands of enterprise security teams."
+---
 ### DevOps Engineer — Rapid7 Salary Negotiation Guide
 
 **Negotiation DNA**: DevOps Engineers at Rapid7 build and maintain the CI/CD pipelines, cloud infrastructure, and deployment automation that keep the Insight Platform running reliably for thousands of enterprise security teams.

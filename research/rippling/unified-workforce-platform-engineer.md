@@ -1,3 +1,52 @@
+---
+company: rippling
+company_display: Rippling
+role: unified-workforce-platform-engineer
+role_display: Unified Workforce Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 238000
+    base_high: 305000
+    stock_low: 335000
+    stock_high: 595000
+    bonus_pct: 15
+    total_comp_low: 388000
+    total_comp_high: 548000
+    currency: USD
+  - region: New York
+    base_low: 235000
+    base_high: 298000
+    stock_low: 328000
+    stock_high: 582000
+    bonus_pct: 15
+    total_comp_low: 382000
+    total_comp_high: 538000
+    currency: USD
+  - region: Remote US
+    base_low: 225000
+    base_high: 285000
+    stock_low: 308000
+    stock_high: 548000
+    bonus_pct: 15
+    total_comp_low: 358000
+    total_comp_high: 508000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Rippling Unified Workforce Platform Engineer = No Direct Equivalent (First-of-Kind Role) > Workday Staff SWE > ADP Staff SWE > Gusto Staff SWE > Google L5-L6 Enterprise"
+data_sources:
+  - Rippling Compound Employee Graph — Unified Platform Architecture 2026
+  - Rippling Unified Workforce Platform Engineer Comp
+  - Rippling $13.5B+ Valuation — Compound Employee Graph Premium
+  - Rippling vs Workday/ADP/Gusto/Google — Unified Platform Talent War
+  - Compound Employee Graph — Cross-Domain Workforce Data Unification
+negotiation_dna_summary: "Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | +25–35% Compound Employee Graph Premium | **SIGNATURE UNIFIED PLATFORM ROLE**"
+---
 ### Unified Workforce Platform Engineer | Rippling Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | +25–35% Compound Employee Graph Premium | **SIGNATURE UNIFIED PLATFORM ROLE**

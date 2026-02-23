@@ -1,3 +1,52 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 78000
+    base_high: 105000
+    stock_low: 100000
+    stock_high: 195000
+    bonus_pct: null
+    total_comp_low: 103000
+    total_comp_high: 154000
+    currency: EUR
+  - region: New York
+    base_low: 185000
+    base_high: 232000
+    stock_low: 195000
+    stock_high: 345000
+    bonus_pct: null
+    total_comp_low: 234000
+    total_comp_high: 318000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "HF Senior Software Engineer = Google L4 (Paris) = Meta FAIR Senior SWE (Paris/NYC) = Mistral AI Senior Engineer = Staff Engineer at early-stage startups. In the Paris market, HF Senior bands (€78K–€105K base) compete directly with Google Paris L4 (€85K–€115K base + RSUs) and Datadog Paris Senior (€80K–€110K base). The equity differential is the key differentiator: HF pre-IPO equity has significantly higher upside potential than public-company RSUs, but carries illiquidity risk."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat"
+---
 ### Senior Software Engineer | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat

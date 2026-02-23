@@ -1,3 +1,53 @@
+---
+company: jpmorgan-chase
+company_display: JPMorgan Chase
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 140000
+    base_high: 185000
+    stock_low: 35000
+    stock_high: 60000
+    bonus_low: 30000
+    bonus_high: 50000
+    total_comp_low: 205000
+    total_comp_high: 295000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 152000
+    stock_low: 29000
+    stock_high: 49000
+    bonus_low: 25000
+    bonus_high: 41000
+    total_comp_low: 168000
+    total_comp_high: 242000
+    currency: GBP
+  - region: Bengaluru
+    base_low: 2920000
+    base_high: 3850000
+    stock_low: 730000
+    stock_high: 1250000
+    bonus_low: 630000
+    bonus_high: 1040000
+    total_comp_low: 4270000
+    total_comp_high: 6150000
+    currency: INR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Cross-Functional Delivery` `Program Governance` `Executive Stakeholder Management`"
+---
 ### Technical Program Manager | JPMorgan Chase Global Negotiation Guide
 
 **Negotiation DNA:** `Core Infrastructure` `Systemic Pay Band` `AI Core Expense` `Public Equity (NYSE: JPM)` `$4.1T+ Assets` `Cross-Functional Delivery` `Program Governance` `Executive Stakeholder Management`

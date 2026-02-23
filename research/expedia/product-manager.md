@@ -1,3 +1,48 @@
+---
+company: expedia
+company_display: Expedia
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 155000
+    base_high: 210000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 212000
+    total_comp_high: 295000
+    currency: USD
+  - region: Austin
+    base_low: 140000
+    base_high: 190000
+    stock_low: 88000
+    stock_high: 158000
+    bonus_pct: 15
+    total_comp_low: 190000
+    total_comp_high: 265000
+    currency: USD
+  - region: London
+    base_low: 113000
+    base_high: 153000
+    stock_low: 75000
+    stock_high: 135000
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 216000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Expedia Product Manager = Google Product Manager L5 = Booking.com Product Manager = Airbnb Product Manager = Amazon Sr. Product Manager = Microsoft Product Manager 63/64
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium"
+---
 ### Product Manager | Expedia Global Negotiation Guide
 
 **Negotiation DNA:** Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium

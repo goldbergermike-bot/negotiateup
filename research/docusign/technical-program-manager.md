@@ -1,3 +1,67 @@
+---
+company: docusign
+company_display: Docusign
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Francisco / Seattle)
+    base_low: 160000
+    base_high: 225000
+    stock_low: 75000
+    stock_high: 185000
+    bonus_pct: 12
+    total_comp_low: 205000
+    total_comp_high: 325000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 55000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 280000
+    currency: USD
+  - region: EMEA (London/Dublin)
+    base_low: 78000
+    base_high: 118000
+    stock_low: 32000
+    stock_high: 78000
+    bonus_pct: 10
+    total_comp_low: 104000
+    total_comp_high: 166000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 2800000
+    base_high: 5000000
+    stock_low: 1400000
+    stock_high: 3600000
+    bonus_pct: 10
+    total_comp_low: 3800000
+    total_comp_high: 6800000
+    currency: INR
+  - region: Australia (Sydney)
+    base_low: 128000
+    base_high: 182000
+    stock_low: 48000
+    stock_high: 108000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 245000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "DocuSign TPM (IC3/IC4) ~ Salesforce Senior/Lead TPM | Adobe Senior/Staff TPM | ServiceNow Senior/Lead TPM | Google L5/L6 TPM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "SaaS delivery orchestrator | Cross-functional agreement platform program leader | **PROGRAM LEADERSHIP PREMIUM**"
+---
 ### Technical Program Manager | DocuSign Global Negotiation Guide
 
 **Negotiation DNA:** SaaS delivery orchestrator | Cross-functional agreement platform program leader | **PROGRAM LEADERSHIP PREMIUM**

@@ -1,3 +1,50 @@
+---
+company: point72
+company_display: Point72
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stamford CT (HQ)
+    base_low: 180000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_low: 160000
+    bonus_high: 245000
+    total_comp_low: 340000
+    total_comp_high: 490000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_low: 165000
+    bonus_high: 255000
+    total_comp_low: 350000
+    total_comp_high: 510000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 300000
+    total_comp_high: 440000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`IAC Team` `Researcher Premium` `$466K+ L3` `Trading System Security` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`"
+---
 ### Security Engineer | Point72 Global Negotiation Guide
 
 **Negotiation DNA:** `IAC Team` `Researcher Premium` `$466K+ L3` `Trading System Security` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`

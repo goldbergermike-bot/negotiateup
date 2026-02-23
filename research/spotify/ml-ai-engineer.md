@@ -1,3 +1,48 @@
+---
+company: spotify
+company_display: Spotify
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 212000
+    base_high: 268000
+    stock_low: 245000
+    stock_high: 428000
+    bonus_pct: 15
+    total_comp_low: 276000
+    total_comp_high: 379000
+    currency: USD
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 159000
+    base_high: 201000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: 207000
+    total_comp_high: 284000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Spotify Senior ML Eng = Google L4 ML = Meta ML E4 = Netflix ML Eng = Apple ML ICT3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Audio Ecosystem Leader | $11B Creator Payout | **+15-25% AI Premium**"
+---
 ### ML/AI Engineer | Spotify Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Audio Ecosystem Leader | $11B Creator Payout | **+15-25% AI Premium**

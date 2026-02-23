@@ -1,3 +1,48 @@
+---
+company: plaid-identity
+company_display: Plaid Identity
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 240000
+    stock_low: 220000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 345000
+    currency: USD
+  - region: New York
+    base_low: 190000
+    base_high: 235000
+    stock_low: 210000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 155000
+    stock_low: 110000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 155000
+    total_comp_high: 220000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Plaid E4 (Senior) = Google L4 = Meta E4 = Stripe L3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure"
+---
 ### Senior Software Engineer | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / Pre-IPO Upside | Identity-First Financial Infrastructure

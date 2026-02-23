@@ -1,3 +1,39 @@
+---
+company: flexport
+company_display: Flexport
+role: supply-chain-platform-engineer
+role_display: Supply Chain Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 225000
+    stock_low: 120000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 395000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 210000
+    stock_low: 100000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 360000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Flexport Supply Chain Platform Engineer = No Direct Equivalent (Specialized) > C.H. Robinson SWE > Maersk Digital SWE > project44 SWE > FourKites SWE = Google L4-L5 Logistics"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Freight Forwarding + Supply Chain Tech | $8B Valuation | Global Logistics Platform | **SUPPLY CHAIN INTELLIGENCE PREMIUM**"
+---
 ### Supply Chain Platform Engineer | Flexport Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Freight Forwarding + Supply Chain Tech | $8B Valuation | Global Logistics Platform | **SUPPLY CHAIN INTELLIGENCE PREMIUM**

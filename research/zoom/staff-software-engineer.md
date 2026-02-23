@@ -1,3 +1,68 @@
+---
+company: zoom
+company_display: Zoom
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 220000
+    base_high: 310000
+    stock_low: 155000
+    stock_high: 380000
+    bonus_pct: 15
+    total_comp_low: 325000
+    total_comp_high: 510000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 195000
+    base_high: 275000
+    stock_low: 120000
+    stock_high: 305000
+    bonus_pct: 12
+    total_comp_low: 280000
+    total_comp_high: 445000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 108000
+    base_high: 165000
+    stock_low: 62000
+    stock_high: 155000
+    bonus_pct: 12
+    total_comp_low: 158000
+    total_comp_high: 268000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 4800000
+    base_high: 8500000
+    stock_low: 2800000
+    stock_high: 6200000
+    bonus_pct: 12
+    total_comp_low: 6500000
+    total_comp_high: 12500000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 168000
+    base_high: 248000
+    stock_low: 82000
+    stock_high: 192000
+    bonus_pct: 12
+    total_comp_low: 228000
+    total_comp_high: 375000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom IC4/IC5 ~ Google L6/L7 | Microsoft 65/66 | Meta E6/E7 | Apple ICT5/ICT6 | Salesforce Principal/Distinguished"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Communication platform architecture leader | Cross-system technical authority & AI platform visionary | **STAFF IC PREMIUM**"
+---
 ### Staff Software Engineer | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** Communication platform architecture leader | Cross-system technical authority & AI platform visionary | **STAFF IC PREMIUM**

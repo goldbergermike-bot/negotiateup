@@ -1,3 +1,48 @@
+---
+company: segment
+company_display: Segment
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 168000
+    base_high: 205000
+    stock_low: 85000
+    stock_high: 158000
+    bonus_pct: 15
+    total_comp_low: 220000
+    total_comp_high: 288000
+    currency: USD
+  - region: New York
+    base_low: 162000
+    base_high: 198000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 212000
+    total_comp_high: 278000
+    currency: USD
+  - region: London
+    base_low: 120000
+    base_high: 150000
+    stock_low: 58000
+    stock_high: 110000
+    bonus_pct: 15
+    total_comp_low: 155000
+    total_comp_high: 205000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Segment SA = Google Cloud SA = Twilio SA = Snowflake SA = Salesforce SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Customer Success Bonus | AI CDP Enterprise Implementation 2026"
+---
 ### Solutions Architect | Segment Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Customer Success Bonus | AI CDP Enterprise Implementation 2026

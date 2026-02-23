@@ -1,3 +1,48 @@
+---
+company: ping-identity
+company_display: Ping Identity
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver
+    base_low: 172000
+    base_high: 218000
+    stock_low: 55000
+    stock_high: 98000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 292000
+    currency: USD
+  - region: Austin
+    base_low: 165000
+    base_high: 212000
+    stock_low: 55000
+    stock_high: 98000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 285000
+    currency: USD
+  - region: Remote US
+    base_low: 162000
+    base_high: 205000
+    stock_low: 55000
+    stock_high: 98000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ping Identity Security (IC3-IC4) = Okta Security Engineer = CyberArk Security Engineer = SailPoint Security = ForgeRock Security = Microsoft Identity Security (L61-L63)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY SECURITY BONUS**"
+---
 ### Security Engineer | Ping Identity Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY SECURITY BONUS**

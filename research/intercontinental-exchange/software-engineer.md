@@ -1,3 +1,52 @@
+---
+company: intercontinental-exchange
+company_display: Intercontinental Exchange
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta (HQ)
+    base_low: 115000
+    base_high: 155000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 168000
+    total_comp_high: 242000
+    currency: USD
+  - region: New York
+    base_low: 129000
+    base_high: 174000
+    stock_low: 134000
+    stock_high: 224000
+    bonus_low: 20000
+    bonus_high: 36000
+    total_comp_low: 188000
+    total_comp_high: 271000
+    currency: USD
+  - region: London
+    base_low: 92000
+    base_high: 124000
+    stock_low: 96000
+    stock_high: 160000
+    bonus_low: 14000
+    bonus_high: 26000
+    total_comp_low: 134000
+    total_comp_high: 194000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "`Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Exchange Platform Engineering` `Low-Latency Systems` `Full-Stack Development`"
+---
 ### Software Engineer | Intercontinental Exchange (ICE) Global Negotiation Guide
 
 **Negotiation DNA:** `Physical AI` `Infrastructure Sovereign` `Mortgage Digitization` `Public Equity (NYSE: ICE)` `Energy-Data Convergence` `Exchange Platform Engineering` `Low-Latency Systems` `Full-Stack Development`

@@ -1,3 +1,50 @@
+---
+company: huggingface-enterprise
+company_display: Hugging Face Enterprise
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 180000
+    base_high: 235000
+    stock_low: 155000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 253000
+    total_comp_high: 363000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 230000
+    stock_low: 155000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 355000
+    currency: USD
+  - region: Paris
+    base_low: 153000
+    base_high: 200000
+    stock_low: 132000
+    stock_high: 238000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 309000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: HF Enterprise PM = Google L5 PM = GitHub PM = Meta PM IC5 = Databricks PM = Snowflake PM
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Premium Base + Growth-Stage Equity | Open-Source AI Platform Leader | 2026 Focus: Enterprise Model Marketplace & Monetization Strategy"
+---
 ### Product Manager | Hugging Face Enterprise Global Negotiation Guide
 
 **Negotiation DNA:** Premium Base + Growth-Stage Equity | Open-Source AI Platform Leader | 2026 Focus: Enterprise Model Marketplace & Monetization Strategy

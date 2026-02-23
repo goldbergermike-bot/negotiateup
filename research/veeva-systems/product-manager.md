@@ -1,3 +1,48 @@
+---
+company: veeva-systems
+company_display: Veeva Systems
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area / Pleasanton
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 410000
+    currency: USD
+  - region: Boston / East Coast
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 375000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 65000
+    total_comp_high: 185000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Product Managers at Veeva Systems define the roadmap for the life sciences cloud platform that 19 of the top 20 pharma companies depend on — translating complex regulatory requirements and clinical workflows into products that drive a $35B market cap.
+---
 ### Product Manager — Veeva Systems Salary Negotiation Guide
 
 **Negotiation DNA**: Product Managers at Veeva Systems define the roadmap for the life sciences cloud platform that 19 of the top 20 pharma companies depend on — translating complex regulatory requirements and clinical workflows into products that drive a $35B market cap.

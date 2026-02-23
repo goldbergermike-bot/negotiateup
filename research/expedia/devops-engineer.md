@@ -1,3 +1,48 @@
+---
+company: expedia
+company_display: Expedia
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 142000
+    base_high: 185000
+    stock_low: 92000
+    stock_high: 155000
+    bonus_pct: 15
+    total_comp_low: 185000
+    total_comp_high: 252000
+    currency: USD
+  - region: Austin
+    base_low: 128000
+    base_high: 168000
+    stock_low: 80000
+    stock_high: 138000
+    bonus_pct: 15
+    total_comp_low: 166000
+    total_comp_high: 228000
+    currency: USD
+  - region: London
+    base_low: 103000
+    base_high: 135000
+    stock_low: 68000
+    stock_high: 116000
+    bonus_pct: 15
+    total_comp_low: 135000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Expedia DevOps Engineer = Google Site Reliability Engineer L4/L5 = Booking.com Platform Engineer = Airbnb Infrastructure Engineer = Amazon Systems Engineer = Microsoft DevOps Engineer 62/63
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | Infrastructure Scale Premium"
+---
 ### DevOps Engineer | Expedia Global Negotiation Guide
 
 **Negotiation DNA:** Base + EXPE RSUs (4yr vest, 1yr cliff) + Bonus | Multi-Brand Travel Platform | One Key Unified Rewards | Cross-Brand Equity | Seattle HQ Premium | Infrastructure Scale Premium

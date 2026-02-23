@@ -1,3 +1,48 @@
+---
+company: micron
+company_display: Micron
+role: hbm-memory-platform-engineer
+role_display: HBM Memory Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boise
+    base_low: 175000
+    base_high: 232000
+    stock_low: 62000
+    stock_high: 100000
+    bonus_pct: 12
+    total_comp_low: 272000
+    total_comp_high: 382000
+    currency: USD
+  - region: San Jose
+    base_low: 202000
+    base_high: 268000
+    stock_low: 75000
+    stock_high: 120000
+    bonus_pct: 12
+    total_comp_low: 318000
+    total_comp_high: 448000
+    currency: USD
+  - region: Remote US
+    base_low: 182000
+    base_high: 240000
+    stock_low: 65000
+    stock_high: 105000
+    bonus_pct: 12
+    total_comp_low: 282000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Micron HBM Platform Engineer (Band 7–9) maps to Google L5–L7, Meta E5–E7, Amazon SDE III–Principal"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "SIGNATURE ROLE | Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +25-35% HBM Scarcity Premium"
+---
 ### HBM Memory Platform Engineer | Micron Global Negotiation Guide
 
 **Negotiation DNA:** SIGNATURE ROLE | Equity-Heavy + Bonus | Memory & Storage Semiconductor | Sold-Out HBM Capacity | +25-35% HBM Scarcity Premium

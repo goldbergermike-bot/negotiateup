@@ -1,3 +1,48 @@
+---
+company: lyft
+company_display: Lyft
+role: av-orchestration-platform-engineer
+role_display: AV Orchestration Platform Engineer (SIGNATURE ROLE)
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 195000
+    base_high: 255000
+    stock_low: 180000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 358000
+    currency: USD
+  - region: New York
+    base_low: 186000
+    base_high: 243000
+    stock_low: 168000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 340000
+    currency: USD
+  - region: Remote US
+    base_low: 172000
+    base_high: 225000
+    stock_low: 150000
+    stock_high: 298000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 312000
+    currency: USD
+level_mapping:
+  internal: SIGNATURE ROLE
+  raw: Lyft AV Orchestration Platform Engineer (T6-T7) = Google L5-L6 Autonomy Platform Engineer = Uber Staff Robotaxi Platform Engineer = Waymo Senior/Staff Platform Engineer = Aurora Senior/Staff Systems Engineer = Cruise Staff Platform Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Rideshare & Mobility Platform | BENTELER/HOLON AV-Hybrid Strategy | AV-Orchestration Premium (+15-25%) | AI/AV Premium | 4-Year Vest w/ 1-Year Cliff | Signature Role — Autonomous Shuttle Fleet Integration"
+---
 ### AV Orchestration Platform Engineer (SIGNATURE ROLE) | Lyft Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Rideshare & Mobility Platform | BENTELER/HOLON AV-Hybrid Strategy | AV-Orchestration Premium (+15-25%) | AI/AV Premium | 4-Year Vest w/ 1-Year Cliff | Signature Role — Autonomous Shuttle Fleet Integration

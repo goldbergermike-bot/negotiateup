@@ -1,3 +1,54 @@
+---
+company: blackrock
+company_display: Blackrock
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 225000
+    base_high: 295000
+    stock_low: null
+    stock_high: null
+    bonus_low: 68000
+    bonus_high: 115000
+    total_comp_low: 318000
+    total_comp_high: 448000
+    currency: USD
+  - region: San Francisco
+    base_low: 238000
+    base_high: 311000
+    stock_low: null
+    stock_high: null
+    bonus_low: 72000
+    bonus_high: 120000
+    total_comp_low: 335000
+    total_comp_high: 472000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 210000
+    stock_low: 256000
+    stock_high: 427000
+    bonus_low: 48000
+    bonus_high: 82000
+    total_comp_low: 464000
+    total_comp_high: 719000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "`$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `ML/AI Engineer` `IC Track` `VP/Director-Level` `+15-25% AI Premium`"
+---
 ### ML/AI Engineer | BlackRock Global Negotiation Guide
 
 **Negotiation DNA:** `$11.5T AUM` `Aladdin AI` `NYSE: BLK` `Active Alpha Premium` `ML/AI Engineer` `IC Track` `VP/Director-Level` `+15-25% AI Premium`

@@ -1,3 +1,48 @@
+---
+company: confluent
+company_display: Confluent
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 205000
+    base_high: 250000
+    stock_low: 270000
+    stock_high: 430000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 395000
+    currency: USD
+  - region: London
+    base_low: 90000
+    base_high: 115000
+    stock_low: 110000
+    stock_high: 178000
+    bonus_pct: 15
+    total_comp_low: 130000
+    total_comp_high: 172000
+    currency: GBP
+  - region: Bangalore
+    base_low: 6000000
+    base_high: 8500000
+    stock_low: 4500000
+    stock_high: 7200000
+    bonus_pct: 15
+    total_comp_low: 7500000
+    total_comp_high: 11200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Confluent EM = Google L5 Manager = Meta M1 = Databricks EM = MongoDB EM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy"
+---
 ### Engineering Manager | Confluent Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy

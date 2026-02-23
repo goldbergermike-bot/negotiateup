@@ -1,3 +1,52 @@
+---
+company: payoneer
+company_display: Payoneer
+role: compliant-global-employment-platform-engineer
+role_display: Compliant Global Employment Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 170000
+    base_high: 225000
+    stock_low: 60000
+    stock_high: 140000
+    bonus_low: 20000
+    bonus_high: 45000
+    total_comp_low: 250000
+    total_comp_high: 410000
+    currency: USD
+  - region: Tel Aviv
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: London
+    base_low: 100000
+    base_high: 135000
+    stock_low: 42000
+    stock_high: 95000
+    bonus_low: 14000
+    bonus_high: 30000
+    total_comp_low: 156000
+    total_comp_high: 260000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Payoneer | Google | Meta | Stripe | Wise | Deel |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: PAYO` `Boundless` `Compliant Global Employment` `Cross-Border Payments` `RSU/4yr` `FinTech` `190+ Countries` `EOR Platform` `Employment Compliance` `Multi-Jurisdiction Payroll` `Employer of Record` `Tax Engines` `Benefits Administration` `Global Workforce Infrastructure`"
+---
 ### Compliant Global Employment Platform Engineer | Payoneer Global Negotiation Guide
 
 # SIGNATURE ROLE

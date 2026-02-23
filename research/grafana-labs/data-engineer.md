@@ -1,3 +1,50 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 160000
+    base_high: 205000
+    stock_low: 110000
+    stock_high: 190000
+    bonus_pct: 5
+    total_comp_low: 195000
+    total_comp_high: 275000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 150000
+    base_high: 195000
+    stock_low: 100000
+    stock_high: 175000
+    bonus_pct: 5
+    total_comp_low: 182000
+    total_comp_high: 260000
+    currency: USD
+  - region: London / Berlin
+    base_low: 120000
+    base_high: 156000
+    stock_low: 82000
+    stock_high: 144000
+    bonus_pct: 5
+    total_comp_low: 148000
+    total_comp_high: 210000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs Data Engineer = Google L4 Data Engineer = Meta E4 Data = Datadog DE II = Elastic IC3 Data
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside"
+---
 ### Data Engineer | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside

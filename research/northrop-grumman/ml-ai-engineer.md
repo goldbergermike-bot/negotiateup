@@ -1,3 +1,49 @@
+---
+company: northrop-grumman
+company_display: Northrop Grumman
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Falls Church, VA"
+    base_low: 130000
+    base_high: 180000
+    stock_low: 32000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 245000
+    currency: USD
+  - region: "Redondo Beach, CA"
+    base_low: 135000
+    base_high: 185000
+    stock_low: 32000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 163000
+    total_comp_high: 250000
+    currency: USD
+  - region: "Huntsville, AL"
+    base_low: 120000
+    base_high: 170000
+    stock_low: 30000
+    stock_high: 90000
+    bonus_pct: 10
+    total_comp_low: 148000
+    total_comp_high: 235000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Northrop ML/AI Eng = L3Harris ML Eng = Lockheed AI Eng -- Northrop pays 10-15% premium over defense SWE for ML, plus space systems premium"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense + Tech Premium | $75B Market Cap | Space/Defense AI | Standard 40-45 Hour Culture"
+---
 ### ML/AI Engineer | Northrop Grumman Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense + Tech Premium | $75B Market Cap | Space/Defense AI | Standard 40-45 Hour Culture

@@ -1,3 +1,49 @@
+---
+company: salesforce
+company_display: Salesforce
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 220000
+    stock_low: 200000
+    stock_high: 350000
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 308000
+    currency: USD
+  - region: Indianapolis
+    base_low: 155000
+    base_high: 195000
+    stock_low: 170000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 198000
+    total_comp_high: 270000
+    currency: USD
+  - region: Hyderabad
+    base_low: 3000000
+    base_high: 4800000
+    stock_low: 1800000
+    stock_high: 3500000
+    bonus_pct: null
+    total_comp_low: 4800000
+    total_comp_high: 8300000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Salesforce PM = Google L5 PM = Meta IC5 PM = Stripe PM
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Agentforce Consumption Inflection"
+---
 ### Product Manager | Salesforce Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Agentforce Consumption Inflection

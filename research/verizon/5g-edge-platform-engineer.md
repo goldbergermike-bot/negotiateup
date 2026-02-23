@@ -1,3 +1,50 @@
+---
+company: verizon
+company_display: Verizon
+role: 5g-edge-platform-engineer
+role_display: 5G Edge Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / New Jersey
+    base_low: 150000
+    base_high: 205000
+    stock_low: 48000
+    stock_high: 145000
+    bonus_pct: 12
+    total_comp_low: 190000
+    total_comp_high: 290000
+    currency: USD
+  - region: Bay Area / Seattle
+    base_low: 155000
+    base_high: 210000
+    stock_low: 52000
+    stock_high: 150000
+    bonus_pct: 12
+    total_comp_low: 198000
+    total_comp_high: 302000
+    currency: USD
+  - region: Dallas / Atlanta
+    base_low: 140000
+    base_high: 192000
+    stock_low: 40000
+    stock_high: 130000
+    bonus_pct: 12
+    total_comp_low: 172000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Verizon 5G Edge Platform Engineer (Senior) = AWS Edge Engineer (Senior) = Google Cloud Edge Engineer L5 = Microsoft Azure Edge Engineer 63 = T-Mobile Senior 5G Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$175B Telecom Leader | 5G + Edge Computing Platform | **SIGNATURE ROLE** | **+12-18% 5G/EDGE PREMIUM**"
+---
 ### 5G Edge Platform Engineer | Verizon Global Negotiation Guide
 
 **Negotiation DNA:** $175B Telecom Leader | 5G + Edge Computing Platform | **SIGNATURE ROLE** | **+12-18% 5G/EDGE PREMIUM**

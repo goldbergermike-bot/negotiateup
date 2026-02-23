@@ -1,3 +1,52 @@
+---
+company: square
+company_display: Square
+role: commerce-ai-platform-engineer
+role_display: Commerce AI Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 238000
+    base_high: 298000
+    stock_low: 328000
+    stock_high: 578000
+    bonus_pct: 15
+    total_comp_low: 385000
+    total_comp_high: 535000
+    currency: USD
+  - region: New York
+    base_low: 238000
+    base_high: 298000
+    stock_low: 328000
+    stock_high: 578000
+    bonus_pct: 15
+    total_comp_low: 385000
+    total_comp_high: 535000
+    currency: USD
+  - region: Remote US
+    base_low: 222000
+    base_high: 278000
+    stock_low: 305000
+    stock_high: 542000
+    bonus_pct: 15
+    total_comp_low: 358000
+    total_comp_high: 502000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Square Commerce AI Platform Engineer = No Direct Equivalent (First-of-Kind Role) > Stripe Sr/Staff SWE > Shopify Sr/Staff SWE > Google L5-L6 Commerce AI"
+data_sources:
+  - Square AI-Powered Commerce Tools
+  - Square Commerce AI Platform Engineer Comp
+  - "Block Inc $45B+ Market Cap — NYSE: SQ — Commerce AI Premium"
+  - Square vs Stripe/Shopify/Google — Commerce AI Talent War
+  - AI Democratization — Small Business Intelligence Platform
+negotiation_dna_summary: "Equity-Heavy (Block RSUs) + Bonus | AI-Powered Commerce Tools | $45B+ Market Cap | 56M+ Sellers | +25–35% Commerce AI Premium | **SIGNATURE AI COMMERCE ROLE**"
+---
 ### Commerce AI Platform Engineer | Square Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Block RSUs) + Bonus | AI-Powered Commerce Tools | $45B+ Market Cap | 56M+ Sellers | +25–35% Commerce AI Premium | **SIGNATURE AI COMMERCE ROLE**

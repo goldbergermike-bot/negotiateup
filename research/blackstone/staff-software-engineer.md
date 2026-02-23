@@ -1,3 +1,50 @@
+---
+company: blackstone
+company_display: Blackstone
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 275000
+    base_high: 340000
+    stock_low: null
+    stock_high: null
+    bonus_low: 100000
+    bonus_high: 155000
+    total_comp_low: 565000
+    total_comp_high: 815000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_low: 85000
+    bonus_high: 135000
+    total_comp_low: 515000
+    total_comp_high: 740000
+    currency: GBP
+  - region: Miami
+    base_low: 260000
+    base_high: 325000
+    stock_low: null
+    stock_high: null
+    bonus_low: 90000
+    bonus_high: 145000
+    total_comp_low: 535000
+    total_comp_high: 775000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `+15-25% Premium` `Technical Leadership` `Platform Architecture`"
+---
 ### Staff Software Engineer | Blackstone Global Negotiation Guide
 
 **Negotiation DNA:** `$1.3T AUM` `Perpetual Capital` `AI Infrastructure` `NYSE: BX` `+15-25% Premium` `Technical Leadership` `Platform Architecture`

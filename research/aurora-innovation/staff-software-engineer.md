@@ -1,3 +1,39 @@
+---
+company: aurora-innovation
+company_display: Aurora Innovation
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pittsburgh (HQ)
+    base_low: 190000
+    base_high: 245000
+    stock_low: 180000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 305000
+    total_comp_high: 470000
+    currency: USD
+  - region: Bay Area
+    base_low: 200000
+    base_high: 258000
+    stock_low: 200000
+    stock_high: 430000
+    bonus_pct: 10
+    total_comp_low: 325000
+    total_comp_high: 500000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Aurora Staff Software Engineer = Google L5 = Meta E5 = Waymo Staff SWE = Apple ICT4 = Amazon Principal SDE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage"
+---
 ### Staff Software Engineer | Aurora Innovation Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Comp | AUR Equity (Pre-Maturity) | Self-Driving Trucks Pioneer | Pittsburgh Advantage

@@ -1,3 +1,53 @@
+---
+company: shift4
+company_display: Shift4
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Center Valley PA
+    base_low: 140000
+    base_high: 185000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 212000
+    total_comp_high: 340000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 80000
+    stock_high: 170000
+    bonus_low: 15000
+    bonus_high: 35000
+    total_comp_low: 260000
+    total_comp_high: 420000
+    currency: USD
+  - region: London
+    base_low: 105000
+    base_high: 140000
+    stock_low: 45000
+    stock_high: 100000
+    bonus_low: 10000
+    bonus_high: 22000
+    total_comp_low: 160000
+    total_comp_high: 262000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Shift4 | Google | Meta | Stripe | Toast | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "`NYSE: FOUR` `Stablecoin Settlement` `Data Engineering` `Payments Data Pipeline` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Real-Time Streaming` `Finaro` `Data Infrastructure` `ETL/ELT`"
+---
 ### Data Engineer | Shift4 Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: FOUR` `Stablecoin Settlement` `Data Engineering` `Payments Data Pipeline` `Skytab POS` `Stadium & Venue Payments` `24/7 Global Liquidity` `Real-Time Streaming` `Finaro` `Data Infrastructure` `ETL/ELT`

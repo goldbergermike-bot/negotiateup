@@ -1,3 +1,51 @@
+---
+company: cme-group
+company_display: CME Group
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Chicago (HQ)
+    base_low: 185000
+    base_high: 255000
+    stock_low: 55000
+    stock_high: 92000
+    bonus_low: 32000
+    bonus_high: 51000
+    total_comp_low: 272000
+    total_comp_high: 398000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 275000
+    stock_low: 60000
+    stock_high: 99000
+    bonus_low: 35000
+    bonus_high: 55000
+    total_comp_low: 295000
+    total_comp_high: 429000
+    currency: USD
+  - region: London
+    base_low: 144000
+    base_high: 198000
+    stock_low: 43000
+    stock_high: 71000
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 212000
+    total_comp_high: 309000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Machine Learning Infrastructure` `Real-Time Inference` `Financial AI Models`"
+---
 ### ML/AI Engineer | CME Group Global Negotiation Guide
 
 **Negotiation DNA:** `Model Hydration` `High-Fidelity Data` `Derivatives AI` `Public Equity (NASDAQ: CME)` `$5.6B+ Revenue` `Machine Learning Infrastructure` `Real-Time Inference` `Financial AI Models`

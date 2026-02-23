@@ -1,3 +1,52 @@
+---
+company: nuvei
+company_display: Nuvei
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Montreal
+    base_low: 120000
+    base_high: 170000
+    stock_low: 32000
+    stock_high: 70000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 166000
+    total_comp_high: 268000
+    currency: CAD
+  - region: New York
+    base_low: 150000
+    base_high: 215000
+    stock_low: 40000
+    stock_high: 85000
+    bonus_low: 18000
+    bonus_high: 36000
+    total_comp_low: 208000
+    total_comp_high: 336000
+    currency: USD
+  - region: London
+    base_low: 82000
+    base_high: 120000
+    stock_low: 20000
+    stock_high: 45000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 112000
+    total_comp_high: 185000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Nuvei | Google | Meta | Stripe | Adyen | Global Payments |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `PCI-DSS` `Compliance Security` `Montreal HQ`"
+---
 ### Security Engineer | Nuvei Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Advent)` `Electronic Currency Issuer` `Fintech Payments` `i-Gaming` `200+ Markets` `PE-Backed` `PCI-DSS` `Compliance Security` `Montreal HQ`

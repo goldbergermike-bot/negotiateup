@@ -1,3 +1,42 @@
+---
+company: snyk
+company_display: Snyk
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 145000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 68000
+    total_comp_high: 162000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - "Snyk Security Fabric launch — February 3, 2026"
+  - "AI-generated code insecurity research — 48% rate, 2026"
+  - Snyk Series G valuation at $7.4B — December 2024
+  - Product Manager compensation benchmarks for security startups — January 2026
+  - Snyk product blog on Security Fabric roadmap — February 2026
+negotiation_dna_summary: "As a Product Manager at Snyk, you define the Security Fabric product strategy and drive the Secure at Inception vision into market-winning features — your roadmap decisions shape the future of developer security."
+---
 ### Product Manager — Snyk Salary Negotiation Guide
 
 **Negotiation DNA**: As a Product Manager at Snyk, you define the Security Fabric product strategy and drive the Secure at Inception vision into market-winning features — your roadmap decisions shape the future of developer security.

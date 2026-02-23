@@ -1,3 +1,48 @@
+---
+company: lianlian-global
+company_display: Lianlian Global
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":cn: Hangzhou (CNY)"
+    base_low: 500000
+    base_high: 850000
+    stock_low: 300000
+    stock_high: 700000
+    bonus_pct: null
+    total_comp_low: 800000
+    total_comp_high: 1550000
+    currency: JPY
+  - region: ":hong_kong: Hong Kong (HKD)"
+    base_low: 800000
+    base_high: 1350000
+    stock_low: 450000
+    stock_high: 900000
+    bonus_pct: null
+    total_comp_low: 1250000
+    total_comp_high: 2250000
+    currency: HKD
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 140000
+    base_high: 220000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_pct: null
+    total_comp_low: 220000
+    total_comp_high: 380000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into an engineering management compensation framework spanning Hangzhou, Hong Kong, and Singapore markets."
+---
 ### Engineering Manager — LianLian Global Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into an engineering management compensation framework spanning Hangzhou, Hong Kong, and Singapore markets.

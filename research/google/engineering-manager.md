@@ -1,3 +1,70 @@
+---
+company: google
+company_display: Google
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Bay Area (HQ)
+    base_low: 235000
+    base_high: 335000
+    stock_low: 360000
+    stock_high: 820000
+    bonus_pct: 15
+    total_comp_low: 430000
+    total_comp_high: 690000
+    currency: USD
+  - region: New York City
+    base_low: 230000
+    base_high: 325000
+    stock_low: 340000
+    stock_high: 790000
+    bonus_pct: 15
+    total_comp_low: 420000
+    total_comp_high: 670000
+    currency: USD
+  - region: Seattle / Kirkland
+    base_low: 220000
+    base_high: 315000
+    stock_low: 330000
+    stock_high: 770000
+    bonus_pct: 15
+    total_comp_low: 400000
+    total_comp_high: 650000
+    currency: USD
+  - region: London
+    base_low: 145000
+    base_high: 225000
+    stock_low: 220000
+    stock_high: 500000
+    bonus_pct: 15
+    total_comp_low: 270000
+    total_comp_high: 470000
+    currency: GBP
+  - region: Zurich
+    base_low: 200000
+    base_high: 300000
+    stock_low: 280000
+    stock_high: 600000
+    bonus_pct: 15
+    total_comp_low: 360000
+    total_comp_high: 580000
+    currency: CHF
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at Google (M1/L6) = E6 Manager at Meta, L63-L64 Manager at Microsoft, L7 Manager at Amazon, Engineering Manager at Apple (ICT5-ICT6), Staff/Manager at Netflix"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - H1B
+  - H1B Salary Data
+negotiation_dna_summary: "Top-of-market manager comp + Large RSU grants rivaling IC Staff levels + 15-20% bonus with multiplier upside | Google EM compensation is among the highest in tech | **LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Google Global Negotiation Guide
 
 **Negotiation DNA:** Top-of-market manager comp + Large RSU grants rivaling IC Staff levels + 15-20% bonus with multiplier upside | Google EM compensation is among the highest in tech | **LEADERSHIP PREMIUM**

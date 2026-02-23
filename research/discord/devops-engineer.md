@@ -1,3 +1,48 @@
+---
+company: discord
+company_display: Discord
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 158000
+    base_high: 202000
+    stock_low: 92000
+    stock_high: 168000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 265000
+    currency: USD
+  - region: New York
+    base_low: 152000
+    base_high: 195000
+    stock_low: 88000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 255000
+    currency: USD
+  - region: Remote US
+    base_low: 142000
+    base_high: 182000
+    stock_low: 80000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 238000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Discord DevOps Engineer = Google SRE L4 = Meta Production Engineer (IC4) = Amazon Systems Engineer II = Apple SRE 3 = Datadog Infrastructure Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Infrastructure Reliability Premium"
+---
 ### DevOps Engineer | Discord Global Negotiation Guide
 
 **Negotiation DNA:** Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Infrastructure Reliability Premium

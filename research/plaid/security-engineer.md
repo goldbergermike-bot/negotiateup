@@ -1,3 +1,48 @@
+---
+company: plaid
+company_display: Plaid
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 235000
+    stock_low: 155000
+    stock_high: 272000
+    bonus_pct: 15
+    total_comp_low: 242000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 228000
+    stock_low: 155000
+    stock_high: 272000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 332000
+    currency: USD
+  - region: Remote US
+    base_low: 170000
+    base_high: 215000
+    stock_low: 155000
+    stock_high: 272000
+    bonus_pct: 15
+    total_comp_low: 225000
+    total_comp_high: 312000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Plaid Security (IC3-IC4) = Stripe Security SWE = Square Security Engineer = Google Security Engineer (L4-L5) = MX Security Engineer = Finicity/Mastercard Security
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**"
+---
 ### Security Engineer | Plaid Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play + Bonus | Financial Connectivity Platform | $4.8B Revenue Run Rate | 12,000+ Institution Network | **IPO RETENTION SIGN-ON**

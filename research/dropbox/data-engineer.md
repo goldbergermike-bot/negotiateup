@@ -1,3 +1,48 @@
+---
+company: dropbox
+company_display: Dropbox
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 220000
+    stock_low: 150000
+    stock_high: 268000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 332000
+    currency: USD
+  - region: Seattle
+    base_low: 170000
+    base_high: 215000
+    stock_low: 145000
+    stock_high: 258000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 322000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 205000
+    stock_low: 138000
+    stock_high: 245000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Dropbox DE (IC3-IC5) = Google DE L4-L5 = Meta DE E4-E5 = Elastic DE = Confluent DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NASDAQ: DBX) + Bonus | Dash AI Search Data Infrastructure | $8B+ Market Cap | 700M+ Users | **DASH AI PREMIUM**"
+---
 ### Data Engineer | Dropbox Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NASDAQ: DBX) + Bonus | Dash AI Search Data Infrastructure | $8B+ Market Cap | 700M+ Users | **DASH AI PREMIUM**

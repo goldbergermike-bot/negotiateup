@@ -1,3 +1,50 @@
+---
+company: grafana-labs
+company_display: Grafana Labs
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / NYC
+    base_low: 190000
+    base_high: 245000
+    stock_low: 160000
+    stock_high: 300000
+    bonus_pct: 5
+    total_comp_low: 255000
+    total_comp_high: 365000
+    currency: USD
+  - region: Austin / Seattle
+    base_low: 178000
+    base_high: 232000
+    stock_low: 145000
+    stock_high: 278000
+    bonus_pct: 5
+    total_comp_low: 240000
+    total_comp_high: 345000
+    currency: USD
+  - region: London / Berlin
+    base_low: 145000
+    base_high: 187000
+    stock_low: 120000
+    stock_high: 228000
+    bonus_pct: 5
+    total_comp_low: 194000
+    total_comp_high: 278000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Grafana Labs Senior SWE = Google L5 = Meta E5 = Datadog Senior SWE = Elastic IC4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside"
+---
 ### Senior Software Engineer | Grafana Labs Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Open-Source | Observability Market Leader | Series D ($6B+ Valuation) | Pre-IPO Equity Upside

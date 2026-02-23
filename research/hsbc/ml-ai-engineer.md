@@ -1,3 +1,50 @@
+---
+company: hsbc
+company_display: HSBC
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 128000
+    base_high: 178000
+    stock_low: 55000
+    stock_high: 82000
+    bonus_low: 19000
+    bonus_high: 35000
+    total_comp_low: 202000
+    total_comp_high: 295000
+    currency: GBP
+  - region: Hong Kong
+    base_low: 1020000
+    base_high: 1420000
+    stock_low: 545000
+    stock_high: 820000
+    bonus_low: 445000
+    bonus_high: 710000
+    total_comp_low: 2010000
+    total_comp_high: 2950000
+    currency: HKD
+  - region: Singapore
+    base_low: 221000
+    base_high: 308000
+    stock_low: 95000
+    stock_high: 142000
+    bonus_low: 32000
+    bonus_high: 61000
+    total_comp_low: 348000
+    total_comp_high: 510000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Machine Learning` `LLM/GenAI` `Production ML Systems`"
+---
 ### ML/AI Engineer | HSBC Global Negotiation Guide
 
 **Negotiation DNA:** `Asia Boom` `Regional Sovereign` `13.1% CAGR` `Public Equity (NYSE: HSBC)` `$3T+ Assets` `Asia Data Center` `Machine Learning` `LLM/GenAI` `Production ML Systems`

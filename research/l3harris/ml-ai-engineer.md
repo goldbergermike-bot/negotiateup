@@ -1,3 +1,49 @@
+---
+company: l3harris
+company_display: L3Harris
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Melbourne, FL"
+    base_low: 125000
+    base_high: 175000
+    stock_low: 28000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 150000
+    total_comp_high: 235000
+    currency: USD
+  - region: "Salt Lake City, UT"
+    base_low: 120000
+    base_high: 170000
+    stock_low: 28000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 230000
+    currency: USD
+  - region: "Rochester, NY"
+    base_low: 120000
+    base_high: 170000
+    stock_low: 26000
+    stock_high: 80000
+    bonus_pct: 10
+    total_comp_low: 143000
+    total_comp_high: 225000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "L3Harris ML/AI Eng = Raytheon ML Eng = Northrop AI Eng -- L3Harris pays 10-15% above defense SWE base for ML roles"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Traditional Defense Compensation + Tech Premium | $45B Market Cap | Defense AI/Sensor Processing/EW | Standard 40-45 Hour Culture"
+---
 ### ML/AI Engineer | L3Harris Global Negotiation Guide
 
 **Negotiation DNA:** Traditional Defense Compensation + Tech Premium | $45B Market Cap | Defense AI/Sensor Processing/EW | Standard 40-45 Hour Culture

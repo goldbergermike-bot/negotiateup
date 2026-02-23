@@ -1,3 +1,48 @@
+---
+company: airwallex
+company_display: Airwallex
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Melbourne (AUD)
+    base_low: 195000
+    base_high: 260000
+    stock_low: 160000
+    stock_high: 320000
+    bonus_pct: null
+    total_comp_low: 355000
+    total_comp_high: 580000
+    currency: AUD
+  - region: San Francisco (USD)
+    base_low: 240000
+    base_high: 300000
+    stock_low: 200000
+    stock_high: 400000
+    bonus_pct: null
+    total_comp_low: 440000
+    total_comp_high: 700000
+    currency: USD
+  - region: London (GBP)
+    base_low: 125000
+    base_high: 170000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 225000
+    total_comp_high: 370000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a staff-level engineering compensation framework spanning Melbourne, San Francisco, and London markets. As a Staff Software Engineer, you are a technical leader shaping the architecture of Airwallex's global payments platform — your influence spans multiple teams, and your decisions have multi-year regulatory and revenue implications."
+---
 ### Staff Software Engineer — Airwallex Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a staff-level engineering compensation framework spanning Melbourne, San Francisco, and London markets. As a Staff Software Engineer, you are a technical leader shaping the architecture of Airwallex's global payments platform — your influence spans multiple teams, and your decisions have multi-year regulatory and revenue implications.

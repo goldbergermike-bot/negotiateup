@@ -1,3 +1,49 @@
+---
+company: anthropic
+company_display: Anthropic
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 250000
+    base_high: 315000
+    stock_low: 350000
+    stock_high: 600000
+    bonus_pct: null
+    total_comp_low: 338000
+    total_comp_high: 465000
+    currency: USD
+  - region: Seattle
+    base_low: 243000
+    base_high: 299000
+    stock_low: 350000
+    stock_high: 600000
+    bonus_pct: null
+    total_comp_low: 330000
+    total_comp_high: 449000
+    currency: USD
+  - region: London
+    base_low: 190000
+    base_high: 239000
+    stock_low: 266000
+    stock_high: 456000
+    bonus_pct: null
+    total_comp_low: 257000
+    total_comp_high: 353000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Anthropic Senior SWE = Google L5 = Meta E5 = OpenAI Senior SWE = Amazon SDE III = Apple ICT4
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium"
+---
 ### Senior Software Engineer | Anthropic Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy ($300K+) + Pre-IPO Equity | AI Safety Pioneer | Safety Premium

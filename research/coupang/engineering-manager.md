@@ -1,3 +1,39 @@
+---
+company: coupang
+company_display: Coupang
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 190000
+    base_high: 252000
+    stock_low: 145000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 282000
+    total_comp_high: 455000
+    currency: USD
+  - region: Seattle
+    base_low: 185000
+    base_high: 245000
+    stock_low: 140000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 272000
+    total_comp_high: 440000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Coupang EM = Google EM L5 = Meta M1 = Amazon SDM II = Apple EM2
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Competitive US Comp | CPNG RSUs ($40B Market Cap) | Korean E-Commerce Leader | Mountain View Office"
+---
 ### Engineering Manager | Coupang Global Negotiation Guide
 
 **Negotiation DNA:** Competitive US Comp | CPNG RSUs ($40B Market Cap) | Korean E-Commerce Leader | Mountain View Office

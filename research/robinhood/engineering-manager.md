@@ -1,3 +1,52 @@
+---
+company: robinhood
+company_display: Robinhood
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Menlo Park, CA (HQ)"
+    base_low: 205000
+    base_high: 262000
+    stock_low: null
+    stock_high: null
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 298000
+    total_comp_high: 432000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 262000
+    stock_low: null
+    stock_high: null
+    bonus_low: 25000
+    bonus_high: 40000
+    total_comp_low: 298000
+    total_comp_high: 432000
+    currency: USD
+  - region: London
+    base_low: 155000
+    base_high: 198000
+    stock_low: 212000
+    stock_high: 394000
+    bonus_low: 19000
+    bonus_high: 30000
+    total_comp_low: 226000
+    total_comp_high: 327000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `Team Delivery Ownership` `Cross-Functional Leadership` `Fintech Talent Retention`"
+---
 ### Engineering Manager | Robinhood Global Negotiation Guide
 
 **Negotiation DNA:** `Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `Team Delivery Ownership` `Cross-Functional Leadership` `Fintech Talent Retention`

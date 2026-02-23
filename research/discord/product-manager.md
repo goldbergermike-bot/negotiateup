@@ -1,3 +1,48 @@
+---
+company: discord
+company_display: Discord
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 228000
+    stock_low: 105000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 222000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York
+    base_low: 172000
+    base_high: 220000
+    stock_low: 100000
+    stock_high: 185000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 292000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 205000
+    stock_low: 90000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 272000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Discord Product Manager = Google L5 PM = Meta PM (IC5) = Amazon Sr. PMT = Apple PM3 = Stripe PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Subscription Monetization Expertise Premium"
+---
 ### Product Manager | Discord Global Negotiation Guide
 
 **Negotiation DNA:** Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly | Subscription Monetization Expertise Premium

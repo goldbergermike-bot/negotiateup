@@ -1,3 +1,53 @@
+---
+company: moneygram
+company_display: Moneygram
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas TX
+    base_low: 130000
+    base_high: 170000
+    stock_low: 28000
+    stock_high: 55000
+    bonus_low: 13000
+    bonus_high: 28000
+    total_comp_low: 171000
+    total_comp_high: 253000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 195000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_low: 17000
+    bonus_high: 35000
+    total_comp_low: 202000
+    total_comp_high: 300000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 125000
+    stock_low: 20000
+    stock_high: 42000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 125000
+    total_comp_high: 187000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| MoneyGram | Google | Meta | Stripe | Western Union | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Infrastructure & Reliability`"
+---
 ### DevOps Engineer | MoneyGram Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Infrastructure & Reliability`

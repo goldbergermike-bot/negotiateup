@@ -1,3 +1,48 @@
+---
+company: etsy
+company_display: Etsy
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Brooklyn
+    base_low: 198000
+    base_high: 248000
+    stock_low: 142000
+    stock_high: 252000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 332000
+    currency: USD
+  - region: San Francisco
+    base_low: 205000
+    base_high: 255000
+    stock_low: 142000
+    stock_high: 252000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 342000
+    currency: USD
+  - region: Remote US
+    base_low: 188000
+    base_high: 238000
+    stock_low: 142000
+    stock_high: 252000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Etsy ML/AI Eng (E3-E4) = Google L4-L5 ML = Meta ML Eng = Amazon Applied Scientist II = Shopify ML Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction | **+15–25% AI PREMIUM**"
+---
 ### ML/AI Engineer | Etsy Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Handmade & Vintage Marketplace | $750M Share Buyback (Feb 2026) | 14.2% Float Reduction | **+15–25% AI PREMIUM**

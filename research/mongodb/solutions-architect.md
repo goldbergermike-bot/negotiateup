@@ -1,3 +1,48 @@
+---
+company: mongodb
+company_display: Mongodb
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 170000
+    base_high: 212000
+    stock_low: 155000
+    stock_high: 260000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 277000
+    currency: USD
+  - region: Dublin
+    base_low: 72000
+    base_high: 92000
+    stock_low: 62000
+    stock_high: 108000
+    bonus_pct: null
+    total_comp_low: 88000
+    total_comp_high: 119000
+    currency: EUR
+  - region: Austin
+    base_low: 160000
+    base_high: 202000
+    stock_low: 145000
+    stock_high: 240000
+    bonus_pct: null
+    total_comp_low: 195000
+    total_comp_high: 262000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: MongoDB Senior SA = Google Customer Engineer = Elastic Senior SA = Confluent Senior SA
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + No Bonus | \"Battle for the AI Data Layer\" | Voyage AI Acquisition Premium"
+---
 ### Solutions Architect | MongoDB Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + No Bonus | "Battle for the AI Data Layer" | Voyage AI Acquisition Premium

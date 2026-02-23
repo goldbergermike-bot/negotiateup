@@ -1,3 +1,51 @@
+---
+company: kraken
+company_display: Kraken
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 265000
+    stock_low: 300000
+    stock_high: 500000
+    bonus_low: 30000
+    bonus_high: 48000
+    total_comp_low: 312000
+    total_comp_high: 438000
+    currency: USD
+  - region: New York
+    base_low: 205000
+    base_high: 258000
+    stock_low: 290000
+    stock_high: 485000
+    bonus_low: 28000
+    bonus_high: 45000
+    total_comp_low: 305000
+    total_comp_high: 428000
+    currency: USD
+  - region: Remote US
+    base_low: 190000
+    base_high: 240000
+    stock_low: 265000
+    stock_high: 445000
+    bonus_low: 25000
+    bonus_high: 42000
+    total_comp_low: 285000
+    total_comp_high: 402000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Management Track"
+---
 ### Engineering Manager | Kraken Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO | $20B Valuation | Crypto Exchange | Options-Heavy | IPO-Critical | Management Track

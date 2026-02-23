@@ -1,3 +1,48 @@
+---
+company: xai
+company_display: xAI
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 208000
+    base_high: 258000
+    stock_low: 305000
+    stock_high: 532000
+    bonus_pct: null
+    total_comp_low: 312000
+    total_comp_high: 425000
+    currency: USD
+  - region: Palo Alto
+    base_low: 208000
+    base_high: 258000
+    stock_low: 305000
+    stock_high: 532000
+    bonus_pct: null
+    total_comp_low: 312000
+    total_comp_high: 425000
+    currency: USD
+  - region: Remote US
+    base_low: 195000
+    base_high: 245000
+    stock_low: 305000
+    stock_high: 532000
+    bonus_pct: null
+    total_comp_low: 295000
+    total_comp_high: 408000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: xAI Data Scientist = Google L4 DS = OpenAI DS = Meta DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026)"
+---
 ### Data Scientist | xAI Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Outsize Sign-On | AGI Sprint Mission | $20B Funding (Jan 2026)

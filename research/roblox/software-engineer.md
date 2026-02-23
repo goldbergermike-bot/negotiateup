@@ -1,3 +1,51 @@
+---
+company: roblox
+company_display: Roblox
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo
+    base_low: 145000
+    base_high: 185000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 252000
+    currency: USD
+  - region: New York
+    base_low: 140000
+    base_high: 180000
+    stock_low: 115000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 242000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 170000
+    stock_low: 100000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 225000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Roblox Software Engineer (IC2-IC3) = Google L3-L4 = Meta E3-E4 = Amazon SDE I-II = Apple ICT2-ICT3
+data_sources:
+  - Roblox 4D Generative AI Foundation Model — Roblox AI Blog 2026
+  - Roblox Creator Economy — $1B+ Creator Payouts — Roblox 2025 10-K
+  - Roblox 80M+ DAU Immersive Platform — Roblox Q4 2025 Earnings
+  - "Roblox Developer Conference 2025 — AI & Creator Tools Keynote"
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**"
+---
 ### Software Engineer | Roblox Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Immersive 3D Platform & Creator Economy | 4D GenAI Foundation Model | **+40% AGENTIC PREMIUM**

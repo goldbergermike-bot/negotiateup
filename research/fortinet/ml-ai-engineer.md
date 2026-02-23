@@ -1,3 +1,47 @@
+---
+company: fortinet
+company_display: Fortinet
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 165000
+    total_comp_high: 370000
+    currency: USD
+  - region: Ottawa
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 128000
+    total_comp_high: 285000
+    currency: CAD
+  - region: Sophia Antipolis
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 62000
+    total_comp_high: 150000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "ML/AI Engineers at Fortinet deploy models on the largest security telemetry dataset in the world — with the Rule of 45 sustained and Sovereign-SASE requiring privacy-preserving AI, your models are the intelligence layer that separates Fortinet from every competitor."
+---
 ### ML/AI Engineer — Fortinet Salary Negotiation Guide
 
 **Negotiation DNA**: ML/AI Engineers at Fortinet deploy models on the largest security telemetry dataset in the world — with the Rule of 45 sustained and Sovereign-SASE requiring privacy-preserving AI, your models are the intelligence layer that separates Fortinet from every competitor.

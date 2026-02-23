@@ -1,3 +1,49 @@
+---
+company: ppro
+company_display: Ppro
+role: regional-impact-platform-engineer
+role_display: Regional Impact Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 100000
+    base_high: 140000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 260000
+    currency: GBP
+  - region: Munich (EUR)
+    base_low: 105000
+    base_high: 145000
+    stock_low: 55000
+    stock_high: 115000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 260000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 135000
+    base_high: 185000
+    stock_low: 75000
+    stock_high: 145000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 330000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a Regional Impact Platform Engineering compensation framework spanning London, Munich, and Singapore markets. The Regional Impact Platform Engineer is the role most directly aligned with PPRO's core mission — simplifying the fragmentation of hundreds of local payment methods into a single infrastructure layer that global merchants can access through one API."
+---
 ### Regional Impact Platform Engineer — PPRO Salary Negotiation Guide
 
 ## --- SIGNATURE ROLE ---

@@ -1,3 +1,47 @@
+---
+company: datadog
+company_display: Datadog
+role: ai-nervous-system-platform-engineer
+role_display: AI Nervous System Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 185000
+    total_comp_high: 450000
+    currency: USD
+  - region: Paris
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 65000
+    total_comp_high: 175000
+    currency: EUR
+  - region: Dublin
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 180000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "The AI Nervous System Platform Engineer is Datadog's most strategic hire — the architect who unifies LLM Observability, infrastructure monitoring, APM, and security into the coherent AI Nervous System that will define how every enterprise monitors AI workloads for the next decade."
+---
 ### AI Nervous System Platform Engineer — Datadog Salary Negotiation Guide
 
 **Negotiation DNA**: The AI Nervous System Platform Engineer is Datadog's most strategic hire — the architect who unifies LLM Observability, infrastructure monitoring, APM, and security into the coherent AI Nervous System that will define how every enterprise monitors AI workloads for the next decade.

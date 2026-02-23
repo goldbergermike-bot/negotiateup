@@ -1,3 +1,53 @@
+---
+company: coupa
+company_display: Coupa
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 160000
+    base_high: 205000
+    stock_low: 50000
+    stock_high: 110000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 230000
+    total_comp_high: 350000
+    currency: USD
+  - region: New York NY
+    base_low: 155000
+    base_high: 200000
+    stock_low: 45000
+    stock_high: 100000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 218000
+    total_comp_high: 332000
+    currency: USD
+  - region: London UK
+    base_low: 100000
+    base_high: 135000
+    stock_low: 30000
+    stock_high: 65000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 142000
+    total_comp_high: 222000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Coupa | Google | Meta | Stripe | SAP | Oracle |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `Community Intelligence` `$6T+ Spend Data`"
+---
 ### Data Scientist | Coupa Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `Community Intelligence` `$6T+ Spend Data`

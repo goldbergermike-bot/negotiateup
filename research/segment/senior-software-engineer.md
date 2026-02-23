@@ -1,3 +1,48 @@
+---
+company: segment
+company_display: Segment
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 188000
+    base_high: 228000
+    stock_low: 135000
+    stock_high: 250000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 340000
+    currency: USD
+  - region: New York
+    base_low: 182000
+    base_high: 222000
+    stock_low: 130000
+    stock_high: 240000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 328000
+    currency: USD
+  - region: London
+    base_low: 132000
+    base_high: 165000
+    stock_low: 95000
+    stock_high: 175000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 238000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Segment Senior SWE = Google L5 = Meta E5 = Twilio Senior SWE = Snowflake Senior
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Strong Twilio RSU + Bonus | AI-Integrated CDP Platform 2026"
+---
 ### Senior Software Engineer | Segment Global Negotiation Guide
 
 **Negotiation DNA:** Strong Twilio RSU + Bonus | AI-Integrated CDP Platform 2026

@@ -1,3 +1,40 @@
+---
+company: domo
+company_display: Domo
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: American Fork UT HQ
+    base_low: 165000
+    base_high: 210000
+    stock_low: 70000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 310000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Domo Staff SWE = Sisense Staff SWE = Google L5 (comp-adjusted) = Salesforce Principal MTS (comp-adjusted)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Small-Cap Public ($700M Market Cap) | BI Platform | Utah-Based Value | Smaller Company Comp"
+---
 ### Staff Software Engineer | Domo Global Negotiation Guide
 
 **Negotiation DNA:** Small-Cap Public ($700M Market Cap) | BI Platform | Utah-Based Value | Smaller Company Comp

@@ -1,3 +1,50 @@
+---
+company: warner-bros-discovery
+company_display: Warner Bros. Discovery
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC / Los Angeles
+    base_low: 115000
+    base_high: 162000
+    stock_low: 24000
+    stock_high: 95000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 215000
+    currency: USD
+  - region: Atlanta / Seattle
+    base_low: 108000
+    base_high: 152000
+    stock_low: 20000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 198000
+    currency: USD
+  - region: London (UK)
+    base_low: 85000
+    base_high: 120000
+    stock_low: 16000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 102000
+    total_comp_high: 158000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: WBD Product Designer (D2-D4) = Google L3-L5 UX = Meta E3-E5 Designer = Netflix Product Designer = Disney D2-D4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$25B Media Company | Premium Streaming Experience | Max / HBO Design Language"
+---
 ### Product Designer | Warner Bros Discovery Global Negotiation Guide
 
 **Negotiation DNA:** $25B Media Company | Premium Streaming Experience | Max / HBO Design Language

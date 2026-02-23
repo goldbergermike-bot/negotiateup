@@ -1,3 +1,48 @@
+---
+company: oracle
+company_display: Oracle
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 155000
+    base_high: 192000
+    stock_low: 110000
+    stock_high: 195000
+    bonus_pct: null
+    total_comp_low: 188000
+    total_comp_high: 252000
+    currency: USD
+  - region: Seattle
+    base_low: 165000
+    base_high: 205000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_pct: null
+    total_comp_low: 200000
+    total_comp_high: 268000
+    currency: USD
+  - region: Bangalore
+    base_low: 3000000
+    base_high: 4800000
+    stock_low: 1200000
+    stock_high: 2200000
+    bonus_pct: null
+    total_comp_low: 3500000
+    total_comp_high: 5500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Oracle Senior DE = Google L4 DE = AWS Senior DE = Databricks Senior DE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Sign-On Bonus Culture | OCI \"Stargate\" AI Infrastructure Pivot | $500B JV Premium"
+---
 ### Data Engineer | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Sign-On Bonus Culture | OCI "Stargate" AI Infrastructure Pivot | $500B JV Premium

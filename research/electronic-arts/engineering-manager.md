@@ -1,3 +1,48 @@
+---
+company: electronic-arts
+company_display: Electronic Arts
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 195000
+    base_high: 255000
+    stock_low: 140000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 410000
+    currency: USD
+  - region: Orlando
+    base_low: 175000
+    base_high: 230000
+    stock_low: 115000
+    stock_high: 255000
+    bonus_pct: 15
+    total_comp_low: 240000
+    total_comp_high: 365000
+    currency: USD
+  - region: Bucharest
+    base_low: 65000
+    base_high: 95000
+    stock_low: 35000
+    stock_high: 70000
+    bonus_pct: 15
+    total_comp_low: 110000
+    total_comp_high: 175000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: EA EM (M1) = Google L5 Manager = Meta M1 = Microsoft 65 Manager
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Sports-Gaming Revenue Machine"
+---
 ### Engineering Manager | Electronic Arts Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Sports-Gaming Revenue Machine

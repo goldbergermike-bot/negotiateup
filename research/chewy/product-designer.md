@@ -1,3 +1,51 @@
+---
+company: chewy
+company_display: Chewy
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Plantation FL
+    base_low: 105000
+    base_high: 140000
+    stock_low: 25000
+    stock_high: 40000
+    bonus_pct: 10
+    total_comp_low: 142000
+    total_comp_high: 198000
+    currency: USD
+  - region: Boston
+    base_low: 113000
+    base_high: 152000
+    stock_low: 27000
+    stock_high: 44000
+    bonus_pct: 10
+    total_comp_low: 153000
+    total_comp_high: 216000
+    currency: USD
+  - region: Remote US
+    base_low: 100000
+    base_high: 133000
+    stock_low: 24000
+    stock_high: 38000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 188000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Chewy Product Designer = Google UX Designer L4 = Amazon UX Designer SDE II = Meta Product Designer IC4 = Microsoft Designer 61–62 = Apple Design ICT3–ICT4
+data_sources:
+  - "Chewy 84% Autoship Penetration — Q4 2024 Earnings Report, Recurring Revenue Model"
+  - "Chewy Pet Health Expansion — Chewy Health, Telehealth, Insurance, Pharmacy Announcements"
+  - "Chewy 10-K Annual Filing — $12B+ Revenue, 20M+ Active Customers"
+  - Pet Humanization Trend — APPA $150B+ US Pet Industry Spending Report
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium"
+---
 ### Product Designer | Chewy Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Pet Health & Commerce Platform | 84% Autoship Recurring Revenue | Pet Humanization Premium

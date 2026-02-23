@@ -1,3 +1,43 @@
+---
+company: bridgewater-associates
+company_display: Bridgewater Associates
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westport, CT (HQ)"
+    base_low: 145000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_low: 43500
+    bonus_high: 123000
+    total_comp_low: 188500
+    total_comp_high: 328000
+    currency: USD
+  - region: New York City
+    base_low: 152000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_low: 45600
+    bonus_high: 129000
+    total_comp_low: 197600
+    total_comp_high: 344000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Designer at Bridgewater = L4/L5 UX Designer at Google, IC4/IC5 Product Designer at Meta, UX Designer II/Senior at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Designing internal tools and investment interfaces used by the world's largest hedge fund | UX with direct impact on investment decision-making | **HEDGE FUND DESIGN PREMIUM**"
+---
 ### Product Designer | Bridgewater Associates Global Negotiation Guide
 
 **Negotiation DNA:** ~$150B AUM hedge fund, ~1,500 employees, radical transparency culture + Designing internal tools and investment interfaces used by the world's largest hedge fund | UX with direct impact on investment decision-making | **HEDGE FUND DESIGN PREMIUM**

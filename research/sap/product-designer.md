@@ -1,3 +1,67 @@
+---
+company: sap
+company_display: Sap
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (Major Tech Hubs)
+    base_low: 135000
+    base_high: 190000
+    stock_low: 45000
+    stock_high: 130000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 260000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 115000
+    base_high: 165000
+    stock_low: 35000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 220000
+    currency: USD
+  - region: Germany (Walldorf/Munich)
+    base_low: 75000
+    base_high: 115000
+    stock_low: 25000
+    stock_high: 70000
+    bonus_pct: 10
+    total_comp_low: 95000
+    total_comp_high: 155000
+    currency: EUR
+  - region: UK (London)
+    base_low: 65000
+    base_high: 105000
+    stock_low: 22000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 82000
+    total_comp_high: 140000
+    currency: GBP
+  - region: India (Bangalore/Hyderabad)
+    base_low: 2000000
+    base_high: 3800000
+    stock_low: 800000
+    stock_high: 2500000
+    bonus_pct: 10
+    total_comp_low: 2600000
+    total_comp_high: 5000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "SAP D2/D3 ~ Google L4/L5 UX | Microsoft 61/62 Design | Salesforce Senior/Lead Designer | IBM Senior/Advisory Designer"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Enterprise UX transformation specialist | SAP Fiori & Horizon design system expertise | **DESIGN PREMIUM**"
+---
 ### Product Designer | SAP Global Negotiation Guide
 
 **Negotiation DNA:** Enterprise UX transformation specialist | SAP Fiori & Horizon design system expertise | **DESIGN PREMIUM**

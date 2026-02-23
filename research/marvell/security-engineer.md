@@ -1,3 +1,48 @@
+---
+company: marvell
+company_display: Marvell
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 152000
+    base_high: 195000
+    stock_low: 110000
+    stock_high: 190000
+    bonus_pct: 12
+    total_comp_low: 202000
+    total_comp_high: 282000
+    currency: USD
+  - region: Boise
+    base_low: 136000
+    base_high: 175000
+    stock_low: 94000
+    stock_high: 165000
+    bonus_pct: 12
+    total_comp_low: 178000
+    total_comp_high: 250000
+    currency: USD
+  - region: Remote US
+    base_low: 144000
+    base_high: 185000
+    stock_low: 102000
+    stock_high: 178000
+    bonus_pct: 12
+    total_comp_low: 190000
+    total_comp_high: 266000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Marvell Security T5 = Google Security L5 = Meta Security IC5 = Apple Security ICT4 = Broadcom Security Architect = AMD Security Engineer Senior
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | +10% Security Premium"
+---
 ### Security Engineer | Marvell Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Custom Silicon & AI Infrastructure | Celestial AI Acquisition | +10% Security Premium

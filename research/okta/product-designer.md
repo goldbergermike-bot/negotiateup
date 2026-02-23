@@ -1,3 +1,47 @@
+---
+company: okta
+company_display: Okta
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 300000
+    currency: USD
+  - region: Toronto
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 112000
+    total_comp_high: 245000
+    currency: CAD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 65000
+    total_comp_high: 150000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Product Designers at Okta design the interfaces through which enterprises govern every identity — human and machine — making complex NHI Fabric and Identity Governance workflows intuitive enough for security teams to manage the 50:1 Non-Human Identity explosion without misconfiguration."
+---
 ### Product Designer — Okta Salary Negotiation Guide
 
 **Negotiation DNA**: Product Designers at Okta design the interfaces through which enterprises govern every identity — human and machine — making complex NHI Fabric and Identity Governance workflows intuitive enough for security teams to manage the 50:1 Non-Human Identity explosion without misconfiguration.

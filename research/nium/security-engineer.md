@@ -1,3 +1,48 @@
+---
+company: nium
+company_display: Nium
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 120000
+    base_high: 190000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 340000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 175000
+    base_high: 250000
+    stock_low: 90000
+    stock_high: 200000
+    bonus_pct: null
+    total_comp_low: 265000
+    total_comp_high: 450000
+    currency: USD
+  - region: London (GBP)
+    base_low: 75000
+    base_high: 125000
+    stock_low: 45000
+    stock_high: 90000
+    bonus_pct: null
+    total_comp_low: 120000
+    total_comp_high: 215000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a security engineering compensation framework spanning Singapore, San Francisco, and London markets. As a Security Engineer at Nium, you are the guardian of the payments infrastructure — protecting billions of dollars in cross-border transactions from fraud, breaches, and regulatory non-compliance. In a company whose entire value proposition is trusted money movement, security is not"
+---
 ### Security Engineer — Nium Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a security engineering compensation framework spanning Singapore, San Francisco, and London markets. As a Security Engineer at Nium, you are the guardian of the payments infrastructure — protecting billions of dollars in cross-border transactions from fraud, breaches, and regulatory non-compliance. In a company whose entire value proposition is trusted money movement, security is not a support function; it is the product.

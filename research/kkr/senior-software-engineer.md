@@ -1,3 +1,50 @@
+---
+company: kkr
+company_display: KKR
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 195000
+    base_high: 245000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 378000
+    total_comp_high: 542000
+    currency: USD
+  - region: San Francisco
+    base_low: 200000
+    base_high: 255000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 25
+    total_comp_low: 390000
+    total_comp_high: 558000
+    currency: USD
+  - region: London
+    base_low: 150000
+    base_high: 190000
+    stock_low: 155000
+    stock_high: 248000
+    bonus_low: 37000
+    bonus_high: 58000
+    total_comp_low: 342000
+    total_comp_high: 496000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#HighGrading` `#ValueCreation` `#OperationalAlpha` `#PortfolioArchitecture` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#SeniorIC`"
+---
 ### Senior Software Engineer | KKR Global Negotiation Guide
 
 **Negotiation DNA:** `#HighGrading` `#ValueCreation` `#OperationalAlpha` `#PortfolioArchitecture` `#AltAssetTech` `#NYSE:KKR` `#$600B+AUM` `#SeniorIC`

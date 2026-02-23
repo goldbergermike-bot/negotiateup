@@ -1,3 +1,48 @@
+---
+company: discord
+company_display: Discord
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 145000
+    base_high: 185000
+    stock_low: 85000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 175000
+    total_comp_high: 242000
+    currency: USD
+  - region: New York
+    base_low: 140000
+    base_high: 178000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 168000
+    total_comp_high: 232000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 168000
+    stock_low: 75000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 218000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Discord Software Engineer (L3-L4) = Google L3-L4 = Meta E3-E4 = Amazon SDE I-II = Apple ICT2-ICT3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly"
+---
 ### Software Engineer | Discord Global Negotiation Guide
 
 **Negotiation DNA:** Base + Pre-IPO Equity + 10-15% Bonus | Community & Real-Time Communication | $600M+ Ad-Free Subscription Revenue | Remote-Friendly

@@ -1,3 +1,52 @@
+---
+company: ally-financial
+company_display: Ally Financial
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Detroit, MI (HQ)"
+    base_low: 115000
+    base_high: 150000
+    stock_low: 24000
+    stock_high: 44000
+    bonus_low: 23000
+    bonus_high: 38000
+    total_comp_low: 162000
+    total_comp_high: 232000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 121000
+    base_high: 158000
+    stock_low: 25000
+    stock_high: 46000
+    bonus_low: 24000
+    bonus_high: 40000
+    total_comp_low: 170000
+    total_comp_high: 244000
+    currency: USD
+  - region: New York
+    base_low: 136000
+    base_high: 177000
+    stock_low: 28000
+    stock_high: 52000
+    bonus_low: 27000
+    bonus_high: 45000
+    total_comp_low: 191000
+    total_comp_high: 274000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "`Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Infrastructure as Code` `CI/CD Pipeline` `Cloud Platform Reliability`"
+---
 ### DevOps Engineer | Ally Financial Global Negotiation Guide
 
 **Negotiation DNA:** `Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Infrastructure as Code` `CI/CD Pipeline` `Cloud Platform Reliability`

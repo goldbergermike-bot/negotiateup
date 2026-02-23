@@ -1,3 +1,48 @@
+---
+company: rippling
+company_display: Rippling
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 222000
+    stock_low: 155000
+    stock_high: 288000
+    bonus_pct: 12
+    total_comp_low: 238000
+    total_comp_high: 352000
+    currency: USD
+  - region: New York
+    base_low: 168000
+    base_high: 218000
+    stock_low: 152000
+    stock_high: 282000
+    bonus_pct: 12
+    total_comp_low: 235000
+    total_comp_high: 348000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 208000
+    stock_low: 142000
+    stock_high: 265000
+    bonus_pct: 12
+    total_comp_low: 222000
+    total_comp_high: 328000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rippling TPM = Gusto TPM = Workday TPM = ADP TPM = Google L4-L5 TPM = Meta IC4-IC5 TPM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **CROSS-DOMAIN COORDINATION PREMIUM**"
+---
 ### Technical Program Manager | Rippling Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **CROSS-DOMAIN COORDINATION PREMIUM**

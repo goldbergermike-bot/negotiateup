@@ -1,3 +1,48 @@
+---
+company: databricks-unity
+company_display: Databricks Unity
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 172000
+    base_high: 218000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 332000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 225000
+    stock_low: 155000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 238000
+    total_comp_high: 338000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 152000
+    stock_low: 102000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 158000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Databricks DE (L2-L3) = Snowflake DE = Google DE L3-L4 = Meta DE E4 = Amazon DE L5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Data Engineer | Databricks Unity Global Negotiation Guide
 
 **Negotiation DNA:** Unity Catalog Data Governance | Pre-IPO Equity Play | $62B+ Valuation | Data Intelligence Platform 2026 | **30% MORE SHARES BEFORE LISTING**

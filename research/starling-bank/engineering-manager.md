@@ -1,3 +1,51 @@
+---
+company: starling-bank
+company_display: Starling Bank
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 92000
+    base_high: 115000
+    stock_low: 14000
+    stock_high: 25000
+    bonus_low: 10000
+    bonus_high: 17000
+    total_comp_low: 116000
+    total_comp_high: 157000
+    currency: GBP
+  - region: Cardiff
+    base_low: 78000
+    base_high: 98000
+    stock_low: 12000
+    stock_high: 21000
+    bonus_low: 9000
+    bonus_high: 14000
+    total_comp_low: 99000
+    total_comp_high: 133000
+    currency: GBP
+  - region: Southampton
+    base_low: 81000
+    base_high: 101000
+    stock_low: 12000
+    stock_high: 22000
+    bonus_low: 9000
+    bonus_high: 15000
+    total_comp_low: 102000
+    total_comp_high: 138000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `People Leadership` `Delivery Excellence` `Platform Teams`"
+---
 ### Engineering Manager | Starling Bank Global Negotiation Guide
 
 **Negotiation DNA:** `Engine SaaS` `$136M ARR` `SaaS Product Architect` `Pre-IPO (Options/4yr)` `UK Challenger Bank` `People Leadership` `Delivery Excellence` `Platform Teams`

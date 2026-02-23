@@ -1,3 +1,50 @@
+---
+company: scale-ai
+company_display: Scale AI
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 178000
+    base_high: 222000
+    stock_low: 175000
+    stock_high: 308000
+    bonus_pct: null
+    total_comp_low: 222000
+    total_comp_high: 299000
+    currency: USD
+  - region: New York
+    base_low: 183000
+    base_high: 233000
+    stock_low: 175000
+    stock_high: 308000
+    bonus_pct: null
+    total_comp_low: 227000
+    total_comp_high: 310000
+    currency: USD
+  - region: Washington DC
+    base_low: 187000
+    base_high: 240000
+    stock_low: 175000
+    stock_high: 308000
+    bonus_pct: null
+    total_comp_low: 231000
+    total_comp_high: 317000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Scale Data Scientist = Google L4 DS = Meta Data Scientist (IC4) = Amazon Applied Scientist II = Apple Data Scientist = Microsoft Data Scientist 62-63
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity"
+---
 ### Data Scientist | Scale AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity

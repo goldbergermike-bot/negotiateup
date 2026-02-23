@@ -1,3 +1,48 @@
+---
+company: rapid7
+company_display: Rapid7
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 340000
+    currency: USD
+  - region: Remote US
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 135000
+    total_comp_high: 318000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 65000
+    total_comp_high: 153000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: Security Engineers at Rapid7 secure the platform that secures enterprises — protecting the Insight Platform infrastructure while building the internal security posture expected of a publicly traded cybersecurity company.
+---
 ### Security Engineer — Rapid7 Salary Negotiation Guide
 
 **Negotiation DNA**: Security Engineers at Rapid7 secure the platform that secures enterprises — protecting the Insight Platform infrastructure while building the internal security posture expected of a publicly traded cybersecurity company.

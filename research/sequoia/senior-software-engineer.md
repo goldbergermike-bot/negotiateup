@@ -1,3 +1,50 @@
+---
+company: sequoia
+company_display: Sequoia
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park (HQ)
+    base_low: 230000
+    base_high: 285000
+    stock_low: null
+    stock_high: null
+    bonus_low: 175000
+    bonus_high: 245000
+    total_comp_low: 460000
+    total_comp_high: 612000
+    currency: USD
+  - region: San Francisco
+    base_low: 220000
+    base_high: 275000
+    stock_low: null
+    stock_high: null
+    bonus_low: 165000
+    bonus_high: 230000
+    total_comp_low: 435000
+    total_comp_high: 580000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: 165000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_low: 115000
+    bonus_high: 165000
+    total_comp_low: 315000
+    total_comp_high: 430000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "`Base $215K-$285K` | `Carry/Bonus $155K-$245K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`"
+---
 ### Senior Software Engineer | Sequoia Global Negotiation Guide
 
 **Negotiation DNA:** `Base $215K-$285K` | `Carry/Bonus $155K-$245K` | `20% CV Distributions` | `Private for Longer` | `Secondary Access` | `Permanent Capital Structure` | `Elite VC Platform`

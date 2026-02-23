@@ -1,3 +1,59 @@
+---
+company: sony
+company_display: Sony
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / San Diego (US)
+    base_low: 140000
+    base_high: 200000
+    stock_low: 48000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 295000
+    currency: USD
+  - region: Bay Area (US)
+    base_low: 135000
+    base_high: 195000
+    stock_low: 43000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 170000
+    total_comp_high: 280000
+    currency: USD
+  - region: Tokyo (HQ)
+    base_low: 8500000
+    base_high: 14000000
+    stock_low: 2500000
+    stock_high: 7500000
+    bonus_pct: 10
+    total_comp_low: 11000000
+    total_comp_high: 19000000
+    currency: JPY
+  - region: London
+    base_low: 85000
+    base_high: 138000
+    stock_low: 28000
+    stock_high: 82000
+    bonus_pct: 10
+    total_comp_low: 108000
+    total_comp_high: 188000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "Data Scientist at Sony (IC3-IC4) = L4-L5 at Google, IC4-IC5 at Meta, DS Senior at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$110B market cap with unique gaming + entertainment behavioral data from 100M+ PSN users + Player lifecycle analytics driving PlayStation Plus subscriptions + US comp competitive in gaming/entertainment | Sony data scientists analyze the world's richest console gaming dataset | **GAMING ANALYTICS PREMIUM**"
+---
 ### Data Scientist | Sony Global Negotiation Guide
 
 **Negotiation DNA:** $110B market cap with unique gaming + entertainment behavioral data from 100M+ PSN users + Player lifecycle analytics driving PlayStation Plus subscriptions + US comp competitive in gaming/entertainment | Sony data scientists analyze the world's richest console gaming dataset | **GAMING ANALYTICS PREMIUM**

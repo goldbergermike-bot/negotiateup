@@ -1,3 +1,50 @@
+---
+company: pure-storage
+company_display: Pure Storage
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 150000
+    base_high: 188000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 248000
+    total_comp_high: 288000
+    currency: USD
+  - region: Denver
+    base_low: 138000
+    base_high: 172000
+    stock_low: 88000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 265000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 162000
+    stock_low: 80000
+    stock_high: 145000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Pure Storage | Google | Meta | Amazon | Microsoft |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Comparably
+negotiation_dna_summary: "Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | Market-Rate"
+---
 ### Product Manager | Pure Storage Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | Market-Rate

@@ -1,3 +1,39 @@
+---
+company: gitlab
+company_display: Gitlab
+role: devsecops-platform-engineer
+role_display: DevSecOps Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (All-Remote)
+    base_low: 155000
+    base_high: 220000
+    stock_low: 65000
+    stock_high: 190000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 325000
+    currency: USD
+  - region: San Francisco Benchmark
+    base_low: 160000
+    base_high: 225000
+    stock_low: 70000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 335000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: GitLab DevSecOps Eng (Senior) = GitHub Senior SWE = Google L4 = Atlassian Senior SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Public ($8B Market Cap) | All-Remote | DevSecOps Platform | **SIGNATURE ROLE** | Transparent Comp"
+---
 ### DevSecOps Platform Engineer | GitLab Global Negotiation Guide
 
 **Negotiation DNA:** Public ($8B Market Cap) | All-Remote | DevSecOps Platform | **SIGNATURE ROLE** | Transparent Comp

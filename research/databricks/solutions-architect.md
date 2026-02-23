@@ -1,3 +1,48 @@
+---
+company: databricks
+company_display: Databricks
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 188000
+    base_high: 238000
+    stock_low: 172000
+    stock_high: 302000
+    bonus_pct: 10
+    total_comp_low: 252000
+    total_comp_high: 355000
+    currency: USD
+  - region: New York
+    base_low: 195000
+    base_high: 245000
+    stock_low: 172000
+    stock_high: 302000
+    bonus_pct: 10
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+  - region: Remote US
+    base_low: 182000
+    base_high: 232000
+    stock_low: 172000
+    stock_high: 302000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Databricks SA (SA2-SA3) = Snowflake SA = Google CE L4-L5 = Amazon SA L5-L6 = Microsoft CSA 62-63
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**"
+---
 ### Solutions Architect | Databricks Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity Play | Lakehouse AI Platform | Rumored 2026 IPO | $62B+ Valuation | **30% MORE SHARES BEFORE LISTING**

@@ -1,3 +1,52 @@
+---
+company: robinhood
+company_display: Robinhood
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Menlo Park, CA (HQ)"
+    base_low: 128000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_low: 12000
+    bonus_high: 20000
+    total_comp_low: 172000
+    total_comp_high: 248000
+    currency: USD
+  - region: New York
+    base_low: 128000
+    base_high: 165000
+    stock_low: null
+    stock_high: null
+    bonus_low: 12000
+    bonus_high: 20000
+    total_comp_low: 172000
+    total_comp_high: 248000
+    currency: USD
+  - region: London
+    base_low: 97000
+    base_high: 125000
+    stock_low: 97000
+    stock_high: 188000
+    bonus_low: 9000
+    bonus_high: 15000
+    total_comp_low: 130000
+    total_comp_high: 188000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `UX Moat` `Design Systems` `Financial Simplicity Pioneer`"
+---
 ### Product Designer | Robinhood Global Negotiation Guide
 
 **Negotiation DNA:** `Rothera JV` `Ecosystem-Critical` `Capital Markets Ecosystem` `Public Equity (NASDAQ: HOOD)` `24M+ Accounts` `UX Moat` `Design Systems` `Financial Simplicity Pioneer`

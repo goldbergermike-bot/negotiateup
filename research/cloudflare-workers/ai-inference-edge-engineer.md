@@ -1,3 +1,48 @@
+---
+company: cloudflare-workers
+company_display: Cloudflare Workers
+role: ai-inference-edge-engineer
+role_display: AI Inference Edge Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 205000
+    base_high: 262000
+    stock_low: 228000
+    stock_high: 395000
+    bonus_pct: 10
+    total_comp_low: 325000
+    total_comp_high: 455000
+    currency: USD
+  - region: Austin
+    base_low: 195000
+    base_high: 252000
+    stock_low: 218000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 312000
+    total_comp_high: 438000
+    currency: USD
+  - region: London
+    base_low: 138000
+    base_high: 175000
+    stock_low: 150000
+    stock_high: 262000
+    bonus_pct: 10
+    total_comp_low: 212000
+    total_comp_high: 298000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Cloudflare AI Inference (L4-L5) = Google AI Infra L5-L6 = Meta AI Infra E5-E6 = NVIDIA Inference = AWS Inferentia
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (NYSE: NET) + Bonus | Edge AI Inference Optimization & GPU Orchestration | $30B+ Market Cap | 300+ Data Centers | **WORKERS AI PREMIUM**"
+---
 ### AI Inference Edge Engineer | Cloudflare Workers Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (NYSE: NET) + Bonus | Edge AI Inference Optimization & GPU Orchestration | $30B+ Market Cap | 300+ Data Centers | **WORKERS AI PREMIUM**

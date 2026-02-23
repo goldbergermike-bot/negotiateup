@@ -1,3 +1,48 @@
+---
+company: airwallex
+company_display: Airwallex
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Melbourne (AUD)
+    base_low: 135000
+    base_high: 185000
+    stock_low: 55000
+    stock_high: 120000
+    bonus_pct: null
+    total_comp_low: 190000
+    total_comp_high: 305000
+    currency: AUD
+  - region: San Francisco (USD)
+    base_low: 165000
+    base_high: 225000
+    stock_low: 70000
+    stock_high: 150000
+    bonus_pct: null
+    total_comp_low: 235000
+    total_comp_high: 375000
+    currency: USD
+  - region: London (GBP)
+    base_low: 80000
+    base_high: 115000
+    stock_low: 35000
+    stock_high: 75000
+    bonus_pct: null
+    total_comp_low: 115000
+    total_comp_high: 190000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a data science compensation framework spanning Melbourne, San Francisco, and London markets. As a Data Scientist at Airwallex, you build the analytical models that detect fraud, optimize FX pricing, predict compliance risk, and quantify cross-border payment patterns across 150+ countries — your models are the intelligence layer that makes the platform both profita"
+---
 ### Data Scientist — Airwallex Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Airwallex's Compliance Resilience strategy, translating the $8B Series G valuation and Jan 2026 AUSTRAC audit into a data science compensation framework spanning Melbourne, San Francisco, and London markets. As a Data Scientist at Airwallex, you build the analytical models that detect fraud, optimize FX pricing, predict compliance risk, and quantify cross-border payment patterns across 150+ countries — your models are the intelligence layer that makes the platform both profitable and compliant.

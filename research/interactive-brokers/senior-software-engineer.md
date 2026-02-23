@@ -1,3 +1,53 @@
+---
+company: interactive-brokers
+company_display: Interactive Brokers
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Greenwich, CT (HQ)"
+    base_low: 165000
+    base_high: 230000
+    stock_low: 42000
+    stock_high: 68000
+    bonus_low: 28000
+    bonus_high: 40000
+    total_comp_low: 235000
+    total_comp_high: 338000
+    currency: USD
+  - region: New York
+    base_low: 173000
+    base_high: 242000
+    stock_low: 44000
+    stock_high: 71000
+    bonus_low: 29000
+    bonus_high: 42000
+    total_comp_low: 247000
+    total_comp_high: 355000
+    currency: USD
+  - region: London
+    base_low: 122000
+    base_high: 170000
+    stock_low: 31000
+    stock_high: 50000
+    bonus_low: 21000
+    bonus_high: 29000
+    total_comp_low: 174000
+    total_comp_high: 249000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `System Design Leadership` `Trade Execution Infrastructure` `Cross-Platform Ownership`"
+---
 ### Senior Software Engineer | Interactive Brokers Global Negotiation Guide
 
 **Negotiation DNA:** `ForecastEx` `Automation-Leverage` `32% Account Growth` `Public Equity (NASDAQ: IBKR)` `Force Multiplier` `System Design Leadership` `Trade Execution Infrastructure` `Cross-Platform Ownership`

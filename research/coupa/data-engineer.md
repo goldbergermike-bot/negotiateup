@@ -1,3 +1,54 @@
+---
+company: coupa
+company_display: Coupa
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo CA
+    base_low: 155000
+    base_high: 200000
+    stock_low: 45000
+    stock_high: 100000
+    bonus_low: 16000
+    bonus_high: 30000
+    total_comp_low: 216000
+    total_comp_high: 330000
+    currency: USD
+  - region: New York NY
+    base_low: 150000
+    base_high: 195000
+    stock_low: 40000
+    stock_high: 90000
+    bonus_low: 14000
+    bonus_high: 28000
+    total_comp_low: 204000
+    total_comp_high: 313000
+    currency: USD
+  - region: London UK
+    base_low: 98000
+    base_high: 130000
+    stock_low: 28000
+    stock_high: 60000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 136000
+    total_comp_high: 210000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Coupa | Google | Meta | Stripe | SAP | Oracle |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - Dice
+negotiation_dna_summary: "`Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `Data Infrastructure` `$6T+ Spend Pipeline`"
+---
 ### Data Engineer | Coupa Global Negotiation Guide
 
 **Negotiation DNA:** `Private (Thoma Bravo)` `PE-Backed ($8B)` `Sovereign Sourcing` `Business Spend Management` `Supply-Chain Resilience` `San Mateo HQ` `AI-Powered Platform` `Data Infrastructure` `$6T+ Spend Pipeline`

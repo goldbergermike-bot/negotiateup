@@ -1,3 +1,51 @@
+---
+company: broadcom
+company_display: Broadcom
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose (USD)
+    base_low: 130000
+    base_high: 168000
+    stock_low: 120000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 252000
+    currency: USD
+  - region: Singapore (SGD S$)
+    base_low: 105000
+    base_high: 145000
+    stock_low: 95000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 142000
+    total_comp_high: 214000
+    currency: SGD
+  - region: London (GBP £)
+    base_low: 78000
+    base_high: 110000
+    stock_low: 72000
+    stock_high: 130000
+    bonus_pct: 15
+    total_comp_low: 108000
+    total_comp_high: 165000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Broadcom Software Engineer (IC2-IC3) = VMware Staff I Engineer = Google L3-L4 = NVIDIA Software Engineer
+data_sources:
+  - "VMware Cloud Foundation Market Dominance — Private Cloud Infrastructure Leadership — Gartner, 2025"
+  - "Broadcom High-Margin Infrastructure Consolidation — 68%+ Gross Margins — Broadcom FY2025 10-K"
+  - "AVGO Stock Performance — NASDAQ: AVGO Outperforming Infrastructure Peers — Yahoo Finance, 2025"
+  - Broadcom Converged Infrastructure Strategy — Semiconductor + Software + Virtualization — SEC Filings
+negotiation_dna_summary: "Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp"
+---
 ### Software Engineer | Broadcom Global Negotiation Guide
 
 **Negotiation DNA:** Base + AVGO RSUs (4yr vest) + 15-20% Bonus | Converged Infrastructure & Enterprise Software | VMware Cloud Foundation (VCF) | High-Margin Infrastructure Consolidation | AVGO Above-Band Comp

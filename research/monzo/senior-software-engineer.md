@@ -1,3 +1,51 @@
+---
+company: monzo
+company_display: Monzo
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (HQ)
+    base_low: 60000
+    base_high: 85000
+    stock_low: 10000
+    stock_high: 16000
+    bonus_low: 5000
+    bonus_high: 7000
+    total_comp_low: 75000
+    total_comp_high: 108000
+    currency: GBP
+  - region: Remote UK
+    base_low: 57000
+    base_high: 81000
+    stock_low: 9000
+    stock_high: 15000
+    bonus_low: 5000
+    bonus_high: 6000
+    total_comp_low: 71000
+    total_comp_high: 102000
+    currency: GBP
+  - region: Remote US
+    base_low: 95000
+    base_high: 136000
+    stock_low: 16000
+    stock_high: 26000
+    bonus_low: 9000
+    bonus_high: 10000
+    total_comp_low: 120000
+    total_comp_high: 172000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Glassdoor
+  - Levels.fyi
+negotiation_dna_summary: "`OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Platform Scale` `Senior IC Track` `Go Microservices`"
+---
 ### Senior Software Engineer | Monzo Global Negotiation Guide
 
 **Negotiation DNA:** `OCC Expansion` `Pre-IPO Stock` `14M+ Customers` `Pre-IPO (Options/4yr)` `US License Bid` `Platform Scale` `Senior IC Track` `Go Microservices`

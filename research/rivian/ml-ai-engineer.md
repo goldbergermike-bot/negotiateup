@@ -1,3 +1,39 @@
+---
+company: rivian
+company_display: Rivian
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Irvine (HQ)
+    base_low: 150000
+    base_high: 210000
+    stock_low: 95000
+    stock_high: 275000
+    bonus_pct: 10
+    total_comp_low: 200000
+    total_comp_high: 340000
+    currency: USD
+  - region: Palo Alto
+    base_low: 158000
+    base_high: 220000
+    stock_low: 105000
+    stock_high: 290000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 360000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rivian ML/AI Engineer = Google ML Engineer L3-L4 = Tesla ML Engineer = Amazon Applied Scientist = Meta ML Engineer (IC3-IC4)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage EV Comp | Large Equity Grants (RIVN) | Mission-Driven Culture | **+5-10% ML PREMIUM** | EV Growth Upside"
+---
 ### ML/AI Engineer | Rivian Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage EV Comp | Large Equity Grants (RIVN) | Mission-Driven Culture | **+5-10% ML PREMIUM** | EV Growth Upside

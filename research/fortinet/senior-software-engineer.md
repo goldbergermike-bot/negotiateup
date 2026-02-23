@@ -1,3 +1,47 @@
+---
+company: fortinet
+company_display: Fortinet
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 340000
+    currency: USD
+  - region: Ottawa
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 115000
+    total_comp_high: 260000
+    currency: CAD
+  - region: Sophia Antipolis
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 55000
+    total_comp_high: 135000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "At the Senior level, Fortinet's Rule of 45 track record and Sovereign-SASE expansion create outsized leverage — you own subsystems that directly drive the 40% SASE growth engine."
+---
 ### Senior Software Engineer — Fortinet Salary Negotiation Guide
 
 **Negotiation DNA**: At the Senior level, Fortinet's Rule of 45 track record and Sovereign-SASE expansion create outsized leverage — you own subsystems that directly drive the 40% SASE growth engine.

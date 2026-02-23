@@ -1,3 +1,49 @@
+---
+company: samsara
+company_display: Samsara
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 210000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 265000
+    total_comp_high: 305000
+    currency: USD
+  - region: Atlanta
+    base_low: 150000
+    base_high: 180000
+    stock_low: 100000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 218000
+    total_comp_high: 258000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 195000
+    stock_low: 110000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 280000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Samsara L5 (Senior Software Engineer) = Google L5 = Meta E5 = Amazon SDE III = Apple ICT4"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | Industrial IoT & AI Platform | GAAP Profitable | Super Bowl AI Coach | +5% Senior IC Premium"
+---
 ### Senior Software Engineer | Samsara Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Industrial IoT & AI Platform | GAAP Profitable | Super Bowl AI Coach | +5% Senior IC Premium

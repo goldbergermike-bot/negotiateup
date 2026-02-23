@@ -1,3 +1,49 @@
+---
+company: tsmc
+company_display: TSMC
+role: arizona-fab-process-engineer
+role_display: Arizona Fab Process Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Phoenix AZ
+    base_low: 178000
+    base_high: 242000
+    stock_low: 50000
+    stock_high: 82000
+    bonus_pct: 20
+    total_comp_low: 258000
+    total_comp_high: 362000
+    currency: USD
+  - region: San Jose
+    base_low: 190000
+    base_high: 258000
+    stock_low: 55000
+    stock_high: 90000
+    bonus_pct: 20
+    total_comp_low: 278000
+    total_comp_high: 390000
+    currency: USD
+  - region: Hsinchu Taiwan
+    base_low: null
+    base_high: null
+    stock_low: 38000
+    stock_high: 68000
+    bonus_pct: 25
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: TSMC Arizona Fab Process Engineer = Intel Foundry Process Engineer (Grade 8–10 + Fab Premium) = Samsung Foundry Process Engineer (Pyeongtaek) = GlobalFoundries Process Integration Engineer = Micron Process Engineer = Texas Instruments Fab Process Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Base + TSM RSU/4yr + Bonus + Fab Premium (20–30%) + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone"
+---
 ### Arizona Fab Process Engineer | TSMC Global Negotiation Guide
 
 **Negotiation DNA:** Base + TSM RSU/4yr + Bonus + Fab Premium (20–30%) + Fab-Ramp Bonuses | Advanced Semiconductor Manufacturing | Arizona Fab Expansion | Fab-Ramp Bonuses | Top-Tier Phoenix Pay Zone

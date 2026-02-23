@@ -1,3 +1,50 @@
+---
+company: character-ai
+company_display: Character AI
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park / Bay Area
+    base_low: 210000
+    base_high: 295000
+    stock_low: 180000
+    stock_high: 475000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 414000
+    currency: USD
+  - region: New York City
+    base_low: 210000
+    base_high: 295000
+    stock_low: 180000
+    stock_high: 475000
+    bonus_pct: null
+    total_comp_low: 255000
+    total_comp_high: 414000
+    currency: USD
+  - region: Remote US
+    base_low: 189000
+    base_high: 266000
+    stock_low: 162000
+    stock_high: 428000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 373000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Character AI ML/AI Engineer = Google L5-L6 ML Engineer = Meta ML Engineer IC5-IC6 = OpenAI ML Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Top-Tier AI Comp + Pre-IPO Equity | $5B+ Valuation (Google Partnership) | Menlo Park | **+15-30% ML PREMIUM** | Conversational AI Pioneer"
+---
 ### ML/AI Engineer | Character AI Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier AI Comp + Pre-IPO Equity | $5B+ Valuation (Google Partnership) | Menlo Park | **+15-30% ML PREMIUM** | Conversational AI Pioneer

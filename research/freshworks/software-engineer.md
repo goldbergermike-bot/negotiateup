@@ -1,3 +1,48 @@
+---
+company: freshworks
+company_display: Freshworks
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Mateo / Bay Area
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 130000
+    total_comp_high: 290000
+    currency: USD
+  - region: India
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 35000
+    total_comp_high: 130000
+    currency: USD
+  - region: Europe
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 45000
+    total_comp_high: 130000
+    currency: EUR
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Freshworks is a $5B Indian-origin global SaaS company headquartered in San Mateo, CA, and every Software Engineer builds the integrated suite of business software — from CRM to ITSM to customer support — that serves 67,000+ customers worldwide."
+---
 ### Software Engineer — Freshworks Salary Negotiation Guide
 
 **Negotiation DNA**: Freshworks is a $5B Indian-origin global SaaS company headquartered in San Mateo, CA, and every Software Engineer builds the integrated suite of business software — from CRM to ITSM to customer support — that serves 67,000+ customers worldwide.

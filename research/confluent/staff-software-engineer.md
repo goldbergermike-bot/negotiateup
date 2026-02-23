@@ -1,3 +1,48 @@
+---
+company: confluent
+company_display: Confluent
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 225000
+    base_high: 272000
+    stock_low: 340000
+    stock_high: 530000
+    bonus_pct: 15
+    total_comp_low: 335000
+    total_comp_high: 438000
+    currency: USD
+  - region: London
+    base_low: 98000
+    base_high: 122000
+    stock_low: 138000
+    stock_high: 218000
+    bonus_pct: 15
+    total_comp_low: 150000
+    total_comp_high: 200000
+    currency: GBP
+  - region: Bangalore
+    base_low: 6800000
+    base_high: 9500000
+    stock_low: 5500000
+    stock_high: 8800000
+    bonus_pct: 15
+    total_comp_low: 8800000
+    total_comp_high: 13000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Confluent Staff SWE = Google L5 = Meta E5 = Databricks Staff SWE = Snowflake Staff SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy"
+---
 ### Staff Software Engineer | Confluent Global Negotiation Guide
 
 **Negotiation DNA:** Balanced (Base + Equity + Bonus) | Apache Kafka Originators | Flink-First 2026 Strategy

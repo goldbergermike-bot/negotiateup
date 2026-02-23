@@ -1,3 +1,48 @@
+---
+company: segment
+company_display: Segment
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 152000
+    base_high: 185000
+    stock_low: 85000
+    stock_high: 158000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 250000
+    currency: USD
+  - region: New York
+    base_low: 148000
+    base_high: 180000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 240000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 132000
+    stock_low: 58000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 172000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Segment SWE = Google L3-L4 = Twilio SWE = Meta E3-E4 = mParticle SWE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Twilio RSU + Bonus | CDP Feature Development & AI Integration 2026"
+---
 ### Software Engineer | Segment Global Negotiation Guide
 
 **Negotiation DNA:** Twilio RSU + Bonus | CDP Feature Development & AI Integration 2026

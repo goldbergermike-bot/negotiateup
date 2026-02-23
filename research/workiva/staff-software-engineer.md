@@ -1,3 +1,67 @@
+---
+company: workiva
+company_display: Workiva
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "US (Ames, IA / Denver / Remote)"
+    base_low: 162000
+    base_high: 228000
+    stock_low: 55000
+    stock_high: 155000
+    bonus_pct: 12
+    total_comp_low: 198000
+    total_comp_high: 315000
+    currency: USD
+  - region: US (Major Tech Hubs)
+    base_low: 180000
+    base_high: 252000
+    stock_low: 68000
+    stock_high: 182000
+    bonus_pct: 12
+    total_comp_low: 228000
+    total_comp_high: 362000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 78000
+    base_high: 118000
+    stock_low: 25000
+    stock_high: 72000
+    bonus_pct: 12
+    total_comp_low: 98000
+    total_comp_high: 162000
+    currency: GBP
+  - region: Canada (Various)
+    base_low: 138000
+    base_high: 195000
+    stock_low: 40000
+    stock_high: 112000
+    bonus_pct: 12
+    total_comp_low: 162000
+    total_comp_high: 262000
+    currency: USD
+  - region: India (Remote/Bangalore)
+    base_low: 3500000
+    base_high: 6200000
+    stock_low: 1600000
+    stock_high: 4200000
+    bonus_pct: 12
+    total_comp_low: 4200000
+    total_comp_high: 8500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: "Workiva IC4 ~ Intuit Staff | ServiceNow Staff | Oracle Principal | Google L5+"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Compliance platform architecture leader | Cross-system technical authority & connected reporting visionary | **STAFF IC PREMIUM**"
+---
 ### Staff Software Engineer | Workiva Global Negotiation Guide
 
 **Negotiation DNA:** Compliance platform architecture leader | Cross-system technical authority & connected reporting visionary | **STAFF IC PREMIUM**

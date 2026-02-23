@@ -1,3 +1,49 @@
+---
+company: zillow
+company_display: Zillow
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Seattle
+    base_low: 155000
+    base_high: 205000
+    stock_low: 180000
+    stock_high: 300000
+    bonus_pct: 15
+    total_comp_low: 215000
+    total_comp_high: 298000
+    currency: USD
+  - region: San Francisco
+    base_low: 167000
+    base_high: 221000
+    stock_low: 194000
+    stock_high: 323000
+    bonus_pct: 15
+    total_comp_low: 232000
+    total_comp_high: 321000
+    currency: USD
+  - region: Remote US
+    base_low: 140000
+    base_high: 185000
+    stock_low: 162000
+    stock_high: 270000
+    bonus_pct: 15
+    total_comp_low: 194000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Zillow Product Manager = Google PM L5 = Redfin Product Manager = Opendoor Product Manager = Amazon PM L6 = Meta PM IC5
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep"
+---
 ### Product Manager | Zillow Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Real Estate Technology Platform | AI Transaction Coordinator | **+35% AGENTIC PREMIUM** | From Search to Closing Prep

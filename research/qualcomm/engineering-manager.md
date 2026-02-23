@@ -1,3 +1,49 @@
+---
+company: qualcomm
+company_display: Qualcomm
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego
+    base_low: 185000
+    base_high: 240000
+    stock_low: 65000
+    stock_high: 105000
+    bonus_pct: 15
+    total_comp_low: 275000
+    total_comp_high: 382000
+    currency: USD
+  - region: Santa Clara
+    base_low: 200000
+    base_high: 260000
+    stock_low: 72000
+    stock_high: 115000
+    bonus_pct: 15
+    total_comp_low: 300000
+    total_comp_high: 415000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 218000
+    stock_low: 58000
+    stock_high: 95000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 345000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Qualcomm EM (M1–M2) = Google L6 EM = Meta M1 = Apple EM = Microsoft EM 64–65 = Amazon SDM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +12% AI/Agentic Premium"
+---
 ### Engineering Manager | Qualcomm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +12% AI/Agentic Premium

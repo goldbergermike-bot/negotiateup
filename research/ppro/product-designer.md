@@ -1,3 +1,48 @@
+---
+company: ppro
+company_display: Ppro
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 65000
+    base_high: 95000
+    stock_low: 18000
+    stock_high: 38000
+    bonus_pct: null
+    total_comp_low: 83000
+    total_comp_high: 133000
+    currency: GBP
+  - region: Munich (EUR)
+    base_low: 70000
+    base_high: 100000
+    stock_low: 16000
+    stock_high: 36000
+    bonus_pct: null
+    total_comp_low: 86000
+    total_comp_high: 136000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 85000
+    base_high: 125000
+    stock_low: 22000
+    stock_high: 48000
+    bonus_pct: null
+    total_comp_low: 107000
+    total_comp_high: 173000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a product design compensation framework spanning London, Munich, and Singapore markets."
+---
 ### Product Designer — PPRO Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a product design compensation framework spanning London, Munich, and Singapore markets.

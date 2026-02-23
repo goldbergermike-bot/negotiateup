@@ -1,3 +1,50 @@
+---
+company: scale-ai
+company_display: Scale AI
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 172000
+    base_high: 215000
+    stock_low: 160000
+    stock_high: 282000
+    bonus_pct: null
+    total_comp_low: 212000
+    total_comp_high: 286000
+    currency: USD
+  - region: New York
+    base_low: 177000
+    base_high: 226000
+    stock_low: 160000
+    stock_high: 282000
+    bonus_pct: null
+    total_comp_low: 217000
+    total_comp_high: 297000
+    currency: USD
+  - region: Washington DC
+    base_low: 181000
+    base_high: 232000
+    stock_low: 160000
+    stock_high: 282000
+    bonus_pct: null
+    total_comp_low: 221000
+    total_comp_high: 303000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Scale DevOps Engineer = Google L4 SRE = Meta Production Engineer (IC4) = Amazon SysDE II = Apple SRE = Microsoft DevOps Engineer 62-63
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity"
+---
 ### DevOps Engineer | Scale AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity

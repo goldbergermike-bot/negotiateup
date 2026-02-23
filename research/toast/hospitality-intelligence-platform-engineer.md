@@ -1,3 +1,52 @@
+---
+company: toast
+company_display: Toast
+role: hospitality-intelligence-platform-engineer
+role_display: Hospitality Intelligence Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston MA
+    base_low: 185000
+    base_high: 245000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 260000
+    total_comp_high: 380000
+    currency: USD
+  - region: New York
+    base_low: 200000
+    base_high: 260000
+    stock_low: 160000
+    stock_high: 290000
+    bonus_low: 28000
+    bonus_high: 55000
+    total_comp_low: 282000
+    total_comp_high: 415000
+    currency: USD
+  - region: San Francisco
+    base_low: 215000
+    base_high: 280000
+    stock_low: 175000
+    stock_high: 320000
+    bonus_low: 32000
+    bonus_high: 62000
+    total_comp_low: 302000
+    total_comp_high: 455000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Toast | Google | Meta | Stripe | Block | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "`NYSE: TOST` `Toast IQ` `SIGNATURE ROLE` `Hospitality Intelligence Platform Engineer` `Restaurant Tech` `Hospitality Intelligence` `AI Platform` `Restaurant OS` `Data Intelligence` `Full-Stack Platform` `Payments` `ML Infrastructure`"
+---
 ### Hospitality Intelligence Platform Engineer | Toast Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: TOST` `Toast IQ` `SIGNATURE ROLE` `Hospitality Intelligence Platform Engineer` `Restaurant Tech` `Hospitality Intelligence` `AI Platform` `Restaurant OS` `Data Intelligence` `Full-Stack Platform` `Payments` `ML Infrastructure`

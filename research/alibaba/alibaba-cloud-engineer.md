@@ -1,3 +1,68 @@
+---
+company: alibaba
+company_display: Alibaba
+role: alibaba-cloud-engineer
+role_display: Alibaba Cloud Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 170000
+    base_high: 240000
+    stock_low: 90000
+    stock_high: 250000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 395000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 165000
+    base_high: 235000
+    stock_low: 85000
+    stock_high: 240000
+    bonus_pct: 15
+    total_comp_low: 235000
+    total_comp_high: 385000
+    currency: USD
+  - region: Hangzhou (HQ)
+    base_low: 450000
+    base_high: 850000
+    stock_low: 200000
+    stock_high: 600000
+    bonus_pct: 15
+    total_comp_low: 700000
+    total_comp_high: 1400000
+    currency: CNY
+  - region: Beijing
+    base_low: 430000
+    base_high: 820000
+    stock_low: 190000
+    stock_high: 570000
+    bonus_pct: 15
+    total_comp_low: 670000
+    total_comp_high: 1350000
+    currency: CNY
+  - region: Singapore
+    base_low: 120000
+    base_high: 185000
+    stock_low: 55000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Alibaba Cloud Engineer at Alibaba (P6-P8) = L4-L6 at Google Cloud, IC4-IC6 at Meta, SDE II-Principal at Amazon, equivalent Snowflake/Databricks senior roles"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B market cap with Alibaba Cloud as Asia-Pacific's #1 cloud provider + Cloud intelligence division is Alibaba's highest-growth strategic priority + Competitive US engineering comp designed to attract FAANG talent | Alibaba Cloud engineers build infrastructure powering the world's largest e-commerce ecosystem | **CLOUD LEADERSHIP PREMIUM**"
+---
 ### Alibaba Cloud Engineer | Alibaba Global Negotiation Guide
 
 **Negotiation DNA:** $200B market cap with Alibaba Cloud as Asia-Pacific's #1 cloud provider + Cloud intelligence division is Alibaba's highest-growth strategic priority + Competitive US engineering comp designed to attract FAANG talent | Alibaba Cloud engineers build infrastructure powering the world's largest e-commerce ecosystem | **CLOUD LEADERSHIP PREMIUM**

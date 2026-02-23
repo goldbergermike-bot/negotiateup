@@ -1,3 +1,53 @@
+---
+company: moneygram
+company_display: Moneygram
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Dallas TX
+    base_low: 185000
+    base_high: 235000
+    stock_low: 65000
+    stock_high: 120000
+    bonus_low: 30000
+    bonus_high: 55000
+    total_comp_low: 280000
+    total_comp_high: 410000
+    currency: USD
+  - region: New York
+    base_low: 210000
+    base_high: 265000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_low: 35000
+    bonus_high: 65000
+    total_comp_low: 325000
+    total_comp_high: 480000
+    currency: USD
+  - region: London
+    base_low: 140000
+    base_high: 180000
+    stock_low: 50000
+    stock_high: 95000
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 212000
+    total_comp_high: 317000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| MoneyGram | Google | Meta | Stripe | Western Union | Wise |"
+data_sources:
+  - Levels.fyi
+  - Blind
+  - TeamBlind
+negotiation_dna_summary: "`Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Staff-Level IC`"
+---
 ### Staff Software Engineer | MoneyGram Global Negotiation Guide
 
 **Negotiation DNA:** `Private` `Genius Act` `Crypto-Bridge` `Remittance Fintech` `Stellar/USDC` `Digital-First` `LatAm Expansion` `Staff-Level IC`

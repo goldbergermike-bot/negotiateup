@@ -1,3 +1,44 @@
+---
+company: shield-ai
+company_display: Shield Ai
+role: autonomous-drone-engineer
+role_display: Autonomous Drone Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "San Diego, CA"
+    base_low: 160000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 210000
+    total_comp_high: 360000
+    currency: USD
+  - region: "Washington, DC"
+    base_low: 155000
+    base_high: 210000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 205000
+    total_comp_high: 355000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shield AI Autonomous Drone Eng = Google L4-L5 Robotics = Waymo Autonomy Eng -- but with combat deployment and GPS-denied navigation
+data_sources:
+  - Shield AI Hivemind -- Combat-Tested Autonomous AI Pilot 2026
+  - Shield AI $5B+ Valuation -- Autonomous Defense Drone Leader
+  - GPS-Denied Navigation -- Contested Environment Autonomy
+  - DOD Autonomous Drone Investment -- $50B+ Market Opportunity
+  - "Multi-Platform Autonomy -- V-BAT, MQ-35 Fury, Nova"
+  - Hivemind Combat Deployment -- Real Operations Validation
+negotiation_dna_summary: "Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | AI-Powered Defense Drones | **SIGNATURE ROLE** | **+15-30% Autonomy-Critical Premium** | Startup Intensity"
+---
 ### Autonomous Drone Engineer | Shield AI Global Negotiation Guide
 
 **Negotiation DNA:** Early Growth-Stage Defense AI Equity + Mission Premium | $5B+ Private Valuation | AI-Powered Defense Drones | **SIGNATURE ROLE** | **+15-30% Autonomy-Critical Premium** | Startup Intensity

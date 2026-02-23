@@ -1,3 +1,39 @@
+---
+company: aurora-innovation
+company_display: Aurora Innovation
+role: self-driving-truck-engineer
+role_display: Self-Driving Truck Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Pittsburgh (HQ)
+    base_low: 165000
+    base_high: 225000
+    stock_low: 100000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 225000
+    total_comp_high: 370000
+    currency: USD
+  - region: Bay Area
+    base_low: 175000
+    base_high: 240000
+    stock_low: 110000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 395000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Aurora Self-Driving Truck Engineer (Senior) = Waymo Senior SWE = Google L4/L5 = Tesla Autopilot Senior = Cruise Senior ML Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growth-Stage Comp | AUR Equity (Pre-Maturity) | **SIGNATURE ROLE** | **+10-20% AUTONOMY PREMIUM** | Self-Driving Trucks Pioneer"
+---
 ### Self-Driving Truck Engineer | Aurora Innovation Global Negotiation Guide
 
 **Negotiation DNA:** Growth-Stage Comp | AUR Equity (Pre-Maturity) | **SIGNATURE ROLE** | **+10-20% AUTONOMY PREMIUM** | Self-Driving Trucks Pioneer

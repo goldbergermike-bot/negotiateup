@@ -1,3 +1,47 @@
+---
+company: splunk-cisco
+company_display: Splunk (Cisco)
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 155000
+    total_comp_high: 345000
+    currency: USD
+  - region: San Jose
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 335000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 75000
+    total_comp_high: 170000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "DevOps Engineers at Splunk (Cisco) build and operate the infrastructure powering AgenticOps and Visibility-to-Remediation pipelines, commanding premium compensation for ensuring autonomous observability systems run at enterprise scale and reliability."
+---
 ### DevOps Engineer — Splunk (Cisco) Salary Negotiation Guide
 
 **Negotiation DNA**: DevOps Engineers at Splunk (Cisco) build and operate the infrastructure powering AgenticOps and Visibility-to-Remediation pipelines, commanding premium compensation for ensuring autonomous observability systems run at enterprise scale and reliability.

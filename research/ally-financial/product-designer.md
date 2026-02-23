@@ -1,3 +1,52 @@
+---
+company: ally-financial
+company_display: Ally Financial
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Detroit, MI (HQ)"
+    base_low: 102000
+    base_high: 135000
+    stock_low: 20000
+    stock_high: 38000
+    bonus_low: 20000
+    bonus_high: 32000
+    total_comp_low: 142000
+    total_comp_high: 205000
+    currency: USD
+  - region: "Charlotte, NC"
+    base_low: 107000
+    base_high: 142000
+    stock_low: 21000
+    stock_high: 40000
+    bonus_low: 21000
+    bonus_high: 34000
+    total_comp_low: 149000
+    total_comp_high: 216000
+    currency: USD
+  - region: New York
+    base_low: 120000
+    base_high: 159000
+    stock_low: 24000
+    stock_high: 45000
+    bonus_low: 24000
+    bonus_high: 38000
+    total_comp_low: 168000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Dice
+negotiation_dna_summary: "`Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Inclusive Design` `Financial UX` `Accessibility`"
+---
 ### Product Designer | Ally Financial Global Negotiation Guide
 
 **Negotiation DNA:** `Ally.ai` `Empathetic Automation` `Responsible AI` `Public Equity (NYSE: ALLY)` `100% Digital Bank` `Inclusive Design` `Financial UX` `Accessibility`

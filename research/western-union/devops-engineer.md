@@ -1,3 +1,52 @@
+---
+company: western-union
+company_display: Western Union
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver CO
+    base_low: 130000
+    base_high: 170000
+    stock_low: 35000
+    stock_high: 65000
+    bonus_low: 13000
+    bonus_high: 25000
+    total_comp_low: 178000
+    total_comp_high: 260000
+    currency: USD
+  - region: New York
+    base_low: 150000
+    base_high: 195000
+    stock_low: 45000
+    stock_high: 80000
+    bonus_low: 17000
+    bonus_high: 32000
+    total_comp_low: 212000
+    total_comp_high: 307000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 112000
+    stock_low: 25000
+    stock_high: 45000
+    bonus_low: 9000
+    bonus_high: 18000
+    total_comp_low: 119000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Western Union | Google | Meta | Stripe | JPMorgan | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: WU` `USDPT` `DevOps Engineer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Platform Reliability`"
+---
 ### DevOps Engineer | Western Union Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: WU` `USDPT` `DevOps Engineer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `Platform Reliability`

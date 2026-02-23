@@ -1,3 +1,49 @@
+---
+company: juniper
+company_display: Juniper
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale
+    base_low: 195000
+    base_high: 250000
+    stock_low: 75000
+    stock_high: 130000
+    bonus_pct: 12
+    total_comp_low: 310000
+    total_comp_high: 408000
+    currency: USD
+  - region: Westford (MA)
+    base_low: 182000
+    base_high: 235000
+    stock_low: 68000
+    stock_high: 118000
+    bonus_pct: 12
+    total_comp_low: 292000
+    total_comp_high: 385000
+    currency: USD
+  - region: Remote US
+    base_low: 178000
+    base_high: 228000
+    stock_low: 65000
+    stock_high: 112000
+    bonus_pct: 12
+    total_comp_low: 292000
+    total_comp_high: 372000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Juniper Staff SWE (IC4–IC5) = Google L6 | Meta E6 | Amazon Principal SDE | Cisco Distinguished Engineer | HPE Distinguished Technologist (IC6)"
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | +15% Staff-Level Premium"
+---
 ### Staff Software Engineer | Juniper Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | AI-Native Networking | HPE Unified Sales Comp | Mist AI Platform | +15% Staff-Level Premium

@@ -1,3 +1,50 @@
+---
+company: character-ai
+company_display: Character AI
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Menlo Park / Bay Area
+    base_low: 170000
+    base_high: 230000
+    stock_low: 115000
+    stock_high: 320000
+    bonus_pct: null
+    total_comp_low: 199000
+    total_comp_high: 310000
+    currency: USD
+  - region: New York City
+    base_low: 170000
+    base_high: 230000
+    stock_low: 115000
+    stock_high: 320000
+    bonus_pct: null
+    total_comp_low: 199000
+    total_comp_high: 310000
+    currency: USD
+  - region: Remote US
+    base_low: 153000
+    base_high: 207000
+    stock_low: 104000
+    stock_high: 288000
+    bonus_pct: null
+    total_comp_low: 179000
+    total_comp_high: 279000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Character AI Data Scientist = Google L3-L4 Data Scientist = Meta Data Scientist IC3-IC4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Top-Tier AI Comp + Pre-IPO Equity | $5B+ Valuation (Google Partnership) | Menlo Park | Consumer AI Analytics"
+---
 ### Data Scientist | Character AI Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier AI Comp + Pre-IPO Equity | $5B+ Valuation (Google Partnership) | Menlo Park | Consumer AI Analytics

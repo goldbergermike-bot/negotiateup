@@ -1,3 +1,48 @@
+---
+company: salesforce
+company_display: Salesforce
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 200000
+    base_high: 260000
+    stock_low: 280000
+    stock_high: 480000
+    bonus_pct: null
+    total_comp_low: 270000
+    total_comp_high: 380000
+    currency: USD
+  - region: Indianapolis
+    base_low: 180000
+    base_high: 235000
+    stock_low: 240000
+    stock_high: 410000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 338000
+    currency: USD
+  - region: Hyderabad
+    base_low: 4000000
+    base_high: 6500000
+    stock_low: 2800000
+    stock_high: 5000000
+    bonus_pct: null
+    total_comp_low: 6800000
+    total_comp_high: 11500000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Salesforce Senior ML Eng = Google L4 ML = Meta E4 ML = Anthropic Senior
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy / No Bonus | Agentforce Consumption Inflection | **+15–30% AGENTIC AI PREMIUM**"
+---
 ### ML/AI Engineer | Salesforce Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy / No Bonus | Agentforce Consumption Inflection | **+15–30% AGENTIC AI PREMIUM**

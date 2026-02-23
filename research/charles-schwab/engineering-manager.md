@@ -1,3 +1,51 @@
+---
+company: charles-schwab
+company_display: Charles Schwab
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westlake, TX (HQ)"
+    base_low: 185000
+    base_high: 245000
+    stock_low: 55000
+    stock_high: 90000
+    bonus_low: 28000
+    bonus_high: 50000
+    total_comp_low: 268000
+    total_comp_high: 385000
+    currency: USD
+  - region: San Francisco
+    base_low: 204000
+    base_high: 270000
+    stock_low: 61000
+    stock_high: 99000
+    bonus_low: 31000
+    bonus_high: 55000
+    total_comp_low: 295000
+    total_comp_high: 424000
+    currency: USD
+  - region: Denver
+    base_low: 194000
+    base_high: 257000
+    stock_low: 58000
+    stock_high: 95000
+    bonus_low: 29000
+    bonus_high: 53000
+    total_comp_low: 281000
+    total_comp_high: 404000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `People Leadership` `TD Ameritrade Integration Teams` `Org Scaling`"
+---
 ### Engineering Manager | Charles Schwab Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `People Leadership` `TD Ameritrade Integration Teams` `Org Scaling`

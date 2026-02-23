@@ -1,3 +1,50 @@
+---
+company: harvey-ai
+company_display: Harvey AI
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 235000
+    base_high: 300000
+    stock_low: 220000
+    stock_high: 480000
+    bonus_pct: null
+    total_comp_low: 290000
+    total_comp_high: 420000
+    currency: USD
+  - region: New York City
+    base_low: 235000
+    base_high: 300000
+    stock_low: 220000
+    stock_high: 480000
+    bonus_pct: null
+    total_comp_low: 290000
+    total_comp_high: 420000
+    currency: USD
+  - region: Remote US
+    base_low: 212000
+    base_high: 270000
+    stock_low: 198000
+    stock_high: 432000
+    bonus_pct: null
+    total_comp_low: 262000
+    total_comp_high: 378000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Harvey Staff SWE = Google L6 = Meta E6 = Startup CTO scope
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Comp + Pre-IPO Equity | $2B+ Valuation | San Francisco | Technical Leadership"
+---
 ### Staff Software Engineer | Harvey AI Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Comp + Pre-IPO Equity | $2B+ Valuation | San Francisco | Technical Leadership

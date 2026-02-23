@@ -1,3 +1,48 @@
+---
+company: booking
+company_display: Booking
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 102000
+    base_high: 142000
+    stock_low: 95000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 165000
+    total_comp_high: 245000
+    currency: EUR
+  - region: New York
+    base_low: 192000
+    base_high: 265000
+    stock_low: 130000
+    stock_high: 210000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 392000
+    currency: USD
+  - region: London
+    base_low: 95000
+    base_high: 132000
+    stock_low: 88000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 152000
+    total_comp_high: 225000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Booking.com ML/AI Engineer = Google ML Engineer L5/L6 = Expedia ML Engineer = Airbnb ML Engineer = Meta ML Engineer E5/E6 = Amazon Applied Scientist II/III
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base + BKNG RSUs (4yr vest) + 15-20% Bonus + 25-35% Agentic AI Premium | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions"
+---
 ### ML/AI Engineer | Booking.com Global Negotiation Guide
 
 **Negotiation DNA:** Base + BKNG RSUs (4yr vest) + 15-20% Bonus + 25-35% Agentic AI Premium | Travel & Hospitality Platform | Agentic AI Front Door | **+35% AGENTIC PREMIUM** | Revenue-Critical Guest Interactions

@@ -1,3 +1,48 @@
+---
+company: arm
+company_display: Arm
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose
+    base_low: 135000
+    base_high: 178000
+    stock_low: 175000
+    stock_high: 280000
+    bonus_pct: 15
+    total_comp_low: 198000
+    total_comp_high: 275000
+    currency: USD
+  - region: Austin
+    base_low: 122000
+    base_high: 160000
+    stock_low: 158000
+    stock_high: 252000
+    bonus_pct: 15
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+  - region: Cambridge UK
+    base_low: 48000
+    base_high: 64000
+    stock_low: 105000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 68000
+    total_comp_high: 98000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: ARM Data Scientist = NVIDIA Data Scientist = Intel Data Scientist (Grade 7) = Google L4 Data Scientist
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages"
+---
 ### Data Scientist | ARM Global Negotiation Guide
 
 **Negotiation DNA:** Base + ARM RSUs + Bonus | Semiconductor IP & Architecture | Neoverse/CSS Royalty Multiplier | Equity-Dense Packages

@@ -1,3 +1,49 @@
+---
+company: pure-storage
+company_display: Pure Storage
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 148000
+    base_high: 180000
+    stock_low: 90000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 262000
+    currency: USD
+  - region: Denver
+    base_low: 135000
+    base_high: 165000
+    stock_low: 78000
+    stock_high: 150000
+    bonus_pct: 10
+    total_comp_low: 208000
+    total_comp_high: 242000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 155000
+    stock_low: 70000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 222000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Pure Storage | Google | Meta | Amazon | Microsoft |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | +5% Analytics Premium"
+---
 ### Data Scientist | Pure Storage Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Enterprise Flash Storage | 300TB DirectFlash Module | Purity Turbo | +5% Analytics Premium

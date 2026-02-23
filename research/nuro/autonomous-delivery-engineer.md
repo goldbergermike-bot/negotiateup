@@ -1,3 +1,39 @@
+---
+company: nuro
+company_display: Nuro
+role: autonomous-delivery-engineer
+role_display: Autonomous Delivery Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View / Bay Area
+    base_low: 180000
+    base_high: 248000
+    stock_low: 150000
+    stock_high: 380000
+    bonus_pct: 10
+    total_comp_low: 280000
+    total_comp_high: 465000
+    currency: USD
+  - region: Remote US
+    base_low: 165000
+    base_high: 230000
+    stock_low: 130000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 425000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Nuro Autonomous Delivery Engineer = No Direct Equivalent (Purpose-Built AV) > Waymo SWE = Cruise SWE = Aurora SWE = Zoox SWE = Google L4-L5 AV"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AUTONOMOUS VEHICLE PREMIUM**"
+---
 ### Autonomous Delivery Engineer | Nuro Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AUTONOMOUS VEHICLE PREMIUM**

@@ -1,3 +1,43 @@
+---
+company: two-sigma
+company_display: Two Sigma
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 225000
+    base_high: 320000
+    stock_low: null
+    stock_high: null
+    bonus_low: 225000
+    bonus_high: 640000
+    total_comp_low: 450000
+    total_comp_high: 960000
+    currency: USD
+  - region: Houston
+    base_low: 210000
+    base_high: 295000
+    stock_low: null
+    stock_high: null
+    bonus_low: 210000
+    bonus_high: 590000
+    total_comp_low: 420000
+    total_comp_high: 885000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "EM at Two Sigma = L7-L8 at Google, M2-D1 at Meta, Principal SDM at Amazon"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-200%+ | Two Sigma EMs lead teams of elite engineers and researchers | **ELITE QUANT EM PREMIUM**"
+---
 ### Engineering Manager | Two Sigma Global Negotiation Guide
 
 **Negotiation DNA:** Elite quant hedge fund + $60B+ AUM + NYC HQ + ELITE comp + Bonus 100-200%+ | Two Sigma EMs lead teams of elite engineers and researchers | **ELITE QUANT EM PREMIUM**

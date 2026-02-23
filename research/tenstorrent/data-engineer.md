@@ -1,3 +1,48 @@
+---
+company: tenstorrent
+company_display: Tenstorrent
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 128000
+    base_high: 170000
+    stock_low: 42000
+    stock_high: 65000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 275000
+    currency: CAD
+  - region: Austin
+    base_low: 122000
+    base_high: 165000
+    stock_low: 36000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 182000
+    total_comp_high: 252000
+    currency: USD
+  - region: Remote US
+    base_low: 115000
+    base_high: 158000
+    stock_low: 34000
+    stock_high: 52000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 242000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Tenstorrent Data Engineer ~ Google L4 DE | Meta Data Engineer E4 | Apple Data Engineer IC3 | AMD Data Engineer II | Intel Data Platform Engineer III"
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "[Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | Data Platform Criticality Premium"
+---
 ### Data Engineer | Tenstorrent Global Negotiation Guide
 
 **Negotiation DNA:** [Pre-IPO Equity + Base + Sovereign AI Bonus] | RISC-V AI Silicon | Blackhole/Wormhole Architecture | Jim Keller Leadership | Data Platform Criticality Premium

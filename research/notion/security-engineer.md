@@ -1,3 +1,48 @@
+---
+company: notion
+company_display: Notion
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 190000
+    base_high: 240000
+    stock_low: 200000
+    stock_high: 350000
+    bonus_pct: 10
+    total_comp_low: 285000
+    total_comp_high: 395000
+    currency: USD
+  - region: New York
+    base_low: 185000
+    base_high: 235000
+    stock_low: 195000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 277000
+    total_comp_high: 385000
+    currency: USD
+  - region: London
+    base_low: 125000
+    base_high: 160000
+    stock_low: 132000
+    stock_high: 228000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 258000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Notion SecEng (L3-L5) = Google SecEng L4-L6 = Meta SecEng E4-E6 = Figma SecEng = 1Password SecEng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI & Workspace Security | 100M+ Users | **NOTION AI PREMIUM**"
+---
 ### Security Engineer | Notion Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$10B Valuation) + Bonus | AI & Workspace Security | 100M+ Users | **NOTION AI PREMIUM**

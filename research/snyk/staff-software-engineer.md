@@ -1,3 +1,38 @@
+---
+company: snyk
+company_display: Snyk
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 340000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 70000
+    total_comp_high: 165000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "As a Staff Software Engineer at Snyk, you set the technical vision for the Security Fabric architecture and define the Secure at Inception standards that every engineering team follows."
+---
 ### Staff Software Engineer — Snyk Salary Negotiation Guide
 
 **Negotiation DNA**: As a Staff Software Engineer at Snyk, you set the technical vision for the Security Fabric architecture and define the Secure at Inception standards that every engineering team follows.

@@ -1,3 +1,53 @@
+---
+company: global-payments
+company_display: Global Payments
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Atlanta GA
+    base_low: 140000
+    base_high: 185000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 20000
+    bonus_high: 35000
+    total_comp_low: 240000
+    total_comp_high: 380000
+    currency: USD
+  - region: New York
+    base_low: 160000
+    base_high: 210000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 25000
+    bonus_high: 42000
+    total_comp_low: 285000
+    total_comp_high: 452000
+    currency: USD
+  - region: London
+    base_low: 92000
+    base_high: 128000
+    stock_low: 55000
+    stock_high: 110000
+    bonus_low: 14000
+    bonus_high: 24000
+    total_comp_low: 161000
+    total_comp_high: 262000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Global Payments | Google | Meta | Stripe | JPMorgan | Fiserv |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Product Strategy` `Merchant Platform`"
+---
 ### Product Manager | Global Payments Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: GPN` `Worldpay Re-Integration` `Payment Orchestration` `Unified Commerce` `Product Strategy` `Merchant Platform`

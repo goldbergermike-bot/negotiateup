@@ -1,3 +1,48 @@
+---
+company: shopify
+company_display: Shopify
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 188000
+    base_high: 242000
+    stock_low: 185000
+    stock_high: 338000
+    bonus_pct: 12
+    total_comp_low: 265000
+    total_comp_high: 385000
+    currency: CAD
+  - region: San Francisco
+    base_low: 205000
+    base_high: 258000
+    stock_low: 208000
+    stock_high: 378000
+    bonus_pct: 12
+    total_comp_low: 292000
+    total_comp_high: 412000
+    currency: USD
+  - region: Remote US/Canada
+    base_low: 192000
+    base_high: 242000
+    stock_low: 195000
+    stock_high: 355000
+    bonus_pct: 12
+    total_comp_low: 272000
+    total_comp_high: 388000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shopify Sr SWE (L7) = Stripe IC3 = Square Sr SWE = Google L5 Commerce = Meta E5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce Assistant | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**"
+---
 ### Senior Software Engineer | Shopify Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce Assistant | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**

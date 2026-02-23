@@ -1,3 +1,48 @@
+---
+company: rippling
+company_display: Rippling
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 232000
+    base_high: 298000
+    stock_low: 320000
+    stock_high: 560000
+    bonus_pct: 15
+    total_comp_low: 378000
+    total_comp_high: 538000
+    currency: USD
+  - region: New York
+    base_low: 228000
+    base_high: 292000
+    stock_low: 312000
+    stock_high: 548000
+    bonus_pct: 15
+    total_comp_low: 372000
+    total_comp_high: 528000
+    currency: USD
+  - region: Remote US
+    base_low: 218000
+    base_high: 278000
+    stock_low: 295000
+    stock_high: 515000
+    bonus_pct: 15
+    total_comp_low: 348000
+    total_comp_high: 498000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Rippling Staff SWE (IC5) = Gusto Staff SWE = Workday Staff SWE = Google L6 = Meta E6
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **WORKFORCE PLATFORM ARCHITECT PREMIUM**"
+---
 ### Staff Software Engineer | Rippling Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Unified Workforce Platform | $13.5B+ Valuation | 700K+ Users | **WORKFORCE PLATFORM ARCHITECT PREMIUM**

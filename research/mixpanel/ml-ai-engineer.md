@@ -1,3 +1,48 @@
+---
+company: mixpanel
+company_display: Mixpanel
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 225000
+    stock_low: 140000
+    stock_high: 260000
+    bonus_pct: 10
+    total_comp_low: 255000
+    total_comp_high: 345000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 218000
+    stock_low: 130000
+    stock_high: 248000
+    bonus_pct: 10
+    total_comp_low: 245000
+    total_comp_high: 330000
+    currency: USD
+  - region: London
+    base_low: 130000
+    base_high: 165000
+    stock_low: 98000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 240000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Mixpanel ML/AI = Google L4-L5 ML = Meta ML E5 = Amplitude ML = OpenAI L3
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Top-Tier Equity + Signing Bonus | Core AI Analytics Product Development 2026"
+---
 ### ML/AI Engineer | Mixpanel Global Negotiation Guide
 
 **Negotiation DNA:** Top-Tier Equity + Signing Bonus | Core AI Analytics Product Development 2026

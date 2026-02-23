@@ -1,3 +1,52 @@
+---
+company: mastercard
+company_display: Mastercard
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Purchase NY
+    base_low: 140000
+    base_high: 190000
+    stock_low: 80000
+    stock_high: 155000
+    bonus_low: 18000
+    bonus_high: 36000
+    total_comp_low: 238000
+    total_comp_high: 381000
+    currency: USD
+  - region: New York
+    base_low: 145000
+    base_high: 200000
+    stock_low: 85000
+    stock_high: 170000
+    bonus_low: 20000
+    bonus_high: 40000
+    total_comp_low: 250000
+    total_comp_high: 410000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 125000
+    stock_low: 45000
+    stock_high: 85000
+    bonus_low: 11000
+    bonus_high: 22000
+    total_comp_low: 141000
+    total_comp_high: 232000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Mastercard | Google | Meta | Stripe | JPMorgan | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `Payment Data Pipelines` `Biometric Authentication` `Real-Time Streaming` `Data Platform`"
+---
 ### Data Engineer | Mastercard Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: MA` `Digital Identity Wallets` `Agent Pay Acceptance Framework` `Trust Orchestrator` `Payment Data Pipelines` `Biometric Authentication` `Real-Time Streaming` `Data Platform`

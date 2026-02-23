@@ -1,3 +1,50 @@
+---
+company: deutsche-bank
+company_display: Deutsche Bank
+role: autobahn-platform-engineer
+role_display: Autobahn Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City
+    base_low: 160000
+    base_high: 220000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 225000
+    total_comp_high: 370000
+    currency: USD
+  - region: London
+    base_low: 108000
+    base_high: 155000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 155000
+    total_comp_high: 265000
+    currency: GBP
+  - region: Frankfurt (HQ)
+    base_low: 95000
+    base_high: 140000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 130000
+    total_comp_high: 230000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: "Autobahn Platform Engineer at DB (VP/Director) = L5-L6 at Google, E5-E6 at Meta, SDE III-Principal at Amazon, VP/SVP at BofA, VP/ED at Goldman Sachs"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "EUR30B market cap European bank + Autobahn is DB's flagship electronic trading platform + Frankfurt/NYC dual hub + NYC tech hub pays competitive US rates | Deutsche Bank pays premium for Autobahn platform talent | **ELECTRONIC TRADING PLATFORM PREMIUM**"
+---
 ### Autobahn Platform Engineer | Deutsche Bank Global Negotiation Guide
 
 **Negotiation DNA:** EUR30B market cap European bank + Autobahn is DB's flagship electronic trading platform + Frankfurt/NYC dual hub + NYC tech hub pays competitive US rates | Deutsche Bank pays premium for Autobahn platform talent | **ELECTRONIC TRADING PLATFORM PREMIUM**

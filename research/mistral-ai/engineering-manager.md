@@ -1,3 +1,49 @@
+---
+company: mistral-ai
+company_display: Mistral AI
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 100000
+    base_high: 135000
+    stock_low: 200000
+    stock_high: 365000
+    bonus_pct: null
+    total_comp_low: 150000
+    total_comp_high: 226000
+    currency: EUR
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: 184000
+    stock_high: 336000
+    bonus_pct: null
+    total_comp_low: 138000
+    total_comp_high: 208000
+    currency: GBP
+  - region: Remote EU
+    base_low: null
+    base_high: null
+    stock_low: 200000
+    stock_high: 365000
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 213000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Mistral EM = Google L5 EM Paris = DeepMind Engineering Manager = Meta FAIR EM = Anthropic EM. Google L5 EM Paris total comp ranges €180K-€260K; DeepMind EM London ranges £160K-£240K. Mistral EM comp should target the midpoint of these ranges with meaningful equity upside.
+data_sources:
+  - Levels.fyi
+  - Hired
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium"
+---
 ### Engineering Manager | Mistral AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | European AI Champion | Sovereignty Premium

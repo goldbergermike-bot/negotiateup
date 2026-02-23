@@ -1,3 +1,52 @@
+---
+company: western-union
+company_display: Western Union
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver CO
+    base_low: 135000
+    base_high: 175000
+    stock_low: 40000
+    stock_high: 75000
+    bonus_low: 15000
+    bonus_high: 30000
+    total_comp_low: 190000
+    total_comp_high: 280000
+    currency: USD
+  - region: New York
+    base_low: 155000
+    base_high: 200000
+    stock_low: 50000
+    stock_high: 90000
+    bonus_low: 20000
+    bonus_high: 38000
+    total_comp_low: 225000
+    total_comp_high: 328000
+    currency: USD
+  - region: London
+    base_low: 88000
+    base_high: 115000
+    stock_low: 28000
+    stock_high: 50000
+    bonus_low: 10000
+    bonus_high: 22000
+    total_comp_low: 126000
+    total_comp_high: 187000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Western Union | Google | Meta | Stripe | JPMorgan | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: WU` `USDPT` `Data Scientist` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `AI/ML Analytics`"
+---
 ### Data Scientist | Western Union Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: WU` `USDPT` `Data Scientist` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure` `AI/ML Analytics`

@@ -1,3 +1,51 @@
+---
+company: intel
+company_display: Intel
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: 195000
+    base_high: 250000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 395000
+    currency: USD
+  - region: Portland
+    base_low: 185000
+    base_high: 238000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: 15
+    total_comp_low: 265000
+    total_comp_high: 372000
+    currency: USD
+  - region: Phoenix
+    base_low: 175000
+    base_high: 225000
+    stock_low: 80000
+    stock_high: 150000
+    bonus_pct: 15
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Intel Staff Software Engineer (Grade 9) = AMD Principal MTS Software Engineer = NVIDIA Senior Staff Software Engineer = Google L6 Staff Software Engineer
+data_sources:
+  - Intel IDM 2.0 Foundry Pivot — $100B+ Fab Investment
+  - Intel CHIPS Act Funding — National Security Infrastructure
+  - Intel Staff Engineer Compensation — Competitive Gap Analysis
+  - Google/NVIDIA/AMD Staff-Level Compensation Benchmarks
+negotiation_dna_summary: "Base + INTC RSUs (4yr vest) + Bonus (15-20%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages"
+---
 ### Staff Software Engineer | Intel Global Negotiation Guide
 
 **Negotiation DNA:** Base + INTC RSUs (4yr vest) + Bonus (15-20%) | Semiconductor & Foundry | IDM 2.0 Foundry Pivot | Existential Infrastructure | Retention RSU Packages

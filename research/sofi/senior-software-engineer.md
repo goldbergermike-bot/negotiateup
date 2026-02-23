@@ -1,3 +1,49 @@
+---
+company: sofi
+company_display: SoFi
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 215000
+    stock_low: 200000
+    stock_high: 380000
+    bonus_pct: 12
+    total_comp_low: 248000
+    total_comp_high: 348000
+    currency: USD
+  - region: New York / Salt Lake City
+    base_low: 160000
+    base_high: 200000
+    stock_low: 175000
+    stock_high: 330000
+    bonus_pct: 12
+    total_comp_low: 225000
+    total_comp_high: 318000
+    currency: USD
+  - region: Remote US
+    base_low: 148000
+    base_high: 185000
+    stock_low: 150000
+    stock_high: 285000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 290000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`$248K-$348K TC (SF)` | `LTV Accelerator` | `Platform Ownership` | `NASDAQ: SOFI`"
+---
 ### Senior Software Engineer | SoFi Global Negotiation Guide
 
 **Negotiation DNA:** `$248K-$348K TC (SF)` | `LTV Accelerator` | `Platform Ownership` | `NASDAQ: SOFI`

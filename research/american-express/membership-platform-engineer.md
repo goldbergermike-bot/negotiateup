@@ -1,3 +1,50 @@
+---
+company: american-express
+company_display: American Express
+role: membership-platform-engineer
+role_display: Membership Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York City (HQ)
+    base_low: 155000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 205000
+    total_comp_high: 335000
+    currency: USD
+  - region: Phoenix
+    base_low: 140000
+    base_high: 192000
+    stock_low: 70000
+    stock_high: 180000
+    bonus_pct: 15
+    total_comp_low: 188000
+    total_comp_high: 305000
+    currency: USD
+  - region: San Francisco
+    base_low: 150000
+    base_high: 205000
+    stock_low: 75000
+    stock_high: 195000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 328000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Membership Platform Engineer at AmEx (Senior/Principal) = L5-L6 at Google, E5-E6 at Meta, SDE III-Senior at Amazon, VP/SVP at BofA, Senior/Principal at Capital One"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$190B market cap premium brand + \"Membership has its privileges\" platform is core business + NYC HQ + Strong tech comp with premium brand culture | AmEx pays premium for engineers building the membership experience | **MEMBERSHIP PLATFORM PREMIUM**"
+---
 ### Membership Platform Engineer | American Express Global Negotiation Guide
 
 **Negotiation DNA:** $190B market cap premium brand + "Membership has its privileges" platform is core business + NYC HQ + Strong tech comp with premium brand culture | AmEx pays premium for engineers building the membership experience | **MEMBERSHIP PLATFORM PREMIUM**

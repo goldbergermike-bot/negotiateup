@@ -1,3 +1,39 @@
+---
+company: epic-systems
+company_display: Epic Systems
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Verona WI
+    base_low: 130000
+    base_high: 180000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 205000
+    currency: USD
+  - region: Remote (rare)
+    base_low: 120000
+    base_high: 170000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 195000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Epic ML Engineer = Tempus ML Engineer (lower TC) = Google L3-L4 ML (much lower TC)
+data_sources:
+  - Glassdoor
+negotiation_dna_summary: "Private Company / No Public Equity / Bonus-Only Variable | **+5-15% AI/ML PREMIUM**"
+---
 ### ML/AI Engineer | Epic Systems Global Negotiation Guide
 
 **Negotiation DNA:** Private Company / No Public Equity / Bonus-Only Variable | **+5-15% AI/ML PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: electronic-arts
+company_display: Electronic Arts
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Redwood City
+    base_low: 150000
+    base_high: 210000
+    stock_low: 80000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 210000
+    total_comp_high: 330000
+    currency: USD
+  - region: Orlando
+    base_low: 130000
+    base_high: 185000
+    stock_low: 65000
+    stock_high: 170000
+    bonus_pct: 15
+    total_comp_low: 180000
+    total_comp_high: 290000
+    currency: USD
+  - region: Bucharest
+    base_low: 50000
+    base_high: 80000
+    stock_low: 25000
+    stock_high: 50000
+    bonus_pct: 15
+    total_comp_low: 80000
+    total_comp_high: 135000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: EA PM (L2) = Google L5 PM = Meta IC5 PM = Amazon L6 PM
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU + Bonus | Sports-Gaming Revenue Machine"
+---
 ### Product Manager | Electronic Arts Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus | Sports-Gaming Revenue Machine

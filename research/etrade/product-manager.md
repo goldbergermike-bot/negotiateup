@@ -1,3 +1,51 @@
+---
+company: etrade
+company_display: Etrade
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 145000
+    base_high: 190000
+    stock_low: null
+    stock_high: null
+    bonus_low: 27000
+    bonus_high: 47000
+    total_comp_low: 212000
+    total_comp_high: 305000
+    currency: USD
+  - region: "Jersey City, NJ"
+    base_low: 138000
+    base_high: 181000
+    stock_low: null
+    stock_high: null
+    bonus_low: 26000
+    bonus_high: 45000
+    total_comp_low: 201000
+    total_comp_high: 290000
+    currency: USD
+  - region: "Alpharetta, GA"
+    base_low: 123000
+    base_high: 162000
+    stock_low: null
+    stock_high: null
+    bonus_low: 23000
+    bonus_high: 40000
+    total_comp_low: 180000
+    total_comp_high: 259000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Product Strategy` `Retail Trading UX` `Regulatory Product`"
+---
 ### Product Manager | E*TRADE (Morgan Stanley) Global Negotiation Guide
 
 **Negotiation DNA:** `Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Product Strategy` `Retail Trading UX` `Regulatory Product`

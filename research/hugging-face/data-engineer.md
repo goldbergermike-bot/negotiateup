@@ -1,3 +1,52 @@
+---
+company: hugging-face
+company_display: Hugging Face
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Paris
+    base_low: 62000
+    base_high: 85000
+    stock_low: 65000
+    stock_high: 125000
+    bonus_pct: null
+    total_comp_low: 78000
+    total_comp_high: 116000
+    currency: EUR
+  - region: New York
+    base_low: 152000
+    base_high: 192000
+    stock_low: 115000
+    stock_high: 205000
+    bonus_pct: null
+    total_comp_low: 181000
+    total_comp_high: 243000
+    currency: USD
+  - region: Remote Global
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "HF Data Engineer = Google Data Engineer L3–L4 (Paris) = Meta Data Engineer (E4) = Databricks Data Engineer = Datadog Paris Data Engineer. Paris DE bands (€62K–€85K) compete with Google Paris DE (€68K–€95K base + RSUs) and Criteo Data Engineer (€60K–€82K base). HF data engineers work on data infrastructure at massive community scale — 100K+ datasets, billions of downloads, and a metadata graph that connects models, datasets, and Spaces across the entire ML ecosystem."
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+  - TeamBlind
+  - Crunchbase
+negotiation_dna_summary: "Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat"
+---
 ### Data Engineer | Hugging Face Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Moderate Base | Open Source AI Hub | Ecosystem Moat

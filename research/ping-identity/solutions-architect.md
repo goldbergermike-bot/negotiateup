@@ -1,3 +1,48 @@
+---
+company: ping-identity
+company_display: Ping Identity
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver
+    base_low: 165000
+    base_high: 208000
+    stock_low: 52000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 198000
+    total_comp_high: 278000
+    currency: USD
+  - region: Austin
+    base_low: 158000
+    base_high: 202000
+    stock_low: 52000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 272000
+    currency: USD
+  - region: Remote US
+    base_low: 155000
+    base_high: 198000
+    stock_low: 52000
+    stock_high: 92000
+    bonus_pct: 10
+    total_comp_low: 188000
+    total_comp_high: 265000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ping Identity SA (SA2-SA3) = Okta SA = CyberArk SA = SailPoint SA = ForgeRock SA = Microsoft Identity CSA (L62-L63)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY SOLUTIONS BONUS**"
+---
 ### Solutions Architect | Ping Identity Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Bonus + Participation Units | ForgeRock Merger Integration | PingOne Cloud Identity Platform | 100M+ CIAM Users | **IDENTITY SOLUTIONS BONUS**

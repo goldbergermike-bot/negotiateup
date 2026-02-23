@@ -1,3 +1,49 @@
+---
+company: hashicorp-terraform
+company_display: HashiCorp Terraform
+role: infrastructure-ai-engineer
+role_display: Infrastructure AI Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 210000
+    base_high: 275000
+    stock_low: 250000
+    stock_high: 440000
+    bonus_pct: 10
+    total_comp_low: 310000
+    total_comp_high: 450000
+    currency: USD
+  - region: Austin / Denver
+    base_low: 198000
+    base_high: 260000
+    stock_low: 230000
+    stock_high: 405000
+    bonus_pct: 10
+    total_comp_low: 292000
+    total_comp_high: 420000
+    currency: USD
+  - region: London
+    base_low: 160000
+    base_high: 209000
+    stock_low: 190000
+    stock_high: 335000
+    bonus_pct: 10
+    total_comp_low: 236000
+    total_comp_high: 342000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: HashiCorp Infrastructure AI Engineer = Google L5-L6 ML Infrastructure = Meta E5-E6 AI Infra = IBM Band 9-10 AI Platform = AWS Senior Applied Scientist
+data_sources:
+  - Levels.fyi
+  - Blind
+negotiation_dna_summary: "Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024) | **SIGNATURE ROLE** | **+20-30% AI INFRASTRUCTURE PREMIUM**"
+---
 ### Infrastructure AI Engineer | HashiCorp (Terraform) Global Negotiation Guide
 
 **Negotiation DNA:** Remote-First Equity-Heavy | Infrastructure-as-Code Market Leader | IBM Acquisition Premium (2024) | **SIGNATURE ROLE** | **+20-30% AI INFRASTRUCTURE PREMIUM**

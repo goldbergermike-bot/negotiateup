@@ -1,3 +1,48 @@
+---
+company: shopify
+company_display: Shopify
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Toronto
+    base_low: 155000
+    base_high: 198000
+    stock_low: 130000
+    stock_high: 235000
+    bonus_pct: 10
+    total_comp_low: 202000
+    total_comp_high: 290000
+    currency: CAD
+  - region: San Francisco
+    base_low: 172000
+    base_high: 218000
+    stock_low: 148000
+    stock_high: 265000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 322000
+    currency: USD
+  - region: Remote US/Canada
+    base_low: 162000
+    base_high: 205000
+    stock_low: 138000
+    stock_high: 248000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 305000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Shopify PD (L5-L7) = Google UX L4-L5 = Meta Product Design E4-E5 = Stripe Design = Apple Design
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce UX | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**"
+---
 ### Product Designer | Shopify Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (TSX/NYSE RSUs) + Bonus | Sidekick AI Commerce UX | $100B+ Market Cap | 4.6M+ Merchants | **SIDEKICK AI PREMIUM**

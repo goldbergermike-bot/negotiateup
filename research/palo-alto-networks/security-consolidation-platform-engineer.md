@@ -1,3 +1,39 @@
+---
+company: palo-alto-networks
+company_display: Palo Alto Networks
+role: security-consolidation-platform-engineer
+role_display: Security Consolidation Platform Engineer
+role_type: specialty
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Santa Clara
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 184000
+    total_comp_high: 414000
+    currency: USD
+  - region: London
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 92000
+    total_comp_high: 200000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "As a Security Consolidation Platform Engineer at Palo Alto Networks, you are the embodiment of the Platformization thesis — the engineer who architects, builds, and integrates the unified security platform that is redefining a $200B+ cybersecurity market."
+---
 ### Security Consolidation Platform Engineer — Palo Alto Networks Salary Negotiation Guide
 
 **Negotiation DNA**: As a Security Consolidation Platform Engineer at Palo Alto Networks, you are the embodiment of the Platformization thesis — the engineer who architects, builds, and integrates the unified security platform that is redefining a $200B+ cybersecurity market.

@@ -1,3 +1,48 @@
+---
+company: dbt-labs
+company_display: dbt Labs
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / Remote-US
+    base_low: 160000
+    base_high: 195000
+    stock_low: 112000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 192000
+    total_comp_high: 252000
+    currency: USD
+  - region: San Francisco
+    base_low: 170000
+    base_high: 208000
+    stock_low: 125000
+    stock_high: 215000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 268000
+    currency: USD
+  - region: London
+    base_low: 115000
+    base_high: 148000
+    stock_low: 80000
+    stock_high: 148000
+    bonus_pct: 10
+    total_comp_low: 140000
+    total_comp_high: 192000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: dbt Labs DevOps = Google L3-L4 SRE = Snowflake DevOps = Amazon L4-L5 SDE
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Equity + Bonus | Semantic Layer AI Expansion | Analytics Engineering Category Creator | Series D Growth-Stage Equity"
+---
 ### DevOps Engineer | dbt Labs Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Equity + Bonus | Semantic Layer AI Expansion | Analytics Engineering Category Creator | Series D Growth-Stage Equity

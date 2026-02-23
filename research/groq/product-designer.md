@@ -1,3 +1,50 @@
+---
+company: groq
+company_display: Groq
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View
+    base_low: 128000
+    base_high: 162000
+    stock_low: 20000
+    stock_high: 40000
+    bonus_pct: 5
+    total_comp_low: 155000
+    total_comp_high: 218000
+    currency: USD
+  - region: San Diego
+    base_low: 118000
+    base_high: 150000
+    stock_low: 18000
+    stock_high: 36000
+    bonus_pct: 5
+    total_comp_low: 142000
+    total_comp_high: 202000
+    currency: USD
+  - region: Remote US
+    base_low: 112000
+    base_high: 142000
+    stock_low: 16000
+    stock_high: 32000
+    bonus_pct: 5
+    total_comp_low: 132000
+    total_comp_high: 188000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Groq Product Designer ≈ Google L4 UX · Meta Product Designer (IC4) · Amazon UX Designer II · Apple Design Lead · Cerebras Designer · NVIDIA UX Designer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Design Premium"
+---
 ### Product Designer | Groq Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Retention Sign-on | AI Inference Hardware (LPU) | $20B NVIDIA Deal | $14B Valuation | Design Premium

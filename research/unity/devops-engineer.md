@@ -1,3 +1,49 @@
+---
+company: unity
+company_display: Unity
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 140000
+    base_high: 198000
+    stock_low: 55000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 272000
+    currency: USD
+  - region: Austin
+    base_low: 122000
+    base_high: 175000
+    stock_low: 44000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 153000
+    total_comp_high: 240000
+    currency: USD
+  - region: Copenhagen
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 10
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Unity DevOps (L3-L4) = Google L3-L4 SRE = Amazon L5-L6 SysDE
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: RSU + Bonus / Post-IPO Comp Stabilizing
+---
 ### DevOps Engineer | Unity Global Negotiation Guide
 
 **Negotiation DNA:** RSU + Bonus / Post-IPO Comp Stabilizing

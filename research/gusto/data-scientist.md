@@ -1,3 +1,48 @@
+---
+company: gusto
+company_display: Gusto
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 160000
+    base_high: 200000
+    stock_low: 120000
+    stock_high: 200000
+    bonus_pct: 10
+    total_comp_low: 220000
+    total_comp_high: 300000
+    currency: USD
+  - region: Denver
+    base_low: 145000
+    base_high: 180000
+    stock_low: 100000
+    stock_high: 170000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 265000
+    currency: USD
+  - region: Toronto
+    base_low: 150000
+    base_high: 185000
+    stock_low: 95000
+    stock_high: 155000
+    bonus_pct: 10
+    total_comp_low: 195000
+    total_comp_high: 260000
+    currency: CAD
+level_mapping:
+  internal: null
+  raw: Gusto DS = Google L4 DS = Meta IC4 DS = Stripe DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Forward / Analytics Premium | AI Payroll Intelligence & SMB Insights"
+---
 ### Data Scientist | Gusto Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Forward / Analytics Premium | AI Payroll Intelligence & SMB Insights

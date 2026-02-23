@@ -1,3 +1,51 @@
+---
+company: etrade
+company_display: Etrade
+role: security-engineer
+role_display: Security Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York (HQ)
+    base_low: 152000
+    base_high: 198000
+    stock_low: null
+    stock_high: null
+    bonus_low: 26000
+    bonus_high: 49000
+    total_comp_low: 218000
+    total_comp_high: 315000
+    currency: USD
+  - region: "Jersey City, NJ"
+    base_low: 144000
+    base_high: 188000
+    stock_low: null
+    stock_high: null
+    bonus_low: 25000
+    bonus_high: 47000
+    total_comp_low: 207000
+    total_comp_high: 299000
+    currency: USD
+  - region: "Alpharetta, GA"
+    base_low: 129000
+    base_high: 168000
+    stock_low: null
+    stock_high: null
+    bonus_low: 22000
+    bonus_high: 42000
+    total_comp_low: 185000
+    total_comp_high: 268000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Application Security` `Crypto Custody Security` `Financial Compliance`"
+---
 ### Security Engineer | E*TRADE (Morgan Stanley) Global Negotiation Guide
 
 **Negotiation DNA:** `Crypto H1` `Digital Asset Pioneer` `BTC/ETH/SOL` `Zerohash` `Public Equity (NYSE: MS)` `Application Security` `Crypto Custody Security` `Financial Compliance`

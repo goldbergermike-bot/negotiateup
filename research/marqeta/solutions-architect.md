@@ -1,3 +1,53 @@
+---
+company: marqeta
+company_display: Marqeta
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Oakland CA
+    base_low: 175000
+    base_high: 230000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 320000
+    total_comp_high: 500000
+    currency: USD
+  - region: New York NY
+    base_low: 180000
+    base_high: 235000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_low: 25000
+    bonus_high: 50000
+    total_comp_low: 325000
+    total_comp_high: 505000
+    currency: USD
+  - region: Remote US
+    base_low: 160000
+    base_high: 210000
+    stock_low: 100000
+    stock_high: 180000
+    bonus_low: 20000
+    bonus_high: 42000
+    total_comp_low: 280000
+    total_comp_high: 432000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| Marqeta | Google | Meta | Stripe | Block | Visa |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NASDAQ: MQ` `Embedded 2.0` `Modern Card Issuing` `Just-in-Time Funding` `Infrastructure Orchestrator` `Water Economy` `Fintech Platform` `Technical Pre-Sales` `API Integration` `Enterprise Payments`"
+---
 ### Solutions Architect | Marqeta Global Negotiation Guide
 
 **Negotiation DNA:** `NASDAQ: MQ` `Embedded 2.0` `Modern Card Issuing` `Just-in-Time Funding` `Infrastructure Orchestrator` `Water Economy` `Fintech Platform` `Technical Pre-Sales` `API Integration` `Enterprise Payments`

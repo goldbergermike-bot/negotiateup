@@ -1,3 +1,48 @@
+---
+company: airbnb
+company_display: Airbnb
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco / Remote
+    base_low: 188000
+    base_high: 235000
+    stock_low: 172000
+    stock_high: 298000
+    bonus_pct: null
+    total_comp_low: 231000
+    total_comp_high: 310000
+    currency: USD
+  - region: New York
+    base_low: 188000
+    base_high: 235000
+    stock_low: 172000
+    stock_high: 298000
+    bonus_pct: null
+    total_comp_low: 231000
+    total_comp_high: 310000
+    currency: USD
+  - region: London
+    base_low: 129000
+    base_high: 162000
+    stock_low: 118000
+    stock_high: 205000
+    bonus_pct: null
+    total_comp_low: 159000
+    total_comp_high: 213000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Airbnb Data Engineer = Google L4 Data Eng = Meta DE = Databricks Data Eng
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion"
+---
 ### Data Engineer | Airbnb Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Competitive Base | Live Anywhere Policy | Experiences Marketplace Expansion

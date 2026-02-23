@@ -1,3 +1,50 @@
+---
+company: figma
+company_display: Figma
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 220000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 5
+    total_comp_low: 240000
+    total_comp_high: 350000
+    currency: USD
+  - region: New York
+    base_low: 175000
+    base_high: 220000
+    stock_low: 150000
+    stock_high: 280000
+    bonus_pct: 5
+    total_comp_low: 240000
+    total_comp_high: 350000
+    currency: USD
+  - region: London
+    base_low: 133000
+    base_high: 168000
+    stock_low: 114000
+    stock_high: 213000
+    bonus_pct: 5
+    total_comp_low: 183000
+    total_comp_high: 266000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Figma Data Engineer = Google L4 Data Engineer = Meta E4 Data Engineer = Adobe Data Engineer = Canva Data Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Strong Equity | Design Platform Pioneer | 2026 Focus: AI-Powered Design Analytics"
+---
 ### Data Engineer | Figma Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Strong Equity | Design Platform Pioneer | 2026 Focus: AI-Powered Design Analytics

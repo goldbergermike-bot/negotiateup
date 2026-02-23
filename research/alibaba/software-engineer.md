@@ -1,3 +1,68 @@
+---
+company: alibaba
+company_display: Alibaba
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Bay Area / Sunnyvale (US R&D)"
+    base_low: 150000
+    base_high: 215000
+    stock_low: 70000
+    stock_high: 200000
+    bonus_pct: 15
+    total_comp_low: 200000
+    total_comp_high: 330000
+    currency: USD
+  - region: Seattle (US)
+    base_low: 145000
+    base_high: 210000
+    stock_low: 65000
+    stock_high: 190000
+    bonus_pct: 15
+    total_comp_low: 195000
+    total_comp_high: 320000
+    currency: USD
+  - region: Hangzhou (HQ)
+    base_low: 380000
+    base_high: 700000
+    stock_low: 150000
+    stock_high: 450000
+    bonus_pct: 15
+    total_comp_low: 570000
+    total_comp_high: 1150000
+    currency: CNY
+  - region: Beijing
+    base_low: 360000
+    base_high: 680000
+    stock_low: 140000
+    stock_high: 430000
+    bonus_pct: 15
+    total_comp_low: 540000
+    total_comp_high: 1100000
+    currency: CNY
+  - region: Singapore
+    base_low: 105000
+    base_high: 165000
+    stock_low: 45000
+    stock_high: 125000
+    bonus_pct: 15
+    total_comp_low: 140000
+    total_comp_high: 250000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Software Engineer at Alibaba (P5-P7) = L3-L5 at Google, IC3-IC5 at Meta, SDE I-III at Amazon, equivalent ByteDance 1-2 to 2-2"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$200B market cap with world's largest e-commerce ecosystem + Alibaba Cloud (Asia-Pacific #1) + Competitive US engineering comp benchmarked against FAANG | Alibaba engineers build systems processing $1T+ in annual GMV | **E-COMMERCE SCALE PREMIUM**"
+---
 ### Software Engineer | Alibaba Global Negotiation Guide
 
 **Negotiation DNA:** $200B market cap with world's largest e-commerce ecosystem + Alibaba Cloud (Asia-Pacific #1) + Competitive US engineering comp benchmarked against FAANG | Alibaba engineers build systems processing $1T+ in annual GMV | **E-COMMERCE SCALE PREMIUM**

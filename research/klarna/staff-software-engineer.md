@@ -1,3 +1,48 @@
+---
+company: klarna
+company_display: Klarna
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stockholm
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: 15
+    total_comp_low: null
+    total_comp_high: null
+    currency: USD
+  - region: New York
+    base_low: 258000
+    base_high: 325000
+    stock_low: 268000
+    stock_high: 472000
+    bonus_pct: 15
+    total_comp_low: 365000
+    total_comp_high: 515000
+    currency: USD
+  - region: Remote EU
+    base_low: 108000
+    base_high: 138000
+    stock_low: 88000
+    stock_high: 155000
+    bonus_pct: 15
+    total_comp_low: 142000
+    total_comp_high: 212000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Klarna Staff SWE (L5) = Stripe Staff = Adyen Staff = Block Staff = Google L6 Payments = Distinguished Commerce Architect across industry
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER** | **+15–25% PROTOCOL ARCHITECT PREMIUM**"
+---
 ### Staff Software Engineer | Klarna Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Product Protocol | Common Language Architect | AI Shopping Platform | **AGENTIC COMMERCE PIONEER** | **+15–25% PROTOCOL ARCHITECT PREMIUM**

@@ -1,3 +1,48 @@
+---
+company: tesla
+company_display: Tesla
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin (HQ)
+    base_low: 155000
+    base_high: 215000
+    stock_low: 150000
+    stock_high: 400000
+    bonus_pct: null
+    total_comp_low: 230000
+    total_comp_high: 380000
+    currency: USD
+  - region: Palo Alto
+    base_low: 165000
+    base_high: 220000
+    stock_low: 165000
+    stock_high: 420000
+    bonus_pct: null
+    total_comp_low: 245000
+    total_comp_high: 395000
+    currency: USD
+  - region: Fremont
+    base_low: 160000
+    base_high: 218000
+    stock_low: 158000
+    stock_high: 410000
+    bonus_pct: null
+    total_comp_low: 238000
+    total_comp_high: 388000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Tesla Senior Software Engineer = Google L4 = Meta E4 = Apple ICT3 = Amazon SDE-II/III
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk"
+---
 ### Senior Software Engineer | Tesla Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy / No Cash Bonus | Mission-Driven Culture | Stock Volatility Risk

@@ -1,3 +1,39 @@
+---
+company: fanatics
+company_display: Fanatics
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: NYC
+    base_low: 148000
+    base_high: 208000
+    stock_low: 68000
+    stock_high: 195000
+    bonus_pct: 10
+    total_comp_low: 185000
+    total_comp_high: 310000
+    currency: USD
+  - region: Jacksonville FL (HQ)
+    base_low: 138000
+    base_high: 198000
+    stock_low: 62000
+    stock_high: 182000
+    bonus_pct: 10
+    total_comp_low: 172000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Fanatics ML Engineer = Google ML Engineer L3-L4 = Amazon Applied Scientist = Shopify ML Engineer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Private $31B Valuation | Growth Equity | **+5-10% ML PREMIUM** | Sports Commerce Monopoly | Pre-IPO Upside"
+---
 ### ML/AI Engineer | Fanatics Global Negotiation Guide
 
 **Negotiation DNA:** Private $31B Valuation | Growth Equity | **+5-10% ML PREMIUM** | Sports Commerce Monopoly | Pre-IPO Upside

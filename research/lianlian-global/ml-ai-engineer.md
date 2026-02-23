@@ -1,3 +1,47 @@
+---
+company: lianlian-global
+company_display: Lianlian Global
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: ":cn: Hangzhou (CNY)"
+    base_low: 350000
+    base_high: 650000
+    stock_low: 150000
+    stock_high: 400000
+    bonus_pct: null
+    total_comp_low: 500000
+    total_comp_high: 1050000
+    currency: JPY
+  - region: ":hong_kong: Hong Kong (HKD)"
+    base_low: 600000
+    base_high: 1050000
+    stock_low: 250000
+    stock_high: 550000
+    bonus_pct: null
+    total_comp_low: 850000
+    total_comp_high: 1600000
+    currency: HKD
+  - region: ":singapore: Singapore (SGD)"
+    base_low: 100000
+    base_high: 175000
+    stock_low: 40000
+    stock_high: 100000
+    bonus_pct: null
+    total_comp_low: 140000
+    total_comp_high: 275000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a machine learning and AI engineering compensation framework spanning Hangzhou, Hong Kong, and Singapore markets."
+---
 ### ML/AI Engineer — LianLian Global Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes LianLian Global's Stablecoin-Powered Settlement pivot, translating the 26.8% revenue growth and Circle/USDC integration into a machine learning and AI engineering compensation framework spanning Hangzhou, Hong Kong, and Singapore markets.

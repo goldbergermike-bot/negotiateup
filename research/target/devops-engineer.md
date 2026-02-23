@@ -1,3 +1,30 @@
+---
+company: target
+company_display: Target
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 108000
+    base_high: 155000
+    stock_low: 24000
+    stock_high: 85000
+    bonus_pct: 10
+    total_comp_low: 125000
+    total_comp_high: 198000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target DevOps Engineer = Google SRE L3 = Amazon Systems Engineer = Walmart DevOps
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage"
+---
 ### DevOps Engineer | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage

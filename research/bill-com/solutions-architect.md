@@ -1,3 +1,53 @@
+---
+company: bill-com
+company_display: Bill.com
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Jose CA
+    base_low: 165000
+    base_high: 215000
+    stock_low: 100000
+    stock_high: 200000
+    bonus_low: 20000
+    bonus_high: 45000
+    total_comp_low: 285000
+    total_comp_high: 460000
+    currency: USD
+  - region: Houston TX
+    base_low: 145000
+    base_high: 190000
+    stock_low: 80000
+    stock_high: 160000
+    bonus_low: 16000
+    bonus_high: 36000
+    total_comp_low: 241000
+    total_comp_high: 386000
+    currency: USD
+  - region: Salt Lake City UT
+    base_low: 138000
+    base_high: 182000
+    stock_low: 72000
+    stock_high: 148000
+    bonus_low: 14000
+    bonus_high: 33000
+    total_comp_low: 224000
+    total_comp_high: 363000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "| BILL | Google | Meta | Stripe | PayPal | Block |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`NYSE: BILL` `Agentic AP` `Solutions Architect` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Enterprise Integration` `Technical Pre-Sales`"
+---
 ### Solutions Architect | Bill.com Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: BILL` `Agentic AP` `Solutions Architect` `B2B Fintech` `AP/AR Automation` `Revenue-Cycle` `Mid-Market` `Enterprise Integration` `Technical Pre-Sales`

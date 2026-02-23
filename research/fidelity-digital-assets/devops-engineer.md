@@ -1,3 +1,52 @@
+---
+company: fidelity-digital-assets
+company_display: Fidelity Digital Assets
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Boston (HQ)
+    base_low: 168000
+    base_high: 218000
+    stock_low: 148000
+    stock_high: 272000
+    bonus_low: 38000
+    bonus_high: 60000
+    total_comp_low: 222000
+    total_comp_high: 312000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 232000
+    stock_low: 162000
+    stock_high: 295000
+    bonus_low: 42000
+    bonus_high: 66000
+    total_comp_low: 242000
+    total_comp_high: 340000
+    currency: USD
+  - region: Remote US
+    base_low: 152000
+    base_high: 198000
+    stock_low: 135000
+    stock_high: 248000
+    bonus_low: 34000
+    bonus_high: 54000
+    total_comp_low: 198000
+    total_comp_high: 278000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "`#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#DevOps` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#InfrastructureReliability`"
+---
 ### DevOps Engineer | Fidelity Digital Assets Global Negotiation Guide
 
 **Negotiation DNA:** `#InstitutionalCrypto` `#StablecoinInfrastructure` `#FidelityDigitalDollar` `#DevOps` `#DigitalAssets` `#FIDD` `#$14T+ AUM` `#InstitutionalStablecoin` `#InfrastructureReliability`

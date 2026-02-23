@@ -1,3 +1,30 @@
+---
+company: target
+company_display: Target
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Minneapolis (HQ)
+    base_low: 115000
+    base_high: 165000
+    stock_low: 30000
+    stock_high: 98000
+    bonus_pct: 10
+    total_comp_low: 138000
+    total_comp_high: 218000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Target Solutions Architect = Google Solutions Architect L4 = Amazon Solutions Architect = Walmart Solutions Architect
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage"
+---
 ### Solutions Architect | Target Global Negotiation Guide
 
 **Negotiation DNA:** Growing Tech Investment | TGT RSUs (Stable Retail) | Mid-Tier Comp | Minneapolis Advantage

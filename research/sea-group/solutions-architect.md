@@ -1,3 +1,50 @@
+---
+company: sea-group
+company_display: Sea Group
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (HQ)
+    base_low: 122000
+    base_high: 195000
+    stock_low: 48000
+    stock_high: 140000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 290000
+    currency: USD
+  - region: Bay Area / Seattle (US)
+    base_low: 152000
+    base_high: 218000
+    stock_low: 62000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 205000
+    total_comp_high: 338000
+    currency: USD
+  - region: "Shenzhen (R&D)"
+    base_low: 400000
+    base_high: 700000
+    stock_low: 150000
+    stock_high: 400000
+    bonus_pct: 10
+    total_comp_low: 540000
+    total_comp_high: 1000000
+    currency: CNY
+level_mapping:
+  internal: null
+  raw: "Solutions Architect at Sea Group (L6-L7) = L5-L6 SA at Google Cloud, equivalent AWS SA"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$35B market cap with Shopee merchant integrations, Garena game partnerships, and SeaMoney financial partnerships driving B2B revenue + SA roles growing as enterprise offerings expand | Sea Group SAs enable platform adoption across SE Asia's largest tech ecosystem | **COMMERCE PLATFORM PREMIUM**"
+---
 ### Solutions Architect | Sea Group Global Negotiation Guide
 
 **Negotiation DNA:** $35B market cap with Shopee merchant integrations, Garena game partnerships, and SeaMoney financial partnerships driving B2B revenue + SA roles growing as enterprise offerings expand | Sea Group SAs enable platform adoption across SE Asia's largest tech ecosystem | **COMMERCE PLATFORM PREMIUM**

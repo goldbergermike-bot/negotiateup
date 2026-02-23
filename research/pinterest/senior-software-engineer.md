@@ -1,3 +1,48 @@
+---
+company: pinterest
+company_display: Pinterest
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 185000
+    base_high: 235000
+    stock_low: 200000
+    stock_high: 360000
+    bonus_pct: 10
+    total_comp_low: 240000
+    total_comp_high: 335000
+    currency: USD
+  - region: New York
+    base_low: 178000
+    base_high: 225000
+    stock_low: 190000
+    stock_high: 340000
+    bonus_pct: 10
+    total_comp_low: 230000
+    total_comp_high: 320000
+    currency: USD
+  - region: Remote US
+    base_low: 165000
+    base_high: 210000
+    stock_low: 170000
+    stock_high: 300000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 295000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Pinterest Senior Software Engineer (L5) = Google L5 = Meta E5 = Amazon SDE III = Apple ICT4 = Microsoft Senior SDE (63–64)
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Senior IC Premium | Standard 4-year vest with 1-year cliff"
+---
 ### Senior Software Engineer | Pinterest Global Negotiation Guide
 
 **Negotiation DNA:** Balanced Base + Equity + Bonus | Visual Discovery & Social Commerce | Shopping Assistant AI (Sept 2026) | Senior IC Premium | Standard 4-year vest with 1-year cliff

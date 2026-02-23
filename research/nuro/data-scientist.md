@@ -1,3 +1,39 @@
+---
+company: nuro
+company_display: Nuro
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Mountain View / Bay Area
+    base_low: 165000
+    base_high: 232000
+    stock_low: 108000
+    stock_high: 310000
+    bonus_pct: 10
+    total_comp_low: 232000
+    total_comp_high: 395000
+    currency: USD
+  - region: Remote US
+    base_low: 152000
+    base_high: 215000
+    stock_low: 92000
+    stock_high: 280000
+    bonus_pct: 10
+    total_comp_low: 210000
+    total_comp_high: 360000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Nuro DS (IC2-IC3) = Waymo DS = Aurora DS = Zoox DS = Google L3-L4 DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AUTONOMOUS VEHICLE ANALYTICS PREMIUM**"
+---
 ### Data Scientist | Nuro Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy (Private) | Autonomous Delivery Vehicles | $8.6B Valuation | Mountain View CA | **AUTONOMOUS VEHICLE ANALYTICS PREMIUM**

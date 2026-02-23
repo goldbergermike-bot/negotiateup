@@ -1,3 +1,48 @@
+---
+company: ppro
+company_display: Ppro
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: London (GBP)
+    base_low: 80000
+    base_high: 115000
+    stock_low: 28000
+    stock_high: 55000
+    bonus_pct: null
+    total_comp_low: 108000
+    total_comp_high: 170000
+    currency: GBP
+  - region: Munich (EUR)
+    base_low: 85000
+    base_high: 120000
+    stock_low: 26000
+    stock_high: 52000
+    bonus_pct: null
+    total_comp_low: 111000
+    total_comp_high: 172000
+    currency: EUR
+  - region: Singapore (SGD)
+    base_low: 108000
+    base_high: 150000
+    stock_low: 35000
+    stock_high: 68000
+    bonus_pct: null
+    total_comp_low: 143000
+    total_comp_high: 218000
+    currency: SGD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a technical program management compensation framework spanning London, Munich, and Singapore markets."
+---
 ### Technical Program Manager — PPRO Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes PPRO's LPM Expansion strategy, translating the Scalapay Southern Europe partnership into a technical program management compensation framework spanning London, Munich, and Singapore markets.

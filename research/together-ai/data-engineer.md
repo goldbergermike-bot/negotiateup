@@ -1,3 +1,49 @@
+---
+company: together-ai
+company_display: Together AI
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 148000
+    base_high: 198000
+    stock_low: 38000
+    stock_high: 62000
+    bonus_pct: 10
+    total_comp_low: 178000
+    total_comp_high: 248000
+    currency: USD
+  - region: Seattle
+    base_low: 141000
+    base_high: 188000
+    stock_low: 36000
+    stock_high: 59000
+    bonus_pct: 10
+    total_comp_low: 169000
+    total_comp_high: 236000
+    currency: USD
+  - region: Remote US
+    base_low: 133000
+    base_high: 178000
+    stock_low: 34000
+    stock_high: 55000
+    bonus_pct: 10
+    total_comp_low: 160000
+    total_comp_high: 223000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Together AI Data Engineer ≈ Google Data Engineer L4–L5 · Meta Data Engineer IC4 · Amazon DE III · Databricks Data Engineer · Snowflake Data Engineer · Anthropic Data Engineer
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +20% Kernel Innovation Premium"
+---
 ### Data Engineer | Together AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity + Base + Bonus | AI Inference & Optimization | 400% YoY Growth | $3.3B Valuation | +20% Kernel Innovation Premium

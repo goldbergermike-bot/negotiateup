@@ -1,3 +1,52 @@
+---
+company: western-union
+company_display: Western Union
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Denver CO
+    base_low: 115000
+    base_high: 145000
+    stock_low: 30000
+    stock_high: 50000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 155000
+    total_comp_high: 215000
+    currency: USD
+  - region: New York
+    base_low: 130000
+    base_high: 165000
+    stock_low: 35000
+    stock_high: 60000
+    bonus_low: 12000
+    bonus_high: 25000
+    total_comp_low: 177000
+    total_comp_high: 250000
+    currency: USD
+  - region: London
+    base_low: 75000
+    base_high: 95000
+    stock_low: 20000
+    stock_high: 35000
+    bonus_low: 8000
+    bonus_high: 15000
+    total_comp_low: 103000
+    total_comp_high: 145000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Western Union | Google | Meta | Stripe | JPMorgan | Wise |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`NYSE: WU` `USDPT` `Software Engineer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure`"
+---
 ### Software Engineer | Western Union Global Negotiation Guide
 
 **Negotiation DNA:** `NYSE: WU` `USDPT` `Software Engineer` `Blockchain-Native Rails` `Digital Transformation` `200+ Countries` `Next-Gen Infrastructure`

@@ -1,3 +1,50 @@
+---
+company: bank-of-america
+company_display: Bank of America
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Charlotte (HQ)
+    base_low: 140000
+    base_high: 195000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 190000
+    total_comp_high: 305000
+    currency: USD
+  - region: New York City
+    base_low: 155000
+    base_high: 215000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 210000
+    total_comp_high: 340000
+    currency: USD
+  - region: San Francisco
+    base_low: 150000
+    base_high: 210000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 18
+    total_comp_low: 205000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Product Manager at BofA (SVP/Director) = L5-L6 at Google, IC5-IC6 at Meta, Senior PM-Principal PM at Amazon, Director PM at Capital One, SVP/ED at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$340B market cap bank + PM drives digital banking products for 45M+ users + Charlotte HQ cost advantage + Strong bonus culture rewards product leadership | BofA PMs shape multi-billion dollar product lines | **PRODUCT LEADERSHIP PREMIUM**"
+---
 ### Product Manager | Bank of America Global Negotiation Guide
 
 **Negotiation DNA:** $340B market cap bank + PM drives digital banking products for 45M+ users + Charlotte HQ cost advantage + Strong bonus culture rewards product leadership | BofA PMs shape multi-billion dollar product lines | **PRODUCT LEADERSHIP PREMIUM**

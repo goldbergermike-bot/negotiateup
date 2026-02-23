@@ -1,3 +1,51 @@
+---
+company: charles-schwab
+company_display: Charles Schwab
+role: solutions-architect
+role_display: Solutions Architect
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: "Westlake, TX (HQ)"
+    base_low: 148000
+    base_high: 198000
+    stock_low: 38000
+    stock_high: 62000
+    bonus_low: 22000
+    bonus_high: 38000
+    total_comp_low: 208000
+    total_comp_high: 298000
+    currency: USD
+  - region: San Francisco
+    base_low: 163000
+    base_high: 218000
+    stock_low: 42000
+    stock_high: 68000
+    bonus_low: 24000
+    bonus_high: 42000
+    total_comp_low: 229000
+    total_comp_high: 328000
+    currency: USD
+  - region: Denver
+    base_low: 155000
+    base_high: 208000
+    stock_low: 40000
+    stock_high: 65000
+    bonus_low: 23000
+    bonus_high: 40000
+    total_comp_low: 218000
+    total_comp_high: 313000
+    currency: USD
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Enterprise Architecture` `Wealth Platform Integration` `Multi-System Design`"
+---
 ### Solutions Architect | Charles Schwab Global Negotiation Guide
 
 **Negotiation DNA:** `Sputnik Moment` `Guardians of Human-AI Wealth` `Advisor Protection` `Public Equity (NYSE: SCHW)` `$8.5T+ Client Assets` `Enterprise Architecture` `Wealth Platform Integration` `Multi-System Design`

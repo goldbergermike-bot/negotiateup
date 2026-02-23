@@ -1,3 +1,48 @@
+---
+company: stripe
+company_display: Stripe
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 198000
+    base_high: 248000
+    stock_low: 202000
+    stock_high: 358000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 398000
+    currency: USD
+  - region: New York
+    base_low: 198000
+    base_high: 248000
+    stock_low: 202000
+    stock_high: 358000
+    bonus_pct: 15
+    total_comp_low: 282000
+    total_comp_high: 398000
+    currency: USD
+  - region: Remote US
+    base_low: 185000
+    base_high: 232000
+    stock_low: 188000
+    stock_high: 335000
+    bonus_pct: 15
+    total_comp_low: 262000
+    total_comp_high: 372000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Stripe PM (PM2-PM3) = Adyen PM = Block/Square PM = PayPal/Braintree PM = Checkout.com PM = Google L4-L5 PM Payments
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | **TRUST ORCHESTRATOR PREMIUM**"
+---
 ### Product Manager | Stripe Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Agentic Commerce Suite | $100B+ Valuation | $1T+ Payment Volume | **TRUST ORCHESTRATOR PREMIUM**

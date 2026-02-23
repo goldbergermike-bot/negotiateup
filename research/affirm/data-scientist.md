@@ -1,3 +1,48 @@
+---
+company: affirm
+company_display: Affirm
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 222000
+    stock_low: 158000
+    stock_high: 278000
+    bonus_pct: 15
+    total_comp_low: 238000
+    total_comp_high: 335000
+    currency: USD
+  - region: New York
+    base_low: 182000
+    base_high: 228000
+    stock_low: 158000
+    stock_high: 278000
+    bonus_pct: 15
+    total_comp_low: 245000
+    total_comp_high: 342000
+    currency: USD
+  - region: Remote US
+    base_low: 168000
+    base_high: 212000
+    stock_low: 158000
+    stock_high: 278000
+    bonus_pct: 15
+    total_comp_low: 228000
+    total_comp_high: 322000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Affirm Data Scientist (DS2-DS3) = Klarna DS = Block DS = Stripe DS = Google L4-L5 DS = PayPal DS
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Bonus | Apple Pay In-Store Launch | Revenue Velocity Architect | 47% Transaction Growth | **BNPL COMMERCE PIONEER**"
+---
 ### Data Scientist | Affirm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Apple Pay In-Store Launch | Revenue Velocity Architect | 47% Transaction Growth | **BNPL COMMERCE PIONEER**

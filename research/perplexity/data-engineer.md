@@ -1,3 +1,50 @@
+---
+company: perplexity
+company_display: Perplexity
+role: data-engineer
+role_display: Data Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 175000
+    base_high: 218000
+    stock_low: 165000
+    stock_high: 290000
+    bonus_pct: null
+    total_comp_low: 216000
+    total_comp_high: 291000
+    currency: USD
+  - region: New York
+    base_low: 180000
+    base_high: 229000
+    stock_low: 165000
+    stock_high: 290000
+    bonus_pct: null
+    total_comp_low: 221000
+    total_comp_high: 301000
+    currency: USD
+  - region: Remote US
+    base_low: 158000
+    base_high: 196000
+    stock_low: 165000
+    stock_high: 290000
+    bonus_pct: null
+    total_comp_low: 199000
+    total_comp_high: 269000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Perplexity Data Engineer = Google Data Engineer L4-L5 = Databricks Data Engineer = Snowflake Data Engineer = Meta Data Engineer (IC4-IC5)
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift"
+---
 ### Data Engineer | Perplexity Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | Answer Engine Pioneer | AEO Shift

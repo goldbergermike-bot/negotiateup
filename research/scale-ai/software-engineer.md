@@ -1,3 +1,50 @@
+---
+company: scale-ai
+company_display: Scale AI
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 165000
+    base_high: 205000
+    stock_low: 150000
+    stock_high: 265000
+    bonus_pct: null
+    total_comp_low: 202000
+    total_comp_high: 271000
+    currency: USD
+  - region: New York
+    base_low: 170000
+    base_high: 215000
+    stock_low: 150000
+    stock_high: 265000
+    bonus_pct: null
+    total_comp_low: 208000
+    total_comp_high: 281000
+    currency: USD
+  - region: Washington DC
+    base_low: 173000
+    base_high: 221000
+    stock_low: 150000
+    stock_high: 265000
+    bonus_pct: null
+    total_comp_low: 211000
+    total_comp_high: 287000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Scale SWE = Google L3-L4 = Meta E3-E4 = Amazon SDE I-II = Apple ICT2-ICT3 = Microsoft SDE 59-61
+data_sources:
+  - Levels.fyi
+  - Blind
+  - Glassdoor
+negotiation_dna_summary: "Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity"
+---
 ### Software Engineer | Scale AI Global Negotiation Guide
 
 **Negotiation DNA:** Pre-IPO Equity-Heavy + Competitive Base | AI Data Infrastructure Leader | $2B Secondary Market Liquidity

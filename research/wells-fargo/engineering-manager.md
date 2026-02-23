@@ -1,3 +1,50 @@
+---
+company: wells-fargo
+company_display: Wells Fargo
+role: engineering-manager
+role_display: Engineering Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco (HQ)
+    base_low: 168000
+    base_high: 230000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 238000
+    total_comp_high: 380000
+    currency: USD
+  - region: New York City
+    base_low: 163000
+    base_high: 225000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 230000
+    total_comp_high: 370000
+    currency: USD
+  - region: Charlotte
+    base_low: 150000
+    base_high: 205000
+    stock_low: null
+    stock_high: null
+    bonus_pct: 20
+    total_comp_low: 208000
+    total_comp_high: 330000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Engineering Manager at WF (SVP/Director) = L6-L7 at Google, M1-M2 at Meta, SDM-Principal SDM at Amazon, Director at Capital One, SVP/MD at JPMorgan"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "$225B market cap bank + Rebuilding engineering culture from ground up + SF HQ tech market rates + EMs drive transformation and culture change | Wells Fargo pays premium for proven engineering leaders | **TRANSFORMATION LEADERSHIP PREMIUM**"
+---
 ### Engineering Manager | Wells Fargo Global Negotiation Guide
 
 **Negotiation DNA:** $225B market cap bank + Rebuilding engineering culture from ground up + SF HQ tech market rates + EMs drive transformation and culture change | Wells Fargo pays premium for proven engineering leaders | **TRANSFORMATION LEADERSHIP PREMIUM**

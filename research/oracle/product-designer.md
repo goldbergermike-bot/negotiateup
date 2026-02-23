@@ -1,3 +1,48 @@
+---
+company: oracle
+company_display: Oracle
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 130000
+    base_high: 162000
+    stock_low: 70000
+    stock_high: 128000
+    bonus_pct: null
+    total_comp_low: 148000
+    total_comp_high: 198000
+    currency: USD
+  - region: Seattle
+    base_low: 140000
+    base_high: 172000
+    stock_low: 78000
+    stock_high: 138000
+    bonus_pct: null
+    total_comp_low: 160000
+    total_comp_high: 212000
+    currency: USD
+  - region: Bangalore
+    base_low: 2200000
+    base_high: 3500000
+    stock_low: 800000
+    stock_high: 1500000
+    bonus_pct: null
+    total_comp_low: 2600000
+    total_comp_high: 4000000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Oracle IC3-4 Designer = Google L4 UX = AWS Senior UX Designer
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + Sign-On Bonus Culture | OCI \"Stargate\" AI Infrastructure Pivot | $500B JV Premium"
+---
 ### Product Designer | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + Sign-On Bonus Culture | OCI "Stargate" AI Infrastructure Pivot | $500B JV Premium

@@ -1,3 +1,49 @@
+---
+company: qualcomm
+company_display: Qualcomm
+role: product-manager
+role_display: Product Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Diego
+    base_low: 148000
+    base_high: 192000
+    stock_low: 48000
+    stock_high: 78000
+    bonus_pct: 12
+    total_comp_low: 215000
+    total_comp_high: 298000
+    currency: USD
+  - region: Santa Clara
+    base_low: 160000
+    base_high: 208000
+    stock_low: 55000
+    stock_high: 85000
+    bonus_pct: 12
+    total_comp_low: 235000
+    total_comp_high: 325000
+    currency: USD
+  - region: Remote US
+    base_low: 135000
+    base_high: 175000
+    stock_low: 42000
+    stock_high: 70000
+    bonus_pct: 12
+    total_comp_low: 195000
+    total_comp_high: 270000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Qualcomm PM (P3–P4) = Google L5 PM = Meta PM (IC5) = Apple PM = Microsoft PM 62–63 = Amazon Sr. PMT"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +10% AI/Agentic Premium"
+---
 ### Product Manager | Qualcomm Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Mobile & Edge AI Silicon | Snapdragon 8 Gen 5 AI Engine | +10% AI/Agentic Premium

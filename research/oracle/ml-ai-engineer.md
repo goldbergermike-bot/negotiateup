@@ -1,3 +1,48 @@
+---
+company: oracle
+company_display: Oracle
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Austin
+    base_low: 175000
+    base_high: 218000
+    stock_low: 165000
+    stock_high: 280000
+    bonus_pct: null
+    total_comp_low: 228000
+    total_comp_high: 308000
+    currency: USD
+  - region: Seattle
+    base_low: 185000
+    base_high: 228000
+    stock_low: 178000
+    stock_high: 300000
+    bonus_pct: null
+    total_comp_low: 242000
+    total_comp_high: 325000
+    currency: USD
+  - region: Bangalore
+    base_low: 3800000
+    base_high: 5800000
+    stock_low: 1800000
+    stock_high: 3200000
+    bonus_pct: null
+    total_comp_low: 4800000
+    total_comp_high: 7200000
+    currency: INR
+level_mapping:
+  internal: null
+  raw: Oracle Senior ML Eng = Google L4 ML = AWS Senior ML Eng = Meta E4 ML
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Base-Heavy + **OUTSIZE SIGN-ON** | OCI \"Stargate\" AI Infrastructure Pivot | **+15–25% AGENTIC AI PREMIUM** | $500B JV Premium"
+---
 ### ML/AI Engineer | Oracle Global Negotiation Guide
 
 **Negotiation DNA:** Base-Heavy + **OUTSIZE SIGN-ON** | OCI "Stargate" AI Infrastructure Pivot | **+15–25% AGENTIC AI PREMIUM** | $500B JV Premium

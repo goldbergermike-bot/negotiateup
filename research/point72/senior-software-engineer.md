@@ -1,3 +1,50 @@
+---
+company: point72
+company_display: Point72
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Stamford CT (HQ)
+    base_low: 225000
+    base_high: 300000
+    stock_low: null
+    stock_high: null
+    bonus_low: 210000
+    bonus_high: 335000
+    total_comp_low: 435000
+    total_comp_high: 635000
+    currency: USD
+  - region: New York
+    base_low: 235000
+    base_high: 310000
+    stock_low: null
+    stock_high: null
+    bonus_low: 220000
+    bonus_high: 345000
+    total_comp_low: 455000
+    total_comp_high: 655000
+    currency: USD
+  - region: London (GBP/USD)
+    base_low: null
+    base_high: null
+    stock_low: null
+    stock_high: null
+    bonus_pct: null
+    total_comp_low: 385000
+    total_comp_high: 570000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`IAC Team` `Researcher Premium` `$466K+ L3` `Systematic Trading Platform` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`"
+---
 ### Senior Software Engineer | Point72 Global Negotiation Guide
 
 **Negotiation DNA:** `IAC Team` `Researcher Premium` `$466K+ L3` `Systematic Trading Platform` `All-Cash Comp` `Steve Cohen $35B+ AUM` `No Public Equity` `Base + Bonus`

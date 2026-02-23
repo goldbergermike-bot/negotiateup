@@ -1,3 +1,52 @@
+---
+company: adyen
+company_display: Adyen
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Amsterdam
+    base_low: 95000
+    base_high: 135000
+    stock_low: 60000
+    stock_high: 120000
+    bonus_low: 12000
+    bonus_high: 22000
+    total_comp_low: 167000
+    total_comp_high: 277000
+    currency: EUR
+  - region: San Francisco
+    base_low: 155000
+    base_high: 215000
+    stock_low: 90000
+    stock_high: 180000
+    bonus_low: 18000
+    bonus_high: 32000
+    total_comp_low: 263000
+    total_comp_high: 427000
+    currency: USD
+  - region: London
+    base_low: 85000
+    base_high: 122000
+    stock_low: 52000
+    stock_high: 105000
+    bonus_low: 10000
+    bonus_high: 20000
+    total_comp_low: 147000
+    total_comp_high: 247000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "| Adyen | Google | Meta | Stripe | Visa | Mastercard |"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "`AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Data Science Track`"
+---
 ### Data Scientist | Adyen Global Negotiation Guide
 
 **Negotiation DNA:** `AMS: ADYEN` `AI Checkout` `Autonomous Transaction` `Single-Platform Payments` `Formula Culture` `RSU/4yr` `Enterprise Fintech` `Data Science Track`

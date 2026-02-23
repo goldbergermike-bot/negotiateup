@@ -1,3 +1,48 @@
+---
+company: nium
+company_display: Nium
+role: data-scientist
+role_display: Data Scientist
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Singapore (SGD)
+    base_low: 110000
+    base_high: 175000
+    stock_low: 60000
+    stock_high: 130000
+    bonus_pct: null
+    total_comp_low: 170000
+    total_comp_high: 305000
+    currency: SGD
+  - region: San Francisco (USD)
+    base_low: 160000
+    base_high: 230000
+    stock_low: 80000
+    stock_high: 180000
+    bonus_pct: null
+    total_comp_low: 240000
+    total_comp_high: 410000
+    currency: USD
+  - region: London (GBP)
+    base_low: 70000
+    base_high: 115000
+    stock_low: 40000
+    stock_high: 80000
+    bonus_pct: null
+    total_comp_low: 110000
+    total_comp_high: 195000
+    currency: GBP
+level_mapping:
+  internal: null
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a data science compensation framework spanning Singapore, San Francisco, and London markets. As a Data Scientist at Nium, you extract signal from the firehose of cross-border transaction data — building fraud detection models, payment routing optimization engines, pricing algorithms, and the analytical foundations that transform raw transaction flows into strategic intelligence."
+---
 ### Data Scientist — Nium Salary Negotiation Guide
 
 **Negotiation DNA**: This guide decodes Nium's Step Change infrastructure mandate, translating the Feb 12, 2026 C-Suite expansion into a data science compensation framework spanning Singapore, San Francisco, and London markets. As a Data Scientist at Nium, you extract signal from the firehose of cross-border transaction data — building fraud detection models, payment routing optimization engines, pricing algorithms, and the analytical foundations that transform raw transaction flows into strategic intelligence.

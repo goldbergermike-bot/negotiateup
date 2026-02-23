@@ -1,3 +1,50 @@
+---
+company: weights-and-biases
+company_display: "Weights & Biases"
+role: technical-program-manager
+role_display: Technical Program Manager
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 170000
+    base_high: 220000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 228000
+    total_comp_high: 310000
+    currency: USD
+  - region: New York
+    base_low: 165000
+    base_high: 215000
+    stock_low: 120000
+    stock_high: 220000
+    bonus_pct: 10
+    total_comp_low: 223000
+    total_comp_high: 303000
+    currency: USD
+  - region: London
+    base_low: 129000
+    base_high: 167000
+    stock_low: 90000
+    stock_high: 165000
+    bonus_pct: 10
+    total_comp_low: 173000
+    total_comp_high: 235000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: "W&B TPM = Google L5 TPM = Meta TPM IC5 = Databricks TPM = Datadog TPM = Stripe TPM"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "Competitive Base + Growth-Stage Equity | MLOps Platform Leader | 2026 Focus: Multi-Product Launch Orchestration"
+---
 ### Technical Program Manager | Weights & Biases Global Negotiation Guide
 
 **Negotiation DNA:** Competitive Base + Growth-Stage Equity | MLOps Platform Leader | 2026 Focus: Multi-Product Launch Orchestration

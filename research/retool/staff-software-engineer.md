@@ -1,3 +1,48 @@
+---
+company: retool
+company_display: Retool
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 218000
+    base_high: 275000
+    stock_low: 300000
+    stock_high: 480000
+    bonus_pct: 10
+    total_comp_low: 365000
+    total_comp_high: 520000
+    currency: USD
+  - region: New York
+    base_low: 212000
+    base_high: 268000
+    stock_low: 292000
+    stock_high: 468000
+    bonus_pct: 10
+    total_comp_low: 355000
+    total_comp_high: 508000
+    currency: USD
+  - region: London
+    base_low: 145000
+    base_high: 182000
+    stock_low: 198000
+    stock_high: 318000
+    bonus_pct: 10
+    total_comp_low: 242000
+    total_comp_high: 342000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Retool Staff SWE (L5-L6) = Google SWE L6-L7 = Meta SWE E6-E7 = Vercel Staff = Supabase Staff
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI Platform Architecture Leadership | 30K+ Companies | **RETOOL AI PREMIUM**"
+---
 ### Staff Software Engineer | Retool Global Negotiation Guide
 
 **Negotiation DNA:** RSU-Heavy (Private, ~$3.2B Valuation) + Bonus | AI Platform Architecture Leadership | 30K+ Companies | **RETOOL AI PREMIUM**

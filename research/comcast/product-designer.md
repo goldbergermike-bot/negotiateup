@@ -1,3 +1,50 @@
+---
+company: comcast
+company_display: Comcast
+role: product-designer
+role_display: Product Designer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Philadelphia / NYC
+    base_low: 120000
+    base_high: 175000
+    stock_low: 30000
+    stock_high: 110000
+    bonus_pct: 10
+    total_comp_low: 145000
+    total_comp_high: 235000
+    currency: USD
+  - region: Denver / Seattle
+    base_low: 115000
+    base_high: 170000
+    stock_low: 25000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 135000
+    total_comp_high: 220000
+    currency: USD
+  - region: London (UK)
+    base_low: 90000
+    base_high: 130000
+    stock_low: 20000
+    stock_high: 75000
+    bonus_pct: 10
+    total_comp_low: 110000
+    total_comp_high: 175000
+    currency: GBP
+level_mapping:
+  internal: null
+  raw: Comcast Product Designer (D3-D5) = Google L3-L5 UX Designer = Meta E3-E5 Product Designer = Amazon UX Designer II-III = Apple Design ICT2-ICT4
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - LinkedIn
+negotiation_dna_summary: "$170B Media-Tech Conglomerate | Consumer Experience at Scale | Xfinity + Peacock UX"
+---
 ### Product Designer | Comcast Global Negotiation Guide
 
 **Negotiation DNA:** $170B Media-Tech Conglomerate | Consumer Experience at Scale | Xfinity + Peacock UX

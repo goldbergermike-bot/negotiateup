@@ -1,3 +1,48 @@
+---
+company: ramp
+company_display: Ramp
+role: staff-software-engineer
+role_display: Staff Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: New York
+    base_low: 260000
+    base_high: 318000
+    stock_low: 288000
+    stock_high: 488000
+    bonus_pct: 15
+    total_comp_low: 388000
+    total_comp_high: 518000
+    currency: USD
+  - region: San Francisco
+    base_low: 258000
+    base_high: 315000
+    stock_low: 282000
+    stock_high: 478000
+    bonus_pct: 15
+    total_comp_low: 382000
+    total_comp_high: 508000
+    currency: USD
+  - region: Remote US
+    base_low: 252000
+    base_high: 308000
+    stock_low: 278000
+    stock_high: 465000
+    bonus_pct: 15
+    total_comp_low: 368000
+    total_comp_high: 498000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: Ramp Staff SWE (IC5) = Brex Staff SWE = Google L6 = Meta E6 = Stripe L4 = Amazon L7 = Microsoft 67
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOU DEFINE THE TECHNICAL STRATEGY THAT SCALES SAVINGS TO $100B+ IN SPEND**"
+---
 ### Staff Software Engineer | Ramp Global Negotiation Guide
 
 **Negotiation DNA:** Fastest-Growing Corporate Card | $13B+ Valuation | Ramp Rate Price Intelligence | ROI-Positive Platform | **YOU DEFINE THE TECHNICAL STRATEGY THAT SCALES SAVINGS TO $100B+ IN SPEND**

@@ -1,3 +1,40 @@
+---
+company: thoughtspot
+company_display: Thoughtspot
+role: software-engineer
+role_display: Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: medium
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Sunnyvale HQ
+    base_low: 145000
+    base_high: 200000
+    stock_low: 60000
+    stock_high: 180000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 300000
+    currency: USD
+  - region: Remote US
+    base_low: 130000
+    base_high: 180000
+    stock_low: 50000
+    stock_high: 160000
+    bonus_pct: 10
+    total_comp_low: 165000
+    total_comp_high: 275000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: ThoughtSpot SWE = Tableau SWE = Google L3 = Salesforce MTS
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Private Equity-Backed | AI-Powered Analytics Pioneer | Liquidity Risk Premium Required"
+---
 ### Software Engineer | ThoughtSpot Global Negotiation Guide
 
 **Negotiation DNA:** Private Equity-Backed | AI-Powered Analytics Pioneer | Liquidity Risk Premium Required

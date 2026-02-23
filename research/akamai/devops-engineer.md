@@ -1,3 +1,49 @@
+---
+company: akamai
+company_display: Akamai
+role: devops-engineer
+role_display: DevOps Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: Cambridge (MA)
+    base_low: 138000
+    base_high: 165000
+    stock_low: 50000
+    stock_high: 95000
+    bonus_pct: 8
+    total_comp_low: 180000
+    total_comp_high: 238000
+    currency: USD
+  - region: San Francisco
+    base_low: 148000
+    base_high: 178000
+    stock_low: 55000
+    stock_high: 105000
+    bonus_pct: 8
+    total_comp_low: 195000
+    total_comp_high: 255000
+    currency: USD
+  - region: Remote US
+    base_low: 128000
+    base_high: 155000
+    stock_low: 45000
+    stock_high: 85000
+    bonus_pct: 8
+    total_comp_low: 172000
+    total_comp_high: 225000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "- Akamai DevOps Engineer = Google SRE L4 / Amazon Systems Engineer (L5) / Meta Production Engineer (IC4)"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+negotiation_dna_summary: "Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Infrastructure Premium"
+---
 ### DevOps Engineer | Akamai Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Bonus | Edge & API Security | 150B API Attacks | Agentic Commerce | Infrastructure Premium

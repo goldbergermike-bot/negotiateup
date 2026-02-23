@@ -1,3 +1,48 @@
+---
+company: uber
+company_display: Uber
+role: ml-ai-engineer
+role_display: ML/AI Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: San Francisco
+    base_low: 218000
+    base_high: 272000
+    stock_low: 262000
+    stock_high: 458000
+    bonus_pct: 10
+    total_comp_low: 284000
+    total_comp_high: 388000
+    currency: USD
+  - region: New York
+    base_low: 225000
+    base_high: 282000
+    stock_low: 262000
+    stock_high: 458000
+    bonus_pct: 10
+    total_comp_low: 292000
+    total_comp_high: 398000
+    currency: USD
+  - region: Amsterdam
+    base_low: 92000
+    base_high: 118000
+    stock_low: 115000
+    stock_high: 198000
+    bonus_pct: 10
+    total_comp_low: 122000
+    total_comp_high: 168000
+    currency: EUR
+level_mapping:
+  internal: null
+  raw: Uber ML/AI Eng = Google L4-L5 ML = Lyft ML Eng = DoorDash ML Eng = Meta ML E4-E5
+data_sources:
+  - Levels.fyi
+negotiation_dna_summary: "Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026) | **+15–25% AI PREMIUM**"
+---
 ### ML/AI Engineer | Uber Global Negotiation Guide
 
 **Negotiation DNA:** Equity-Heavy + Performance Bonus | Mobility & Delivery Platform | Robotaxi Expansion (London/Munich 2026) | **+15–25% AI PREMIUM**

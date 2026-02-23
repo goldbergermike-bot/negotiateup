@@ -1,3 +1,68 @@
+---
+company: zoom
+company_display: Zoom
+role: senior-software-engineer
+role_display: Senior Software Engineer
+role_type: standard
+last_updated: 2026-02-23
+data_quality: high
+salary_data_quarter: 2025-Q4
+next_review_due: 2026-05-23
+compensation:
+  - region: US (San Jose / Bay Area)
+    base_low: 185000
+    base_high: 260000
+    stock_low: 105000
+    stock_high: 265000
+    bonus_pct: 12
+    total_comp_low: 250000
+    total_comp_high: 395000
+    currency: USD
+  - region: US (Other Markets)
+    base_low: 162000
+    base_high: 230000
+    stock_low: 80000
+    stock_high: 210000
+    bonus_pct: 10
+    total_comp_low: 215000
+    total_comp_high: 340000
+    currency: USD
+  - region: EMEA (London/Amsterdam)
+    base_low: 88000
+    base_high: 132000
+    stock_low: 42000
+    stock_high: 100000
+    bonus_pct: 10
+    total_comp_low: 122000
+    total_comp_high: 198000
+    currency: GBP
+  - region: India (Bangalore)
+    base_low: 3000000
+    base_high: 5500000
+    stock_low: 1600000
+    stock_high: 4200000
+    bonus_pct: 10
+    total_comp_low: 4200000
+    total_comp_high: 7800000
+    currency: INR
+  - region: APAC (Singapore/Sydney)
+    base_low: 138000
+    base_high: 205000
+    stock_low: 58000
+    stock_high: 135000
+    bonus_pct: 10
+    total_comp_low: 180000
+    total_comp_high: 285000
+    currency: USD
+level_mapping:
+  internal: null
+  raw: "Zoom IC3 ~ Google L5 | Microsoft 63 | Meta E5 | Apple ICT4 | Salesforce LMTS/PMTS"
+data_sources:
+  - Levels.fyi
+  - Glassdoor
+  - Blind
+negotiation_dna_summary: "UCaaS platform senior builder | Real-time communication systems & AI integration | **SENIOR IC PREMIUM**"
+---
 ### Senior Software Engineer | Zoom Global Negotiation Guide
 
 **Negotiation DNA:** UCaaS platform senior builder | Real-time communication systems & AI integration | **SENIOR IC PREMIUM**
