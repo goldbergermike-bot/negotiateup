@@ -62,6 +62,7 @@ export default function Pricing() {
               'Company negotiation intel',
               'Day-by-day negotiation timeline',
               '10+ page personalized PDF',
+              'Full salary database access (4,400+ guides)',
             ].map((item, i) => (
               <li key={i} className="flex items-center gap-2.5 text-sm text-gray-600 pb-2.5 border-b border-paper">
                 <span className="text-accent font-bold text-lg">✓</span> {item}
@@ -97,6 +98,7 @@ export default function Pricing() {
               'Objection handling for every pushback',
               'Timing & approach strategy',
               '10+ page personalized PDF',
+              'Full salary database access (4,400+ guides)',
             ].map((item, i) => (
               <li key={i} className="flex items-center gap-2.5 text-sm text-gray-600 pb-2.5 border-b border-paper">
                 <span className="text-blue font-bold text-lg">✓</span> {item}

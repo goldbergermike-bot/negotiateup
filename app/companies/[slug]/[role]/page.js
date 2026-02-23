@@ -1,6 +1,7 @@
 import { getAllCompanyRolePairs, getRoleData, getCompanyRoles, getResearchCompanySummary } from '../../../../lib/research';
 import Nav from '../../../../components/Nav';
 import Footer from '../../../../components/Footer';
+import PaywallGate from '../../../../components/PaywallGate';
 import Link from 'next/link';
 
 export async function generateStaticParams() {
@@ -110,99 +111,13 @@ export default async function RolePage({ params: paramsPromise }) {
         </div>
       </section>
 
-      {/* Salary Table */}
-      {data.salaryTable.length > 0 && (
-        <section className="py-12 px-6">
-          <div className="max-w-[800px] mx-auto">
-            <h2 className="font-serif text-2xl mb-6">Compensation by Region</h2>
-            <div className="overflow-x-auto">
-              <table className="w-full text-sm border-collapse">
-                <thead>
-                  <tr className="border-b-2 border-[var(--border)]">
-                    <th className="text-left py-3 pr-4 font-semibold">Region</th>
-                    <th className="text-left py-3 pr-4 font-semibold">Base Salary</th>
-                    <th className="text-left py-3 pr-4 font-semibold">Stock (RSU/4yr)</th>
-                    <th className="text-left py-3 pr-4 font-semibold">Bonus</th>
-                    {data.salaryTable[0]?.totalComp && (
-                      <th className="text-left py-3 font-semibold">Total Comp</th>
-                    )}
-                  </tr>
-                </thead>
-                <tbody>
-                  {data.salaryTable.map((row, i) => (
-                    <tr key={i} className="border-b border-[var(--border)]">
-                      <td className="py-3 pr-4 font-medium">{row.region}</td>
-                      <td className="py-3 pr-4 text-muted">{row.base}</td>
-                      <td className="py-3 pr-4 text-muted">{row.stock}</td>
-                      <td className="py-3 pr-4 text-muted">{row.bonus}</td>
-                      {row.totalComp && (
-                        <td className="py-3 font-semibold text-accent">{row.totalComp}</td>
-                      )}
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-          </div>
-        </section>
-      )}
-
-      {/* Negotiation DNA */}
-      {data.dnaBody && (
-        <section className="py-12 px-6 bg-white" style={{ borderTop: '1px solid var(--border)', borderBottom: '1px solid var(--border)' }}>
-          <div className="max-w-[800px] mx-auto">
-            <h2 className="font-serif text-2xl mb-4">Negotiation Intelligence</h2>
-            <div className="text-muted leading-relaxed space-y-4">
-              {data.dnaBody.split('\n\n').map((p, i) => (
-                <p key={i}>{p}</p>
-              ))}
-            </div>
-            {data.levelMapping && (
-              <div className="mt-6 bg-paper rounded-xl p-5 border border-[var(--border)]">
-                <p className="font-semibold text-sm text-ink mb-1">Level Mapping</p>
-                <p className="text-muted text-sm">{data.levelMapping}</p>
-              </div>
-            )}
-          </div>
-        </section>
-      )}
-
-      {/* Negotiation Levers */}
-      {data.levers.length > 0 && (
-        <section className="py-12 px-6">
-          <div className="max-w-[800px] mx-auto">
-            <h2 className="font-serif text-2xl mb-2">Negotiation Levers</h2>
-            <p className="text-muted mb-6">Use these specific talking points when negotiating your offer.</p>
-            <div className="space-y-4">
-              {data.levers.map((lever, i) => (
-                <div key={i} className="bg-white rounded-xl p-5 border border-[var(--border)]">
-                  <div className="flex items-start gap-4">
-                    <span className="flex-shrink-0 w-8 h-8 rounded-full bg-accent text-white flex items-center justify-center font-bold text-sm">
-                      {i + 1}
-                    </span>
-                    <div>
-                      <p className="font-semibold text-sm mb-2">{lever.name}</p>
-                      <p className="text-sm text-muted leading-relaxed italic">&ldquo;{lever.script}&rdquo;</p>
-                    </div>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
-
-      {/* Strategy */}
-      {data.strategy && (
-        <section className="py-12 px-6 bg-white" style={{ borderTop: '1px solid var(--border)', borderBottom: '1px solid var(--border)' }}>
-          <div className="max-w-[800px] mx-auto">
-            <h2 className="font-serif text-2xl mb-4">Negotiate Up Strategy</h2>
-            <blockquote className="bg-accent-light rounded-2xl p-6 text-sm leading-relaxed italic text-gray-700">
-              &ldquo;{data.strategy}&rdquo;
-            </blockquote>
-          </div>
-        </section>
-      )}
+      {/* Gated content — salary table, negotiation intel, levers, strategy */}
+      <PaywallGate
+        slug={params.slug}
+        role={params.role}
+        companyName={companyName}
+        roleName={data.roleName}
+      />
 
       {/* CTA */}
       <section className="py-16 px-6 bg-accent text-white text-center">

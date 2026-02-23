@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, Suspense } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Nav from '../../components/Nav';
 
@@ -28,6 +28,17 @@ function NewOfferContent() {
   const [loading, setLoading] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [email, setEmail] = useState('');
+
+  // Activate research database access after payment
+  useEffect(() => {
+    if (sessionId) {
+      fetch('/api/activate-access', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ sessionId }),
+      }).catch(() => {});
+    }
+  }, [sessionId]);
 
   // Form state
   const [form, setForm] = useState({
