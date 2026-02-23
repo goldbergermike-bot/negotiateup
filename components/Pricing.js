@@ -2,11 +2,12 @@
 
 export default function Pricing() {
   const handleCheckout = async (type) => {
+    if (typeof gtag === 'function') gtag('event', 'begin_checkout', { type });
     try {
       const res = await fetch('/api/create-checkout', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ type }), // 'offer' or 'raise'
+        body: JSON.stringify({ type }),
       });
       const data = await res.json();
       if (data.url) {

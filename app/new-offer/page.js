@@ -11,6 +11,7 @@ function NewOfferContent() {
   const [loading, setLoading] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [email, setEmail] = useState('');
+  const [formError, setFormError] = useState('');
 
   // Form state
   const [form, setForm] = useState({
@@ -43,6 +44,7 @@ function NewOfferContent() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
+    setFormError('');
 
     try {
       const formData = new FormData();
@@ -61,12 +63,13 @@ function NewOfferContent() {
       if (res.ok) {
         setEmail(form.email);
         setSubmitted(true);
+        if (typeof gtag === 'function') gtag('event', 'playbook_generated', { type: 'offer' });
       } else {
-        const data = await res.json();
-        alert(data.error || 'Something went wrong. Please try again.');
+        const data = await res.json().catch(() => ({}));
+        setFormError(data.error || 'Something went wrong generating your playbook. Please try again. If the problem persists, email support@salaryprep.com.');
       }
     } catch (err) {
-      alert('Something went wrong. Please try again.');
+      setFormError('Something went wrong. Please check your internet connection and try again.');
     } finally {
       setLoading(false);
     }
@@ -341,14 +344,31 @@ function NewOfferContent() {
             </div>
           </div>
 
+          {/* Error Display */}
+          {formError && (
+            <div className="bg-red-50 border border-red-200 rounded-xl p-4 text-sm text-red-700">
+              {formError}
+            </div>
+          )}
+
           {/* Submit */}
           <button
             type="submit"
             disabled={loading}
             className="w-full bg-accent text-white py-4 rounded-xl font-semibold text-lg hover:bg-accent-glow transition-all hover:-translate-y-0.5 shadow-lg shadow-accent/25 disabled:opacity-60 disabled:cursor-not-allowed"
           >
-            {loading ? 'Generating Your Playbook...' : 'Generate My Playbook →'}
+            {loading ? (
+              <span className="flex items-center justify-center gap-3">
+                <span className="w-5 h-5 border-2 border-white/30 border-t-white rounded-full animate-spin" />
+                Generating Your Playbook (1-2 minutes)...
+              </span>
+            ) : 'Generate My Playbook →'}
           </button>
+          {loading && (
+            <div className="bg-accent-light rounded-xl p-4 text-center text-sm text-accent">
+              We're analyzing your data, researching your company, and building your personalized playbook. This typically takes 1-2 minutes. Please don't close this page.
+            </div>
+          )}
           <p className="text-center text-muted text-xs">Your data is encrypted and never shared.</p>
         </form>
       </div>

@@ -5,11 +5,26 @@ import { useState } from 'react';
 export default function EmailCapture() {
   const [email, setEmail] = useState('');
   const [submitted, setSubmitted] = useState(false);
+  const [error, setError] = useState('');
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    // For now, just show success. Later you can connect to Resend audience or Mailchimp.
-    setSubmitted(true);
+    setError('');
+    try {
+      const res = await fetch('/api/capture-email', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, source: 'landing' }),
+      });
+      if (res.ok) {
+        setSubmitted(true);
+        if (typeof gtag === 'function') gtag('event', 'email_capture', { source: 'landing' });
+      } else {
+        setError('Something went wrong. Please try again.');
+      }
+    } catch {
+      setError('Something went wrong. Please try again.');
+    }
   };
 
   return (
@@ -43,7 +58,8 @@ export default function EmailCapture() {
                 Send Tips →
               </button>
             </form>
-            <p className="text-xs text-muted mt-3">No spam. Unsubscribe anytime.</p>
+            {error && <p className="text-xs text-red-500 mt-3">{error}</p>}
+            {!error && <p className="text-xs text-muted mt-3">No spam. Unsubscribe anytime.</p>}
           </>
         )}
       </div>

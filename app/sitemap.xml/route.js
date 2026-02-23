@@ -71,16 +71,10 @@ export async function GET() {
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>${baseUrl}/new-offer</loc>
+    <loc>${baseUrl}/report</loc>
     <lastmod>${now}</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>${baseUrl}/raise</loc>
-    <lastmod>${now}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.9</priority>
   </url>
 </urlset>`;
 

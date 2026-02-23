@@ -60,7 +60,7 @@ export default function CalculatorPage() {
   const update = (key, val) => setData({ ...data, [key]: val });
 
   const result = estimateCounter(data);
-  const canSubmit = data.offered && data.experience && data.competing && data.currently_employed;
+  const canSubmit = data.offered && parseInt(data.offered) >= 10000 && data.experience && data.competing && data.currently_employed;
 
   if (showResults && result) {
     return (
@@ -179,11 +179,22 @@ export default function CalculatorPage() {
                 <span className="absolute left-4 top-1/2 -translate-y-1/2 text-muted">$</span>
                 <input
                   type="number"
+                  min="10000"
+                  max="10000000"
+                  step="1000"
                   value={data.offered}
-                  onChange={(e) => update('offered', e.target.value)}
+                  onChange={(e) => {
+                    const val = e.target.value;
+                    if (val === '' || (parseInt(val) >= 0 && parseInt(val) <= 10000000)) {
+                      update('offered', val);
+                    }
+                  }}
                   placeholder="e.g. 120000"
                   className="w-full pl-9 pr-4 py-3.5 rounded-xl border border-border text-base focus:outline-none focus:ring-2 focus:ring-accent/30 focus:border-accent"
                 />
+                {data.offered && parseInt(data.offered) < 10000 && (
+                  <p className="text-xs text-red-500 mt-2">Please enter an annual salary (e.g., 120000)</p>
+                )}
               </div>
             </div>
 
@@ -271,7 +282,12 @@ export default function CalculatorPage() {
             </div>
 
             <button
-              onClick={() => canSubmit && setShowResults(true)}
+              onClick={() => {
+                if (canSubmit) {
+                  setShowResults(true);
+                  if (typeof gtag === 'function') gtag('event', 'calculator_complete', { offered: parseInt(data.offered) });
+                }
+              }}
               disabled={!canSubmit}
               className={`w-full py-4 rounded-xl font-semibold text-lg transition-all ${
                 canSubmit

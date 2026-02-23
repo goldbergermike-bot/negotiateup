@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Nav from '../../components/Nav';
 
 const steps = [
@@ -148,6 +148,13 @@ export default function QuizPage() {
   const isUnderpaid = salary < range.median;
   const gap = range.median - salary;
 
+  // Fire GA4 event on results view
+  useEffect(() => {
+    if (showResults && typeof gtag === 'function') {
+      gtag('event', 'quiz_complete', { percentile: Math.round(percentile), underpaid: isUnderpaid });
+    }
+  }, [showResults]);
+
   if (showResults) {
     return (
       <>
@@ -252,7 +259,18 @@ export default function QuizPage() {
               <div className="bg-white rounded-2xl border border-border p-8 text-center">
                 <h3 className="font-serif text-xl mb-2">Get free negotiation tips</h3>
                 <p className="text-muted text-sm mb-4">We'll send you strategies to close the gap — plus an exclusive discount.</p>
-                <form onSubmit={(e) => { e.preventDefault(); setEmailSubmitted(true); }} className="flex gap-3 max-w-[400px] mx-auto">
+                <form onSubmit={async (e) => {
+                  e.preventDefault();
+                  try {
+                    await fetch('/api/capture-email', {
+                      method: 'POST',
+                      headers: { 'Content-Type': 'application/json' },
+                      body: JSON.stringify({ email, source: 'quiz' }),
+                    });
+                    if (typeof gtag === 'function') gtag('event', 'email_capture', { source: 'quiz' });
+                  } catch {}
+                  setEmailSubmitted(true);
+                }} className="flex gap-3 max-w-[400px] mx-auto">
                   <input
                     type="email"
                     required
@@ -317,13 +335,26 @@ export default function QuizPage() {
                 <span className="absolute left-5 top-1/2 -translate-y-1/2 text-muted text-lg">$</span>
                 <input
                   type="number"
+                  min="10000"
+                  max="10000000"
+                  step="1000"
                   value={currentAnswer}
-                  onChange={(e) => handleAnswer(e.target.value)}
+                  onChange={(e) => {
+                    const val = e.target.value;
+                    if (val === '' || (parseInt(val) >= 0 && parseInt(val) <= 10000000)) {
+                      handleAnswer(val);
+                    }
+                  }}
                   placeholder={step.placeholder}
                   className="w-full pl-10 pr-5 py-4 rounded-xl border border-border text-lg focus:outline-none focus:ring-2 focus:ring-accent/30 focus:border-accent"
-                  onKeyDown={(e) => e.key === 'Enter' && currentAnswer && handleNext()}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter' && currentAnswer && parseInt(currentAnswer) >= 10000) handleNext();
+                  }}
                   autoFocus
                 />
+                {currentAnswer && parseInt(currentAnswer) < 10000 && (
+                  <p className="text-xs text-red-500 mt-2">Please enter your annual salary (e.g., 85000)</p>
+                )}
               </div>
             )}
 

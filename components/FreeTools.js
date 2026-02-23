@@ -10,7 +10,24 @@ export default function FreeTools() {
           100% free, no signup required. Used by thousands of professionals.
         </p>
 
-        <div className="grid md:grid-cols-2 gap-6">
+        <div className="grid md:grid-cols-3 gap-6">
+          {/* Salary Report Card */}
+          <a
+            href="/report"
+            className="group block bg-paper rounded-2xl border border-border p-8 text-left hover:border-accent/40 hover:shadow-lg transition-all"
+          >
+            <div className="text-4xl mb-4">📊</div>
+            <h3 className="font-serif text-xl mb-2 group-hover:text-accent transition-colors">
+              Free Salary Report
+            </h3>
+            <p className="text-muted text-sm mb-4">
+              Get a PDF report with verified salary data for your company and role — base, stock, bonus, and total comp by region.
+            </p>
+            <span className="text-accent font-semibold text-sm">
+              Get your report → Free PDF
+            </span>
+          </a>
+
           {/* Quiz Card */}
           <a
             href="/quiz"
