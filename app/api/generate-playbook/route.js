@@ -16,8 +16,12 @@ export async function POST(req) {
     const formData = await req.formData();
 
     const sessionId = formData.get('sessionId');
-    const type = formData.get('type'); // 'offer' or 'raise'
+    const type = formData.get('type');
     const data = JSON.parse(formData.get('formData'));
+
+    if (type !== 'offer' && type !== 'raise') {
+      return NextResponse.json({ error: 'Invalid playbook type.' }, { status: 400 });
+    }
 
     // Verify Stripe session is valid and paid
     const Stripe = (await import('stripe')).default;

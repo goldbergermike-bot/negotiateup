@@ -4,7 +4,11 @@ import Stripe from 'stripe';
 export async function POST(req) {
   try {
     const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
-    const { type } = await req.json(); // 'offer' or 'raise'
+    const { type } = await req.json();
+
+    if (type !== 'offer' && type !== 'raise') {
+      return NextResponse.json({ error: 'Invalid playbook type.' }, { status: 400 });
+    }
 
     const priceId = type === 'offer'
       ? process.env.STRIPE_PRICE_OFFER
@@ -25,6 +29,6 @@ export async function POST(req) {
     return NextResponse.json({ url: session.url });
   } catch (err) {
     console.error('Stripe checkout error:', err);
-    return NextResponse.json({ error: err.message }, { status: 500 });
+    return NextResponse.json({ error: 'Unable to create checkout session. Please try again.' }, { status: 500 });
   }
 }

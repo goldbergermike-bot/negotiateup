@@ -38,7 +38,7 @@ function estimateCounter(data) {
     walkAway,
     pctIncrease: Math.round(counterPct * 100),
     potentialGain: counter - offered,
-    lifetimeGain: (counter - offered) * 10, // rough 10-year compound
+    lifetimeGain: (counter - offered) * 10, // rough 10-year estimate (linear)
   };
 }
 
@@ -109,11 +109,11 @@ export default function CalculatorPage() {
                     <p className="font-serif text-2xl text-accent">+{formatSalary(result.potentialGain)}<span className="text-sm text-muted">/yr</span></p>
                   </div>
                   <div>
-                    <p className="text-xs text-muted">10-Year Impact (with raises)</p>
+                    <p className="text-xs text-muted">Estimated 10-Year Impact</p>
                     <p className="font-serif text-2xl text-accent">+{formatSalary(result.lifetimeGain)}</p>
                   </div>
                 </div>
-                <p className="text-xs text-muted mt-3 text-center">A higher base compounds every year through raises, bonuses, and 401k matches.</p>
+                <p className="text-xs text-muted mt-3 text-center">Estimate based on base salary difference over 10 years. Actual impact is likely higher with annual raises and bonuses.</p>
               </div>
 
               {/* What you DON'T get (upsell) */}

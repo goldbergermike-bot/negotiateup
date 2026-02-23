@@ -1,8 +1,26 @@
 'use client';
 
-import { useState, useEffect, Suspense } from 'react';
+import { useState, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Nav from '../../components/Nav';
+
+function CopyButton({ text, label }) {
+  const [copied, setCopied] = useState(false);
+  const handleCopy = async () => {
+    try {
+      await navigator.clipboard.writeText(text);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    } catch (e) {
+      // Clipboard API not available
+    }
+  };
+  return (
+    <button onClick={handleCopy} className="flex-1 bg-accent text-white py-3 rounded-xl font-semibold text-sm hover:bg-accent-glow transition-all">
+      {copied ? 'Copied!' : label}
+    </button>
+  );
+}
 
 function NewOfferContent() {
   const searchParams = useSearchParams();
@@ -112,15 +130,10 @@ function NewOfferContent() {
               <p className="text-xs text-muted mt-2">30% off → only $27.30 for their playbook</p>
             </div>
             <div className="mt-4 flex gap-2">
-              <button
-                onClick={() => {
-                  navigator.clipboard.writeText('Hey! I just used SalaryPrep to get a personalized salary negotiation playbook. Use code FIRST30 for 30% off → https://www.salaryprep.com');
-                  alert('Copied to clipboard!');
-                }}
-                className="flex-1 bg-accent text-white py-3 rounded-xl font-semibold text-sm hover:bg-accent-glow transition-all"
-              >
-                Copy Share Message
-              </button>
+              <CopyButton
+                text="Hey! I just used SalaryPrep to get a personalized salary negotiation playbook. Use code FIRST30 for 30% off → https://www.salaryprep.com"
+                label="Copy Share Message"
+              />
             </div>
           </div>
         </div>
